@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1107942" Lemma="быць" Tag="VXMN3" Govern="" Checked="+">
-        <Form Tag="0" Stress="быць" Checked="+">быць</Form>
-        <Form Tag="R1S" Stress="ёсць" Type="nonstandard" Checked="+">ёсць</Form>
-        <Form Tag="R1S" Stress="б{у}ду" Checked="+">буду</Form>
-        <Form Tag="R2S" Stress="ёсць" Type="nonstandard" Checked="+">ёсць</Form>
-        <Form Tag="R2S" Stress="б{у}дзеш" Checked="+">будзеш</Form>
-        <Form Tag="R3S" Stress="ёсць" Type="nonstandard" Checked="+">ёсць</Form>
-        <Form Tag="R3S" Stress="б{у}дзе" Checked="+">будзе</Form>
-        <Form Tag="R1P" Stress="ёсць" Type="nonstandard" Checked="+">ёсць</Form>
-        <Form Tag="R1P" Stress="б{у}дзем" Checked="+">будзем</Form>
-        <Form Tag="R2P" Stress="ёсць" Type="nonstandard" Checked="+">ёсць</Form>
-        <Form Tag="R2P" Stress="б{у}дзеце" Checked="+">будзеце</Form>
-        <Form Tag="R3P" Stress="ёсць" Type="nonstandard" Checked="+">ёсць</Form>
-        <Form Tag="R3P" Stress="б{у}дуць" Checked="+">будуць</Form>
-        <Form Tag="PXSM" Stress="быў" Checked="+">быў</Form>
-        <Form Tag="PXSF" Stress="был{а}" Checked="+">была</Form>
-        <Form Tag="PXSN" Stress="был{о}" Checked="+">было</Form>
-        <Form Tag="PXPX" Stress="был{і}" Checked="+">былі</Form>
-        <Form Tag="I2S" Stress="будзь" Checked="+">будзь</Form>
-        <Form Tag="I2P" Stress="б{у}дзьце" Checked="+">будзьце</Form>
-        <Form Tag="RG" Stress="б{у}дучы" Checked="+">будучы</Form>
+        <Form Tag="0" Checked="+">быць</Form>
+        <Form Tag="R1S" Type="nonstandard" Checked="+">ёсць</Form>
+        <Form Tag="R1S" Checked="+">бу´ду</Form>
+        <Form Tag="R2S" Type="nonstandard" Checked="+">ёсць</Form>
+        <Form Tag="R2S" Checked="+">бу´дзеш</Form>
+        <Form Tag="R3S" Type="nonstandard" Checked="+">ёсць</Form>
+        <Form Tag="R3S" Checked="+">бу´дзе</Form>
+        <Form Tag="R1P" Type="nonstandard" Checked="+">ёсць</Form>
+        <Form Tag="R1P" Checked="+">бу´дзем</Form>
+        <Form Tag="R2P" Type="nonstandard" Checked="+">ёсць</Form>
+        <Form Tag="R2P" Checked="+">бу´дзеце</Form>
+        <Form Tag="R3P" Type="nonstandard" Checked="+">ёсць</Form>
+        <Form Tag="R3P" Checked="+">бу´дуць</Form>
+        <Form Tag="PXSM" Checked="+">быў</Form>
+        <Form Tag="PXSF" Checked="+">была´</Form>
+        <Form Tag="PXSN" Checked="+">было´</Form>
+        <Form Tag="PXPX" Checked="+">былі´</Form>
+        <Form Tag="I2S" Checked="+">будзь</Form>
+        <Form Tag="I2P" Checked="+">бу´дзьце</Form>
+        <Form Tag="RG" Checked="+">бу´дучы</Form>
     </Paradigm>
     <Paradigm pdgId="1110634" Lemma="есці" Tag="VXMN3" Govern="" Checked="+">
-        <Form Tag="0" Stress="{е}сці" Checked="+">есці</Form>
-        <Form Tag="R1S" Stress="ем" Checked="+">ем</Form>
-        <Form Tag="R2S" Stress="яс{і}" Checked="+">ясі</Form>
-        <Form Tag="R3S" Stress="есць" Checked="+">есць</Form>
-        <Form Tag="R1P" Stress="ям{о}" Type="nonstandard" Checked="+">ямо</Form>
-        <Form Tag="R1P" Stress="ядз{і}м" Checked="+">ядзім</Form>
-        <Form Tag="R2P" Stress="ядз{і}це" Type="nonstandard" Checked="+">ядзіце</Form>
-        <Form Tag="R2P" Stress="ясц{е}" Checked="+">ясце</Form>
-        <Form Tag="R3P" Stress="яд{у}ць" Checked="+">ядуць</Form>
-        <Form Tag="PXSM" Stress="еў" Checked="+">еў</Form>
-        <Form Tag="PXSF" Stress="{е}ла" Checked="+">ела</Form>
-        <Form Tag="PXSN" Stress="{е}ла" Checked="+">ела</Form>
-        <Form Tag="PXPX" Stress="{е}лі" Checked="+">елі</Form>
-        <Form Tag="I2S" Stress="еш" Checked="+">еш</Form>
-        <Form Tag="I2S" Stress="еж" Checked="+">еж</Form>
-        <Form Tag="I2P" Stress="{е}шце" Type="nonstandard" Checked="+">ешце</Form>
-        <Form Tag="I2P" Stress="{е}жце" Checked="+">ежце</Form>
-        <Form Tag="RG" Stress="едуч{ы}" Checked="+">едучы</Form>
+        <Form Tag="0" Checked="+">е´сці</Form>
+        <Form Tag="R1S" Checked="+">ем</Form>
+        <Form Tag="R2S" Checked="+">ясі´</Form>
+        <Form Tag="R3S" Checked="+">есць</Form>
+        <Form Tag="R1P" Type="nonstandard" Checked="+">ямо´</Form>
+        <Form Tag="R1P" Checked="+">ядзі´м</Form>
+        <Form Tag="R2P" Type="nonstandard" Checked="+">ядзі´це</Form>
+        <Form Tag="R2P" Checked="+">ясце´</Form>
+        <Form Tag="R3P" Checked="+">яду´ць</Form>
+        <Form Tag="PXSM" Checked="+">еў</Form>
+        <Form Tag="PXSF" Checked="+">е´ла</Form>
+        <Form Tag="PXSN" Checked="+">е´ла</Form>
+        <Form Tag="PXPX" Checked="+">е´лі</Form>
+        <Form Tag="I2S" Checked="+">еш</Form>
+        <Form Tag="I2S" Checked="+">еж</Form>
+        <Form Tag="I2P" Type="nonstandard" Checked="+">е´шце</Form>
+        <Form Tag="I2P" Checked="+">е´жце</Form>
+        <Form Tag="RG" Checked="+">едучы´</Form>
     </Paradigm>
 </Wordlist>

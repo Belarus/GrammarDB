@@ -86,20 +86,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1037359" Lemma="Джульета" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Джульета</Form>
-        <Form Tag="GS">Джульеты</Form>
-        <Form Tag="DS">Джульеце</Form>
-        <Form Tag="AS">Джульету</Form>
-        <Form Tag="IS">Джульетай</Form>
-        <Form Tag="LS">Джульеце</Form>
-        <Form Tag="NP">Джульеты</Form>
-        <Form Tag="GP">Джульетаў</Form>
-        <Form Tag="DP">Джульетам</Form>
-        <Form Tag="AP">Джульетаў</Form>
-        <Form Tag="IP">Джульетамі</Form>
-        <Form Tag="LP">Джульетах</Form>
-    </Paradigm>
     <Paradigm pdgId="1037358" Lemma="Джулія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Джулія</Form>
         <Form Tag="GS">Джуліі</Form>
@@ -113,6 +99,20 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037359" Lemma="Джульета" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Джульета</Form>
+        <Form Tag="GS">Джульеты</Form>
+        <Form Tag="DS">Джульеце</Form>
+        <Form Tag="AS">Джульету</Form>
+        <Form Tag="IS">Джульетай</Form>
+        <Form Tag="LS">Джульеце</Form>
+        <Form Tag="NP">Джульеты</Form>
+        <Form Tag="GP">Джульетаў</Form>
+        <Form Tag="DP">Джульетам</Form>
+        <Form Tag="AP">Джульетаў</Form>
+        <Form Tag="IP">Джульетамі</Form>
+        <Form Tag="LP">Джульетах</Form>
     </Paradigm>
     <Paradigm pdgId="1037361" Lemma="Джэсіка" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Джэсіка</Form>
@@ -366,6 +366,20 @@
         <Form Tag="IP">Жаначкамі</Form>
         <Form Tag="LP">Жаначках</Form>
     </Paradigm>
+    <Paradigm pdgId="1037395" Lemma="Зінаіда" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Зінаіда</Form>
+        <Form Tag="GS">Зінаіды</Form>
+        <Form Tag="DS">Зінаідзе</Form>
+        <Form Tag="AS">Зінаіду</Form>
+        <Form Tag="IS">Зінаідай</Form>
+        <Form Tag="LS">Зінаідзе</Form>
+        <Form Tag="NP">Зінаіды</Form>
+        <Form Tag="GP">Зінаідаў</Form>
+        <Form Tag="DP">Зінаідам</Form>
+        <Form Tag="AP">Зінаідаў</Form>
+        <Form Tag="IP">Зінаідамі</Form>
+        <Form Tag="LP">Зінаідах</Form>
+    </Paradigm>
     <Paradigm pdgId="1037396" Lemma="Зоя" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Зоя</Form>
         <Form Tag="GS">Зоі</Form>
@@ -380,19 +394,89 @@
         <Form Tag="IP">Зоямі</Form>
         <Form Tag="LP">Зоях</Form>
     </Paradigm>
-    <Paradigm pdgId="1037395" Lemma="Зінаіда" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Зінаіда</Form>
-        <Form Tag="GS">Зінаіды</Form>
-        <Form Tag="DS">Зінаідзе</Form>
-        <Form Tag="AS">Зінаіду</Form>
-        <Form Tag="IS">Зінаідай</Form>
-        <Form Tag="LS">Зінаідзе</Form>
-        <Form Tag="NP">Зінаіды</Form>
-        <Form Tag="GP">Зінаідаў</Form>
-        <Form Tag="DP">Зінаідам</Form>
-        <Form Tag="AP">Зінаідаў</Form>
-        <Form Tag="IP">Зінаідамі</Form>
-        <Form Tag="LP">Зінаідах</Form>
+    <Paradigm pdgId="1037397" Lemma="Іванаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
+        <Form Tag="NS">Іванаўна</Form>
+        <Form Tag="GS">Іванаўны</Form>
+        <Form Tag="DS">Іванаўне</Form>
+        <Form Tag="AS">Іванаўну</Form>
+        <Form Tag="IS">Іванаўнай</Form>
+        <Form Tag="LS">Іванаўне</Form>
+        <Form Tag="NP">Іванаўны</Form>
+        <Form Tag="GP">Іванаўнаў</Form>
+        <Form Tag="DP">Іванаўнам</Form>
+        <Form Tag="AP">Іванаўнаў</Form>
+        <Form Tag="IP">Іванаўнамі</Form>
+        <Form Tag="LP">Іванаўнах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1037399" Lemma="Ілона" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Ілона</Form>
+        <Form Tag="GS">Ілоны</Form>
+        <Form Tag="DS">Ілоне</Form>
+        <Form Tag="AS">Ілону</Form>
+        <Form Tag="IS">Ілонай</Form>
+        <Form Tag="LS">Ілоне</Form>
+        <Form Tag="NP">Ілоны</Form>
+        <Form Tag="GP">Ілонаў</Form>
+        <Form Tag="DP">Ілонам</Form>
+        <Form Tag="AP">Ілонаў</Form>
+        <Form Tag="IP">Ілонамі</Form>
+        <Form Tag="LP">Ілонах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1037400" Lemma="Іна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Іна</Form>
+        <Form Tag="GS">Іны</Form>
+        <Form Tag="DS">Іне</Form>
+        <Form Tag="AS">Іну</Form>
+        <Form Tag="IS">Інай</Form>
+        <Form Tag="LS">Іне</Form>
+        <Form Tag="NP">Іны</Form>
+        <Form Tag="GP">Інаў</Form>
+        <Form Tag="DP">Інам</Form>
+        <Form Tag="AP">Інаў</Form>
+        <Form Tag="IP">Інамі</Form>
+        <Form Tag="LP">Інах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1037401" Lemma="Інга" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Інга</Form>
+        <Form Tag="GS">Інгі</Form>
+        <Form Tag="DS">Інзе</Form>
+        <Form Tag="AS">Інгу</Form>
+        <Form Tag="IS">Інгай</Form>
+        <Form Tag="LS">Інзе</Form>
+        <Form Tag="NP">Інгі</Form>
+        <Form Tag="GP">Інгаў</Form>
+        <Form Tag="DP">Інгам</Form>
+        <Form Tag="AP">Інгаў</Form>
+        <Form Tag="IP">Інгамі</Form>
+        <Form Tag="LP">Інгах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1037405" Lemma="Іпалітаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
+        <Form Tag="NS">Іпалітаўна</Form>
+        <Form Tag="GS">Іпалітаўны</Form>
+        <Form Tag="DS">Іпалітаўне</Form>
+        <Form Tag="AS">Іпалітаўну</Form>
+        <Form Tag="IS">Іпалітаўнай</Form>
+        <Form Tag="LS">Іпалітаўне</Form>
+        <Form Tag="NP">Іпалітаўны</Form>
+        <Form Tag="GP">Іпалітаўнаў</Form>
+        <Form Tag="DP">Іпалітаўнам</Form>
+        <Form Tag="AP">Іпалітаўнаў</Form>
+        <Form Tag="IP">Іпалітаўнамі</Form>
+        <Form Tag="LP">Іпалітаўнах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1037408" Lemma="Ірына" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Ірына</Form>
+        <Form Tag="GS">Ірыны</Form>
+        <Form Tag="DS">Ірыне</Form>
+        <Form Tag="AS">Ірыну</Form>
+        <Form Tag="IS">Ірынай</Form>
+        <Form Tag="LS">Ірыне</Form>
+        <Form Tag="NP">Ірыны</Form>
+        <Form Tag="GP">Ірын</Form>
+        <Form Tag="DP">Ірынам</Form>
+        <Form Tag="AP">Ірыны</Form>
+        <Form Tag="IP">Ірынамі</Form>
+        <Form Tag="LP">Ірынах</Form>
     </Paradigm>
     <Paradigm pdgId="1037424" Lemma="Каміла" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Каміла</Form>
@@ -632,48 +716,6 @@
         <Form Tag="IP">Ленамі</Form>
         <Form Tag="LP">Ленах</Form>
     </Paradigm>
-    <Paradigm pdgId="1019630" Lemma="Лора" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Лора</Form>
-        <Form Tag="GS">Лоры</Form>
-        <Form Tag="DS">Лоры</Form>
-        <Form Tag="AS">Лору</Form>
-        <Form Tag="IS">Лорай</Form>
-        <Form Tag="LS">Лоры</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1019670" Lemma="Людміла" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Людміла</Form>
-        <Form Tag="GS">Людмілы</Form>
-        <Form Tag="DS">Людміле</Form>
-        <Form Tag="AS">Людмілу</Form>
-        <Form Tag="IS">Людмілай</Form>
-        <Form Tag="LS">Людміле</Form>
-        <Form Tag="NP">Людмілы</Form>
-        <Form Tag="GP">Людміл</Form>
-        <Form Tag="DP">Людмілам</Form>
-        <Form Tag="AP">Людмілы</Form>
-        <Form Tag="IP">Людміламі</Form>
-        <Form Tag="LP">Людмілах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1019676" Lemma="Люсія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Люсія</Form>
-        <Form Tag="GS">Люсіі</Form>
-        <Form Tag="DS">Люсіі</Form>
-        <Form Tag="AS">Люсію</Form>
-        <Form Tag="IS">Люсіяй</Form>
-        <Form Tag="LS">Люсіі</Form>
-        <Form Tag="NP">Люсіі</Form>
-        <Form Tag="GP">Люсій</Form>
-        <Form Tag="DP">Люсіям</Form>
-        <Form Tag="AP">Люсій</Form>
-        <Form Tag="IP">Люсіямі</Form>
-        <Form Tag="LP">Люсіях</Form>
-    </Paradigm>
     <Paradigm pdgId="1019459" Lemma="Ліда" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Ліда</Form>
         <Form Tag="GS">Ліды</Form>
@@ -757,6 +799,48 @@
         <Form Tag="AP">Ліндаў</Form>
         <Form Tag="IP">Ліндамі</Form>
         <Form Tag="LP">Ліндах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1019630" Lemma="Лора" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Лора</Form>
+        <Form Tag="GS">Лоры</Form>
+        <Form Tag="DS">Лоры</Form>
+        <Form Tag="AS">Лору</Form>
+        <Form Tag="IS">Лорай</Form>
+        <Form Tag="LS">Лоры</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1019670" Lemma="Людміла" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Людміла</Form>
+        <Form Tag="GS">Людмілы</Form>
+        <Form Tag="DS">Людміле</Form>
+        <Form Tag="AS">Людмілу</Form>
+        <Form Tag="IS">Людмілай</Form>
+        <Form Tag="LS">Людміле</Form>
+        <Form Tag="NP">Людмілы</Form>
+        <Form Tag="GP">Людміл</Form>
+        <Form Tag="DP">Людмілам</Form>
+        <Form Tag="AP">Людмілы</Form>
+        <Form Tag="IP">Людміламі</Form>
+        <Form Tag="LP">Людмілах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1019676" Lemma="Люсія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Люсія</Form>
+        <Form Tag="GS">Люсіі</Form>
+        <Form Tag="DS">Люсіі</Form>
+        <Form Tag="AS">Люсію</Form>
+        <Form Tag="IS">Люсіяй</Form>
+        <Form Tag="LS">Люсіі</Form>
+        <Form Tag="NP">Люсіі</Form>
+        <Form Tag="GP">Люсій</Form>
+        <Form Tag="DP">Люсіям</Form>
+        <Form Tag="AP">Люсій</Form>
+        <Form Tag="IP">Люсіямі</Form>
+        <Form Tag="LP">Люсіях</Form>
     </Paradigm>
     <Paradigm pdgId="1019802" Lemma="Магдалена" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Магдалена</Form>
@@ -856,20 +940,6 @@
         <Form Tag="IP">Машамі</Form>
         <Form Tag="LP">Машах</Form>
     </Paradigm>
-    <Paradigm pdgId="1020119" Lemma="Моніка" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Моніка</Form>
-        <Form Tag="GS">Монікі</Form>
-        <Form Tag="DS">Моніцы</Form>
-        <Form Tag="AS">Моніку</Form>
-        <Form Tag="IS">Монікай</Form>
-        <Form Tag="LS">Моніцы</Form>
-        <Form Tag="NP">Монікі</Form>
-        <Form Tag="GP">Монік</Form>
-        <Form Tag="DP">Монікам</Form>
-        <Form Tag="AP">Монік</Form>
-        <Form Tag="IP">Монікамі</Form>
-        <Form Tag="LP">Моніках</Form>
-    </Paradigm>
     <Paradigm pdgId="1019720" Lemma="Мікалаеўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
         <Form Tag="NS">Мікалаеўна</Form>
         <Form Tag="GS">Мікалаеўны</Form>
@@ -897,6 +967,20 @@
         <Form Tag="AP">Міхайлаўнаў</Form>
         <Form Tag="IP">Міхайлаўнамі</Form>
         <Form Tag="LP">Міхайлаўнах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1020119" Lemma="Моніка" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Моніка</Form>
+        <Form Tag="GS">Монікі</Form>
+        <Form Tag="DS">Моніцы</Form>
+        <Form Tag="AS">Моніку</Form>
+        <Form Tag="IS">Монікай</Form>
+        <Form Tag="LS">Моніцы</Form>
+        <Form Tag="NP">Монікі</Form>
+        <Form Tag="GP">Монік</Form>
+        <Form Tag="DP">Монікам</Form>
+        <Form Tag="AP">Монік</Form>
+        <Form Tag="IP">Монікамі</Form>
+        <Form Tag="LP">Моніках</Form>
     </Paradigm>
     <Paradigm pdgId="1020278" Lemma="Надзя" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Надзя</Form>
@@ -940,6 +1024,20 @@
         <Form Tag="IP">Насцямі</Form>
         <Form Tag="LP">Насцях</Form>
     </Paradigm>
+    <Paradigm pdgId="1020370" Lemma="Наталія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Наталія</Form>
+        <Form Tag="GS">Наталіі</Form>
+        <Form Tag="DS">Наталіі</Form>
+        <Form Tag="AS">Наталію</Form>
+        <Form Tag="IS">Наталіяй</Form>
+        <Form Tag="LS">Наталіі</Form>
+        <Form Tag="NP">Наталіі</Form>
+        <Form Tag="GP">Наталій</Form>
+        <Form Tag="DP">Наталіям</Form>
+        <Form Tag="AP">Наталіі</Form>
+        <Form Tag="IP">Наталіямі</Form>
+        <Form Tag="LP">Наталіях</Form>
+    </Paradigm>
     <Paradigm pdgId="1020371" Lemma="Наталка" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Наталка</Form>
         <Form Tag="GS">Наталкі</Form>
@@ -967,20 +1065,6 @@
         <Form Tag="AP">Наталляў</Form>
         <Form Tag="IP">Наталлямі</Form>
         <Form Tag="LP">Наталлях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1020370" Lemma="Наталія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Наталія</Form>
-        <Form Tag="GS">Наталіі</Form>
-        <Form Tag="DS">Наталіі</Form>
-        <Form Tag="AS">Наталію</Form>
-        <Form Tag="IS">Наталіяй</Form>
-        <Form Tag="LS">Наталіі</Form>
-        <Form Tag="NP">Наталіі</Form>
-        <Form Tag="GP">Наталій</Form>
-        <Form Tag="DP">Наталіям</Form>
-        <Form Tag="AP">Наталіі</Form>
-        <Form Tag="IP">Наталіямі</Form>
-        <Form Tag="LP">Наталіях</Form>
     </Paradigm>
     <Paradigm pdgId="1020375" Lemma="Наташа" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Наташа</Form>
@@ -1206,6 +1290,34 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1127742" Lemma="Сёмуха" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+        <Form Tag="NS">Сёмуха</Form>
+        <Form Tag="GS">Сёмухі</Form>
+        <Form Tag="DS">Сёмусе</Form>
+        <Form Tag="AS">Сёмуху</Form>
+        <Form Tag="IS">Сёмухай</Form>
+        <Form Tag="LS">Сёмусе</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1022545" Lemma="Сільва" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Сільва</Form>
+        <Form Tag="GS">Сільвы</Form>
+        <Form Tag="DS">Сільве</Form>
+        <Form Tag="AS">Сільву</Form>
+        <Form Tag="IS">Сільвай</Form>
+        <Form Tag="LS">Сільве</Form>
+        <Form Tag="NP">Сільвы</Form>
+        <Form Tag="GP">Сільваў</Form>
+        <Form Tag="DP">Сільвам</Form>
+        <Form Tag="AP">Сільваў</Form>
+        <Form Tag="IP">Сільвамі</Form>
+        <Form Tag="LP">Сільвах</Form>
+    </Paradigm>
     <Paradigm pdgId="1127064" Lemma="Соня" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Соня</Form>
         <Form Tag="GS">Соні</Form>
@@ -1234,33 +1346,19 @@
         <Form Tag="IP">Соф'ямі</Form>
         <Form Tag="LP">Соф'ях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127742" Lemma="Сёмуха" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Form Tag="NS">Сёмуха</Form>
-        <Form Tag="GS">Сёмухі</Form>
-        <Form Tag="DS">Сёмусе</Form>
-        <Form Tag="AS">Сёмуху</Form>
-        <Form Tag="IS">Сёмухай</Form>
-        <Form Tag="LS">Сёмусе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1022545" Lemma="Сільва" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Сільва</Form>
-        <Form Tag="GS">Сільвы</Form>
-        <Form Tag="DS">Сільве</Form>
-        <Form Tag="AS">Сільву</Form>
-        <Form Tag="IS">Сільвай</Form>
-        <Form Tag="LS">Сільве</Form>
-        <Form Tag="NP">Сільвы</Form>
-        <Form Tag="GP">Сільваў</Form>
-        <Form Tag="DP">Сільвам</Form>
-        <Form Tag="AP">Сільваў</Form>
-        <Form Tag="IP">Сільвамі</Form>
-        <Form Tag="LP">Сільвах</Form>
+    <Paradigm pdgId="1023434" Lemma="Таісія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Таісія</Form>
+        <Form Tag="GS">Таісіі</Form>
+        <Form Tag="DS">Таісіі</Form>
+        <Form Tag="AS">Таісію</Form>
+        <Form Tag="IS">Таісіяй</Form>
+        <Form Tag="LS">Таісіі</Form>
+        <Form Tag="NP">Таісіі</Form>
+        <Form Tag="GP">Таісій</Form>
+        <Form Tag="DP">Таісіям</Form>
+        <Form Tag="AP">Таісій</Form>
+        <Form Tag="IP">Таісіямі</Form>
+        <Form Tag="LP">Таісіях</Form>
     </Paradigm>
     <Paradigm pdgId="1023478" Lemma="Тамара" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Тамара</Form>
@@ -1304,20 +1402,6 @@
         <Form Tag="IP">Таццянамі</Form>
         <Form Tag="LP">Таццянах</Form>
     </Paradigm>
-    <Paradigm pdgId="1023434" Lemma="Таісія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Таісія</Form>
-        <Form Tag="GS">Таісіі</Form>
-        <Form Tag="DS">Таісіі</Form>
-        <Form Tag="AS">Таісію</Form>
-        <Form Tag="IS">Таісіяй</Form>
-        <Form Tag="LS">Таісіі</Form>
-        <Form Tag="NP">Таісіі</Form>
-        <Form Tag="GP">Таісій</Form>
-        <Form Tag="DP">Таісіям</Form>
-        <Form Tag="AP">Таісій</Form>
-        <Form Tag="IP">Таісіямі</Form>
-        <Form Tag="LP">Таісіях</Form>
-    </Paradigm>
     <Paradigm pdgId="1023582" Lemma="Тоня" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Тоня</Form>
         <Form Tag="GS">Тоні</Form>
@@ -1360,6 +1444,20 @@
         <Form Tag="IP">Уладзіміраўнамі</Form>
         <Form Tag="LP">Уладзіміраўнах</Form>
     </Paradigm>
+    <Paradigm pdgId="1024288" Lemma="Фёдараўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
+        <Form Tag="NS">Фёдараўна</Form>
+        <Form Tag="GS">Фёдараўны</Form>
+        <Form Tag="DS">Фёдараўне</Form>
+        <Form Tag="AS">Фёдараўну</Form>
+        <Form Tag="IS">Фёдараўнай</Form>
+        <Form Tag="LS">Фёдараўне</Form>
+        <Form Tag="NP">Фёдараўны</Form>
+        <Form Tag="GP">Фёдараўнаў</Form>
+        <Form Tag="DP">Фёдараўнам</Form>
+        <Form Tag="AP">Фёдараўнаў</Form>
+        <Form Tag="IP">Фёдараўнамі</Form>
+        <Form Tag="LP">Фёдараўнах</Form>
+    </Paradigm>
     <Paradigm pdgId="1037324" Lemma="Францыска" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Францыска</Form>
         <Form Tag="GS">Францыска</Form>
@@ -1387,20 +1485,6 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1024288" Lemma="Фёдараўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
-        <Form Tag="NS">Фёдараўна</Form>
-        <Form Tag="GS">Фёдараўны</Form>
-        <Form Tag="DS">Фёдараўне</Form>
-        <Form Tag="AS">Фёдараўну</Form>
-        <Form Tag="IS">Фёдараўнай</Form>
-        <Form Tag="LS">Фёдараўне</Form>
-        <Form Tag="NP">Фёдараўны</Form>
-        <Form Tag="GP">Фёдараўнаў</Form>
-        <Form Tag="DP">Фёдараўнам</Form>
-        <Form Tag="AP">Фёдараўнаў</Form>
-        <Form Tag="IP">Фёдараўнамі</Form>
-        <Form Tag="LP">Фёдараўнах</Form>
     </Paradigm>
     <Paradigm pdgId="1024707" Lemma="Хрысціна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Хрысціна</Form>
@@ -1500,20 +1584,6 @@
         <Form Tag="IP">Юзэфамі</Form>
         <Form Tag="LP">Юзэфах</Form>
     </Paradigm>
-    <Paradigm pdgId="1025332" Lemma="Юля" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Юля</Form>
-        <Form Tag="GS">Юлі</Form>
-        <Form Tag="DS">Юлі</Form>
-        <Form Tag="AS">Юлю</Form>
-        <Form Tag="IS">Юляй</Form>
-        <Form Tag="LS">Юлі</Form>
-        <Form Tag="NP">Юлі</Form>
-        <Form Tag="GP">Юль</Form>
-        <Form Tag="DP">Юлям</Form>
-        <Form Tag="AP">Юль</Form>
-        <Form Tag="IP">Юлямі</Form>
-        <Form Tag="LP">Юлях</Form>
-    </Paradigm>
     <Paradigm pdgId="1025331" Lemma="Юлія" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Юлія</Form>
         <Form Tag="GS">Юліі</Form>
@@ -1527,6 +1597,20 @@
         <Form Tag="AP">Юліяў</Form>
         <Form Tag="IP">Юліямі</Form>
         <Form Tag="LP">Юліях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1025332" Lemma="Юля" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS">Юля</Form>
+        <Form Tag="GS">Юлі</Form>
+        <Form Tag="DS">Юлі</Form>
+        <Form Tag="AS">Юлю</Form>
+        <Form Tag="IS">Юляй</Form>
+        <Form Tag="LS">Юлі</Form>
+        <Form Tag="NP">Юлі</Form>
+        <Form Tag="GP">Юль</Form>
+        <Form Tag="DP">Юлям</Form>
+        <Form Tag="AP">Юль</Form>
+        <Form Tag="IP">Юлямі</Form>
+        <Form Tag="LP">Юлях</Form>
     </Paradigm>
     <Paradigm pdgId="1025360" Lemma="Ягораўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
         <Form Tag="NS">Ягораўна</Form>
@@ -1584,34 +1668,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1025400" Lemma="Яфрэмаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
-        <Form Tag="NS">Яфрэмаўна</Form>
-        <Form Tag="GS">Яфрэмаўны</Form>
-        <Form Tag="DS">Яфрэмаўне</Form>
-        <Form Tag="AS">Яфрэмаўну</Form>
-        <Form Tag="IS">Яфрэмаўнай</Form>
-        <Form Tag="LS">Яфрэмаўне</Form>
-        <Form Tag="NP">Яфрэмаўны</Form>
-        <Form Tag="GP">Яфрэмаўнаў</Form>
-        <Form Tag="DP">Яфрэмаўнам</Form>
-        <Form Tag="AP">Яфрэмаўнаў</Form>
-        <Form Tag="IP">Яфрэмаўнамі</Form>
-        <Form Tag="LP">Яфрэмаўнах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1025399" Lemma="Яфімаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
-        <Form Tag="NS">Яфімаўна</Form>
-        <Form Tag="GS">Яфімаўны</Form>
-        <Form Tag="DS">Яфімаўне</Form>
-        <Form Tag="AS">Яфімаўну</Form>
-        <Form Tag="IS">Яфімаўнай</Form>
-        <Form Tag="LS">Яфімаўне</Form>
-        <Form Tag="NP">Яфімаўны</Form>
-        <Form Tag="GP">Яфімаўнаў</Form>
-        <Form Tag="DP">Яфімаўнам</Form>
-        <Form Tag="AP">Яфімаўнаў</Form>
-        <Form Tag="IP">Яфімаўнамі</Form>
-        <Form Tag="LP">Яфімаўнах</Form>
-    </Paradigm>
     <Paradigm pdgId="1025346" Lemma="Яўгенаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
         <Form Tag="NS">Яўгенаўна</Form>
         <Form Tag="GS">Яўгенаўны</Form>
@@ -1668,88 +1724,32 @@
         <Form Tag="IP">Яўхімаўнамі</Form>
         <Form Tag="LP">Яўхімаўнах</Form>
     </Paradigm>
-    <Paradigm pdgId="1037397" Lemma="Іванаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
-        <Form Tag="NS">Іванаўна</Form>
-        <Form Tag="GS">Іванаўны</Form>
-        <Form Tag="DS">Іванаўне</Form>
-        <Form Tag="AS">Іванаўну</Form>
-        <Form Tag="IS">Іванаўнай</Form>
-        <Form Tag="LS">Іванаўне</Form>
-        <Form Tag="NP">Іванаўны</Form>
-        <Form Tag="GP">Іванаўнаў</Form>
-        <Form Tag="DP">Іванаўнам</Form>
-        <Form Tag="AP">Іванаўнаў</Form>
-        <Form Tag="IP">Іванаўнамі</Form>
-        <Form Tag="LP">Іванаўнах</Form>
+    <Paradigm pdgId="1025399" Lemma="Яфімаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
+        <Form Tag="NS">Яфімаўна</Form>
+        <Form Tag="GS">Яфімаўны</Form>
+        <Form Tag="DS">Яфімаўне</Form>
+        <Form Tag="AS">Яфімаўну</Form>
+        <Form Tag="IS">Яфімаўнай</Form>
+        <Form Tag="LS">Яфімаўне</Form>
+        <Form Tag="NP">Яфімаўны</Form>
+        <Form Tag="GP">Яфімаўнаў</Form>
+        <Form Tag="DP">Яфімаўнам</Form>
+        <Form Tag="AP">Яфімаўнаў</Form>
+        <Form Tag="IP">Яфімаўнамі</Form>
+        <Form Tag="LP">Яфімаўнах</Form>
     </Paradigm>
-    <Paradigm pdgId="1037399" Lemma="Ілона" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Ілона</Form>
-        <Form Tag="GS">Ілоны</Form>
-        <Form Tag="DS">Ілоне</Form>
-        <Form Tag="AS">Ілону</Form>
-        <Form Tag="IS">Ілонай</Form>
-        <Form Tag="LS">Ілоне</Form>
-        <Form Tag="NP">Ілоны</Form>
-        <Form Tag="GP">Ілонаў</Form>
-        <Form Tag="DP">Ілонам</Form>
-        <Form Tag="AP">Ілонаў</Form>
-        <Form Tag="IP">Ілонамі</Form>
-        <Form Tag="LP">Ілонах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037400" Lemma="Іна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Іна</Form>
-        <Form Tag="GS">Іны</Form>
-        <Form Tag="DS">Іне</Form>
-        <Form Tag="AS">Іну</Form>
-        <Form Tag="IS">Інай</Form>
-        <Form Tag="LS">Іне</Form>
-        <Form Tag="NP">Іны</Form>
-        <Form Tag="GP">Інаў</Form>
-        <Form Tag="DP">Інам</Form>
-        <Form Tag="AP">Інаў</Form>
-        <Form Tag="IP">Інамі</Form>
-        <Form Tag="LP">Інах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037401" Lemma="Інга" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Інга</Form>
-        <Form Tag="GS">Інгі</Form>
-        <Form Tag="DS">Інзе</Form>
-        <Form Tag="AS">Інгу</Form>
-        <Form Tag="IS">Інгай</Form>
-        <Form Tag="LS">Інзе</Form>
-        <Form Tag="NP">Інгі</Form>
-        <Form Tag="GP">Інгаў</Form>
-        <Form Tag="DP">Інгам</Form>
-        <Form Tag="AP">Інгаў</Form>
-        <Form Tag="IP">Інгамі</Form>
-        <Form Tag="LP">Інгах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037405" Lemma="Іпалітаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
-        <Form Tag="NS">Іпалітаўна</Form>
-        <Form Tag="GS">Іпалітаўны</Form>
-        <Form Tag="DS">Іпалітаўне</Form>
-        <Form Tag="AS">Іпалітаўну</Form>
-        <Form Tag="IS">Іпалітаўнай</Form>
-        <Form Tag="LS">Іпалітаўне</Form>
-        <Form Tag="NP">Іпалітаўны</Form>
-        <Form Tag="GP">Іпалітаўнаў</Form>
-        <Form Tag="DP">Іпалітаўнам</Form>
-        <Form Tag="AP">Іпалітаўнаў</Form>
-        <Form Tag="IP">Іпалітаўнамі</Form>
-        <Form Tag="LP">Іпалітаўнах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037408" Lemma="Ірына" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS">Ірына</Form>
-        <Form Tag="GS">Ірыны</Form>
-        <Form Tag="DS">Ірыне</Form>
-        <Form Tag="AS">Ірыну</Form>
-        <Form Tag="IS">Ірынай</Form>
-        <Form Tag="LS">Ірыне</Form>
-        <Form Tag="NP">Ірыны</Form>
-        <Form Tag="GP">Ірын</Form>
-        <Form Tag="DP">Ірынам</Form>
-        <Form Tag="AP">Ірыны</Form>
-        <Form Tag="IP">Ірынамі</Form>
-        <Form Tag="LP">Ірынах</Form>
+    <Paradigm pdgId="1025400" Lemma="Яфрэмаўна" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
+        <Form Tag="NS">Яфрэмаўна</Form>
+        <Form Tag="GS">Яфрэмаўны</Form>
+        <Form Tag="DS">Яфрэмаўне</Form>
+        <Form Tag="AS">Яфрэмаўну</Form>
+        <Form Tag="IS">Яфрэмаўнай</Form>
+        <Form Tag="LS">Яфрэмаўне</Form>
+        <Form Tag="NP">Яфрэмаўны</Form>
+        <Form Tag="GP">Яфрэмаўнаў</Form>
+        <Form Tag="DP">Яфрэмаўнам</Form>
+        <Form Tag="AP">Яфрэмаўнаў</Form>
+        <Form Tag="IP">Яфрэмаўнамі</Form>
+        <Form Tag="LP">Яфрэмаўнах</Form>
     </Paradigm>
 </Wordlist>

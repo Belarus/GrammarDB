@@ -16,6 +16,14 @@
         <Form Tag="IP">абдымкамі</Form>
         <Form Tag="LP">абдымках</Form>
     </Paradigm>
+    <Paradigm pdgId="1127154" Lemma="абіркі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">абіркі</Form>
+        <Form Tag="GP">абіркаў</Form>
+        <Form Tag="DP">абіркам</Form>
+        <Form Tag="AP">абіркі</Form>
+        <Form Tag="IP">абіркамі</Form>
+        <Form Tag="LP">абірках</Form>
+    </Paradigm>
     <Paradigm pdgId="1127156" Lemma="абоймы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">абоймы</Form>
         <Form Tag="GP">абоймаў</Form>
@@ -48,14 +56,6 @@
         <Form Tag="AP">абштрыхі</Form>
         <Form Tag="IP">абштрыхамі</Form>
         <Form Tag="LP">абштрыхах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127154" Lemma="абіркі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">абіркі</Form>
-        <Form Tag="GP">абіркаў</Form>
-        <Form Tag="DP">абіркам</Form>
-        <Form Tag="AP">абіркі</Form>
-        <Form Tag="IP">абіркамі</Form>
-        <Form Tag="LP">абірках</Form>
     </Paradigm>
     <Paradigm pdgId="1127160" Lemma="авіязносіны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">авіязносіны</Form>
@@ -153,14 +153,6 @@
         <Form Tag="IP">атопкамі</Form>
         <Form Tag="LP">атопках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127171" Lemma="аэрасанкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">аэрасанкі</Form>
-        <Form Tag="GP">аэрасанкаў</Form>
-        <Form Tag="DP">аэрасанкам</Form>
-        <Form Tag="AP">аэрасанкі</Form>
-        <Form Tag="IP">аэрасанкамі</Form>
-        <Form Tag="LP">аэрасанках</Form>
-    </Paradigm>
     <Paradigm pdgId="1127152" Lemma="аўтасанкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">аўтасанкі</Form>
         <Form Tag="GP">аўтасанкаў</Form>
@@ -169,6 +161,14 @@
         <Form Tag="IP">аўтасанкамі</Form>
         <Form Tag="LP">аўтасанках</Form>
     </Paradigm>
+    <Paradigm pdgId="1127171" Lemma="аэрасанкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">аэрасанкі</Form>
+        <Form Tag="GP">аэрасанкаў</Form>
+        <Form Tag="DP">аэрасанкам</Form>
+        <Form Tag="AP">аэрасанкі</Form>
+        <Form Tag="IP">аэрасанкамі</Form>
+        <Form Tag="LP">аэрасанках</Form>
+    </Paradigm>
     <Paradigm pdgId="1127172" Lemma="багаткі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">багаткі</Form>
         <Form Tag="GP">багаткаў</Form>
@@ -176,6 +176,14 @@
         <Form Tag="AP">багаткі</Form>
         <Form Tag="IP">багаткамі</Form>
         <Form Tag="LP">багатках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127390" Lemma="бігудзі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">бігудзі</Form>
+        <Form Tag="GP">бігудзей</Form>
+        <Form Tag="DP">бігудзям</Form>
+        <Form Tag="AP">бігудзей</Form>
+        <Form Tag="IP">бігудзьмі</Form>
+        <Form Tag="LP">бігудзях</Form>
     </Paradigm>
     <Paradigm pdgId="1127173" Lemma="блізняты" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">блізняты</Form>
@@ -217,14 +225,6 @@
         <Form Tag="IP">бяліламі</Form>
         <Form Tag="LP">бялілах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127390" Lemma="бігудзі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">бігудзі</Form>
-        <Form Tag="GP">бігудзей</Form>
-        <Form Tag="DP">бігудзям</Form>
-        <Form Tag="AP">бігудзей</Form>
-        <Form Tag="IP">бігудзьмі</Form>
-        <Form Tag="LP">бігудзях</Form>
-    </Paradigm>
     <Paradigm pdgId="1127179" Lemma="вагонасуткі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">вагонасуткі</Form>
         <Form Tag="GP">вагонасутак</Form>
@@ -241,6 +241,14 @@
         <Form Tag="IP">вакацыямі</Form>
         <Form Tag="LP">вакацыях</Form>
     </Paradigm>
+    <Paradigm pdgId="1127181" Lemma="ваніты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">ваніты</Form>
+        <Form Tag="GP">ванітаў</Form>
+        <Form Tag="DP">ванітам</Form>
+        <Form Tag="AP">ваніты</Form>
+        <Form Tag="IP">ванітамі</Form>
+        <Form Tag="LP">ванітах</Form>
+    </Paradigm>
     <Paradigm pdgId="1127182" Lemma="вантробы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">вантробы</Form>
         <Form Tag="GP">вантробаў</Form>
@@ -256,14 +264,6 @@
         <Form Tag="AP">ванты</Form>
         <Form Tag="IP">вантамі</Form>
         <Form Tag="LP">вантах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127181" Lemma="ваніты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ваніты</Form>
-        <Form Tag="GP">ванітаў</Form>
-        <Form Tag="DP">ванітам</Form>
-        <Form Tag="AP">ваніты</Form>
-        <Form Tag="IP">ванітамі</Form>
-        <Form Tag="LP">ванітах</Form>
     </Paradigm>
     <Paradigm pdgId="1127184" Lemma="варожкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">варожкі</Form>
@@ -322,6 +322,14 @@
         <Form Tag="IP">веснічкамі</Form>
         <Form Tag="LP">веснічках</Form>
     </Paradigm>
+    <Paradigm pdgId="1127178" Lemma="вілы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">вілы</Form>
+        <Form Tag="GP">вілаў</Form>
+        <Form Tag="DP">вілам</Form>
+        <Form Tag="AP">вілы</Form>
+        <Form Tag="IP">віламі</Form>
+        <Form Tag="LP">вілах</Form>
+    </Paradigm>
     <Paradigm pdgId="1127191" Lemma="ворлікі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">ворлікі</Form>
         <Form Tag="GP">ворлікаў</Form>
@@ -361,14 +369,6 @@
         <Form Tag="AP">вымудры</Form>
         <Form Tag="IP">вымудрамі</Form>
         <Form Tag="LP">вымудрах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127178" Lemma="вілы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вілы</Form>
-        <Form Tag="GP">вілаў</Form>
-        <Form Tag="DP">вілам</Form>
-        <Form Tag="AP">вілы</Form>
-        <Form Tag="IP">віламі</Form>
-        <Form Tag="LP">вілах</Form>
     </Paradigm>
     <Paradigm pdgId="1127196" Lemma="гадзінічкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">гадзінічкі</Form>
@@ -719,6 +719,14 @@
         <Form Tag="IP">засеўкамі</Form>
         <Form Tag="LP">засеўках</Form>
     </Paradigm>
+    <Paradigm pdgId="1127232" Lemma="зёлкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">зёлкі</Form>
+        <Form Tag="GP">зёлкаў</Form>
+        <Form Tag="DP">зёлкам</Form>
+        <Form Tag="AP">зёлкі</Form>
+        <Form Tag="IP">зёлкамі</Form>
+        <Form Tag="LP">зёлках</Form>
+    </Paradigm>
     <Paradigm pdgId="1127240" Lemma="зносіны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">зносіны</Form>
         <Form Tag="GP">зносін</Form>
@@ -744,13 +752,14 @@
         <Form Tag="IP">зрэбнікамі</Form>
         <Form Tag="LP">зрэбніках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127232" Lemma="зёлкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">зёлкі</Form>
-        <Form Tag="GP">зёлкаў</Form>
-        <Form Tag="DP">зёлкам</Form>
-        <Form Tag="AP">зёлкі</Form>
-        <Form Tag="IP">зёлкамі</Form>
-        <Form Tag="LP">зёлках</Form>
+    <Paradigm pdgId="1127389" Lemma="імяніны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">імяніны</Form>
+        <Form Tag="GP">імянінаў</Form>
+        <Form Tag="GP">імянін</Form>
+        <Form Tag="DP">імянінам</Form>
+        <Form Tag="AP">імяніны</Form>
+        <Form Tag="IP">імянінамі</Form>
+        <Form Tag="LP">імянінах</Form>
     </Paradigm>
     <Paradigm pdgId="1127243" Lemma="кайданы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">кайданы</Form>
@@ -768,14 +777,6 @@
         <Form Tag="IP">калготкамі</Form>
         <Form Tag="LP">калготках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127246" Lemma="калюмны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">калюмны</Form>
-        <Form Tag="GP">калюмнаў</Form>
-        <Form Tag="DP">калюмнам</Form>
-        <Form Tag="AP">калюмны</Form>
-        <Form Tag="IP">калюмнамі</Form>
-        <Form Tag="LP">калюмнах</Form>
-    </Paradigm>
     <Paradigm pdgId="1127244" Lemma="калёсы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">калёсы</Form>
         <Form Tag="GP">калёс</Form>
@@ -784,6 +785,14 @@
         <Form Tag="AP">калёсы</Form>
         <Form Tag="IP">калёсамі</Form>
         <Form Tag="LP">калёсах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127246" Lemma="калюмны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">калюмны</Form>
+        <Form Tag="GP">калюмнаў</Form>
+        <Form Tag="DP">калюмнам</Form>
+        <Form Tag="AP">калюмны</Form>
+        <Form Tag="IP">калюмнамі</Form>
+        <Form Tag="LP">калюмнах</Form>
     </Paradigm>
     <Paradigm pdgId="1161024" Lemma="камплектуючыя" Tag="NCXXNXX">
         <Form Tag="NS"></Form>
@@ -969,14 +978,6 @@
         <Form Tag="IP">лескамі</Form>
         <Form Tag="LP">лесках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127269" Lemma="людцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">людцы</Form>
-        <Form Tag="GP">людцаў</Form>
-        <Form Tag="DP">людцам</Form>
-        <Form Tag="AP">людцаў</Form>
-        <Form Tag="IP">людцамі</Form>
-        <Form Tag="LP">людцах</Form>
-    </Paradigm>
     <Paradigm pdgId="1127263" Lemma="ліскі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">ліскі</Form>
         <Form Tag="GP">ліскаў</Form>
@@ -984,6 +985,14 @@
         <Form Tag="AP">ліскі</Form>
         <Form Tag="IP">ліскамі</Form>
         <Form Tag="LP">лісках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127269" Lemma="людцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">людцы</Form>
+        <Form Tag="GP">людцаў</Form>
+        <Form Tag="DP">людцам</Form>
+        <Form Tag="AP">людцаў</Form>
+        <Form Tag="IP">людцамі</Form>
+        <Form Tag="LP">людцах</Form>
     </Paradigm>
     <Paradigm pdgId="1127272" Lemma="маніцы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">маніцы</Form>
@@ -1025,6 +1034,22 @@
         <Form Tag="IP">метэаўмовамі</Form>
         <Form Tag="LP">метэаўмовах</Form>
     </Paradigm>
+    <Paradigm pdgId="1127270" Lemma="мікрашалі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">мікрашалі</Form>
+        <Form Tag="GP">мікрашаляў</Form>
+        <Form Tag="DP">мікрашалям</Form>
+        <Form Tag="AP">мікрашалі</Form>
+        <Form Tag="IP">мікрашалямі</Form>
+        <Form Tag="LP">мікрашалях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127271" Lemma="мінводы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">мінводы</Form>
+        <Form Tag="GP">мінводаў</Form>
+        <Form Tag="DP">мінводам</Form>
+        <Form Tag="AP">мінводы</Form>
+        <Form Tag="IP">мінводамі</Form>
+        <Form Tag="LP">мінводах</Form>
+    </Paradigm>
     <Paradigm pdgId="1127278" Lemma="могілкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">могілкі</Form>
         <Form Tag="GP">могілкаў</Form>
@@ -1056,22 +1081,6 @@
         <Form Tag="AP">мэтлахі</Form>
         <Form Tag="IP">мэтлахамі</Form>
         <Form Tag="LP">мэтлахах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127270" Lemma="мікрашалі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">мікрашалі</Form>
-        <Form Tag="GP">мікрашаляў</Form>
-        <Form Tag="DP">мікрашалям</Form>
-        <Form Tag="AP">мікрашалі</Form>
-        <Form Tag="IP">мікрашалямі</Form>
-        <Form Tag="LP">мікрашалях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127271" Lemma="мінводы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">мінводы</Form>
-        <Form Tag="GP">мінводаў</Form>
-        <Form Tag="DP">мінводам</Form>
-        <Form Tag="AP">мінводы</Form>
-        <Form Tag="IP">мінводамі</Form>
-        <Form Tag="LP">мінводах</Form>
     </Paradigm>
     <Paradigm pdgId="1127283" Lemma="набадры" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">набадры</Form>
@@ -1328,6 +1337,14 @@
         <Form Tag="IP">перамовамі</Form>
         <Form Tag="LP">перамовах</Form>
     </Paradigm>
+    <Paradigm pdgId="1127298" Lemma="пісьмёны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">пісьмёны</Form>
+        <Form Tag="GP">пісьмёнаў</Form>
+        <Form Tag="DP">пісьмёнам</Form>
+        <Form Tag="AP">пісьмёны</Form>
+        <Form Tag="IP">пісьмёнамі</Form>
+        <Form Tag="LP">пісьмёнах</Form>
+    </Paradigm>
     <Paradigm pdgId="1127313" Lemma="портачкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">портачкі</Form>
         <Form Tag="GP">портачкаў</Form>
@@ -1416,14 +1433,6 @@
         <Form Tag="AP">пярэбары</Form>
         <Form Tag="IP">пярэбарамі</Form>
         <Form Tag="LP">пярэбарах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127298" Lemma="пісьмёны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пісьмёны</Form>
-        <Form Tag="GP">пісьмёнаў</Form>
-        <Form Tag="DP">пісьмёнам</Form>
-        <Form Tag="AP">пісьмёны</Form>
-        <Form Tag="IP">пісьмёнамі</Form>
-        <Form Tag="LP">пісьмёнах</Form>
     </Paradigm>
     <Paradigm pdgId="1127322" Lemma="рабяты" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">рабяты</Form>
@@ -1811,6 +1820,14 @@
         <Form Tag="IP">фекаліямі</Form>
         <Form Tag="LP">фекаліях</Form>
     </Paradigm>
+    <Paradigm pdgId="1127369" Lemma="фіжмы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">фіжмы</Form>
+        <Form Tag="GP">фіжмаў</Form>
+        <Form Tag="DP">фіжмам</Form>
+        <Form Tag="AP">фіжмы</Form>
+        <Form Tag="IP">фіжмамі</Form>
+        <Form Tag="LP">фіжмах</Form>
+    </Paradigm>
     <Paradigm pdgId="1127371" Lemma="флабафены" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">флабафены</Form>
         <Form Tag="GP">флабафенаў</Form>
@@ -1827,13 +1844,13 @@
         <Form Tag="IP">фумароламі</Form>
         <Form Tag="LP">фумаролах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127369" Lemma="фіжмы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">фіжмы</Form>
-        <Form Tag="GP">фіжмаў</Form>
-        <Form Tag="DP">фіжмам</Form>
-        <Form Tag="AP">фіжмы</Form>
-        <Form Tag="IP">фіжмамі</Form>
-        <Form Tag="LP">фіжмах</Form>
+    <Paradigm pdgId="1127373" Lemma="хітрыкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">хітрыкі</Form>
+        <Form Tag="GP">хітрыкаў</Form>
+        <Form Tag="DP">хітрыкам</Form>
+        <Form Tag="AP">хітрыкі</Form>
+        <Form Tag="IP">хітрыкамі</Form>
+        <Form Tag="LP">хітрыках</Form>
     </Paradigm>
     <Paradigm pdgId="1127374" Lemma="хрэсьбіны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">хрэсьбіны</Form>
@@ -1843,13 +1860,13 @@
         <Form Tag="IP">хрэсьбінамі</Form>
         <Form Tag="LP">хрэсьбінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127373" Lemma="хітрыкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">хітрыкі</Form>
-        <Form Tag="GP">хітрыкаў</Form>
-        <Form Tag="DP">хітрыкам</Form>
-        <Form Tag="AP">хітрыкі</Form>
-        <Form Tag="IP">хітрыкамі</Form>
-        <Form Tag="LP">хітрыках</Form>
+    <Paradigm pdgId="1127375" Lemma="ціскі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP">ціскі</Form>
+        <Form Tag="GP">ціскоў</Form>
+        <Form Tag="DP">ціскам</Form>
+        <Form Tag="AP">ціскі</Form>
+        <Form Tag="IP">ціскамі</Form>
+        <Form Tag="LP">цісках</Form>
     </Paradigm>
     <Paradigm pdgId="1127376" Lemma="цукраміцэты" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">цукраміцэты</Form>
@@ -1866,14 +1883,6 @@
         <Form Tag="AP">цянёты</Form>
         <Form Tag="IP">цянётамі</Form>
         <Form Tag="LP">цянётах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127375" Lemma="ціскі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ціскі</Form>
-        <Form Tag="GP">ціскоў</Form>
-        <Form Tag="DP">ціскам</Form>
-        <Form Tag="AP">ціскі</Form>
-        <Form Tag="IP">ціскамі</Form>
-        <Form Tag="LP">цісках</Form>
     </Paradigm>
     <Paradigm pdgId="1127378" Lemma="чаравікі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">чаравікі</Form>
@@ -1970,14 +1979,5 @@
         <Form Tag="AP">яслі</Form>
         <Form Tag="IP">яслямі</Form>
         <Form Tag="LP">яслях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127389" Lemma="імяніны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">імяніны</Form>
-        <Form Tag="GP">імянінаў</Form>
-        <Form Tag="GP">імянін</Form>
-        <Form Tag="DP">імянінам</Form>
-        <Form Tag="AP">імяніны</Form>
-        <Form Tag="IP">імянінамі</Form>
-        <Form Tag="LP">імянінах</Form>
     </Paradigm>
 </Wordlist>

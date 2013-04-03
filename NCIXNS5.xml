@@ -518,20 +518,6 @@
         <Form Tag="XIP">дворніцкімі</Form>
         <Form Tag="XLP">дворніцкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128092" Lemma="дзялімае" Tag="NCIXNS5">
-        <Form Tag="NNS">дзялімае</Form>
-        <Form Tag="NGS">дзялімага</Form>
-        <Form Tag="NDS">дзялімаму</Form>
-        <Form Tag="NAS">дзялімае</Form>
-        <Form Tag="NIS">дзялімым</Form>
-        <Form Tag="NLS">дзялімым</Form>
-        <Form Tag="XNP">дзялімыя</Form>
-        <Form Tag="XGP">дзялімых</Form>
-        <Form Tag="XDP">дзялімым</Form>
-        <Form Tag="XAP">дзялімыя</Form>
-        <Form Tag="XIP">дзялімымі</Form>
-        <Form Tag="XLP">дзялімых</Form>
-    </Paradigm>
     <Paradigm pdgId="1128090" Lemma="дзіцячая" Tag="NCIXNS5">
         <Form Tag="FNS">дзіцячая</Form>
         <Form Tag="FGS">дзіцячай</Form>
@@ -545,6 +531,20 @@
         <Form Tag="XAP">дзіцячыя</Form>
         <Form Tag="XIP">дзіцячымі</Form>
         <Form Tag="XLP">дзіцячых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1128092" Lemma="дзялімае" Tag="NCIXNS5">
+        <Form Tag="NNS">дзялімае</Form>
+        <Form Tag="NGS">дзялімага</Form>
+        <Form Tag="NDS">дзялімаму</Form>
+        <Form Tag="NAS">дзялімае</Form>
+        <Form Tag="NIS">дзялімым</Form>
+        <Form Tag="NLS">дзялімым</Form>
+        <Form Tag="XNP">дзялімыя</Form>
+        <Form Tag="XGP">дзялімых</Form>
+        <Form Tag="XDP">дзялімым</Form>
+        <Form Tag="XAP">дзялімыя</Form>
+        <Form Tag="XIP">дзялімымі</Form>
+        <Form Tag="XLP">дзялімых</Form>
     </Paradigm>
     <Paradigm pdgId="1128093" Lemma="добрае" Tag="NCIXNS5">
         <Form Tag="NNS">добрае</Form>
@@ -714,6 +714,20 @@
         <Form Tag="XIP"></Form>
         <Form Tag="XLP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1128070" Lemma="ірвотнае" Tag="NCIXNS5">
+        <Form Tag="NNS">ірвотнае</Form>
+        <Form Tag="NGS">ірвотнага</Form>
+        <Form Tag="NDS">ірвотнаму</Form>
+        <Form Tag="NAS">ірвотнае</Form>
+        <Form Tag="NIS">ірвотным</Form>
+        <Form Tag="NLS">ірвотным</Form>
+        <Form Tag="XNP"></Form>
+        <Form Tag="XGP"></Form>
+        <Form Tag="XDP"></Form>
+        <Form Tag="XAP"></Form>
+        <Form Tag="XIP"></Form>
+        <Form Tag="XLP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1128101" Lemma="карэктарская" Tag="NCIXNS5">
         <Form Tag="FNS">карэктарская</Form>
         <Form Tag="FGS">карэктарскай</Form>
@@ -798,20 +812,6 @@
         <Form Tag="XIP">купчымі</Form>
         <Form Tag="XLP">купчых</Form>
     </Paradigm>
-    <Paradigm pdgId="1031433" Lemma="люты" Tag="NCIXNS5" Govern="">
-        <Form Tag="MNS">люты</Form>
-        <Form Tag="MGS">лютага</Form>
-        <Form Tag="MDS">лютаму</Form>
-        <Form Tag="MAS">люты</Form>
-        <Form Tag="MIS">лютым</Form>
-        <Form Tag="MLS">лютым</Form>
-        <Form Tag="XNP">лютыя</Form>
-        <Form Tag="XGP">лютых</Form>
-        <Form Tag="XDP">лютым</Form>
-        <Form Tag="XAP">лютыя</Form>
-        <Form Tag="XIP">лютымі</Form>
-        <Form Tag="XLP">лютых</Form>
-    </Paradigm>
     <Paradigm pdgId="1128105" Lemma="ліцейная" Tag="NCIXNS5">
         <Form Tag="FNS">ліцейная</Form>
         <Form Tag="FGS">ліцейнай</Form>
@@ -825,6 +825,20 @@
         <Form Tag="XAP">ліцейныя</Form>
         <Form Tag="XIP">ліцейнымі</Form>
         <Form Tag="XLP">ліцейных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1031433" Lemma="люты" Tag="NCIXNS5" Govern="">
+        <Form Tag="MNS">люты</Form>
+        <Form Tag="MGS">лютага</Form>
+        <Form Tag="MDS">лютаму</Form>
+        <Form Tag="MAS">люты</Form>
+        <Form Tag="MIS">лютым</Form>
+        <Form Tag="MLS">лютым</Form>
+        <Form Tag="XNP">лютыя</Form>
+        <Form Tag="XGP">лютых</Form>
+        <Form Tag="XDP">лютым</Form>
+        <Form Tag="XAP">лютыя</Form>
+        <Form Tag="XIP">лютымі</Form>
+        <Form Tag="XLP">лютых</Form>
     </Paradigm>
     <Paradigm pdgId="1041443" Lemma="марожанае" Tag="NCIXNS5" Govern="">
         <Form Tag="NNS">марожанае</Form>
@@ -952,20 +966,6 @@
         <Form Tag="XIP">невядомымі</Form>
         <Form Tag="XLP">невядомых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128111" Lemma="нядобрае" Tag="NCIXNS5">
-        <Form Tag="NNS">нядобрае</Form>
-        <Form Tag="NGS">нядобрага</Form>
-        <Form Tag="NDS">нядобраму</Form>
-        <Form Tag="NAS">нядобрае</Form>
-        <Form Tag="NIS">нядобрым</Form>
-        <Form Tag="NLS">нядобрым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1128184" Lemma="нічыя" Tag="NCIXNS5">
         <Form Tag="FNS">нічыя</Form>
         <Form Tag="FGS">нічыёй</Form>
@@ -979,6 +979,20 @@
         <Form Tag="XAP">нічыі</Form>
         <Form Tag="XIP">нічыімі</Form>
         <Form Tag="XLP">нічыіх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1128111" Lemma="нядобрае" Tag="NCIXNS5">
+        <Form Tag="NNS">нядобрае</Form>
+        <Form Tag="NGS">нядобрага</Form>
+        <Form Tag="NDS">нядобраму</Form>
+        <Form Tag="NAS">нядобрае</Form>
+        <Form Tag="NIS">нядобрым</Form>
+        <Form Tag="NLS">нядобрым</Form>
+        <Form Tag="XNP"></Form>
+        <Form Tag="XGP"></Form>
+        <Form Tag="XDP"></Form>
+        <Form Tag="XAP"></Form>
+        <Form Tag="XIP"></Form>
+        <Form Tag="XLP"></Form>
     </Paradigm>
     <Paradigm pdgId="1138865" Lemma="пад'ёмныя" Tag="NCIXNS5">
         <Form Tag="XNS"></Form>
@@ -1176,6 +1190,48 @@
         <Form Tag="XIP">першацветнымі</Form>
         <Form Tag="XLP">першацветных</Form>
     </Paradigm>
+    <Paradigm pdgId="1128112" Lemma="піражковая" Tag="NCIXNS5">
+        <Form Tag="FNS">піражковая</Form>
+        <Form Tag="FGS">піражковай</Form>
+        <Form Tag="FDS">піражковай</Form>
+        <Form Tag="FAS">піражковую</Form>
+        <Form Tag="FIS">піражковай</Form>
+        <Form Tag="FLS">піражковай</Form>
+        <Form Tag="XNP">піражковыя</Form>
+        <Form Tag="XGP">піражковых</Form>
+        <Form Tag="XDP">піражковым</Form>
+        <Form Tag="XAP">піражковыя</Form>
+        <Form Tag="XIP">піражковымі</Form>
+        <Form Tag="XLP">піражковых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1041806" Lemma="пірожнае" Tag="NCIXNS5" Govern="">
+        <Form Tag="NNS">пірожнае</Form>
+        <Form Tag="NGS">пірожнага</Form>
+        <Form Tag="NDS">пірожнаму</Form>
+        <Form Tag="NAS">пірожнае</Form>
+        <Form Tag="NIS">пірожным</Form>
+        <Form Tag="NLS">пірожным</Form>
+        <Form Tag="XNP">пірожныя</Form>
+        <Form Tag="XGP">пірожных</Form>
+        <Form Tag="XDP">пірожным</Form>
+        <Form Tag="XAP">пірожныя</Form>
+        <Form Tag="XIP">пірожнымі</Form>
+        <Form Tag="XLP">пірожных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1128113" Lemma="піхтавы+" Tag="NCIXNS5">
+        <Form Tag="MNS">піхтавы</Form>
+        <Form Tag="MGS">піхтавага</Form>
+        <Form Tag="MDS">піхтаваму</Form>
+        <Form Tag="MAS">піхтавы</Form>
+        <Form Tag="MIS">піхтавым</Form>
+        <Form Tag="MLS">піхтавым</Form>
+        <Form Tag="XNP">піхтавыя</Form>
+        <Form Tag="XGP">піхтавых</Form>
+        <Form Tag="XDP">піхтавым</Form>
+        <Form Tag="XAP">піхтавыя</Form>
+        <Form Tag="XIP">піхтавымі</Form>
+        <Form Tag="XLP">піхтавых</Form>
+    </Paradigm>
     <Paradigm pdgId="1128123" Lemma="прамая" Tag="NCIXNS5">
         <Form Tag="FNS">прамая</Form>
         <Form Tag="FGS">прамой</Form>
@@ -1302,6 +1358,20 @@
         <Form Tag="XIP"></Form>
         <Form Tag="XLP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1128129" Lemma="прыёмная" Tag="NCIXNS5">
+        <Form Tag="FNS">прыёмная</Form>
+        <Form Tag="FGS">прыёмнай</Form>
+        <Form Tag="FDS">прыёмнай</Form>
+        <Form Tag="FAS">прыёмную</Form>
+        <Form Tag="FIS">прыёмнай</Form>
+        <Form Tag="FLS">прыёмнай</Form>
+        <Form Tag="XNP">прыёмныя</Form>
+        <Form Tag="XGP">прыёмных</Form>
+        <Form Tag="XDP">прыёмным</Form>
+        <Form Tag="XAP">прыёмныя</Form>
+        <Form Tag="XIP">прыёмнымі</Form>
+        <Form Tag="XLP">прыёмных</Form>
+    </Paradigm>
     <Paradigm pdgId="1128133" Lemma="прымерачная" Tag="NCIXNS5">
         <Form Tag="FNS">прымерачная</Form>
         <Form Tag="FGS">прымерачнай</Form>
@@ -1330,20 +1400,6 @@
         <Form Tag="XIP">прыхожымі</Form>
         <Form Tag="XLP">прыхожых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128129" Lemma="прыёмная" Tag="NCIXNS5">
-        <Form Tag="FNS">прыёмная</Form>
-        <Form Tag="FGS">прыёмнай</Form>
-        <Form Tag="FDS">прыёмнай</Form>
-        <Form Tag="FAS">прыёмную</Form>
-        <Form Tag="FIS">прыёмнай</Form>
-        <Form Tag="FLS">прыёмнай</Form>
-        <Form Tag="XNP">прыёмныя</Form>
-        <Form Tag="XGP">прыёмных</Form>
-        <Form Tag="XDP">прыёмным</Form>
-        <Form Tag="XAP">прыёмныя</Form>
-        <Form Tag="XIP">прыёмнымі</Form>
-        <Form Tag="XLP">прыёмных</Form>
-    </Paradigm>
     <Paradigm pdgId="1128135" Lemma="прэпаратарская" Tag="NCIXNS5">
         <Form Tag="FNS">прэпаратарская</Form>
         <Form Tag="FGS">прэпаратарскай</Form>
@@ -1371,48 +1427,6 @@
         <Form Tag="XAP">пярэднія</Form>
         <Form Tag="XIP">пярэднімі</Form>
         <Form Tag="XLP">пярэдніх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1128112" Lemma="піражковая" Tag="NCIXNS5">
-        <Form Tag="FNS">піражковая</Form>
-        <Form Tag="FGS">піражковай</Form>
-        <Form Tag="FDS">піражковай</Form>
-        <Form Tag="FAS">піражковую</Form>
-        <Form Tag="FIS">піражковай</Form>
-        <Form Tag="FLS">піражковай</Form>
-        <Form Tag="XNP">піражковыя</Form>
-        <Form Tag="XGP">піражковых</Form>
-        <Form Tag="XDP">піражковым</Form>
-        <Form Tag="XAP">піражковыя</Form>
-        <Form Tag="XIP">піражковымі</Form>
-        <Form Tag="XLP">піражковых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1041806" Lemma="пірожнае" Tag="NCIXNS5" Govern="">
-        <Form Tag="NNS">пірожнае</Form>
-        <Form Tag="NGS">пірожнага</Form>
-        <Form Tag="NDS">пірожнаму</Form>
-        <Form Tag="NAS">пірожнае</Form>
-        <Form Tag="NIS">пірожным</Form>
-        <Form Tag="NLS">пірожным</Form>
-        <Form Tag="XNP">пірожныя</Form>
-        <Form Tag="XGP">пірожных</Form>
-        <Form Tag="XDP">пірожным</Form>
-        <Form Tag="XAP">пірожныя</Form>
-        <Form Tag="XIP">пірожнымі</Form>
-        <Form Tag="XLP">пірожных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1128113" Lemma="піхтавы+" Tag="NCIXNS5">
-        <Form Tag="MNS">піхтавы</Form>
-        <Form Tag="MGS">піхтавага</Form>
-        <Form Tag="MDS">піхтаваму</Form>
-        <Form Tag="MAS">піхтавы</Form>
-        <Form Tag="MIS">піхтавым</Form>
-        <Form Tag="MLS">піхтавым</Form>
-        <Form Tag="XNP">піхтавыя</Form>
-        <Form Tag="XGP">піхтавых</Form>
-        <Form Tag="XDP">піхтавым</Form>
-        <Form Tag="XAP">піхтавыя</Form>
-        <Form Tag="XIP">піхтавымі</Form>
-        <Form Tag="XLP">піхтавых</Form>
     </Paradigm>
     <Paradigm pdgId="1128136" Lemma="радаслоўная" Tag="NCIXNS5">
         <Form Tag="FNS">радаслоўная</Form>
@@ -1597,20 +1611,6 @@
         <Form Tag="XIP">соценнымі</Form>
         <Form Tag="XLP">соценных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128182" Lemma="сподняе" Tag="NCIXNS5">
-        <Form Tag="NNS">сподняе</Form>
-        <Form Tag="NGS">сподняга</Form>
-        <Form Tag="NDS">сподняму</Form>
-        <Form Tag="NAS">сподняе</Form>
-        <Form Tag="NIS">споднім</Form>
-        <Form Tag="NLS">споднім</Form>
-        <Form Tag="XNP">споднія</Form>
-        <Form Tag="XGP">сподніх</Form>
-        <Form Tag="XDP">споднім</Form>
-        <Form Tag="XAP">споднія</Form>
-        <Form Tag="XIP">споднімі</Form>
-        <Form Tag="XLP">сподніх</Form>
-    </Paradigm>
     <Paradigm pdgId="1128178" Lemma="спіртное" Tag="NCIXNS5">
         <Form Tag="NNS">спіртное</Form>
         <Form Tag="NGS">спіртнога</Form>
@@ -1624,6 +1624,20 @@
         <Form Tag="XAP"></Form>
         <Form Tag="XIP"></Form>
         <Form Tag="XLP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1128182" Lemma="сподняе" Tag="NCIXNS5">
+        <Form Tag="NNS">сподняе</Form>
+        <Form Tag="NGS">сподняга</Form>
+        <Form Tag="NDS">сподняму</Form>
+        <Form Tag="NAS">сподняе</Form>
+        <Form Tag="NIS">споднім</Form>
+        <Form Tag="NLS">споднім</Form>
+        <Form Tag="XNP">споднія</Form>
+        <Form Tag="XGP">сподніх</Form>
+        <Form Tag="XDP">споднім</Form>
+        <Form Tag="XAP">споднія</Form>
+        <Form Tag="XIP">споднімі</Form>
+        <Form Tag="XLP">сподніх</Form>
     </Paradigm>
     <Paradigm pdgId="1023159" Lemma="сталовая" Tag="NCIXNS5" Govern="">
         <Form Tag="FNS">сталовая</Form>
@@ -1960,19 +1974,5 @@
         <Form Tag="XAP">шукаемыя</Form>
         <Form Tag="XIP">шукаемымі</Form>
         <Form Tag="XLP">шукаемых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1128070" Lemma="ірвотнае" Tag="NCIXNS5">
-        <Form Tag="NNS">ірвотнае</Form>
-        <Form Tag="NGS">ірвотнага</Form>
-        <Form Tag="NDS">ірвотнаму</Form>
-        <Form Tag="NAS">ірвотнае</Form>
-        <Form Tag="NIS">ірвотным</Form>
-        <Form Tag="NLS">ірвотным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
 </Wordlist>

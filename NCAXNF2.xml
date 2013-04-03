@@ -46,6 +46,21 @@
         <Form Tag="IP">асфальтоўшчыцамі</Form>
         <Form Tag="LP">асфальтоўшчыцах</Form>
     </Paradigm>
+    <Paradigm pdgId="1015520" Lemma="аўчарка" Tag="NCAXNF2" Govern="">
+        <Form Tag="NS">аўчарка</Form>
+        <Form Tag="GS">аўчаркі</Form>
+        <Form Tag="DS">аўчарцы</Form>
+        <Form Tag="AS">аўчарку</Form>
+        <Form Tag="IS">аўчаркай</Form>
+        <Form Tag="IS">аўчаркаю</Form>
+        <Form Tag="LS">аўчарцы</Form>
+        <Form Tag="NP">аўчаркі</Form>
+        <Form Tag="GP">аўчарак</Form>
+        <Form Tag="DP">аўчаркам</Form>
+        <Form Tag="AP">аўчарак</Form>
+        <Form Tag="IP">аўчаркамі</Form>
+        <Form Tag="LP">аўчарках</Form>
+    </Paradigm>
     <Paradigm pdgId="1016217" Lemma="афіцыянтка" Tag="NCAXNF2" Govern="">
         <Form Tag="NS">афіцыянтка</Form>
         <Form Tag="GS">афіцыянткі</Form>
@@ -75,21 +90,6 @@
         <Form Tag="AP">ахвяр</Form>
         <Form Tag="IP">ахвярамі</Form>
         <Form Tag="LP">ахвярах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1015520" Lemma="аўчарка" Tag="NCAXNF2" Govern="">
-        <Form Tag="NS">аўчарка</Form>
-        <Form Tag="GS">аўчаркі</Form>
-        <Form Tag="DS">аўчарцы</Form>
-        <Form Tag="AS">аўчарку</Form>
-        <Form Tag="IS">аўчаркай</Form>
-        <Form Tag="IS">аўчаркаю</Form>
-        <Form Tag="LS">аўчарцы</Form>
-        <Form Tag="NP">аўчаркі</Form>
-        <Form Tag="GP">аўчарак</Form>
-        <Form Tag="DP">аўчаркам</Form>
-        <Form Tag="AP">аўчарак</Form>
-        <Form Tag="IP">аўчаркамі</Form>
-        <Form Tag="LP">аўчарках</Form>
     </Paradigm>
     <Paradigm pdgId="1016359" Lemma="бабачка" Tag="NCAXNF2" Govern="">
         <Form Tag="NS">бабачка</Form>
@@ -652,21 +652,6 @@
         <Form Tag="IP">цытрамі</Form>
         <Form Tag="LP">цытрах</Form>
     </Paradigm>
-    <Paradigm pdgId="1131087" Lemma="чарнушка" Tag="NCAXNF2">
-        <Form Tag="NS">чарнушка</Form>
-        <Form Tag="GS">чарнушкі</Form>
-        <Form Tag="DS">чарнушцы</Form>
-        <Form Tag="AS">чарнушку</Form>
-        <Form Tag="IS">чарнушкай</Form>
-        <Form Tag="IS">чарнушкаю</Form>
-        <Form Tag="LS">чарнушцы</Form>
-        <Form Tag="NP">чарнушкі</Form>
-        <Form Tag="GP">чарнушак</Form>
-        <Form Tag="DP">чарнушкам</Form>
-        <Form Tag="AP">чарнушак</Form>
-        <Form Tag="IP">чарнушкамі</Form>
-        <Form Tag="LP">чарнушках</Form>
-    </Paradigm>
     <Paradigm pdgId="1131090" Lemma="чарніца" Tag="NCAXNF2">
         <Form Tag="NS">чарніца</Form>
         <Form Tag="GS">чарніцы</Form>
@@ -681,6 +666,21 @@
         <Form Tag="AP">чарніц</Form>
         <Form Tag="IP">чарніцамі</Form>
         <Form Tag="LP">чарніцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1131087" Lemma="чарнушка" Tag="NCAXNF2">
+        <Form Tag="NS">чарнушка</Form>
+        <Form Tag="GS">чарнушкі</Form>
+        <Form Tag="DS">чарнушцы</Form>
+        <Form Tag="AS">чарнушку</Form>
+        <Form Tag="IS">чарнушкай</Form>
+        <Form Tag="IS">чарнушкаю</Form>
+        <Form Tag="LS">чарнушцы</Form>
+        <Form Tag="NP">чарнушкі</Form>
+        <Form Tag="GP">чарнушак</Form>
+        <Form Tag="DP">чарнушкам</Form>
+        <Form Tag="AP">чарнушак</Form>
+        <Form Tag="IP">чарнушкамі</Form>
+        <Form Tag="LP">чарнушках</Form>
     </Paradigm>
     <Paradigm pdgId="1131097" Lemma="часночніца" Tag="NCAXNF2">
         <Form Tag="NS">часночніца</Form>

@@ -350,6 +350,34 @@
         <Form Tag="IP">Зісамі</Form>
         <Form Tag="LP">Зісах</Form>
     </Paradigm>
+    <Paradigm pdgId="1025557" Lemma="Інтэрпол" Tag="NPIXBM1" Theme="Імёны ўласныя/Таксаномія/арганізацыі">
+        <Form Tag="NS">Інтэрпол</Form>
+        <Form Tag="GS">Інтэрпола</Form>
+        <Form Tag="DS">Інтэрполу</Form>
+        <Form Tag="AS">Інтэрпол</Form>
+        <Form Tag="IS">Інтэрполам</Form>
+        <Form Tag="LS">Інтэрполе</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1025560" Lemma="Інтэрфакс" Tag="NPIXBM1" Theme="Імёны ўласныя/Таксаномія/арганізацыі">
+        <Form Tag="NS">Інтэрфакс</Form>
+        <Form Tag="GS">Інтэрфакса</Form>
+        <Form Tag="DS">Інтэрфаксу</Form>
+        <Form Tag="AS">Інтэрфакс</Form>
+        <Form Tag="IS">Інтэрфаксам</Form>
+        <Form Tag="LS">Інтэрфаксе</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1038144" Lemma="Камаз" Tag="NPIXBM1" Theme="Імёны ўласныя/Таксаномія/арганізацыі">
         <Form Tag="NS">Камаз</Form>
         <Form Tag="GS">Камаза</Form>
@@ -609,34 +637,6 @@
         <Form Tag="AS">Юнібел</Form>
         <Form Tag="IS">Юнібелам</Form>
         <Form Tag="LS">Юнібеле</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1025557" Lemma="Інтэрпол" Tag="NPIXBM1" Theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Form Tag="NS">Інтэрпол</Form>
-        <Form Tag="GS">Інтэрпола</Form>
-        <Form Tag="DS">Інтэрполу</Form>
-        <Form Tag="AS">Інтэрпол</Form>
-        <Form Tag="IS">Інтэрполам</Form>
-        <Form Tag="LS">Інтэрполе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1025560" Lemma="Інтэрфакс" Tag="NPIXBM1" Theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Form Tag="NS">Інтэрфакс</Form>
-        <Form Tag="GS">Інтэрфакса</Form>
-        <Form Tag="DS">Інтэрфаксу</Form>
-        <Form Tag="AS">Інтэрфакс</Form>
-        <Form Tag="IS">Інтэрфаксам</Form>
-        <Form Tag="LS">Інтэрфаксе</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>

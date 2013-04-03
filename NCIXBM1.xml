@@ -70,62 +70,6 @@
         <Form Tag="IP">авіязаводамі</Form>
         <Form Tag="LP">авіязаводах</Form>
     </Paradigm>
-    <Paradigm pdgId="1136104" Lemma="аграгорад" Tag="NCIXBM1">
-        <Form Tag="NS">аграгорад</Form>
-        <Form Tag="GS">аграгорада</Form>
-        <Form Tag="DS">аграгораду</Form>
-        <Form Tag="AS">аграгорад</Form>
-        <Form Tag="IS">аграгорадам</Form>
-        <Form Tag="LS">аграгорадзе</Form>
-        <Form Tag="NP">аграгарады</Form>
-        <Form Tag="GP">аграгарадоў</Form>
-        <Form Tag="DP">аграгарадам</Form>
-        <Form Tag="AP">аграгарады</Form>
-        <Form Tag="IP">аграгарадамі</Form>
-        <Form Tag="LP">аграгарадах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136106" Lemma="аграмаксімум" Tag="NCIXBM1">
-        <Form Tag="NS">аграмаксімум</Form>
-        <Form Tag="GS">аграмаксімуму</Form>
-        <Form Tag="DS">аграмаксімуму</Form>
-        <Form Tag="AS">аграмаксімум</Form>
-        <Form Tag="IS">аграмаксімумам</Form>
-        <Form Tag="LS">аграмаксімуме</Form>
-        <Form Tag="NP">аграмаксімумы</Form>
-        <Form Tag="GP">аграмаксімумаў</Form>
-        <Form Tag="DP">аграмаксімумам</Form>
-        <Form Tag="AP">аграмаксімумы</Form>
-        <Form Tag="IP">аграмаксімумамі</Form>
-        <Form Tag="LP">аграмаксімумах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136105" Lemma="аграмінімум" Tag="NCIXBM1">
-        <Form Tag="NS">аграмінімум</Form>
-        <Form Tag="GS">аграмінімуму</Form>
-        <Form Tag="DS">аграмінімуму</Form>
-        <Form Tag="AS">аграмінімум</Form>
-        <Form Tag="IS">аграмінімумам</Form>
-        <Form Tag="LS">аграмінімуме</Form>
-        <Form Tag="NP">аграмінімумы</Form>
-        <Form Tag="GP">аграмінімумаў</Form>
-        <Form Tag="DP">аграмінімумам</Form>
-        <Form Tag="AP">аграмінімумы</Form>
-        <Form Tag="IP">аграмінімумамі</Form>
-        <Form Tag="LP">аграмінімумах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136107" Lemma="аграпрам" Tag="NCIXBM1">
-        <Form Tag="NS">аграпрам</Form>
-        <Form Tag="GS">аграпрама</Form>
-        <Form Tag="DS">аграпраму</Form>
-        <Form Tag="AS">аграпрам</Form>
-        <Form Tag="IS">аграпрамам</Form>
-        <Form Tag="LS">аграпраме</Form>
-        <Form Tag="NP">аграпрамы</Form>
-        <Form Tag="GP">аграпрамаў</Form>
-        <Form Tag="DP">аграпрамам</Form>
-        <Form Tag="AP">аграпрамы</Form>
-        <Form Tag="IP">аграпрамамі</Form>
-        <Form Tag="LP">аграпрамах</Form>
-    </Paradigm>
     <Paradigm pdgId="1136100" Lemma="агіткалектыў" Tag="NCIXBM1">
         <Form Tag="NS">агіткалектыў</Form>
         <Form Tag="GS">агіткалектыву</Form>
@@ -181,6 +125,62 @@
         <Form Tag="AP">агітпаязды</Form>
         <Form Tag="IP">агітпаяздамі</Form>
         <Form Tag="LP">агітпаяздах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136104" Lemma="аграгорад" Tag="NCIXBM1">
+        <Form Tag="NS">аграгорад</Form>
+        <Form Tag="GS">аграгорада</Form>
+        <Form Tag="DS">аграгораду</Form>
+        <Form Tag="AS">аграгорад</Form>
+        <Form Tag="IS">аграгорадам</Form>
+        <Form Tag="LS">аграгорадзе</Form>
+        <Form Tag="NP">аграгарады</Form>
+        <Form Tag="GP">аграгарадоў</Form>
+        <Form Tag="DP">аграгарадам</Form>
+        <Form Tag="AP">аграгарады</Form>
+        <Form Tag="IP">аграгарадамі</Form>
+        <Form Tag="LP">аграгарадах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136106" Lemma="аграмаксімум" Tag="NCIXBM1">
+        <Form Tag="NS">аграмаксімум</Form>
+        <Form Tag="GS">аграмаксімуму</Form>
+        <Form Tag="DS">аграмаксімуму</Form>
+        <Form Tag="AS">аграмаксімум</Form>
+        <Form Tag="IS">аграмаксімумам</Form>
+        <Form Tag="LS">аграмаксімуме</Form>
+        <Form Tag="NP">аграмаксімумы</Form>
+        <Form Tag="GP">аграмаксімумаў</Form>
+        <Form Tag="DP">аграмаксімумам</Form>
+        <Form Tag="AP">аграмаксімумы</Form>
+        <Form Tag="IP">аграмаксімумамі</Form>
+        <Form Tag="LP">аграмаксімумах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136105" Lemma="аграмінімум" Tag="NCIXBM1">
+        <Form Tag="NS">аграмінімум</Form>
+        <Form Tag="GS">аграмінімуму</Form>
+        <Form Tag="DS">аграмінімуму</Form>
+        <Form Tag="AS">аграмінімум</Form>
+        <Form Tag="IS">аграмінімумам</Form>
+        <Form Tag="LS">аграмінімуме</Form>
+        <Form Tag="NP">аграмінімумы</Form>
+        <Form Tag="GP">аграмінімумаў</Form>
+        <Form Tag="DP">аграмінімумам</Form>
+        <Form Tag="AP">аграмінімумы</Form>
+        <Form Tag="IP">аграмінімумамі</Form>
+        <Form Tag="LP">аграмінімумах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136107" Lemma="аграпрам" Tag="NCIXBM1">
+        <Form Tag="NS">аграпрам</Form>
+        <Form Tag="GS">аграпрама</Form>
+        <Form Tag="DS">аграпраму</Form>
+        <Form Tag="AS">аграпрам</Form>
+        <Form Tag="IS">аграпрамам</Form>
+        <Form Tag="LS">аграпраме</Form>
+        <Form Tag="NP">аграпрамы</Form>
+        <Form Tag="GP">аграпрамаў</Form>
+        <Form Tag="DP">аграпрамам</Form>
+        <Form Tag="AP">аграпрамы</Form>
+        <Form Tag="IP">аграпрамамі</Form>
+        <Form Tag="LP">аграпрамах</Form>
     </Paradigm>
     <Paradigm pdgId="1136108" Lemma="акадэмгарадок" Tag="NCIXBM1">
         <Form Tag="NS">акадэмгарадок</Form>

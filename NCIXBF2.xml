@@ -1,20 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1132136" Lemma="аграхімлабараторыя" Tag="NCIXBF2" Govern="">
-        <Form Tag="NS">аграхімлабараторыя</Form>
-        <Form Tag="GS">аграхімлабараторыі</Form>
-        <Form Tag="DS">аграхімлабараторыі</Form>
-        <Form Tag="AS">аграхімлабараторыю</Form>
-        <Form Tag="IS">аграхімлабараторыяй</Form>
-        <Form Tag="IS">аграхімлабараторыяю</Form>
-        <Form Tag="LS">аграхімлабараторыі</Form>
-        <Form Tag="NP">аграхімлабараторыі</Form>
-        <Form Tag="GP">аграхімлабараторый</Form>
-        <Form Tag="DP">аграхімлабараторыям</Form>
-        <Form Tag="AP">аграхімлабараторыі</Form>
-        <Form Tag="IP">аграхімлабараторыямі</Form>
-        <Form Tag="LP">аграхімлабараторыях</Form>
-    </Paradigm>
     <Paradigm pdgId="1132138" Lemma="агітбрыгада" Tag="NCIXBF2" Govern="">
         <Form Tag="NS">агітбрыгада</Form>
         <Form Tag="GS">агітбрыгады</Form>
@@ -44,6 +29,21 @@
         <Form Tag="AP">агіткампаніі</Form>
         <Form Tag="IP">агіткампаніямі</Form>
         <Form Tag="LP">агіткампаніях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1132136" Lemma="аграхімлабараторыя" Tag="NCIXBF2" Govern="">
+        <Form Tag="NS">аграхімлабараторыя</Form>
+        <Form Tag="GS">аграхімлабараторыі</Form>
+        <Form Tag="DS">аграхімлабараторыі</Form>
+        <Form Tag="AS">аграхімлабараторыю</Form>
+        <Form Tag="IS">аграхімлабараторыяй</Form>
+        <Form Tag="IS">аграхімлабараторыяю</Form>
+        <Form Tag="LS">аграхімлабараторыі</Form>
+        <Form Tag="NP">аграхімлабараторыі</Form>
+        <Form Tag="GP">аграхімлабараторый</Form>
+        <Form Tag="DP">аграхімлабараторыям</Form>
+        <Form Tag="AP">аграхімлабараторыі</Form>
+        <Form Tag="IP">аграхімлабараторыямі</Form>
+        <Form Tag="LP">аграхімлабараторыях</Form>
     </Paradigm>
     <Paradigm pdgId="1132135" Lemma="аргработа" Tag="NCIXBF2" Govern="">
         <Form Tag="NS">аргработа</Form>
@@ -165,21 +165,6 @@
         <Form Tag="IP">дзяржзамовамі</Form>
         <Form Tag="LP">дзяржзамовах</Form>
     </Paradigm>
-    <Paradigm pdgId="1017978" Lemma="дзяржкампанія" Tag="NCIXBF2" Govern="">
-        <Form Tag="NS">дзяржкампанія</Form>
-        <Form Tag="GS">дзяржкампаніі</Form>
-        <Form Tag="DS">дзяржкампаніі</Form>
-        <Form Tag="AS">дзяржкампанію</Form>
-        <Form Tag="IS">дзяржкампаніяй</Form>
-        <Form Tag="IS">дзяржкампаніяю</Form>
-        <Form Tag="LS">дзяржкампаніі</Form>
-        <Form Tag="NP">дзяржкампаніі</Form>
-        <Form Tag="GP">дзяржкампаній</Form>
-        <Form Tag="DP">дзяржкампаніям</Form>
-        <Form Tag="AP">дзяржкампаніі</Form>
-        <Form Tag="IP">дзяржкампаніямі</Form>
-        <Form Tag="LP">дзяржкампаніях</Form>
-    </Paradigm>
     <Paradigm pdgId="1017977" Lemma="дзяржкамісія" Tag="NCIXBF2" Govern="">
         <Form Tag="NS">дзяржкамісія</Form>
         <Form Tag="GS">дзяржкамісіі</Form>
@@ -194,6 +179,21 @@
         <Form Tag="AP">дзяржкамісіі</Form>
         <Form Tag="IP">дзяржкамісіямі</Form>
         <Form Tag="LP">дзяржкамісіях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1017978" Lemma="дзяржкампанія" Tag="NCIXBF2" Govern="">
+        <Form Tag="NS">дзяржкампанія</Form>
+        <Form Tag="GS">дзяржкампаніі</Form>
+        <Form Tag="DS">дзяржкампаніі</Form>
+        <Form Tag="AS">дзяржкампанію</Form>
+        <Form Tag="IS">дзяржкампаніяй</Form>
+        <Form Tag="IS">дзяржкампаніяю</Form>
+        <Form Tag="LS">дзяржкампаніі</Form>
+        <Form Tag="NP">дзяржкампаніі</Form>
+        <Form Tag="GP">дзяржкампаній</Form>
+        <Form Tag="DP">дзяржкампаніям</Form>
+        <Form Tag="AP">дзяржкампаніі</Form>
+        <Form Tag="IP">дзяржкампаніямі</Form>
+        <Form Tag="LP">дзяржкампаніях</Form>
     </Paradigm>
     <Paradigm pdgId="1017980" Lemma="дзяржманаполія" Tag="NCIXBF2" Govern="">
         <Form Tag="NS">дзяржманаполія</Form>

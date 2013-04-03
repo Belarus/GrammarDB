@@ -32,22 +32,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">абаправа´йце</Form>
         <Form Tag="RG" Checked="+">абаправа´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104972" Lemma="абвыка´ць" Tag="VIMN1" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">абвыка´ць</Form>
-        <Form Tag="R1S" Checked="+">абвыка´ю</Form>
-        <Form Tag="R2S" Checked="+">абвыка´еш</Form>
-        <Form Tag="R3S" Checked="+">абвыка´е</Form>
-        <Form Tag="R1P" Checked="+">абвыка´ем</Form>
-        <Form Tag="R2P" Checked="+">абвыка´еце</Form>
-        <Form Tag="R3P" Checked="+">абвыка´юць</Form>
-        <Form Tag="PXSM" Checked="+">абвыка´ў</Form>
-        <Form Tag="PXSF" Checked="+">абвыка´ла</Form>
-        <Form Tag="PXSN" Checked="+">абвыка´ла</Form>
-        <Form Tag="PXPX" Checked="+">абвыка´лі</Form>
-        <Form Tag="I2S" Checked="+">абвыка´й</Form>
-        <Form Tag="I2P" Checked="+">абвыка´йце</Form>
-        <Form Tag="RG" Checked="+">абвыка´ючы</Form>
-    </Paradigm>
     <Paradigm pdgId="1104919" Lemma="абвіса´ць" Tag="VIMN1" Govern="" Checked="+">
         <Form Tag="0" Checked="+">абвіса´ць</Form>
         <Form Tag="R1S" Checked="+">абвіса´ю</Form>
@@ -63,6 +47,22 @@
         <Form Tag="I2S" Type="potential" Checked="+">абвіса´й</Form>
         <Form Tag="I2P" Type="potential" Checked="+">абвіса´йце</Form>
         <Form Tag="RG" Checked="+">абвіса´ючы</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104972" Lemma="абвыка´ць" Tag="VIMN1" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">абвыка´ць</Form>
+        <Form Tag="R1S" Checked="+">абвыка´ю</Form>
+        <Form Tag="R2S" Checked="+">абвыка´еш</Form>
+        <Form Tag="R3S" Checked="+">абвыка´е</Form>
+        <Form Tag="R1P" Checked="+">абвыка´ем</Form>
+        <Form Tag="R2P" Checked="+">абвыка´еце</Form>
+        <Form Tag="R3P" Checked="+">абвыка´юць</Form>
+        <Form Tag="PXSM" Checked="+">абвыка´ў</Form>
+        <Form Tag="PXSF" Checked="+">абвыка´ла</Form>
+        <Form Tag="PXSN" Checked="+">абвыка´ла</Form>
+        <Form Tag="PXPX" Checked="+">абвыка´лі</Form>
+        <Form Tag="I2S" Checked="+">абвыка´й</Form>
+        <Form Tag="I2P" Checked="+">абвыка´йце</Form>
+        <Form Tag="RG" Checked="+">абвыка´ючы</Form>
     </Paradigm>
     <Paradigm pdgId="1105012" Lemma="абгараць" Tag="VIMN1" Govern="">
         <Form Tag="0">абгараць</Form>
@@ -256,6 +256,22 @@
         <Form Tag="I2P">імжэйце</Form>
         <Form Tag="RG">імжэючы</Form>
     </Paradigm>
+    <Paradigm pdgId="1104621" Lemma="іміграва´ць" Tag="VIMN1" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">іміграва´ць</Form>
+        <Form Tag="R1S" Checked="+">імігру´ю</Form>
+        <Form Tag="R2S" Checked="+">імігру´еш</Form>
+        <Form Tag="R3S" Checked="+">імігру´е</Form>
+        <Form Tag="R1P" Checked="+">імігру´ем</Form>
+        <Form Tag="R2P" Checked="+">імігру´еце</Form>
+        <Form Tag="R3P" Checked="+">імігру´юць</Form>
+        <Form Tag="PXSM" Checked="+">іміграва´ў</Form>
+        <Form Tag="PXSF" Checked="+">іміграва´ла</Form>
+        <Form Tag="PXSN" Checked="+">іміграва´ла</Form>
+        <Form Tag="PXPX" Checked="+">іміграва´лі</Form>
+        <Form Tag="I2S" Checked="+">імігру´й</Form>
+        <Form Tag="I2P" Checked="+">імігру´йце</Form>
+        <Form Tag="RG" Checked="+">імігру´ючы</Form>
+    </Paradigm>
     <Paradigm pdgId="1104629" Lemma="імкну´ць" Tag="VIMN1" Govern="" Checked="+">
         <Form Tag="0" Checked="+">імкну´ць</Form>
         <Form Tag="R1S" Checked="+">імкну´</Form>
@@ -287,22 +303,6 @@
         <Form Tag="I2S" Type="potential" Checked="+">імпану´й</Form>
         <Form Tag="I2P" Type="potential" Checked="+">імпану´йце</Form>
         <Form Tag="RG" Checked="+">імпану´ючы</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104621" Lemma="іміграва´ць" Tag="VIMN1" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">іміграва´ць</Form>
-        <Form Tag="R1S" Checked="+">імігру´ю</Form>
-        <Form Tag="R2S" Checked="+">імігру´еш</Form>
-        <Form Tag="R3S" Checked="+">імігру´е</Form>
-        <Form Tag="R1P" Checked="+">імігру´ем</Form>
-        <Form Tag="R2P" Checked="+">імігру´еце</Form>
-        <Form Tag="R3P" Checked="+">імігру´юць</Form>
-        <Form Tag="PXSM" Checked="+">іміграва´ў</Form>
-        <Form Tag="PXSF" Checked="+">іміграва´ла</Form>
-        <Form Tag="PXSN" Checked="+">іміграва´ла</Form>
-        <Form Tag="PXPX" Checked="+">іміграва´лі</Form>
-        <Form Tag="I2S" Checked="+">імігру´й</Form>
-        <Form Tag="I2P" Checked="+">імігру´йце</Form>
-        <Form Tag="RG" Checked="+">імігру´ючы</Form>
     </Paradigm>
     <Paradigm pdgId="1104711" Lemma="інты´мнічаць" Tag="VIMN1" Govern="" Checked="+">
         <Form Tag="0" Checked="+">інты´мнічаць</Form>
@@ -368,22 +368,6 @@
         <Form Tag="I2P">ірдзейце</Form>
         <Form Tag="RG">ірдзеючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104744" Lemma="іржа´ць" Tag="VIMN1" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">іржа´ць</Form>
-        <Form Tag="R1S" Checked="+">іржу´</Form>
-        <Form Tag="R2S" Checked="+">іржэ´ш</Form>
-        <Form Tag="R3S" Checked="+">іржэ´</Form>
-        <Form Tag="R1P" Checked="+">іржо´м</Form>
-        <Form Tag="R2P" Checked="+">іржаце´</Form>
-        <Form Tag="R3P" Checked="+">іржу´ць</Form>
-        <Form Tag="PXSM" Checked="+">іржа´ў</Form>
-        <Form Tag="PXSF" Checked="+">іржа´ла</Form>
-        <Form Tag="PXSN" Checked="+">іржа´ла</Form>
-        <Form Tag="PXPX" Checked="+">іржа´лі</Form>
-        <Form Tag="I2S" Checked="+">іржы´</Form>
-        <Form Tag="I2P" Checked="+">іржы´це</Form>
-        <Form Tag="RG" Checked="+">іржучы´</Form>
-    </Paradigm>
     <Paradigm pdgId="1104747" Lemma="іржавець" Tag="VIMN1" Govern="">
         <Form Tag="0">іржавець</Form>
         <Form Tag="R1S">іржавею</Form>
@@ -399,6 +383,22 @@
         <Form Tag="I2S">іржавей</Form>
         <Form Tag="I2P">іржавейце</Form>
         <Form Tag="RG">іржавеючы</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104744" Lemma="іржа´ць" Tag="VIMN1" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">іржа´ць</Form>
+        <Form Tag="R1S" Checked="+">іржу´</Form>
+        <Form Tag="R2S" Checked="+">іржэ´ш</Form>
+        <Form Tag="R3S" Checked="+">іржэ´</Form>
+        <Form Tag="R1P" Checked="+">іржо´м</Form>
+        <Form Tag="R2P" Checked="+">іржаце´</Form>
+        <Form Tag="R3P" Checked="+">іржу´ць</Form>
+        <Form Tag="PXSM" Checked="+">іржа´ў</Form>
+        <Form Tag="PXSF" Checked="+">іржа´ла</Form>
+        <Form Tag="PXSN" Checked="+">іржа´ла</Form>
+        <Form Tag="PXPX" Checked="+">іржа´лі</Form>
+        <Form Tag="I2S" Checked="+">іржы´</Form>
+        <Form Tag="I2P" Checked="+">іржы´це</Form>
+        <Form Tag="RG" Checked="+">іржучы´</Form>
     </Paradigm>
     <Paradigm pdgId="1104753" Lemma="існава´ць" Tag="VIMN1" Govern="" Checked="+">
         <Form Tag="0" Checked="+">існава´ць</Form>

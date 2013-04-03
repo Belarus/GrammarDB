@@ -255,34 +255,6 @@
         <Form Tag="XIP">другімі</Form>
         <Form Tag="XLP">другіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127445" Lemma="мільярдны" Tag="MAOS">
-        <Form Tag="MNS">мільярдны</Form>
-        <Form Tag="MGS">мільярднага</Form>
-        <Form Tag="MDS">мільярднаму</Form>
-        <Form Tag="MAS">мільярднага</Form>
-        <Form Tag="MAS">мільярдны</Form>
-        <Form Tag="MIS">мільярдным</Form>
-        <Form Tag="MLS">мільярдным</Form>
-        <Form Tag="FNS">мільярдная</Form>
-        <Form Tag="FGS">мільярднай</Form>
-        <Form Tag="FDS">мільярднай</Form>
-        <Form Tag="FAS">мільярдную</Form>
-        <Form Tag="FIS">мільярднай</Form>
-        <Form Tag="FLS">мільярднай</Form>
-        <Form Tag="NNS">мільярднае</Form>
-        <Form Tag="NGS">мільярднага</Form>
-        <Form Tag="NDS">мільярднаму</Form>
-        <Form Tag="NAS">мільярднае</Form>
-        <Form Tag="NIS">мільярдным</Form>
-        <Form Tag="NLS">мільярдным</Form>
-        <Form Tag="XNP">мільярдныя</Form>
-        <Form Tag="XGP">мільярдных</Form>
-        <Form Tag="XDP">мільярдным</Form>
-        <Form Tag="XAP">мільярдных</Form>
-        <Form Tag="XAP">мільярдныя</Form>
-        <Form Tag="XIP">мільярднымі</Form>
-        <Form Tag="XLP">мільярдных</Form>
-    </Paradigm>
     <Paradigm pdgId="1127444" Lemma="мільённы" Tag="MAOS">
         <Form Tag="MNS">мільённы</Form>
         <Form Tag="MGS">мільённага</Form>
@@ -310,6 +282,34 @@
         <Form Tag="XAP">мільённыя</Form>
         <Form Tag="XIP">мільённымі</Form>
         <Form Tag="XLP">мільённых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127445" Lemma="мільярдны" Tag="MAOS">
+        <Form Tag="MNS">мільярдны</Form>
+        <Form Tag="MGS">мільярднага</Form>
+        <Form Tag="MDS">мільярднаму</Form>
+        <Form Tag="MAS">мільярднага</Form>
+        <Form Tag="MAS">мільярдны</Form>
+        <Form Tag="MIS">мільярдным</Form>
+        <Form Tag="MLS">мільярдным</Form>
+        <Form Tag="FNS">мільярдная</Form>
+        <Form Tag="FGS">мільярднай</Form>
+        <Form Tag="FDS">мільярднай</Form>
+        <Form Tag="FAS">мільярдную</Form>
+        <Form Tag="FIS">мільярднай</Form>
+        <Form Tag="FLS">мільярднай</Form>
+        <Form Tag="NNS">мільярднае</Form>
+        <Form Tag="NGS">мільярднага</Form>
+        <Form Tag="NDS">мільярднаму</Form>
+        <Form Tag="NAS">мільярднае</Form>
+        <Form Tag="NIS">мільярдным</Form>
+        <Form Tag="NLS">мільярдным</Form>
+        <Form Tag="XNP">мільярдныя</Form>
+        <Form Tag="XGP">мільярдных</Form>
+        <Form Tag="XDP">мільярдным</Form>
+        <Form Tag="XAP">мільярдных</Form>
+        <Form Tag="XAP">мільярдныя</Form>
+        <Form Tag="XIP">мільярднымі</Form>
+        <Form Tag="XLP">мільярдных</Form>
     </Paradigm>
     <Paradigm pdgId="1127450" Lemma="першы" Tag="MAOS">
         <Form Tag="MNS">першы</Form>
@@ -451,6 +451,34 @@
         <Form Tag="XIP">семнаццатымі</Form>
         <Form Tag="XLP">семнаццатых</Form>
     </Paradigm>
+    <Paradigm pdgId="1127462" Lemma="сёмы" Tag="MAOS">
+        <Form Tag="MNS">сёмы</Form>
+        <Form Tag="MGS">сёмага</Form>
+        <Form Tag="MDS">сёмаму</Form>
+        <Form Tag="MAS">сёмага</Form>
+        <Form Tag="MAS">сёмы</Form>
+        <Form Tag="MIS">сёмым</Form>
+        <Form Tag="MLS">сёмым</Form>
+        <Form Tag="FNS">сёмая</Form>
+        <Form Tag="FGS">сёмай</Form>
+        <Form Tag="FDS">сёмай</Form>
+        <Form Tag="FAS">сёмую</Form>
+        <Form Tag="FIS">сёмай</Form>
+        <Form Tag="FLS">сёмай</Form>
+        <Form Tag="NNS">сёмае</Form>
+        <Form Tag="NGS">сёмага</Form>
+        <Form Tag="NDS">сёмаму</Form>
+        <Form Tag="NAS">сёмае</Form>
+        <Form Tag="NIS">сёмым</Form>
+        <Form Tag="NLS">сёмым</Form>
+        <Form Tag="XNP">сёмыя</Form>
+        <Form Tag="XGP">сёмых</Form>
+        <Form Tag="XDP">сёмым</Form>
+        <Form Tag="XAP">сёмых</Form>
+        <Form Tag="XAP">сёмыя</Form>
+        <Form Tag="XIP">сёмымі</Form>
+        <Form Tag="XLP">сёмых</Form>
+    </Paradigm>
     <Paradigm pdgId="1127470" Lemma="соты" Tag="MAOS">
         <Form Tag="MNS">соты</Form>
         <Form Tag="MGS">сотага</Form>
@@ -506,34 +534,6 @@
         <Form Tag="XAP">сямнаццатыя</Form>
         <Form Tag="XIP">сямнаццатымі</Form>
         <Form Tag="XLP">сямнаццатых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127462" Lemma="сёмы" Tag="MAOS">
-        <Form Tag="MNS">сёмы</Form>
-        <Form Tag="MGS">сёмага</Form>
-        <Form Tag="MDS">сёмаму</Form>
-        <Form Tag="MAS">сёмага</Form>
-        <Form Tag="MAS">сёмы</Form>
-        <Form Tag="MIS">сёмым</Form>
-        <Form Tag="MLS">сёмым</Form>
-        <Form Tag="FNS">сёмая</Form>
-        <Form Tag="FGS">сёмай</Form>
-        <Form Tag="FDS">сёмай</Form>
-        <Form Tag="FAS">сёмую</Form>
-        <Form Tag="FIS">сёмай</Form>
-        <Form Tag="FLS">сёмай</Form>
-        <Form Tag="NNS">сёмае</Form>
-        <Form Tag="NGS">сёмага</Form>
-        <Form Tag="NDS">сёмаму</Form>
-        <Form Tag="NAS">сёмае</Form>
-        <Form Tag="NIS">сёмым</Form>
-        <Form Tag="NLS">сёмым</Form>
-        <Form Tag="XNP">сёмыя</Form>
-        <Form Tag="XGP">сёмых</Form>
-        <Form Tag="XDP">сёмым</Form>
-        <Form Tag="XAP">сёмых</Form>
-        <Form Tag="XAP">сёмыя</Form>
-        <Form Tag="XIP">сёмымі</Form>
-        <Form Tag="XLP">сёмых</Form>
     </Paradigm>
     <Paradigm pdgId="1127482" Lemma="трыльённы" Tag="MAOS">
         <Form Tag="MNS">трыльённы</Form>

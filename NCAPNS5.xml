@@ -287,6 +287,26 @@
         <Form Tag="XIP">веруючымі</Form>
         <Form Tag="XLP">веруючых</Form>
     </Paradigm>
+    <Paradigm pdgId="1027991" Lemma="вінаваты" Tag="NCAPNS5" Govern="">
+        <Form Tag="MNS">вінаваты</Form>
+        <Form Tag="MGS">вінаватага</Form>
+        <Form Tag="MDS">вінаватаму</Form>
+        <Form Tag="MAS">вінаватага</Form>
+        <Form Tag="MIS">вінаватым</Form>
+        <Form Tag="MLS">вінаватым</Form>
+        <Form Tag="FNS">вінаватая</Form>
+        <Form Tag="FGS">вінаватай</Form>
+        <Form Tag="FDS">вінаватай</Form>
+        <Form Tag="FAS">вінаватую</Form>
+        <Form Tag="FIS">вінаватай</Form>
+        <Form Tag="FLS">вінаватай</Form>
+        <Form Tag="XNP">вінаватыя</Form>
+        <Form Tag="XGP">вінаватых</Form>
+        <Form Tag="XDP">вінаватым</Form>
+        <Form Tag="XAP">вінаватых</Form>
+        <Form Tag="XIP">вінаватымі</Form>
+        <Form Tag="XLP">вінаватых</Form>
+    </Paradigm>
     <Paradigm pdgId="1028387" Lemma="вольнаадпушчаны" Tag="NCAPNS5" Govern="">
         <Form Tag="MNS">вольнаадпушчаны</Form>
         <Form Tag="MGS">вольнаадпушчанага</Form>
@@ -343,26 +363,6 @@
         <Form Tag="XAP">выбраных</Form>
         <Form Tag="XIP">выбранымі</Form>
         <Form Tag="XLP">выбраных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1027991" Lemma="вінаваты" Tag="NCAPNS5" Govern="">
-        <Form Tag="MNS">вінаваты</Form>
-        <Form Tag="MGS">вінаватага</Form>
-        <Form Tag="MDS">вінаватаму</Form>
-        <Form Tag="MAS">вінаватага</Form>
-        <Form Tag="MIS">вінаватым</Form>
-        <Form Tag="MLS">вінаватым</Form>
-        <Form Tag="FNS">вінаватая</Form>
-        <Form Tag="FGS">вінаватай</Form>
-        <Form Tag="FDS">вінаватай</Form>
-        <Form Tag="FAS">вінаватую</Form>
-        <Form Tag="FIS">вінаватай</Form>
-        <Form Tag="FLS">вінаватай</Form>
-        <Form Tag="XNP">вінаватыя</Form>
-        <Form Tag="XGP">вінаватых</Form>
-        <Form Tag="XDP">вінаватым</Form>
-        <Form Tag="XAP">вінаватых</Form>
-        <Form Tag="XIP">вінаватымі</Form>
-        <Form Tag="XLP">вінаватых</Form>
     </Paradigm>
     <Paradigm pdgId="1127995" Lemma="галоўнакамандуючы" Tag="NCAPNS5" Govern="">
         <Form Tag="MNS">галоўнакамандуючы</Form>
@@ -734,6 +734,27 @@
         <Form Tag="XAP">зняволеных</Form>
         <Form Tag="XIP">зняволенымі</Form>
         <Form Tag="XLP">зняволеных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1128069" Lemma="ілжэвучоны" Tag="NCAPNS5">
+        <Form Tag="MNS">ілжэвучоны</Form>
+        <Form Tag="MGS">ілжэвучонага</Form>
+        <Form Tag="MDS">ілжэвучонаму</Form>
+        <Form Tag="MAS">ілжэвучонага</Form>
+        <Form Tag="MIS">ілжэвучоным</Form>
+        <Form Tag="MLS">ілжэвучоным</Form>
+        <Form Tag="FNS">ілжэвучоная</Form>
+        <Form Tag="FGS">ілжэвучонай</Form>
+        <Form Tag="FDS">ілжэвучонай</Form>
+        <Form Tag="FAS">ілжэвучоную</Form>
+        <Form Tag="FIS">ілжэвучонай</Form>
+        <Form Tag="FIS">ілжэвучонаю</Form>
+        <Form Tag="FLS">ілжэвучонай</Form>
+        <Form Tag="XNP">ілжэвучоныя</Form>
+        <Form Tag="XGP">ілжэвучоных</Form>
+        <Form Tag="XDP">ілжэвучоным</Form>
+        <Form Tag="XAP">ілжэвучоных</Form>
+        <Form Tag="XIP">ілжэвучонымі</Form>
+        <Form Tag="XLP">ілжэвучоных</Form>
     </Paradigm>
     <Paradigm pdgId="1030478" Lemma="камандуючы" Tag="NCAPNS5" Govern="">
         <Form Tag="MNS">камандуючы</Form>
@@ -1530,6 +1551,26 @@
         <Form Tag="XIP">пазваночнымі</Form>
         <Form Tag="XLP">пазваночных</Form>
     </Paradigm>
+    <Paradigm pdgId="1032632" Lemma="паліцэйскі" Tag="NCAPNS5" Govern="">
+        <Form Tag="MNS">паліцэйскі</Form>
+        <Form Tag="MGS">паліцэйскага</Form>
+        <Form Tag="MDS">паліцэйскаму</Form>
+        <Form Tag="MAS">паліцэйскага</Form>
+        <Form Tag="MIS">паліцэйскім</Form>
+        <Form Tag="MLS">паліцэйскім</Form>
+        <Form Tag="FNS">паліцэйская</Form>
+        <Form Tag="FGS">паліцэйскай</Form>
+        <Form Tag="FDS">паліцэйскай</Form>
+        <Form Tag="FAS">паліцэйскую</Form>
+        <Form Tag="FIS">паліцэйскай</Form>
+        <Form Tag="FLS">паліцэйскай</Form>
+        <Form Tag="XNP">паліцэйскія</Form>
+        <Form Tag="XGP">паліцэйскіх</Form>
+        <Form Tag="XDP">паліцэйскім</Form>
+        <Form Tag="XAP">паліцэйскіх</Form>
+        <Form Tag="XIP">паліцэйскімі</Form>
+        <Form Tag="XLP">паліцэйскіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1032655" Lemma="палонны" Tag="NCAPNS5" Govern="">
         <Form Tag="MNS">палонны</Form>
         <Form Tag="MGS">палоннага</Form>
@@ -1590,26 +1631,6 @@
         <Form Tag="XAP">паляўнічых</Form>
         <Form Tag="XIP">паляўнічымі</Form>
         <Form Tag="XLP">паляўнічых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1032632" Lemma="паліцэйскі" Tag="NCAPNS5" Govern="">
-        <Form Tag="MNS">паліцэйскі</Form>
-        <Form Tag="MGS">паліцэйскага</Form>
-        <Form Tag="MDS">паліцэйскаму</Form>
-        <Form Tag="MAS">паліцэйскага</Form>
-        <Form Tag="MIS">паліцэйскім</Form>
-        <Form Tag="MLS">паліцэйскім</Form>
-        <Form Tag="FNS">паліцэйская</Form>
-        <Form Tag="FGS">паліцэйскай</Form>
-        <Form Tag="FDS">паліцэйскай</Form>
-        <Form Tag="FAS">паліцэйскую</Form>
-        <Form Tag="FIS">паліцэйскай</Form>
-        <Form Tag="FLS">паліцэйскай</Form>
-        <Form Tag="XNP">паліцэйскія</Form>
-        <Form Tag="XGP">паліцэйскіх</Form>
-        <Form Tag="XDP">паліцэйскім</Form>
-        <Form Tag="XAP">паліцэйскіх</Form>
-        <Form Tag="XIP">паліцэйскімі</Form>
-        <Form Tag="XLP">паліцэйскіх</Form>
     </Paradigm>
     <Paradigm pdgId="1032670" Lemma="памагаты" Tag="NCAPNS5" Govern="">
         <Form Tag="MNS">памагаты</Form>
@@ -1750,6 +1771,27 @@
         <Form Tag="XAP">пасыльных</Form>
         <Form Tag="XIP">пасыльнымі</Form>
         <Form Tag="XLP">пасыльных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032340" Lemma="піянерважаты" Tag="NCAPNS5" Govern="">
+        <Form Tag="MNS">піянерважаты</Form>
+        <Form Tag="MGS">піянерважатага</Form>
+        <Form Tag="MDS">піянерважатаму</Form>
+        <Form Tag="MAS">піянерважатага</Form>
+        <Form Tag="MIS">піянерважатым</Form>
+        <Form Tag="MLS">піянерважатым</Form>
+        <Form Tag="FNS">піянерважатая</Form>
+        <Form Tag="FGS">піянерважатай</Form>
+        <Form Tag="FDS">піянерважатай</Form>
+        <Form Tag="FAS">піянерважатую</Form>
+        <Form Tag="FIS">піянерважатай</Form>
+        <Form Tag="FLS">піянерважатай</Form>
+        <Form Tag="XNP">піянерважатыя</Form>
+        <Form Tag="XNP">піянерважатыя</Form>
+        <Form Tag="XGP">піянерважатых</Form>
+        <Form Tag="XDP">піянерважатым</Form>
+        <Form Tag="XAP">піянерважатых</Form>
+        <Form Tag="XIP">піянерважатымі</Form>
+        <Form Tag="XLP">піянерважатых</Form>
     </Paradigm>
     <Paradigm pdgId="1128034" Lemma="праваслаўны" Tag="NCAPNS5">
         <Form Tag="MNS">праваслаўны</Form>
@@ -2043,27 +2085,6 @@
         <Form Tag="XAP">псіхічнахворых</Form>
         <Form Tag="XIP">псіхічнахворымі</Form>
         <Form Tag="XLP">псіхічнахворых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1032340" Lemma="піянерважаты" Tag="NCAPNS5" Govern="">
-        <Form Tag="MNS">піянерважаты</Form>
-        <Form Tag="MGS">піянерважатага</Form>
-        <Form Tag="MDS">піянерважатаму</Form>
-        <Form Tag="MAS">піянерважатага</Form>
-        <Form Tag="MIS">піянерважатым</Form>
-        <Form Tag="MLS">піянерважатым</Form>
-        <Form Tag="FNS">піянерважатая</Form>
-        <Form Tag="FGS">піянерважатай</Form>
-        <Form Tag="FDS">піянерважатай</Form>
-        <Form Tag="FAS">піянерважатую</Form>
-        <Form Tag="FIS">піянерважатай</Form>
-        <Form Tag="FLS">піянерважатай</Form>
-        <Form Tag="XNP">піянерважатыя</Form>
-        <Form Tag="XNP">піянерважатыя</Form>
-        <Form Tag="XGP">піянерважатых</Form>
-        <Form Tag="XDP">піянерважатым</Form>
-        <Form Tag="XAP">піянерважатых</Form>
-        <Form Tag="XIP">піянерважатымі</Form>
-        <Form Tag="XLP">піянерважатых</Form>
     </Paradigm>
     <Paradigm pdgId="1127107" Lemma="рабочы" Tag="NCAPNS5" Govern="">
         <Form Tag="MNS">рабочы</Form>
@@ -2389,28 +2410,6 @@
         <Form Tag="XIP">соцкімі</Form>
         <Form Tag="XLP">соцкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128049" Lemma="ссыльны" Tag="NCAPNS5">
-        <Form Tag="MNS">ссыльны</Form>
-        <Form Tag="MGS">ссыльнага</Form>
-        <Form Tag="MDS">ссыльнаму</Form>
-        <Form Tag="MAS">ссыльнага</Form>
-        <Form Tag="MIS">ссыльным</Form>
-        <Form Tag="MLS">ссыльным</Form>
-        <Form Tag="FNS">ссыльная</Form>
-        <Form Tag="FGS">ссыльнай</Form>
-        <Form Tag="FGS" Type="nonstandard">ссыльнае</Form>
-        <Form Tag="FDS">ссыльнай</Form>
-        <Form Tag="FAS">ссыльную</Form>
-        <Form Tag="FIS">ссыльнай</Form>
-        <Form Tag="FIS">ссыльнаю</Form>
-        <Form Tag="FLS">ссыльнай</Form>
-        <Form Tag="XNP">ссыльныя</Form>
-        <Form Tag="XGP">ссыльных</Form>
-        <Form Tag="XDP">ссыльным</Form>
-        <Form Tag="XAP">ссыльных</Form>
-        <Form Tag="XIP">ссыльнымі</Form>
-        <Form Tag="XLP">ссыльных</Form>
-    </Paradigm>
     <Paradigm pdgId="1128050" Lemma="ссівелы" Tag="NCAPNS5">
         <Form Tag="MNS">ссівелы</Form>
         <Form Tag="MGS">ссівелага</Form>
@@ -2432,6 +2431,28 @@
         <Form Tag="XAP">ссівелых</Form>
         <Form Tag="XIP">ссівелымі</Form>
         <Form Tag="XLP">ссівелых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1128049" Lemma="ссыльны" Tag="NCAPNS5">
+        <Form Tag="MNS">ссыльны</Form>
+        <Form Tag="MGS">ссыльнага</Form>
+        <Form Tag="MDS">ссыльнаму</Form>
+        <Form Tag="MAS">ссыльнага</Form>
+        <Form Tag="MIS">ссыльным</Form>
+        <Form Tag="MLS">ссыльным</Form>
+        <Form Tag="FNS">ссыльная</Form>
+        <Form Tag="FGS">ссыльнай</Form>
+        <Form Tag="FGS" Type="nonstandard">ссыльнае</Form>
+        <Form Tag="FDS">ссыльнай</Form>
+        <Form Tag="FAS">ссыльную</Form>
+        <Form Tag="FIS">ссыльнай</Form>
+        <Form Tag="FIS">ссыльнаю</Form>
+        <Form Tag="FLS">ссыльнай</Form>
+        <Form Tag="XNP">ссыльныя</Form>
+        <Form Tag="XGP">ссыльных</Form>
+        <Form Tag="XDP">ссыльным</Form>
+        <Form Tag="XAP">ссыльных</Form>
+        <Form Tag="XIP">ссыльнымі</Form>
+        <Form Tag="XLP">ссыльных</Form>
     </Paradigm>
     <Paradigm pdgId="1128051" Lemma="стараслужачы" Tag="NCAPNS5">
         <Form Tag="MNS">стараслужачы</Form>
@@ -2925,26 +2946,5 @@
         <Form Tag="XAP">экспатрыяваных</Form>
         <Form Tag="XIP">экспатрыяванымі</Form>
         <Form Tag="XLP">экспатрыяваных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1128069" Lemma="ілжэвучоны" Tag="NCAPNS5">
-        <Form Tag="MNS">ілжэвучоны</Form>
-        <Form Tag="MGS">ілжэвучонага</Form>
-        <Form Tag="MDS">ілжэвучонаму</Form>
-        <Form Tag="MAS">ілжэвучонага</Form>
-        <Form Tag="MIS">ілжэвучоным</Form>
-        <Form Tag="MLS">ілжэвучоным</Form>
-        <Form Tag="FNS">ілжэвучоная</Form>
-        <Form Tag="FGS">ілжэвучонай</Form>
-        <Form Tag="FDS">ілжэвучонай</Form>
-        <Form Tag="FAS">ілжэвучоную</Form>
-        <Form Tag="FIS">ілжэвучонай</Form>
-        <Form Tag="FIS">ілжэвучонаю</Form>
-        <Form Tag="FLS">ілжэвучонай</Form>
-        <Form Tag="XNP">ілжэвучоныя</Form>
-        <Form Tag="XGP">ілжэвучоных</Form>
-        <Form Tag="XDP">ілжэвучоным</Form>
-        <Form Tag="XAP">ілжэвучоных</Form>
-        <Form Tag="XIP">ілжэвучонымі</Form>
-        <Form Tag="XLP">ілжэвучоных</Form>
     </Paradigm>
 </Wordlist>

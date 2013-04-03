@@ -56,20 +56,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1037864" Lemma="Ганалулу" Tag="NPIXNM0" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Ганалулу</Form>
-        <Form Tag="GS">Ганалулу</Form>
-        <Form Tag="DS">Ганалулу</Form>
-        <Form Tag="AS">Ганалулу</Form>
-        <Form Tag="IS">Ганалулу</Form>
-        <Form Tag="LS">Ганалулу</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1037842" Lemma="Гаіці" Tag="NPIXNM0" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Гаіці</Form>
         <Form Tag="GS">Гаіці</Form>
@@ -77,6 +63,20 @@
         <Form Tag="AS">Гаіці</Form>
         <Form Tag="IS">Гаіці</Form>
         <Form Tag="LS">Гаіці</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037864" Lemma="Ганалулу" Tag="NPIXNM0" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Ганалулу</Form>
+        <Form Tag="GS">Ганалулу</Form>
+        <Form Tag="DS">Ганалулу</Form>
+        <Form Tag="AS">Ганалулу</Form>
+        <Form Tag="IS">Ганалулу</Form>
+        <Form Tag="LS">Ганалулу</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -322,6 +322,20 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1127793" Lemma="Таіці" Tag="NPIXNM0" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Таіці</Form>
+        <Form Tag="GS">Таіці</Form>
+        <Form Tag="DS">Таіці</Form>
+        <Form Tag="AS">Таіці</Form>
+        <Form Tag="IS">Таіці</Form>
+        <Form Tag="LS">Таіці</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1038860" Lemma="Тальяці" Tag="NPIXNM0" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Тальяці</Form>
         <Form Tag="GS">Тальяці</Form>
@@ -357,20 +371,6 @@
         <Form Tag="AS">Тарту</Form>
         <Form Tag="IS">Тарту</Form>
         <Form Tag="LS">Тарту</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1127793" Lemma="Таіці" Tag="NPIXNM0" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Таіці</Form>
-        <Form Tag="GS">Таіці</Form>
-        <Form Tag="DS">Таіці</Form>
-        <Form Tag="AS">Таіці</Form>
-        <Form Tag="IS">Таіці</Form>
-        <Form Tag="LS">Таіці</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>

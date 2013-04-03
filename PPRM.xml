@@ -261,6 +261,35 @@
         <Form Tag="XIP">асуджаемымі</Form>
         <Form Tag="XLP">асуджаемых</Form>
     </Paradigm>
+    <Paradigm pdgId="1000237" Lemma="аўтаімпартуемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">аўтаімпартуемы</Form>
+        <Form Tag="MGS">аўтаімпартуемага</Form>
+        <Form Tag="MDS">аўтаімпартуемаму</Form>
+        <Form Tag="MAS">аўтаімпартуемы</Form>
+        <Form Tag="MAS">аўтаімпартуемага</Form>
+        <Form Tag="MIS">аўтаімпартуемым</Form>
+        <Form Tag="MLS">аўтаімпартуемым</Form>
+        <Form Tag="FNS">аўтаімпартуемая</Form>
+        <Form Tag="FGS">аўтаімпартуемай</Form>
+        <Form Tag="FGS">аўтаімпартуемае</Form>
+        <Form Tag="FDS">аўтаімпартуемай</Form>
+        <Form Tag="FAS">аўтаімпартуемую</Form>
+        <Form Tag="FIS">аўтаімпартуемай</Form>
+        <Form Tag="FIS">аўтаімпартуемаю</Form>
+        <Form Tag="FLS">аўтаімпартуемай</Form>
+        <Form Tag="NNS">аўтаімпартуемае</Form>
+        <Form Tag="NGS">аўтаімпартуемага</Form>
+        <Form Tag="NDS">аўтаімпартуемаму</Form>
+        <Form Tag="NAS">аўтаімпартуемае</Form>
+        <Form Tag="NIS">аўтаімпартуемым</Form>
+        <Form Tag="NLS">аўтаімпартуемым</Form>
+        <Form Tag="XNP">аўтаімпартуемыя</Form>
+        <Form Tag="XGP">аўтаімпартуемых</Form>
+        <Form Tag="XDP">аўтаімпартуемым</Form>
+        <Form Tag="XAP">аўтаімпартуемыя</Form>
+        <Form Tag="XIP">аўтаімпартуемымі</Form>
+        <Form Tag="XLP">аўтаімпартуемых</Form>
+    </Paradigm>
     <Paradigm pdgId="1002284" Lemma="ахоўваемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">ахоўваемы</Form>
         <Form Tag="MGS">ахоўваемага</Form>
@@ -318,35 +347,6 @@
         <Form Tag="XAP">ацэньваемыя</Form>
         <Form Tag="XIP">ацэньваемымі</Form>
         <Form Tag="XLP">ацэньваемых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000237" Lemma="аўтаімпартуемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">аўтаімпартуемы</Form>
-        <Form Tag="MGS">аўтаімпартуемага</Form>
-        <Form Tag="MDS">аўтаімпартуемаму</Form>
-        <Form Tag="MAS">аўтаімпартуемы</Form>
-        <Form Tag="MAS">аўтаімпартуемага</Form>
-        <Form Tag="MIS">аўтаімпартуемым</Form>
-        <Form Tag="MLS">аўтаімпартуемым</Form>
-        <Form Tag="FNS">аўтаімпартуемая</Form>
-        <Form Tag="FGS">аўтаімпартуемай</Form>
-        <Form Tag="FGS">аўтаімпартуемае</Form>
-        <Form Tag="FDS">аўтаімпартуемай</Form>
-        <Form Tag="FAS">аўтаімпартуемую</Form>
-        <Form Tag="FIS">аўтаімпартуемай</Form>
-        <Form Tag="FIS">аўтаімпартуемаю</Form>
-        <Form Tag="FLS">аўтаімпартуемай</Form>
-        <Form Tag="NNS">аўтаімпартуемае</Form>
-        <Form Tag="NGS">аўтаімпартуемага</Form>
-        <Form Tag="NDS">аўтаімпартуемаму</Form>
-        <Form Tag="NAS">аўтаімпартуемае</Form>
-        <Form Tag="NIS">аўтаімпартуемым</Form>
-        <Form Tag="NLS">аўтаімпартуемым</Form>
-        <Form Tag="XNP">аўтаімпартуемыя</Form>
-        <Form Tag="XGP">аўтаімпартуемых</Form>
-        <Form Tag="XDP">аўтаімпартуемым</Form>
-        <Form Tag="XAP">аўтаімпартуемыя</Form>
-        <Form Tag="XIP">аўтаімпартуемымі</Form>
-        <Form Tag="XLP">аўтаімпартуемых</Form>
     </Paradigm>
     <Paradigm pdgId="1002625" Lemma="выбіраемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">выбіраемы</Form>
@@ -638,35 +638,6 @@
         <Form Tag="XIP">выпраменьваемымі</Form>
         <Form Tag="XLP">выпраменьваемых</Form>
     </Paradigm>
-    <Paradigm pdgId="1003189" Lemma="выпрацоўваемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">выпрацоўваемы</Form>
-        <Form Tag="MGS">выпрацоўваемага</Form>
-        <Form Tag="MDS">выпрацоўваемаму</Form>
-        <Form Tag="MAS">выпрацоўваемы</Form>
-        <Form Tag="MAS">выпрацоўваемага</Form>
-        <Form Tag="MIS">выпрацоўваемым</Form>
-        <Form Tag="MLS">выпрацоўваемым</Form>
-        <Form Tag="FNS">выпрацоўваемая</Form>
-        <Form Tag="FGS">выпрацоўваемай</Form>
-        <Form Tag="FGS">выпрацоўваемае</Form>
-        <Form Tag="FDS">выпрацоўваемай</Form>
-        <Form Tag="FAS">выпрацоўваемую</Form>
-        <Form Tag="FIS">выпрацоўваемай</Form>
-        <Form Tag="FIS">выпрацоўваемаю</Form>
-        <Form Tag="FLS">выпрацоўваемай</Form>
-        <Form Tag="NNS">выпрацоўваемае</Form>
-        <Form Tag="NGS">выпрацоўваемага</Form>
-        <Form Tag="NDS">выпрацоўваемаму</Form>
-        <Form Tag="NAS">выпрацоўваемае</Form>
-        <Form Tag="NIS">выпрацоўваемым</Form>
-        <Form Tag="NLS">выпрацоўваемым</Form>
-        <Form Tag="XNP">выпрацоўваемыя</Form>
-        <Form Tag="XGP">выпрацоўваемых</Form>
-        <Form Tag="XDP">выпрацоўваемым</Form>
-        <Form Tag="XAP">выпрацоўваемыя</Form>
-        <Form Tag="XIP">выпрацоўваемымі</Form>
-        <Form Tag="XLP">выпрацоўваемых</Form>
-    </Paradigm>
     <Paradigm pdgId="1003150" Lemma="выпраўляемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">выпраўляемы</Form>
         <Form Tag="MGS">выпраўляемага</Form>
@@ -695,6 +666,35 @@
         <Form Tag="XAP">выпраўляемыя</Form>
         <Form Tag="XIP">выпраўляемымі</Form>
         <Form Tag="XLP">выпраўляемых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1003189" Lemma="выпрацоўваемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">выпрацоўваемы</Form>
+        <Form Tag="MGS">выпрацоўваемага</Form>
+        <Form Tag="MDS">выпрацоўваемаму</Form>
+        <Form Tag="MAS">выпрацоўваемы</Form>
+        <Form Tag="MAS">выпрацоўваемага</Form>
+        <Form Tag="MIS">выпрацоўваемым</Form>
+        <Form Tag="MLS">выпрацоўваемым</Form>
+        <Form Tag="FNS">выпрацоўваемая</Form>
+        <Form Tag="FGS">выпрацоўваемай</Form>
+        <Form Tag="FGS">выпрацоўваемае</Form>
+        <Form Tag="FDS">выпрацоўваемай</Form>
+        <Form Tag="FAS">выпрацоўваемую</Form>
+        <Form Tag="FIS">выпрацоўваемай</Form>
+        <Form Tag="FIS">выпрацоўваемаю</Form>
+        <Form Tag="FLS">выпрацоўваемай</Form>
+        <Form Tag="NNS">выпрацоўваемае</Form>
+        <Form Tag="NGS">выпрацоўваемага</Form>
+        <Form Tag="NDS">выпрацоўваемаму</Form>
+        <Form Tag="NAS">выпрацоўваемае</Form>
+        <Form Tag="NIS">выпрацоўваемым</Form>
+        <Form Tag="NLS">выпрацоўваемым</Form>
+        <Form Tag="XNP">выпрацоўваемыя</Form>
+        <Form Tag="XGP">выпрацоўваемых</Form>
+        <Form Tag="XDP">выпрацоўваемым</Form>
+        <Form Tag="XAP">выпрацоўваемыя</Form>
+        <Form Tag="XIP">выпрацоўваемымі</Form>
+        <Form Tag="XLP">выпрацоўваемых</Form>
     </Paradigm>
     <Paradigm pdgId="1161118" Lemma="выпускаемы" Tag="PPRM">
         <Form Tag="MNS">выпускаемы</Form>
@@ -957,6 +957,93 @@
         <Form Tag="XIP">здабываемымі</Form>
         <Form Tag="XLP">здабываемых</Form>
     </Paradigm>
+    <Paradigm pdgId="1000090" Lemma="ігнаруемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">ігнаруемы</Form>
+        <Form Tag="MGS">ігнаруемага</Form>
+        <Form Tag="MDS">ігнаруемаму</Form>
+        <Form Tag="MAS">ігнаруемы</Form>
+        <Form Tag="MAS">ігнаруемага</Form>
+        <Form Tag="MIS">ігнаруемым</Form>
+        <Form Tag="MLS">ігнаруемым</Form>
+        <Form Tag="FNS">ігнаруемая</Form>
+        <Form Tag="FGS">ігнаруемай</Form>
+        <Form Tag="FGS">ігнаруемае</Form>
+        <Form Tag="FDS">ігнаруемай</Form>
+        <Form Tag="FAS">ігнаруемую</Form>
+        <Form Tag="FIS">ігнаруемай</Form>
+        <Form Tag="FIS">ігнаруемаю</Form>
+        <Form Tag="FLS">ігнаруемай</Form>
+        <Form Tag="NNS">ігнаруемае</Form>
+        <Form Tag="NGS">ігнаруемага</Form>
+        <Form Tag="NDS">ігнаруемаму</Form>
+        <Form Tag="NAS">ігнаруемае</Form>
+        <Form Tag="NIS">ігнаруемым</Form>
+        <Form Tag="NLS">ігнаруемым</Form>
+        <Form Tag="XNP">ігнаруемыя</Form>
+        <Form Tag="XGP">ігнаруемых</Form>
+        <Form Tag="XDP">ігнаруемым</Form>
+        <Form Tag="XAP">ігнаруемыя</Form>
+        <Form Tag="XIP">ігнаруемымі</Form>
+        <Form Tag="XLP">ігнаруемых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000127" Lemma="імпартуемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">імпартуемы</Form>
+        <Form Tag="MGS">імпартуемага</Form>
+        <Form Tag="MDS">імпартуемаму</Form>
+        <Form Tag="MAS">імпартуемы</Form>
+        <Form Tag="MAS">імпартуемага</Form>
+        <Form Tag="MIS">імпартуемым</Form>
+        <Form Tag="MLS">імпартуемым</Form>
+        <Form Tag="FNS">імпартуемая</Form>
+        <Form Tag="FGS">імпартуемай</Form>
+        <Form Tag="FGS">імпартуемае</Form>
+        <Form Tag="FDS">імпартуемай</Form>
+        <Form Tag="FAS">імпартуемую</Form>
+        <Form Tag="FIS">імпартуемай</Form>
+        <Form Tag="FIS">імпартуемаю</Form>
+        <Form Tag="FLS">імпартуемай</Form>
+        <Form Tag="NNS">імпартуемае</Form>
+        <Form Tag="NGS">імпартуемага</Form>
+        <Form Tag="NDS">імпартуемаму</Form>
+        <Form Tag="NAS">імпартуемае</Form>
+        <Form Tag="NIS">імпартуемым</Form>
+        <Form Tag="NLS">імпартуемым</Form>
+        <Form Tag="XNP">імпартуемыя</Form>
+        <Form Tag="XGP">імпартуемых</Form>
+        <Form Tag="XDP">імпартуемым</Form>
+        <Form Tag="XAP">імпартуемыя</Form>
+        <Form Tag="XIP">імпартуемымі</Form>
+        <Form Tag="XLP">імпартуемых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000166" Lemma="інкрымінуемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">інкрымінуемы</Form>
+        <Form Tag="MGS">інкрымінуемага</Form>
+        <Form Tag="MDS">інкрымінуемаму</Form>
+        <Form Tag="MAS">інкрымінуемы</Form>
+        <Form Tag="MAS">інкрымінуемага</Form>
+        <Form Tag="MIS">інкрымінуемым</Form>
+        <Form Tag="MLS">інкрымінуемым</Form>
+        <Form Tag="FNS">інкрымінуемая</Form>
+        <Form Tag="FGS">інкрымінуемай</Form>
+        <Form Tag="FGS">інкрымінуемае</Form>
+        <Form Tag="FDS">інкрымінуемай</Form>
+        <Form Tag="FAS">інкрымінуемую</Form>
+        <Form Tag="FIS">інкрымінуемай</Form>
+        <Form Tag="FIS">інкрымінуемаю</Form>
+        <Form Tag="FLS">інкрымінуемай</Form>
+        <Form Tag="NNS">інкрымінуемае</Form>
+        <Form Tag="NGS">інкрымінуемага</Form>
+        <Form Tag="NDS">інкрымінуемаму</Form>
+        <Form Tag="NAS">інкрымінуемае</Form>
+        <Form Tag="NIS">інкрымінуемым</Form>
+        <Form Tag="NLS">інкрымінуемым</Form>
+        <Form Tag="XNP">інкрымінуемыя</Form>
+        <Form Tag="XGP">інкрымінуемых</Form>
+        <Form Tag="XDP">інкрымінуемым</Form>
+        <Form Tag="XAP">інкрымінуемыя</Form>
+        <Form Tag="XIP">інкрымінуемымі</Form>
+        <Form Tag="XLP">інкрымінуемых</Form>
+    </Paradigm>
     <Paradigm pdgId="1005998" Lemma="кампенсуемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">кампенсуемы</Form>
         <Form Tag="MGS">кампенсуемага</Form>
@@ -1073,35 +1160,6 @@
         <Form Tag="XIP">квадруемымі</Form>
         <Form Tag="XLP">квадруемых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006198" Lemma="кубуемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">кубуемы</Form>
-        <Form Tag="MGS">кубуемага</Form>
-        <Form Tag="MDS">кубуемаму</Form>
-        <Form Tag="MAS">кубуемы</Form>
-        <Form Tag="MAS">кубуемага</Form>
-        <Form Tag="MIS">кубуемым</Form>
-        <Form Tag="MLS">кубуемым</Form>
-        <Form Tag="FNS">кубуемая</Form>
-        <Form Tag="FGS">кубуемай</Form>
-        <Form Tag="FGS">кубуемае</Form>
-        <Form Tag="FDS">кубуемай</Form>
-        <Form Tag="FAS">кубуемую</Form>
-        <Form Tag="FIS">кубуемай</Form>
-        <Form Tag="FIS">кубуемаю</Form>
-        <Form Tag="FLS">кубуемай</Form>
-        <Form Tag="NNS">кубуемае</Form>
-        <Form Tag="NGS">кубуемага</Form>
-        <Form Tag="NDS">кубуемаму</Form>
-        <Form Tag="NAS">кубуемае</Form>
-        <Form Tag="NIS">кубуемым</Form>
-        <Form Tag="NLS">кубуемым</Form>
-        <Form Tag="XNP">кубуемыя</Form>
-        <Form Tag="XGP">кубуемых</Form>
-        <Form Tag="XDP">кубуемым</Form>
-        <Form Tag="XAP">кубуемыя</Form>
-        <Form Tag="XIP">кубуемымі</Form>
-        <Form Tag="XLP">кубуемых</Form>
-    </Paradigm>
     <Paradigm pdgId="1161121" Lemma="кіруемы" Tag="PPRM">
         <Form Tag="MNS">кіруемы</Form>
         <Form Tag="MGS">кіруемага</Form>
@@ -1130,6 +1188,35 @@
         <Form Tag="XAP">кіруемыя</Form>
         <Form Tag="XIP">кіруемымі</Form>
         <Form Tag="XLP">кіруемых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1006198" Lemma="кубуемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">кубуемы</Form>
+        <Form Tag="MGS">кубуемага</Form>
+        <Form Tag="MDS">кубуемаму</Form>
+        <Form Tag="MAS">кубуемы</Form>
+        <Form Tag="MAS">кубуемага</Form>
+        <Form Tag="MIS">кубуемым</Form>
+        <Form Tag="MLS">кубуемым</Form>
+        <Form Tag="FNS">кубуемая</Form>
+        <Form Tag="FGS">кубуемай</Form>
+        <Form Tag="FGS">кубуемае</Form>
+        <Form Tag="FDS">кубуемай</Form>
+        <Form Tag="FAS">кубуемую</Form>
+        <Form Tag="FIS">кубуемай</Form>
+        <Form Tag="FIS">кубуемаю</Form>
+        <Form Tag="FLS">кубуемай</Form>
+        <Form Tag="NNS">кубуемае</Form>
+        <Form Tag="NGS">кубуемага</Form>
+        <Form Tag="NDS">кубуемаму</Form>
+        <Form Tag="NAS">кубуемае</Form>
+        <Form Tag="NIS">кубуемым</Form>
+        <Form Tag="NLS">кубуемым</Form>
+        <Form Tag="XNP">кубуемыя</Form>
+        <Form Tag="XGP">кубуемых</Form>
+        <Form Tag="XDP">кубуемым</Form>
+        <Form Tag="XAP">кубуемыя</Form>
+        <Form Tag="XIP">кубуемымі</Form>
+        <Form Tag="XLP">кубуемых</Form>
     </Paradigm>
     <Paradigm pdgId="1006302" Lemma="любімы" Tag="PPRM" Govern="">
         <Form Tag="MNS">любімы</Form>
@@ -1827,6 +1914,35 @@
         <Form Tag="XIP">перапраграмуемымі</Form>
         <Form Tag="XLP">перапраграмуемых</Form>
     </Paradigm>
+    <Paradigm pdgId="1008766" Lemma="пілатуемы" Tag="PPRM" Govern="">
+        <Form Tag="MNS">пілатуемы</Form>
+        <Form Tag="MGS">пілатуемага</Form>
+        <Form Tag="MDS">пілатуемаму</Form>
+        <Form Tag="MAS">пілатуемы</Form>
+        <Form Tag="MAS">пілатуемага</Form>
+        <Form Tag="MIS">пілатуемым</Form>
+        <Form Tag="MLS">пілатуемым</Form>
+        <Form Tag="FNS">пілатуемая</Form>
+        <Form Tag="FGS">пілатуемай</Form>
+        <Form Tag="FGS">пілатуемае</Form>
+        <Form Tag="FDS">пілатуемай</Form>
+        <Form Tag="FAS">пілатуемую</Form>
+        <Form Tag="FIS">пілатуемай</Form>
+        <Form Tag="FIS">пілатуемаю</Form>
+        <Form Tag="FLS">пілатуемай</Form>
+        <Form Tag="NNS">пілатуемае</Form>
+        <Form Tag="NGS">пілатуемага</Form>
+        <Form Tag="NDS">пілатуемаму</Form>
+        <Form Tag="NAS">пілатуемае</Form>
+        <Form Tag="NIS">пілатуемым</Form>
+        <Form Tag="NLS">пілатуемым</Form>
+        <Form Tag="XNP">пілатуемыя</Form>
+        <Form Tag="XGP">пілатуемых</Form>
+        <Form Tag="XDP">пілатуемым</Form>
+        <Form Tag="XAP">пілатуемыя</Form>
+        <Form Tag="XIP">пілатуемымі</Form>
+        <Form Tag="XLP">пілатуемых</Form>
+    </Paradigm>
     <Paradigm pdgId="1161123" Lemma="праводзімы" Tag="PPRM">
         <Form Tag="MNS">праводзімы</Form>
         <Form Tag="MGS">праводзімага</Form>
@@ -2204,35 +2320,6 @@
         <Form Tag="XIP">публікуемымі</Form>
         <Form Tag="XLP">публікуемых</Form>
     </Paradigm>
-    <Paradigm pdgId="1008766" Lemma="пілатуемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">пілатуемы</Form>
-        <Form Tag="MGS">пілатуемага</Form>
-        <Form Tag="MDS">пілатуемаму</Form>
-        <Form Tag="MAS">пілатуемы</Form>
-        <Form Tag="MAS">пілатуемага</Form>
-        <Form Tag="MIS">пілатуемым</Form>
-        <Form Tag="MLS">пілатуемым</Form>
-        <Form Tag="FNS">пілатуемая</Form>
-        <Form Tag="FGS">пілатуемай</Form>
-        <Form Tag="FGS">пілатуемае</Form>
-        <Form Tag="FDS">пілатуемай</Form>
-        <Form Tag="FAS">пілатуемую</Form>
-        <Form Tag="FIS">пілатуемай</Form>
-        <Form Tag="FIS">пілатуемаю</Form>
-        <Form Tag="FLS">пілатуемай</Form>
-        <Form Tag="NNS">пілатуемае</Form>
-        <Form Tag="NGS">пілатуемага</Form>
-        <Form Tag="NDS">пілатуемаму</Form>
-        <Form Tag="NAS">пілатуемае</Form>
-        <Form Tag="NIS">пілатуемым</Form>
-        <Form Tag="NLS">пілатуемым</Form>
-        <Form Tag="XNP">пілатуемыя</Form>
-        <Form Tag="XGP">пілатуемых</Form>
-        <Form Tag="XDP">пілатуемым</Form>
-        <Form Tag="XAP">пілатуемыя</Form>
-        <Form Tag="XIP">пілатуемымі</Form>
-        <Form Tag="XLP">пілатуемых</Form>
-    </Paradigm>
     <Paradigm pdgId="1145029" Lemma="разглядаемы" Tag="PPRM">
         <Form Tag="MNS">разглядаемы</Form>
         <Form Tag="MGS">разглядаемага</Form>
@@ -2494,6 +2581,35 @@
         <Form Tag="XIP">рэфармуемымі</Form>
         <Form Tag="XLP">рэфармуемых</Form>
     </Paradigm>
+    <Paradigm pdgId="1161125" Lemma="сінтэзіруемы" Tag="PPRM">
+        <Form Tag="MNS">сінтэзіруемы</Form>
+        <Form Tag="MGS">сінтэзіруемага</Form>
+        <Form Tag="MDS">сінтэзіруемаму</Form>
+        <Form Tag="MAS">сінтэзіруемы</Form>
+        <Form Tag="MAS">сінтэзіруемага</Form>
+        <Form Tag="MIS">сінтэзіруемым</Form>
+        <Form Tag="MLS">сінтэзіруемым</Form>
+        <Form Tag="FNS">сінтэзіруемая</Form>
+        <Form Tag="FGS">сінтэзіруемай</Form>
+        <Form Tag="FGS">сінтэзіруемае</Form>
+        <Form Tag="FDS">сінтэзіруемай</Form>
+        <Form Tag="FAS">сінтэзіруемую</Form>
+        <Form Tag="FIS">сінтэзіруемай</Form>
+        <Form Tag="FIS">сінтэзіруемаю</Form>
+        <Form Tag="FLS">сінтэзіруемай</Form>
+        <Form Tag="NNS">сінтэзіруемае</Form>
+        <Form Tag="NGS">сінтэзіруемага</Form>
+        <Form Tag="NDS">сінтэзіруемаму</Form>
+        <Form Tag="NAS">сінтэзіруемае</Form>
+        <Form Tag="NIS">сінтэзіруемым</Form>
+        <Form Tag="NLS">сінтэзіруемым</Form>
+        <Form Tag="XNP">сінтэзіруемыя</Form>
+        <Form Tag="XGP">сінтэзіруемых</Form>
+        <Form Tag="XDP">сінтэзіруемым</Form>
+        <Form Tag="XAP">сінтэзіруемыя</Form>
+        <Form Tag="XIP">сінтэзіруемымі</Form>
+        <Form Tag="XLP">сінтэзіруемых</Form>
+    </Paradigm>
     <Paradigm pdgId="1013281" Lemma="слабарэалізуемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">слабарэалізуемы</Form>
         <Form Tag="MGS">слабарэалізуемага</Form>
@@ -2725,35 +2841,6 @@
         <Form Tag="XAP">сшываемыя</Form>
         <Form Tag="XIP">сшываемымі</Form>
         <Form Tag="XLP">сшываемых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1161125" Lemma="сінтэзіруемы" Tag="PPRM">
-        <Form Tag="MNS">сінтэзіруемы</Form>
-        <Form Tag="MGS">сінтэзіруемага</Form>
-        <Form Tag="MDS">сінтэзіруемаму</Form>
-        <Form Tag="MAS">сінтэзіруемы</Form>
-        <Form Tag="MAS">сінтэзіруемага</Form>
-        <Form Tag="MIS">сінтэзіруемым</Form>
-        <Form Tag="MLS">сінтэзіруемым</Form>
-        <Form Tag="FNS">сінтэзіруемая</Form>
-        <Form Tag="FGS">сінтэзіруемай</Form>
-        <Form Tag="FGS">сінтэзіруемае</Form>
-        <Form Tag="FDS">сінтэзіруемай</Form>
-        <Form Tag="FAS">сінтэзіруемую</Form>
-        <Form Tag="FIS">сінтэзіруемай</Form>
-        <Form Tag="FIS">сінтэзіруемаю</Form>
-        <Form Tag="FLS">сінтэзіруемай</Form>
-        <Form Tag="NNS">сінтэзіруемае</Form>
-        <Form Tag="NGS">сінтэзіруемага</Form>
-        <Form Tag="NDS">сінтэзіруемаму</Form>
-        <Form Tag="NAS">сінтэзіруемае</Form>
-        <Form Tag="NIS">сінтэзіруемым</Form>
-        <Form Tag="NLS">сінтэзіруемым</Form>
-        <Form Tag="XNP">сінтэзіруемыя</Form>
-        <Form Tag="XGP">сінтэзіруемых</Form>
-        <Form Tag="XDP">сінтэзіруемым</Form>
-        <Form Tag="XAP">сінтэзіруемыя</Form>
-        <Form Tag="XIP">сінтэзіруемымі</Form>
-        <Form Tag="XLP">сінтэзіруемых</Form>
     </Paradigm>
     <Paradigm pdgId="1013909" Lemma="трансфармуемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">трансфармуемы</Form>
@@ -3073,92 +3160,5 @@
         <Form Tag="XAP">эксплуатуемыя</Form>
         <Form Tag="XIP">эксплуатуемымі</Form>
         <Form Tag="XLP">эксплуатуемых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000090" Lemma="ігнаруемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">ігнаруемы</Form>
-        <Form Tag="MGS">ігнаруемага</Form>
-        <Form Tag="MDS">ігнаруемаму</Form>
-        <Form Tag="MAS">ігнаруемы</Form>
-        <Form Tag="MAS">ігнаруемага</Form>
-        <Form Tag="MIS">ігнаруемым</Form>
-        <Form Tag="MLS">ігнаруемым</Form>
-        <Form Tag="FNS">ігнаруемая</Form>
-        <Form Tag="FGS">ігнаруемай</Form>
-        <Form Tag="FGS">ігнаруемае</Form>
-        <Form Tag="FDS">ігнаруемай</Form>
-        <Form Tag="FAS">ігнаруемую</Form>
-        <Form Tag="FIS">ігнаруемай</Form>
-        <Form Tag="FIS">ігнаруемаю</Form>
-        <Form Tag="FLS">ігнаруемай</Form>
-        <Form Tag="NNS">ігнаруемае</Form>
-        <Form Tag="NGS">ігнаруемага</Form>
-        <Form Tag="NDS">ігнаруемаму</Form>
-        <Form Tag="NAS">ігнаруемае</Form>
-        <Form Tag="NIS">ігнаруемым</Form>
-        <Form Tag="NLS">ігнаруемым</Form>
-        <Form Tag="XNP">ігнаруемыя</Form>
-        <Form Tag="XGP">ігнаруемых</Form>
-        <Form Tag="XDP">ігнаруемым</Form>
-        <Form Tag="XAP">ігнаруемыя</Form>
-        <Form Tag="XIP">ігнаруемымі</Form>
-        <Form Tag="XLP">ігнаруемых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000127" Lemma="імпартуемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">імпартуемы</Form>
-        <Form Tag="MGS">імпартуемага</Form>
-        <Form Tag="MDS">імпартуемаму</Form>
-        <Form Tag="MAS">імпартуемы</Form>
-        <Form Tag="MAS">імпартуемага</Form>
-        <Form Tag="MIS">імпартуемым</Form>
-        <Form Tag="MLS">імпартуемым</Form>
-        <Form Tag="FNS">імпартуемая</Form>
-        <Form Tag="FGS">імпартуемай</Form>
-        <Form Tag="FGS">імпартуемае</Form>
-        <Form Tag="FDS">імпартуемай</Form>
-        <Form Tag="FAS">імпартуемую</Form>
-        <Form Tag="FIS">імпартуемай</Form>
-        <Form Tag="FIS">імпартуемаю</Form>
-        <Form Tag="FLS">імпартуемай</Form>
-        <Form Tag="NNS">імпартуемае</Form>
-        <Form Tag="NGS">імпартуемага</Form>
-        <Form Tag="NDS">імпартуемаму</Form>
-        <Form Tag="NAS">імпартуемае</Form>
-        <Form Tag="NIS">імпартуемым</Form>
-        <Form Tag="NLS">імпартуемым</Form>
-        <Form Tag="XNP">імпартуемыя</Form>
-        <Form Tag="XGP">імпартуемых</Form>
-        <Form Tag="XDP">імпартуемым</Form>
-        <Form Tag="XAP">імпартуемыя</Form>
-        <Form Tag="XIP">імпартуемымі</Form>
-        <Form Tag="XLP">імпартуемых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000166" Lemma="інкрымінуемы" Tag="PPRM" Govern="">
-        <Form Tag="MNS">інкрымінуемы</Form>
-        <Form Tag="MGS">інкрымінуемага</Form>
-        <Form Tag="MDS">інкрымінуемаму</Form>
-        <Form Tag="MAS">інкрымінуемы</Form>
-        <Form Tag="MAS">інкрымінуемага</Form>
-        <Form Tag="MIS">інкрымінуемым</Form>
-        <Form Tag="MLS">інкрымінуемым</Form>
-        <Form Tag="FNS">інкрымінуемая</Form>
-        <Form Tag="FGS">інкрымінуемай</Form>
-        <Form Tag="FGS">інкрымінуемае</Form>
-        <Form Tag="FDS">інкрымінуемай</Form>
-        <Form Tag="FAS">інкрымінуемую</Form>
-        <Form Tag="FIS">інкрымінуемай</Form>
-        <Form Tag="FIS">інкрымінуемаю</Form>
-        <Form Tag="FLS">інкрымінуемай</Form>
-        <Form Tag="NNS">інкрымінуемае</Form>
-        <Form Tag="NGS">інкрымінуемага</Form>
-        <Form Tag="NDS">інкрымінуемаму</Form>
-        <Form Tag="NAS">інкрымінуемае</Form>
-        <Form Tag="NIS">інкрымінуемым</Form>
-        <Form Tag="NLS">інкрымінуемым</Form>
-        <Form Tag="XNP">інкрымінуемыя</Form>
-        <Form Tag="XGP">інкрымінуемых</Form>
-        <Form Tag="XDP">інкрымінуемым</Form>
-        <Form Tag="XAP">інкрымінуемыя</Form>
-        <Form Tag="XIP">інкрымінуемымі</Form>
-        <Form Tag="XLP">інкрымінуемых</Form>
     </Paradigm>
 </Wordlist>

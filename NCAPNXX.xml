@@ -20,6 +20,14 @@
         <Form Tag="IP">бацькамі</Form>
         <Form Tag="LP">бацьках</Form>
     </Paradigm>
+    <Paradigm pdgId="1127151" Lemma="інкі" Tag="NCAPNXX" Govern="">
+        <Form Tag="NP">інкі</Form>
+        <Form Tag="GP">інкаў</Form>
+        <Form Tag="DP">інкам</Form>
+        <Form Tag="AP">інкі</Form>
+        <Form Tag="IP">інкамі</Form>
+        <Form Tag="LP">інках</Form>
+    </Paradigm>
     <Paradigm pdgId="1160150" Lemma="людзі" Tag="NCAPNXX" Govern="">
         <Form Tag="NS"></Form>
         <Form Tag="GS"></Form>
@@ -63,13 +71,5 @@
         <Form Tag="AP">палянаў</Form>
         <Form Tag="IP">палянамі</Form>
         <Form Tag="LP">палянах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127151" Lemma="інкі" Tag="NCAPNXX" Govern="">
-        <Form Tag="NP">інкі</Form>
-        <Form Tag="GP">інкаў</Form>
-        <Form Tag="DP">інкам</Form>
-        <Form Tag="AP">інкі</Form>
-        <Form Tag="IP">інкамі</Form>
-        <Form Tag="LP">інках</Form>
     </Paradigm>
 </Wordlist>

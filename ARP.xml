@@ -1,92 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127936" Lemma="руднічны" Tag="ARP" Govern="">
-        <Form Tag="MNS">руднічны</Form>
-        <Form Tag="MGS">руднічнага</Form>
-        <Form Tag="MDS">руднічнаму</Form>
-        <Form Tag="MAS">руднічны</Form>
-        <Form Tag="MAS">руднічнага</Form>
-        <Form Tag="MIS">руднічным</Form>
-        <Form Tag="MLS">руднічным</Form>
-        <Form Tag="FNS">руднічная</Form>
-        <Form Tag="FGS">руднічнай</Form>
-        <Form Tag="FGS">руднічнае</Form>
-        <Form Tag="FDS">руднічнай</Form>
-        <Form Tag="FAS">руднічную</Form>
-        <Form Tag="FIS">руднічнай</Form>
-        <Form Tag="FIS">руднічнаю</Form>
-        <Form Tag="FLS">руднічнай</Form>
-        <Form Tag="NNS">руднічнае</Form>
-        <Form Tag="NGS">руднічнага</Form>
-        <Form Tag="NDS">руднічнаму</Form>
-        <Form Tag="NAS">руднічнае</Form>
-        <Form Tag="NIS">руднічным</Form>
-        <Form Tag="NLS">руднічным</Form>
-        <Form Tag="XNP">руднічныя</Form>
-        <Form Tag="XGP">руднічных</Form>
-        <Form Tag="XDP">руднічным</Form>
-        <Form Tag="XAP">руднічныя</Form>
-        <Form Tag="XIP">руднічнымі</Form>
-        <Form Tag="XLP">руднічных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127937" Lemma="тэтраэдрычны" Tag="ARP" Govern="">
-        <Form Tag="MNS">тэтраэдрычны</Form>
-        <Form Tag="MGS">тэтраэдрычнага</Form>
-        <Form Tag="MDS">тэтраэдрычнаму</Form>
-        <Form Tag="MAS">тэтраэдрычны</Form>
-        <Form Tag="MAS">тэтраэдрычнага</Form>
-        <Form Tag="MIS">тэтраэдрычным</Form>
-        <Form Tag="MLS">тэтраэдрычным</Form>
-        <Form Tag="FNS">тэтраэдрычная</Form>
-        <Form Tag="FGS">тэтраэдрычнай</Form>
-        <Form Tag="FGS">тэтраэдрычнае</Form>
-        <Form Tag="FDS">тэтраэдрычнай</Form>
-        <Form Tag="FAS">тэтраэдрычную</Form>
-        <Form Tag="FIS">тэтраэдрычнай</Form>
-        <Form Tag="FIS">тэтраэдрычнаю</Form>
-        <Form Tag="FLS">тэтраэдрычнай</Form>
-        <Form Tag="NNS">тэтраэдрычнае</Form>
-        <Form Tag="NGS">тэтраэдрычнага</Form>
-        <Form Tag="NDS">тэтраэдрычнаму</Form>
-        <Form Tag="NAS">тэтраэдрычнае</Form>
-        <Form Tag="NIS">тэтраэдрычным</Form>
-        <Form Tag="NLS">тэтраэдрычным</Form>
-        <Form Tag="XNP">тэтраэдрычныя</Form>
-        <Form Tag="XGP">тэтраэдрычных</Form>
-        <Form Tag="XDP">тэтраэдрычным</Form>
-        <Form Tag="XAP">тэтраэдрычныя</Form>
-        <Form Tag="XIP">тэтраэдрычнымі</Form>
-        <Form Tag="XLP">тэтраэдрычных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127938" Lemma="хлорарганічны" Tag="ARP" Govern="">
-        <Form Tag="MNS">хлорарганічны</Form>
-        <Form Tag="MGS">хлорарганічнага</Form>
-        <Form Tag="MDS">хлорарганічнаму</Form>
-        <Form Tag="MAS">хлорарганічны</Form>
-        <Form Tag="MAS">хлорарганічнага</Form>
-        <Form Tag="MIS">хлорарганічным</Form>
-        <Form Tag="MLS">хлорарганічным</Form>
-        <Form Tag="FNS">хлорарганічная</Form>
-        <Form Tag="FGS">хлорарганічнай</Form>
-        <Form Tag="FGS">хлорарганічнае</Form>
-        <Form Tag="FDS">хлорарганічнай</Form>
-        <Form Tag="FAS">хлорарганічную</Form>
-        <Form Tag="FIS">хлорарганічнай</Form>
-        <Form Tag="FIS">хлорарганічнаю</Form>
-        <Form Tag="FLS">хлорарганічнай</Form>
-        <Form Tag="NNS">хлорарганічнае</Form>
-        <Form Tag="NGS">хлорарганічнага</Form>
-        <Form Tag="NDS">хлорарганічнаму</Form>
-        <Form Tag="NAS">хлорарганічнае</Form>
-        <Form Tag="NIS">хлорарганічным</Form>
-        <Form Tag="NLS">хлорарганічным</Form>
-        <Form Tag="XNP">хлорарганічныя</Form>
-        <Form Tag="XGP">хлорарганічных</Form>
-        <Form Tag="XDP">хлорарганічным</Form>
-        <Form Tag="XAP">хлорарганічныя</Form>
-        <Form Tag="XIP">хлорарганічнымі</Form>
-        <Form Tag="XLP">хлорарганічных</Form>
-    </Paradigm>
     <Paradigm pdgId="1043849" Lemma="іберыйскі" Tag="ARP" Govern="">
         <Form Tag="MNS">іберыйскі</Form>
         <Form Tag="MGS">іберыйскага</Form>
@@ -493,35 +406,6 @@
         <Form Tag="XIP">ідыёцкімі</Form>
         <Form Tag="XLP">ідыёцкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1043836" Lemma="іудзейскі" Tag="ARP" Govern="">
-        <Form Tag="MNS">іудзейскі</Form>
-        <Form Tag="MGS">іудзейскага</Form>
-        <Form Tag="MDS">іудзейскаму</Form>
-        <Form Tag="MAS">іудзейскі</Form>
-        <Form Tag="MAS">іудзейскага</Form>
-        <Form Tag="MIS">іудзейскім</Form>
-        <Form Tag="MLS">іудзейскім</Form>
-        <Form Tag="FNS">іудзейская</Form>
-        <Form Tag="FGS">іудзейскай</Form>
-        <Form Tag="FGS">іудзейскае</Form>
-        <Form Tag="FDS">іудзейскай</Form>
-        <Form Tag="FAS">іудзейскую</Form>
-        <Form Tag="FIS">іудзейскай</Form>
-        <Form Tag="FIS">іудзейскаю</Form>
-        <Form Tag="FLS">іудзейскай</Form>
-        <Form Tag="NNS">іудзейскае</Form>
-        <Form Tag="NGS">іудзейскага</Form>
-        <Form Tag="NDS">іудзейскаму</Form>
-        <Form Tag="NAS">іудзейскае</Form>
-        <Form Tag="NIS">іудзейскім</Form>
-        <Form Tag="NLS">іудзейскім</Form>
-        <Form Tag="XNP">іудзейскія</Form>
-        <Form Tag="XGP">іудзейскіх</Form>
-        <Form Tag="XDP">іудзейскім</Form>
-        <Form Tag="XAP">іудзейскія</Form>
-        <Form Tag="XIP">іудзейскімі</Form>
-        <Form Tag="XLP">іудзейскіх</Form>
-    </Paradigm>
     <Paradigm pdgId="1043842" Lemma="іёнавы" Tag="ARP" Govern="">
         <Form Tag="MNS">іёнавы</Form>
         <Form Tag="MGS">іёнавага</Form>
@@ -609,6 +493,35 @@
         <Form Tag="XIP">іённымі</Form>
         <Form Tag="XLP">іённых</Form>
     </Paradigm>
+    <Paradigm pdgId="1043836" Lemma="іудзейскі" Tag="ARP" Govern="">
+        <Form Tag="MNS">іудзейскі</Form>
+        <Form Tag="MGS">іудзейскага</Form>
+        <Form Tag="MDS">іудзейскаму</Form>
+        <Form Tag="MAS">іудзейскі</Form>
+        <Form Tag="MAS">іудзейскага</Form>
+        <Form Tag="MIS">іудзейскім</Form>
+        <Form Tag="MLS">іудзейскім</Form>
+        <Form Tag="FNS">іудзейская</Form>
+        <Form Tag="FGS">іудзейскай</Form>
+        <Form Tag="FGS">іудзейскае</Form>
+        <Form Tag="FDS">іудзейскай</Form>
+        <Form Tag="FAS">іудзейскую</Form>
+        <Form Tag="FIS">іудзейскай</Form>
+        <Form Tag="FIS">іудзейскаю</Form>
+        <Form Tag="FLS">іудзейскай</Form>
+        <Form Tag="NNS">іудзейскае</Form>
+        <Form Tag="NGS">іудзейскага</Form>
+        <Form Tag="NDS">іудзейскаму</Form>
+        <Form Tag="NAS">іудзейскае</Form>
+        <Form Tag="NIS">іудзейскім</Form>
+        <Form Tag="NLS">іудзейскім</Form>
+        <Form Tag="XNP">іудзейскія</Form>
+        <Form Tag="XGP">іудзейскіх</Form>
+        <Form Tag="XDP">іудзейскім</Form>
+        <Form Tag="XAP">іудзейскія</Form>
+        <Form Tag="XIP">іудзейскімі</Form>
+        <Form Tag="XLP">іудзейскіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1043839" Lemma="іўеўскі" Tag="ARP" Govern="">
         <Form Tag="MNS">іўеўскі</Form>
         <Form Tag="MGS">іўеўскага</Form>
@@ -637,5 +550,92 @@
         <Form Tag="XAP">іўеўскія</Form>
         <Form Tag="XIP">іўеўскімі</Form>
         <Form Tag="XLP">іўеўскіх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127936" Lemma="руднічны" Tag="ARP" Govern="">
+        <Form Tag="MNS">руднічны</Form>
+        <Form Tag="MGS">руднічнага</Form>
+        <Form Tag="MDS">руднічнаму</Form>
+        <Form Tag="MAS">руднічны</Form>
+        <Form Tag="MAS">руднічнага</Form>
+        <Form Tag="MIS">руднічным</Form>
+        <Form Tag="MLS">руднічным</Form>
+        <Form Tag="FNS">руднічная</Form>
+        <Form Tag="FGS">руднічнай</Form>
+        <Form Tag="FGS">руднічнае</Form>
+        <Form Tag="FDS">руднічнай</Form>
+        <Form Tag="FAS">руднічную</Form>
+        <Form Tag="FIS">руднічнай</Form>
+        <Form Tag="FIS">руднічнаю</Form>
+        <Form Tag="FLS">руднічнай</Form>
+        <Form Tag="NNS">руднічнае</Form>
+        <Form Tag="NGS">руднічнага</Form>
+        <Form Tag="NDS">руднічнаму</Form>
+        <Form Tag="NAS">руднічнае</Form>
+        <Form Tag="NIS">руднічным</Form>
+        <Form Tag="NLS">руднічным</Form>
+        <Form Tag="XNP">руднічныя</Form>
+        <Form Tag="XGP">руднічных</Form>
+        <Form Tag="XDP">руднічным</Form>
+        <Form Tag="XAP">руднічныя</Form>
+        <Form Tag="XIP">руднічнымі</Form>
+        <Form Tag="XLP">руднічных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127937" Lemma="тэтраэдрычны" Tag="ARP" Govern="">
+        <Form Tag="MNS">тэтраэдрычны</Form>
+        <Form Tag="MGS">тэтраэдрычнага</Form>
+        <Form Tag="MDS">тэтраэдрычнаму</Form>
+        <Form Tag="MAS">тэтраэдрычны</Form>
+        <Form Tag="MAS">тэтраэдрычнага</Form>
+        <Form Tag="MIS">тэтраэдрычным</Form>
+        <Form Tag="MLS">тэтраэдрычным</Form>
+        <Form Tag="FNS">тэтраэдрычная</Form>
+        <Form Tag="FGS">тэтраэдрычнай</Form>
+        <Form Tag="FGS">тэтраэдрычнае</Form>
+        <Form Tag="FDS">тэтраэдрычнай</Form>
+        <Form Tag="FAS">тэтраэдрычную</Form>
+        <Form Tag="FIS">тэтраэдрычнай</Form>
+        <Form Tag="FIS">тэтраэдрычнаю</Form>
+        <Form Tag="FLS">тэтраэдрычнай</Form>
+        <Form Tag="NNS">тэтраэдрычнае</Form>
+        <Form Tag="NGS">тэтраэдрычнага</Form>
+        <Form Tag="NDS">тэтраэдрычнаму</Form>
+        <Form Tag="NAS">тэтраэдрычнае</Form>
+        <Form Tag="NIS">тэтраэдрычным</Form>
+        <Form Tag="NLS">тэтраэдрычным</Form>
+        <Form Tag="XNP">тэтраэдрычныя</Form>
+        <Form Tag="XGP">тэтраэдрычных</Form>
+        <Form Tag="XDP">тэтраэдрычным</Form>
+        <Form Tag="XAP">тэтраэдрычныя</Form>
+        <Form Tag="XIP">тэтраэдрычнымі</Form>
+        <Form Tag="XLP">тэтраэдрычных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127938" Lemma="хлорарганічны" Tag="ARP" Govern="">
+        <Form Tag="MNS">хлорарганічны</Form>
+        <Form Tag="MGS">хлорарганічнага</Form>
+        <Form Tag="MDS">хлорарганічнаму</Form>
+        <Form Tag="MAS">хлорарганічны</Form>
+        <Form Tag="MAS">хлорарганічнага</Form>
+        <Form Tag="MIS">хлорарганічным</Form>
+        <Form Tag="MLS">хлорарганічным</Form>
+        <Form Tag="FNS">хлорарганічная</Form>
+        <Form Tag="FGS">хлорарганічнай</Form>
+        <Form Tag="FGS">хлорарганічнае</Form>
+        <Form Tag="FDS">хлорарганічнай</Form>
+        <Form Tag="FAS">хлорарганічную</Form>
+        <Form Tag="FIS">хлорарганічнай</Form>
+        <Form Tag="FIS">хлорарганічнаю</Form>
+        <Form Tag="FLS">хлорарганічнай</Form>
+        <Form Tag="NNS">хлорарганічнае</Form>
+        <Form Tag="NGS">хлорарганічнага</Form>
+        <Form Tag="NDS">хлорарганічнаму</Form>
+        <Form Tag="NAS">хлорарганічнае</Form>
+        <Form Tag="NIS">хлорарганічным</Form>
+        <Form Tag="NLS">хлорарганічным</Form>
+        <Form Tag="XNP">хлорарганічныя</Form>
+        <Form Tag="XGP">хлорарганічных</Form>
+        <Form Tag="XDP">хлорарганічным</Form>
+        <Form Tag="XAP">хлорарганічныя</Form>
+        <Form Tag="XIP">хлорарганічнымі</Form>
+        <Form Tag="XLP">хлорарганічных</Form>
     </Paradigm>
 </Wordlist>

@@ -224,6 +224,20 @@
         <Form Tag="IP">арлякамі</Form>
         <Form Tag="LP">арляках</Form>
     </Paradigm>
+    <Paradigm pdgId="1026787" Lemma="асёл" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">асёл</Form>
+        <Form Tag="GS">асла</Form>
+        <Form Tag="DS">аслу</Form>
+        <Form Tag="AS">асла</Form>
+        <Form Tag="IS">аслом</Form>
+        <Form Tag="LS">асле</Form>
+        <Form Tag="NP">аслы</Form>
+        <Form Tag="GP">аслоў</Form>
+        <Form Tag="DP">аслам</Form>
+        <Form Tag="AP">аслоў</Form>
+        <Form Tag="IP">асламі</Form>
+        <Form Tag="LP">аслах</Form>
+    </Paradigm>
     <Paradigm pdgId="1026800" Lemma="асетр" Tag="NCAINM1" Govern="">
         <Form Tag="NS">асетр</Form>
         <Form Tag="GS">асятра</Form>
@@ -265,20 +279,6 @@
         <Form Tag="AP">асятроў</Form>
         <Form Tag="IP">асятрамі</Form>
         <Form Tag="LP">асятрах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1026787" Lemma="асёл" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">асёл</Form>
-        <Form Tag="GS">асла</Form>
-        <Form Tag="DS">аслу</Form>
-        <Form Tag="AS">асла</Form>
-        <Form Tag="IS">аслом</Form>
-        <Form Tag="LS">асле</Form>
-        <Form Tag="NP">аслы</Form>
-        <Form Tag="GP">аслоў</Form>
-        <Form Tag="DP">аслам</Form>
-        <Form Tag="AP">аслоў</Form>
-        <Form Tag="IP">асламі</Form>
-        <Form Tag="LP">аслах</Form>
     </Paradigm>
     <Paradigm pdgId="1025644" Lemma="аўсянік" Tag="NCAINM1" Govern="">
         <Form Tag="NS">аўсянік</Form>
@@ -546,6 +546,34 @@
         <Form Tag="IP">беркутамі</Form>
         <Form Tag="LP">беркутах</Form>
     </Paradigm>
+    <Paradigm pdgId="1027020" Lemma="бізон" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">бізон</Form>
+        <Form Tag="GS">бізона</Form>
+        <Form Tag="DS">бізону</Form>
+        <Form Tag="AS">бізона</Form>
+        <Form Tag="IS">бізонам</Form>
+        <Form Tag="LS">бізоне</Form>
+        <Form Tag="NP">бізоны</Form>
+        <Form Tag="GP">бізонаў</Form>
+        <Form Tag="DP">бізонам</Form>
+        <Form Tag="AP">бізонаў</Form>
+        <Form Tag="IP">бізонамі</Form>
+        <Form Tag="LP">бізонах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136224" Lemma="біцюг" Tag="NCAINM1">
+        <Form Tag="NS">біцюг</Form>
+        <Form Tag="GS">біцюга</Form>
+        <Form Tag="DS">біцюгу</Form>
+        <Form Tag="AS">біцюга</Form>
+        <Form Tag="IS">біцюгом</Form>
+        <Form Tag="LS">біцюгу</Form>
+        <Form Tag="NP">біцюгі</Form>
+        <Form Tag="GP">біцюгоў</Form>
+        <Form Tag="DP">біцюгам</Form>
+        <Form Tag="AP">біцюгоў</Form>
+        <Form Tag="IP">біцюгамі</Form>
+        <Form Tag="LP">біцюгах</Form>
+    </Paradigm>
     <Paradigm pdgId="1136219" Lemma="бройлер" Tag="NCAINM1">
         <Form Tag="NS">бройлер</Form>
         <Form Tag="GS">бройлера</Form>
@@ -728,34 +756,6 @@
         <Form Tag="IP">белянамі-капуснікамі</Form>
         <Form Tag="LP">белянах-капусніках</Form>
     </Paradigm>
-    <Paradigm pdgId="1027020" Lemma="бізон" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">бізон</Form>
-        <Form Tag="GS">бізона</Form>
-        <Form Tag="DS">бізону</Form>
-        <Form Tag="AS">бізона</Form>
-        <Form Tag="IS">бізонам</Form>
-        <Form Tag="LS">бізоне</Form>
-        <Form Tag="NP">бізоны</Form>
-        <Form Tag="GP">бізонаў</Form>
-        <Form Tag="DP">бізонам</Form>
-        <Form Tag="AP">бізонаў</Form>
-        <Form Tag="IP">бізонамі</Form>
-        <Form Tag="LP">бізонах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136224" Lemma="біцюг" Tag="NCAINM1">
-        <Form Tag="NS">біцюг</Form>
-        <Form Tag="GS">біцюга</Form>
-        <Form Tag="DS">біцюгу</Form>
-        <Form Tag="AS">біцюга</Form>
-        <Form Tag="IS">біцюгом</Form>
-        <Form Tag="LS">біцюгу</Form>
-        <Form Tag="NP">біцюгі</Form>
-        <Form Tag="GP">біцюгоў</Form>
-        <Form Tag="DP">біцюгам</Form>
-        <Form Tag="AP">біцюгоў</Form>
-        <Form Tag="IP">біцюгамі</Form>
-        <Form Tag="LP">біцюгах</Form>
-    </Paradigm>
     <Paradigm pdgId="1136225" Lemma="валасаед" Tag="NCAINM1">
         <Form Tag="NS">валасаед</Form>
         <Form Tag="GS">валасаеда</Form>
@@ -909,6 +909,20 @@
         <Form Tag="AP">верабейчыкаў</Form>
         <Form Tag="IP">верабейчыкамі</Form>
         <Form Tag="LP">верабейчыках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136234" Lemma="вібрыён" Tag="NCAINM1">
+        <Form Tag="NS">вібрыён</Form>
+        <Form Tag="GS">вібрыёна</Form>
+        <Form Tag="DS">вібрыёну</Form>
+        <Form Tag="AS">вібрыёна</Form>
+        <Form Tag="IS">вібрыёнам</Form>
+        <Form Tag="LS">вібрыёне</Form>
+        <Form Tag="NP">вібрыёны</Form>
+        <Form Tag="GP">вібрыёнаў</Form>
+        <Form Tag="DP">вібрыёнам</Form>
+        <Form Tag="AP">вібрыёнаў</Form>
+        <Form Tag="IP">вібрыёнамі</Form>
+        <Form Tag="LP">вібрыёнах</Form>
     </Paradigm>
     <Paradigm pdgId="1028375" Lemma="вожык" Tag="NCAINM1" Govern="">
         <Form Tag="NS">вожык</Form>
@@ -1106,20 +1120,6 @@
         <Form Tag="IP">вяхірамі</Form>
         <Form Tag="LP">вяхірах</Form>
     </Paradigm>
-    <Paradigm pdgId="1136234" Lemma="вібрыён" Tag="NCAINM1">
-        <Form Tag="NS">вібрыён</Form>
-        <Form Tag="GS">вібрыёна</Form>
-        <Form Tag="DS">вібрыёну</Form>
-        <Form Tag="AS">вібрыёна</Form>
-        <Form Tag="IS">вібрыёнам</Form>
-        <Form Tag="LS">вібрыёне</Form>
-        <Form Tag="NP">вібрыёны</Form>
-        <Form Tag="GP">вібрыёнаў</Form>
-        <Form Tag="DP">вібрыёнам</Form>
-        <Form Tag="AP">вібрыёнаў</Form>
-        <Form Tag="IP">вібрыёнамі</Form>
-        <Form Tag="LP">вібрыёнах</Form>
-    </Paradigm>
     <Paradigm pdgId="1028769" Lemma="гад" Tag="NCAINM1" Govern="">
         <Form Tag="NS">гад</Form>
         <Form Tag="GS">гада</Form>
@@ -1260,6 +1260,62 @@
         <Form Tag="IP">гепардамі</Form>
         <Form Tag="LP">гепардах</Form>
     </Paradigm>
+    <Paradigm pdgId="1028711" Lemma="гіз" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">гіз</Form>
+        <Form Tag="GS">гіза</Form>
+        <Form Tag="DS">гізу</Form>
+        <Form Tag="AS">гіза</Form>
+        <Form Tag="IS">гізом</Form>
+        <Form Tag="LS">гізе</Form>
+        <Form Tag="NP">гізы</Form>
+        <Form Tag="GP">гізоў</Form>
+        <Form Tag="DP">гізам</Form>
+        <Form Tag="AP">гізоў</Form>
+        <Form Tag="IP">гізамі</Form>
+        <Form Tag="LP">гізах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1028713" Lemma="гіль" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">гіль</Form>
+        <Form Tag="GS">гіля</Form>
+        <Form Tag="DS">гілю</Form>
+        <Form Tag="AS">гіля</Form>
+        <Form Tag="IS">гілём</Form>
+        <Form Tag="LS">гілі</Form>
+        <Form Tag="NP">гілі</Form>
+        <Form Tag="GP">гілёў</Form>
+        <Form Tag="DP">гілям</Form>
+        <Form Tag="AP">гілёў</Form>
+        <Form Tag="IP">гілямі</Form>
+        <Form Tag="LP">гілях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136241" Lemma="гіпапатам" Tag="NCAINM1">
+        <Form Tag="NS">гіпапатам</Form>
+        <Form Tag="GS">гіпапатама</Form>
+        <Form Tag="DS">гіпапатаму</Form>
+        <Form Tag="AS">гіпапатама</Form>
+        <Form Tag="IS">гіпапатамам</Form>
+        <Form Tag="LS">гіпапатаме</Form>
+        <Form Tag="NP">гіпапатамы</Form>
+        <Form Tag="GP">гіпапатамаў</Form>
+        <Form Tag="DP">гіпапатамам</Form>
+        <Form Tag="AP">гіпапатамаў</Form>
+        <Form Tag="IP">гіпапатамамі</Form>
+        <Form Tag="LP">гіпапатамах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1029164" Lemma="гліст" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">гліст</Form>
+        <Form Tag="GS">гліста</Form>
+        <Form Tag="DS">глісту</Form>
+        <Form Tag="AS">гліста</Form>
+        <Form Tag="IS">глістом</Form>
+        <Form Tag="LS">глісце</Form>
+        <Form Tag="NP">глісты</Form>
+        <Form Tag="GP">глістоў</Form>
+        <Form Tag="DP">глістам</Form>
+        <Form Tag="AP">глістоў</Form>
+        <Form Tag="IP">глістамі</Form>
+        <Form Tag="LP">глістах</Form>
+    </Paradigm>
     <Paradigm pdgId="1029180" Lemma="глушак" Tag="NCAINM1" Govern="">
         <Form Tag="NS">глушак</Form>
         <Form Tag="GS">глушака</Form>
@@ -1287,20 +1343,6 @@
         <Form Tag="AP">глушцоў</Form>
         <Form Tag="IP">глушцамі</Form>
         <Form Tag="LP">глушцах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1029164" Lemma="гліст" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">гліст</Form>
-        <Form Tag="GS">гліста</Form>
-        <Form Tag="DS">глісту</Form>
-        <Form Tag="AS">гліста</Form>
-        <Form Tag="IS">глістом</Form>
-        <Form Tag="LS">глісце</Form>
-        <Form Tag="NP">глісты</Form>
-        <Form Tag="GP">глістоў</Form>
-        <Form Tag="DP">глістам</Form>
-        <Form Tag="AP">глістоў</Form>
-        <Form Tag="IP">глістамі</Form>
-        <Form Tag="LP">глістах</Form>
     </Paradigm>
     <Paradigm pdgId="1029202" Lemma="гнаявік" Tag="NCAINM1" Govern="">
         <Form Tag="NS">гнаявік</Form>
@@ -1400,48 +1442,6 @@
         <Form Tag="IP">гусакамі</Form>
         <Form Tag="LP">гусаках</Form>
     </Paradigm>
-    <Paradigm pdgId="1028711" Lemma="гіз" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">гіз</Form>
-        <Form Tag="GS">гіза</Form>
-        <Form Tag="DS">гізу</Form>
-        <Form Tag="AS">гіза</Form>
-        <Form Tag="IS">гізом</Form>
-        <Form Tag="LS">гізе</Form>
-        <Form Tag="NP">гізы</Form>
-        <Form Tag="GP">гізоў</Form>
-        <Form Tag="DP">гізам</Form>
-        <Form Tag="AP">гізоў</Form>
-        <Form Tag="IP">гізамі</Form>
-        <Form Tag="LP">гізах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1028713" Lemma="гіль" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">гіль</Form>
-        <Form Tag="GS">гіля</Form>
-        <Form Tag="DS">гілю</Form>
-        <Form Tag="AS">гіля</Form>
-        <Form Tag="IS">гілём</Form>
-        <Form Tag="LS">гілі</Form>
-        <Form Tag="NP">гілі</Form>
-        <Form Tag="GP">гілёў</Form>
-        <Form Tag="DP">гілям</Form>
-        <Form Tag="AP">гілёў</Form>
-        <Form Tag="IP">гілямі</Form>
-        <Form Tag="LP">гілях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136241" Lemma="гіпапатам" Tag="NCAINM1">
-        <Form Tag="NS">гіпапатам</Form>
-        <Form Tag="GS">гіпапатама</Form>
-        <Form Tag="DS">гіпапатаму</Form>
-        <Form Tag="AS">гіпапатама</Form>
-        <Form Tag="IS">гіпапатамам</Form>
-        <Form Tag="LS">гіпапатаме</Form>
-        <Form Tag="NP">гіпапатамы</Form>
-        <Form Tag="GP">гіпапатамаў</Form>
-        <Form Tag="DP">гіпапатамам</Form>
-        <Form Tag="AP">гіпапатамаў</Form>
-        <Form Tag="IP">гіпапатамамі</Form>
-        <Form Tag="LP">гіпапатамах</Form>
-    </Paradigm>
     <Paradigm pdgId="1029422" Lemma="даберман" Tag="NCAINM1" Govern="">
         <Form Tag="NS">даберман</Form>
         <Form Tag="GS">дабермана</Form>
@@ -1512,20 +1512,6 @@
         <Form Tag="IP">джэйранамі</Form>
         <Form Tag="LP">джэйранах</Form>
     </Paradigm>
-    <Paradigm pdgId="1029611" Lemma="дзяцел" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">дзяцел</Form>
-        <Form Tag="GS">дзятла</Form>
-        <Form Tag="DS">дзятлу</Form>
-        <Form Tag="AS">дзятла</Form>
-        <Form Tag="IS">дзятлам</Form>
-        <Form Tag="LS">дзятле</Form>
-        <Form Tag="NP">дзятлы</Form>
-        <Form Tag="GP">дзятлаў</Form>
-        <Form Tag="DP">дзятлам</Form>
-        <Form Tag="AP">дзятлаў</Form>
-        <Form Tag="IP">дзятламі</Form>
-        <Form Tag="LP">дзятлах</Form>
-    </Paradigm>
     <Paradigm pdgId="1029543" Lemma="дзік" Tag="NCAINM1" Govern="">
         <Form Tag="NS">дзік</Form>
         <Form Tag="GS">дзіка</Form>
@@ -1553,6 +1539,20 @@
         <Form Tag="AP">дзікабразаў</Form>
         <Form Tag="IP">дзікабразамі</Form>
         <Form Tag="LP">дзікабразах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1029611" Lemma="дзяцел" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">дзяцел</Form>
+        <Form Tag="GS">дзятла</Form>
+        <Form Tag="DS">дзятлу</Form>
+        <Form Tag="AS">дзятла</Form>
+        <Form Tag="IS">дзятлам</Form>
+        <Form Tag="LS">дзятле</Form>
+        <Form Tag="NP">дзятлы</Form>
+        <Form Tag="GP">дзятлаў</Form>
+        <Form Tag="DP">дзятлам</Form>
+        <Form Tag="AP">дзятлаў</Form>
+        <Form Tag="IP">дзятламі</Form>
+        <Form Tag="LP">дзятлах</Form>
     </Paradigm>
     <Paradigm pdgId="1136244" Lemma="доберман-пінчэр" Tag="NCAINM1">
         <Form Tag="NS">доберман-пінчэр</Form>
@@ -1918,6 +1918,20 @@
         <Form Tag="IP">звяркамі</Form>
         <Form Tag="LP">звярках</Form>
     </Paradigm>
+    <Paradigm pdgId="1029965" Lemma="зімародак" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">зімародак</Form>
+        <Form Tag="GS">зімародка</Form>
+        <Form Tag="DS">зімародку</Form>
+        <Form Tag="AS">зімародак</Form>
+        <Form Tag="IS">зімародкам</Form>
+        <Form Tag="LS">зімародку</Form>
+        <Form Tag="NP">зімародкі</Form>
+        <Form Tag="GP">зімародкаў</Form>
+        <Form Tag="DP">зімародкам</Form>
+        <Form Tag="AP">зімародкі</Form>
+        <Form Tag="IP">зімародкамі</Form>
+        <Form Tag="LP">зімародках</Form>
+    </Paradigm>
     <Paradigm pdgId="1136247" Lemma="змеегалоў" Tag="NCAINM1">
         <Form Tag="NS">змеегалоў</Form>
         <Form Tag="GS">змеегалова</Form>
@@ -2002,19 +2016,117 @@
         <Form Tag="IP">зяблікамі</Form>
         <Form Tag="LP">зябліках</Form>
     </Paradigm>
-    <Paradigm pdgId="1029965" Lemma="зімародак" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">зімародак</Form>
-        <Form Tag="GS">зімародка</Form>
-        <Form Tag="DS">зімародку</Form>
-        <Form Tag="AS">зімародак</Form>
-        <Form Tag="IS">зімародкам</Form>
-        <Form Tag="LS">зімародку</Form>
-        <Form Tag="NP">зімародкі</Form>
-        <Form Tag="GP">зімародкаў</Form>
-        <Form Tag="DP">зімародкам</Form>
-        <Form Tag="AP">зімародкі</Form>
-        <Form Tag="IP">зімародкамі</Form>
-        <Form Tag="LP">зімародках</Form>
+    <Paradigm pdgId="1136352" Lemma="ібіс" Tag="NCAINM1">
+        <Form Tag="NS">ібіс</Form>
+        <Form Tag="GS">ібіса</Form>
+        <Form Tag="DS">ібісу</Form>
+        <Form Tag="AS">ібіса</Form>
+        <Form Tag="IS">ібісам</Form>
+        <Form Tag="LS">ібісе</Form>
+        <Form Tag="NP">ібісы</Form>
+        <Form Tag="GP">ібісаў</Form>
+        <Form Tag="DP">ібісам</Form>
+        <Form Tag="AP">ібісаў</Form>
+        <Form Tag="IP">ібісамі</Form>
+        <Form Tag="LP">ібісах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1025413" Lemma="ідал" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">ідал</Form>
+        <Form Tag="GS">ідала</Form>
+        <Form Tag="DS">ідалу</Form>
+        <Form Tag="AS">ідала</Form>
+        <Form Tag="IS">ідалам</Form>
+        <Form Tag="LS">ідале</Form>
+        <Form Tag="NP">ідалы</Form>
+        <Form Tag="GP">ідалаў</Form>
+        <Form Tag="DP">ідалам</Form>
+        <Form Tag="AP">ідалаў</Form>
+        <Form Tag="IP">ідаламі</Form>
+        <Form Tag="LP">ідалах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136353" Lemma="ізюбр" Tag="NCAINM1">
+        <Form Tag="NS">ізюбр</Form>
+        <Form Tag="GS">ізюбра</Form>
+        <Form Tag="DS">ізюбру</Form>
+        <Form Tag="AS">ізюбра</Form>
+        <Form Tag="IS">ізюбрам</Form>
+        <Form Tag="LS">ізюбры</Form>
+        <Form Tag="NP">ізюбры</Form>
+        <Form Tag="GP">ізюбраў</Form>
+        <Form Tag="DP">ізюбрам</Form>
+        <Form Tag="AP">ізюбраў</Form>
+        <Form Tag="IP">ізюбрамі</Form>
+        <Form Tag="LP">ізюбрах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136354" Lemma="інаходзец" Tag="NCAINM1">
+        <Form Tag="NS">інаходзец</Form>
+        <Form Tag="GS">інаходца</Form>
+        <Form Tag="DS">інаходцу</Form>
+        <Form Tag="AS">інаходца</Form>
+        <Form Tag="IS">інаходцам</Form>
+        <Form Tag="LS">інаходцы</Form>
+        <Form Tag="NP">інаходцы</Form>
+        <Form Tag="GP">інаходцаў</Form>
+        <Form Tag="DP">інаходцам</Form>
+        <Form Tag="AP">інаходцаў</Form>
+        <Form Tag="IP">інаходцамі</Form>
+        <Form Tag="LP">інаходцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1025508" Lemma="індык" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">індык</Form>
+        <Form Tag="GS">індыка</Form>
+        <Form Tag="DS">індыку</Form>
+        <Form Tag="AS">індыка</Form>
+        <Form Tag="IS">індыком</Form>
+        <Form Tag="LS">індыку</Form>
+        <Form Tag="NP">індыкі</Form>
+        <Form Tag="GP">індыкоў</Form>
+        <Form Tag="DP">індыкам</Form>
+        <Form Tag="AP">індыкоў</Form>
+        <Form Tag="IP">індыкамі</Form>
+        <Form Tag="LP">індыках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136355" Lemma="ірбіс" Tag="NCAINM1">
+        <Form Tag="NS">ірбіс</Form>
+        <Form Tag="GS">ірбіса</Form>
+        <Form Tag="DS">ірбісу</Form>
+        <Form Tag="AS">ірбіса</Form>
+        <Form Tag="IS">ірбісам</Form>
+        <Form Tag="LS">ірбісе</Form>
+        <Form Tag="NP">ірбісы</Form>
+        <Form Tag="GP">ірбісаў</Form>
+        <Form Tag="DP">ірбісам</Form>
+        <Form Tag="AP">ірбісаў</Form>
+        <Form Tag="IP">ірбісамі</Form>
+        <Form Tag="LP">ірбісах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136356" Lemma="іхтыязаўр" Tag="NCAINM1">
+        <Form Tag="NS">іхтыязаўр</Form>
+        <Form Tag="GS">іхтыязаўра</Form>
+        <Form Tag="DS">іхтыязаўру</Form>
+        <Form Tag="AS">іхтыязаўра</Form>
+        <Form Tag="IS">іхтыязаўрам</Form>
+        <Form Tag="LS">іхтыязаўры</Form>
+        <Form Tag="NP">іхтыязаўры</Form>
+        <Form Tag="GP">іхтыязаўраў</Form>
+        <Form Tag="DP">іхтыязаўрам</Form>
+        <Form Tag="AP">іхтыязаўраў</Form>
+        <Form Tag="IP">іхтыязаўрамі</Form>
+        <Form Tag="LP">іхтыязаўрах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136357" Lemma="ішак" Tag="NCAINM1">
+        <Form Tag="NS">ішак</Form>
+        <Form Tag="GS">ішака</Form>
+        <Form Tag="DS">ішаку</Form>
+        <Form Tag="AS">ішака</Form>
+        <Form Tag="IS">ішаком</Form>
+        <Form Tag="LS">ішаку</Form>
+        <Form Tag="NP">ішакі</Form>
+        <Form Tag="GP">ішакоў</Form>
+        <Form Tag="DP">ішакам</Form>
+        <Form Tag="AP">ішакоў</Form>
+        <Form Tag="IP">ішакамі</Form>
+        <Form Tag="LP">ішаках</Form>
     </Paradigm>
     <Paradigm pdgId="1030368" Lemma="кабан" Tag="NCAINM1" Govern="">
         <Form Tag="NS">кабан</Form>
@@ -2029,6 +2141,20 @@
         <Form Tag="AP">кабаноў</Form>
         <Form Tag="IP">кабанамі</Form>
         <Form Tag="LP">кабанах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1030363" Lemma="каёт" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">каёт</Form>
+        <Form Tag="GS">каёта</Form>
+        <Form Tag="DS">каёту</Form>
+        <Form Tag="AS">каёта</Form>
+        <Form Tag="IS">каётам</Form>
+        <Form Tag="LS">каёце</Form>
+        <Form Tag="NP">каёты</Form>
+        <Form Tag="GP">каётаў</Form>
+        <Form Tag="DP">каётам</Form>
+        <Form Tag="AP">каётаў</Form>
+        <Form Tag="IP">каётамі</Form>
+        <Form Tag="LP">каётах</Form>
     </Paradigm>
     <Paradigm pdgId="1030391" Lemma="кажан" Tag="NCAINM1" Govern="">
         <Form Tag="NS">кажан</Form>
@@ -2324,20 +2450,6 @@
         <Form Tag="IP">кашалотамі</Form>
         <Form Tag="LP">кашалотах</Form>
     </Paradigm>
-    <Paradigm pdgId="1030363" Lemma="каёт" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">каёт</Form>
-        <Form Tag="GS">каёта</Form>
-        <Form Tag="DS">каёту</Form>
-        <Form Tag="AS">каёта</Form>
-        <Form Tag="IS">каётам</Form>
-        <Form Tag="LS">каёце</Form>
-        <Form Tag="NP">каёты</Form>
-        <Form Tag="GP">каётаў</Form>
-        <Form Tag="DP">каётам</Form>
-        <Form Tag="AP">каётаў</Form>
-        <Form Tag="IP">каётамі</Form>
-        <Form Tag="LP">каётах</Form>
-    </Paradigm>
     <Paradigm pdgId="1030839" Lemma="кветаед" Tag="NCAINM1" Govern="">
         <Form Tag="NS">кветаед</Form>
         <Form Tag="GS">кветаеда</Form>
@@ -2351,6 +2463,20 @@
         <Form Tag="AP">кветаедаў</Form>
         <Form Tag="IP">кветаедамі</Form>
         <Form Tag="LP">кветаедах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1030346" Lemma="кіт" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">кіт</Form>
+        <Form Tag="GS">кіта</Form>
+        <Form Tag="DS">кіту</Form>
+        <Form Tag="AS">кіта</Form>
+        <Form Tag="IS">кітом</Form>
+        <Form Tag="LS">кіце</Form>
+        <Form Tag="NP">кіты</Form>
+        <Form Tag="GP">кітоў</Form>
+        <Form Tag="DP">кітам</Form>
+        <Form Tag="AP">кітоў</Form>
+        <Form Tag="IP">кітамі</Form>
+        <Form Tag="LP">кітах</Form>
     </Paradigm>
     <Paradigm pdgId="1030899" Lemma="клешч" Tag="NCAINM1" Govern="">
         <Form Tag="NS">клешч</Form>
@@ -2450,6 +2576,20 @@
         <Form Tag="IP">кондарамі</Form>
         <Form Tag="LP">кондарах</Form>
     </Paradigm>
+    <Paradigm pdgId="1030962" Lemma="конік" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">конік</Form>
+        <Form Tag="GS">коніка</Form>
+        <Form Tag="DS">коніку</Form>
+        <Form Tag="AS">коніка</Form>
+        <Form Tag="IS">конікам</Form>
+        <Form Tag="LS">коніку</Form>
+        <Form Tag="NP">конікі</Form>
+        <Form Tag="GP">конікаў</Form>
+        <Form Tag="DP">конікам</Form>
+        <Form Tag="AP">конікаў</Form>
+        <Form Tag="IP">конікамі</Form>
+        <Form Tag="LP">коніках</Form>
+    </Paradigm>
     <Paradigm pdgId="1030978" Lemma="конь" Tag="NCAINM1" Govern="">
         <Form Tag="NS">конь</Form>
         <Form Tag="GS">каня</Form>
@@ -2468,20 +2608,6 @@
         <Form Tag="IP">канямі</Form>
         <Form Tag="LP">конях</Form>
         <Form Tag="LP">канях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1030962" Lemma="конік" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">конік</Form>
-        <Form Tag="GS">коніка</Form>
-        <Form Tag="DS">коніку</Form>
-        <Form Tag="AS">коніка</Form>
-        <Form Tag="IS">конікам</Form>
-        <Form Tag="LS">коніку</Form>
-        <Form Tag="NP">конікі</Form>
-        <Form Tag="GP">конікаў</Form>
-        <Form Tag="DP">конікам</Form>
-        <Form Tag="AP">конікаў</Form>
-        <Form Tag="IP">конікамі</Form>
-        <Form Tag="LP">коніках</Form>
     </Paradigm>
     <Paradigm pdgId="1030988" Lemma="коршак" Tag="NCAINM1" Govern="">
         <Form Tag="NS">коршак</Form>
@@ -2665,20 +2791,6 @@
         <Form Tag="IP">кулікамі</Form>
         <Form Tag="LP">куліках</Form>
     </Paradigm>
-    <Paradigm pdgId="1030346" Lemma="кіт" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">кіт</Form>
-        <Form Tag="GS">кіта</Form>
-        <Form Tag="DS">кіту</Form>
-        <Form Tag="AS">кіта</Form>
-        <Form Tag="IS">кітом</Form>
-        <Form Tag="LS">кіце</Form>
-        <Form Tag="NP">кіты</Form>
-        <Form Tag="GP">кітоў</Form>
-        <Form Tag="DP">кітам</Form>
-        <Form Tag="AP">кітоў</Form>
-        <Form Tag="IP">кітамі</Form>
-        <Form Tag="LP">кітах</Form>
-    </Paradigm>
     <Paradigm pdgId="1136258" Lemma="лабан" Tag="NCAINM1">
         <Form Tag="NS">лабан</Form>
         <Form Tag="GS">лабана</Form>
@@ -2791,6 +2903,20 @@
         <Form Tag="IP">лебедзямі</Form>
         <Form Tag="LP">лебедзях</Form>
     </Paradigm>
+    <Paradigm pdgId="1031340" Lemma="леў" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">леў</Form>
+        <Form Tag="GS">льва</Form>
+        <Form Tag="DS">льву</Form>
+        <Form Tag="AS">льва</Form>
+        <Form Tag="IS">львом</Form>
+        <Form Tag="LS">льве</Form>
+        <Form Tag="NP">львы</Form>
+        <Form Tag="GP">львоў</Form>
+        <Form Tag="DP">львам</Form>
+        <Form Tag="AP">львоў</Form>
+        <Form Tag="IP">львамі</Form>
+        <Form Tag="LP">львах</Form>
+    </Paradigm>
     <Paradigm pdgId="1031390" Lemma="лешч" Tag="NCAINM1" Govern="">
         <Form Tag="NS">лешч</Form>
         <Form Tag="GS">ляшча</Form>
@@ -2805,19 +2931,33 @@
         <Form Tag="IP">ляшчамі</Form>
         <Form Tag="LP">ляшчах</Form>
     </Paradigm>
-    <Paradigm pdgId="1031340" Lemma="леў" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">леў</Form>
-        <Form Tag="GS">льва</Form>
-        <Form Tag="DS">льву</Form>
-        <Form Tag="AS">льва</Form>
-        <Form Tag="IS">львом</Form>
-        <Form Tag="LS">льве</Form>
-        <Form Tag="NP">львы</Form>
-        <Form Tag="GP">львоў</Form>
-        <Form Tag="DP">львам</Form>
-        <Form Tag="AP">львоў</Form>
-        <Form Tag="IP">львамі</Form>
-        <Form Tag="LP">львах</Form>
+    <Paradigm pdgId="1136262" Lemma="лінь" Tag="NCAINM1">
+        <Form Tag="NS">лінь</Form>
+        <Form Tag="GS">ліня</Form>
+        <Form Tag="DS">ліню</Form>
+        <Form Tag="AS">ліня</Form>
+        <Form Tag="IS">лінём</Form>
+        <Form Tag="LS">ліні</Form>
+        <Form Tag="NP">ліні</Form>
+        <Form Tag="GP">лінёў</Form>
+        <Form Tag="DP">ліням</Form>
+        <Form Tag="AP">лінёў</Form>
+        <Form Tag="IP">лінямі</Form>
+        <Form Tag="LP">лінях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136263" Lemma="ліс" Tag="NCAINM1">
+        <Form Tag="NS">ліс</Form>
+        <Form Tag="GS">ліса</Form>
+        <Form Tag="DS">лісу</Form>
+        <Form Tag="AS">ліса</Form>
+        <Form Tag="IS">лісам</Form>
+        <Form Tag="LS">лісе</Form>
+        <Form Tag="NP">лісы</Form>
+        <Form Tag="GP">лісаў</Form>
+        <Form Tag="DP">лісам</Form>
+        <Form Tag="AP">лісаў</Form>
+        <Form Tag="IP">лісамі</Form>
+        <Form Tag="LP">лісах</Form>
     </Paradigm>
     <Paradigm pdgId="1031408" Lemma="лось" Tag="NCAINM1" Govern="">
         <Form Tag="NS">лось</Form>
@@ -2875,33 +3015,19 @@
         <Form Tag="IP">лятунамі</Form>
         <Form Tag="LP">лятунах</Form>
     </Paradigm>
-    <Paradigm pdgId="1136262" Lemma="лінь" Tag="NCAINM1">
-        <Form Tag="NS">лінь</Form>
-        <Form Tag="GS">ліня</Form>
-        <Form Tag="DS">ліню</Form>
-        <Form Tag="AS">ліня</Form>
-        <Form Tag="IS">лінём</Form>
-        <Form Tag="LS">ліні</Form>
-        <Form Tag="NP">ліні</Form>
-        <Form Tag="GP">лінёў</Form>
-        <Form Tag="DP">ліням</Form>
-        <Form Tag="AP">лінёў</Form>
-        <Form Tag="IP">лінямі</Form>
-        <Form Tag="LP">лінях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136263" Lemma="ліс" Tag="NCAINM1">
-        <Form Tag="NS">ліс</Form>
-        <Form Tag="GS">ліса</Form>
-        <Form Tag="DS">лісу</Form>
-        <Form Tag="AS">ліса</Form>
-        <Form Tag="IS">лісам</Form>
-        <Form Tag="LS">лісе</Form>
-        <Form Tag="NP">лісы</Form>
-        <Form Tag="GP">лісаў</Form>
-        <Form Tag="DP">лісам</Form>
-        <Form Tag="AP">лісаў</Form>
-        <Form Tag="IP">лісамі</Form>
-        <Form Tag="LP">лісах</Form>
+    <Paradigm pdgId="1136265" Lemma="малёк" Tag="NCAINM1">
+        <Form Tag="NS">малёк</Form>
+        <Form Tag="GS">малька</Form>
+        <Form Tag="DS">мальку</Form>
+        <Form Tag="AS">малька</Form>
+        <Form Tag="IS">мальком</Form>
+        <Form Tag="LS">мальку</Form>
+        <Form Tag="NP">малькі</Form>
+        <Form Tag="GP">малькоў</Form>
+        <Form Tag="DP">малькам</Form>
+        <Form Tag="AP">малькоў</Form>
+        <Form Tag="IP">малькамі</Form>
+        <Form Tag="LP">мальках</Form>
     </Paradigm>
     <Paradigm pdgId="1136264" Lemma="малох" Tag="NCAINM1">
         <Form Tag="NS">малох</Form>
@@ -2944,20 +3070,6 @@
         <Form Tag="AP">малюскаў-прудавікоў</Form>
         <Form Tag="IP">малюскамі-прудавікамі</Form>
         <Form Tag="LP">малюсках-прудавіках</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136265" Lemma="малёк" Tag="NCAINM1">
-        <Form Tag="NS">малёк</Form>
-        <Form Tag="GS">малька</Form>
-        <Form Tag="DS">мальку</Form>
-        <Form Tag="AS">малька</Form>
-        <Form Tag="IS">мальком</Form>
-        <Form Tag="LS">мальку</Form>
-        <Form Tag="NP">малькі</Form>
-        <Form Tag="GP">малькоў</Form>
-        <Form Tag="DP">малькам</Form>
-        <Form Tag="AP">малькоў</Form>
-        <Form Tag="IP">малькамі</Form>
-        <Form Tag="LP">мальках</Form>
     </Paradigm>
     <Paradigm pdgId="1031625" Lemma="мамант" Tag="NCAINM1" Govern="">
         <Form Tag="NS">мамант</Form>
@@ -3015,20 +3127,6 @@
         <Form Tag="IP">маскітамі</Form>
         <Form Tag="LP">маскітах</Form>
     </Paradigm>
-    <Paradigm pdgId="1031741" Lemma="матыль" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">матыль</Form>
-        <Form Tag="GS">матыля</Form>
-        <Form Tag="DS">матылю</Form>
-        <Form Tag="AS">матыля</Form>
-        <Form Tag="IS">матылём</Form>
-        <Form Tag="LS">матылі</Form>
-        <Form Tag="NP">матылі</Form>
-        <Form Tag="GP">матылёў</Form>
-        <Form Tag="DP">матылям</Form>
-        <Form Tag="AP">матылёў</Form>
-        <Form Tag="IP">матылямі</Form>
-        <Form Tag="LP">матылях</Form>
-    </Paradigm>
     <Paradigm pdgId="1031740" Lemma="матылёк" Tag="NCAINM1" Govern="">
         <Form Tag="NS">матылёк</Form>
         <Form Tag="GS">матылька</Form>
@@ -3042,6 +3140,20 @@
         <Form Tag="AP">матылькоў</Form>
         <Form Tag="IP">матылькамі</Form>
         <Form Tag="LP">матыльках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1031741" Lemma="матыль" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">матыль</Form>
+        <Form Tag="GS">матыля</Form>
+        <Form Tag="DS">матылю</Form>
+        <Form Tag="AS">матыля</Form>
+        <Form Tag="IS">матылём</Form>
+        <Form Tag="LS">матылі</Form>
+        <Form Tag="NP">матылі</Form>
+        <Form Tag="GP">матылёў</Form>
+        <Form Tag="DP">матылям</Form>
+        <Form Tag="AP">матылёў</Form>
+        <Form Tag="IP">матылямі</Form>
+        <Form Tag="LP">матылях</Form>
     </Paradigm>
     <Paradigm pdgId="1031747" Lemma="махаед" Tag="NCAINM1" Govern="">
         <Form Tag="NS">махаед</Form>
@@ -3126,6 +3238,48 @@
         <Form Tag="AP">мечаносцаў</Form>
         <Form Tag="IP">мечаносцамі</Form>
         <Form Tag="LP">мечаносцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1031470" Lemma="мікработ" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">мікработ</Form>
+        <Form Tag="GS">мікработа</Form>
+        <Form Tag="DS">мікработу</Form>
+        <Form Tag="AS">мікработа</Form>
+        <Form Tag="IS">мікработам</Form>
+        <Form Tag="LS">мікрабоце</Form>
+        <Form Tag="NP">мікработы</Form>
+        <Form Tag="GP">мікработаў</Form>
+        <Form Tag="DP">мікработам</Form>
+        <Form Tag="AP">мікработаў</Form>
+        <Form Tag="IP">мікработамі</Form>
+        <Form Tag="LP">мікработах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1031493" Lemma="мікроб" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">мікроб</Form>
+        <Form Tag="GS">мікроба</Form>
+        <Form Tag="DS">мікробу</Form>
+        <Form Tag="AS">мікроба</Form>
+        <Form Tag="IS">мікробам</Form>
+        <Form Tag="LS">мікробе</Form>
+        <Form Tag="NP">мікробы</Form>
+        <Form Tag="GP">мікробаў</Form>
+        <Form Tag="DP">мікробам</Form>
+        <Form Tag="AP">мікробаў</Form>
+        <Form Tag="IP">мікробамі</Form>
+        <Form Tag="LP">мікробах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136274" Lemma="мінтай" Tag="NCAINM1">
+        <Form Tag="NS">мінтай</Form>
+        <Form Tag="GS">мінтая</Form>
+        <Form Tag="DS">мінтаю</Form>
+        <Form Tag="AS">мінтая</Form>
+        <Form Tag="IS">мінтаём</Form>
+        <Form Tag="LS">мінтаі</Form>
+        <Form Tag="NP">мінтаі</Form>
+        <Form Tag="GP">мінтаёў</Form>
+        <Form Tag="DP">мінтаям</Form>
+        <Form Tag="AP">мінтаёў</Form>
+        <Form Tag="IP">мінтаямі</Form>
+        <Form Tag="LP">мінтаях</Form>
     </Paradigm>
     <Paradigm pdgId="1136271" Lemma="мопс" Tag="NCAINM1">
         <Form Tag="NS">мопс</Form>
@@ -3239,20 +3393,6 @@
         <Form Tag="IP">мядзведзямі</Form>
         <Form Tag="LP">мядзведзях</Form>
     </Paradigm>
-    <Paradigm pdgId="1031971" Lemma="мянтуз" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">мянтуз</Form>
-        <Form Tag="GS">мянтуза</Form>
-        <Form Tag="DS">мянтузу</Form>
-        <Form Tag="AS">мянтуза</Form>
-        <Form Tag="IS">мянтузом</Form>
-        <Form Tag="LS">мянтузе</Form>
-        <Form Tag="NP">мянтузы</Form>
-        <Form Tag="GP">мянтузоў</Form>
-        <Form Tag="DP">мянтузам</Form>
-        <Form Tag="AP">мянтузоў</Form>
-        <Form Tag="IP">мянтузамі</Form>
-        <Form Tag="LP">мянтузах</Form>
-    </Paradigm>
     <Paradigm pdgId="1136273" Lemma="мянёк" Tag="NCAINM1">
         <Form Tag="NS">мянёк</Form>
         <Form Tag="GS">мянька</Form>
@@ -3267,47 +3407,19 @@
         <Form Tag="IP">мянькамі</Form>
         <Form Tag="LP">мяньках</Form>
     </Paradigm>
-    <Paradigm pdgId="1031470" Lemma="мікработ" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">мікработ</Form>
-        <Form Tag="GS">мікработа</Form>
-        <Form Tag="DS">мікработу</Form>
-        <Form Tag="AS">мікработа</Form>
-        <Form Tag="IS">мікработам</Form>
-        <Form Tag="LS">мікрабоце</Form>
-        <Form Tag="NP">мікработы</Form>
-        <Form Tag="GP">мікработаў</Form>
-        <Form Tag="DP">мікработам</Form>
-        <Form Tag="AP">мікработаў</Form>
-        <Form Tag="IP">мікработамі</Form>
-        <Form Tag="LP">мікработах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1031493" Lemma="мікроб" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">мікроб</Form>
-        <Form Tag="GS">мікроба</Form>
-        <Form Tag="DS">мікробу</Form>
-        <Form Tag="AS">мікроба</Form>
-        <Form Tag="IS">мікробам</Form>
-        <Form Tag="LS">мікробе</Form>
-        <Form Tag="NP">мікробы</Form>
-        <Form Tag="GP">мікробаў</Form>
-        <Form Tag="DP">мікробам</Form>
-        <Form Tag="AP">мікробаў</Form>
-        <Form Tag="IP">мікробамі</Form>
-        <Form Tag="LP">мікробах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136274" Lemma="мінтай" Tag="NCAINM1">
-        <Form Tag="NS">мінтай</Form>
-        <Form Tag="GS">мінтая</Form>
-        <Form Tag="DS">мінтаю</Form>
-        <Form Tag="AS">мінтая</Form>
-        <Form Tag="IS">мінтаём</Form>
-        <Form Tag="LS">мінтаі</Form>
-        <Form Tag="NP">мінтаі</Form>
-        <Form Tag="GP">мінтаёў</Form>
-        <Form Tag="DP">мінтаям</Form>
-        <Form Tag="AP">мінтаёў</Form>
-        <Form Tag="IP">мінтаямі</Form>
-        <Form Tag="LP">мінтаях</Form>
+    <Paradigm pdgId="1031971" Lemma="мянтуз" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">мянтуз</Form>
+        <Form Tag="GS">мянтуза</Form>
+        <Form Tag="DS">мянтузу</Form>
+        <Form Tag="AS">мянтуза</Form>
+        <Form Tag="IS">мянтузом</Form>
+        <Form Tag="LS">мянтузе</Form>
+        <Form Tag="NP">мянтузы</Form>
+        <Form Tag="GP">мянтузоў</Form>
+        <Form Tag="DP">мянтузам</Form>
+        <Form Tag="AP">мянтузоў</Form>
+        <Form Tag="IP">мянтузамі</Form>
+        <Form Tag="LP">мянтузах</Form>
     </Paradigm>
     <Paradigm pdgId="1032058" Lemma="нажадзюб" Tag="NCAINM1" Govern="">
         <Form Tag="NS">нажадзюб</Form>
@@ -3379,20 +3491,6 @@
         <Form Tag="IP">омулямі</Form>
         <Form Tag="LP">омулях</Form>
     </Paradigm>
-    <Paradigm pdgId="1032423" Lemma="павук" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">павук</Form>
-        <Form Tag="GS">павука</Form>
-        <Form Tag="DS">павуку</Form>
-        <Form Tag="AS">павука</Form>
-        <Form Tag="IS">павуком</Form>
-        <Form Tag="LS">павуку</Form>
-        <Form Tag="NP">павукі</Form>
-        <Form Tag="GP">павукоў</Form>
-        <Form Tag="DP">павукам</Form>
-        <Form Tag="AP">павукоў</Form>
-        <Form Tag="IP">павукамі</Form>
-        <Form Tag="LP">павуках</Form>
-    </Paradigm>
     <Paradigm pdgId="1032391" Lemma="павіян" Tag="NCAINM1" Govern="">
         <Form Tag="NS">павіян</Form>
         <Form Tag="GS">павіяна</Form>
@@ -3406,6 +3504,20 @@
         <Form Tag="AP">павіянаў</Form>
         <Form Tag="IP">павіянамі</Form>
         <Form Tag="LP">павіянах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032423" Lemma="павук" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">павук</Form>
+        <Form Tag="GS">павука</Form>
+        <Form Tag="DS">павуку</Form>
+        <Form Tag="AS">павука</Form>
+        <Form Tag="IS">павуком</Form>
+        <Form Tag="LS">павуку</Form>
+        <Form Tag="NP">павукі</Form>
+        <Form Tag="GP">павукоў</Form>
+        <Form Tag="DP">павукам</Form>
+        <Form Tag="AP">павукоў</Form>
+        <Form Tag="IP">павукамі</Form>
+        <Form Tag="LP">павуках</Form>
     </Paradigm>
     <Paradigm pdgId="1136277" Lemma="падворлік" Tag="NCAINM1">
         <Form Tag="NS">падворлік</Form>
@@ -3547,20 +3659,6 @@
         <Form Tag="IP">парсюкамі</Form>
         <Form Tag="LP">парсюках</Form>
     </Paradigm>
-    <Paradigm pdgId="1032869" Lemma="пацук" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">пацук</Form>
-        <Form Tag="GS">пацука</Form>
-        <Form Tag="DS">пацуку</Form>
-        <Form Tag="AS">пацука</Form>
-        <Form Tag="IS">пацуком</Form>
-        <Form Tag="LS">пацуку</Form>
-        <Form Tag="NP">пацукі</Form>
-        <Form Tag="GP">пацукоў</Form>
-        <Form Tag="DP">пацукам</Form>
-        <Form Tag="AP">пацукоў</Form>
-        <Form Tag="IP">пацукамі</Form>
-        <Form Tag="LP">пацуках</Form>
-    </Paradigm>
     <Paradigm pdgId="1136284" Lemma="паўзун+" Tag="NCAINM1">
         <Form Tag="NS">паўзун</Form>
         <Form Tag="GS">паўзуна</Form>
@@ -3588,6 +3686,20 @@
         <Form Tag="AP">паўлінаў</Form>
         <Form Tag="IP">паўлінамі</Form>
         <Form Tag="LP">паўлінах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032869" Lemma="пацук" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">пацук</Form>
+        <Form Tag="GS">пацука</Form>
+        <Form Tag="DS">пацуку</Form>
+        <Form Tag="AS">пацука</Form>
+        <Form Tag="IS">пацуком</Form>
+        <Form Tag="LS">пацуку</Form>
+        <Form Tag="NP">пацукі</Form>
+        <Form Tag="GP">пацукоў</Form>
+        <Form Tag="DP">пацукам</Form>
+        <Form Tag="AP">пацукоў</Form>
+        <Form Tag="IP">пацукамі</Form>
+        <Form Tag="LP">пацуках</Form>
     </Paradigm>
     <Paradigm pdgId="1032893" Lemma="певень" Tag="NCAINM1" Govern="">
         <Form Tag="NS">певень</Form>
@@ -3686,6 +3798,62 @@
         <Form Tag="AP">пеўнікаў</Form>
         <Form Tag="IP">пеўнікамі</Form>
         <Form Tag="LP">пеўніках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032319" Lemma="пінгвін" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">пінгвін</Form>
+        <Form Tag="GS">пінгвіна</Form>
+        <Form Tag="DS">пінгвіну</Form>
+        <Form Tag="AS">пінгвіна</Form>
+        <Form Tag="IS">пінгвінам</Form>
+        <Form Tag="LS">пінгвіне</Form>
+        <Form Tag="NP">пінгвіны</Form>
+        <Form Tag="GP">пінгвінаў</Form>
+        <Form Tag="DP">пінгвінам</Form>
+        <Form Tag="AP">пінгвінаў</Form>
+        <Form Tag="IP">пінгвінамі</Form>
+        <Form Tag="LP">пінгвінах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032320" Lemma="пінгвінчык" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">пінгвінчык</Form>
+        <Form Tag="GS">пінгвінчыка</Form>
+        <Form Tag="DS">пінгвінчыку</Form>
+        <Form Tag="AS">пінгвінчыка</Form>
+        <Form Tag="IS">пінгвінчыкам</Form>
+        <Form Tag="LS">пінгвінчыку</Form>
+        <Form Tag="NP">пінгвінчыкі</Form>
+        <Form Tag="GP">пінгвінчыкаў</Form>
+        <Form Tag="DP">пінгвінчыкам</Form>
+        <Form Tag="AP">пінгвінчыкаў</Form>
+        <Form Tag="IP">пінгвінчыкамі</Form>
+        <Form Tag="LP">пінгвінчыках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136294" Lemma="пінчэр" Tag="NCAINM1">
+        <Form Tag="NS">пінчэр</Form>
+        <Form Tag="GS">пінчэра</Form>
+        <Form Tag="DS">пінчэру</Form>
+        <Form Tag="AS">пінчэра</Form>
+        <Form Tag="IS">пінчэрам</Form>
+        <Form Tag="LS">пінчэры</Form>
+        <Form Tag="NP">пінчэры</Form>
+        <Form Tag="GP">пінчэраў</Form>
+        <Form Tag="DP">пінчэрам</Form>
+        <Form Tag="AP">пінчэраў</Form>
+        <Form Tag="IP">пінчэрамі</Form>
+        <Form Tag="LP">пінчэрах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032335" Lemma="пітон" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">пітон</Form>
+        <Form Tag="GS">пітону</Form>
+        <Form Tag="DS">пітону</Form>
+        <Form Tag="AS">пітона</Form>
+        <Form Tag="IS">пітонам</Form>
+        <Form Tag="LS">пітоне</Form>
+        <Form Tag="NP">пітоны</Form>
+        <Form Tag="GP">пітонаў</Form>
+        <Form Tag="DP">пітонам</Form>
+        <Form Tag="AP">пітонаў</Form>
+        <Form Tag="IP">пітонамі</Form>
+        <Form Tag="LP">пітонах</Form>
     </Paradigm>
     <Paradigm pdgId="1033050" Lemma="плавунец" Tag="NCAINM1" Govern="">
         <Form Tag="NS">плавунец</Form>
@@ -3967,62 +4135,6 @@
         <Form Tag="IP">пячкурамі</Form>
         <Form Tag="LP">пячкурах</Form>
     </Paradigm>
-    <Paradigm pdgId="1032319" Lemma="пінгвін" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">пінгвін</Form>
-        <Form Tag="GS">пінгвіна</Form>
-        <Form Tag="DS">пінгвіну</Form>
-        <Form Tag="AS">пінгвіна</Form>
-        <Form Tag="IS">пінгвінам</Form>
-        <Form Tag="LS">пінгвіне</Form>
-        <Form Tag="NP">пінгвіны</Form>
-        <Form Tag="GP">пінгвінаў</Form>
-        <Form Tag="DP">пінгвінам</Form>
-        <Form Tag="AP">пінгвінаў</Form>
-        <Form Tag="IP">пінгвінамі</Form>
-        <Form Tag="LP">пінгвінах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1032320" Lemma="пінгвінчык" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">пінгвінчык</Form>
-        <Form Tag="GS">пінгвінчыка</Form>
-        <Form Tag="DS">пінгвінчыку</Form>
-        <Form Tag="AS">пінгвінчыка</Form>
-        <Form Tag="IS">пінгвінчыкам</Form>
-        <Form Tag="LS">пінгвінчыку</Form>
-        <Form Tag="NP">пінгвінчыкі</Form>
-        <Form Tag="GP">пінгвінчыкаў</Form>
-        <Form Tag="DP">пінгвінчыкам</Form>
-        <Form Tag="AP">пінгвінчыкаў</Form>
-        <Form Tag="IP">пінгвінчыкамі</Form>
-        <Form Tag="LP">пінгвінчыках</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136294" Lemma="пінчэр" Tag="NCAINM1">
-        <Form Tag="NS">пінчэр</Form>
-        <Form Tag="GS">пінчэра</Form>
-        <Form Tag="DS">пінчэру</Form>
-        <Form Tag="AS">пінчэра</Form>
-        <Form Tag="IS">пінчэрам</Form>
-        <Form Tag="LS">пінчэры</Form>
-        <Form Tag="NP">пінчэры</Form>
-        <Form Tag="GP">пінчэраў</Form>
-        <Form Tag="DP">пінчэрам</Form>
-        <Form Tag="AP">пінчэраў</Form>
-        <Form Tag="IP">пінчэрамі</Form>
-        <Form Tag="LP">пінчэрах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1032335" Lemma="пітон" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">пітон</Form>
-        <Form Tag="GS">пітону</Form>
-        <Form Tag="DS">пітону</Form>
-        <Form Tag="AS">пітона</Form>
-        <Form Tag="IS">пітонам</Form>
-        <Form Tag="LS">пітоне</Form>
-        <Form Tag="NP">пітоны</Form>
-        <Form Tag="GP">пітонаў</Form>
-        <Form Tag="DP">пітонам</Form>
-        <Form Tag="AP">пітонаў</Form>
-        <Form Tag="IP">пітонамі</Form>
-        <Form Tag="LP">пітонах</Form>
-    </Paradigm>
     <Paradigm pdgId="1033581" Lemma="рабак" Tag="NCAINM1" Govern="">
         <Form Tag="NS">рабак</Form>
         <Form Tag="GS">рабака</Form>
@@ -4037,20 +4149,6 @@
         <Form Tag="IP">рабакамі</Form>
         <Form Tag="LP">рабаках</Form>
     </Paradigm>
-    <Paradigm pdgId="1033589" Lemma="рабчык" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">рабчык</Form>
-        <Form Tag="GS">рабчыка</Form>
-        <Form Tag="DS">рабчыку</Form>
-        <Form Tag="AS">рабчыка</Form>
-        <Form Tag="IS">рабчыкам</Form>
-        <Form Tag="LS">рабчыку</Form>
-        <Form Tag="NP">рабчыкі</Form>
-        <Form Tag="GP">рабчыкаў</Form>
-        <Form Tag="DP">рабчыкам</Form>
-        <Form Tag="AP">рабчыкаў</Form>
-        <Form Tag="IP">рабчыкамі</Form>
-        <Form Tag="LP">рабчыках</Form>
-    </Paradigm>
     <Paradigm pdgId="1136295" Lemma="рабіннік" Tag="NCAINM1">
         <Form Tag="NS">рабіннік</Form>
         <Form Tag="GS">рабінніка</Form>
@@ -4064,6 +4162,20 @@
         <Form Tag="AP">рабіннікаў</Form>
         <Form Tag="IP">рабіннікамі</Form>
         <Form Tag="LP">рабінніках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1033589" Lemma="рабчык" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">рабчык</Form>
+        <Form Tag="GS">рабчыка</Form>
+        <Form Tag="DS">рабчыку</Form>
+        <Form Tag="AS">рабчыка</Form>
+        <Form Tag="IS">рабчыкам</Form>
+        <Form Tag="LS">рабчыку</Form>
+        <Form Tag="NP">рабчыкі</Form>
+        <Form Tag="GP">рабчыкаў</Form>
+        <Form Tag="DP">рабчыкам</Form>
+        <Form Tag="AP">рабчыкаў</Form>
+        <Form Tag="IP">рабчыкамі</Form>
+        <Form Tag="LP">рабчыках</Form>
     </Paradigm>
     <Paradigm pdgId="1033691" Lemma="рак" Tag="NCAINM1" Govern="">
         <Form Tag="NS">рак</Form>
@@ -4373,6 +4485,34 @@
         <Form Tag="IP">серпадзюбамі</Form>
         <Form Tag="LP">серпадзюбах</Form>
     </Paradigm>
+    <Paradigm pdgId="1136328" Lemma="сіваграк" Tag="NCAINM1">
+        <Form Tag="NS">сіваграк</Form>
+        <Form Tag="GS">сіваграка</Form>
+        <Form Tag="DS">сіваграку</Form>
+        <Form Tag="AS">сіваграка</Form>
+        <Form Tag="IS">сівагракам</Form>
+        <Form Tag="LS">сіваграку</Form>
+        <Form Tag="NP">сівагракі</Form>
+        <Form Tag="GP">сівагракаў</Form>
+        <Form Tag="DP">сівагракам</Form>
+        <Form Tag="AP">сівагракаў</Form>
+        <Form Tag="IP">сівагракамі</Form>
+        <Form Tag="LP">сіваграках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136329" Lemma="сіг" Tag="NCAINM1">
+        <Form Tag="NS">сіг</Form>
+        <Form Tag="GS">сіга</Form>
+        <Form Tag="DS">сігу</Form>
+        <Form Tag="AS">сіга</Form>
+        <Form Tag="IS">сігам</Form>
+        <Form Tag="LS">сігу</Form>
+        <Form Tag="NP">сігі</Form>
+        <Form Tag="GP">сігаў</Form>
+        <Form Tag="DP">сігам</Form>
+        <Form Tag="AP">сігаў</Form>
+        <Form Tag="IP">сігамі</Form>
+        <Form Tag="LP">сігах</Form>
+    </Paradigm>
     <Paradigm pdgId="1034441" Lemma="скакун" Tag="NCAINM1" Govern="">
         <Form Tag="NS">скакун</Form>
         <Form Tag="GS">скакуна</Form>
@@ -4415,48 +4555,6 @@
         <Form Tag="IP">скунсамі</Form>
         <Form Tag="LP">скунсах</Form>
     </Paradigm>
-    <Paradigm pdgId="1034522" Lemma="слон" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">слон</Form>
-        <Form Tag="GS">слана</Form>
-        <Form Tag="DS">слану</Form>
-        <Form Tag="AS">слана</Form>
-        <Form Tag="IS">сланом</Form>
-        <Form Tag="LS">слане</Form>
-        <Form Tag="NP">сланы</Form>
-        <Form Tag="GP">сланоў</Form>
-        <Form Tag="DP">сланам</Form>
-        <Form Tag="AP">сланоў</Form>
-        <Form Tag="IP">сланамі</Form>
-        <Form Tag="LP">сланах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136305" Lemma="сляпень" Tag="NCAINM1">
-        <Form Tag="NS">сляпень</Form>
-        <Form Tag="GS">сляпня</Form>
-        <Form Tag="DS">сляпню</Form>
-        <Form Tag="AS">сляпня</Form>
-        <Form Tag="IS">сляпнём</Form>
-        <Form Tag="LS">сляпні</Form>
-        <Form Tag="NP">сляпні</Form>
-        <Form Tag="GP">сляпнёў</Form>
-        <Form Tag="DP">сляпням</Form>
-        <Form Tag="AP">сляпнёў</Form>
-        <Form Tag="IP">сляпнямі</Form>
-        <Form Tag="LP">сляпнях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136306" Lemma="сляпун" Tag="NCAINM1">
-        <Form Tag="NS">сляпун</Form>
-        <Form Tag="GS">сляпуна</Form>
-        <Form Tag="DS">сляпуну</Form>
-        <Form Tag="AS">сляпуна</Form>
-        <Form Tag="IS">сляпуном</Form>
-        <Form Tag="LS">сляпуне</Form>
-        <Form Tag="NP">сляпуны</Form>
-        <Form Tag="GP">сляпуноў</Form>
-        <Form Tag="DP">сляпунам</Form>
-        <Form Tag="AP">сляпуноў</Form>
-        <Form Tag="IP">сляпунамі</Form>
-        <Form Tag="LP">сляпунах</Form>
-    </Paradigm>
     <Paradigm pdgId="1034502" Lemma="слівень" Tag="NCAINM1" Govern="">
         <Form Tag="NS">слівень</Form>
         <Form Tag="GS">сліўня</Form>
@@ -4498,6 +4596,48 @@
         <Form Tag="AP">слімакоў</Form>
         <Form Tag="IP">слімакамі</Form>
         <Form Tag="LP">слімаках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1034522" Lemma="слон" Tag="NCAINM1" Govern="">
+        <Form Tag="NS">слон</Form>
+        <Form Tag="GS">слана</Form>
+        <Form Tag="DS">слану</Form>
+        <Form Tag="AS">слана</Form>
+        <Form Tag="IS">сланом</Form>
+        <Form Tag="LS">слане</Form>
+        <Form Tag="NP">сланы</Form>
+        <Form Tag="GP">сланоў</Form>
+        <Form Tag="DP">сланам</Form>
+        <Form Tag="AP">сланоў</Form>
+        <Form Tag="IP">сланамі</Form>
+        <Form Tag="LP">сланах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136305" Lemma="сляпень" Tag="NCAINM1">
+        <Form Tag="NS">сляпень</Form>
+        <Form Tag="GS">сляпня</Form>
+        <Form Tag="DS">сляпню</Form>
+        <Form Tag="AS">сляпня</Form>
+        <Form Tag="IS">сляпнём</Form>
+        <Form Tag="LS">сляпні</Form>
+        <Form Tag="NP">сляпні</Form>
+        <Form Tag="GP">сляпнёў</Form>
+        <Form Tag="DP">сляпням</Form>
+        <Form Tag="AP">сляпнёў</Form>
+        <Form Tag="IP">сляпнямі</Form>
+        <Form Tag="LP">сляпнях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136306" Lemma="сляпун" Tag="NCAINM1">
+        <Form Tag="NS">сляпун</Form>
+        <Form Tag="GS">сляпуна</Form>
+        <Form Tag="DS">сляпуну</Form>
+        <Form Tag="AS">сляпуна</Form>
+        <Form Tag="IS">сляпуном</Form>
+        <Form Tag="LS">сляпуне</Form>
+        <Form Tag="NP">сляпуны</Form>
+        <Form Tag="GP">сляпуноў</Form>
+        <Form Tag="DP">сляпунам</Form>
+        <Form Tag="AP">сляпуноў</Form>
+        <Form Tag="IP">сляпунамі</Form>
+        <Form Tag="LP">сляпунах</Form>
     </Paradigm>
     <Paradigm pdgId="1136308" Lemma="смок" Tag="NCAINM1">
         <Form Tag="NS">смок</Form>
@@ -4918,34 +5058,6 @@
         <Form Tag="AP">сычоў</Form>
         <Form Tag="IP">сычамі</Form>
         <Form Tag="LP">сычах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136328" Lemma="сіваграк" Tag="NCAINM1">
-        <Form Tag="NS">сіваграк</Form>
-        <Form Tag="GS">сіваграка</Form>
-        <Form Tag="DS">сіваграку</Form>
-        <Form Tag="AS">сіваграка</Form>
-        <Form Tag="IS">сівагракам</Form>
-        <Form Tag="LS">сіваграку</Form>
-        <Form Tag="NP">сівагракі</Form>
-        <Form Tag="GP">сівагракаў</Form>
-        <Form Tag="DP">сівагракам</Form>
-        <Form Tag="AP">сівагракаў</Form>
-        <Form Tag="IP">сівагракамі</Form>
-        <Form Tag="LP">сіваграках</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136329" Lemma="сіг" Tag="NCAINM1">
-        <Form Tag="NS">сіг</Form>
-        <Form Tag="GS">сіга</Form>
-        <Form Tag="DS">сігу</Form>
-        <Form Tag="AS">сіга</Form>
-        <Form Tag="IS">сігам</Form>
-        <Form Tag="LS">сігу</Form>
-        <Form Tag="NP">сігі</Form>
-        <Form Tag="GP">сігаў</Form>
-        <Form Tag="DP">сігам</Form>
-        <Form Tag="AP">сігаў</Form>
-        <Form Tag="IP">сігамі</Form>
-        <Form Tag="LP">сігах</Form>
     </Paradigm>
     <Paradigm pdgId="1034986" Lemma="таймень" Tag="NCAINM1" Govern="">
         <Form Tag="NS">таймень</Form>
@@ -5507,6 +5619,20 @@
         <Form Tag="IP">ферзямі</Form>
         <Form Tag="LP">ферзях</Form>
     </Paradigm>
+    <Paradigm pdgId="1136334" Lemma="філін" Tag="NCAINM1">
+        <Form Tag="NS">філін</Form>
+        <Form Tag="GS">філіна</Form>
+        <Form Tag="DS">філіну</Form>
+        <Form Tag="AS">філіна</Form>
+        <Form Tag="IS">філінам</Form>
+        <Form Tag="LS">філіне</Form>
+        <Form Tag="NP">філіны</Form>
+        <Form Tag="GP">філінаў</Form>
+        <Form Tag="DP">філінам</Form>
+        <Form Tag="AP">філінаў</Form>
+        <Form Tag="IP">філінамі</Form>
+        <Form Tag="LP">філінах</Form>
+    </Paradigm>
     <Paradigm pdgId="1036320" Lemma="фокстэр'ер" Tag="NCAINM1" Govern="">
         <Form Tag="NS">фокстэр'ер</Form>
         <Form Tag="GS">фокстэр'ера</Form>
@@ -5548,20 +5674,6 @@
         <Form Tag="AP">футраедаў</Form>
         <Form Tag="IP">футраедамі</Form>
         <Form Tag="LP">футраедах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136334" Lemma="філін" Tag="NCAINM1">
-        <Form Tag="NS">філін</Form>
-        <Form Tag="GS">філіна</Form>
-        <Form Tag="DS">філіну</Form>
-        <Form Tag="AS">філіна</Form>
-        <Form Tag="IS">філінам</Form>
-        <Form Tag="LS">філіне</Form>
-        <Form Tag="NP">філіны</Form>
-        <Form Tag="GP">філінаў</Form>
-        <Form Tag="DP">філінам</Form>
-        <Form Tag="AP">філінаў</Form>
-        <Form Tag="IP">філінамі</Form>
-        <Form Tag="LP">філінах</Form>
     </Paradigm>
     <Paradigm pdgId="1036532" Lemma="хамелеон" Tag="NCAINM1" Govern="">
         <Form Tag="NS">хамелеон</Form>
@@ -6109,20 +6221,6 @@
         <Form Tag="IP">эрдэльтэр'ерамі</Form>
         <Form Tag="LP">эрдэльтэр'ерах</Form>
     </Paradigm>
-    <Paradigm pdgId="1136348" Lemma="эхінакок" Tag="NCAINM1">
-        <Form Tag="NS">эхінакок</Form>
-        <Form Tag="GS">эхінакока</Form>
-        <Form Tag="DS">эхінакоку</Form>
-        <Form Tag="AS">эхінакока</Form>
-        <Form Tag="IS">эхінакокам</Form>
-        <Form Tag="LS">эхінакоку</Form>
-        <Form Tag="NP">эхінакокі</Form>
-        <Form Tag="GP">эхінакокаў</Form>
-        <Form Tag="DP">эхінакокам</Form>
-        <Form Tag="AP">эхінакокаў</Form>
-        <Form Tag="IP">эхінакокамі</Form>
-        <Form Tag="LP">эхінакоках</Form>
-    </Paradigm>
     <Paradigm pdgId="1039130" Lemma="эўкарыёт" Tag="NCAINM1" Govern="">
         <Form Tag="NS">эўкарыёт</Form>
         <Form Tag="GS">эўкарыёта</Form>
@@ -6136,6 +6234,20 @@
         <Form Tag="AP">эўкарыётаў</Form>
         <Form Tag="IP">эўкарыётамі</Form>
         <Form Tag="LP">эўкарыётах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136348" Lemma="эхінакок" Tag="NCAINM1">
+        <Form Tag="NS">эхінакок</Form>
+        <Form Tag="GS">эхінакока</Form>
+        <Form Tag="DS">эхінакоку</Form>
+        <Form Tag="AS">эхінакока</Form>
+        <Form Tag="IS">эхінакокам</Form>
+        <Form Tag="LS">эхінакоку</Form>
+        <Form Tag="NP">эхінакокі</Form>
+        <Form Tag="GP">эхінакокаў</Form>
+        <Form Tag="DP">эхінакокам</Form>
+        <Form Tag="AP">эхінакокаў</Form>
+        <Form Tag="IP">эхінакокамі</Form>
+        <Form Tag="LP">эхінакоках</Form>
     </Paradigm>
     <Paradigm pdgId="1037268" Lemma="ягуар" Tag="NCAINM1" Govern="">
         <Form Tag="NS">ягуар</Form>
@@ -6262,117 +6374,5 @@
         <Form Tag="AP">яшчараў</Form>
         <Form Tag="IP">яшчарамі</Form>
         <Form Tag="LP">яшчарах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136352" Lemma="ібіс" Tag="NCAINM1">
-        <Form Tag="NS">ібіс</Form>
-        <Form Tag="GS">ібіса</Form>
-        <Form Tag="DS">ібісу</Form>
-        <Form Tag="AS">ібіса</Form>
-        <Form Tag="IS">ібісам</Form>
-        <Form Tag="LS">ібісе</Form>
-        <Form Tag="NP">ібісы</Form>
-        <Form Tag="GP">ібісаў</Form>
-        <Form Tag="DP">ібісам</Form>
-        <Form Tag="AP">ібісаў</Form>
-        <Form Tag="IP">ібісамі</Form>
-        <Form Tag="LP">ібісах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1025413" Lemma="ідал" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">ідал</Form>
-        <Form Tag="GS">ідала</Form>
-        <Form Tag="DS">ідалу</Form>
-        <Form Tag="AS">ідала</Form>
-        <Form Tag="IS">ідалам</Form>
-        <Form Tag="LS">ідале</Form>
-        <Form Tag="NP">ідалы</Form>
-        <Form Tag="GP">ідалаў</Form>
-        <Form Tag="DP">ідалам</Form>
-        <Form Tag="AP">ідалаў</Form>
-        <Form Tag="IP">ідаламі</Form>
-        <Form Tag="LP">ідалах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136353" Lemma="ізюбр" Tag="NCAINM1">
-        <Form Tag="NS">ізюбр</Form>
-        <Form Tag="GS">ізюбра</Form>
-        <Form Tag="DS">ізюбру</Form>
-        <Form Tag="AS">ізюбра</Form>
-        <Form Tag="IS">ізюбрам</Form>
-        <Form Tag="LS">ізюбры</Form>
-        <Form Tag="NP">ізюбры</Form>
-        <Form Tag="GP">ізюбраў</Form>
-        <Form Tag="DP">ізюбрам</Form>
-        <Form Tag="AP">ізюбраў</Form>
-        <Form Tag="IP">ізюбрамі</Form>
-        <Form Tag="LP">ізюбрах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136354" Lemma="інаходзец" Tag="NCAINM1">
-        <Form Tag="NS">інаходзец</Form>
-        <Form Tag="GS">інаходца</Form>
-        <Form Tag="DS">інаходцу</Form>
-        <Form Tag="AS">інаходца</Form>
-        <Form Tag="IS">інаходцам</Form>
-        <Form Tag="LS">інаходцы</Form>
-        <Form Tag="NP">інаходцы</Form>
-        <Form Tag="GP">інаходцаў</Form>
-        <Form Tag="DP">інаходцам</Form>
-        <Form Tag="AP">інаходцаў</Form>
-        <Form Tag="IP">інаходцамі</Form>
-        <Form Tag="LP">інаходцах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1025508" Lemma="індык" Tag="NCAINM1" Govern="">
-        <Form Tag="NS">індык</Form>
-        <Form Tag="GS">індыка</Form>
-        <Form Tag="DS">індыку</Form>
-        <Form Tag="AS">індыка</Form>
-        <Form Tag="IS">індыком</Form>
-        <Form Tag="LS">індыку</Form>
-        <Form Tag="NP">індыкі</Form>
-        <Form Tag="GP">індыкоў</Form>
-        <Form Tag="DP">індыкам</Form>
-        <Form Tag="AP">індыкоў</Form>
-        <Form Tag="IP">індыкамі</Form>
-        <Form Tag="LP">індыках</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136355" Lemma="ірбіс" Tag="NCAINM1">
-        <Form Tag="NS">ірбіс</Form>
-        <Form Tag="GS">ірбіса</Form>
-        <Form Tag="DS">ірбісу</Form>
-        <Form Tag="AS">ірбіса</Form>
-        <Form Tag="IS">ірбісам</Form>
-        <Form Tag="LS">ірбісе</Form>
-        <Form Tag="NP">ірбісы</Form>
-        <Form Tag="GP">ірбісаў</Form>
-        <Form Tag="DP">ірбісам</Form>
-        <Form Tag="AP">ірбісаў</Form>
-        <Form Tag="IP">ірбісамі</Form>
-        <Form Tag="LP">ірбісах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136356" Lemma="іхтыязаўр" Tag="NCAINM1">
-        <Form Tag="NS">іхтыязаўр</Form>
-        <Form Tag="GS">іхтыязаўра</Form>
-        <Form Tag="DS">іхтыязаўру</Form>
-        <Form Tag="AS">іхтыязаўра</Form>
-        <Form Tag="IS">іхтыязаўрам</Form>
-        <Form Tag="LS">іхтыязаўры</Form>
-        <Form Tag="NP">іхтыязаўры</Form>
-        <Form Tag="GP">іхтыязаўраў</Form>
-        <Form Tag="DP">іхтыязаўрам</Form>
-        <Form Tag="AP">іхтыязаўраў</Form>
-        <Form Tag="IP">іхтыязаўрамі</Form>
-        <Form Tag="LP">іхтыязаўрах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136357" Lemma="ішак" Tag="NCAINM1">
-        <Form Tag="NS">ішак</Form>
-        <Form Tag="GS">ішака</Form>
-        <Form Tag="DS">ішаку</Form>
-        <Form Tag="AS">ішака</Form>
-        <Form Tag="IS">ішаком</Form>
-        <Form Tag="LS">ішаку</Form>
-        <Form Tag="NP">ішакі</Form>
-        <Form Tag="GP">ішакоў</Form>
-        <Form Tag="DP">ішакам</Form>
-        <Form Tag="AP">ішакоў</Form>
-        <Form Tag="IP">ішакамі</Form>
-        <Form Tag="LP">ішаках</Form>
     </Paradigm>
 </Wordlist>

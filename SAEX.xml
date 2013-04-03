@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
+    <Paradigm pdgId="1127850" Lemma="інакшы" Tag="SAEX">
+        <Form Tag="MNS">інакшы</Form>
+        <Form Tag="MGS">інакшага</Form>
+        <Form Tag="MDS">інакшаму</Form>
+        <Form Tag="MAS">інакшага</Form>
+        <Form Tag="MAS">інакшы</Form>
+        <Form Tag="MIS">інакшым</Form>
+        <Form Tag="MLS">інакшым</Form>
+        <Form Tag="FNS">інакшая</Form>
+        <Form Tag="FGS">інакшай</Form>
+        <Form Tag="FDS">інакшай</Form>
+        <Form Tag="FAS">інакшую</Form>
+        <Form Tag="FIS">інакшай</Form>
+        <Form Tag="FLS">інакшай</Form>
+        <Form Tag="NNS">інакшае</Form>
+        <Form Tag="NGS">інакшага</Form>
+        <Form Tag="NDS">інакшаму</Form>
+        <Form Tag="NAS">інакшае</Form>
+        <Form Tag="NIS">інакшым</Form>
+        <Form Tag="NLS">інакшым</Form>
+        <Form Tag="XNP">інакшыя</Form>
+        <Form Tag="XGP">інакшых</Form>
+        <Form Tag="XDP">інакшым</Form>
+        <Form Tag="XAP">інакшых</Form>
+        <Form Tag="XAP">інакшыя</Form>
+        <Form Tag="XIP">інакшымы</Form>
+        <Form Tag="XLP">інакшых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127623" Lemma="іншы" Tag="SAEX">
+        <Form Tag="MNS">іншы</Form>
+        <Form Tag="MGS">іншага</Form>
+        <Form Tag="MDS">іншаму</Form>
+        <Form Tag="MAS">іншы</Form>
+        <Form Tag="MAS">іншага</Form>
+        <Form Tag="MIS">іншым</Form>
+        <Form Tag="MLS">іншым</Form>
+        <Form Tag="FNS">іншая</Form>
+        <Form Tag="FGS">іншай</Form>
+        <Form Tag="FGS">іншае</Form>
+        <Form Tag="FDS">іншай</Form>
+        <Form Tag="FAS">іншую</Form>
+        <Form Tag="FIS">іншай</Form>
+        <Form Tag="FIS">іншаю</Form>
+        <Form Tag="FLS">іншай</Form>
+        <Form Tag="NNS">іншае</Form>
+        <Form Tag="NGS">іншага</Form>
+        <Form Tag="NDS">іншаму</Form>
+        <Form Tag="NAS">іншае</Form>
+        <Form Tag="NIS">іншым</Form>
+        <Form Tag="NLS">іншым</Form>
+        <Form Tag="XNP">іншыя</Form>
+        <Form Tag="XGP">іншых</Form>
+        <Form Tag="XDP">іншым</Form>
+        <Form Tag="XAP">іншыя</Form>
+        <Form Tag="XIP">іншымі</Form>
+        <Form Tag="XLP">іншых</Form>
+    </Paradigm>
     <Paradigm pdgId="1127864" Lemma="кожны" Tag="SAEX">
         <Form Tag="MNS">кожны</Form>
         <Form Tag="MGS">кожнага</Form>
@@ -195,62 +252,5 @@
         <Form Tag="XAP">усялякія</Form>
         <Form Tag="XIP">усялякімі</Form>
         <Form Tag="XLP">усялякіх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127850" Lemma="інакшы" Tag="SAEX">
-        <Form Tag="MNS">інакшы</Form>
-        <Form Tag="MGS">інакшага</Form>
-        <Form Tag="MDS">інакшаму</Form>
-        <Form Tag="MAS">інакшага</Form>
-        <Form Tag="MAS">інакшы</Form>
-        <Form Tag="MIS">інакшым</Form>
-        <Form Tag="MLS">інакшым</Form>
-        <Form Tag="FNS">інакшая</Form>
-        <Form Tag="FGS">інакшай</Form>
-        <Form Tag="FDS">інакшай</Form>
-        <Form Tag="FAS">інакшую</Form>
-        <Form Tag="FIS">інакшай</Form>
-        <Form Tag="FLS">інакшай</Form>
-        <Form Tag="NNS">інакшае</Form>
-        <Form Tag="NGS">інакшага</Form>
-        <Form Tag="NDS">інакшаму</Form>
-        <Form Tag="NAS">інакшае</Form>
-        <Form Tag="NIS">інакшым</Form>
-        <Form Tag="NLS">інакшым</Form>
-        <Form Tag="XNP">інакшыя</Form>
-        <Form Tag="XGP">інакшых</Form>
-        <Form Tag="XDP">інакшым</Form>
-        <Form Tag="XAP">інакшых</Form>
-        <Form Tag="XAP">інакшыя</Form>
-        <Form Tag="XIP">інакшымы</Form>
-        <Form Tag="XLP">інакшых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127623" Lemma="іншы" Tag="SAEX">
-        <Form Tag="MNS">іншы</Form>
-        <Form Tag="MGS">іншага</Form>
-        <Form Tag="MDS">іншаму</Form>
-        <Form Tag="MAS">іншы</Form>
-        <Form Tag="MAS">іншага</Form>
-        <Form Tag="MIS">іншым</Form>
-        <Form Tag="MLS">іншым</Form>
-        <Form Tag="FNS">іншая</Form>
-        <Form Tag="FGS">іншай</Form>
-        <Form Tag="FGS">іншае</Form>
-        <Form Tag="FDS">іншай</Form>
-        <Form Tag="FAS">іншую</Form>
-        <Form Tag="FIS">іншай</Form>
-        <Form Tag="FIS">іншаю</Form>
-        <Form Tag="FLS">іншай</Form>
-        <Form Tag="NNS">іншае</Form>
-        <Form Tag="NGS">іншага</Form>
-        <Form Tag="NDS">іншаму</Form>
-        <Form Tag="NAS">іншае</Form>
-        <Form Tag="NIS">іншым</Form>
-        <Form Tag="NLS">іншым</Form>
-        <Form Tag="XNP">іншыя</Form>
-        <Form Tag="XGP">іншых</Form>
-        <Form Tag="XDP">іншым</Form>
-        <Form Tag="XAP">іншыя</Form>
-        <Form Tag="XIP">іншымі</Form>
-        <Form Tag="XLP">іншых</Form>
     </Paradigm>
 </Wordlist>

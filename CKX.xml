@@ -3,9 +3,6 @@
     <Paradigm pdgId="1126904" Lemma="а" Tag="CKX">
         <Form Tag="X">а</Form>
     </Paradigm>
-    <Paradigm pdgId="1127120" Lemma="а то" Tag="CKX">
-        <Form Tag="X">а то</Form>
-    </Paradigm>
     <Paradigm pdgId="1126905" Lemma="або" Tag="CKX">
         <Form Tag="X">або</Form>
     </Paradigm>
@@ -29,6 +26,9 @@
     </Paradigm>
     <Paradigm pdgId="1127137" Lemma="альбо...альбо" Tag="CKX">
         <Form Tag="X">альбо...альбо</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127120" Lemma="а то" Tag="CKX">
+        <Form Tag="X">а то</Form>
     </Paradigm>
     <Paradigm pdgId="1140039" Lemma="дарма, што" Tag="CKX">
         <Form Tag="X">дарма, што</Form>
@@ -63,11 +63,29 @@
     <Paradigm pdgId="1140040" Lemma="зрэшты" Tag="CKX">
         <Form Tag="X">зрэшты</Form>
     </Paradigm>
+    <Paradigm pdgId="1126931" Lemma="і" Tag="CKX">
+        <Form Tag="X">і</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127124" Lemma="інакш" Tag="CKX">
+        <Form Tag="X">інакш</Form>
+    </Paradigm>
+    <Paradigm pdgId="1140038" Lemma="іначай" Tag="CKX">
+        <Form Tag="X">іначай</Form>
+    </Paradigm>
     <Paradigm pdgId="1126932" Lemma="й" Tag="CKX">
         <Form Tag="X">й</Form>
     </Paradigm>
     <Paradigm pdgId="1126939" Lemma="нават" Tag="CKX">
         <Form Tag="X">нават</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127140" Lemma="не то...не то" Tag="CKX">
+        <Form Tag="X">не то...не то</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127132" Lemma="не толькі...а і" Tag="CKX">
+        <Form Tag="X">не толькі...а і</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127131" Lemma="не толькі...але і" Tag="CKX">
+        <Form Tag="X">не толькі...але і</Form>
     </Paradigm>
     <Paradigm pdgId="1127122" Lemma="не то што...а" Tag="CKX">
         <Form Tag="X">не то што...а</Form>
@@ -86,15 +104,6 @@
     </Paradigm>
     <Paradigm pdgId="1127135" Lemma="не то што...але і" Tag="CKX">
         <Form Tag="X">не то што...але і</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127140" Lemma="не то...не то" Tag="CKX">
-        <Form Tag="X">не то...не то</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127132" Lemma="не толькі...а і" Tag="CKX">
-        <Form Tag="X">не толькі...а і</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127131" Lemma="не толькі...але і" Tag="CKX">
-        <Form Tag="X">не толькі...але і</Form>
     </Paradigm>
     <Paradigm pdgId="1127119" Lemma="ні...ні" Tag="CKX">
         <Form Tag="X">ні...ні</Form>
@@ -134,14 +143,5 @@
     </Paradigm>
     <Paradigm pdgId="1127118" Lemma="як...так і" Tag="CKX">
         <Form Tag="X">як...так і</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126931" Lemma="і" Tag="CKX">
-        <Form Tag="X">і</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127124" Lemma="інакш" Tag="CKX">
-        <Form Tag="X">інакш</Form>
-    </Paradigm>
-    <Paradigm pdgId="1140038" Lemma="іначай" Tag="CKX">
-        <Form Tag="X">іначай</Form>
     </Paradigm>
 </Wordlist>

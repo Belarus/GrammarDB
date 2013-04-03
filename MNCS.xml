@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
+    <Paradigm pdgId="1127408" Lemma="адзінаццаць" Tag="MNCS">
+        <Form Tag="XNX">адзінаццаць</Form>
+        <Form Tag="XGX">адзінаццаці</Form>
+        <Form Tag="XDX">адзінаццаці</Form>
+        <Form Tag="XAX">адзінаццаць</Form>
+        <Form Tag="XIX">адзінаццаццю</Form>
+        <Form Tag="XLX">адзінаццаці</Form>
+    </Paradigm>
     <Paradigm pdgId="1146245" Lemma="адзін-два" Tag="MNCS">
         <Form Tag="XNX">адзін-два</Form>
         <Form Tag="XGX">аднаго-двух</Form>
@@ -21,14 +29,6 @@
         <Form Tag="FAX">адну-дзве</Form>
         <Form Tag="FIX">адной-дзвюма</Form>
         <Form Tag="FLX">адной-дзвюх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127408" Lemma="адзінаццаць" Tag="MNCS">
-        <Form Tag="XNX">адзінаццаць</Form>
-        <Form Tag="XGX">адзінаццаці</Form>
-        <Form Tag="XDX">адзінаццаці</Form>
-        <Form Tag="XAX">адзінаццаць</Form>
-        <Form Tag="XIX">адзінаццаццю</Form>
-        <Form Tag="XLX">адзінаццаці</Form>
     </Paradigm>
     <Paradigm pdgId="1127412" Lemma="васемнаццаць" Tag="MNCS">
         <Form Tag="XNX">васемнаццаць</Form>
@@ -77,6 +77,14 @@
         <Form Tag="FIX">дзвюма</Form>
         <Form Tag="FLX">дзвюх</Form>
     </Paradigm>
+    <Paradigm pdgId="1127423" Lemma="дванаццаць" Tag="MNCS">
+        <Form Tag="XNX">дванаццаць</Form>
+        <Form Tag="XGX">дванаццаці</Form>
+        <Form Tag="XDX">дванаццаці</Form>
+        <Form Tag="XAX">дванаццаць</Form>
+        <Form Tag="XIX">дванаццаццю</Form>
+        <Form Tag="XLX">дванаццаці</Form>
+    </Paradigm>
     <Paradigm pdgId="1145040" Lemma="два-тры" Tag="MNCS">
         <Form Tag="XNX">два-тры</Form>
         <Form Tag="XGX">двух-трох</Form>
@@ -98,14 +106,6 @@
         <Form Tag="FAX">дзве-тры</Form>
         <Form Tag="FIX">дзвюма-трыма</Form>
         <Form Tag="FLX">дзвюх-трох</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127423" Lemma="дванаццаць" Tag="MNCS">
-        <Form Tag="XNX">дванаццаць</Form>
-        <Form Tag="XGX">дванаццаці</Form>
-        <Form Tag="XDX">дванаццаці</Form>
-        <Form Tag="XAX">дванаццаць</Form>
-        <Form Tag="XIX">дванаццаццю</Form>
-        <Form Tag="XLX">дванаццаці</Form>
     </Paradigm>
     <Paradigm pdgId="1127425" Lemma="дваццаць" Tag="MNCS">
         <Form Tag="XNX">дваццаць</Form>
@@ -139,20 +139,6 @@
         <Form Tag="XIX">дзесяццю</Form>
         <Form Tag="XLX">дзесяці</Form>
     </Paradigm>
-    <Paradigm pdgId="1145039" Lemma="мільярд" Tag="MNCS">
-        <Form Tag="XNS">мільярд</Form>
-        <Form Tag="XGS">мільярда</Form>
-        <Form Tag="XDS">мільярду</Form>
-        <Form Tag="XAS">мільярд</Form>
-        <Form Tag="XIS">мільярдам</Form>
-        <Form Tag="XLS">мільярдзе</Form>
-        <Form Tag="XNP">мільярды</Form>
-        <Form Tag="XGP">мільярдаў</Form>
-        <Form Tag="XDP">мільярдам</Form>
-        <Form Tag="XAP">мільярды</Form>
-        <Form Tag="XIP">мільярдамі</Form>
-        <Form Tag="XLP">мільярдах</Form>
-    </Paradigm>
     <Paradigm pdgId="1127401" Lemma="мільён" Tag="MNCS">
         <Form Tag="XNS">мільён</Form>
         <Form Tag="XGS">мільёна</Form>
@@ -166,6 +152,20 @@
         <Form Tag="XAP">мільёны</Form>
         <Form Tag="XIP">мільёнамі</Form>
         <Form Tag="XLP">мільёнах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1145039" Lemma="мільярд" Tag="MNCS">
+        <Form Tag="XNS">мільярд</Form>
+        <Form Tag="XGS">мільярда</Form>
+        <Form Tag="XDS">мільярду</Form>
+        <Form Tag="XAS">мільярд</Form>
+        <Form Tag="XIS">мільярдам</Form>
+        <Form Tag="XLS">мільярдзе</Form>
+        <Form Tag="XNP">мільярды</Form>
+        <Form Tag="XGP">мільярдаў</Form>
+        <Form Tag="XDP">мільярдам</Form>
+        <Form Tag="XAP">мільярды</Form>
+        <Form Tag="XIP">мільярдамі</Form>
+        <Form Tag="XLP">мільярдах</Form>
     </Paradigm>
     <Paradigm pdgId="1127738" Lemma="нуль" Tag="MNCS">
         <Form Tag="XNS">нуль</Form>

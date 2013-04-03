@@ -783,35 +783,6 @@
         <Form Tag="XIP">найвядомымі</Form>
         <Form Tag="XLP">найвядомых</Form>
     </Paradigm>
-    <Paradigm pdgId="1073163" Lemma="найвялікшы" Tag="AXS" Govern="">
-        <Form Tag="MNS">найвялікшы</Form>
-        <Form Tag="MGS">найвялікшага</Form>
-        <Form Tag="MDS">найвялікшаму</Form>
-        <Form Tag="MAS">найвялікшы</Form>
-        <Form Tag="MAS">найвялікшага</Form>
-        <Form Tag="MIS">найвялікшым</Form>
-        <Form Tag="MLS">найвялікшым</Form>
-        <Form Tag="FNS">найвялікшая</Form>
-        <Form Tag="FGS">найвялікшай</Form>
-        <Form Tag="FGS">найвялікшае</Form>
-        <Form Tag="FDS">найвялікшай</Form>
-        <Form Tag="FAS">найвялікшую</Form>
-        <Form Tag="FIS">найвялікшай</Form>
-        <Form Tag="FIS">найвялікшаю</Form>
-        <Form Tag="FLS">найвялікшай</Form>
-        <Form Tag="NNS">найвялікшае</Form>
-        <Form Tag="NGS">найвялікшага</Form>
-        <Form Tag="NDS">найвялікшаму</Form>
-        <Form Tag="NAS">найвялікшае</Form>
-        <Form Tag="NIS">найвялікшым</Form>
-        <Form Tag="NLS">найвялікшым</Form>
-        <Form Tag="XNP">найвялікшыя</Form>
-        <Form Tag="XGP">найвялікшых</Form>
-        <Form Tag="XDP">найвялікшым</Form>
-        <Form Tag="XAP">найвялікшыя</Form>
-        <Form Tag="XIP">найвялікшымі</Form>
-        <Form Tag="XLP">найвялікшых</Form>
-    </Paradigm>
     <Paradigm pdgId="1073160" Lemma="найвялікі" Tag="AXS" Govern="">
         <Form Tag="MNS">найвялікі</Form>
         <Form Tag="MGS">найвялікага</Form>
@@ -840,6 +811,35 @@
         <Form Tag="XAP">найвялікія</Form>
         <Form Tag="XIP">найвялікімі</Form>
         <Form Tag="XLP">найвялікіх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073163" Lemma="найвялікшы" Tag="AXS" Govern="">
+        <Form Tag="MNS">найвялікшы</Form>
+        <Form Tag="MGS">найвялікшага</Form>
+        <Form Tag="MDS">найвялікшаму</Form>
+        <Form Tag="MAS">найвялікшы</Form>
+        <Form Tag="MAS">найвялікшага</Form>
+        <Form Tag="MIS">найвялікшым</Form>
+        <Form Tag="MLS">найвялікшым</Form>
+        <Form Tag="FNS">найвялікшая</Form>
+        <Form Tag="FGS">найвялікшай</Form>
+        <Form Tag="FGS">найвялікшае</Form>
+        <Form Tag="FDS">найвялікшай</Form>
+        <Form Tag="FAS">найвялікшую</Form>
+        <Form Tag="FIS">найвялікшай</Form>
+        <Form Tag="FIS">найвялікшаю</Form>
+        <Form Tag="FLS">найвялікшай</Form>
+        <Form Tag="NNS">найвялікшае</Form>
+        <Form Tag="NGS">найвялікшага</Form>
+        <Form Tag="NDS">найвялікшаму</Form>
+        <Form Tag="NAS">найвялікшае</Form>
+        <Form Tag="NIS">найвялікшым</Form>
+        <Form Tag="NLS">найвялікшым</Form>
+        <Form Tag="XNP">найвялікшыя</Form>
+        <Form Tag="XGP">найвялікшых</Form>
+        <Form Tag="XDP">найвялікшым</Form>
+        <Form Tag="XAP">найвялікшыя</Form>
+        <Form Tag="XIP">найвялікшымі</Form>
+        <Form Tag="XLP">найвялікшых</Form>
     </Paradigm>
     <Paradigm pdgId="1073164" Lemma="найвясёлы" Tag="AXS" Govern="">
         <Form Tag="MNS">найвясёлы</Form>
@@ -1856,6 +1856,35 @@
         <Form Tag="XIP">найзялёнымі</Form>
         <Form Tag="XLP">найзялёных</Form>
     </Paradigm>
+    <Paradigm pdgId="1073086" Lemma="найінтымны" Tag="AXS" Govern="">
+        <Form Tag="MNS">найінтымны</Form>
+        <Form Tag="MGS">найінтымнага</Form>
+        <Form Tag="MDS">найінтымнаму</Form>
+        <Form Tag="MAS">найінтымны</Form>
+        <Form Tag="MAS">найінтымнага</Form>
+        <Form Tag="MIS">найінтымным</Form>
+        <Form Tag="MLS">найінтымным</Form>
+        <Form Tag="FNS">найінтымная</Form>
+        <Form Tag="FGS">найінтымнай</Form>
+        <Form Tag="FGS">найінтымнае</Form>
+        <Form Tag="FDS">найінтымнай</Form>
+        <Form Tag="FAS">найінтымную</Form>
+        <Form Tag="FIS">найінтымнай</Form>
+        <Form Tag="FIS">найінтымнаю</Form>
+        <Form Tag="FLS">найінтымнай</Form>
+        <Form Tag="NNS">найінтымнае</Form>
+        <Form Tag="NGS">найінтымнага</Form>
+        <Form Tag="NDS">найінтымнаму</Form>
+        <Form Tag="NAS">найінтымнае</Form>
+        <Form Tag="NIS">найінтымным</Form>
+        <Form Tag="NLS">найінтымным</Form>
+        <Form Tag="XNP">найінтымныя</Form>
+        <Form Tag="XGP">найінтымных</Form>
+        <Form Tag="XDP">найінтымным</Form>
+        <Form Tag="XAP">найінтымныя</Form>
+        <Form Tag="XIP">найінтымнымі</Form>
+        <Form Tag="XLP">найінтымных</Form>
+    </Paradigm>
     <Paradigm pdgId="1073257" Lemma="найкарацейшы" Tag="AXS" Govern="">
         <Form Tag="MNS">найкарацейшы</Form>
         <Form Tag="MGS">найкарацейшага</Form>
@@ -2001,6 +2030,35 @@
         <Form Tag="XIP">найласкавымі</Form>
         <Form Tag="XLP">найласкавых</Form>
     </Paradigm>
+    <Paradigm pdgId="1073267" Lemma="найлёгкі" Tag="AXS" Govern="">
+        <Form Tag="MNS">найлёгкі</Form>
+        <Form Tag="MGS">найлёгкага</Form>
+        <Form Tag="MDS">найлёгкаму</Form>
+        <Form Tag="MAS">найлёгкі</Form>
+        <Form Tag="MAS">найлёгкага</Form>
+        <Form Tag="MIS">найлёгкім</Form>
+        <Form Tag="MLS">найлёгкім</Form>
+        <Form Tag="FNS">найлёгкая</Form>
+        <Form Tag="FGS">найлёгкай</Form>
+        <Form Tag="FGS">найлёгкае</Form>
+        <Form Tag="FDS">найлёгкай</Form>
+        <Form Tag="FAS">найлёгкую</Form>
+        <Form Tag="FIS">найлёгкай</Form>
+        <Form Tag="FIS">найлёгкаю</Form>
+        <Form Tag="FLS">найлёгкай</Form>
+        <Form Tag="NNS">найлёгкае</Form>
+        <Form Tag="NGS">найлёгкага</Form>
+        <Form Tag="NDS">найлёгкаму</Form>
+        <Form Tag="NAS">найлёгкае</Form>
+        <Form Tag="NIS">найлёгкім</Form>
+        <Form Tag="NLS">найлёгкім</Form>
+        <Form Tag="XNP">найлёгкія</Form>
+        <Form Tag="XGP">найлёгкіх</Form>
+        <Form Tag="XDP">найлёгкім</Form>
+        <Form Tag="XAP">найлёгкія</Form>
+        <Form Tag="XIP">найлёгкімі</Form>
+        <Form Tag="XLP">найлёгкіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1073273" Lemma="найлепшы" Tag="AXS" Govern="">
         <Form Tag="MNS">найлепшы</Form>
         <Form Tag="MGS">найлепшага</Form>
@@ -2087,35 +2145,6 @@
         <Form Tag="XAP">найлягчэйшыя</Form>
         <Form Tag="XIP">найлягчэйшымі</Form>
         <Form Tag="XLP">найлягчэйшых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073267" Lemma="найлёгкі" Tag="AXS" Govern="">
-        <Form Tag="MNS">найлёгкі</Form>
-        <Form Tag="MGS">найлёгкага</Form>
-        <Form Tag="MDS">найлёгкаму</Form>
-        <Form Tag="MAS">найлёгкі</Form>
-        <Form Tag="MAS">найлёгкага</Form>
-        <Form Tag="MIS">найлёгкім</Form>
-        <Form Tag="MLS">найлёгкім</Form>
-        <Form Tag="FNS">найлёгкая</Form>
-        <Form Tag="FGS">найлёгкай</Form>
-        <Form Tag="FGS">найлёгкае</Form>
-        <Form Tag="FDS">найлёгкай</Form>
-        <Form Tag="FAS">найлёгкую</Form>
-        <Form Tag="FIS">найлёгкай</Form>
-        <Form Tag="FIS">найлёгкаю</Form>
-        <Form Tag="FLS">найлёгкай</Form>
-        <Form Tag="NNS">найлёгкае</Form>
-        <Form Tag="NGS">найлёгкага</Form>
-        <Form Tag="NDS">найлёгкаму</Form>
-        <Form Tag="NAS">найлёгкае</Form>
-        <Form Tag="NIS">найлёгкім</Form>
-        <Form Tag="NLS">найлёгкім</Form>
-        <Form Tag="XNP">найлёгкія</Form>
-        <Form Tag="XGP">найлёгкіх</Form>
-        <Form Tag="XDP">найлёгкім</Form>
-        <Form Tag="XAP">найлёгкія</Form>
-        <Form Tag="XIP">найлёгкімі</Form>
-        <Form Tag="XLP">найлёгкіх</Form>
     </Paradigm>
     <Paradigm pdgId="1073284" Lemma="наймагутны" Tag="AXS" Govern="">
         <Form Tag="MNS">наймагутны</Form>
@@ -2233,6 +2262,64 @@
         <Form Tag="XIP">найменшымі</Form>
         <Form Tag="XLP">найменшых</Form>
     </Paradigm>
+    <Paradigm pdgId="1073283" Lemma="наймілейшы" Tag="AXS" Govern="">
+        <Form Tag="MNS">наймілейшы</Form>
+        <Form Tag="MGS">наймілейшага</Form>
+        <Form Tag="MDS">наймілейшаму</Form>
+        <Form Tag="MAS">наймілейшы</Form>
+        <Form Tag="MAS">наймілейшага</Form>
+        <Form Tag="MIS">наймілейшым</Form>
+        <Form Tag="MLS">наймілейшым</Form>
+        <Form Tag="FNS">наймілейшая</Form>
+        <Form Tag="FGS">наймілейшай</Form>
+        <Form Tag="FGS">наймілейшае</Form>
+        <Form Tag="FDS">наймілейшай</Form>
+        <Form Tag="FAS">наймілейшую</Form>
+        <Form Tag="FIS">наймілейшай</Form>
+        <Form Tag="FIS">наймілейшаю</Form>
+        <Form Tag="FLS">наймілейшай</Form>
+        <Form Tag="NNS">наймілейшае</Form>
+        <Form Tag="NGS">наймілейшага</Form>
+        <Form Tag="NDS">наймілейшаму</Form>
+        <Form Tag="NAS">наймілейшае</Form>
+        <Form Tag="NIS">наймілейшым</Form>
+        <Form Tag="NLS">наймілейшым</Form>
+        <Form Tag="XNP">наймілейшыя</Form>
+        <Form Tag="XGP">наймілейшых</Form>
+        <Form Tag="XDP">наймілейшым</Form>
+        <Form Tag="XAP">наймілейшыя</Form>
+        <Form Tag="XIP">наймілейшымі</Form>
+        <Form Tag="XLP">наймілейшых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073280" Lemma="наймілы" Tag="AXS" Govern="">
+        <Form Tag="MNS">наймілы</Form>
+        <Form Tag="MGS">наймілага</Form>
+        <Form Tag="MDS">найміламу</Form>
+        <Form Tag="MAS">наймілы</Form>
+        <Form Tag="MAS">наймілага</Form>
+        <Form Tag="MIS">наймілым</Form>
+        <Form Tag="MLS">наймілым</Form>
+        <Form Tag="FNS">наймілая</Form>
+        <Form Tag="FGS">наймілай</Form>
+        <Form Tag="FGS">наймілае</Form>
+        <Form Tag="FDS">наймілай</Form>
+        <Form Tag="FAS">наймілую</Form>
+        <Form Tag="FIS">наймілай</Form>
+        <Form Tag="FIS">наймілаю</Form>
+        <Form Tag="FLS">наймілай</Form>
+        <Form Tag="NNS">наймілае</Form>
+        <Form Tag="NGS">наймілага</Form>
+        <Form Tag="NDS">найміламу</Form>
+        <Form Tag="NAS">наймілае</Form>
+        <Form Tag="NIS">наймілым</Form>
+        <Form Tag="NLS">наймілым</Form>
+        <Form Tag="XNP">наймілыя</Form>
+        <Form Tag="XGP">наймілых</Form>
+        <Form Tag="XDP">наймілым</Form>
+        <Form Tag="XAP">наймілыя</Form>
+        <Form Tag="XIP">наймілымі</Form>
+        <Form Tag="XLP">наймілых</Form>
+    </Paradigm>
     <Paradigm pdgId="1073305" Lemma="наймоцны" Tag="AXS" Govern="">
         <Form Tag="MNS">наймоцны</Form>
         <Form Tag="MGS">наймоцнага</Form>
@@ -2349,64 +2436,6 @@
         <Form Tag="XIP">наймужнымі</Form>
         <Form Tag="XLP">наймужных</Form>
     </Paradigm>
-    <Paradigm pdgId="1073283" Lemma="наймілейшы" Tag="AXS" Govern="">
-        <Form Tag="MNS">наймілейшы</Form>
-        <Form Tag="MGS">наймілейшага</Form>
-        <Form Tag="MDS">наймілейшаму</Form>
-        <Form Tag="MAS">наймілейшы</Form>
-        <Form Tag="MAS">наймілейшага</Form>
-        <Form Tag="MIS">наймілейшым</Form>
-        <Form Tag="MLS">наймілейшым</Form>
-        <Form Tag="FNS">наймілейшая</Form>
-        <Form Tag="FGS">наймілейшай</Form>
-        <Form Tag="FGS">наймілейшае</Form>
-        <Form Tag="FDS">наймілейшай</Form>
-        <Form Tag="FAS">наймілейшую</Form>
-        <Form Tag="FIS">наймілейшай</Form>
-        <Form Tag="FIS">наймілейшаю</Form>
-        <Form Tag="FLS">наймілейшай</Form>
-        <Form Tag="NNS">наймілейшае</Form>
-        <Form Tag="NGS">наймілейшага</Form>
-        <Form Tag="NDS">наймілейшаму</Form>
-        <Form Tag="NAS">наймілейшае</Form>
-        <Form Tag="NIS">наймілейшым</Form>
-        <Form Tag="NLS">наймілейшым</Form>
-        <Form Tag="XNP">наймілейшыя</Form>
-        <Form Tag="XGP">наймілейшых</Form>
-        <Form Tag="XDP">наймілейшым</Form>
-        <Form Tag="XAP">наймілейшыя</Form>
-        <Form Tag="XIP">наймілейшымі</Form>
-        <Form Tag="XLP">наймілейшых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073280" Lemma="наймілы" Tag="AXS" Govern="">
-        <Form Tag="MNS">наймілы</Form>
-        <Form Tag="MGS">наймілага</Form>
-        <Form Tag="MDS">найміламу</Form>
-        <Form Tag="MAS">наймілы</Form>
-        <Form Tag="MAS">наймілага</Form>
-        <Form Tag="MIS">наймілым</Form>
-        <Form Tag="MLS">наймілым</Form>
-        <Form Tag="FNS">наймілая</Form>
-        <Form Tag="FGS">наймілай</Form>
-        <Form Tag="FGS">наймілае</Form>
-        <Form Tag="FDS">наймілай</Form>
-        <Form Tag="FAS">наймілую</Form>
-        <Form Tag="FIS">наймілай</Form>
-        <Form Tag="FIS">наймілаю</Form>
-        <Form Tag="FLS">наймілай</Form>
-        <Form Tag="NNS">наймілае</Form>
-        <Form Tag="NGS">наймілага</Form>
-        <Form Tag="NDS">найміламу</Form>
-        <Form Tag="NAS">наймілае</Form>
-        <Form Tag="NIS">наймілым</Form>
-        <Form Tag="NLS">наймілым</Form>
-        <Form Tag="XNP">наймілыя</Form>
-        <Form Tag="XGP">наймілых</Form>
-        <Form Tag="XDP">наймілым</Form>
-        <Form Tag="XAP">наймілыя</Form>
-        <Form Tag="XIP">наймілымі</Form>
-        <Form Tag="XLP">наймілых</Form>
-    </Paradigm>
     <Paradigm pdgId="1073317" Lemma="найнавейшы" Tag="AXS" Govern="">
         <Form Tag="MNS">найнавейшы</Form>
         <Form Tag="MGS">найнавейшага</Form>
@@ -2494,6 +2523,35 @@
         <Form Tag="XIP">найнебяспечнымі</Form>
         <Form Tag="XLP">найнебяспечных</Form>
     </Paradigm>
+    <Paradigm pdgId="1073314" Lemma="найнізкі" Tag="AXS" Govern="">
+        <Form Tag="MNS">найнізкі</Form>
+        <Form Tag="MGS">найнізкага</Form>
+        <Form Tag="MDS">найнізкаму</Form>
+        <Form Tag="MAS">найнізкі</Form>
+        <Form Tag="MAS">найнізкага</Form>
+        <Form Tag="MIS">найнізкім</Form>
+        <Form Tag="MLS">найнізкім</Form>
+        <Form Tag="FNS">найнізкая</Form>
+        <Form Tag="FGS">найнізкай</Form>
+        <Form Tag="FGS">найнізкае</Form>
+        <Form Tag="FDS">найнізкай</Form>
+        <Form Tag="FAS">найнізкую</Form>
+        <Form Tag="FIS">найнізкай</Form>
+        <Form Tag="FIS">найнізкаю</Form>
+        <Form Tag="FLS">найнізкай</Form>
+        <Form Tag="NNS">найнізкае</Form>
+        <Form Tag="NGS">найнізкага</Form>
+        <Form Tag="NDS">найнізкаму</Form>
+        <Form Tag="NAS">найнізкае</Form>
+        <Form Tag="NIS">найнізкім</Form>
+        <Form Tag="NLS">найнізкім</Form>
+        <Form Tag="XNP">найнізкія</Form>
+        <Form Tag="XGP">найнізкіх</Form>
+        <Form Tag="XDP">найнізкім</Form>
+        <Form Tag="XAP">найнізкія</Form>
+        <Form Tag="XIP">найнізкімі</Form>
+        <Form Tag="XLP">найнізкіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1073324" Lemma="найноўшы" Tag="AXS" Govern="">
         <Form Tag="MNS">найноўшы</Form>
         <Form Tag="MGS">найноўшага</Form>
@@ -2551,35 +2609,6 @@
         <Form Tag="XAP">найнудныя</Form>
         <Form Tag="XIP">найнуднымі</Form>
         <Form Tag="XLP">найнудных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073314" Lemma="найнізкі" Tag="AXS" Govern="">
-        <Form Tag="MNS">найнізкі</Form>
-        <Form Tag="MGS">найнізкага</Form>
-        <Form Tag="MDS">найнізкаму</Form>
-        <Form Tag="MAS">найнізкі</Form>
-        <Form Tag="MAS">найнізкага</Form>
-        <Form Tag="MIS">найнізкім</Form>
-        <Form Tag="MLS">найнізкім</Form>
-        <Form Tag="FNS">найнізкая</Form>
-        <Form Tag="FGS">найнізкай</Form>
-        <Form Tag="FGS">найнізкае</Form>
-        <Form Tag="FDS">найнізкай</Form>
-        <Form Tag="FAS">найнізкую</Form>
-        <Form Tag="FIS">найнізкай</Form>
-        <Form Tag="FIS">найнізкаю</Form>
-        <Form Tag="FLS">найнізкай</Form>
-        <Form Tag="NNS">найнізкае</Form>
-        <Form Tag="NGS">найнізкага</Form>
-        <Form Tag="NDS">найнізкаму</Form>
-        <Form Tag="NAS">найнізкае</Form>
-        <Form Tag="NIS">найнізкім</Form>
-        <Form Tag="NLS">найнізкім</Form>
-        <Form Tag="XNP">найнізкія</Form>
-        <Form Tag="XGP">найнізкіх</Form>
-        <Form Tag="XDP">найнізкім</Form>
-        <Form Tag="XAP">найнізкія</Form>
-        <Form Tag="XIP">найнізкімі</Form>
-        <Form Tag="XLP">найнізкіх</Form>
     </Paradigm>
     <Paradigm pdgId="1073331" Lemma="найпадрабязны" Tag="AXS" Govern="">
         <Form Tag="MNS">найпадрабязны</Form>
@@ -2696,6 +2725,35 @@
         <Form Tag="XAP">найпершыя</Form>
         <Form Tag="XIP">найпершымі</Form>
         <Form Tag="XLP">найпершых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073328" Lemma="найпісьменны" Tag="AXS" Govern="">
+        <Form Tag="MNS">найпісьменны</Form>
+        <Form Tag="MGS">найпісьменнага</Form>
+        <Form Tag="MDS">найпісьменнаму</Form>
+        <Form Tag="MAS">найпісьменны</Form>
+        <Form Tag="MAS">найпісьменнага</Form>
+        <Form Tag="MIS">найпісьменным</Form>
+        <Form Tag="MLS">найпісьменным</Form>
+        <Form Tag="FNS">найпісьменная</Form>
+        <Form Tag="FGS">найпісьменнай</Form>
+        <Form Tag="FGS">найпісьменнае</Form>
+        <Form Tag="FDS">найпісьменнай</Form>
+        <Form Tag="FAS">найпісьменную</Form>
+        <Form Tag="FIS">найпісьменнай</Form>
+        <Form Tag="FIS">найпісьменнаю</Form>
+        <Form Tag="FLS">найпісьменнай</Form>
+        <Form Tag="NNS">найпісьменнае</Form>
+        <Form Tag="NGS">найпісьменнага</Form>
+        <Form Tag="NDS">найпісьменнаму</Form>
+        <Form Tag="NAS">найпісьменнае</Form>
+        <Form Tag="NIS">найпісьменным</Form>
+        <Form Tag="NLS">найпісьменным</Form>
+        <Form Tag="XNP">найпісьменныя</Form>
+        <Form Tag="XGP">найпісьменных</Form>
+        <Form Tag="XDP">найпісьменным</Form>
+        <Form Tag="XAP">найпісьменныя</Form>
+        <Form Tag="XIP">найпісьменнымі</Form>
+        <Form Tag="XLP">найпісьменных</Form>
     </Paradigm>
     <Paradigm pdgId="1073346" Lemma="найпозні" Tag="AXS" Govern="">
         <Form Tag="MNS">найпозні</Form>
@@ -2957,35 +3015,6 @@
         <Form Tag="XAP">найпрэстыжныя</Form>
         <Form Tag="XIP">найпрэстыжнымі</Form>
         <Form Tag="XLP">найпрэстыжных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073328" Lemma="найпісьменны" Tag="AXS" Govern="">
-        <Form Tag="MNS">найпісьменны</Form>
-        <Form Tag="MGS">найпісьменнага</Form>
-        <Form Tag="MDS">найпісьменнаму</Form>
-        <Form Tag="MAS">найпісьменны</Form>
-        <Form Tag="MAS">найпісьменнага</Form>
-        <Form Tag="MIS">найпісьменным</Form>
-        <Form Tag="MLS">найпісьменным</Form>
-        <Form Tag="FNS">найпісьменная</Form>
-        <Form Tag="FGS">найпісьменнай</Form>
-        <Form Tag="FGS">найпісьменнае</Form>
-        <Form Tag="FDS">найпісьменнай</Form>
-        <Form Tag="FAS">найпісьменную</Form>
-        <Form Tag="FIS">найпісьменнай</Form>
-        <Form Tag="FIS">найпісьменнаю</Form>
-        <Form Tag="FLS">найпісьменнай</Form>
-        <Form Tag="NNS">найпісьменнае</Form>
-        <Form Tag="NGS">найпісьменнага</Form>
-        <Form Tag="NDS">найпісьменнаму</Form>
-        <Form Tag="NAS">найпісьменнае</Form>
-        <Form Tag="NIS">найпісьменным</Form>
-        <Form Tag="NLS">найпісьменным</Form>
-        <Form Tag="XNP">найпісьменныя</Form>
-        <Form Tag="XGP">найпісьменных</Form>
-        <Form Tag="XDP">найпісьменным</Form>
-        <Form Tag="XAP">найпісьменныя</Form>
-        <Form Tag="XIP">найпісьменнымі</Form>
-        <Form Tag="XLP">найпісьменных</Form>
     </Paradigm>
     <Paradigm pdgId="1073364" Lemma="найразумнейшы" Tag="AXS" Govern="">
         <Form Tag="MNS">найразумнейшы</Form>
@@ -4060,122 +4089,6 @@
         <Form Tag="XIP">найхутчэйшымі</Form>
         <Form Tag="XLP">найхутчэйшых</Form>
     </Paradigm>
-    <Paradigm pdgId="1073469" Lemma="найцесны" Tag="AXS" Govern="">
-        <Form Tag="MNS">найцесны</Form>
-        <Form Tag="MGS">найцеснага</Form>
-        <Form Tag="MDS">найцеснаму</Form>
-        <Form Tag="MAS">найцесны</Form>
-        <Form Tag="MAS">найцеснага</Form>
-        <Form Tag="MIS">найцесным</Form>
-        <Form Tag="MLS">найцесным</Form>
-        <Form Tag="FNS">найцесная</Form>
-        <Form Tag="FGS">найцеснай</Form>
-        <Form Tag="FGS">найцеснае</Form>
-        <Form Tag="FDS">найцеснай</Form>
-        <Form Tag="FAS">найцесную</Form>
-        <Form Tag="FIS">найцеснай</Form>
-        <Form Tag="FIS">найцеснаю</Form>
-        <Form Tag="FLS">найцеснай</Form>
-        <Form Tag="NNS">найцеснае</Form>
-        <Form Tag="NGS">найцеснага</Form>
-        <Form Tag="NDS">найцеснаму</Form>
-        <Form Tag="NAS">найцеснае</Form>
-        <Form Tag="NIS">найцесным</Form>
-        <Form Tag="NLS">найцесным</Form>
-        <Form Tag="XNP">найцесныя</Form>
-        <Form Tag="XGP">найцесных</Form>
-        <Form Tag="XDP">найцесным</Form>
-        <Form Tag="XAP">найцесныя</Form>
-        <Form Tag="XIP">найцеснымі</Form>
-        <Form Tag="XLP">найцесных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073472" Lemma="найцудоўны" Tag="AXS" Govern="">
-        <Form Tag="MNS">найцудоўны</Form>
-        <Form Tag="MGS">найцудоўнага</Form>
-        <Form Tag="MDS">найцудоўнаму</Form>
-        <Form Tag="MAS">найцудоўны</Form>
-        <Form Tag="MAS">найцудоўнага</Form>
-        <Form Tag="MIS">найцудоўным</Form>
-        <Form Tag="MLS">найцудоўным</Form>
-        <Form Tag="FNS">найцудоўная</Form>
-        <Form Tag="FGS">найцудоўнай</Form>
-        <Form Tag="FGS">найцудоўнае</Form>
-        <Form Tag="FDS">найцудоўнай</Form>
-        <Form Tag="FAS">найцудоўную</Form>
-        <Form Tag="FIS">найцудоўнай</Form>
-        <Form Tag="FIS">найцудоўнаю</Form>
-        <Form Tag="FLS">найцудоўнай</Form>
-        <Form Tag="NNS">найцудоўнае</Form>
-        <Form Tag="NGS">найцудоўнага</Form>
-        <Form Tag="NDS">найцудоўнаму</Form>
-        <Form Tag="NAS">найцудоўнае</Form>
-        <Form Tag="NIS">найцудоўным</Form>
-        <Form Tag="NLS">найцудоўным</Form>
-        <Form Tag="XNP">найцудоўныя</Form>
-        <Form Tag="XGP">найцудоўных</Form>
-        <Form Tag="XDP">найцудоўным</Form>
-        <Form Tag="XAP">найцудоўныя</Form>
-        <Form Tag="XIP">найцудоўнымі</Form>
-        <Form Tag="XLP">найцудоўных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073475" Lemma="найцяжкі" Tag="AXS" Govern="">
-        <Form Tag="MNS">найцяжкі</Form>
-        <Form Tag="MGS">найцяжкага</Form>
-        <Form Tag="MDS">найцяжкаму</Form>
-        <Form Tag="MAS">найцяжкі</Form>
-        <Form Tag="MAS">найцяжкага</Form>
-        <Form Tag="MIS">найцяжкім</Form>
-        <Form Tag="MLS">найцяжкім</Form>
-        <Form Tag="FNS">найцяжкая</Form>
-        <Form Tag="FGS">найцяжкай</Form>
-        <Form Tag="FGS">найцяжкае</Form>
-        <Form Tag="FDS">найцяжкай</Form>
-        <Form Tag="FAS">найцяжкую</Form>
-        <Form Tag="FIS">найцяжкай</Form>
-        <Form Tag="FIS">найцяжкаю</Form>
-        <Form Tag="FLS">найцяжкай</Form>
-        <Form Tag="NNS">найцяжкае</Form>
-        <Form Tag="NGS">найцяжкага</Form>
-        <Form Tag="NDS">найцяжкаму</Form>
-        <Form Tag="NAS">найцяжкае</Form>
-        <Form Tag="NIS">найцяжкім</Form>
-        <Form Tag="NLS">найцяжкім</Form>
-        <Form Tag="XNP">найцяжкія</Form>
-        <Form Tag="XGP">найцяжкіх</Form>
-        <Form Tag="XDP">найцяжкім</Form>
-        <Form Tag="XAP">найцяжкія</Form>
-        <Form Tag="XIP">найцяжкімі</Form>
-        <Form Tag="XLP">найцяжкіх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073478" Lemma="найцяжэйшы" Tag="AXS" Govern="">
-        <Form Tag="MNS">найцяжэйшы</Form>
-        <Form Tag="MGS">найцяжэйшага</Form>
-        <Form Tag="MDS">найцяжэйшаму</Form>
-        <Form Tag="MAS">найцяжэйшы</Form>
-        <Form Tag="MAS">найцяжэйшага</Form>
-        <Form Tag="MIS">найцяжэйшым</Form>
-        <Form Tag="MLS">найцяжэйшым</Form>
-        <Form Tag="FNS">найцяжэйшая</Form>
-        <Form Tag="FGS">найцяжэйшай</Form>
-        <Form Tag="FGS">найцяжэйшае</Form>
-        <Form Tag="FDS">найцяжэйшай</Form>
-        <Form Tag="FAS">найцяжэйшую</Form>
-        <Form Tag="FIS">найцяжэйшай</Form>
-        <Form Tag="FIS">найцяжэйшаю</Form>
-        <Form Tag="FLS">найцяжэйшай</Form>
-        <Form Tag="NNS">найцяжэйшае</Form>
-        <Form Tag="NGS">найцяжэйшага</Form>
-        <Form Tag="NDS">найцяжэйшаму</Form>
-        <Form Tag="NAS">найцяжэйшае</Form>
-        <Form Tag="NIS">найцяжэйшым</Form>
-        <Form Tag="NLS">найцяжэйшым</Form>
-        <Form Tag="XNP">найцяжэйшыя</Form>
-        <Form Tag="XGP">найцяжэйшых</Form>
-        <Form Tag="XDP">найцяжэйшым</Form>
-        <Form Tag="XAP">найцяжэйшыя</Form>
-        <Form Tag="XIP">найцяжэйшымі</Form>
-        <Form Tag="XLP">найцяжэйшых</Form>
-    </Paradigm>
     <Paradigm pdgId="1073466" Lemma="найцёмны" Tag="AXS" Govern="">
         <Form Tag="MNS">найцёмны</Form>
         <Form Tag="MGS">найцёмнага</Form>
@@ -4204,6 +4117,35 @@
         <Form Tag="XAP">найцёмныя</Form>
         <Form Tag="XIP">найцёмнымі</Form>
         <Form Tag="XLP">найцёмных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073469" Lemma="найцесны" Tag="AXS" Govern="">
+        <Form Tag="MNS">найцесны</Form>
+        <Form Tag="MGS">найцеснага</Form>
+        <Form Tag="MDS">найцеснаму</Form>
+        <Form Tag="MAS">найцесны</Form>
+        <Form Tag="MAS">найцеснага</Form>
+        <Form Tag="MIS">найцесным</Form>
+        <Form Tag="MLS">найцесным</Form>
+        <Form Tag="FNS">найцесная</Form>
+        <Form Tag="FGS">найцеснай</Form>
+        <Form Tag="FGS">найцеснае</Form>
+        <Form Tag="FDS">найцеснай</Form>
+        <Form Tag="FAS">найцесную</Form>
+        <Form Tag="FIS">найцеснай</Form>
+        <Form Tag="FIS">найцеснаю</Form>
+        <Form Tag="FLS">найцеснай</Form>
+        <Form Tag="NNS">найцеснае</Form>
+        <Form Tag="NGS">найцеснага</Form>
+        <Form Tag="NDS">найцеснаму</Form>
+        <Form Tag="NAS">найцеснае</Form>
+        <Form Tag="NIS">найцесным</Form>
+        <Form Tag="NLS">найцесным</Form>
+        <Form Tag="XNP">найцесныя</Form>
+        <Form Tag="XGP">найцесных</Form>
+        <Form Tag="XDP">найцесным</Form>
+        <Form Tag="XAP">найцесныя</Form>
+        <Form Tag="XIP">найцеснымі</Form>
+        <Form Tag="XLP">найцесных</Form>
     </Paradigm>
     <Paradigm pdgId="1073462" Lemma="найцікавейшы" Tag="AXS" Govern="">
         <Form Tag="MNS">найцікавейшы</Form>
@@ -4291,6 +4233,93 @@
         <Form Tag="XAP">найціхія</Form>
         <Form Tag="XIP">найціхімі</Form>
         <Form Tag="XLP">найціхіх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073472" Lemma="найцудоўны" Tag="AXS" Govern="">
+        <Form Tag="MNS">найцудоўны</Form>
+        <Form Tag="MGS">найцудоўнага</Form>
+        <Form Tag="MDS">найцудоўнаму</Form>
+        <Form Tag="MAS">найцудоўны</Form>
+        <Form Tag="MAS">найцудоўнага</Form>
+        <Form Tag="MIS">найцудоўным</Form>
+        <Form Tag="MLS">найцудоўным</Form>
+        <Form Tag="FNS">найцудоўная</Form>
+        <Form Tag="FGS">найцудоўнай</Form>
+        <Form Tag="FGS">найцудоўнае</Form>
+        <Form Tag="FDS">найцудоўнай</Form>
+        <Form Tag="FAS">найцудоўную</Form>
+        <Form Tag="FIS">найцудоўнай</Form>
+        <Form Tag="FIS">найцудоўнаю</Form>
+        <Form Tag="FLS">найцудоўнай</Form>
+        <Form Tag="NNS">найцудоўнае</Form>
+        <Form Tag="NGS">найцудоўнага</Form>
+        <Form Tag="NDS">найцудоўнаму</Form>
+        <Form Tag="NAS">найцудоўнае</Form>
+        <Form Tag="NIS">найцудоўным</Form>
+        <Form Tag="NLS">найцудоўным</Form>
+        <Form Tag="XNP">найцудоўныя</Form>
+        <Form Tag="XGP">найцудоўных</Form>
+        <Form Tag="XDP">найцудоўным</Form>
+        <Form Tag="XAP">найцудоўныя</Form>
+        <Form Tag="XIP">найцудоўнымі</Form>
+        <Form Tag="XLP">найцудоўных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073475" Lemma="найцяжкі" Tag="AXS" Govern="">
+        <Form Tag="MNS">найцяжкі</Form>
+        <Form Tag="MGS">найцяжкага</Form>
+        <Form Tag="MDS">найцяжкаму</Form>
+        <Form Tag="MAS">найцяжкі</Form>
+        <Form Tag="MAS">найцяжкага</Form>
+        <Form Tag="MIS">найцяжкім</Form>
+        <Form Tag="MLS">найцяжкім</Form>
+        <Form Tag="FNS">найцяжкая</Form>
+        <Form Tag="FGS">найцяжкай</Form>
+        <Form Tag="FGS">найцяжкае</Form>
+        <Form Tag="FDS">найцяжкай</Form>
+        <Form Tag="FAS">найцяжкую</Form>
+        <Form Tag="FIS">найцяжкай</Form>
+        <Form Tag="FIS">найцяжкаю</Form>
+        <Form Tag="FLS">найцяжкай</Form>
+        <Form Tag="NNS">найцяжкае</Form>
+        <Form Tag="NGS">найцяжкага</Form>
+        <Form Tag="NDS">найцяжкаму</Form>
+        <Form Tag="NAS">найцяжкае</Form>
+        <Form Tag="NIS">найцяжкім</Form>
+        <Form Tag="NLS">найцяжкім</Form>
+        <Form Tag="XNP">найцяжкія</Form>
+        <Form Tag="XGP">найцяжкіх</Form>
+        <Form Tag="XDP">найцяжкім</Form>
+        <Form Tag="XAP">найцяжкія</Form>
+        <Form Tag="XIP">найцяжкімі</Form>
+        <Form Tag="XLP">найцяжкіх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1073478" Lemma="найцяжэйшы" Tag="AXS" Govern="">
+        <Form Tag="MNS">найцяжэйшы</Form>
+        <Form Tag="MGS">найцяжэйшага</Form>
+        <Form Tag="MDS">найцяжэйшаму</Form>
+        <Form Tag="MAS">найцяжэйшы</Form>
+        <Form Tag="MAS">найцяжэйшага</Form>
+        <Form Tag="MIS">найцяжэйшым</Form>
+        <Form Tag="MLS">найцяжэйшым</Form>
+        <Form Tag="FNS">найцяжэйшая</Form>
+        <Form Tag="FGS">найцяжэйшай</Form>
+        <Form Tag="FGS">найцяжэйшае</Form>
+        <Form Tag="FDS">найцяжэйшай</Form>
+        <Form Tag="FAS">найцяжэйшую</Form>
+        <Form Tag="FIS">найцяжэйшай</Form>
+        <Form Tag="FIS">найцяжэйшаю</Form>
+        <Form Tag="FLS">найцяжэйшай</Form>
+        <Form Tag="NNS">найцяжэйшае</Form>
+        <Form Tag="NGS">найцяжэйшага</Form>
+        <Form Tag="NDS">найцяжэйшаму</Form>
+        <Form Tag="NAS">найцяжэйшае</Form>
+        <Form Tag="NIS">найцяжэйшым</Form>
+        <Form Tag="NLS">найцяжэйшым</Form>
+        <Form Tag="XNP">найцяжэйшыя</Form>
+        <Form Tag="XGP">найцяжэйшых</Form>
+        <Form Tag="XDP">найцяжэйшым</Form>
+        <Form Tag="XAP">найцяжэйшыя</Form>
+        <Form Tag="XIP">найцяжэйшымі</Form>
+        <Form Tag="XLP">найцяжэйшых</Form>
     </Paradigm>
     <Paradigm pdgId="1073479" Lemma="найчырвоны" Tag="AXS" Govern="">
         <Form Tag="MNS">найчырвоны</Form>
@@ -4552,34 +4581,5 @@
         <Form Tag="XAP">найяснейшыя</Form>
         <Form Tag="XIP">найяснейшымі</Form>
         <Form Tag="XLP">найяснейшых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1073086" Lemma="найінтымны" Tag="AXS" Govern="">
-        <Form Tag="MNS">найінтымны</Form>
-        <Form Tag="MGS">найінтымнага</Form>
-        <Form Tag="MDS">найінтымнаму</Form>
-        <Form Tag="MAS">найінтымны</Form>
-        <Form Tag="MAS">найінтымнага</Form>
-        <Form Tag="MIS">найінтымным</Form>
-        <Form Tag="MLS">найінтымным</Form>
-        <Form Tag="FNS">найінтымная</Form>
-        <Form Tag="FGS">найінтымнай</Form>
-        <Form Tag="FGS">найінтымнае</Form>
-        <Form Tag="FDS">найінтымнай</Form>
-        <Form Tag="FAS">найінтымную</Form>
-        <Form Tag="FIS">найінтымнай</Form>
-        <Form Tag="FIS">найінтымнаю</Form>
-        <Form Tag="FLS">найінтымнай</Form>
-        <Form Tag="NNS">найінтымнае</Form>
-        <Form Tag="NGS">найінтымнага</Form>
-        <Form Tag="NDS">найінтымнаму</Form>
-        <Form Tag="NAS">найінтымнае</Form>
-        <Form Tag="NIS">найінтымным</Form>
-        <Form Tag="NLS">найінтымным</Form>
-        <Form Tag="XNP">найінтымныя</Form>
-        <Form Tag="XGP">найінтымных</Form>
-        <Form Tag="XDP">найінтымным</Form>
-        <Form Tag="XAP">найінтымныя</Form>
-        <Form Tag="XIP">найінтымнымі</Form>
-        <Form Tag="XLP">найінтымных</Form>
     </Paradigm>
 </Wordlist>

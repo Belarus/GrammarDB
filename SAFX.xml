@@ -290,6 +290,9 @@
         <Form Tag="XIP">нейчымі</Form>
         <Form Tag="XLP">нейчых</Form>
     </Paradigm>
+    <Paradigm pdgId="1127615" Lemma="некалі" Tag="SAFX">
+        <Form Tag="XXX">некалі</Form>
+    </Paradigm>
     <Paradigm pdgId="1127842" Lemma="некалькі" Tag="SAFX">
         <Form Tag="MNS"></Form>
         <Form Tag="MGS"></Form>
@@ -316,9 +319,6 @@
         <Form Tag="XAP">некалькі</Form>
         <Form Tag="XIP">некалькімі</Form>
         <Form Tag="XLP">некалькіх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127615" Lemma="некалі" Tag="SAFX">
-        <Form Tag="XXX">некалі</Form>
     </Paradigm>
     <Paradigm pdgId="1127629" Lemma="некаторы" Tag="SAFX">
         <Form Tag="MNS">некаторы</Form>
@@ -433,34 +433,6 @@
         <Form Tag="XIP"></Form>
         <Form Tag="XLP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1127837" Lemma="сякі-такі" Tag="SAFX">
-        <Form Tag="MNS">сякі-такі</Form>
-        <Form Tag="MGS">сякога-такога</Form>
-        <Form Tag="MDS">сякому-такому</Form>
-        <Form Tag="MAS">сякога-такога</Form>
-        <Form Tag="MAS">сякі-такі</Form>
-        <Form Tag="MIS">сякім-такім</Form>
-        <Form Tag="MLS">сякім-такім</Form>
-        <Form Tag="FNS">сякая-такая</Form>
-        <Form Tag="FGS">сякой-такой</Form>
-        <Form Tag="FDS">сякой-такой</Form>
-        <Form Tag="FAS">сякую-такую</Form>
-        <Form Tag="FIS">сякой-такой</Form>
-        <Form Tag="FLS">сякой-такой</Form>
-        <Form Tag="NNS">сякое-такое</Form>
-        <Form Tag="NGS">сякога-такога</Form>
-        <Form Tag="NDS">сякому-такому</Form>
-        <Form Tag="NAS">сякое-такое</Form>
-        <Form Tag="NIS">сякім-такім</Form>
-        <Form Tag="NLS">сякім-такім</Form>
-        <Form Tag="XNP">сякія-такія</Form>
-        <Form Tag="XGP">сякіх-такіх</Form>
-        <Form Tag="XDP">сякім-такім</Form>
-        <Form Tag="XAP">сякіх-такіх</Form>
-        <Form Tag="XAP">сякія-такія</Form>
-        <Form Tag="XIP">сякімі-такімі</Form>
-        <Form Tag="XLP">сякіх-такіх</Form>
-    </Paradigm>
     <Paradigm pdgId="1127846" Lemma="сёй-той" Tag="SAFX">
         <Form Tag="MNS">сёй-той</Form>
         <Form Tag="MGS">сяго-таго</Form>
@@ -488,6 +460,34 @@
         <Form Tag="XAP">сія-тыя</Form>
         <Form Tag="XIP">сімі-тымі</Form>
         <Form Tag="XLP">сіх-тых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127837" Lemma="сякі-такі" Tag="SAFX">
+        <Form Tag="MNS">сякі-такі</Form>
+        <Form Tag="MGS">сякога-такога</Form>
+        <Form Tag="MDS">сякому-такому</Form>
+        <Form Tag="MAS">сякога-такога</Form>
+        <Form Tag="MAS">сякі-такі</Form>
+        <Form Tag="MIS">сякім-такім</Form>
+        <Form Tag="MLS">сякім-такім</Form>
+        <Form Tag="FNS">сякая-такая</Form>
+        <Form Tag="FGS">сякой-такой</Form>
+        <Form Tag="FDS">сякой-такой</Form>
+        <Form Tag="FAS">сякую-такую</Form>
+        <Form Tag="FIS">сякой-такой</Form>
+        <Form Tag="FLS">сякой-такой</Form>
+        <Form Tag="NNS">сякое-такое</Form>
+        <Form Tag="NGS">сякога-такога</Form>
+        <Form Tag="NDS">сякому-такому</Form>
+        <Form Tag="NAS">сякое-такое</Form>
+        <Form Tag="NIS">сякім-такім</Form>
+        <Form Tag="NLS">сякім-такім</Form>
+        <Form Tag="XNP">сякія-такія</Form>
+        <Form Tag="XGP">сякіх-такіх</Form>
+        <Form Tag="XDP">сякім-такім</Form>
+        <Form Tag="XAP">сякіх-такіх</Form>
+        <Form Tag="XAP">сякія-такія</Form>
+        <Form Tag="XIP">сякімі-такімі</Form>
+        <Form Tag="XLP">сякіх-такіх</Form>
     </Paradigm>
     <Paradigm pdgId="1138972" Lemma="той-сёй" Tag="SAFX">
         <Form Tag="MNS">той-сёй</Form>

@@ -56,6 +56,34 @@
         <Form Tag="IP">дэндзі</Form>
         <Form Tag="LP">дэндзі</Form>
     </Paradigm>
+    <Paradigm pdgId="1136384" Lemma="імпрэсарыо" Tag="NCAPNM0" Govern="">
+        <Form Tag="NS">імпрэсарыо</Form>
+        <Form Tag="GS">імпрэсарыо</Form>
+        <Form Tag="DS">імпрэсарыо</Form>
+        <Form Tag="AS">імпрэсарыо</Form>
+        <Form Tag="IS">імпрэсарыо</Form>
+        <Form Tag="LS">імпрэсарыо</Form>
+        <Form Tag="NP">імпрэсарыо</Form>
+        <Form Tag="GP">імпрэсарыо</Form>
+        <Form Tag="DP">імпрэсарыо</Form>
+        <Form Tag="AP">імпрэсарыо</Form>
+        <Form Tag="IP">імпрэсарыо</Form>
+        <Form Tag="LP">імпрэсарыо</Form>
+    </Paradigm>
+    <Paradigm pdgId="1136363" Lemma="інкогніта" Tag="NCAPNM0" Govern="">
+        <Form Tag="NS">інкогніта</Form>
+        <Form Tag="GS">інкогніта</Form>
+        <Form Tag="DS">інкогніта</Form>
+        <Form Tag="AS">інкогніта</Form>
+        <Form Tag="IS">інкогніта</Form>
+        <Form Tag="LS">інкогніта</Form>
+        <Form Tag="NP">інкогніта</Form>
+        <Form Tag="GP">інкогніта</Form>
+        <Form Tag="DP">інкогніта</Form>
+        <Form Tag="AP">інкогніта</Form>
+        <Form Tag="IP">інкогніта</Form>
+        <Form Tag="LP">інкогніта</Form>
+    </Paradigm>
     <Paradigm pdgId="1136381" Lemma="кабальера" Tag="NCAPNM0" Govern="">
         <Form Tag="NS">кабальера</Form>
         <Form Tag="GS">кабальера</Form>
@@ -293,33 +321,5 @@
         <Form Tag="AP">янкі</Form>
         <Form Tag="IP">янкі</Form>
         <Form Tag="LP">янкі</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136384" Lemma="імпрэсарыо" Tag="NCAPNM0" Govern="">
-        <Form Tag="NS">імпрэсарыо</Form>
-        <Form Tag="GS">імпрэсарыо</Form>
-        <Form Tag="DS">імпрэсарыо</Form>
-        <Form Tag="AS">імпрэсарыо</Form>
-        <Form Tag="IS">імпрэсарыо</Form>
-        <Form Tag="LS">імпрэсарыо</Form>
-        <Form Tag="NP">імпрэсарыо</Form>
-        <Form Tag="GP">імпрэсарыо</Form>
-        <Form Tag="DP">імпрэсарыо</Form>
-        <Form Tag="AP">імпрэсарыо</Form>
-        <Form Tag="IP">імпрэсарыо</Form>
-        <Form Tag="LP">імпрэсарыо</Form>
-    </Paradigm>
-    <Paradigm pdgId="1136363" Lemma="інкогніта" Tag="NCAPNM0" Govern="">
-        <Form Tag="NS">інкогніта</Form>
-        <Form Tag="GS">інкогніта</Form>
-        <Form Tag="DS">інкогніта</Form>
-        <Form Tag="AS">інкогніта</Form>
-        <Form Tag="IS">інкогніта</Form>
-        <Form Tag="LS">інкогніта</Form>
-        <Form Tag="NP">інкогніта</Form>
-        <Form Tag="GP">інкогніта</Form>
-        <Form Tag="DP">інкогніта</Form>
-        <Form Tag="AP">інкогніта</Form>
-        <Form Tag="IP">інкогніта</Form>
-        <Form Tag="LP">інкогніта</Form>
     </Paradigm>
 </Wordlist>

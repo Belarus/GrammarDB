@@ -364,20 +364,6 @@
         <Form Tag="IP">Пеле</Form>
         <Form Tag="LP">Пеле</Form>
     </Paradigm>
-    <Paradigm pdgId="1038596" Lemma="Плаціні" Tag="NPAPNM0" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Form Tag="NS">Плаціні</Form>
-        <Form Tag="GS">Плаціні</Form>
-        <Form Tag="DS">Плаціні</Form>
-        <Form Tag="AS">Плаціні</Form>
-        <Form Tag="IS">Плаціні</Form>
-        <Form Tag="LS">Плаціні</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1038536" Lemma="Пікасо" Tag="NPAPNM0" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="NS">Пікасо</Form>
         <Form Tag="GS">Пікасо</Form>
@@ -391,6 +377,20 @@
         <Form Tag="AP">Пікасо</Form>
         <Form Tag="IP">Пікасо</Form>
         <Form Tag="LP">Пікасо</Form>
+    </Paradigm>
+    <Paradigm pdgId="1038596" Lemma="Плаціні" Tag="NPAPNM0" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+        <Form Tag="NS">Плаціні</Form>
+        <Form Tag="GS">Плаціні</Form>
+        <Form Tag="DS">Плаціні</Form>
+        <Form Tag="AS">Плаціні</Form>
+        <Form Tag="IS">Плаціні</Form>
+        <Form Tag="LS">Плаціні</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
     </Paradigm>
     <Paradigm pdgId="1038633" Lemma="Раберта" Tag="NPAPNM0" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS">Раберта</Form>

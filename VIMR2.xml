@@ -192,22 +192,6 @@
         <Form Tag="I2P" Checked="+">ба´ўцеся</Form>
         <Form Tag="RG" Checked="+">ба´вячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1107786" Lemma="ба´чыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ба´чыцца</Form>
-        <Form Tag="R1S" Checked="+">ба´чуся</Form>
-        <Form Tag="R2S" Checked="+">ба´чышся</Form>
-        <Form Tag="R3S" Checked="+">ба´чыцца</Form>
-        <Form Tag="R1P" Checked="+">ба´чымся</Form>
-        <Form Tag="R2P" Checked="+">ба´чыцеся</Form>
-        <Form Tag="R3P" Checked="+">ба´чацца</Form>
-        <Form Tag="PXSM" Checked="+">ба´чыўся</Form>
-        <Form Tag="PXSF" Checked="+">ба´чылася</Form>
-        <Form Tag="PXSN" Checked="+">ба´чылася</Form>
-        <Form Tag="PXPX" Checked="+">ба´чыліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">ба´чся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">ба´чцеся</Form>
-        <Form Tag="RG" Checked="+">ба´чачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1107836" Lemma="бадзё´рыцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">бадзё´рыцца</Form>
         <Form Tag="R1S" Checked="+">бадзё´руся</Form>
@@ -341,6 +325,22 @@
         <Form Tag="I2S" Checked="+">барані´ся</Form>
         <Form Tag="I2P" Checked="+">барані´цеся</Form>
         <Form Tag="RG" Checked="+">баро´нячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1107786" Lemma="ба´чыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ба´чыцца</Form>
+        <Form Tag="R1S" Checked="+">ба´чуся</Form>
+        <Form Tag="R2S" Checked="+">ба´чышся</Form>
+        <Form Tag="R3S" Checked="+">ба´чыцца</Form>
+        <Form Tag="R1P" Checked="+">ба´чымся</Form>
+        <Form Tag="R2P" Checked="+">ба´чыцеся</Form>
+        <Form Tag="R3P" Checked="+">ба´чацца</Form>
+        <Form Tag="PXSM" Checked="+">ба´чыўся</Form>
+        <Form Tag="PXSF" Checked="+">ба´чылася</Form>
+        <Form Tag="PXSN" Checked="+">ба´чылася</Form>
+        <Form Tag="PXPX" Checked="+">ба´чыліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">ба´чся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">ба´чцеся</Form>
+        <Form Tag="RG" Checked="+">ба´чачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1107693" Lemma="бая´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">бая´цца</Form>
@@ -502,22 +502,6 @@
         <Form Tag="I2P">буціцеся</Form>
         <Form Tag="RG">буцячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1107948" Lemma="бэ´сціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">бэ´сціцца</Form>
-        <Form Tag="R1S" Checked="+">бэ´шчуся</Form>
-        <Form Tag="R2S" Checked="+">бэ´сцішся</Form>
-        <Form Tag="R3S" Checked="+">бэ´сціцца</Form>
-        <Form Tag="R1P" Checked="+">бэ´сцімся</Form>
-        <Form Tag="R2P" Checked="+">бэ´сціцеся</Form>
-        <Form Tag="R3P" Checked="+">бэ´сцяцца</Form>
-        <Form Tag="PXSM" Checked="+">бэ´сціўся</Form>
-        <Form Tag="PXSF" Checked="+">бэ´сцілася</Form>
-        <Form Tag="PXSN" Checked="+">бэ´сцілася</Form>
-        <Form Tag="PXPX" Checked="+">бэ´сціліся</Form>
-        <Form Tag="I2S" Checked="+">бэ´сціся</Form>
-        <Form Tag="I2P" Checked="+">бэ´сціцеся</Form>
-        <Form Tag="RG" Checked="+">бэ´сцячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1107944" Lemma="бэкапіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">бэкапіцца</Form>
         <Form Tag="R1S">бэкаплюся</Form>
@@ -533,6 +517,22 @@
         <Form Tag="I2S">бэкапіся</Form>
         <Form Tag="I2P">бэкапіцеся</Form>
         <Form Tag="RG">бэкопячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1107948" Lemma="бэ´сціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">бэ´сціцца</Form>
+        <Form Tag="R1S" Checked="+">бэ´шчуся</Form>
+        <Form Tag="R2S" Checked="+">бэ´сцішся</Form>
+        <Form Tag="R3S" Checked="+">бэ´сціцца</Form>
+        <Form Tag="R1P" Checked="+">бэ´сцімся</Form>
+        <Form Tag="R2P" Checked="+">бэ´сціцеся</Form>
+        <Form Tag="R3P" Checked="+">бэ´сцяцца</Form>
+        <Form Tag="PXSM" Checked="+">бэ´сціўся</Form>
+        <Form Tag="PXSF" Checked="+">бэ´сцілася</Form>
+        <Form Tag="PXSN" Checked="+">бэ´сцілася</Form>
+        <Form Tag="PXPX" Checked="+">бэ´сціліся</Form>
+        <Form Tag="I2S" Checked="+">бэ´сціся</Form>
+        <Form Tag="I2P" Checked="+">бэ´сціцеся</Form>
+        <Form Tag="RG" Checked="+">бэ´сцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1107956" Lemma="бялі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">бялі´цца</Form>
@@ -582,22 +582,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">ва´бцеся</Form>
         <Form Tag="RG" Checked="+">ва´бячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1108013" Lemma="ва´жыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ва´жыцца</Form>
-        <Form Tag="R1S" Checked="+">ва´жуся</Form>
-        <Form Tag="R2S" Checked="+">ва´жышся</Form>
-        <Form Tag="R3S" Checked="+">ва´жыцца</Form>
-        <Form Tag="R1P" Checked="+">ва´жымся</Form>
-        <Form Tag="R2P" Checked="+">ва´жыцеся</Form>
-        <Form Tag="R3P" Checked="+">ва´жацца</Form>
-        <Form Tag="PXSM" Checked="+">ва´жыўся</Form>
-        <Form Tag="PXSF" Checked="+">ва´жылася</Form>
-        <Form Tag="PXSN" Checked="+">ва´жылася</Form>
-        <Form Tag="PXPX" Checked="+">ва´жыліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">ва´жыся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">ва´жыцеся</Form>
-        <Form Tag="RG" Checked="+">ва´жачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1108104" Lemma="вадзі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">вадзі´цца</Form>
         <Form Tag="R1S" Checked="+">ваджу´ся</Form>
@@ -613,6 +597,22 @@
         <Form Tag="I2S" Checked="+">вадзі´ся</Form>
         <Form Tag="I2P" Checked="+">вадзі´цеся</Form>
         <Form Tag="RG" Checked="+">во´дзячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1108013" Lemma="ва´жыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ва´жыцца</Form>
+        <Form Tag="R1S" Checked="+">ва´жуся</Form>
+        <Form Tag="R2S" Checked="+">ва´жышся</Form>
+        <Form Tag="R3S" Checked="+">ва´жыцца</Form>
+        <Form Tag="R1P" Checked="+">ва´жымся</Form>
+        <Form Tag="R2P" Checked="+">ва´жыцеся</Form>
+        <Form Tag="R3P" Checked="+">ва´жацца</Form>
+        <Form Tag="PXSM" Checked="+">ва´жыўся</Form>
+        <Form Tag="PXSF" Checked="+">ва´жылася</Form>
+        <Form Tag="PXSN" Checked="+">ва´жылася</Form>
+        <Form Tag="PXPX" Checked="+">ва´жыліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">ва´жыся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">ва´жыцеся</Form>
+        <Form Tag="RG" Checked="+">ва´жачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1108106" Lemma="вазі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">вазі´цца</Form>
@@ -662,22 +662,6 @@
         <Form Tag="I2P">валакіцьцеся</Form>
         <Form Tag="RG">валакіцячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1108032" Lemma="валту´зіцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">валту´зіцца</Form>
-        <Form Tag="R1S" Checked="+">валту´жуся</Form>
-        <Form Tag="R2S" Checked="+">валту´зішся</Form>
-        <Form Tag="R3S" Checked="+">валту´зіцца</Form>
-        <Form Tag="R1P" Checked="+">валту´зімся</Form>
-        <Form Tag="R2P" Checked="+">валту´зіцеся</Form>
-        <Form Tag="R3P" Checked="+">валту´зяцца</Form>
-        <Form Tag="PXSM" Checked="+">валту´зіўся</Form>
-        <Form Tag="PXSF" Checked="+">валту´зілася</Form>
-        <Form Tag="PXSN" Checked="+">валту´зілася</Form>
-        <Form Tag="PXPX" Checked="+">валту´зіліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">валту´зься</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">валту´зьцеся</Form>
-        <Form Tag="RG" Checked="+">валту´зячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1108021" Lemma="валі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">валі´цца</Form>
         <Form Tag="R1S" Checked="+">валю´ся</Form>
@@ -693,6 +677,22 @@
         <Form Tag="I2S" Checked="+">валі´ся</Form>
         <Form Tag="I2P" Checked="+">валі´цеся</Form>
         <Form Tag="RG" Checked="+">ва´лячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1108032" Lemma="валту´зіцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">валту´зіцца</Form>
+        <Form Tag="R1S" Checked="+">валту´жуся</Form>
+        <Form Tag="R2S" Checked="+">валту´зішся</Form>
+        <Form Tag="R3S" Checked="+">валту´зіцца</Form>
+        <Form Tag="R1P" Checked="+">валту´зімся</Form>
+        <Form Tag="R2P" Checked="+">валту´зіцеся</Form>
+        <Form Tag="R3P" Checked="+">валту´зяцца</Form>
+        <Form Tag="PXSM" Checked="+">валту´зіўся</Form>
+        <Form Tag="PXSF" Checked="+">валту´зілася</Form>
+        <Form Tag="PXSN" Checked="+">валту´зілася</Form>
+        <Form Tag="PXPX" Checked="+">валту´зіліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">валту´зься</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">валту´зьцеся</Form>
+        <Form Tag="RG" Checked="+">валту´зячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1108056" Lemma="варажыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">варажыцца</Form>
@@ -827,6 +827,38 @@
         <Form Tag="I2S">ветрыся</Form>
         <Form Tag="I2P">ветрыцеся</Form>
         <Form Tag="RG">ветрачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1107984" Lemma="вінава´ціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">вінава´ціцца</Form>
+        <Form Tag="R1S" Checked="+">вінава´чуся</Form>
+        <Form Tag="R2S" Checked="+">вінава´цішся</Form>
+        <Form Tag="R3S" Checked="+">вінава´ціцца</Form>
+        <Form Tag="R1P" Checked="+">вінава´цімся</Form>
+        <Form Tag="R2P" Checked="+">вінава´ціцеся</Form>
+        <Form Tag="R3P" Checked="+">вінава´цяцца</Form>
+        <Form Tag="PXSM" Checked="+">вінава´ціўся</Form>
+        <Form Tag="PXSF" Checked="+">вінава´цілася</Form>
+        <Form Tag="PXSN" Checked="+">вінава´цілася</Form>
+        <Form Tag="PXPX" Checked="+">вінава´ціліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">вінава´цься</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">вінава´цьцеся</Form>
+        <Form Tag="RG" Checked="+">вінава´цячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1108000" Lemma="віхурыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">віхурыцца</Form>
+        <Form Tag="R1S">віхуруся</Form>
+        <Form Tag="R2S">віхурышся</Form>
+        <Form Tag="R3S">віхурыцца</Form>
+        <Form Tag="R1P">віхурымся</Form>
+        <Form Tag="R2P">віхурыцеся</Form>
+        <Form Tag="R3P">віхурацца</Form>
+        <Form Tag="PXSM">віхурыўся</Form>
+        <Form Tag="PXSF">віхурылася</Form>
+        <Form Tag="PXSN">віхурылася</Form>
+        <Form Tag="PXPX">віхурыліся</Form>
+        <Form Tag="I2S">віхурся</Form>
+        <Form Tag="I2P">віхурцеся</Form>
+        <Form Tag="RG">віхурачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1108115" Lemma="вудзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">вудзіцца</Form>
@@ -1036,54 +1068,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">вярэ´дзьцеся</Form>
         <Form Tag="RG" Checked="+">вярэ´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1107984" Lemma="вінава´ціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">вінава´ціцца</Form>
-        <Form Tag="R1S" Checked="+">вінава´чуся</Form>
-        <Form Tag="R2S" Checked="+">вінава´цішся</Form>
-        <Form Tag="R3S" Checked="+">вінава´ціцца</Form>
-        <Form Tag="R1P" Checked="+">вінава´цімся</Form>
-        <Form Tag="R2P" Checked="+">вінава´ціцеся</Form>
-        <Form Tag="R3P" Checked="+">вінава´цяцца</Form>
-        <Form Tag="PXSM" Checked="+">вінава´ціўся</Form>
-        <Form Tag="PXSF" Checked="+">вінава´цілася</Form>
-        <Form Tag="PXSN" Checked="+">вінава´цілася</Form>
-        <Form Tag="PXPX" Checked="+">вінава´ціліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">вінава´цься</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">вінава´цьцеся</Form>
-        <Form Tag="RG" Checked="+">вінава´цячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1108000" Lemma="віхурыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">віхурыцца</Form>
-        <Form Tag="R1S">віхуруся</Form>
-        <Form Tag="R2S">віхурышся</Form>
-        <Form Tag="R3S">віхурыцца</Form>
-        <Form Tag="R1P">віхурымся</Form>
-        <Form Tag="R2P">віхурыцеся</Form>
-        <Form Tag="R3P">віхурацца</Form>
-        <Form Tag="PXSM">віхурыўся</Form>
-        <Form Tag="PXSF">віхурылася</Form>
-        <Form Tag="PXSN">віхурылася</Form>
-        <Form Tag="PXPX">віхурыліся</Form>
-        <Form Tag="I2S">віхурся</Form>
-        <Form Tag="I2P">віхурцеся</Form>
-        <Form Tag="RG">віхурачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159730" Lemma="га´дзіцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">га´дзіцца</Form>
-        <Form Tag="R1S" Checked="+">га´джуся</Form>
-        <Form Tag="R2S" Checked="+">га´дзішся</Form>
-        <Form Tag="R3S" Checked="+">га´дзіцца</Form>
-        <Form Tag="R1P" Checked="+">га´дзімся</Form>
-        <Form Tag="R2P" Checked="+">га´дзіцеся</Form>
-        <Form Tag="R3P" Checked="+">га´дзяцца</Form>
-        <Form Tag="PXSM" Checked="+">га´дзіўся</Form>
-        <Form Tag="PXSF" Checked="+">га´дзілася</Form>
-        <Form Tag="PXSN" Checked="+">га´дзілася</Form>
-        <Form Tag="PXPX" Checked="+">га´дзіліся</Form>
-        <Form Tag="I2S" Checked="+">га´дзься</Form>
-        <Form Tag="I2P" Checked="+">га´дзьцеся</Form>
-        <Form Tag="RG" Checked="+">га´дзячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1109466" Lemma="гаварыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">гаварыцца</Form>
         <Form Tag="R1S">гаваруся</Form>
@@ -1116,6 +1100,38 @@
         <Form Tag="I2P" Type="potential" Checked="+">гадзі´цеся</Form>
         <Form Tag="RG" Type="potential" Checked="+">го´дзячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1159730" Lemma="га´дзіцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">га´дзіцца</Form>
+        <Form Tag="R1S" Checked="+">га´джуся</Form>
+        <Form Tag="R2S" Checked="+">га´дзішся</Form>
+        <Form Tag="R3S" Checked="+">га´дзіцца</Form>
+        <Form Tag="R1P" Checked="+">га´дзімся</Form>
+        <Form Tag="R2P" Checked="+">га´дзіцеся</Form>
+        <Form Tag="R3P" Checked="+">га´дзяцца</Form>
+        <Form Tag="PXSM" Checked="+">га´дзіўся</Form>
+        <Form Tag="PXSF" Checked="+">га´дзілася</Form>
+        <Form Tag="PXSN" Checked="+">га´дзілася</Form>
+        <Form Tag="PXPX" Checked="+">га´дзіліся</Form>
+        <Form Tag="I2S" Checked="+">га´дзься</Form>
+        <Form Tag="I2P" Checked="+">га´дзьцеся</Form>
+        <Form Tag="RG" Checked="+">га´дзячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1109620" Lemma="гаіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">гаіцца</Form>
+        <Form Tag="R1S">гаюся</Form>
+        <Form Tag="R2S">гоішся</Form>
+        <Form Tag="R3S">гоіцца</Form>
+        <Form Tag="R1P">гоімся</Form>
+        <Form Tag="R2P">гоіцеся</Form>
+        <Form Tag="R3P">гояцца</Form>
+        <Form Tag="PXSM">гаіўся</Form>
+        <Form Tag="PXSF">гаілася</Form>
+        <Form Tag="PXSN">гаілася</Form>
+        <Form Tag="PXPX">гаіліся</Form>
+        <Form Tag="I2S">гаіся</Form>
+        <Form Tag="I2P">гаіцеся</Form>
+        <Form Tag="RG">гоячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1109492" Lemma="галасіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">галасіцца</Form>
         <Form Tag="R1S">галашуся</Form>
@@ -1131,22 +1147,6 @@
         <Form Tag="I2S">галасіся</Form>
         <Form Tag="I2P">галасіцеся</Form>
         <Form Tag="RG">галосячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1109494" Lemma="галу´біцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">галу´біцца</Form>
-        <Form Tag="R1S" Checked="+">галу´блюся</Form>
-        <Form Tag="R2S" Checked="+">галу´бішся</Form>
-        <Form Tag="R3S" Checked="+">галу´біцца</Form>
-        <Form Tag="R1P" Checked="+">галу´бімся</Form>
-        <Form Tag="R2P" Checked="+">галу´біцеся</Form>
-        <Form Tag="R3P" Checked="+">галу´бяцца</Form>
-        <Form Tag="PXSM" Checked="+">галу´біўся</Form>
-        <Form Tag="PXSF" Checked="+">галу´білася</Form>
-        <Form Tag="PXSN" Checked="+">галу´білася</Form>
-        <Form Tag="PXPX" Checked="+">галу´біліся</Form>
-        <Form Tag="I2S" Checked="+">галу´бся</Form>
-        <Form Tag="I2P" Checked="+">галу´бцеся</Form>
-        <Form Tag="RG" Checked="+">галу´бячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109626" Lemma="галі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">галі´цца</Form>
@@ -1164,6 +1164,22 @@
         <Form Tag="I2P" Checked="+">галі´цеся</Form>
         <Form Tag="RG" Checked="+">го´лячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1109494" Lemma="галу´біцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">галу´біцца</Form>
+        <Form Tag="R1S" Checked="+">галу´блюся</Form>
+        <Form Tag="R2S" Checked="+">галу´бішся</Form>
+        <Form Tag="R3S" Checked="+">галу´біцца</Form>
+        <Form Tag="R1P" Checked="+">галу´бімся</Form>
+        <Form Tag="R2P" Checked="+">галу´біцеся</Form>
+        <Form Tag="R3P" Checked="+">галу´бяцца</Form>
+        <Form Tag="PXSM" Checked="+">галу´біўся</Form>
+        <Form Tag="PXSF" Checked="+">галу´білася</Form>
+        <Form Tag="PXSN" Checked="+">галу´білася</Form>
+        <Form Tag="PXPX" Checked="+">галу´біліся</Form>
+        <Form Tag="I2S" Checked="+">галу´бся</Form>
+        <Form Tag="I2P" Checked="+">галу´бцеся</Form>
+        <Form Tag="RG" Checked="+">галу´бячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1109504" Lemma="ганары´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">ганары´цца</Form>
         <Form Tag="R1S" Checked="+">ганару´ся</Form>
@@ -1180,22 +1196,6 @@
         <Form Tag="I2P" Checked="+">ганары´цеся</Form>
         <Form Tag="RG" Checked="+"></Form>
     </Paradigm>
-    <Paradigm pdgId="1109507" Lemma="ганьбіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">ганьбіцца</Form>
-        <Form Tag="R1S">ганьблюся</Form>
-        <Form Tag="R2S">ганьбішся</Form>
-        <Form Tag="R3S">ганьбіцца</Form>
-        <Form Tag="R1P">ганьбімся</Form>
-        <Form Tag="R2P">ганьбіцеся</Form>
-        <Form Tag="R3P">ганьбяцца</Form>
-        <Form Tag="PXSM">ганьбіўся</Form>
-        <Form Tag="PXSF">ганьбілася</Form>
-        <Form Tag="PXSN">ганьбілася</Form>
-        <Form Tag="PXPX">ганьбіліся</Form>
-        <Form Tag="I2S">ганьбіся</Form>
-        <Form Tag="I2P">ганьбіцеся</Form>
-        <Form Tag="RG">ганьбячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1109498" Lemma="ганіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">ганіцца</Form>
         <Form Tag="R1S">ганюся</Form>
@@ -1211,6 +1211,22 @@
         <Form Tag="I2S">ганься</Form>
         <Form Tag="I2P">ганьцеся</Form>
         <Form Tag="RG">ганячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1109507" Lemma="ганьбіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">ганьбіцца</Form>
+        <Form Tag="R1S">ганьблюся</Form>
+        <Form Tag="R2S">ганьбішся</Form>
+        <Form Tag="R3S">ганьбіцца</Form>
+        <Form Tag="R1P">ганьбімся</Form>
+        <Form Tag="R2P">ганьбіцеся</Form>
+        <Form Tag="R3P">ганьбяцца</Form>
+        <Form Tag="PXSM">ганьбіўся</Form>
+        <Form Tag="PXSF">ганьбілася</Form>
+        <Form Tag="PXSN">ганьбілася</Form>
+        <Form Tag="PXPX">ганьбіліся</Form>
+        <Form Tag="I2S">ганьбіся</Form>
+        <Form Tag="I2P">ганьбіцеся</Form>
+        <Form Tag="RG">ганьбячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109531" Lemma="гарадзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">гарадзіцца</Form>
@@ -1356,22 +1372,6 @@
         <Form Tag="I2P">гаціцеся</Form>
         <Form Tag="RG">гацячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109620" Lemma="гаіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">гаіцца</Form>
-        <Form Tag="R1S">гаюся</Form>
-        <Form Tag="R2S">гоішся</Form>
-        <Form Tag="R3S">гоіцца</Form>
-        <Form Tag="R1P">гоімся</Form>
-        <Form Tag="R2P">гоіцеся</Form>
-        <Form Tag="R3P">гояцца</Form>
-        <Form Tag="PXSM">гаіўся</Form>
-        <Form Tag="PXSF">гаілася</Form>
-        <Form Tag="PXSN">гаілася</Form>
-        <Form Tag="PXPX">гаіліся</Form>
-        <Form Tag="I2S">гаіся</Form>
-        <Form Tag="I2P">гаіцеся</Form>
-        <Form Tag="RG">гоячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1109570" Lemma="гвалціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">гвалціцца</Form>
         <Form Tag="R1S">гвалчуся</Form>
@@ -1387,6 +1387,22 @@
         <Form Tag="I2S">гвалцься</Form>
         <Form Tag="I2P">гвалцьцеся</Form>
         <Form Tag="RG">гвалцячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1109448" Lemma="гі´дзіцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">гі´дзіцца</Form>
+        <Form Tag="R1S" Checked="+">гі´джуся</Form>
+        <Form Tag="R2S" Checked="+">гі´дзішся</Form>
+        <Form Tag="R3S" Checked="+">гі´дзіцца</Form>
+        <Form Tag="R1P" Checked="+">гі´дзімся</Form>
+        <Form Tag="R2P" Checked="+">гі´дзіцеся</Form>
+        <Form Tag="R3P" Checked="+">гі´дзяцца</Form>
+        <Form Tag="PXSM" Checked="+">гі´дзіўся</Form>
+        <Form Tag="PXSF" Checked="+">гі´дзілася</Form>
+        <Form Tag="PXSN" Checked="+">гі´дзілася</Form>
+        <Form Tag="PXPX" Checked="+">гі´дзіліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">гі´дзься</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">гі´дзьцеся</Form>
+        <Form Tag="RG" Checked="+">гі´дзячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109581" Lemma="гла´дзіцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">гла´дзіцца</Form>
@@ -1437,22 +1453,6 @@
         <Form Tag="I2P" Checked="+">глядзі´цеся</Form>
         <Form Tag="RG" Checked="+">гле´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109606" Lemma="гна´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">гна´цца</Form>
-        <Form Tag="R1S" Checked="+">ганю´ся</Form>
-        <Form Tag="R2S" Checked="+">го´нішся</Form>
-        <Form Tag="R3S" Checked="+">го´ніцца</Form>
-        <Form Tag="R1P" Checked="+">го´німся</Form>
-        <Form Tag="R2P" Checked="+">го´ніцеся</Form>
-        <Form Tag="R3P" Checked="+">го´няцца</Form>
-        <Form Tag="PXSM" Checked="+">гна´ўся</Form>
-        <Form Tag="PXSF" Checked="+">гна´лася</Form>
-        <Form Tag="PXSN" Checked="+">гна´лася</Form>
-        <Form Tag="PXPX" Checked="+">гна´ліся</Form>
-        <Form Tag="I2S" Checked="+">гані´ся</Form>
-        <Form Tag="I2P" Checked="+">гані´цеся</Form>
-        <Form Tag="RG" Checked="+">го´нячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1109612" Lemma="гнаіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">гнаіцца</Form>
         <Form Tag="R1S">гнаюся</Form>
@@ -1468,6 +1468,22 @@
         <Form Tag="I2S">гнаіся</Form>
         <Form Tag="I2P">гнаіцеся</Form>
         <Form Tag="RG">гноячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1109606" Lemma="гна´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">гна´цца</Form>
+        <Form Tag="R1S" Checked="+">ганю´ся</Form>
+        <Form Tag="R2S" Checked="+">го´нішся</Form>
+        <Form Tag="R3S" Checked="+">го´ніцца</Form>
+        <Form Tag="R1P" Checked="+">го´німся</Form>
+        <Form Tag="R2P" Checked="+">го´ніцеся</Form>
+        <Form Tag="R3P" Checked="+">го´няцца</Form>
+        <Form Tag="PXSM" Checked="+">гна´ўся</Form>
+        <Form Tag="PXSF" Checked="+">гна´лася</Form>
+        <Form Tag="PXSN" Checked="+">гна´лася</Form>
+        <Form Tag="PXPX" Checked="+">гна´ліся</Form>
+        <Form Tag="I2S" Checked="+">гані´ся</Form>
+        <Form Tag="I2P" Checked="+">гані´цеся</Form>
+        <Form Tag="RG" Checked="+">го´нячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109616" Lemma="гнявіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">гнявіцца</Form>
@@ -1661,22 +1677,6 @@
         <Form Tag="I2P">гучыцеся</Form>
         <Form Tag="RG">гучучыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109448" Lemma="гі´дзіцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">гі´дзіцца</Form>
-        <Form Tag="R1S" Checked="+">гі´джуся</Form>
-        <Form Tag="R2S" Checked="+">гі´дзішся</Form>
-        <Form Tag="R3S" Checked="+">гі´дзіцца</Form>
-        <Form Tag="R1P" Checked="+">гі´дзімся</Form>
-        <Form Tag="R2P" Checked="+">гі´дзіцеся</Form>
-        <Form Tag="R3P" Checked="+">гі´дзяцца</Form>
-        <Form Tag="PXSM" Checked="+">гі´дзіўся</Form>
-        <Form Tag="PXSF" Checked="+">гі´дзілася</Form>
-        <Form Tag="PXSN" Checked="+">гі´дзілася</Form>
-        <Form Tag="PXPX" Checked="+">гі´дзіліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">гі´дзься</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">гі´дзьцеся</Form>
-        <Form Tag="RG" Checked="+">гі´дзячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1109791" Lemma="даводзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">даводзіцца</Form>
         <Form Tag="R1S">даводжуся</Form>
@@ -1724,6 +1724,22 @@
         <Form Tag="I2S">дажджыся</Form>
         <Form Tag="I2P">дажджыцеся</Form>
         <Form Tag="RG">дажджачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1110399" Lemma="даіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">даіцца</Form>
+        <Form Tag="R1S">даюся</Form>
+        <Form Tag="R2S">доішся</Form>
+        <Form Tag="R3S">доіцца</Form>
+        <Form Tag="R1P">доімся</Form>
+        <Form Tag="R2P">доіцеся</Form>
+        <Form Tag="R3P">дояцца</Form>
+        <Form Tag="PXSM">даіўся</Form>
+        <Form Tag="PXSF">даілася</Form>
+        <Form Tag="PXSN">даілася</Form>
+        <Form Tag="PXPX">даіліся</Form>
+        <Form Tag="I2S">даіся</Form>
+        <Form Tag="I2P">даіцеся</Form>
+        <Form Tag="RG">доячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1110012" Lemma="далдоніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">далдоніцца</Form>
@@ -1789,22 +1805,6 @@
         <Form Tag="I2P">датычыцеся</Form>
         <Form Tag="RG">датычачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1110399" Lemma="даіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">даіцца</Form>
-        <Form Tag="R1S">даюся</Form>
-        <Form Tag="R2S">доішся</Form>
-        <Form Tag="R3S">доіцца</Form>
-        <Form Tag="R1P">доімся</Form>
-        <Form Tag="R2P">доіцеся</Form>
-        <Form Tag="R3P">дояцца</Form>
-        <Form Tag="PXSM">даіўся</Form>
-        <Form Tag="PXSF">даілася</Form>
-        <Form Tag="PXSN">даілася</Form>
-        <Form Tag="PXPX">даіліся</Form>
-        <Form Tag="I2S">даіся</Form>
-        <Form Tag="I2P">даіцеся</Form>
-        <Form Tag="RG">доячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1110335" Lemma="дваіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">дваіцца</Form>
         <Form Tag="R1S">дваюся</Form>
@@ -1836,6 +1836,38 @@
         <Form Tag="I2S">джалься</Form>
         <Form Tag="I2P">джальцеся</Form>
         <Form Tag="RG">джалячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1110349" Lemma="дзіві´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">дзіві´цца</Form>
+        <Form Tag="R1S" Checked="+">дзіўлю´ся</Form>
+        <Form Tag="R2S" Checked="+">дзі´вішся</Form>
+        <Form Tag="R3S" Checked="+">дзі´віцца</Form>
+        <Form Tag="R1P" Checked="+">дзі´вімся</Form>
+        <Form Tag="R2P" Checked="+">дзі´віцеся</Form>
+        <Form Tag="R3P" Checked="+">дзі´вяцца</Form>
+        <Form Tag="PXSM" Checked="+">дзіві´ўся</Form>
+        <Form Tag="PXSF" Checked="+">дзіві´лася</Form>
+        <Form Tag="PXSN" Checked="+">дзіві´лася</Form>
+        <Form Tag="PXPX" Checked="+">дзіві´ліся</Form>
+        <Form Tag="I2S" Checked="+">дзіві´ся</Form>
+        <Form Tag="I2P" Checked="+">дзіві´цеся</Form>
+        <Form Tag="RG" Checked="+">дзі´вячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1110353" Lemma="дзіравіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">дзіравіцца</Form>
+        <Form Tag="R1S">дзіраўлюся</Form>
+        <Form Tag="R2S">дзіравішся</Form>
+        <Form Tag="R3S">дзіравіцца</Form>
+        <Form Tag="R1P">дзіравімся</Form>
+        <Form Tag="R2P">дзіравіцеся</Form>
+        <Form Tag="R3P">дзіравяцца</Form>
+        <Form Tag="PXSM">дзіравіўся</Form>
+        <Form Tag="PXSF">дзіравілася</Form>
+        <Form Tag="PXSN">дзіравілася</Form>
+        <Form Tag="PXPX">дзіравіліся</Form>
+        <Form Tag="I2S">дзіраўся</Form>
+        <Form Tag="I2P">дзіраўцеся</Form>
+        <Form Tag="RG">дзіравячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1110388" Lemma="дзяжурыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">дзяжурыцца</Form>
@@ -1887,38 +1919,6 @@
         <Form Tag="I2P" Type="nonstandard" Checked="+">дзяці´ніцеся</Form>
         <Form Tag="I2P" Checked="+">дзяці´ньцеся</Form>
         <Form Tag="RG" Checked="+">дзяці´нячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1110349" Lemma="дзіві´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">дзіві´цца</Form>
-        <Form Tag="R1S" Checked="+">дзіўлю´ся</Form>
-        <Form Tag="R2S" Checked="+">дзі´вішся</Form>
-        <Form Tag="R3S" Checked="+">дзі´віцца</Form>
-        <Form Tag="R1P" Checked="+">дзі´вімся</Form>
-        <Form Tag="R2P" Checked="+">дзі´віцеся</Form>
-        <Form Tag="R3P" Checked="+">дзі´вяцца</Form>
-        <Form Tag="PXSM" Checked="+">дзіві´ўся</Form>
-        <Form Tag="PXSF" Checked="+">дзіві´лася</Form>
-        <Form Tag="PXSN" Checked="+">дзіві´лася</Form>
-        <Form Tag="PXPX" Checked="+">дзіві´ліся</Form>
-        <Form Tag="I2S" Checked="+">дзіві´ся</Form>
-        <Form Tag="I2P" Checked="+">дзіві´цеся</Form>
-        <Form Tag="RG" Checked="+">дзі´вячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1110353" Lemma="дзіравіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">дзіравіцца</Form>
-        <Form Tag="R1S">дзіраўлюся</Form>
-        <Form Tag="R2S">дзіравішся</Form>
-        <Form Tag="R3S">дзіравіцца</Form>
-        <Form Tag="R1P">дзіравімся</Form>
-        <Form Tag="R2P">дзіравіцеся</Form>
-        <Form Tag="R3P">дзіравяцца</Form>
-        <Form Tag="PXSM">дзіравіўся</Form>
-        <Form Tag="PXSF">дзіравілася</Form>
-        <Form Tag="PXSN">дзіравілася</Form>
-        <Form Tag="PXPX">дзіравіліся</Form>
-        <Form Tag="I2S">дзіраўся</Form>
-        <Form Tag="I2P">дзіраўцеся</Form>
-        <Form Tag="RG">дзіравячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1110397" Lemma="доўжыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">доўжыцца</Form>
@@ -2418,6 +2418,22 @@
         <Form Tag="I2P">звозьцеся</Form>
         <Form Tag="RG">звозячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1110711" Lemma="зіхаце´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">зіхаце´цца</Form>
+        <Form Tag="R1S" Checked="+">зіхачу´ся</Form>
+        <Form Tag="R2S" Checked="+">зіхаці´шся</Form>
+        <Form Tag="R3S" Checked="+">зіхаці´цца</Form>
+        <Form Tag="R1P" Checked="+">зіхаці´мся</Form>
+        <Form Tag="R2P" Checked="+">зіхаціце´ся</Form>
+        <Form Tag="R3P" Checked="+">зіхаця´цца</Form>
+        <Form Tag="PXSM" Checked="+">зіхаце´ўся</Form>
+        <Form Tag="PXSF" Checked="+">зіхаце´лася</Form>
+        <Form Tag="PXSN" Checked="+">зіхаце´лася</Form>
+        <Form Tag="PXPX" Checked="+">зіхаце´ліся</Form>
+        <Form Tag="I2S" Checked="+">зіхаці´ся</Form>
+        <Form Tag="I2P" Checked="+">зіхаці´цеся</Form>
+        <Form Tag="RG" Checked="+"></Form>
+    </Paradigm>
     <Paradigm pdgId="1113130" Lemma="зласловіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">зласловіцца</Form>
         <Form Tag="R1S">зласлоўлюся</Form>
@@ -2434,21 +2450,21 @@
         <Form Tag="I2P">зласлоўцеся</Form>
         <Form Tag="RG">зласловячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113374" Lemma="зна´чыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">зна´чыцца</Form>
-        <Form Tag="R1S" Checked="+">зна´чуся</Form>
-        <Form Tag="R2S" Checked="+">зна´чышся</Form>
-        <Form Tag="R3S" Checked="+">зна´чыцца</Form>
-        <Form Tag="R1P" Checked="+">зна´чымся</Form>
-        <Form Tag="R2P" Checked="+">зна´чыцеся</Form>
-        <Form Tag="R3P" Checked="+">зна´чацца</Form>
-        <Form Tag="PXSM" Checked="+">зна´чыўся</Form>
-        <Form Tag="PXSF" Checked="+">зна´чылася</Form>
-        <Form Tag="PXSN" Checked="+">зна´чылася</Form>
-        <Form Tag="PXPX" Checked="+">зна´чыліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">зна´чся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">зна´чцеся</Form>
-        <Form Tag="RG" Checked="+">зна´чачыся</Form>
+    <Paradigm pdgId="1113363" Lemma="знаё´міцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">знаё´міцца</Form>
+        <Form Tag="R1S" Checked="+">знаё´млюся</Form>
+        <Form Tag="R2S" Checked="+">знаё´мішся</Form>
+        <Form Tag="R3S" Checked="+">знаё´міцца</Form>
+        <Form Tag="R1P" Checked="+">знаё´мімся</Form>
+        <Form Tag="R2P" Checked="+">знаё´міцеся</Form>
+        <Form Tag="R3P" Checked="+">знаё´мяцца</Form>
+        <Form Tag="PXSM" Checked="+">знаё´міўся</Form>
+        <Form Tag="PXSF" Checked="+">знаё´мілася</Form>
+        <Form Tag="PXSN" Checked="+">знаё´мілася</Form>
+        <Form Tag="PXPX" Checked="+">знаё´міліся</Form>
+        <Form Tag="I2S" Checked="+">знаё´мся</Form>
+        <Form Tag="I2P" Checked="+">знаё´мцеся</Form>
+        <Form Tag="RG" Checked="+">знаё´мячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113370" Lemma="знахарыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">знахарыцца</Form>
@@ -2482,21 +2498,21 @@
         <Form Tag="I2P" Checked="+">знахо´дзьцеся</Form>
         <Form Tag="RG" Checked="+">знахо´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113363" Lemma="знаё´міцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">знаё´міцца</Form>
-        <Form Tag="R1S" Checked="+">знаё´млюся</Form>
-        <Form Tag="R2S" Checked="+">знаё´мішся</Form>
-        <Form Tag="R3S" Checked="+">знаё´міцца</Form>
-        <Form Tag="R1P" Checked="+">знаё´мімся</Form>
-        <Form Tag="R2P" Checked="+">знаё´міцеся</Form>
-        <Form Tag="R3P" Checked="+">знаё´мяцца</Form>
-        <Form Tag="PXSM" Checked="+">знаё´міўся</Form>
-        <Form Tag="PXSF" Checked="+">знаё´мілася</Form>
-        <Form Tag="PXSN" Checked="+">знаё´мілася</Form>
-        <Form Tag="PXPX" Checked="+">знаё´міліся</Form>
-        <Form Tag="I2S" Checked="+">знаё´мся</Form>
-        <Form Tag="I2P" Checked="+">знаё´мцеся</Form>
-        <Form Tag="RG" Checked="+">знаё´мячыся</Form>
+    <Paradigm pdgId="1113374" Lemma="зна´чыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">зна´чыцца</Form>
+        <Form Tag="R1S" Checked="+">зна´чуся</Form>
+        <Form Tag="R2S" Checked="+">зна´чышся</Form>
+        <Form Tag="R3S" Checked="+">зна´чыцца</Form>
+        <Form Tag="R1P" Checked="+">зна´чымся</Form>
+        <Form Tag="R2P" Checked="+">зна´чыцеся</Form>
+        <Form Tag="R3P" Checked="+">зна´чацца</Form>
+        <Form Tag="PXSM" Checked="+">зна´чыўся</Form>
+        <Form Tag="PXSF" Checked="+">зна´чылася</Form>
+        <Form Tag="PXSN" Checked="+">зна´чылася</Form>
+        <Form Tag="PXPX" Checked="+">зна´чыліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">зна´чся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">зна´чцеся</Form>
+        <Form Tag="RG" Checked="+">зна´чачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113397" Lemma="зно´сіцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">зно´сіцца</Form>
@@ -2514,22 +2530,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">зно´сьцеся</Form>
         <Form Tag="RG" Checked="+">зно´сячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113488" Lemma="зубрыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">зубрыцца</Form>
-        <Form Tag="R1S">зубруся</Form>
-        <Form Tag="R2S">зубрышся</Form>
-        <Form Tag="R3S">зубрыцца</Form>
-        <Form Tag="R1P">зубрымся</Form>
-        <Form Tag="R2P">зубрыцеся</Form>
-        <Form Tag="R3P">зубрацца</Form>
-        <Form Tag="PXSM">зубрыўся</Form>
-        <Form Tag="PXSF">зубрылася</Form>
-        <Form Tag="PXSN">зубрылася</Form>
-        <Form Tag="PXPX">зубрыліся</Form>
-        <Form Tag="I2S">зубрыся</Form>
-        <Form Tag="I2P">зубрыцеся</Form>
-        <Form Tag="RG">зубрачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1113486" Lemma="зубіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">зубіцца</Form>
         <Form Tag="R1S">зублюся</Form>
@@ -2545,6 +2545,22 @@
         <Form Tag="I2S">зубіся</Form>
         <Form Tag="I2P">зубіцеся</Form>
         <Form Tag="RG">зубячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113488" Lemma="зубрыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">зубрыцца</Form>
+        <Form Tag="R1S">зубруся</Form>
+        <Form Tag="R2S">зубрышся</Form>
+        <Form Tag="R3S">зубрыцца</Form>
+        <Form Tag="R1P">зубрымся</Form>
+        <Form Tag="R2P">зубрыцеся</Form>
+        <Form Tag="R3P">зубрацца</Form>
+        <Form Tag="PXSM">зубрыўся</Form>
+        <Form Tag="PXSF">зубрылася</Form>
+        <Form Tag="PXSN">зубрылася</Form>
+        <Form Tag="PXPX">зубрыліся</Form>
+        <Form Tag="I2S">зубрыся</Form>
+        <Form Tag="I2P">зубрыцеся</Form>
+        <Form Tag="RG">зубрачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113501" Lemma="зыходзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">зыходзіцца</Form>
@@ -2578,21 +2594,117 @@
         <Form Tag="I2P">зычыцеся</Form>
         <Form Tag="RG">зычачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1110711" Lemma="зіхаце´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">зіхаце´цца</Form>
-        <Form Tag="R1S" Checked="+">зіхачу´ся</Form>
-        <Form Tag="R2S" Checked="+">зіхаці´шся</Form>
-        <Form Tag="R3S" Checked="+">зіхаці´цца</Form>
-        <Form Tag="R1P" Checked="+">зіхаці´мся</Form>
-        <Form Tag="R2P" Checked="+">зіхаціце´ся</Form>
-        <Form Tag="R3P" Checked="+">зіхаця´цца</Form>
-        <Form Tag="PXSM" Checked="+">зіхаце´ўся</Form>
-        <Form Tag="PXSF" Checked="+">зіхаце´лася</Form>
-        <Form Tag="PXSN" Checked="+">зіхаце´лася</Form>
-        <Form Tag="PXPX" Checked="+">зіхаце´ліся</Form>
-        <Form Tag="I2S" Checked="+">зіхаці´ся</Form>
-        <Form Tag="I2P" Checked="+">зіхаці´цеся</Form>
-        <Form Tag="RG" Checked="+"></Form>
+    <Paradigm pdgId="1104614" Lemma="ільсніцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">ільсніцца</Form>
+        <Form Tag="R1S">ільснюся</Form>
+        <Form Tag="R2S">ільснішся</Form>
+        <Form Tag="R3S">ільсніцца</Form>
+        <Form Tag="R1P">ільснімся</Form>
+        <Form Tag="R2P">ільсніцеся</Form>
+        <Form Tag="R3P">ільсняцца</Form>
+        <Form Tag="PXSM">ільсніўся</Form>
+        <Form Tag="PXSF">ільснілася</Form>
+        <Form Tag="PXSN">ільснілася</Form>
+        <Form Tag="PXPX">ільсніліся</Form>
+        <Form Tag="I2S">ільсніся</Form>
+        <Form Tag="I2P">ільсніцеся</Form>
+        <Form Tag="RG">ільснячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104624" Lemma="імгліцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">імгліцца</Form>
+        <Form Tag="R1S">імглюся</Form>
+        <Form Tag="R2S">імглішся</Form>
+        <Form Tag="R3S">імгліцца</Form>
+        <Form Tag="R1P">імглімся</Form>
+        <Form Tag="R2P">імгліцеся</Form>
+        <Form Tag="R3P">імгляцца</Form>
+        <Form Tag="PXSM">імгліўся</Form>
+        <Form Tag="PXSF">імглілася</Form>
+        <Form Tag="PXSN">імглілася</Form>
+        <Form Tag="PXPX">імгліліся</Form>
+        <Form Tag="I2S">імгліся</Form>
+        <Form Tag="I2P">імгліцеся</Form>
+        <Form Tag="RG">імглячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104637" Lemma="імчацца" Tag="VIMR2" Govern="">
+        <Form Tag="0">імчацца</Form>
+        <Form Tag="R1S">імчуся</Form>
+        <Form Tag="R2S">імчышся</Form>
+        <Form Tag="R3S">імчыцца</Form>
+        <Form Tag="R1P">імчымся</Form>
+        <Form Tag="R2P">імчыцеся</Form>
+        <Form Tag="R3P">імчацца</Form>
+        <Form Tag="PXSM">імчаўся</Form>
+        <Form Tag="PXSF">імчалася</Form>
+        <Form Tag="PXSN">імчалася</Form>
+        <Form Tag="PXPX">імчаліся</Form>
+        <Form Tag="I2S">імчыся</Form>
+        <Form Tag="I2P">імчыцеся</Form>
+        <Form Tag="RG">імчучыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104639" Lemma="імшыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">імшыцца</Form>
+        <Form Tag="R1S">імшуся</Form>
+        <Form Tag="R2S">імшышся</Form>
+        <Form Tag="R3S">імшыцца</Form>
+        <Form Tag="R1P">імшымся</Form>
+        <Form Tag="R2P">імшыцеся</Form>
+        <Form Tag="R3P">імшацца</Form>
+        <Form Tag="PXSM">імшыўся</Form>
+        <Form Tag="PXSF">імшылася</Form>
+        <Form Tag="PXSN">імшылася</Form>
+        <Form Tag="PXPX">імшыліся</Form>
+        <Form Tag="I2S">імшыся</Form>
+        <Form Tag="I2P">імшыцеся</Form>
+        <Form Tag="RG">імшачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104745" Lemma="іржавіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">іржавіцца</Form>
+        <Form Tag="R1S">іржаўлюся</Form>
+        <Form Tag="R2S">іржавішся</Form>
+        <Form Tag="R3S">іржавіцца</Form>
+        <Form Tag="R1P">іржавімся</Form>
+        <Form Tag="R2P">іржавіцеся</Form>
+        <Form Tag="R3P">іржавяцца</Form>
+        <Form Tag="PXSM">іржавіўся</Form>
+        <Form Tag="PXSF">іржавілася</Form>
+        <Form Tag="PXSN">іржавілася</Form>
+        <Form Tag="PXPX">іржавіліся</Form>
+        <Form Tag="I2S">іржаўся</Form>
+        <Form Tag="I2P">іржаўцеся</Form>
+        <Form Tag="RG">іржавячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104743" Lemma="іржацца" Tag="VIMR2" Govern="">
+        <Form Tag="0">іржацца</Form>
+        <Form Tag="R1S">іржуся</Form>
+        <Form Tag="R2S">іржышся</Form>
+        <Form Tag="R3S">іржыцца</Form>
+        <Form Tag="R1P">іржымся</Form>
+        <Form Tag="R2P">іржыцеся</Form>
+        <Form Tag="R3P">іржацца</Form>
+        <Form Tag="PXSM">іржаўся</Form>
+        <Form Tag="PXSF">іржалася</Form>
+        <Form Tag="PXSN">іржалася</Form>
+        <Form Tag="PXPX">іржаліся</Form>
+        <Form Tag="I2S">іржыся</Form>
+        <Form Tag="I2P">іржыцеся</Form>
+        <Form Tag="RG">іржучыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104750" Lemma="іскрыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">іскрыцца</Form>
+        <Form Tag="R1S">іскруся</Form>
+        <Form Tag="R2S">іскрышся</Form>
+        <Form Tag="R3S">іскрыцца</Form>
+        <Form Tag="R1P">іскрымся</Form>
+        <Form Tag="R2P">іскрыцеся</Form>
+        <Form Tag="R3P">іскрацца</Form>
+        <Form Tag="PXSM">іскрыўся</Form>
+        <Form Tag="PXSF">іскрылася</Form>
+        <Form Tag="PXSN">іскрылася</Form>
+        <Form Tag="PXPX">іскрыліся</Form>
+        <Form Tag="I2S">іскрыся</Form>
+        <Form Tag="I2P">іскрыцеся</Form>
+        <Form Tag="RG">іскрачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113545" Lemma="кадзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">кадзіцца</Form>
@@ -2900,22 +3012,6 @@
         <Form Tag="I2P" Checked="+">касаву´рцеся</Form>
         <Form Tag="RG" Checked="+">касаву´рачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113750" Lemma="касціцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">касціцца</Form>
-        <Form Tag="R1S">кашчуся</Form>
-        <Form Tag="R2S">касцішся</Form>
-        <Form Tag="R3S">касціцца</Form>
-        <Form Tag="R1P">касцімся</Form>
-        <Form Tag="R2P">касціцеся</Form>
-        <Form Tag="R3P">касцяцца</Form>
-        <Form Tag="PXSM">касціўся</Form>
-        <Form Tag="PXSF">касцілася</Form>
-        <Form Tag="PXSN">касцілася</Form>
-        <Form Tag="PXPX">касціліся</Form>
-        <Form Tag="I2S">касціся</Form>
-        <Form Tag="I2P">касціцеся</Form>
-        <Form Tag="RG">касцячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1113852" Lemma="касіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">касіцца</Form>
         <Form Tag="R1S">кашуся</Form>
@@ -2931,6 +3027,22 @@
         <Form Tag="I2S">касіся</Form>
         <Form Tag="I2P">касіцеся</Form>
         <Form Tag="RG">косячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113750" Lemma="касціцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">касціцца</Form>
+        <Form Tag="R1S">кашчуся</Form>
+        <Form Tag="R2S">касцішся</Form>
+        <Form Tag="R3S">касціцца</Form>
+        <Form Tag="R1P">касцімся</Form>
+        <Form Tag="R2P">касціцеся</Form>
+        <Form Tag="R3P">касцяцца</Form>
+        <Form Tag="PXSM">касціўся</Form>
+        <Form Tag="PXSF">касцілася</Form>
+        <Form Tag="PXSN">касцілася</Form>
+        <Form Tag="PXPX">касціліся</Form>
+        <Form Tag="I2S">касціся</Form>
+        <Form Tag="I2P">касціцеся</Form>
+        <Form Tag="RG">касцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113854" Lemma="каці´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">каці´цца</Form>
@@ -2995,6 +3107,39 @@
         <Form Tag="I2S">квасься</Form>
         <Form Tag="I2P">квасьцеся</Form>
         <Form Tag="RG">квасячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113525" Lemma="кіпцюрыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">кіпцюрыцца</Form>
+        <Form Tag="R1S">кіпцюруся</Form>
+        <Form Tag="R2S">кіпцюрышся</Form>
+        <Form Tag="R3S">кіпцюрыцца</Form>
+        <Form Tag="R1P">кіпцюрымся</Form>
+        <Form Tag="R2P">кіпцюрыцеся</Form>
+        <Form Tag="R3P">кіпцюрацца</Form>
+        <Form Tag="PXSM">кіпцюрыўся</Form>
+        <Form Tag="PXSF">кіпцюрылася</Form>
+        <Form Tag="PXSN">кіпцюрылася</Form>
+        <Form Tag="PXPX">кіпцюрыліся</Form>
+        <Form Tag="I2S">кіпцюрыся</Form>
+        <Form Tag="I2P">кіпцюрыцеся</Form>
+        <Form Tag="RG">кіпцюрачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113527" Lemma="кіпяці´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">кіпяці´цца</Form>
+        <Form Tag="R1S" Checked="+">кіпячу´ся</Form>
+        <Form Tag="R2S" Checked="+">кіпяці´шся</Form>
+        <Form Tag="R3S" Checked="+">кіпяці´цца</Form>
+        <Form Tag="R1P" Checked="+">кіпяці´мся</Form>
+        <Form Tag="R2P" Checked="+">кіпяці´цеся</Form>
+        <Form Tag="R2P" Checked="+">кіпеціце´ся</Form>
+        <Form Tag="R3P" Checked="+">кіпяця´цца</Form>
+        <Form Tag="PXSM" Checked="+">кіпяці´ўся</Form>
+        <Form Tag="PXSF" Checked="+">кіпяці´лася</Form>
+        <Form Tag="PXSN" Checked="+">кіпяці´лася</Form>
+        <Form Tag="PXPX" Checked="+">кіпяці´ліся</Form>
+        <Form Tag="I2S" Checked="+">кіпяці´ся</Form>
+        <Form Tag="I2P" Checked="+">кіпяці´цеся</Form>
+        <Form Tag="RG" Checked="+"></Form>
     </Paradigm>
     <Paradigm pdgId="1113813" Lemma="клапаці´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">клапаці´цца</Form>
@@ -3108,22 +3253,6 @@
         <Form Tag="I2P">красліцеся</Form>
         <Form Tag="RG">краслячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113878" Lemma="крочыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">крочыцца</Form>
-        <Form Tag="R1S">крочуся</Form>
-        <Form Tag="R2S">крочышся</Form>
-        <Form Tag="R3S">крочыцца</Form>
-        <Form Tag="R1P">крочымся</Form>
-        <Form Tag="R2P">крочыцеся</Form>
-        <Form Tag="R3P">крочацца</Form>
-        <Form Tag="PXSM">крочыўся</Form>
-        <Form Tag="PXSF">крочылася</Form>
-        <Form Tag="PXSN">крочылася</Form>
-        <Form Tag="PXPX">крочыліся</Form>
-        <Form Tag="I2S">крочыся</Form>
-        <Form Tag="I2P">крочыцеся</Form>
-        <Form Tag="RG">крочачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1113874" Lemma="кроіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">кроіцца</Form>
         <Form Tag="R1S">кроюся</Form>
@@ -3139,6 +3268,22 @@
         <Form Tag="I2S">кройся</Form>
         <Form Tag="I2P">кройцеся</Form>
         <Form Tag="RG">кроячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113878" Lemma="крочыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">крочыцца</Form>
+        <Form Tag="R1S">крочуся</Form>
+        <Form Tag="R2S">крочышся</Form>
+        <Form Tag="R3S">крочыцца</Form>
+        <Form Tag="R1P">крочымся</Form>
+        <Form Tag="R2P">крочыцеся</Form>
+        <Form Tag="R3P">крочацца</Form>
+        <Form Tag="PXSM">крочыўся</Form>
+        <Form Tag="PXSF">крочылася</Form>
+        <Form Tag="PXSN">крочылася</Form>
+        <Form Tag="PXPX">крочыліся</Form>
+        <Form Tag="I2S">крочыся</Form>
+        <Form Tag="I2P">крочыцеся</Form>
+        <Form Tag="RG">крочачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113880" Lemma="кружы´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">кружы´цца</Form>
@@ -3172,22 +3317,6 @@
         <Form Tag="I2P" Checked="+">круці´цеся</Form>
         <Form Tag="RG" Checked="+">кру´цячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113888" Lemma="кры´ўдзіцца" Tag="VIMR2" Govern="+на+A" Checked="+">
-        <Form Tag="0" Checked="+">кры´ўдзіцца</Form>
-        <Form Tag="R1S" Checked="+">кры´ўджуся</Form>
-        <Form Tag="R2S" Checked="+">кры´ўдзішся</Form>
-        <Form Tag="R3S" Checked="+">кры´ўдзіцца</Form>
-        <Form Tag="R1P" Checked="+">кры´ўдзімся</Form>
-        <Form Tag="R2P" Checked="+">кры´ўдзіцеся</Form>
-        <Form Tag="R3P" Checked="+">кры´ўдзяцца</Form>
-        <Form Tag="PXSM" Checked="+">кры´ўдзіўся</Form>
-        <Form Tag="PXSF" Checked="+">кры´ўдзілася</Form>
-        <Form Tag="PXSN" Checked="+">кры´ўдзілася</Form>
-        <Form Tag="PXPX" Checked="+">кры´ўдзіліся</Form>
-        <Form Tag="I2S" Checked="+">кры´ўдзіся</Form>
-        <Form Tag="I2P" Checked="+">кры´ўдзіцеся</Form>
-        <Form Tag="RG" Checked="+">кры´ўдзячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1113893" Lemma="крыві´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">крыві´цца</Form>
         <Form Tag="R1S" Checked="+">крыўлю´ся</Form>
@@ -3203,6 +3332,22 @@
         <Form Tag="I2S" Checked="+">крыві´ся</Form>
         <Form Tag="I2P" Checked="+">крыві´цеся</Form>
         <Form Tag="RG" Checked="+">кры´вячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113888" Lemma="кры´ўдзіцца" Tag="VIMR2" Govern="+на+A" Checked="+">
+        <Form Tag="0" Checked="+">кры´ўдзіцца</Form>
+        <Form Tag="R1S" Checked="+">кры´ўджуся</Form>
+        <Form Tag="R2S" Checked="+">кры´ўдзішся</Form>
+        <Form Tag="R3S" Checked="+">кры´ўдзіцца</Form>
+        <Form Tag="R1P" Checked="+">кры´ўдзімся</Form>
+        <Form Tag="R2P" Checked="+">кры´ўдзіцеся</Form>
+        <Form Tag="R3P" Checked="+">кры´ўдзяцца</Form>
+        <Form Tag="PXSM" Checked="+">кры´ўдзіўся</Form>
+        <Form Tag="PXSF" Checked="+">кры´ўдзілася</Form>
+        <Form Tag="PXSN" Checked="+">кры´ўдзілася</Form>
+        <Form Tag="PXPX" Checked="+">кры´ўдзіліся</Form>
+        <Form Tag="I2S" Checked="+">кры´ўдзіся</Form>
+        <Form Tag="I2P" Checked="+">кры´ўдзіцеся</Form>
+        <Form Tag="RG" Checked="+">кры´ўдзячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113904" Lemma="крычацца" Tag="VIMR2" Govern="">
         <Form Tag="0">крычацца</Form>
@@ -3251,22 +3396,6 @@
         <Form Tag="I2S">крэсліся</Form>
         <Form Tag="I2P">крэсліцеся</Form>
         <Form Tag="RG">крэслячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1113957" Lemma="ку´рчыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ку´рчыцца</Form>
-        <Form Tag="R1S" Checked="+">ку´рчуся</Form>
-        <Form Tag="R2S" Checked="+">ку´рчышся</Form>
-        <Form Tag="R3S" Checked="+">ку´рчыцца</Form>
-        <Form Tag="R1P" Checked="+">ку´рчымся</Form>
-        <Form Tag="R2P" Checked="+">ку´рчыцеся</Form>
-        <Form Tag="R3P" Checked="+">ку´рчацца</Form>
-        <Form Tag="PXSM" Checked="+">ку´рчыўся</Form>
-        <Form Tag="PXSF" Checked="+">ку´рчылася</Form>
-        <Form Tag="PXSN" Checked="+">ку´рчылася</Form>
-        <Form Tag="PXPX" Checked="+">ку´рчыліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">ку´рчся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">ку´рчцеся</Form>
-        <Form Tag="RG" Type="nonstandard" Checked="+">ку´рчачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113925" Lemma="кудзеліцца" Tag="VIMR2" Govern="">
         <Form Tag="0">кудзеліцца</Form>
@@ -3332,6 +3461,22 @@
         <Form Tag="I2P">кульбачцеся</Form>
         <Form Tag="RG">кульбачачыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1113957" Lemma="ку´рчыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ку´рчыцца</Form>
+        <Form Tag="R1S" Checked="+">ку´рчуся</Form>
+        <Form Tag="R2S" Checked="+">ку´рчышся</Form>
+        <Form Tag="R3S" Checked="+">ку´рчыцца</Form>
+        <Form Tag="R1P" Checked="+">ку´рчымся</Form>
+        <Form Tag="R2P" Checked="+">ку´рчыцеся</Form>
+        <Form Tag="R3P" Checked="+">ку´рчацца</Form>
+        <Form Tag="PXSM" Checked="+">ку´рчыўся</Form>
+        <Form Tag="PXSF" Checked="+">ку´рчылася</Form>
+        <Form Tag="PXSN" Checked="+">ку´рчылася</Form>
+        <Form Tag="PXPX" Checked="+">ку´рчыліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">ку´рчся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">ку´рчцеся</Form>
+        <Form Tag="RG" Type="nonstandard" Checked="+">ку´рчачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1113959" Lemma="курыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">курыцца</Form>
         <Form Tag="R1S">куруся</Form>
@@ -3395,55 +3540,6 @@
         <Form Tag="I2S">кушнерся</Form>
         <Form Tag="I2P">кушнерцеся</Form>
         <Form Tag="RG">кушнерачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1113525" Lemma="кіпцюрыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">кіпцюрыцца</Form>
-        <Form Tag="R1S">кіпцюруся</Form>
-        <Form Tag="R2S">кіпцюрышся</Form>
-        <Form Tag="R3S">кіпцюрыцца</Form>
-        <Form Tag="R1P">кіпцюрымся</Form>
-        <Form Tag="R2P">кіпцюрыцеся</Form>
-        <Form Tag="R3P">кіпцюрацца</Form>
-        <Form Tag="PXSM">кіпцюрыўся</Form>
-        <Form Tag="PXSF">кіпцюрылася</Form>
-        <Form Tag="PXSN">кіпцюрылася</Form>
-        <Form Tag="PXPX">кіпцюрыліся</Form>
-        <Form Tag="I2S">кіпцюрыся</Form>
-        <Form Tag="I2P">кіпцюрыцеся</Form>
-        <Form Tag="RG">кіпцюрачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1113527" Lemma="кіпяці´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">кіпяці´цца</Form>
-        <Form Tag="R1S" Checked="+">кіпячу´ся</Form>
-        <Form Tag="R2S" Checked="+">кіпяці´шся</Form>
-        <Form Tag="R3S" Checked="+">кіпяці´цца</Form>
-        <Form Tag="R1P" Checked="+">кіпяці´мся</Form>
-        <Form Tag="R2P" Checked="+">кіпяці´цеся</Form>
-        <Form Tag="R2P" Checked="+">кіпеціце´ся</Form>
-        <Form Tag="R3P" Checked="+">кіпяця´цца</Form>
-        <Form Tag="PXSM" Checked="+">кіпяці´ўся</Form>
-        <Form Tag="PXSF" Checked="+">кіпяці´лася</Form>
-        <Form Tag="PXSN" Checked="+">кіпяці´лася</Form>
-        <Form Tag="PXPX" Checked="+">кіпяці´ліся</Form>
-        <Form Tag="I2S" Checked="+">кіпяці´ся</Form>
-        <Form Tag="I2P" Checked="+">кіпяці´цеся</Form>
-        <Form Tag="RG" Checked="+"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1114071" Lemma="ла´шчыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ла´шчыцца</Form>
-        <Form Tag="R1S" Checked="+">ла´шчуся</Form>
-        <Form Tag="R2S" Checked="+">ла´шчышся</Form>
-        <Form Tag="R3S" Checked="+">ла´шчыцца</Form>
-        <Form Tag="R1P" Checked="+">ла´шчымся</Form>
-        <Form Tag="R2P" Checked="+">ла´шчыцеся</Form>
-        <Form Tag="R3P" Checked="+">ла´шчацца</Form>
-        <Form Tag="PXSM" Checked="+">ла´шчыўся</Form>
-        <Form Tag="PXSF" Checked="+">ла´шчылася</Form>
-        <Form Tag="PXSN" Checked="+">ла´шчылася</Form>
-        <Form Tag="PXPX" Checked="+">ла´шчыліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">ла´шчыся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">ла´шчыцеся</Form>
-        <Form Tag="RG" Checked="+">ла´шчачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114084" Lemma="лавіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">лавіцца</Form>
@@ -3589,6 +3685,22 @@
         <Form Tag="I2P">лацьцеся</Form>
         <Form Tag="RG">лацячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1114071" Lemma="ла´шчыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ла´шчыцца</Form>
+        <Form Tag="R1S" Checked="+">ла´шчуся</Form>
+        <Form Tag="R2S" Checked="+">ла´шчышся</Form>
+        <Form Tag="R3S" Checked="+">ла´шчыцца</Form>
+        <Form Tag="R1P" Checked="+">ла´шчымся</Form>
+        <Form Tag="R2P" Checked="+">ла´шчыцеся</Form>
+        <Form Tag="R3P" Checked="+">ла´шчацца</Form>
+        <Form Tag="PXSM" Checked="+">ла´шчыўся</Form>
+        <Form Tag="PXSF" Checked="+">ла´шчылася</Form>
+        <Form Tag="PXSN" Checked="+">ла´шчылася</Form>
+        <Form Tag="PXPX" Checked="+">ла´шчыліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">ла´шчыся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">ла´шчыцеся</Form>
+        <Form Tag="RG" Checked="+">ла´шчачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1114082" Lemma="летуценіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">летуценіцца</Form>
         <Form Tag="R1S">летуценюся</Form>
@@ -3604,6 +3716,70 @@
         <Form Tag="I2S">летуценіся</Form>
         <Form Tag="I2P">летуценіцеся</Form>
         <Form Tag="RG">летуценячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1113995" Lemma="лінеіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">лінеіцца</Form>
+        <Form Tag="R1S">лінеюся</Form>
+        <Form Tag="R2S">лінеішся</Form>
+        <Form Tag="R3S">лінеіцца</Form>
+        <Form Tag="R1P">лінеімся</Form>
+        <Form Tag="R2P">лінеіцеся</Form>
+        <Form Tag="R3P">лінеяцца</Form>
+        <Form Tag="PXSM">лінеіўся</Form>
+        <Form Tag="PXSF">лінеілася</Form>
+        <Form Tag="PXSN">лінеілася</Form>
+        <Form Tag="PXPX">лінеіліся</Form>
+        <Form Tag="I2S">лінейся</Form>
+        <Form Tag="I2P">лінейцеся</Form>
+        <Form Tag="RG">лінеячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114002" Lemma="ліслівіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">ліслівіцца</Form>
+        <Form Tag="R1S">лісліўлюся</Form>
+        <Form Tag="R2S">ліслівішся</Form>
+        <Form Tag="R3S">ліслівіцца</Form>
+        <Form Tag="R1P">ліслівімся</Form>
+        <Form Tag="R2P">ліслівіцеся</Form>
+        <Form Tag="R3P">ліслівяцца</Form>
+        <Form Tag="PXSM">ліслівіўся</Form>
+        <Form Tag="PXSF">ліслівілася</Form>
+        <Form Tag="PXSN">ліслівілася</Form>
+        <Form Tag="PXPX">ліслівіліся</Form>
+        <Form Tag="I2S">лісліўся</Form>
+        <Form Tag="I2P">лісліўцеся</Form>
+        <Form Tag="RG">ліслівячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114007" Lemma="ліхаманіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">ліхаманіцца</Form>
+        <Form Tag="R1S">ліхаманюся</Form>
+        <Form Tag="R2S">ліхаманішся</Form>
+        <Form Tag="R3S">ліхаманіцца</Form>
+        <Form Tag="R1P">ліхаманімся</Form>
+        <Form Tag="R2P">ліхаманіцеся</Form>
+        <Form Tag="R3P">ліхаманяцца</Form>
+        <Form Tag="PXSM">ліхаманіўся</Form>
+        <Form Tag="PXSF">ліхаманілася</Form>
+        <Form Tag="PXSN">ліхаманілася</Form>
+        <Form Tag="PXPX">ліхаманіліся</Form>
+        <Form Tag="I2S">ліхаманься</Form>
+        <Form Tag="I2P">ліхаманьцеся</Form>
+        <Form Tag="RG">ліхаманячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114013" Lemma="лічы´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">лічы´цца</Form>
+        <Form Tag="R1S" Checked="+">лічу´ся</Form>
+        <Form Tag="R2S" Checked="+">лі´чышся</Form>
+        <Form Tag="R3S" Checked="+">лі´чыцца</Form>
+        <Form Tag="R1P" Checked="+">лі´чымся</Form>
+        <Form Tag="R2P" Checked="+">лі´чыцеся</Form>
+        <Form Tag="R3P" Checked="+">лі´чацца</Form>
+        <Form Tag="PXSM" Checked="+">лічы´ўся</Form>
+        <Form Tag="PXSF" Checked="+">лічы´лася</Form>
+        <Form Tag="PXSN" Checked="+">лічы´лася</Form>
+        <Form Tag="PXPX" Checked="+">лічы´ліся</Form>
+        <Form Tag="I2S" Checked="+">лічы´ся</Form>
+        <Form Tag="I2P" Checked="+">лічы´цеся</Form>
+        <Form Tag="RG" Checked="+">лі´чачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114094" Lemma="лудзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">лудзіцца</Form>
@@ -3781,70 +3957,6 @@
         <Form Tag="I2P" Checked="+">лячы´цеся</Form>
         <Form Tag="RG" Checked="+">ле´чачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113995" Lemma="лінеіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">лінеіцца</Form>
-        <Form Tag="R1S">лінеюся</Form>
-        <Form Tag="R2S">лінеішся</Form>
-        <Form Tag="R3S">лінеіцца</Form>
-        <Form Tag="R1P">лінеімся</Form>
-        <Form Tag="R2P">лінеіцеся</Form>
-        <Form Tag="R3P">лінеяцца</Form>
-        <Form Tag="PXSM">лінеіўся</Form>
-        <Form Tag="PXSF">лінеілася</Form>
-        <Form Tag="PXSN">лінеілася</Form>
-        <Form Tag="PXPX">лінеіліся</Form>
-        <Form Tag="I2S">лінейся</Form>
-        <Form Tag="I2P">лінейцеся</Form>
-        <Form Tag="RG">лінеячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114002" Lemma="ліслівіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">ліслівіцца</Form>
-        <Form Tag="R1S">лісліўлюся</Form>
-        <Form Tag="R2S">ліслівішся</Form>
-        <Form Tag="R3S">ліслівіцца</Form>
-        <Form Tag="R1P">ліслівімся</Form>
-        <Form Tag="R2P">ліслівіцеся</Form>
-        <Form Tag="R3P">ліслівяцца</Form>
-        <Form Tag="PXSM">ліслівіўся</Form>
-        <Form Tag="PXSF">ліслівілася</Form>
-        <Form Tag="PXSN">ліслівілася</Form>
-        <Form Tag="PXPX">ліслівіліся</Form>
-        <Form Tag="I2S">лісліўся</Form>
-        <Form Tag="I2P">лісліўцеся</Form>
-        <Form Tag="RG">ліслівячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114007" Lemma="ліхаманіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">ліхаманіцца</Form>
-        <Form Tag="R1S">ліхаманюся</Form>
-        <Form Tag="R2S">ліхаманішся</Form>
-        <Form Tag="R3S">ліхаманіцца</Form>
-        <Form Tag="R1P">ліхаманімся</Form>
-        <Form Tag="R2P">ліхаманіцеся</Form>
-        <Form Tag="R3P">ліхаманяцца</Form>
-        <Form Tag="PXSM">ліхаманіўся</Form>
-        <Form Tag="PXSF">ліхаманілася</Form>
-        <Form Tag="PXSN">ліхаманілася</Form>
-        <Form Tag="PXPX">ліхаманіліся</Form>
-        <Form Tag="I2S">ліхаманься</Form>
-        <Form Tag="I2P">ліхаманьцеся</Form>
-        <Form Tag="RG">ліхаманячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114013" Lemma="лічы´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">лічы´цца</Form>
-        <Form Tag="R1S" Checked="+">лічу´ся</Form>
-        <Form Tag="R2S" Checked="+">лі´чышся</Form>
-        <Form Tag="R3S" Checked="+">лі´чыцца</Form>
-        <Form Tag="R1P" Checked="+">лі´чымся</Form>
-        <Form Tag="R2P" Checked="+">лі´чыцеся</Form>
-        <Form Tag="R3P" Checked="+">лі´чацца</Form>
-        <Form Tag="PXSM" Checked="+">лічы´ўся</Form>
-        <Form Tag="PXSF" Checked="+">лічы´лася</Form>
-        <Form Tag="PXSN" Checked="+">лічы´лася</Form>
-        <Form Tag="PXPX" Checked="+">лічы´ліся</Form>
-        <Form Tag="I2S" Checked="+">лічы´ся</Form>
-        <Form Tag="I2P" Checked="+">лічы´цеся</Form>
-        <Form Tag="RG" Checked="+">лі´чачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1114337" Lemma="мажджэрыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">мажджэрыцца</Form>
         <Form Tag="R1S">мажджэруся</Form>
@@ -3925,22 +4037,6 @@
         <Form Tag="I2P" Checked="+">мане´рцеся</Form>
         <Form Tag="RG" Checked="+">мане´рачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114247" Lemma="мантачыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">мантачыцца</Form>
-        <Form Tag="R1S">мантачуся</Form>
-        <Form Tag="R2S">мантачышся</Form>
-        <Form Tag="R3S">мантачыцца</Form>
-        <Form Tag="R1P">мантачымся</Form>
-        <Form Tag="R2P">мантачыцеся</Form>
-        <Form Tag="R3P">мантачацца</Form>
-        <Form Tag="PXSM">мантачыўся</Form>
-        <Form Tag="PXSF">мантачылася</Form>
-        <Form Tag="PXSN">мантачылася</Form>
-        <Form Tag="PXPX">мантачыліся</Form>
-        <Form Tag="I2S">мантачся</Form>
-        <Form Tag="I2P">мантачцеся</Form>
-        <Form Tag="RG">мантачачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1114240" Lemma="маніторыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">маніторыцца</Form>
         <Form Tag="R1S">маніторуся</Form>
@@ -3956,6 +4052,22 @@
         <Form Tag="I2S">маніторся</Form>
         <Form Tag="I2P">маніторцеся</Form>
         <Form Tag="RG">маніторачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114247" Lemma="мантачыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">мантачыцца</Form>
+        <Form Tag="R1S">мантачуся</Form>
+        <Form Tag="R2S">мантачышся</Form>
+        <Form Tag="R3S">мантачыцца</Form>
+        <Form Tag="R1P">мантачымся</Form>
+        <Form Tag="R2P">мантачыцеся</Form>
+        <Form Tag="R3P">мантачацца</Form>
+        <Form Tag="PXSM">мантачыўся</Form>
+        <Form Tag="PXSF">мантачылася</Form>
+        <Form Tag="PXSN">мантачылася</Form>
+        <Form Tag="PXPX">мантачыліся</Form>
+        <Form Tag="I2S">мантачся</Form>
+        <Form Tag="I2P">мантачцеся</Form>
+        <Form Tag="RG">мантачачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114260" Lemma="марко´ціцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">марко´ціцца</Form>
@@ -4091,22 +4203,6 @@
         <Form Tag="I2P" Checked="+">мачы´цеся</Form>
         <Form Tag="RG" Checked="+">мо´чачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114327" Lemma="ме´ціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ме´ціцца</Form>
-        <Form Tag="R1S" Checked="+">ме´чуся</Form>
-        <Form Tag="R2S" Checked="+">ме´цішся</Form>
-        <Form Tag="R3S" Checked="+">ме´ціцца</Form>
-        <Form Tag="R1P" Checked="+">ме´цімся</Form>
-        <Form Tag="R2P" Checked="+">ме´ціцеся</Form>
-        <Form Tag="R3P" Checked="+">ме´цяцца</Form>
-        <Form Tag="PXSM" Checked="+">ме´ціўся</Form>
-        <Form Tag="PXSF" Checked="+">ме´цілася</Form>
-        <Form Tag="PXSN" Checked="+">ме´цілася</Form>
-        <Form Tag="PXPX" Checked="+">ме´ціліся</Form>
-        <Form Tag="I2S" Checked="+">ме´цься</Form>
-        <Form Tag="I2P" Checked="+">ме´цьцеся</Form>
-        <Form Tag="RG" Checked="+">ме´цячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1114320" Lemma="меншыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">меншыцца</Form>
         <Form Tag="R1S">меншуся</Form>
@@ -4123,150 +4219,21 @@
         <Form Tag="I2P">меншыцеся</Form>
         <Form Tag="RG">меншачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114332" Lemma="множыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">множыцца</Form>
-        <Form Tag="R1S">множуся</Form>
-        <Form Tag="R2S">множышся</Form>
-        <Form Tag="R3S">множыцца</Form>
-        <Form Tag="R1P">множымся</Form>
-        <Form Tag="R2P">множыцеся</Form>
-        <Form Tag="R3P">множацца</Form>
-        <Form Tag="PXSM">множыўся</Form>
-        <Form Tag="PXSF">множылася</Form>
-        <Form Tag="PXSN">множылася</Form>
-        <Form Tag="PXPX">множыліся</Form>
-        <Form Tag="I2S">множся</Form>
-        <Form Tag="I2P">множцеся</Form>
-        <Form Tag="RG">множачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114345" Lemma="мо´ршчыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">мо´ршчыцца</Form>
-        <Form Tag="R1S" Checked="+">мо´ршчуся</Form>
-        <Form Tag="R2S" Checked="+">мо´ршчышся</Form>
-        <Form Tag="R3S" Checked="+">мо´ршчыцца</Form>
-        <Form Tag="R1P" Checked="+">мо´ршчымся</Form>
-        <Form Tag="R2P" Checked="+">мо´ршчыцеся</Form>
-        <Form Tag="R3P" Checked="+">мо´ршчацца</Form>
-        <Form Tag="PXSM" Checked="+">мо´ршчыўся</Form>
-        <Form Tag="PXSF" Checked="+">мо´ршчылася</Form>
-        <Form Tag="PXSN" Checked="+">мо´ршчылася</Form>
-        <Form Tag="PXPX" Checked="+">мо´ршчыліся</Form>
-        <Form Tag="I2S" Checked="+">мо´ршчыся</Form>
-        <Form Tag="I2P" Checked="+">мо´ршчыцеся</Form>
-        <Form Tag="RG" Checked="+">мо´ршчачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114350" Lemma="мроіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">мроіцца</Form>
-        <Form Tag="R1S">мроюся</Form>
-        <Form Tag="R2S">мроішся</Form>
-        <Form Tag="R3S">мроіцца</Form>
-        <Form Tag="R1P">мроімся</Form>
-        <Form Tag="R2P">мроіцеся</Form>
-        <Form Tag="R3P">мрояцца</Form>
-        <Form Tag="PXSM">мроіўся</Form>
-        <Form Tag="PXSF">мроілася</Form>
-        <Form Tag="PXSN">мроілася</Form>
-        <Form Tag="PXPX">мроіліся</Form>
-        <Form Tag="I2S">мройся</Form>
-        <Form Tag="I2P">мройцеся</Form>
-        <Form Tag="RG">мроячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114378" Lemma="му´чыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">му´чыцца</Form>
-        <Form Tag="R1S" Type="nonstandard" Checked="+">му´чаюся</Form>
-        <Form Tag="R1S" Checked="+">му´чуся</Form>
-        <Form Tag="R2S" Checked="+">му´чышся</Form>
-        <Form Tag="R3S" Checked="+">му´чыцца</Form>
-        <Form Tag="R1P" Checked="+">му´чымся</Form>
-        <Form Tag="R2P" Checked="+">му´чыцеся</Form>
-        <Form Tag="R3P" Checked="+">му´чацца</Form>
-        <Form Tag="PXSM" Checked="+">му´чыўся</Form>
-        <Form Tag="PXSF" Checked="+">му´чылася</Form>
-        <Form Tag="PXSN" Checked="+">му´чылася</Form>
-        <Form Tag="PXPX" Checked="+">му´чыліся</Form>
-        <Form Tag="I2S" Checked="+">му´чся</Form>
-        <Form Tag="I2P" Checked="+">му´чцеся</Form>
-        <Form Tag="RG" Type="potential" Checked="+">му´чачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114352" Lemma="мудрагеліцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">мудрагеліцца</Form>
-        <Form Tag="R1S">мудрагелюся</Form>
-        <Form Tag="R2S">мудрагелішся</Form>
-        <Form Tag="R3S">мудрагеліцца</Form>
-        <Form Tag="R1P">мудрагелімся</Form>
-        <Form Tag="R2P">мудрагеліцеся</Form>
-        <Form Tag="R3P">мудрагеляцца</Form>
-        <Form Tag="PXSM">мудрагеліўся</Form>
-        <Form Tag="PXSF">мудрагелілася</Form>
-        <Form Tag="PXSN">мудрагелілася</Form>
-        <Form Tag="PXPX">мудрагеліліся</Form>
-        <Form Tag="I2S">мудрагелься</Form>
-        <Form Tag="I2P">мудрагельцеся</Form>
-        <Form Tag="RG">мудрагелячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114376" Lemma="муціцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">муціцца</Form>
-        <Form Tag="R1S">мучуся</Form>
-        <Form Tag="R2S">муцішся</Form>
-        <Form Tag="R3S">муціцца</Form>
-        <Form Tag="R1P">муцімся</Form>
-        <Form Tag="R2P">муціцеся</Form>
-        <Form Tag="R3P">муцяцца</Form>
-        <Form Tag="PXSM">муціўся</Form>
-        <Form Tag="PXSF">муцілася</Form>
-        <Form Tag="PXSN">муцілася</Form>
-        <Form Tag="PXPX">муціліся</Form>
-        <Form Tag="I2S">муціся</Form>
-        <Form Tag="I2P">муціцеся</Form>
-        <Form Tag="RG">муцячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114400" Lemma="мянціцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">мянціцца</Form>
-        <Form Tag="R1S">мянчуся</Form>
-        <Form Tag="R2S">менцішся</Form>
-        <Form Tag="R3S">менціцца</Form>
-        <Form Tag="R1P">менцімся</Form>
-        <Form Tag="R2P">менціцеся</Form>
-        <Form Tag="R3P">менцяцца</Form>
-        <Form Tag="PXSM">мянціўся</Form>
-        <Form Tag="PXSF">мянцілася</Form>
-        <Form Tag="PXSN">мянцілася</Form>
-        <Form Tag="PXPX">мянціліся</Form>
-        <Form Tag="I2S">мянціся</Form>
-        <Form Tag="I2P">мянціцеся</Form>
-        <Form Tag="RG">менцячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114410" Lemma="мясці´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">мясці´цца</Form>
-        <Form Tag="R1S" Checked="+">мяшчу´ся</Form>
-        <Form Tag="R2S" Checked="+">ме´сцішся</Form>
-        <Form Tag="R3S" Checked="+">ме´сціцца</Form>
-        <Form Tag="R1P" Checked="+">ме´сцімся</Form>
-        <Form Tag="R2P" Checked="+">ме´сціцеся</Form>
-        <Form Tag="R3P" Checked="+">ме´сцяцца</Form>
-        <Form Tag="PXSM" Checked="+">мясці´ўся</Form>
-        <Form Tag="PXSF" Checked="+">мясці´лася</Form>
-        <Form Tag="PXSN" Checked="+">мясці´лася</Form>
-        <Form Tag="PXPX" Checked="+">мясці´ліся</Form>
-        <Form Tag="I2S" Checked="+">мясці´ся</Form>
-        <Form Tag="I2P" Checked="+">мясці´цеся</Form>
-        <Form Tag="RG" Checked="+">ме´сцячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114408" Lemma="мясіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">мясіцца</Form>
-        <Form Tag="R1S">мяшуся</Form>
-        <Form Tag="R2S">месішся</Form>
-        <Form Tag="R3S">месіцца</Form>
-        <Form Tag="R1P">месімся</Form>
-        <Form Tag="R2P">месіцеся</Form>
-        <Form Tag="R3P">месяцца</Form>
-        <Form Tag="PXSM">мясіўся</Form>
-        <Form Tag="PXSF">мясілася</Form>
-        <Form Tag="PXSN">мясілася</Form>
-        <Form Tag="PXPX">мясіліся</Form>
-        <Form Tag="I2S">мясіся</Form>
-        <Form Tag="I2P">мясіцеся</Form>
-        <Form Tag="RG">месячыся</Form>
+    <Paradigm pdgId="1114327" Lemma="ме´ціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ме´ціцца</Form>
+        <Form Tag="R1S" Checked="+">ме´чуся</Form>
+        <Form Tag="R2S" Checked="+">ме´цішся</Form>
+        <Form Tag="R3S" Checked="+">ме´ціцца</Form>
+        <Form Tag="R1P" Checked="+">ме´цімся</Form>
+        <Form Tag="R2P" Checked="+">ме´ціцеся</Form>
+        <Form Tag="R3P" Checked="+">ме´цяцца</Form>
+        <Form Tag="PXSM" Checked="+">ме´ціўся</Form>
+        <Form Tag="PXSF" Checked="+">ме´цілася</Form>
+        <Form Tag="PXSN" Checked="+">ме´цілася</Form>
+        <Form Tag="PXPX" Checked="+">ме´ціліся</Form>
+        <Form Tag="I2S" Checked="+">ме´цься</Form>
+        <Form Tag="I2P" Checked="+">ме´цьцеся</Form>
+        <Form Tag="RG" Checked="+">ме´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114157" Lemma="мігцецца" Tag="VIMR2" Govern="">
         <Form Tag="0">мігцецца</Form>
@@ -4333,6 +4300,151 @@
         <Form Tag="I2S" Checked="+">мітусі´ся</Form>
         <Form Tag="I2P" Checked="+">мітусі´цеся</Form>
         <Form Tag="RG" Checked="+"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1114332" Lemma="множыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">множыцца</Form>
+        <Form Tag="R1S">множуся</Form>
+        <Form Tag="R2S">множышся</Form>
+        <Form Tag="R3S">множыцца</Form>
+        <Form Tag="R1P">множымся</Form>
+        <Form Tag="R2P">множыцеся</Form>
+        <Form Tag="R3P">множацца</Form>
+        <Form Tag="PXSM">множыўся</Form>
+        <Form Tag="PXSF">множылася</Form>
+        <Form Tag="PXSN">множылася</Form>
+        <Form Tag="PXPX">множыліся</Form>
+        <Form Tag="I2S">множся</Form>
+        <Form Tag="I2P">множцеся</Form>
+        <Form Tag="RG">множачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114345" Lemma="мо´ршчыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">мо´ршчыцца</Form>
+        <Form Tag="R1S" Checked="+">мо´ршчуся</Form>
+        <Form Tag="R2S" Checked="+">мо´ршчышся</Form>
+        <Form Tag="R3S" Checked="+">мо´ршчыцца</Form>
+        <Form Tag="R1P" Checked="+">мо´ршчымся</Form>
+        <Form Tag="R2P" Checked="+">мо´ршчыцеся</Form>
+        <Form Tag="R3P" Checked="+">мо´ршчацца</Form>
+        <Form Tag="PXSM" Checked="+">мо´ршчыўся</Form>
+        <Form Tag="PXSF" Checked="+">мо´ршчылася</Form>
+        <Form Tag="PXSN" Checked="+">мо´ршчылася</Form>
+        <Form Tag="PXPX" Checked="+">мо´ршчыліся</Form>
+        <Form Tag="I2S" Checked="+">мо´ршчыся</Form>
+        <Form Tag="I2P" Checked="+">мо´ршчыцеся</Form>
+        <Form Tag="RG" Checked="+">мо´ршчачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114350" Lemma="мроіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">мроіцца</Form>
+        <Form Tag="R1S">мроюся</Form>
+        <Form Tag="R2S">мроішся</Form>
+        <Form Tag="R3S">мроіцца</Form>
+        <Form Tag="R1P">мроімся</Form>
+        <Form Tag="R2P">мроіцеся</Form>
+        <Form Tag="R3P">мрояцца</Form>
+        <Form Tag="PXSM">мроіўся</Form>
+        <Form Tag="PXSF">мроілася</Form>
+        <Form Tag="PXSN">мроілася</Form>
+        <Form Tag="PXPX">мроіліся</Form>
+        <Form Tag="I2S">мройся</Form>
+        <Form Tag="I2P">мройцеся</Form>
+        <Form Tag="RG">мроячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114352" Lemma="мудрагеліцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">мудрагеліцца</Form>
+        <Form Tag="R1S">мудрагелюся</Form>
+        <Form Tag="R2S">мудрагелішся</Form>
+        <Form Tag="R3S">мудрагеліцца</Form>
+        <Form Tag="R1P">мудрагелімся</Form>
+        <Form Tag="R2P">мудрагеліцеся</Form>
+        <Form Tag="R3P">мудрагеляцца</Form>
+        <Form Tag="PXSM">мудрагеліўся</Form>
+        <Form Tag="PXSF">мудрагелілася</Form>
+        <Form Tag="PXSN">мудрагелілася</Form>
+        <Form Tag="PXPX">мудрагеліліся</Form>
+        <Form Tag="I2S">мудрагелься</Form>
+        <Form Tag="I2P">мудрагельцеся</Form>
+        <Form Tag="RG">мудрагелячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114376" Lemma="муціцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">муціцца</Form>
+        <Form Tag="R1S">мучуся</Form>
+        <Form Tag="R2S">муцішся</Form>
+        <Form Tag="R3S">муціцца</Form>
+        <Form Tag="R1P">муцімся</Form>
+        <Form Tag="R2P">муціцеся</Form>
+        <Form Tag="R3P">муцяцца</Form>
+        <Form Tag="PXSM">муціўся</Form>
+        <Form Tag="PXSF">муцілася</Form>
+        <Form Tag="PXSN">муцілася</Form>
+        <Form Tag="PXPX">муціліся</Form>
+        <Form Tag="I2S">муціся</Form>
+        <Form Tag="I2P">муціцеся</Form>
+        <Form Tag="RG">муцячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114378" Lemma="му´чыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">му´чыцца</Form>
+        <Form Tag="R1S" Type="nonstandard" Checked="+">му´чаюся</Form>
+        <Form Tag="R1S" Checked="+">му´чуся</Form>
+        <Form Tag="R2S" Checked="+">му´чышся</Form>
+        <Form Tag="R3S" Checked="+">му´чыцца</Form>
+        <Form Tag="R1P" Checked="+">му´чымся</Form>
+        <Form Tag="R2P" Checked="+">му´чыцеся</Form>
+        <Form Tag="R3P" Checked="+">му´чацца</Form>
+        <Form Tag="PXSM" Checked="+">му´чыўся</Form>
+        <Form Tag="PXSF" Checked="+">му´чылася</Form>
+        <Form Tag="PXSN" Checked="+">му´чылася</Form>
+        <Form Tag="PXPX" Checked="+">му´чыліся</Form>
+        <Form Tag="I2S" Checked="+">му´чся</Form>
+        <Form Tag="I2P" Checked="+">му´чцеся</Form>
+        <Form Tag="RG" Type="potential" Checked="+">му´чачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114400" Lemma="мянціцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">мянціцца</Form>
+        <Form Tag="R1S">мянчуся</Form>
+        <Form Tag="R2S">менцішся</Form>
+        <Form Tag="R3S">менціцца</Form>
+        <Form Tag="R1P">менцімся</Form>
+        <Form Tag="R2P">менціцеся</Form>
+        <Form Tag="R3P">менцяцца</Form>
+        <Form Tag="PXSM">мянціўся</Form>
+        <Form Tag="PXSF">мянцілася</Form>
+        <Form Tag="PXSN">мянцілася</Form>
+        <Form Tag="PXPX">мянціліся</Form>
+        <Form Tag="I2S">мянціся</Form>
+        <Form Tag="I2P">мянціцеся</Form>
+        <Form Tag="RG">менцячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114408" Lemma="мясіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">мясіцца</Form>
+        <Form Tag="R1S">мяшуся</Form>
+        <Form Tag="R2S">месішся</Form>
+        <Form Tag="R3S">месіцца</Form>
+        <Form Tag="R1P">месімся</Form>
+        <Form Tag="R2P">месіцеся</Form>
+        <Form Tag="R3P">месяцца</Form>
+        <Form Tag="PXSM">мясіўся</Form>
+        <Form Tag="PXSF">мясілася</Form>
+        <Form Tag="PXSN">мясілася</Form>
+        <Form Tag="PXPX">мясіліся</Form>
+        <Form Tag="I2S">мясіся</Form>
+        <Form Tag="I2P">мясіцеся</Form>
+        <Form Tag="RG">месячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1114410" Lemma="мясці´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">мясці´цца</Form>
+        <Form Tag="R1S" Checked="+">мяшчу´ся</Form>
+        <Form Tag="R2S" Checked="+">ме´сцішся</Form>
+        <Form Tag="R3S" Checked="+">ме´сціцца</Form>
+        <Form Tag="R1P" Checked="+">ме´сцімся</Form>
+        <Form Tag="R2P" Checked="+">ме´сціцеся</Form>
+        <Form Tag="R3P" Checked="+">ме´сцяцца</Form>
+        <Form Tag="PXSM" Checked="+">мясці´ўся</Form>
+        <Form Tag="PXSF" Checked="+">мясці´лася</Form>
+        <Form Tag="PXSN" Checked="+">мясці´лася</Form>
+        <Form Tag="PXPX" Checked="+">мясці´ліся</Form>
+        <Form Tag="I2S" Checked="+">мясці´ся</Form>
+        <Form Tag="I2P" Checked="+">мясці´цеся</Form>
+        <Form Tag="RG" Checked="+">ме´сцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114564" Lemma="наводзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">наводзіцца</Form>
@@ -4510,6 +4622,22 @@
         <Form Tag="I2P" Type="potential" Checked="+">непако´йцеся</Form>
         <Form Tag="RG" Checked="+">непако´ячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1114421" Lemma="нішчыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">нішчыцца</Form>
+        <Form Tag="R1S">нішчуся</Form>
+        <Form Tag="R2S">нішчышся</Form>
+        <Form Tag="R3S">нішчыцца</Form>
+        <Form Tag="R1P">нішчымся</Form>
+        <Form Tag="R2P">нішчыцеся</Form>
+        <Form Tag="R3P">нішчацца</Form>
+        <Form Tag="PXSM">нішчыўся</Form>
+        <Form Tag="PXSF">нішчылася</Form>
+        <Form Tag="PXSN">нішчылася</Form>
+        <Form Tag="PXPX">нішчыліся</Form>
+        <Form Tag="I2S">нішчыся</Form>
+        <Form Tag="I2P">нішчыцеся</Form>
+        <Form Tag="RG">нішчачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1115728" Lemma="нудзі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">нудзі´цца</Form>
         <Form Tag="R1S" Checked="+">нуджу´ся</Form>
@@ -4525,22 +4653,6 @@
         <Form Tag="I2S" Checked="+">нудзі´ся</Form>
         <Form Tag="I2P" Checked="+">нудзі´цеся</Form>
         <Form Tag="RG" Checked="+">ну´дзячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1115747" Lemma="ня´ньчыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ня´ньчыцца</Form>
-        <Form Tag="R1S" Checked="+">ня´ньчуся</Form>
-        <Form Tag="R2S" Checked="+">ня´ньчышся</Form>
-        <Form Tag="R3S" Checked="+">ня´ньчыцца</Form>
-        <Form Tag="R1P" Checked="+">ня´ньчымся</Form>
-        <Form Tag="R2P" Checked="+">ня´ньчыцеся</Form>
-        <Form Tag="R3P" Checked="+">ня´ньчацца</Form>
-        <Form Tag="PXSM" Checked="+">ня´ньчыўся</Form>
-        <Form Tag="PXSF" Checked="+">ня´ньчылася</Form>
-        <Form Tag="PXSN" Checked="+">ня´ньчылася</Form>
-        <Form Tag="PXPX" Checked="+">ня´ньчыліся</Form>
-        <Form Tag="I2S" Checked="+">ня´ньчыся</Form>
-        <Form Tag="I2P" Checked="+">ня´ньчыцеся</Form>
-        <Form Tag="RG" Type="nonstandard" Checked="+">ня´ньчачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1115741" Lemma="няво´ліцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">няво´ліцца</Form>
@@ -4574,6 +4686,22 @@
         <Form Tag="I2P">нядужцеся</Form>
         <Form Tag="RG">нядужачыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1115747" Lemma="ня´ньчыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ня´ньчыцца</Form>
+        <Form Tag="R1S" Checked="+">ня´ньчуся</Form>
+        <Form Tag="R2S" Checked="+">ня´ньчышся</Form>
+        <Form Tag="R3S" Checked="+">ня´ньчыцца</Form>
+        <Form Tag="R1P" Checked="+">ня´ньчымся</Form>
+        <Form Tag="R2P" Checked="+">ня´ньчыцеся</Form>
+        <Form Tag="R3P" Checked="+">ня´ньчацца</Form>
+        <Form Tag="PXSM" Checked="+">ня´ньчыўся</Form>
+        <Form Tag="PXSF" Checked="+">ня´ньчылася</Form>
+        <Form Tag="PXSN" Checked="+">ня´ньчылася</Form>
+        <Form Tag="PXPX" Checked="+">ня´ньчыліся</Form>
+        <Form Tag="I2S" Checked="+">ня´ньчыся</Form>
+        <Form Tag="I2P" Checked="+">ня´ньчыцеся</Form>
+        <Form Tag="RG" Type="nonstandard" Checked="+">ня´ньчачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1115751" Lemma="няславіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">няславіцца</Form>
         <Form Tag="R1S">няслаўлюся</Form>
@@ -4590,22 +4718,6 @@
         <Form Tag="I2P">няслаўцеся</Form>
         <Form Tag="RG">няславячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114421" Lemma="нішчыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">нішчыцца</Form>
-        <Form Tag="R1S">нішчуся</Form>
-        <Form Tag="R2S">нішчышся</Form>
-        <Form Tag="R3S">нішчыцца</Form>
-        <Form Tag="R1P">нішчымся</Form>
-        <Form Tag="R2P">нішчыцеся</Form>
-        <Form Tag="R3P">нішчацца</Form>
-        <Form Tag="PXSM">нішчыўся</Form>
-        <Form Tag="PXSF">нішчылася</Form>
-        <Form Tag="PXSN">нішчылася</Form>
-        <Form Tag="PXPX">нішчыліся</Form>
-        <Form Tag="I2S">нішчыся</Form>
-        <Form Tag="I2P">нішчыцеся</Form>
-        <Form Tag="RG">нішчачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1115753" Lemma="охрыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">охрыцца</Form>
         <Form Tag="R1S">охруся</Form>
@@ -4621,22 +4733,6 @@
         <Form Tag="I2S">охрыся</Form>
         <Form Tag="I2P">охрыцеся</Form>
         <Form Tag="RG">охрачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1118113" Lemma="па´рыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">па´рыцца</Form>
-        <Form Tag="R1S" Checked="+">па´руся</Form>
-        <Form Tag="R2S" Checked="+">па´рышся</Form>
-        <Form Tag="R3S" Checked="+">па´рыцца</Form>
-        <Form Tag="R1P" Checked="+">па´рымся</Form>
-        <Form Tag="R2P" Checked="+">па´рыцеся</Form>
-        <Form Tag="R3P" Checked="+">па´рацца</Form>
-        <Form Tag="PXSM" Checked="+">па´рыўся</Form>
-        <Form Tag="PXSF" Checked="+">па´рылася</Form>
-        <Form Tag="PXSN" Checked="+">па´рылася</Form>
-        <Form Tag="PXPX" Checked="+">па´рыліся</Form>
-        <Form Tag="I2S" Checked="+">па´рся</Form>
-        <Form Tag="I2P" Checked="+">па´рцеся</Form>
-        <Form Tag="RG" Checked="+">па´рачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1116192" Lemma="паганіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">паганіцца</Form>
@@ -4718,6 +4814,22 @@
         <Form Tag="I2P" Checked="+">пазні´цеся</Form>
         <Form Tag="RG" Checked="+">по´знячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1120087" Lemma="паіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">паіцца</Form>
+        <Form Tag="R1S">паюся</Form>
+        <Form Tag="R2S">поішся</Form>
+        <Form Tag="R3S">поіцца</Form>
+        <Form Tag="R1P">поімся</Form>
+        <Form Tag="R2P">поіцеся</Form>
+        <Form Tag="R3P">пояцца</Form>
+        <Form Tag="PXSM">паіўся</Form>
+        <Form Tag="PXSF">паілася</Form>
+        <Form Tag="PXSN">паілася</Form>
+        <Form Tag="PXPX">паіліся</Form>
+        <Form Tag="I2S">паіся</Form>
+        <Form Tag="I2P">паіцеся</Form>
+        <Form Tag="RG">поячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1117584" Lemma="палавініцца" Tag="VIMR2" Govern="">
         <Form Tag="0">палавініцца</Form>
         <Form Tag="R1S">палавінюся</Form>
@@ -4766,6 +4878,22 @@
         <Form Tag="I2P">папяліцеся</Form>
         <Form Tag="RG">папялячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1118113" Lemma="па´рыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">па´рыцца</Form>
+        <Form Tag="R1S" Checked="+">па´руся</Form>
+        <Form Tag="R2S" Checked="+">па´рышся</Form>
+        <Form Tag="R3S" Checked="+">па´рыцца</Form>
+        <Form Tag="R1P" Checked="+">па´рымся</Form>
+        <Form Tag="R2P" Checked="+">па´рыцеся</Form>
+        <Form Tag="R3P" Checked="+">па´рацца</Form>
+        <Form Tag="PXSM" Checked="+">па´рыўся</Form>
+        <Form Tag="PXSF" Checked="+">па´рылася</Form>
+        <Form Tag="PXSN" Checked="+">па´рылася</Form>
+        <Form Tag="PXPX" Checked="+">па´рыліся</Form>
+        <Form Tag="I2S" Checked="+">па´рся</Form>
+        <Form Tag="I2P" Checked="+">па´рцеся</Form>
+        <Form Tag="RG" Checked="+">па´рачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1118399" Lemma="паску´дзіцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">паску´дзіцца</Form>
         <Form Tag="R1S" Checked="+">паску´джуся</Form>
@@ -4797,38 +4925,6 @@
         <Form Tag="I2S">пасціся</Form>
         <Form Tag="I2P">пасціцеся</Form>
         <Form Tag="RG">пасцячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1120087" Lemma="паіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">паіцца</Form>
-        <Form Tag="R1S">паюся</Form>
-        <Form Tag="R2S">поішся</Form>
-        <Form Tag="R3S">поіцца</Form>
-        <Form Tag="R1P">поімся</Form>
-        <Form Tag="R2P">поіцеся</Form>
-        <Form Tag="R3P">пояцца</Form>
-        <Form Tag="PXSM">паіўся</Form>
-        <Form Tag="PXSF">паілася</Form>
-        <Form Tag="PXSN">паілася</Form>
-        <Form Tag="PXPX">паіліся</Form>
-        <Form Tag="I2S">паіся</Form>
-        <Form Tag="I2P">паіцеся</Form>
-        <Form Tag="RG">поячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1120025" Lemma="пе´сціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">пе´сціцца</Form>
-        <Form Tag="R1S" Checked="+">пе´шчуся</Form>
-        <Form Tag="R2S" Checked="+">пе´сцішся</Form>
-        <Form Tag="R3S" Checked="+">пе´сціцца</Form>
-        <Form Tag="R1P" Checked="+">пе´сцімся</Form>
-        <Form Tag="R2P" Checked="+">пе´сціцеся</Form>
-        <Form Tag="R3P" Checked="+">пе´сцяцца</Form>
-        <Form Tag="PXSM" Checked="+">пе´сціўся</Form>
-        <Form Tag="PXSF" Checked="+">пе´сцілася</Form>
-        <Form Tag="PXSN" Checked="+">пе´сцілася</Form>
-        <Form Tag="PXPX" Checked="+">пе´сціліся</Form>
-        <Form Tag="I2S" Checked="+">пе´сціся</Form>
-        <Form Tag="I2P" Checked="+">пе´сціцеся</Form>
-        <Form Tag="RG" Checked="+">пе´сцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1118908" Lemma="пеніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">пеніцца</Form>
@@ -4910,6 +5006,22 @@
         <Form Tag="I2P">пераправодзьцеся</Form>
         <Form Tag="RG">пераправодзячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1118924" Lemma="пераўзыходзіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">пераўзыходзіцца</Form>
+        <Form Tag="R1S">пераўзыходжуся</Form>
+        <Form Tag="R2S">пераўзыходзішся</Form>
+        <Form Tag="R3S">пераўзыходзіцца</Form>
+        <Form Tag="R1P">пераўзыходзімся</Form>
+        <Form Tag="R2P">пераўзыходзіцеся</Form>
+        <Form Tag="R3P">пераўзыходзяцца</Form>
+        <Form Tag="PXSM">пераўзыходзіўся</Form>
+        <Form Tag="PXSF">пераўзыходзілася</Form>
+        <Form Tag="PXSN">пераўзыходзілася</Form>
+        <Form Tag="PXPX">пераўзыходзіліся</Form>
+        <Form Tag="I2S">пераўзыходзься</Form>
+        <Form Tag="I2P">пераўзыходзьцеся</Form>
+        <Form Tag="RG">пераўзыходзячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1119932" Lemma="пераходзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">пераходзіцца</Form>
         <Form Tag="R1S">пераходжуся</Form>
@@ -4926,21 +5038,37 @@
         <Form Tag="I2P">пераходзьцеся</Form>
         <Form Tag="RG">пераходзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1118924" Lemma="пераўзыходзіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">пераўзыходзіцца</Form>
-        <Form Tag="R1S">пераўзыходжуся</Form>
-        <Form Tag="R2S">пераўзыходзішся</Form>
-        <Form Tag="R3S">пераўзыходзіцца</Form>
-        <Form Tag="R1P">пераўзыходзімся</Form>
-        <Form Tag="R2P">пераўзыходзіцеся</Form>
-        <Form Tag="R3P">пераўзыходзяцца</Form>
-        <Form Tag="PXSM">пераўзыходзіўся</Form>
-        <Form Tag="PXSF">пераўзыходзілася</Form>
-        <Form Tag="PXSN">пераўзыходзілася</Form>
-        <Form Tag="PXPX">пераўзыходзіліся</Form>
-        <Form Tag="I2S">пераўзыходзься</Form>
-        <Form Tag="I2P">пераўзыходзьцеся</Form>
-        <Form Tag="RG">пераўзыходзячыся</Form>
+    <Paradigm pdgId="1120025" Lemma="пе´сціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">пе´сціцца</Form>
+        <Form Tag="R1S" Checked="+">пе´шчуся</Form>
+        <Form Tag="R2S" Checked="+">пе´сцішся</Form>
+        <Form Tag="R3S" Checked="+">пе´сціцца</Form>
+        <Form Tag="R1P" Checked="+">пе´сцімся</Form>
+        <Form Tag="R2P" Checked="+">пе´сціцеся</Form>
+        <Form Tag="R3P" Checked="+">пе´сцяцца</Form>
+        <Form Tag="PXSM" Checked="+">пе´сціўся</Form>
+        <Form Tag="PXSF" Checked="+">пе´сцілася</Form>
+        <Form Tag="PXSN" Checked="+">пе´сцілася</Form>
+        <Form Tag="PXPX" Checked="+">пе´сціліся</Form>
+        <Form Tag="I2S" Checked="+">пе´сціся</Form>
+        <Form Tag="I2P" Checked="+">пе´сціцеся</Form>
+        <Form Tag="RG" Checked="+">пе´сцячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1115771" Lemma="піраціцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">піраціцца</Form>
+        <Form Tag="R1S">пірачуся</Form>
+        <Form Tag="R2S">пірацішся</Form>
+        <Form Tag="R3S">піраціцца</Form>
+        <Form Tag="R1P">пірацімся</Form>
+        <Form Tag="R2P">піраціцеся</Form>
+        <Form Tag="R3P">пірацяцца</Form>
+        <Form Tag="PXSM">піраціўся</Form>
+        <Form Tag="PXSF">пірацілася</Form>
+        <Form Tag="PXSN">пірацілася</Form>
+        <Form Tag="PXPX">піраціліся</Form>
+        <Form Tag="I2S">пірацься</Form>
+        <Form Tag="I2P">пірацьцеся</Form>
+        <Form Tag="RG">пірацячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1120037" Lemma="плавіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">плавіцца</Form>
@@ -5054,22 +5182,6 @@
         <Form Tag="I2P">пляткарцеся</Form>
         <Form Tag="RG">пляткарачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1120092" Lemma="по´мсціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">по´мсціцца</Form>
-        <Form Tag="R1S" Checked="+">по´мшчуся</Form>
-        <Form Tag="R2S" Checked="+">по´мсцішся</Form>
-        <Form Tag="R3S" Checked="+">по´мсціцца</Form>
-        <Form Tag="R1P" Checked="+">по´мсцімся</Form>
-        <Form Tag="R2P" Checked="+">по´мсціцеся</Form>
-        <Form Tag="R3P" Checked="+">по´мсцяцца</Form>
-        <Form Tag="PXSM" Checked="+">по´мсціўся</Form>
-        <Form Tag="PXSF" Checked="+">по´мсцілася</Form>
-        <Form Tag="PXSN" Checked="+">по´мсцілася</Form>
-        <Form Tag="PXPX" Checked="+">по´мсціліся</Form>
-        <Form Tag="I2S" Checked="+">по´мсціся</Form>
-        <Form Tag="I2P" Checked="+">по´мсціцеся</Form>
-        <Form Tag="RG" Checked="+">по´мсцячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1120090" Lemma="помніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">помніцца</Form>
         <Form Tag="R1S">помнюся</Form>
@@ -5085,6 +5197,22 @@
         <Form Tag="I2S">помніся</Form>
         <Form Tag="I2P">помніцеся</Form>
         <Form Tag="RG">помнячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1120092" Lemma="по´мсціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">по´мсціцца</Form>
+        <Form Tag="R1S" Checked="+">по´мшчуся</Form>
+        <Form Tag="R2S" Checked="+">по´мсцішся</Form>
+        <Form Tag="R3S" Checked="+">по´мсціцца</Form>
+        <Form Tag="R1P" Checked="+">по´мсцімся</Form>
+        <Form Tag="R2P" Checked="+">по´мсціцеся</Form>
+        <Form Tag="R3P" Checked="+">по´мсцяцца</Form>
+        <Form Tag="PXSM" Checked="+">по´мсціўся</Form>
+        <Form Tag="PXSF" Checked="+">по´мсцілася</Form>
+        <Form Tag="PXSN" Checked="+">по´мсцілася</Form>
+        <Form Tag="PXPX" Checked="+">по´мсціліся</Form>
+        <Form Tag="I2S" Checked="+">по´мсціся</Form>
+        <Form Tag="I2P" Checked="+">по´мсціцеся</Form>
+        <Form Tag="RG" Checked="+">по´мсцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1120097" Lemma="посціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">посціцца</Form>
@@ -5118,6 +5246,22 @@
         <Form Tag="I2P">поўніцеся</Form>
         <Form Tag="RG">поўнячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1120177" Lemma="правіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">правіцца</Form>
+        <Form Tag="R1S">праўлюся</Form>
+        <Form Tag="R2S">правішся</Form>
+        <Form Tag="R3S">правіцца</Form>
+        <Form Tag="R1P">правімся</Form>
+        <Form Tag="R2P">правіцеся</Form>
+        <Form Tag="R3P">правяцца</Form>
+        <Form Tag="PXSM">правіўся</Form>
+        <Form Tag="PXSF">правілася</Form>
+        <Form Tag="PXSN">правілася</Form>
+        <Form Tag="PXPX">правіліся</Form>
+        <Form Tag="I2S">праўся</Form>
+        <Form Tag="I2P">праўцеся</Form>
+        <Form Tag="RG">правячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1120212" Lemma="праводзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">праводзіцца</Form>
         <Form Tag="R1S">праводжуся</Form>
@@ -5149,22 +5293,6 @@
         <Form Tag="I2S">правозься</Form>
         <Form Tag="I2P">правозьцеся</Form>
         <Form Tag="RG">правозячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1120177" Lemma="правіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">правіцца</Form>
-        <Form Tag="R1S">праўлюся</Form>
-        <Form Tag="R2S">правішся</Form>
-        <Form Tag="R3S">правіцца</Form>
-        <Form Tag="R1P">правімся</Form>
-        <Form Tag="R2P">правіцеся</Form>
-        <Form Tag="R3P">правяцца</Form>
-        <Form Tag="PXSM">правіўся</Form>
-        <Form Tag="PXSF">правілася</Form>
-        <Form Tag="PXSN">правілася</Form>
-        <Form Tag="PXPX">правіліся</Form>
-        <Form Tag="I2S">праўся</Form>
-        <Form Tag="I2P">праўцеся</Form>
-        <Form Tag="RG">правячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1120329" Lemma="прадбачыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">прадбачыцца</Form>
@@ -5326,22 +5454,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">прыно´сьцеся</Form>
         <Form Tag="RG" Checked="+">прыно´сячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1121703" Lemma="прыхо´дзіцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">прыхо´дзіцца</Form>
-        <Form Tag="R1S" Checked="+">прыхо´джуся</Form>
-        <Form Tag="R2S" Checked="+">прыхо´дзішся</Form>
-        <Form Tag="R3S" Checked="+">прыхо´дзіцца</Form>
-        <Form Tag="R1P" Checked="+">прыхо´дзімся</Form>
-        <Form Tag="R2P" Checked="+">прыхо´дзіцеся</Form>
-        <Form Tag="R3P" Checked="+">прыхо´дзяцца</Form>
-        <Form Tag="PXSM" Checked="+">прыхо´дзіўся</Form>
-        <Form Tag="PXSF" Checked="+">прыхо´дзілася</Form>
-        <Form Tag="PXSN" Checked="+">прыхо´дзілася</Form>
-        <Form Tag="PXPX" Checked="+">прыхо´дзіліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">прыхо´дзься</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">прыхо´дзьцеся</Form>
-        <Form Tag="RG" Checked="+">прыхо´дзячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1121088" Lemma="прыўносіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">прыўносіцца</Form>
         <Form Tag="R1S">прыўношуся</Form>
@@ -5357,6 +5469,22 @@
         <Form Tag="I2S">прыўносься</Form>
         <Form Tag="I2P">прыўносьцеся</Form>
         <Form Tag="RG">прыўносячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1121703" Lemma="прыхо´дзіцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">прыхо´дзіцца</Form>
+        <Form Tag="R1S" Checked="+">прыхо´джуся</Form>
+        <Form Tag="R2S" Checked="+">прыхо´дзішся</Form>
+        <Form Tag="R3S" Checked="+">прыхо´дзіцца</Form>
+        <Form Tag="R1P" Checked="+">прыхо´дзімся</Form>
+        <Form Tag="R2P" Checked="+">прыхо´дзіцеся</Form>
+        <Form Tag="R3P" Checked="+">прыхо´дзяцца</Form>
+        <Form Tag="PXSM" Checked="+">прыхо´дзіўся</Form>
+        <Form Tag="PXSF" Checked="+">прыхо´дзілася</Form>
+        <Form Tag="PXSN" Checked="+">прыхо´дзілася</Form>
+        <Form Tag="PXPX" Checked="+">прыхо´дзіліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">прыхо´дзься</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">прыхо´дзьцеся</Form>
+        <Form Tag="RG" Checked="+">прыхо´дзячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1121812" Lemma="пу´дзіцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">пу´дзіцца</Form>
@@ -5406,22 +5534,6 @@
         <Form Tag="I2P">пушцеся</Form>
         <Form Tag="RG">пушачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1121851" Lemma="пы´шыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">пы´шыцца</Form>
-        <Form Tag="R1S" Checked="+">пы´шуся</Form>
-        <Form Tag="R2S" Checked="+">пы´шышся</Form>
-        <Form Tag="R3S" Checked="+">пы´шыцца</Form>
-        <Form Tag="R1P" Checked="+">пы´шымся</Form>
-        <Form Tag="R2P" Checked="+">пы´шыцеся</Form>
-        <Form Tag="R3P" Checked="+">пы´шацца</Form>
-        <Form Tag="PXSM" Checked="+">пы´шыўся</Form>
-        <Form Tag="PXSF" Checked="+">пы´шылася</Form>
-        <Form Tag="PXSN" Checked="+">пы´шылася</Form>
-        <Form Tag="PXPX" Checked="+">пы´шыліся</Form>
-        <Form Tag="I2S" Checked="+">пы´шся</Form>
-        <Form Tag="I2P" Checked="+">пы´шцеся</Form>
-        <Form Tag="RG" Checked="+">пы´шучыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1121837" Lemma="пылі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">пылі´цца</Form>
         <Form Tag="R1S" Checked="+">пылю´ся</Form>
@@ -5437,6 +5549,22 @@
         <Form Tag="I2S" Type="potential" Checked="+">пылі´ся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">пылі´цеся</Form>
         <Form Tag="RG" Checked="+">пы´лячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1121851" Lemma="пы´шыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">пы´шыцца</Form>
+        <Form Tag="R1S" Checked="+">пы´шуся</Form>
+        <Form Tag="R2S" Checked="+">пы´шышся</Form>
+        <Form Tag="R3S" Checked="+">пы´шыцца</Form>
+        <Form Tag="R1P" Checked="+">пы´шымся</Form>
+        <Form Tag="R2P" Checked="+">пы´шыцеся</Form>
+        <Form Tag="R3P" Checked="+">пы´шацца</Form>
+        <Form Tag="PXSM" Checked="+">пы´шыўся</Form>
+        <Form Tag="PXSF" Checked="+">пы´шылася</Form>
+        <Form Tag="PXSN" Checked="+">пы´шылася</Form>
+        <Form Tag="PXPX" Checked="+">пы´шыліся</Form>
+        <Form Tag="I2S" Checked="+">пы´шся</Form>
+        <Form Tag="I2P" Checked="+">пы´шцеся</Form>
+        <Form Tag="RG" Checked="+">пы´шучыся</Form>
     </Paradigm>
     <Paradigm pdgId="1121865" Lemma="пярэсціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">пярэсціцца</Form>
@@ -5470,54 +5598,6 @@
         <Form Tag="I2P">пярэчцеся</Form>
         <Form Tag="RG">пярэчачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1115771" Lemma="піраціцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">піраціцца</Form>
-        <Form Tag="R1S">пірачуся</Form>
-        <Form Tag="R2S">пірацішся</Form>
-        <Form Tag="R3S">піраціцца</Form>
-        <Form Tag="R1P">пірацімся</Form>
-        <Form Tag="R2P">піраціцеся</Form>
-        <Form Tag="R3P">пірацяцца</Form>
-        <Form Tag="PXSM">піраціўся</Form>
-        <Form Tag="PXSF">пірацілася</Form>
-        <Form Tag="PXSN">пірацілася</Form>
-        <Form Tag="PXPX">піраціліся</Form>
-        <Form Tag="I2S">пірацься</Form>
-        <Form Tag="I2P">пірацьцеся</Form>
-        <Form Tag="RG">пірацячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1121882" Lemma="ра´дзіцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ра´дзіцца</Form>
-        <Form Tag="R1S" Checked="+">ра´джуся</Form>
-        <Form Tag="R2S" Checked="+">ра´дзішся</Form>
-        <Form Tag="R3S" Checked="+">ра´дзіцца</Form>
-        <Form Tag="R1P" Checked="+">ра´дзімся</Form>
-        <Form Tag="R2P" Checked="+">ра´дзіцеся</Form>
-        <Form Tag="R3P" Checked="+">ра´дзяцца</Form>
-        <Form Tag="PXSM" Checked="+">ра´дзіўся</Form>
-        <Form Tag="PXSF" Checked="+">ра´дзілася</Form>
-        <Form Tag="PXSN" Checked="+">ра´дзілася</Form>
-        <Form Tag="PXPX" Checked="+">ра´дзіліся</Form>
-        <Form Tag="I2S" Checked="+">ра´дзься</Form>
-        <Form Tag="I2P" Checked="+">ра´дзьцеся</Form>
-        <Form Tag="RG" Checked="+">ра´дзячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1121874" Lemma="ра´іцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ра´іцца</Form>
-        <Form Tag="R1S" Checked="+">ра´юся</Form>
-        <Form Tag="R2S" Checked="+">ра´ішся</Form>
-        <Form Tag="R3S" Checked="+">ра´іцца</Form>
-        <Form Tag="R1P" Checked="+">ра´імся</Form>
-        <Form Tag="R2P" Checked="+">ра´іцеся</Form>
-        <Form Tag="R3P" Checked="+">ра´яцца</Form>
-        <Form Tag="PXSM" Checked="+">ра´іўся</Form>
-        <Form Tag="PXSF" Checked="+">ра´ілася</Form>
-        <Form Tag="PXSN" Checked="+">ра´ілася</Form>
-        <Form Tag="PXPX" Checked="+">ра´іліся</Form>
-        <Form Tag="I2S" Checked="+">ра´йся</Form>
-        <Form Tag="I2P" Checked="+">ра´йцеся</Form>
-        <Form Tag="RG" Checked="+">ра´ячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1121877" Lemma="рабаціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">рабаціцца</Form>
         <Form Tag="R1S">рабачуся</Form>
@@ -5549,6 +5629,22 @@
         <Form Tag="I2S" Type="potential" Checked="+">рабі´ся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">рабі´цеся</Form>
         <Form Tag="RG" Checked="+">ро´бячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1121882" Lemma="ра´дзіцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ра´дзіцца</Form>
+        <Form Tag="R1S" Checked="+">ра´джуся</Form>
+        <Form Tag="R2S" Checked="+">ра´дзішся</Form>
+        <Form Tag="R3S" Checked="+">ра´дзіцца</Form>
+        <Form Tag="R1P" Checked="+">ра´дзімся</Form>
+        <Form Tag="R2P" Checked="+">ра´дзіцеся</Form>
+        <Form Tag="R3P" Checked="+">ра´дзяцца</Form>
+        <Form Tag="PXSM" Checked="+">ра´дзіўся</Form>
+        <Form Tag="PXSF" Checked="+">ра´дзілася</Form>
+        <Form Tag="PXSN" Checked="+">ра´дзілася</Form>
+        <Form Tag="PXPX" Checked="+">ра´дзіліся</Form>
+        <Form Tag="I2S" Checked="+">ра´дзься</Form>
+        <Form Tag="I2P" Checked="+">ра´дзьцеся</Form>
+        <Form Tag="RG" Checked="+">ра´дзячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1121885" Lemma="радні´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">радні´цца</Form>
@@ -5667,6 +5763,38 @@
         <Form Tag="I2P" Checked="+">разыхо´дзьцеся</Form>
         <Form Tag="RG" Checked="+">разыхо´дзячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1121874" Lemma="ра´іцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ра´іцца</Form>
+        <Form Tag="R1S" Checked="+">ра´юся</Form>
+        <Form Tag="R2S" Checked="+">ра´ішся</Form>
+        <Form Tag="R3S" Checked="+">ра´іцца</Form>
+        <Form Tag="R1P" Checked="+">ра´імся</Form>
+        <Form Tag="R2P" Checked="+">ра´іцеся</Form>
+        <Form Tag="R3P" Checked="+">ра´яцца</Form>
+        <Form Tag="PXSM" Checked="+">ра´іўся</Form>
+        <Form Tag="PXSF" Checked="+">ра´ілася</Form>
+        <Form Tag="PXSN" Checked="+">ра´ілася</Form>
+        <Form Tag="PXPX" Checked="+">ра´іліся</Form>
+        <Form Tag="I2S" Checked="+">ра´йся</Form>
+        <Form Tag="I2P" Checked="+">ра´йцеся</Form>
+        <Form Tag="RG" Checked="+">ра´ячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1123070" Lemma="раіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">раіцца</Form>
+        <Form Tag="R1S">раюся</Form>
+        <Form Tag="R2S">роішся</Form>
+        <Form Tag="R3S">роіцца</Form>
+        <Form Tag="R1P">роімся</Form>
+        <Form Tag="R2P">роіцеся</Form>
+        <Form Tag="R3P">рояцца</Form>
+        <Form Tag="PXSM">раіўся</Form>
+        <Form Tag="PXSF">раілася</Form>
+        <Form Tag="PXSN">раілася</Form>
+        <Form Tag="PXPX">раіліся</Form>
+        <Form Tag="I2S">раіся</Form>
+        <Form Tag="I2P">раіцеся</Form>
+        <Form Tag="RG">роячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1122399" Lemma="раніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">раніцца</Form>
         <Form Tag="R1S">ранюся</Form>
@@ -5699,22 +5827,6 @@
         <Form Tag="I2P" Checked="+">расхо´дзьцеся</Form>
         <Form Tag="RG" Checked="+">расхо´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1123070" Lemma="раіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">раіцца</Form>
-        <Form Tag="R1S">раюся</Form>
-        <Form Tag="R2S">роішся</Form>
-        <Form Tag="R3S">роіцца</Form>
-        <Form Tag="R1P">роімся</Form>
-        <Form Tag="R2P">роіцеся</Form>
-        <Form Tag="R3P">рояцца</Form>
-        <Form Tag="PXSM">раіўся</Form>
-        <Form Tag="PXSF">раілася</Form>
-        <Form Tag="PXSN">раілася</Form>
-        <Form Tag="PXPX">раіліся</Form>
-        <Form Tag="I2S">раіся</Form>
-        <Form Tag="I2P">раіцеся</Form>
-        <Form Tag="RG">роячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1123075" Lemma="ртуціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">ртуціцца</Form>
         <Form Tag="R1S">ртучуся</Form>
@@ -5731,22 +5843,6 @@
         <Form Tag="I2P">ртуцьцеся</Form>
         <Form Tag="RG">ртуцячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1123088" Lemma="ру´піцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ру´піцца</Form>
-        <Form Tag="R1S" Checked="+">ру´плюся</Form>
-        <Form Tag="R2S" Checked="+">ру´пішся</Form>
-        <Form Tag="R3S" Checked="+">ру´піцца</Form>
-        <Form Tag="R1P" Checked="+">ру´пімся</Form>
-        <Form Tag="R2P" Checked="+">ру´піцеся</Form>
-        <Form Tag="R3P" Checked="+">ру´пяцца</Form>
-        <Form Tag="PXSM" Checked="+">ру´піўся</Form>
-        <Form Tag="PXSF" Checked="+">ру´пілася</Form>
-        <Form Tag="PXSN" Checked="+">ру´пілася</Form>
-        <Form Tag="PXPX" Checked="+">ру´піліся</Form>
-        <Form Tag="I2S" Checked="+">ру´пся</Form>
-        <Form Tag="I2P" Checked="+">ру´пцеся</Form>
-        <Form Tag="RG" Checked="+">ру´пячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1123084" Lemma="руліцца" Tag="VIMR2" Govern="">
         <Form Tag="0">руліцца</Form>
         <Form Tag="R1S">рулюся</Form>
@@ -5762,6 +5858,22 @@
         <Form Tag="I2S">руліся</Form>
         <Form Tag="I2P">руліцеся</Form>
         <Form Tag="RG">рулячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1123088" Lemma="ру´піцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ру´піцца</Form>
+        <Form Tag="R1S" Checked="+">ру´плюся</Form>
+        <Form Tag="R2S" Checked="+">ру´пішся</Form>
+        <Form Tag="R3S" Checked="+">ру´піцца</Form>
+        <Form Tag="R1P" Checked="+">ру´пімся</Form>
+        <Form Tag="R2P" Checked="+">ру´піцеся</Form>
+        <Form Tag="R3P" Checked="+">ру´пяцца</Form>
+        <Form Tag="PXSM" Checked="+">ру´піўся</Form>
+        <Form Tag="PXSF" Checked="+">ру´пілася</Form>
+        <Form Tag="PXSN" Checked="+">ру´пілася</Form>
+        <Form Tag="PXPX" Checked="+">ру´піліся</Form>
+        <Form Tag="I2S" Checked="+">ру´пся</Form>
+        <Form Tag="I2P" Checked="+">ру´пцеся</Form>
+        <Form Tag="RG" Checked="+">ру´пячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1123095" Lemma="рушыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">рушыцца</Form>
@@ -5923,6 +6035,22 @@
         <Form Tag="I2P">сведчыцеся</Form>
         <Form Tag="RG">сведчачыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1123481" Lemma="свінячыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">свінячыцца</Form>
+        <Form Tag="R1S">свінячуся</Form>
+        <Form Tag="R2S">свінячышся</Form>
+        <Form Tag="R3S">свінячыцца</Form>
+        <Form Tag="R1P">свінячымся</Form>
+        <Form Tag="R2P">свінячыцеся</Form>
+        <Form Tag="R3P">свінячацца</Form>
+        <Form Tag="PXSM">свінячыўся</Form>
+        <Form Tag="PXSF">свінячылася</Form>
+        <Form Tag="PXSN">свінячылася</Form>
+        <Form Tag="PXPX">свінячыліся</Form>
+        <Form Tag="I2S">свінячся</Form>
+        <Form Tag="I2P">свінячцеся</Form>
+        <Form Tag="RG">свінячачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1123497" Lemma="свянціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">свянціцца</Form>
         <Form Tag="R1S">свянчуся</Form>
@@ -5987,22 +6115,6 @@
         <Form Tag="I2P" Checked="+">свяці´цеся</Form>
         <Form Tag="RG" Checked="+">све´цячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1123481" Lemma="свінячыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">свінячыцца</Form>
-        <Form Tag="R1S">свінячуся</Form>
-        <Form Tag="R2S">свінячышся</Form>
-        <Form Tag="R3S">свінячыцца</Form>
-        <Form Tag="R1P">свінячымся</Form>
-        <Form Tag="R2P">свінячыцеся</Form>
-        <Form Tag="R3P">свінячацца</Form>
-        <Form Tag="PXSM">свінячыўся</Form>
-        <Form Tag="PXSF">свінячылася</Form>
-        <Form Tag="PXSN">свінячылася</Form>
-        <Form Tag="PXPX">свінячыліся</Form>
-        <Form Tag="I2S">свінячся</Form>
-        <Form Tag="I2P">свінячцеся</Form>
-        <Form Tag="RG">свінячачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1123523" Lemma="серабрыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">серабрыцца</Form>
         <Form Tag="R1S">серабруся</Form>
@@ -6018,6 +6130,38 @@
         <Form Tag="I2S">серабрыся</Form>
         <Form Tag="I2P">серабрыцеся</Form>
         <Form Tag="RG">серабрачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1123234" Lemma="сіверацца" Tag="VIMR2" Govern="">
+        <Form Tag="0">сіверацца</Form>
+        <Form Tag="R1S">сіверуся</Form>
+        <Form Tag="R2S">сіверышся</Form>
+        <Form Tag="R3S">сіверыцца</Form>
+        <Form Tag="R1P">сіверымся</Form>
+        <Form Tag="R2P">сіверыцеся</Form>
+        <Form Tag="R3P">сіверацца</Form>
+        <Form Tag="PXSM">сіверыўся</Form>
+        <Form Tag="PXSF">сіверылася</Form>
+        <Form Tag="PXSN">сіверылася</Form>
+        <Form Tag="PXPX">сіверыліся</Form>
+        <Form Tag="I2S">сіверся</Form>
+        <Form Tag="I2P">сіверцеся</Form>
+        <Form Tag="RG">сіверачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1123236" Lemma="сігналіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">сігналіцца</Form>
+        <Form Tag="R1S">сігналюся</Form>
+        <Form Tag="R2S">сігналішся</Form>
+        <Form Tag="R3S">сігналіцца</Form>
+        <Form Tag="R1P">сігналімся</Form>
+        <Form Tag="R2P">сігналіцеся</Form>
+        <Form Tag="R3P">сігналяцца</Form>
+        <Form Tag="PXSM">сігналіўся</Form>
+        <Form Tag="PXSF">сігналілася</Form>
+        <Form Tag="PXSN">сігналілася</Form>
+        <Form Tag="PXPX">сігналіліся</Form>
+        <Form Tag="I2S">сігналься</Form>
+        <Form Tag="I2P">сігнальцеся</Form>
+        <Form Tag="RG">сігналячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1123553" Lemma="ска´ліцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">ска´ліцца</Form>
@@ -6115,6 +6259,22 @@
         <Form Tag="I2P" Checked="+">сла´ўцеся</Form>
         <Form Tag="RG" Checked="+">сла´вячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1123769" Lemma="слі´ніцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">слі´ніцца</Form>
+        <Form Tag="R1S" Checked="+">слі´нюся</Form>
+        <Form Tag="R2S" Checked="+">слі´нішся</Form>
+        <Form Tag="R3S" Checked="+">слі´ніцца</Form>
+        <Form Tag="R1P" Checked="+">слі´німся</Form>
+        <Form Tag="R2P" Checked="+">слі´ніцеся</Form>
+        <Form Tag="R3P" Checked="+">слі´няцца</Form>
+        <Form Tag="PXSM" Checked="+">слі´ніўся</Form>
+        <Form Tag="PXSF" Checked="+">слі´нілася</Form>
+        <Form Tag="PXSN" Checked="+">слі´нілася</Form>
+        <Form Tag="PXPX" Checked="+">слі´ніліся</Form>
+        <Form Tag="I2S" Checked="+">слі´нься</Form>
+        <Form Tag="I2P" Checked="+">слі´ньцеся</Form>
+        <Form Tag="RG" Checked="+">слі´нячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1123777" Lemma="служыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">служыцца</Form>
         <Form Tag="R1S">служуся</Form>
@@ -6146,22 +6306,6 @@
         <Form Tag="I2S" Checked="+">сляпі´ся</Form>
         <Form Tag="I2P" Checked="+">сляпі´цеся</Form>
         <Form Tag="RG" Checked="+">сле´пячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1123769" Lemma="слі´ніцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">слі´ніцца</Form>
-        <Form Tag="R1S" Checked="+">слі´нюся</Form>
-        <Form Tag="R2S" Checked="+">слі´нішся</Form>
-        <Form Tag="R3S" Checked="+">слі´ніцца</Form>
-        <Form Tag="R1P" Checked="+">слі´німся</Form>
-        <Form Tag="R2P" Checked="+">слі´ніцеся</Form>
-        <Form Tag="R3P" Checked="+">слі´няцца</Form>
-        <Form Tag="PXSM" Checked="+">слі´ніўся</Form>
-        <Form Tag="PXSF" Checked="+">слі´нілася</Form>
-        <Form Tag="PXSN" Checked="+">слі´нілася</Form>
-        <Form Tag="PXPX" Checked="+">слі´ніліся</Form>
-        <Form Tag="I2S" Checked="+">слі´нься</Form>
-        <Form Tag="I2P" Checked="+">слі´ньцеся</Form>
-        <Form Tag="RG" Checked="+">слі´нячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1123785" Lemma="смажыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">смажыцца</Form>
@@ -6581,38 +6725,6 @@
         <Form Tag="I2P" Checked="+">сялі´цеся</Form>
         <Form Tag="RG" Checked="+">се´лячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1123234" Lemma="сіверацца" Tag="VIMR2" Govern="">
-        <Form Tag="0">сіверацца</Form>
-        <Form Tag="R1S">сіверуся</Form>
-        <Form Tag="R2S">сіверышся</Form>
-        <Form Tag="R3S">сіверыцца</Form>
-        <Form Tag="R1P">сіверымся</Form>
-        <Form Tag="R2P">сіверыцеся</Form>
-        <Form Tag="R3P">сіверацца</Form>
-        <Form Tag="PXSM">сіверыўся</Form>
-        <Form Tag="PXSF">сіверылася</Form>
-        <Form Tag="PXSN">сіверылася</Form>
-        <Form Tag="PXPX">сіверыліся</Form>
-        <Form Tag="I2S">сіверся</Form>
-        <Form Tag="I2P">сіверцеся</Form>
-        <Form Tag="RG">сіверачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1123236" Lemma="сігналіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">сігналіцца</Form>
-        <Form Tag="R1S">сігналюся</Form>
-        <Form Tag="R2S">сігналішся</Form>
-        <Form Tag="R3S">сігналіцца</Form>
-        <Form Tag="R1P">сігналімся</Form>
-        <Form Tag="R2P">сігналіцеся</Form>
-        <Form Tag="R3P">сігналяцца</Form>
-        <Form Tag="PXSM">сігналіўся</Form>
-        <Form Tag="PXSF">сігналілася</Form>
-        <Form Tag="PXSN">сігналілася</Form>
-        <Form Tag="PXPX">сігналіліся</Form>
-        <Form Tag="I2S">сігналься</Form>
-        <Form Tag="I2P">сігнальцеся</Form>
-        <Form Tag="RG">сігналячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1124583" Lemma="табаніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">табаніцца</Form>
         <Form Tag="R1S">табанюся</Form>
@@ -6709,22 +6821,6 @@
         <Form Tag="I2P">танчыцеся</Form>
         <Form Tag="RG">танчачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124610" Lemma="тапы´рыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">тапы´рыцца</Form>
-        <Form Tag="R1S" Checked="+">тапы´руся</Form>
-        <Form Tag="R2S" Checked="+">тапы´рышся</Form>
-        <Form Tag="R3S" Checked="+">тапы´рыцца</Form>
-        <Form Tag="R1P" Checked="+">тапы´рымся</Form>
-        <Form Tag="R2P" Checked="+">тапы´рыцеся</Form>
-        <Form Tag="R3P" Checked="+">тапы´рацца</Form>
-        <Form Tag="PXSM" Checked="+">тапы´рыўся</Form>
-        <Form Tag="PXSF" Checked="+">тапы´рылася</Form>
-        <Form Tag="PXSN" Checked="+">тапы´рылася</Form>
-        <Form Tag="PXPX" Checked="+">тапы´рыліся</Form>
-        <Form Tag="I2S" Checked="+">тапы´рся</Form>
-        <Form Tag="I2P" Checked="+">тапы´рцеся</Form>
-        <Form Tag="RG" Checked="+">тапы´рачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1124679" Lemma="тапі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">тапі´цца</Form>
         <Form Tag="R1S" Checked="+">таплю´ся</Form>
@@ -6740,6 +6836,22 @@
         <Form Tag="I2S" Checked="+">тапі´ся</Form>
         <Form Tag="I2P" Checked="+">тапі´цеся</Form>
         <Form Tag="RG" Checked="+">то´пячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1124610" Lemma="тапы´рыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">тапы´рыцца</Form>
+        <Form Tag="R1S" Checked="+">тапы´руся</Form>
+        <Form Tag="R2S" Checked="+">тапы´рышся</Form>
+        <Form Tag="R3S" Checked="+">тапы´рыцца</Form>
+        <Form Tag="R1P" Checked="+">тапы´рымся</Form>
+        <Form Tag="R2P" Checked="+">тапы´рыцеся</Form>
+        <Form Tag="R3P" Checked="+">тапы´рацца</Form>
+        <Form Tag="PXSM" Checked="+">тапы´рыўся</Form>
+        <Form Tag="PXSF" Checked="+">тапы´рылася</Form>
+        <Form Tag="PXSN" Checked="+">тапы´рылася</Form>
+        <Form Tag="PXPX" Checked="+">тапы´рыліся</Form>
+        <Form Tag="I2S" Checked="+">тапы´рся</Form>
+        <Form Tag="I2P" Checked="+">тапы´рцеся</Form>
+        <Form Tag="RG" Checked="+">тапы´рачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124613" Lemma="тарабаніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">тарабаніцца</Form>
@@ -6837,22 +6949,6 @@
         <Form Tag="I2P">таросьцеся</Form>
         <Form Tag="RG">таросячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124685" Lemma="тачыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">тачыцца</Form>
-        <Form Tag="R1S">тачуся</Form>
-        <Form Tag="R2S">точышся</Form>
-        <Form Tag="R3S">точыцца</Form>
-        <Form Tag="R1P">точымся</Form>
-        <Form Tag="R2P">точыцеся</Form>
-        <Form Tag="R3P">точацца</Form>
-        <Form Tag="PXSM">тачыўся</Form>
-        <Form Tag="PXSF">тачылася</Form>
-        <Form Tag="PXSN">тачылася</Form>
-        <Form Tag="PXPX">тачыліся</Form>
-        <Form Tag="I2S">тачыся</Form>
-        <Form Tag="I2P">тачыцеся</Form>
-        <Form Tag="RG">точачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1124576" Lemma="таўсціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">таўсціцца</Form>
         <Form Tag="R1S">таўшчуся</Form>
@@ -6868,6 +6964,22 @@
         <Form Tag="I2S">таўсціся</Form>
         <Form Tag="I2P">таўсціцеся</Form>
         <Form Tag="RG">таўсцячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1124685" Lemma="тачыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">тачыцца</Form>
+        <Form Tag="R1S">тачуся</Form>
+        <Form Tag="R2S">точышся</Form>
+        <Form Tag="R3S">точыцца</Form>
+        <Form Tag="R1P">точымся</Form>
+        <Form Tag="R2P">точыцеся</Form>
+        <Form Tag="R3P">точацца</Form>
+        <Form Tag="PXSM">тачыўся</Form>
+        <Form Tag="PXSF">тачылася</Form>
+        <Form Tag="PXSN">тачылася</Form>
+        <Form Tag="PXPX">тачыліся</Form>
+        <Form Tag="I2S">тачыся</Form>
+        <Form Tag="I2P">тачыцеся</Form>
+        <Form Tag="RG">точачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124659" Lemma="тварожыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">тварожыцца</Form>
@@ -6949,22 +7061,6 @@
         <Form Tag="I2P">тоўпцеся</Form>
         <Form Tag="RG">тоўпячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124733" Lemma="тра´ціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">тра´ціцца</Form>
-        <Form Tag="R1S" Checked="+">тра´чуся</Form>
-        <Form Tag="R2S" Checked="+">тра´цішся</Form>
-        <Form Tag="R3S" Checked="+">тра´ціцца</Form>
-        <Form Tag="R1P" Checked="+">тра´цімся</Form>
-        <Form Tag="R2P" Checked="+">тра´ціцеся</Form>
-        <Form Tag="R3P" Checked="+">тра´цяцца</Form>
-        <Form Tag="PXSM" Checked="+">тра´ціўся</Form>
-        <Form Tag="PXSF" Checked="+">тра´цілася</Form>
-        <Form Tag="PXSN" Checked="+">тра´цілася</Form>
-        <Form Tag="PXPX" Checked="+">тра´ціліся</Form>
-        <Form Tag="I2S" Checked="+">тра´цься</Form>
-        <Form Tag="I2P" Checked="+">тра´цьцеся</Form>
-        <Form Tag="RG" Checked="+">тра´цячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1124691" Lemma="травіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">травіцца</Form>
         <Form Tag="R1S">траўлюся</Form>
@@ -6980,6 +7076,22 @@
         <Form Tag="I2S">траўся</Form>
         <Form Tag="I2P">траўцеся</Form>
         <Form Tag="RG">травячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1124736" Lemma="траіцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">траіцца</Form>
+        <Form Tag="R1S">траюся</Form>
+        <Form Tag="R2S">троішся</Form>
+        <Form Tag="R3S">троіцца</Form>
+        <Form Tag="R1P">троімся</Form>
+        <Form Tag="R2P">троіцеся</Form>
+        <Form Tag="R3P">трояцца</Form>
+        <Form Tag="PXSM">траіўся</Form>
+        <Form Tag="PXSF">траілася</Form>
+        <Form Tag="PXSN">траілася</Form>
+        <Form Tag="PXPX">траіліся</Form>
+        <Form Tag="I2S">траіся</Form>
+        <Form Tag="I2P">траіцеся</Form>
+        <Form Tag="RG">троячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124695" Lemma="траліцца" Tag="VIMR2" Govern="">
         <Form Tag="0">траліцца</Form>
@@ -7029,21 +7141,21 @@
         <Form Tag="I2P">трафарэцьцеся</Form>
         <Form Tag="RG">трафарэцячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124736" Lemma="траіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">траіцца</Form>
-        <Form Tag="R1S">траюся</Form>
-        <Form Tag="R2S">троішся</Form>
-        <Form Tag="R3S">троіцца</Form>
-        <Form Tag="R1P">троімся</Form>
-        <Form Tag="R2P">троіцеся</Form>
-        <Form Tag="R3P">трояцца</Form>
-        <Form Tag="PXSM">траіўся</Form>
-        <Form Tag="PXSF">траілася</Form>
-        <Form Tag="PXSN">траілася</Form>
-        <Form Tag="PXPX">траіліся</Form>
-        <Form Tag="I2S">траіся</Form>
-        <Form Tag="I2P">траіцеся</Form>
-        <Form Tag="RG">троячыся</Form>
+    <Paradigm pdgId="1124733" Lemma="тра´ціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">тра´ціцца</Form>
+        <Form Tag="R1S" Checked="+">тра´чуся</Form>
+        <Form Tag="R2S" Checked="+">тра´цішся</Form>
+        <Form Tag="R3S" Checked="+">тра´ціцца</Form>
+        <Form Tag="R1P" Checked="+">тра´цімся</Form>
+        <Form Tag="R2P" Checked="+">тра´ціцеся</Form>
+        <Form Tag="R3P" Checked="+">тра´цяцца</Form>
+        <Form Tag="PXSM" Checked="+">тра´ціўся</Form>
+        <Form Tag="PXSF" Checked="+">тра´цілася</Form>
+        <Form Tag="PXSN" Checked="+">тра´цілася</Form>
+        <Form Tag="PXPX" Checked="+">тра´ціліся</Form>
+        <Form Tag="I2S" Checked="+">тра´цься</Form>
+        <Form Tag="I2P" Checked="+">тра´цьцеся</Form>
+        <Form Tag="RG" Checked="+">тра´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124739" Lemma="трубіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">трубіцца</Form>
@@ -7493,6 +7605,38 @@
         <Form Tag="I2P">фарсіцеся</Form>
         <Form Tag="RG">фарсячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1126108" Lemma="фінціцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">фінціцца</Form>
+        <Form Tag="R1S">фінчуся</Form>
+        <Form Tag="R2S">фінцішся</Form>
+        <Form Tag="R3S">фінціцца</Form>
+        <Form Tag="R1P">фінцімся</Form>
+        <Form Tag="R2P">фінціцеся</Form>
+        <Form Tag="R3P">фінцяцца</Form>
+        <Form Tag="PXSM">фінціўся</Form>
+        <Form Tag="PXSF">фінцілася</Form>
+        <Form Tag="PXSN">фінцілася</Form>
+        <Form Tag="PXPX">фінціліся</Form>
+        <Form Tag="I2S">фінціся</Form>
+        <Form Tag="I2P">фінціцеся</Form>
+        <Form Tag="RG">фінцячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126110" Lemma="фіскаліцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">фіскаліцца</Form>
+        <Form Tag="R1S">фіскалюся</Form>
+        <Form Tag="R2S">фіскалішся</Form>
+        <Form Tag="R3S">фіскаліцца</Form>
+        <Form Tag="R1P">фіскалімся</Form>
+        <Form Tag="R2P">фіскаліцеся</Form>
+        <Form Tag="R3P">фіскаляцца</Form>
+        <Form Tag="PXSM">фіскаліўся</Form>
+        <Form Tag="PXSF">фіскалілася</Form>
+        <Form Tag="PXSN">фіскалілася</Form>
+        <Form Tag="PXPX">фіскаліліся</Form>
+        <Form Tag="I2S">фіскалься</Form>
+        <Form Tag="I2P">фіскальцеся</Form>
+        <Form Tag="RG">фіскалячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1126201" Lemma="фляйміцца" Tag="VIMR2" Govern="">
         <Form Tag="0">фляйміцца</Form>
         <Form Tag="R1S">фляймлюся</Form>
@@ -7540,38 +7684,6 @@
         <Form Tag="I2S">футболься</Form>
         <Form Tag="I2P">футбольцеся</Form>
         <Form Tag="RG">футболячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126108" Lemma="фінціцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">фінціцца</Form>
-        <Form Tag="R1S">фінчуся</Form>
-        <Form Tag="R2S">фінцішся</Form>
-        <Form Tag="R3S">фінціцца</Form>
-        <Form Tag="R1P">фінцімся</Form>
-        <Form Tag="R2P">фінціцеся</Form>
-        <Form Tag="R3P">фінцяцца</Form>
-        <Form Tag="PXSM">фінціўся</Form>
-        <Form Tag="PXSF">фінцілася</Form>
-        <Form Tag="PXSN">фінцілася</Form>
-        <Form Tag="PXPX">фінціліся</Form>
-        <Form Tag="I2S">фінціся</Form>
-        <Form Tag="I2P">фінціцеся</Form>
-        <Form Tag="RG">фінцячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126110" Lemma="фіскаліцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">фіскаліцца</Form>
-        <Form Tag="R1S">фіскалюся</Form>
-        <Form Tag="R2S">фіскалішся</Form>
-        <Form Tag="R3S">фіскаліцца</Form>
-        <Form Tag="R1P">фіскалімся</Form>
-        <Form Tag="R2P">фіскаліцеся</Form>
-        <Form Tag="R3P">фіскаляцца</Form>
-        <Form Tag="PXSM">фіскаліўся</Form>
-        <Form Tag="PXSF">фіскалілася</Form>
-        <Form Tag="PXSN">фіскалілася</Form>
-        <Form Tag="PXPX">фіскаліліся</Form>
-        <Form Tag="I2S">фіскалься</Form>
-        <Form Tag="I2P">фіскальцеся</Form>
-        <Form Tag="RG">фіскалячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126313" Lemma="хадзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">хадзіцца</Form>
@@ -7636,6 +7748,38 @@
         <Form Tag="I2S" Checked="+">хвалі´ся</Form>
         <Form Tag="I2P" Checked="+">хвалі´цеся</Form>
         <Form Tag="RG" Checked="+">хва´лячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126249" Lemma="хілі´цца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">хілі´цца</Form>
+        <Form Tag="R1S" Checked="+">хілю´ся</Form>
+        <Form Tag="R2S" Checked="+">хі´лішся</Form>
+        <Form Tag="R3S" Checked="+">хі´ліцца</Form>
+        <Form Tag="R1P" Checked="+">хі´лімся</Form>
+        <Form Tag="R2P" Checked="+">хі´ліцеся</Form>
+        <Form Tag="R3P" Checked="+">хі´ляцца</Form>
+        <Form Tag="PXSM" Checked="+">хілі´ўся</Form>
+        <Form Tag="PXSF" Checked="+">хілі´лася</Form>
+        <Form Tag="PXSN" Checked="+">хілі´лася</Form>
+        <Form Tag="PXPX" Checked="+">хілі´ліся</Form>
+        <Form Tag="I2S" Checked="+">хілі´ся</Form>
+        <Form Tag="I2P" Checked="+">хілі´цеся</Form>
+        <Form Tag="RG" Checked="+">хі´лячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126256" Lemma="хітрыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">хітрыцца</Form>
+        <Form Tag="R1S">хітруся</Form>
+        <Form Tag="R2S">хітрышся</Form>
+        <Form Tag="R3S">хітрыцца</Form>
+        <Form Tag="R1P">хітрымся</Form>
+        <Form Tag="R2P">хітрыцеся</Form>
+        <Form Tag="R3P">хітрацца</Form>
+        <Form Tag="PXSM">хітрыўся</Form>
+        <Form Tag="PXSF">хітрылася</Form>
+        <Form Tag="PXSN">хітрылася</Form>
+        <Form Tag="PXPX">хітрыліся</Form>
+        <Form Tag="I2S">хітрыся</Form>
+        <Form Tag="I2P">хітрыцеся</Form>
+        <Form Tag="RG">хітрачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126301" Lemma="хмарыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">хмарыцца</Form>
@@ -7781,38 +7925,6 @@
         <Form Tag="I2P" Checked="+">хрысці´цеся</Form>
         <Form Tag="RG" Checked="+">хры´сцячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1126249" Lemma="хілі´цца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">хілі´цца</Form>
-        <Form Tag="R1S" Checked="+">хілю´ся</Form>
-        <Form Tag="R2S" Checked="+">хі´лішся</Form>
-        <Form Tag="R3S" Checked="+">хі´ліцца</Form>
-        <Form Tag="R1P" Checked="+">хі´лімся</Form>
-        <Form Tag="R2P" Checked="+">хі´ліцеся</Form>
-        <Form Tag="R3P" Checked="+">хі´ляцца</Form>
-        <Form Tag="PXSM" Checked="+">хілі´ўся</Form>
-        <Form Tag="PXSF" Checked="+">хілі´лася</Form>
-        <Form Tag="PXSN" Checked="+">хілі´лася</Form>
-        <Form Tag="PXPX" Checked="+">хілі´ліся</Form>
-        <Form Tag="I2S" Checked="+">хілі´ся</Form>
-        <Form Tag="I2P" Checked="+">хілі´цеся</Form>
-        <Form Tag="RG" Checked="+">хі´лячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126256" Lemma="хітрыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">хітрыцца</Form>
-        <Form Tag="R1S">хітруся</Form>
-        <Form Tag="R2S">хітрышся</Form>
-        <Form Tag="R3S">хітрыцца</Form>
-        <Form Tag="R1P">хітрымся</Form>
-        <Form Tag="R2P">хітрыцеся</Form>
-        <Form Tag="R3P">хітрацца</Form>
-        <Form Tag="PXSM">хітрыўся</Form>
-        <Form Tag="PXSF">хітрылася</Form>
-        <Form Tag="PXSN">хітрылася</Form>
-        <Form Tag="PXPX">хітрыліся</Form>
-        <Form Tag="I2S">хітрыся</Form>
-        <Form Tag="I2P">хітрыцеся</Form>
-        <Form Tag="RG">хітрачыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1126426" Lemma="цадзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">цадзіцца</Form>
         <Form Tag="R1S">цаджуся</Form>
@@ -7877,6 +7989,22 @@
         <Form Tag="I2P">цвердзьцеся</Form>
         <Form Tag="RG">цвердзячыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1126376" Lemma="цвічыцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">цвічыцца</Form>
+        <Form Tag="R1S">цвічуся</Form>
+        <Form Tag="R2S">цвічышся</Form>
+        <Form Tag="R3S">цвічыцца</Form>
+        <Form Tag="R1P">цвічымся</Form>
+        <Form Tag="R2P">цвічыцеся</Form>
+        <Form Tag="R3P">цвічацца</Form>
+        <Form Tag="PXSM">цвічыўся</Form>
+        <Form Tag="PXSF">цвічылася</Form>
+        <Form Tag="PXSN">цвічылася</Form>
+        <Form Tag="PXPX">цвічыліся</Form>
+        <Form Tag="I2S">цвічся</Form>
+        <Form Tag="I2P">цвічцеся</Form>
+        <Form Tag="RG">цвічачыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1126384" Lemma="цвялі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">цвялі´цца</Form>
         <Form Tag="R1S" Checked="+">цвялю´ся</Form>
@@ -7908,38 +8036,6 @@
         <Form Tag="I2S">цвярозься</Form>
         <Form Tag="I2P">цвярозьцеся</Form>
         <Form Tag="RG">цвярозячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126376" Lemma="цвічыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">цвічыцца</Form>
-        <Form Tag="R1S">цвічуся</Form>
-        <Form Tag="R2S">цвічышся</Form>
-        <Form Tag="R3S">цвічыцца</Form>
-        <Form Tag="R1P">цвічымся</Form>
-        <Form Tag="R2P">цвічыцеся</Form>
-        <Form Tag="R3P">цвічацца</Form>
-        <Form Tag="PXSM">цвічыўся</Form>
-        <Form Tag="PXSF">цвічылася</Form>
-        <Form Tag="PXSN">цвічылася</Form>
-        <Form Tag="PXPX">цвічыліся</Form>
-        <Form Tag="I2S">цвічся</Form>
-        <Form Tag="I2P">цвічцеся</Form>
-        <Form Tag="RG">цвічачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126400" Lemma="це´шыцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">це´шыцца</Form>
-        <Form Tag="R1S" Checked="+">це´шуся</Form>
-        <Form Tag="R2S" Checked="+">це´шышся</Form>
-        <Form Tag="R3S" Checked="+">це´шыцца</Form>
-        <Form Tag="R1P" Checked="+">це´шымся</Form>
-        <Form Tag="R2P" Checked="+">це´шыцеся</Form>
-        <Form Tag="R3P" Checked="+">це´шацца</Form>
-        <Form Tag="PXSM" Checked="+">це´шыўся</Form>
-        <Form Tag="PXSF" Checked="+">це´шылася</Form>
-        <Form Tag="PXSN" Checked="+">це´шылася</Form>
-        <Form Tag="PXPX" Checked="+">це´шыліся</Form>
-        <Form Tag="I2S" Checked="+">це´шся</Form>
-        <Form Tag="I2P" Checked="+">це´шцеся</Form>
-        <Form Tag="RG" Checked="+">це´шачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126471" Lemma="церабі´цца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">церабі´цца</Form>
@@ -7989,6 +8085,38 @@
         <Form Tag="I2P">церушыцеся</Form>
         <Form Tag="RG">церушачыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1126400" Lemma="це´шыцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">це´шыцца</Form>
+        <Form Tag="R1S" Checked="+">це´шуся</Form>
+        <Form Tag="R2S" Checked="+">це´шышся</Form>
+        <Form Tag="R3S" Checked="+">це´шыцца</Form>
+        <Form Tag="R1P" Checked="+">це´шымся</Form>
+        <Form Tag="R2P" Checked="+">це´шыцеся</Form>
+        <Form Tag="R3P" Checked="+">це´шацца</Form>
+        <Form Tag="PXSM" Checked="+">це´шыўся</Form>
+        <Form Tag="PXSF" Checked="+">це´шылася</Form>
+        <Form Tag="PXSN" Checked="+">це´шылася</Form>
+        <Form Tag="PXPX" Checked="+">це´шыліся</Form>
+        <Form Tag="I2S" Checked="+">це´шся</Form>
+        <Form Tag="I2P" Checked="+">це´шцеся</Form>
+        <Form Tag="RG" Checked="+">це´шачыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126350" Lemma="ціка´віцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">ціка´віцца</Form>
+        <Form Tag="R1S" Checked="+">ціка´ўлюся</Form>
+        <Form Tag="R2S" Checked="+">ціка´вішся</Form>
+        <Form Tag="R3S" Checked="+">ціка´віцца</Form>
+        <Form Tag="R1P" Checked="+">ціка´вімся</Form>
+        <Form Tag="R2P" Checked="+">ціка´віцеся</Form>
+        <Form Tag="R3P" Checked="+">ціка´вяцца</Form>
+        <Form Tag="PXSM" Checked="+">ціка´віўся</Form>
+        <Form Tag="PXSF" Checked="+">ціка´вілася</Form>
+        <Form Tag="PXSN" Checked="+">ціка´вілася</Form>
+        <Form Tag="PXPX" Checked="+">ціка´віліся</Form>
+        <Form Tag="I2S" Checked="+">ціка´ўся</Form>
+        <Form Tag="I2P" Checked="+">ціка´ўцеся</Form>
+        <Form Tag="RG" Checked="+">ціка´вячыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1126420" Lemma="цырымо´ніцца" Tag="VIMR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">цырымо´ніцца</Form>
         <Form Tag="R1S" Checked="+">цырымо´нюся</Form>
@@ -8037,22 +8165,6 @@
         <Form Tag="I2P">цяліцеся</Form>
         <Form Tag="RG">цялячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1126459" Lemma="цямніцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">цямніцца</Form>
-        <Form Tag="R1S">цямнюся</Form>
-        <Form Tag="R2S">цямнішся</Form>
-        <Form Tag="R3S">цямніцца</Form>
-        <Form Tag="R1P">цямнімся</Form>
-        <Form Tag="R2P">цямніцеся</Form>
-        <Form Tag="R3P">цямняцца</Form>
-        <Form Tag="PXSM">цямніўся</Form>
-        <Form Tag="PXSF">цямнілася</Form>
-        <Form Tag="PXSN">цямнілася</Form>
-        <Form Tag="PXPX">цямніліся</Form>
-        <Form Tag="I2S">цямніся</Form>
-        <Form Tag="I2P">цямніцеся</Form>
-        <Form Tag="RG">цямнячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1126457" Lemma="цяміцца" Tag="VIMR2" Govern="">
         <Form Tag="0">цяміцца</Form>
         <Form Tag="R1S">цямлюся</Form>
@@ -8068,6 +8180,22 @@
         <Form Tag="I2S">цямся</Form>
         <Form Tag="I2P">цямцеся</Form>
         <Form Tag="RG">цямячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126459" Lemma="цямніцца" Tag="VIMR2" Govern="">
+        <Form Tag="0">цямніцца</Form>
+        <Form Tag="R1S">цямнюся</Form>
+        <Form Tag="R2S">цямнішся</Form>
+        <Form Tag="R3S">цямніцца</Form>
+        <Form Tag="R1P">цямнімся</Form>
+        <Form Tag="R2P">цямніцеся</Form>
+        <Form Tag="R3P">цямняцца</Form>
+        <Form Tag="PXSM">цямніўся</Form>
+        <Form Tag="PXSF">цямнілася</Form>
+        <Form Tag="PXSN">цямнілася</Form>
+        <Form Tag="PXPX">цямніліся</Form>
+        <Form Tag="I2S">цямніся</Form>
+        <Form Tag="I2P">цямніцеся</Form>
+        <Form Tag="RG">цямнячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126463" Lemma="цяніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">цяніцца</Form>
@@ -8133,22 +8261,6 @@
         <Form Tag="I2S" Checked="+">цясні´ся</Form>
         <Form Tag="I2P" Checked="+">цясні´цеся</Form>
         <Form Tag="RG" Checked="+">це´снячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126350" Lemma="ціка´віцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">ціка´віцца</Form>
-        <Form Tag="R1S" Checked="+">ціка´ўлюся</Form>
-        <Form Tag="R2S" Checked="+">ціка´вішся</Form>
-        <Form Tag="R3S" Checked="+">ціка´віцца</Form>
-        <Form Tag="R1P" Checked="+">ціка´вімся</Form>
-        <Form Tag="R2P" Checked="+">ціка´віцеся</Form>
-        <Form Tag="R3P" Checked="+">ціка´вяцца</Form>
-        <Form Tag="PXSM" Checked="+">ціка´віўся</Form>
-        <Form Tag="PXSF" Checked="+">ціка´вілася</Form>
-        <Form Tag="PXSN" Checked="+">ціка´вілася</Form>
-        <Form Tag="PXPX" Checked="+">ціка´віліся</Form>
-        <Form Tag="I2S" Checked="+">ціка´ўся</Form>
-        <Form Tag="I2P" Checked="+">ціка´ўцеся</Form>
-        <Form Tag="RG" Checked="+">ціка´вячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126482" Lemma="чаканіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">чаканіцца</Form>
@@ -8284,22 +8396,6 @@
         <Form Tag="I2P" Checked="+">чу´бцеся</Form>
         <Form Tag="RG" Checked="+">чу´бячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1126548" Lemma="чы´сціцца" Tag="VIMR2" Govern="" Checked="+">
-        <Form Tag="0" Checked="+">чы´сціцца</Form>
-        <Form Tag="R1S" Checked="+">чы´шчуся</Form>
-        <Form Tag="R2S" Checked="+">чы´сцішся</Form>
-        <Form Tag="R3S" Checked="+">чы´сціцца</Form>
-        <Form Tag="R1P" Checked="+">чы´сцімся</Form>
-        <Form Tag="R2P" Checked="+">чы´сціцеся</Form>
-        <Form Tag="R3P" Checked="+">чы´сцяцца</Form>
-        <Form Tag="PXSM" Checked="+">чы´сціўся</Form>
-        <Form Tag="PXSF" Checked="+">чы´сцілася</Form>
-        <Form Tag="PXSN" Checked="+">чы´сцілася</Form>
-        <Form Tag="PXPX" Checked="+">чы´сціліся</Form>
-        <Form Tag="I2S" Checked="+">чы´сціся</Form>
-        <Form Tag="I2P" Checked="+">чы´сціцеся</Form>
-        <Form Tag="RG" Checked="+">чы´сцячыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1126536" Lemma="чыніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">чыніцца</Form>
         <Form Tag="R1S">чынюся</Form>
@@ -8331,6 +8427,22 @@
         <Form Tag="I2S" Checked="+">чырвані´ся</Form>
         <Form Tag="I2P" Checked="+">чырвані´цеся</Form>
         <Form Tag="RG" Checked="+">чырво´нячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126548" Lemma="чы´сціцца" Tag="VIMR2" Govern="" Checked="+">
+        <Form Tag="0" Checked="+">чы´сціцца</Form>
+        <Form Tag="R1S" Checked="+">чы´шчуся</Form>
+        <Form Tag="R2S" Checked="+">чы´сцішся</Form>
+        <Form Tag="R3S" Checked="+">чы´сціцца</Form>
+        <Form Tag="R1P" Checked="+">чы´сцімся</Form>
+        <Form Tag="R2P" Checked="+">чы´сціцеся</Form>
+        <Form Tag="R3P" Checked="+">чы´сцяцца</Form>
+        <Form Tag="PXSM" Checked="+">чы´сціўся</Form>
+        <Form Tag="PXSF" Checked="+">чы´сцілася</Form>
+        <Form Tag="PXSN" Checked="+">чы´сцілася</Form>
+        <Form Tag="PXPX" Checked="+">чы´сціліся</Form>
+        <Form Tag="I2S" Checked="+">чы´сціся</Form>
+        <Form Tag="I2P" Checked="+">чы´сціцеся</Form>
+        <Form Tag="RG" Checked="+">чы´сцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126559" Lemma="шабрыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">шабрыцца</Form>
@@ -8667,117 +8779,5 @@
         <Form Tag="I2S">ятрыся</Form>
         <Form Tag="I2P">ятрыцеся</Form>
         <Form Tag="RG">ятрачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104614" Lemma="ільсніцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">ільсніцца</Form>
-        <Form Tag="R1S">ільснюся</Form>
-        <Form Tag="R2S">ільснішся</Form>
-        <Form Tag="R3S">ільсніцца</Form>
-        <Form Tag="R1P">ільснімся</Form>
-        <Form Tag="R2P">ільсніцеся</Form>
-        <Form Tag="R3P">ільсняцца</Form>
-        <Form Tag="PXSM">ільсніўся</Form>
-        <Form Tag="PXSF">ільснілася</Form>
-        <Form Tag="PXSN">ільснілася</Form>
-        <Form Tag="PXPX">ільсніліся</Form>
-        <Form Tag="I2S">ільсніся</Form>
-        <Form Tag="I2P">ільсніцеся</Form>
-        <Form Tag="RG">ільснячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104624" Lemma="імгліцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">імгліцца</Form>
-        <Form Tag="R1S">імглюся</Form>
-        <Form Tag="R2S">імглішся</Form>
-        <Form Tag="R3S">імгліцца</Form>
-        <Form Tag="R1P">імглімся</Form>
-        <Form Tag="R2P">імгліцеся</Form>
-        <Form Tag="R3P">імгляцца</Form>
-        <Form Tag="PXSM">імгліўся</Form>
-        <Form Tag="PXSF">імглілася</Form>
-        <Form Tag="PXSN">імглілася</Form>
-        <Form Tag="PXPX">імгліліся</Form>
-        <Form Tag="I2S">імгліся</Form>
-        <Form Tag="I2P">імгліцеся</Form>
-        <Form Tag="RG">імглячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104637" Lemma="імчацца" Tag="VIMR2" Govern="">
-        <Form Tag="0">імчацца</Form>
-        <Form Tag="R1S">імчуся</Form>
-        <Form Tag="R2S">імчышся</Form>
-        <Form Tag="R3S">імчыцца</Form>
-        <Form Tag="R1P">імчымся</Form>
-        <Form Tag="R2P">імчыцеся</Form>
-        <Form Tag="R3P">імчацца</Form>
-        <Form Tag="PXSM">імчаўся</Form>
-        <Form Tag="PXSF">імчалася</Form>
-        <Form Tag="PXSN">імчалася</Form>
-        <Form Tag="PXPX">імчаліся</Form>
-        <Form Tag="I2S">імчыся</Form>
-        <Form Tag="I2P">імчыцеся</Form>
-        <Form Tag="RG">імчучыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104639" Lemma="імшыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">імшыцца</Form>
-        <Form Tag="R1S">імшуся</Form>
-        <Form Tag="R2S">імшышся</Form>
-        <Form Tag="R3S">імшыцца</Form>
-        <Form Tag="R1P">імшымся</Form>
-        <Form Tag="R2P">імшыцеся</Form>
-        <Form Tag="R3P">імшацца</Form>
-        <Form Tag="PXSM">імшыўся</Form>
-        <Form Tag="PXSF">імшылася</Form>
-        <Form Tag="PXSN">імшылася</Form>
-        <Form Tag="PXPX">імшыліся</Form>
-        <Form Tag="I2S">імшыся</Form>
-        <Form Tag="I2P">імшыцеся</Form>
-        <Form Tag="RG">імшачыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104745" Lemma="іржавіцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">іржавіцца</Form>
-        <Form Tag="R1S">іржаўлюся</Form>
-        <Form Tag="R2S">іржавішся</Form>
-        <Form Tag="R3S">іржавіцца</Form>
-        <Form Tag="R1P">іржавімся</Form>
-        <Form Tag="R2P">іржавіцеся</Form>
-        <Form Tag="R3P">іржавяцца</Form>
-        <Form Tag="PXSM">іржавіўся</Form>
-        <Form Tag="PXSF">іржавілася</Form>
-        <Form Tag="PXSN">іржавілася</Form>
-        <Form Tag="PXPX">іржавіліся</Form>
-        <Form Tag="I2S">іржаўся</Form>
-        <Form Tag="I2P">іржаўцеся</Form>
-        <Form Tag="RG">іржавячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104743" Lemma="іржацца" Tag="VIMR2" Govern="">
-        <Form Tag="0">іржацца</Form>
-        <Form Tag="R1S">іржуся</Form>
-        <Form Tag="R2S">іржышся</Form>
-        <Form Tag="R3S">іржыцца</Form>
-        <Form Tag="R1P">іржымся</Form>
-        <Form Tag="R2P">іржыцеся</Form>
-        <Form Tag="R3P">іржацца</Form>
-        <Form Tag="PXSM">іржаўся</Form>
-        <Form Tag="PXSF">іржалася</Form>
-        <Form Tag="PXSN">іржалася</Form>
-        <Form Tag="PXPX">іржаліся</Form>
-        <Form Tag="I2S">іржыся</Form>
-        <Form Tag="I2P">іржыцеся</Form>
-        <Form Tag="RG">іржучыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104750" Lemma="іскрыцца" Tag="VIMR2" Govern="">
-        <Form Tag="0">іскрыцца</Form>
-        <Form Tag="R1S">іскруся</Form>
-        <Form Tag="R2S">іскрышся</Form>
-        <Form Tag="R3S">іскрыцца</Form>
-        <Form Tag="R1P">іскрымся</Form>
-        <Form Tag="R2P">іскрыцеся</Form>
-        <Form Tag="R3P">іскрацца</Form>
-        <Form Tag="PXSM">іскрыўся</Form>
-        <Form Tag="PXSF">іскрылася</Form>
-        <Form Tag="PXSN">іскрылася</Form>
-        <Form Tag="PXPX">іскрыліся</Form>
-        <Form Tag="I2S">іскрыся</Form>
-        <Form Tag="I2P">іскрыцеся</Form>
-        <Form Tag="RG">іскрачыся</Form>
     </Paradigm>
 </Wordlist>

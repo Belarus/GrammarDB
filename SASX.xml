@@ -35,6 +35,64 @@
         <Form Tag="XIP">вашымі</Form>
         <Form Tag="XLP">вашых</Form>
     </Paradigm>
+    <Paradigm pdgId="1127624" Lemma="іхні" Tag="SASX">
+        <Form Tag="MNS">іхні</Form>
+        <Form Tag="MGS">іхняга</Form>
+        <Form Tag="MDS">іхняму</Form>
+        <Form Tag="MAS">іхні</Form>
+        <Form Tag="MAS">іхняга</Form>
+        <Form Tag="MIS">іхнім</Form>
+        <Form Tag="MLS">іхнім</Form>
+        <Form Tag="FNS">іхняя</Form>
+        <Form Tag="FGS">іхняй</Form>
+        <Form Tag="FGS">іхняе</Form>
+        <Form Tag="FDS">іхняй</Form>
+        <Form Tag="FAS">іхнюю</Form>
+        <Form Tag="FIS">іхняй</Form>
+        <Form Tag="FIS">іхняю</Form>
+        <Form Tag="FLS">іхняй</Form>
+        <Form Tag="NNS">іхняе</Form>
+        <Form Tag="NGS">іхняга</Form>
+        <Form Tag="NDS">іхняму</Form>
+        <Form Tag="NAS">іхняе</Form>
+        <Form Tag="NIS">іхнім</Form>
+        <Form Tag="NLS">іхнім</Form>
+        <Form Tag="XNP">іхнія</Form>
+        <Form Tag="XGP">іхніх</Form>
+        <Form Tag="XDP">іхнім</Form>
+        <Form Tag="XAP">іхнія</Form>
+        <Form Tag="XIP">іхнімі</Form>
+        <Form Tag="XLP">іхніх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127625" Lemma="іхны" Tag="SASX">
+        <Form Tag="MNS">іхны</Form>
+        <Form Tag="MGS">іхнага</Form>
+        <Form Tag="MDS">іхнаму</Form>
+        <Form Tag="MAS">іхны</Form>
+        <Form Tag="MAS">іхнага</Form>
+        <Form Tag="MIS">іхным</Form>
+        <Form Tag="MLS">іхным</Form>
+        <Form Tag="FNS">іхная</Form>
+        <Form Tag="FGS">іхнай</Form>
+        <Form Tag="FGS">іхнае</Form>
+        <Form Tag="FDS">іхнай</Form>
+        <Form Tag="FAS">іхную</Form>
+        <Form Tag="FIS">іхнай</Form>
+        <Form Tag="FIS">іхнаю</Form>
+        <Form Tag="FLS">іхнай</Form>
+        <Form Tag="NNS">іхнае</Form>
+        <Form Tag="NGS">іхнага</Form>
+        <Form Tag="NDS">іхнаму</Form>
+        <Form Tag="NAS">іхнае</Form>
+        <Form Tag="NIS">іхным</Form>
+        <Form Tag="NLS">іхным</Form>
+        <Form Tag="XNP">іхныя</Form>
+        <Form Tag="XGP">іхных</Form>
+        <Form Tag="XDP">іхным</Form>
+        <Form Tag="XAP">іхныя</Form>
+        <Form Tag="XIP">іхнымі</Form>
+        <Form Tag="XLP">іхных</Form>
+    </Paradigm>
     <Paradigm pdgId="1127870" Lemma="мой" Tag="SASX">
         <Form Tag="MNS">мой</Form>
         <Form Tag="MGS">майго</Form>
@@ -175,63 +233,5 @@
         <Form Tag="XAP">ягоныя</Form>
         <Form Tag="XIP">ягонымі</Form>
         <Form Tag="XLP">ягоных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127625" Lemma="іхны" Tag="SASX">
-        <Form Tag="MNS">іхны</Form>
-        <Form Tag="MGS">іхнага</Form>
-        <Form Tag="MDS">іхнаму</Form>
-        <Form Tag="MAS">іхны</Form>
-        <Form Tag="MAS">іхнага</Form>
-        <Form Tag="MIS">іхным</Form>
-        <Form Tag="MLS">іхным</Form>
-        <Form Tag="FNS">іхная</Form>
-        <Form Tag="FGS">іхнай</Form>
-        <Form Tag="FGS">іхнае</Form>
-        <Form Tag="FDS">іхнай</Form>
-        <Form Tag="FAS">іхную</Form>
-        <Form Tag="FIS">іхнай</Form>
-        <Form Tag="FIS">іхнаю</Form>
-        <Form Tag="FLS">іхнай</Form>
-        <Form Tag="NNS">іхнае</Form>
-        <Form Tag="NGS">іхнага</Form>
-        <Form Tag="NDS">іхнаму</Form>
-        <Form Tag="NAS">іхнае</Form>
-        <Form Tag="NIS">іхным</Form>
-        <Form Tag="NLS">іхным</Form>
-        <Form Tag="XNP">іхныя</Form>
-        <Form Tag="XGP">іхных</Form>
-        <Form Tag="XDP">іхным</Form>
-        <Form Tag="XAP">іхныя</Form>
-        <Form Tag="XIP">іхнымі</Form>
-        <Form Tag="XLP">іхных</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127624" Lemma="іхні" Tag="SASX">
-        <Form Tag="MNS">іхні</Form>
-        <Form Tag="MGS">іхняга</Form>
-        <Form Tag="MDS">іхняму</Form>
-        <Form Tag="MAS">іхні</Form>
-        <Form Tag="MAS">іхняга</Form>
-        <Form Tag="MIS">іхнім</Form>
-        <Form Tag="MLS">іхнім</Form>
-        <Form Tag="FNS">іхняя</Form>
-        <Form Tag="FGS">іхняй</Form>
-        <Form Tag="FGS">іхняе</Form>
-        <Form Tag="FDS">іхняй</Form>
-        <Form Tag="FAS">іхнюю</Form>
-        <Form Tag="FIS">іхняй</Form>
-        <Form Tag="FIS">іхняю</Form>
-        <Form Tag="FLS">іхняй</Form>
-        <Form Tag="NNS">іхняе</Form>
-        <Form Tag="NGS">іхняга</Form>
-        <Form Tag="NDS">іхняму</Form>
-        <Form Tag="NAS">іхняе</Form>
-        <Form Tag="NIS">іхнім</Form>
-        <Form Tag="NLS">іхнім</Form>
-        <Form Tag="XNP">іхнія</Form>
-        <Form Tag="XGP">іхніх</Form>
-        <Form Tag="XDP">іхнім</Form>
-        <Form Tag="XAP">іхнія</Form>
-        <Form Tag="XIP">іхнімі</Form>
-        <Form Tag="XLP">іхніх</Form>
     </Paradigm>
 </Wordlist>

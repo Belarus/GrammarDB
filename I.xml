@@ -147,11 +147,11 @@
     <Paradigm pdgId="1160135" Lemma="вокала" Tag="I" Govern="+G">
         <Form Tag="X">вокала</Form>
     </Paradigm>
-    <Paradigm pdgId="1160049" Lemma="выключаючы" Tag="I" Govern="+A">
-        <Form Tag="X">выключаючы</Form>
-    </Paradigm>
     <Paradigm pdgId="1104221" Lemma="выклікаючы" Tag="I" Govern="+A">
         <Form Tag="X">выклікаючы</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160049" Lemma="выключаючы" Tag="I" Govern="+A">
+        <Form Tag="X">выключаючы</Form>
     </Paradigm>
     <Paradigm pdgId="1160084" Lemma="высока над" Tag="I" Govern="+I">
         <Form Tag="X">высока над</Form>
@@ -223,63 +223,6 @@
         <Form Tag="X">са</Form>
         <Form Tag="X">со</Form>
     </Paradigm>
-    <Paradigm pdgId="1104230" Lemma="з боку" Tag="I" Govern="+G">
-        <Form Tag="X">з боку</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159967" Lemma="з боку ад" Tag="I" Govern="+G">
-        <Form Tag="X">з боку ад</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160114" Lemma="з гадоў" Tag="I" Govern="+G">
-        <Form Tag="X">з гадоў</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104231" Lemma="з дапамогай" Tag="I" Govern="+G">
-        <Form Tag="X">з дапамогай</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159957" Lemma="з краю" Tag="I" Govern="+G">
-        <Form Tag="X">з краю</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104232" Lemma="з ліку" Tag="I" Govern="+G">
-        <Form Tag="X">з ліку</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104233" Lemma="з мэтай" Tag="I" Govern="+G">
-        <Form Tag="X">з мэтай</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159983" Lemma="з нагоды" Tag="I" Govern="+G">
-        <Form Tag="X">з нагоды</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104234" Lemma="з прычыны" Tag="I" Govern="+G">
-        <Form Tag="X">з прычыны</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104235" Lemma="з цягам" Tag="I" Govern="+G">
-        <Form Tag="X">з цягам</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160028" Lemma="з часоў" Tag="I" Govern="+G">
-        <Form Tag="X">з часоў</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104236" Lemma="з часу" Tag="I" Govern="+G">
-        <Form Tag="X">з часу</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104237" Lemma="з-за" Tag="I" Govern="+G">
-        <Form Tag="X">з-за</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104238" Lemma="з-над" Tag="I" Govern="+G">
-        <Form Tag="X">з-над</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104239" Lemma="з-па-за" Tag="I" Govern="+G">
-        <Form Tag="X">з-па-за</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104240" Lemma="з-па-над" Tag="I" Govern="+G">
-        <Form Tag="X">з-па-над</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104241" Lemma="з-пад" Tag="I" Govern="+G">
-        <Form Tag="X">з-пад</Form>
-    </Paradigm>
-    <Paradigm pdgId="1138993" Lemma="з-пада" Tag="I" Govern="+G">
-        <Form Tag="X">з-пада</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160102" Lemma="з-прад" Tag="I" Govern="+G">
-        <Form Tag="X">з-прад</Form>
-    </Paradigm>
     <Paradigm pdgId="1104242" Lemma="за" Tag="I" Govern="+A, +I, *G">
         <Form Tag="X">за</Form>
     </Paradigm>
@@ -307,8 +250,14 @@
     <Paradigm pdgId="1104245" Lemma="збоку" Tag="I" Govern="+G">
         <Form Tag="X">збоку</Form>
     </Paradigm>
+    <Paradigm pdgId="1104230" Lemma="з боку" Tag="I" Govern="+G">
+        <Form Tag="X">з боку</Form>
+    </Paradigm>
     <Paradigm pdgId="1159891" Lemma="збоку ад" Tag="I" Govern="+G">
         <Form Tag="X">збоку ад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159967" Lemma="з боку ад" Tag="I" Govern="+G">
+        <Form Tag="X">з боку ад</Form>
     </Paradigm>
     <Paradigm pdgId="1104246" Lemma="зверху" Tag="I" Govern="+G">
         <Form Tag="X">зверху</Form>
@@ -316,20 +265,71 @@
     <Paradigm pdgId="1104247" Lemma="звыш" Tag="I" Govern="+G">
         <Form Tag="X">звыш</Form>
     </Paradigm>
+    <Paradigm pdgId="1160114" Lemma="з гадоў" Tag="I" Govern="+G">
+        <Form Tag="X">з гадоў</Form>
+    </Paradigm>
     <Paradigm pdgId="1104248" Lemma="згодна" Tag="I" Govern="+G, +D">
         <Form Tag="X">згодна</Form>
     </Paradigm>
     <Paradigm pdgId="1159896" Lemma="згодна з" Tag="I" Govern="+I">
         <Form Tag="X">згодна з</Form>
     </Paradigm>
+    <Paradigm pdgId="1104231" Lemma="з дапамогай" Tag="I" Govern="+G">
+        <Form Tag="X">з дапамогай</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104237" Lemma="з-за" Tag="I" Govern="+G">
+        <Form Tag="X">з-за</Form>
+    </Paradigm>
     <Paradigm pdgId="1104249" Lemma="ззаду" Tag="I" Govern="+G">
         <Form Tag="X">ззаду</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159957" Lemma="з краю" Tag="I" Govern="+G">
+        <Form Tag="X">з краю</Form>
     </Paradigm>
     <Paradigm pdgId="1104250" Lemma="злева" Tag="I" Govern="+G">
         <Form Tag="X">злева</Form>
     </Paradigm>
+    <Paradigm pdgId="1104232" Lemma="з ліку" Tag="I" Govern="+G">
+        <Form Tag="X">з ліку</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104233" Lemma="з мэтай" Tag="I" Govern="+G">
+        <Form Tag="X">з мэтай</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159983" Lemma="з нагоды" Tag="I" Govern="+G">
+        <Form Tag="X">з нагоды</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104238" Lemma="з-над" Tag="I" Govern="+G">
+        <Form Tag="X">з-над</Form>
+    </Paradigm>
     <Paradigm pdgId="1160075" Lemma="знізу" Tag="I" Govern="+G">
         <Form Tag="X">знізу</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104241" Lemma="з-пад" Tag="I" Govern="+G">
+        <Form Tag="X">з-пад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1138993" Lemma="з-пада" Tag="I" Govern="+G">
+        <Form Tag="X">з-пада</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104239" Lemma="з-па-за" Tag="I" Govern="+G">
+        <Form Tag="X">з-па-за</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104240" Lemma="з-па-над" Tag="I" Govern="+G">
+        <Form Tag="X">з-па-над</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160102" Lemma="з-прад" Tag="I" Govern="+G">
+        <Form Tag="X">з-прад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104234" Lemma="з прычыны" Tag="I" Govern="+G">
+        <Form Tag="X">з прычыны</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104235" Lemma="з цягам" Tag="I" Govern="+G">
+        <Form Tag="X">з цягам</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160028" Lemma="з часоў" Tag="I" Govern="+G">
+        <Form Tag="X">з часоў</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104236" Lemma="з часу" Tag="I" Govern="+G">
+        <Form Tag="X">з часу</Form>
     </Paradigm>
     <Paradigm pdgId="1104251" Lemma="к" Tag="I" Govern="+D">
         <Form Tag="X">к</Form>
@@ -372,6 +372,9 @@
     <Paradigm pdgId="1104257" Lemma="на" Tag="I" Govern="+A, +L">
         <Form Tag="X">на</Form>
     </Paradigm>
+    <Paradigm pdgId="1104263" Lemma="наабапал" Tag="I" Govern="+G">
+        <Form Tag="X">наабапал</Form>
+    </Paradigm>
     <Paradigm pdgId="1159928" Lemma="на адрас" Tag="I" Govern="+G">
         <Form Tag="X">на адрас</Form>
     </Paradigm>
@@ -386,39 +389,6 @@
     </Paradigm>
     <Paradigm pdgId="1160044" Lemma="на бок" Tag="I" Govern="+G">
         <Form Tag="X">на бок</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160064" Lemma="на змен" Tag="I" Govern="+D">
-        <Form Tag="X">на змен</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160096" Lemma="на змену" Tag="I" Govern="+D">
-        <Form Tag="X">на змену</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104259" Lemma="на манер" Tag="I" Govern="+G">
-        <Form Tag="X">на манер</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160026" Lemma="на паверсе" Tag="I" Govern="+G">
-        <Form Tag="X">на паверсе</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159968" Lemma="на паказ" Tag="I" Govern="+D">
-        <Form Tag="X">на паказ</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160138" Lemma="на пераддзенні" Tag="I" Govern="+G">
-        <Form Tag="X">на пераддзенні</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104260" Lemma="на працягу" Tag="I" Govern="+G">
-        <Form Tag="X">на працягу</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104261" Lemma="на чале" Tag="I" Govern="+G">
-        <Form Tag="X">на чале</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104262" Lemma="на чале з" Tag="I" Govern="+I">
-        <Form Tag="X">на чале з</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159960" Lemma="на шляху" Tag="I" Govern="+G">
-        <Form Tag="X">на шляху</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104263" Lemma="наабапал" Tag="I" Govern="+G">
-        <Form Tag="X">наабапал</Form>
     </Paradigm>
     <Paradigm pdgId="1138995" Lemma="навакол" Tag="I" Govern="+G">
         <Form Tag="X">навакол</Form>
@@ -469,6 +439,12 @@
     <Paradigm pdgId="1160003" Lemma="назло" Tag="I" Govern="+D">
         <Form Tag="X">назло</Form>
     </Paradigm>
+    <Paradigm pdgId="1160064" Lemma="на змен" Tag="I" Govern="+D">
+        <Form Tag="X">на змен</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160096" Lemma="на змену" Tag="I" Govern="+D">
+        <Form Tag="X">на змену</Form>
+    </Paradigm>
     <Paradigm pdgId="1104269" Lemma="наконт" Tag="I" Govern="+G">
         <Form Tag="X">наконт</Form>
     </Paradigm>
@@ -484,26 +460,38 @@
     <Paradigm pdgId="1159965" Lemma="налева ад" Tag="I" Govern="+G">
         <Form Tag="X">налева ад</Form>
     </Paradigm>
+    <Paradigm pdgId="1104259" Lemma="на манер" Tag="I" Govern="+G">
+        <Form Tag="X">на манер</Form>
+    </Paradigm>
     <Paradigm pdgId="1160099" Lemma="намест" Tag="I" Govern="+G">
         <Form Tag="X">намест</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160026" Lemma="на паверсе" Tag="I" Govern="+G">
+        <Form Tag="X">на паверсе</Form>
     </Paradigm>
     <Paradigm pdgId="1160130" Lemma="напаказ" Tag="I" Govern="+D">
         <Form Tag="X">напаказ</Form>
     </Paradigm>
-    <Paradigm pdgId="1160113" Lemma="напал з" Tag="I" Govern="+I">
-        <Form Tag="X">напал з</Form>
+    <Paradigm pdgId="1159968" Lemma="на паказ" Tag="I" Govern="+D">
+        <Form Tag="X">на паказ</Form>
     </Paradigm>
     <Paradigm pdgId="1159938" Lemma="напалам з" Tag="I" Govern="+I">
         <Form Tag="X">напалам з</Form>
     </Paradigm>
-    <Paradigm pdgId="1160036" Lemma="напачатку" Tag="I" Govern="+G">
-        <Form Tag="X">напачатку</Form>
+    <Paradigm pdgId="1160113" Lemma="напал з" Tag="I" Govern="+I">
+        <Form Tag="X">напал з</Form>
     </Paradigm>
     <Paradigm pdgId="1159991" Lemma="напаў з" Tag="I" Govern="+I">
         <Form Tag="X">напаў з</Form>
     </Paradigm>
+    <Paradigm pdgId="1160036" Lemma="напачатку" Tag="I" Govern="+G">
+        <Form Tag="X">напачатку</Form>
+    </Paradigm>
     <Paradigm pdgId="1104271" Lemma="наперад" Tag="I" Govern="+D">
         <Form Tag="X">наперад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160138" Lemma="на пераддзенні" Tag="I" Govern="+G">
+        <Form Tag="X">на пераддзенні</Form>
     </Paradigm>
     <Paradigm pdgId="1104272" Lemma="наперадзе" Tag="I" Govern="+G">
         <Form Tag="X">наперадзе</Form>
@@ -528,6 +516,9 @@
     </Paradigm>
     <Paradigm pdgId="1160027" Lemma="напрасткі ад" Tag="I" Govern="+G">
         <Form Tag="X">напрасткі ад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104260" Lemma="на працягу" Tag="I" Govern="+G">
+        <Form Tag="X">на працягу</Form>
     </Paradigm>
     <Paradigm pdgId="1160121" Lemma="напроці" Tag="I" Govern="+G">
         <Form Tag="X">напроці</Form>
@@ -607,14 +598,14 @@
     <Paradigm pdgId="1139001" Lemma="наўздагон" Tag="I" Govern="+D">
         <Form Tag="X">наўздагон</Form>
     </Paradigm>
-    <Paradigm pdgId="1159932" Lemma="наўздагон за" Tag="I" Govern="+I">
-        <Form Tag="X">наўздагон за</Form>
-    </Paradigm>
     <Paradigm pdgId="1159939" Lemma="наўздагонак" Tag="I" Govern="+D">
         <Form Tag="X">наўздагонак</Form>
     </Paradigm>
     <Paradigm pdgId="1160074" Lemma="наўздагонак за" Tag="I" Govern="+I">
         <Form Tag="X">наўздагонак за</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159932" Lemma="наўздагон за" Tag="I" Govern="+I">
+        <Form Tag="X">наўздагон за</Form>
     </Paradigm>
     <Paradigm pdgId="1160117" Lemma="наўздагонкі" Tag="I" Govern="+D">
         <Form Tag="X">наўздагонкі</Form>
@@ -673,11 +664,14 @@
     <Paradigm pdgId="1139008" Lemma="наўсцяж" Tag="I" Govern="+G">
         <Form Tag="X">наўсцяж</Form>
     </Paradigm>
-    <Paradigm pdgId="1160122" Lemma="не гледзячы на" Tag="I" Govern="+A">
-        <Form Tag="X">не гледзячы на</Form>
+    <Paradigm pdgId="1104261" Lemma="на чале" Tag="I" Govern="+G">
+        <Form Tag="X">на чале</Form>
     </Paradigm>
-    <Paradigm pdgId="1160098" Lemma="не лічачы" Tag="I" Govern="+G">
-        <Form Tag="X">не лічачы</Form>
+    <Paradigm pdgId="1104262" Lemma="на чале з" Tag="I" Govern="+I">
+        <Form Tag="X">на чале з</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159960" Lemma="на шляху" Tag="I" Govern="+G">
+        <Form Tag="X">на шляху</Form>
     </Paradigm>
     <Paradigm pdgId="1160052" Lemma="неадлучна ад" Tag="I" Govern="+G">
         <Form Tag="X">неадлучна ад</Form>
@@ -685,8 +679,8 @@
     <Paradigm pdgId="1159973" Lemma="неадпаведна" Tag="I" Govern="+D">
         <Form Tag="X">неадпаведна</Form>
     </Paradigm>
-    <Paradigm pdgId="1160091" Lemma="недалеч ад" Tag="I" Govern="+G">
-        <Form Tag="X">недалеч ад</Form>
+    <Paradigm pdgId="1160122" Lemma="не гледзячы на" Tag="I" Govern="+A">
+        <Form Tag="X">не гледзячы на</Form>
     </Paradigm>
     <Paradigm pdgId="1159964" Lemma="недалёка" Tag="I" Govern="+G">
         <Form Tag="X">недалёка</Form>
@@ -694,11 +688,17 @@
     <Paradigm pdgId="1159961" Lemma="недалёка ад" Tag="I" Govern="+G">
         <Form Tag="X">недалёка ад</Form>
     </Paradigm>
+    <Paradigm pdgId="1160091" Lemma="недалеч ад" Tag="I" Govern="+G">
+        <Form Tag="X">недалеч ад</Form>
+    </Paradigm>
     <Paradigm pdgId="1160079" Lemma="недалёчка ад" Tag="I" Govern="+G">
         <Form Tag="X">недалёчка ад</Form>
     </Paradigm>
     <Paradigm pdgId="1160022" Lemma="незалежна ад" Tag="I" Govern="+G">
         <Form Tag="X">незалежна ад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160098" Lemma="не лічачы" Tag="I" Govern="+G">
+        <Form Tag="X">не лічачы</Form>
     </Paradigm>
     <Paradigm pdgId="1139009" Lemma="непадалёк" Tag="I" Govern="+G">
         <Form Tag="X">непадалёк</Form>
@@ -715,11 +715,11 @@
     <Paradigm pdgId="1160115" Lemma="непадалёчку ад" Tag="I" Govern="+G">
         <Form Tag="X">непадалёчку ад</Form>
     </Paradigm>
-    <Paradigm pdgId="1104276" Lemma="нягледзячы на" Tag="I" Govern="+A">
-        <Form Tag="X">нягледзячы на</Form>
-    </Paradigm>
     <Paradigm pdgId="1139010" Lemma="ніжэй" Tag="I" Govern="+G">
         <Form Tag="X">ніжэй</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104276" Lemma="нягледзячы на" Tag="I" Govern="+A">
+        <Form Tag="X">нягледзячы на</Form>
     </Paradigm>
     <Paradigm pdgId="1160034" Lemma="обак" Tag="I" Govern="+G">
         <Form Tag="X">обак</Form>
@@ -727,33 +727,6 @@
     <Paradigm pdgId="1104277" Lemma="па" Tag="I" Govern="+D, +A, +L">
         <Form Tag="X">па</Form>
         <Form Tag="X">по</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160069" Lemma="па лініі" Tag="I" Govern="+G">
-        <Form Tag="X">па лініі</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160104" Lemma="па меры" Tag="I" Govern="+G">
-        <Form Tag="X">па меры</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159949" Lemma="па поваду" Tag="I" Govern="+G">
-        <Form Tag="X">па поваду</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160039" Lemma="па пытанню" Tag="I" Govern="+G">
-        <Form Tag="X">па пытанню</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104278" Lemma="па шляху" Tag="I" Govern="+G">
-        <Form Tag="X">па шляху</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104279" Lemma="па шляху да" Tag="I" Govern="+G">
-        <Form Tag="X">па шляху да</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104280" Lemma="па-за" Tag="I" Govern="+I">
-        <Form Tag="X">па-за</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104281" Lemma="па-над" Tag="I" Govern="+I, +A">
-        <Form Tag="X">па-над</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160082" Lemma="па-пад" Tag="I" Govern="+I">
-        <Form Tag="X">па-пад</Form>
     </Paradigm>
     <Paradigm pdgId="1104284" Lemma="паабапал" Tag="I" Govern="+G">
         <Form Tag="X">паабапал</Form>
@@ -783,9 +756,6 @@
         <Form Tag="X">пад</Form>
         <Form Tag="X">пада</Form>
     </Paradigm>
-    <Paradigm pdgId="1160057" Lemma="пад час" Tag="I" Govern="+G">
-        <Form Tag="X">пад час</Form>
-    </Paradigm>
     <Paradigm pdgId="1160108" Lemma="пада" Tag="I" Govern="+A, +I">
         <Form Tag="X">пада</Form>
     </Paradigm>
@@ -798,11 +768,29 @@
     <Paradigm pdgId="1160023" Lemma="падчас" Tag="I" Govern="+G">
         <Form Tag="X">падчас</Form>
     </Paradigm>
+    <Paradigm pdgId="1160057" Lemma="пад час" Tag="I" Govern="+G">
+        <Form Tag="X">пад час</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104280" Lemma="па-за" Tag="I" Govern="+I">
+        <Form Tag="X">па-за</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160069" Lemma="па лініі" Tag="I" Govern="+G">
+        <Form Tag="X">па лініі</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160104" Lemma="па меры" Tag="I" Govern="+G">
+        <Form Tag="X">па меры</Form>
+    </Paradigm>
     <Paradigm pdgId="1104287" Lemma="паміж" Tag="I" Govern="+G, +I">
         <Form Tag="X">паміж</Form>
     </Paradigm>
     <Paradigm pdgId="1104288" Lemma="паміма" Tag="I" Govern="+G">
         <Form Tag="X">паміма</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104281" Lemma="па-над" Tag="I" Govern="+I, +A">
+        <Form Tag="X">па-над</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160082" Lemma="па-пад" Tag="I" Govern="+I">
+        <Form Tag="X">па-пад</Form>
     </Paradigm>
     <Paradigm pdgId="1160087" Lemma="папалам з" Tag="I" Govern="+I">
         <Form Tag="X">папалам з</Form>
@@ -812,6 +800,12 @@
     </Paradigm>
     <Paradigm pdgId="1104290" Lemma="паперадзе" Tag="I" Govern="+G">
         <Form Tag="X">паперадзе</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159949" Lemma="па поваду" Tag="I" Govern="+G">
+        <Form Tag="X">па поваду</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160039" Lemma="па пытанню" Tag="I" Govern="+G">
+        <Form Tag="X">па пытанню</Form>
     </Paradigm>
     <Paradigm pdgId="1160035" Lemma="папярод" Tag="I" Govern="+G">
         <Form Tag="X">папярод</Form>
@@ -843,12 +837,6 @@
     <Paradigm pdgId="1104294" Lemma="пасярэдзіне" Tag="I" Govern="+G">
         <Form Tag="X">пасярэдзіне</Form>
     </Paradigm>
-    <Paradigm pdgId="1104295" Lemma="пачынаючы ад" Tag="I" Govern="+G">
-        <Form Tag="X">пачынаючы ад</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104296" Lemma="пачынаючы з" Tag="I" Govern="+G">
-        <Form Tag="X">пачынаючы з</Form>
-    </Paradigm>
     <Paradigm pdgId="1104282" Lemma="паўз" Tag="I" Govern="+G, +A">
         <Form Tag="X">паўз</Form>
     </Paradigm>
@@ -866,6 +854,18 @@
     </Paradigm>
     <Paradigm pdgId="1160018" Lemma="паўскрая" Tag="I" Govern="+G">
         <Form Tag="X">паўскрая</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104295" Lemma="пачынаючы ад" Tag="I" Govern="+G">
+        <Form Tag="X">пачынаючы ад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104296" Lemma="пачынаючы з" Tag="I" Govern="+G">
+        <Form Tag="X">пачынаючы з</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104278" Lemma="па шляху" Tag="I" Govern="+G">
+        <Form Tag="X">па шляху</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104279" Lemma="па шляху да" Tag="I" Govern="+G">
+        <Form Tag="X">па шляху да</Form>
     </Paradigm>
     <Paradigm pdgId="1104297" Lemma="перад" Tag="I" Govern="+I, *A">
         <Form Tag="X">перад</Form>
@@ -948,14 +948,14 @@
     <Paradigm pdgId="1104304" Lemma="прапарцыянальна" Tag="I" Govern="+D">
         <Form Tag="X">прапарцыянальна</Form>
     </Paradigm>
-    <Paradigm pdgId="1160067" Lemma="проць" Tag="I" Govern="+G">
-        <Form Tag="X">проць</Form>
-    </Paradigm>
     <Paradigm pdgId="1160101" Lemma="проці" Tag="I" Govern="+G">
         <Form Tag="X">проці</Form>
     </Paradigm>
     <Paradigm pdgId="1159985" Lemma="проціў" Tag="I" Govern="+G">
         <Form Tag="X">проціў</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160067" Lemma="проць" Tag="I" Govern="+G">
+        <Form Tag="X">проць</Form>
     </Paradigm>
     <Paradigm pdgId="1160062" Lemma="проч" Tag="I" Govern="+G">
         <Form Tag="X">проч</Form>
@@ -1014,14 +1014,14 @@
     <Paradigm pdgId="1104312" Lemma="супраць" Tag="I" Govern="+G">
         <Form Tag="X">супраць</Form>
     </Paradigm>
-    <Paradigm pdgId="1139015" Lemma="супроць" Tag="I" Govern="+G">
-        <Form Tag="X">супроць</Form>
-    </Paradigm>
     <Paradigm pdgId="1159962" Lemma="супроці" Tag="I" Govern="+G">
         <Form Tag="X">супроці</Form>
     </Paradigm>
     <Paradigm pdgId="1159945" Lemma="супроціў" Tag="I" Govern="+G">
         <Form Tag="X">супроціў</Form>
+    </Paradigm>
+    <Paradigm pdgId="1139015" Lemma="супроць" Tag="I" Govern="+G">
+        <Form Tag="X">супроць</Form>
     </Paradigm>
     <Paradigm pdgId="1104313" Lemma="сярод" Tag="I" Govern="+G">
         <Form Tag="X">сярод</Form>
@@ -1086,9 +1086,21 @@
         <Form Tag="X">у бок</Form>
         <Form Tag="X">ў бок</Form>
     </Paradigm>
+    <Paradigm pdgId="1139016" Lemma="ува" Tag="I" Govern="+G, +A, +L">
+        <Form Tag="X">ува</Form>
+        <Form Tag="X">ўва</Form>
+    </Paradigm>
     <Paradigm pdgId="1159918" Lemma="у ва" Tag="I" Govern="+G, +A, +L">
         <Form Tag="X">у ва</Form>
         <Form Tag="X">ў ва</Form>
+    </Paradigm>
+    <Paradigm pdgId="1139017" Lemma="уводдалі" Tag="I" Govern="+G">
+        <Form Tag="X">уводдалі</Form>
+        <Form Tag="X">ўводдалі</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159953" Lemma="уводдалі ад" Tag="I" Govern="+G">
+        <Form Tag="X">уводдалі ад</Form>
+        <Form Tag="X">ўводдалі ад</Form>
     </Paradigm>
     <Paradigm pdgId="1160093" Lemma="у выглядзе" Tag="I" Govern="+G">
         <Form Tag="X">у выглядзе</Form>
@@ -1102,137 +1114,21 @@
         <Form Tag="X">у выпадку</Form>
         <Form Tag="X">ў выпадку</Form>
     </Paradigm>
-    <Paradigm pdgId="1159954" Lemma="у глыб" Tag="I" Govern="+G">
-        <Form Tag="X">у глыб</Form>
-        <Form Tag="X">ў глыб</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104323" Lemma="у гонар" Tag="I" Govern="+G">
-        <Form Tag="X">у гонар</Form>
-        <Form Tag="X">ў гонар</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159990" Lemma="у залежнасці ад" Tag="I" Govern="+G">
-        <Form Tag="X">у залежнасці ад</Form>
-        <Form Tag="X">ў залежнасці ад</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159942" Lemma="у знак" Tag="I" Govern="+G">
-        <Form Tag="X">у знак</Form>
-        <Form Tag="X">ў знак</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159950" Lemma="у карысць" Tag="I" Govern="+G">
-        <Form Tag="X">у карысць</Form>
-        <Form Tag="X">ў карысць</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159992" Lemma="у кірунку" Tag="I" Govern="+G">
-        <Form Tag="X">у кірунку</Form>
-        <Form Tag="X">ў кірунку</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159893" Lemma="у кірунку да" Tag="I" Govern="+G">
-        <Form Tag="X">у кірунку да</Form>
-        <Form Tag="X">ў кірунку да</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159933" Lemma="у лік" Tag="I" Govern="+G">
-        <Form Tag="X">у лік</Form>
-        <Form Tag="X">ў лік</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104325" Lemma="у ліку" Tag="I" Govern="+G">
-        <Form Tag="X">у ліку</Form>
-        <Form Tag="X">ў ліку</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104326" Lemma="у мэтах" Tag="I" Govern="+G">
-        <Form Tag="X">у мэтах</Form>
-        <Form Tag="X">ў мэтах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159982" Lemma="у напрамку" Tag="I" Govern="+G">
-        <Form Tag="X">у напрамку</Form>
-        <Form Tag="X">ў напрамку</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160116" Lemma="у напрамку да" Tag="I" Govern="+G">
-        <Form Tag="X">у напрамку да</Form>
-        <Form Tag="X">ў напрамку да</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104327" Lemma="у параўнанні з" Tag="I" Govern="+I">
-        <Form Tag="X">у параўнанні з</Form>
-        <Form Tag="X">ў параўнанні з</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160073" Lemma="у процівагу" Tag="I" Govern="+D">
-        <Form Tag="X">у процівагу</Form>
-        <Form Tag="X">ў процівагу</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160011" Lemma="у рамках" Tag="I" Govern="+G">
-        <Form Tag="X">у рамках</Form>
-        <Form Tag="X">ў рамках</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104329" Lemma="у саюзе з" Tag="I" Govern="+I">
-        <Form Tag="X">у саюзе з</Form>
-        <Form Tag="X">ў саюзе з</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160132" Lemma="у славу" Tag="I" Govern="+G">
-        <Form Tag="X">у славу</Form>
-        <Form Tag="X">ў славу</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104330" Lemma="у справе" Tag="I" Govern="+G">
-        <Form Tag="X">у справе</Form>
-        <Form Tag="X">ў справе</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104331" Lemma="у сувязі з" Tag="I" Govern="+I">
-        <Form Tag="X">у сувязі з</Form>
-        <Form Tag="X">ў сувязі з</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159923" Lemma="у супрацьлегласць" Tag="I" Govern="+D">
-        <Form Tag="X">у супрацьлегласць</Form>
-        <Form Tag="X">ў супрацьлегласць</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104332" Lemma="у сэнсе" Tag="I" Govern="+G">
-        <Form Tag="X">у сэнсе</Form>
-        <Form Tag="X">ў сэнсе</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104328" Lemma="у сілу" Tag="I" Govern="+G">
-        <Form Tag="X">у сілу</Form>
-        <Form Tag="X">ў сілу</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104333" Lemma="у час" Tag="I" Govern="+G">
-        <Form Tag="X">у час</Form>
-        <Form Tag="X">ў час</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104334" Lemma="у часе" Tag="I" Govern="+G">
-        <Form Tag="X">у часе</Form>
-        <Form Tag="X">ў часе</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104335" Lemma="у часы" Tag="I" Govern="+G">
-        <Form Tag="X">у часы</Form>
-        <Form Tag="X">ў часы</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159966" Lemma="у чэсць" Tag="I" Govern="+G">
-        <Form Tag="X">у чэсць</Form>
-        <Form Tag="X">ў чэсць</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104315" Lemma="у імя" Tag="I" Govern="+G">
-        <Form Tag="X">у імя</Form>
-        <Form Tag="X">ў імя</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159963" Lemma="у інтарэсах" Tag="I" Govern="+G">
-        <Form Tag="X">у інтарэсах</Form>
-        <Form Tag="X">ў інтарэсах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139016" Lemma="ува" Tag="I" Govern="+G, +A, +L">
-        <Form Tag="X">ува</Form>
-        <Form Tag="X">ўва</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139017" Lemma="уводдалі" Tag="I" Govern="+G">
-        <Form Tag="X">уводдалі</Form>
-        <Form Tag="X">ўводдалі</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159953" Lemma="уводдалі ад" Tag="I" Govern="+G">
-        <Form Tag="X">уводдалі ад</Form>
-        <Form Tag="X">ўводдалі ад</Form>
-    </Paradigm>
     <Paradigm pdgId="1160041" Lemma="углыб" Tag="I" Govern="+G">
         <Form Tag="X">углыб</Form>
         <Form Tag="X">ўглыб</Form>
     </Paradigm>
+    <Paradigm pdgId="1159954" Lemma="у глыб" Tag="I" Govern="+G">
+        <Form Tag="X">у глыб</Form>
+        <Form Tag="X">ў глыб</Form>
+    </Paradigm>
     <Paradigm pdgId="1160030" Lemma="углыб ад" Tag="I" Govern="+G">
         <Form Tag="X">углыб ад</Form>
         <Form Tag="X">ўглыб ад</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104323" Lemma="у гонар" Tag="I" Govern="+G">
+        <Form Tag="X">у гонар</Form>
+        <Form Tag="X">ў гонар</Form>
     </Paradigm>
     <Paradigm pdgId="1159895" Lemma="удагон" Tag="I" Govern="+D">
         <Form Tag="X">удагон</Form>
@@ -1257,6 +1153,10 @@
     <Paradigm pdgId="1139018" Lemma="удоўж" Tag="I" Govern="+G">
         <Form Tag="X">удоўж</Form>
         <Form Tag="X">ўдоўж</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159990" Lemma="у залежнасці ад" Tag="I" Govern="+G">
+        <Form Tag="X">у залежнасці ад</Form>
+        <Form Tag="X">ў залежнасці ад</Form>
     </Paradigm>
     <Paradigm pdgId="1104337" Lemma="узамен" Tag="I" Govern="+G">
         <Form Tag="X">узамен</Form>
@@ -1286,6 +1186,30 @@
         <Form Tag="X">уздоўж па</Form>
         <Form Tag="X">ўздоўж па</Form>
     </Paradigm>
+    <Paradigm pdgId="1159942" Lemma="у знак" Tag="I" Govern="+G">
+        <Form Tag="X">у знак</Form>
+        <Form Tag="X">ў знак</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104315" Lemma="у імя" Tag="I" Govern="+G">
+        <Form Tag="X">у імя</Form>
+        <Form Tag="X">ў імя</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159963" Lemma="у інтарэсах" Tag="I" Govern="+G">
+        <Form Tag="X">у інтарэсах</Form>
+        <Form Tag="X">ў інтарэсах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159950" Lemma="у карысць" Tag="I" Govern="+G">
+        <Form Tag="X">у карысць</Form>
+        <Form Tag="X">ў карысць</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159992" Lemma="у кірунку" Tag="I" Govern="+G">
+        <Form Tag="X">у кірунку</Form>
+        <Form Tag="X">ў кірунку</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159893" Lemma="у кірунку да" Tag="I" Govern="+G">
+        <Form Tag="X">у кірунку да</Form>
+        <Form Tag="X">ў кірунку да</Form>
+    </Paradigm>
     <Paradigm pdgId="1104339" Lemma="уключаючы" Tag="I" Govern="+A">
         <Form Tag="X">уключаючы</Form>
         <Form Tag="X">ўключаючы</Form>
@@ -1294,9 +1218,29 @@
         <Form Tag="X">укруг</Form>
         <Form Tag="X">ўкруг</Form>
     </Paradigm>
+    <Paradigm pdgId="1159933" Lemma="у лік" Tag="I" Govern="+G">
+        <Form Tag="X">у лік</Form>
+        <Form Tag="X">ў лік</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104325" Lemma="у ліку" Tag="I" Govern="+G">
+        <Form Tag="X">у ліку</Form>
+        <Form Tag="X">ў ліку</Form>
+    </Paradigm>
     <Paradigm pdgId="1160024" Lemma="уместа" Tag="I" Govern="+G">
         <Form Tag="X">уместа</Form>
         <Form Tag="X">ўместа</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104326" Lemma="у мэтах" Tag="I" Govern="+G">
+        <Form Tag="X">у мэтах</Form>
+        <Form Tag="X">ў мэтах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159982" Lemma="у напрамку" Tag="I" Govern="+G">
+        <Form Tag="X">у напрамку</Form>
+        <Form Tag="X">ў напрамку</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160116" Lemma="у напрамку да" Tag="I" Govern="+G">
+        <Form Tag="X">у напрамку да</Form>
+        <Form Tag="X">ў напрамку да</Form>
     </Paradigm>
     <Paradigm pdgId="1139021" Lemma="унутр" Tag="I" Govern="+G">
         <Form Tag="X">унутр</Form>
@@ -1309,6 +1253,10 @@
     <Paradigm pdgId="1160001" Lemma="упапярок" Tag="I" Govern="+G">
         <Form Tag="X">упапярок</Form>
         <Form Tag="X">ўпапярок</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104327" Lemma="у параўнанні з" Tag="I" Govern="+I">
+        <Form Tag="X">у параўнанні з</Form>
+        <Form Tag="X">ў параўнанні з</Form>
     </Paradigm>
     <Paradigm pdgId="1104340" Lemma="уперад" Tag="I" Govern="+G">
         <Form Tag="X">уперад</Form>
@@ -1326,13 +1274,33 @@
         <Form Tag="X">упоперак</Form>
         <Form Tag="X">ўпоперак</Form>
     </Paradigm>
+    <Paradigm pdgId="1160073" Lemma="у процівагу" Tag="I" Govern="+D">
+        <Form Tag="X">у процівагу</Form>
+        <Form Tag="X">ў процівагу</Form>
+    </Paradigm>
     <Paradigm pdgId="1160013" Lemma="упярод" Tag="I" Govern="+G">
         <Form Tag="X">упярод</Form>
         <Form Tag="X">ўпярод</Form>
     </Paradigm>
+    <Paradigm pdgId="1160011" Lemma="у рамках" Tag="I" Govern="+G">
+        <Form Tag="X">у рамках</Form>
+        <Form Tag="X">ў рамках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104329" Lemma="у саюзе з" Tag="I" Govern="+I">
+        <Form Tag="X">у саюзе з</Form>
+        <Form Tag="X">ў саюзе з</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104328" Lemma="у сілу" Tag="I" Govern="+G">
+        <Form Tag="X">у сілу</Form>
+        <Form Tag="X">ў сілу</Form>
+    </Paradigm>
     <Paradigm pdgId="1160059" Lemma="ускрай" Tag="I" Govern="+G">
         <Form Tag="X">ускрай</Form>
         <Form Tag="X">ўскрай</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160132" Lemma="у славу" Tag="I" Govern="+G">
+        <Form Tag="X">у славу</Form>
+        <Form Tag="X">ў славу</Form>
     </Paradigm>
     <Paradigm pdgId="1104343" Lemma="услед" Tag="I" Govern="+D">
         <Form Tag="X">услед</Form>
@@ -1342,9 +1310,25 @@
         <Form Tag="X">услед за</Form>
         <Form Tag="X">ўслед за</Form>
     </Paradigm>
+    <Paradigm pdgId="1104330" Lemma="у справе" Tag="I" Govern="+G">
+        <Form Tag="X">у справе</Form>
+        <Form Tag="X">ў справе</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104331" Lemma="у сувязі з" Tag="I" Govern="+I">
+        <Form Tag="X">у сувязі з</Form>
+        <Form Tag="X">ў сувязі з</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159923" Lemma="у супрацьлегласць" Tag="I" Govern="+D">
+        <Form Tag="X">у супрацьлегласць</Form>
+        <Form Tag="X">ў супрацьлегласць</Form>
+    </Paradigm>
     <Paradigm pdgId="1104344" Lemma="усцяж" Tag="I" Govern="+G">
         <Form Tag="X">усцяж</Form>
         <Form Tag="X">ўсцяж</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104332" Lemma="у сэнсе" Tag="I" Govern="+G">
+        <Form Tag="X">у сэнсе</Form>
+        <Form Tag="X">ў сэнсе</Form>
     </Paradigm>
     <Paradigm pdgId="1159929" Lemma="усярэдзіне" Tag="I" Govern="+G">
         <Form Tag="X">усярэдзіне</Form>
@@ -1353,6 +1337,22 @@
     <Paradigm pdgId="1159915" Lemma="усярэдзіну" Tag="I" Govern="+G">
         <Form Tag="X">усярэдзіну</Form>
         <Form Tag="X">ўсярэдзіну</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104333" Lemma="у час" Tag="I" Govern="+G">
+        <Form Tag="X">у час</Form>
+        <Form Tag="X">ў час</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104334" Lemma="у часе" Tag="I" Govern="+G">
+        <Form Tag="X">у часе</Form>
+        <Form Tag="X">ў часе</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104335" Lemma="у часы" Tag="I" Govern="+G">
+        <Form Tag="X">у часы</Form>
+        <Form Tag="X">ў часы</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159966" Lemma="у чэсць" Tag="I" Govern="+G">
+        <Form Tag="X">у чэсць</Form>
+        <Form Tag="X">ў чэсць</Form>
     </Paradigm>
     <Paradigm pdgId="1104345" Lemma="цераз" Tag="I" Govern="+A">
         <Form Tag="X">цераз</Form>

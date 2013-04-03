@@ -56,6 +56,20 @@
         <Form Tag="IP">абіраламі</Form>
         <Form Tag="LP">абіралах</Form>
     </Paradigm>
+    <Paradigm pdgId="1025660" Lemma="аўтавытворца" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">аўтавытворца</Form>
+        <Form Tag="GS">аўтавытворцы</Form>
+        <Form Tag="DS">аўтавытворцу</Form>
+        <Form Tag="AS">аўтавытворцу</Form>
+        <Form Tag="IS">аўтавытворцам</Form>
+        <Form Tag="LS">аўтавытворцы</Form>
+        <Form Tag="NP">аўтавытворцы</Form>
+        <Form Tag="GP">аўтавытворцаў</Form>
+        <Form Tag="DP">аўтавытворцам</Form>
+        <Form Tag="AP">аўтавытворцаў</Form>
+        <Form Tag="IP">аўтавытворцамі</Form>
+        <Form Tag="LP">аўтавытворцах</Form>
+    </Paradigm>
     <Paradigm pdgId="1026925" Lemma="ахвярадаўца" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">ахвярадаўца</Form>
         <Form Tag="GS">ахвярадаўцы</Form>
@@ -83,20 +97,6 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1025660" Lemma="аўтавытворца" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">аўтавытворца</Form>
-        <Form Tag="GS">аўтавытворцы</Form>
-        <Form Tag="DS">аўтавытворцу</Form>
-        <Form Tag="AS">аўтавытворцу</Form>
-        <Form Tag="IS">аўтавытворцам</Form>
-        <Form Tag="LS">аўтавытворцы</Form>
-        <Form Tag="NP">аўтавытворцы</Form>
-        <Form Tag="GP">аўтавытворцаў</Form>
-        <Form Tag="DP">аўтавытворцам</Form>
-        <Form Tag="AP">аўтавытворцаў</Form>
-        <Form Tag="IP">аўтавытворцамі</Form>
-        <Form Tag="LP">аўтавытворцах</Form>
     </Paradigm>
     <Paradigm pdgId="1027146" Lemma="бадзяга" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">бадзяга</Form>
@@ -420,6 +420,20 @@
         <Form Tag="IP">ваякамі</Form>
         <Form Tag="LP">ваяках</Form>
     </Paradigm>
+    <Paradigm pdgId="1016836" Lemma="відавочца" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">відавочца</Form>
+        <Form Tag="GS">відавочцы</Form>
+        <Form Tag="DS">відавочцу</Form>
+        <Form Tag="AS">відавочцу</Form>
+        <Form Tag="IS">відавочцам</Form>
+        <Form Tag="LS">відавочцу</Form>
+        <Form Tag="NP">відавочцы</Form>
+        <Form Tag="GP">відавочцаў</Form>
+        <Form Tag="DP">відавочцам</Form>
+        <Form Tag="AP">відавочцы</Form>
+        <Form Tag="IP">відавочцамі</Form>
+        <Form Tag="LP">відавочцах</Form>
+    </Paradigm>
     <Paradigm pdgId="1028479" Lemma="вызнаўца" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">вызнаўца</Form>
         <Form Tag="GS">вызнаўцы</Form>
@@ -587,20 +601,6 @@
         <Form Tag="AP">вяльможаў</Form>
         <Form Tag="IP">вяльможамі</Form>
         <Form Tag="LP">вяльможах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1016836" Lemma="відавочца" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">відавочца</Form>
-        <Form Tag="GS">відавочцы</Form>
-        <Form Tag="DS">відавочцу</Form>
-        <Form Tag="AS">відавочцу</Form>
-        <Form Tag="IS">відавочцам</Form>
-        <Form Tag="LS">відавочцу</Form>
-        <Form Tag="NP">відавочцы</Form>
-        <Form Tag="GP">відавочцаў</Form>
-        <Form Tag="DP">відавочцам</Form>
-        <Form Tag="AP">відавочцы</Form>
-        <Form Tag="IP">відавочцамі</Form>
-        <Form Tag="LP">відавочцах</Form>
     </Paradigm>
     <Paradigm pdgId="1126998" Lemma="галуза" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">галуза</Form>
@@ -952,6 +952,22 @@
         <Form Tag="IP">зазнайкамі</Form>
         <Form Tag="LP">зазнайках</Form>
     </Paradigm>
+    <Paradigm pdgId="1132674" Lemma="заіка" Tag="NCAPNM2">
+        <Form Tag="NS">заіка</Form>
+        <Form Tag="GS">заікі</Form>
+        <Form Tag="DS">заіку</Form>
+        <Form Tag="AS">заіку</Form>
+        <Form Tag="IS">заікам</Form>
+        <Form Tag="LS">заіку</Form>
+        <Form Tag="NP">заікі</Form>
+        <Form Tag="GP">заік</Form>
+        <Form Tag="GP" Type="nonstandard">заікаў</Form>
+        <Form Tag="DP">заікам</Form>
+        <Form Tag="AP">заік</Form>
+        <Form Tag="AP" Type="nonstandard">заікаў</Form>
+        <Form Tag="IP">заікамі</Form>
+        <Form Tag="LP">заіках</Form>
+    </Paradigm>
     <Paradigm pdgId="1132652" Lemma="заканазнаўца" Tag="NCAPNM2">
         <Form Tag="NS">заканазнаўца</Form>
         <Form Tag="GS">заканазнаўцы</Form>
@@ -1036,21 +1052,19 @@
         <Form Tag="IP">запяваламі</Form>
         <Form Tag="LP">запявалах</Form>
     </Paradigm>
-    <Paradigm pdgId="1132674" Lemma="заіка" Tag="NCAPNM2">
-        <Form Tag="NS">заіка</Form>
-        <Form Tag="GS">заікі</Form>
-        <Form Tag="DS">заіку</Form>
-        <Form Tag="AS">заіку</Form>
-        <Form Tag="IS">заікам</Form>
-        <Form Tag="LS">заіку</Form>
-        <Form Tag="NP">заікі</Form>
-        <Form Tag="GP">заік</Form>
-        <Form Tag="GP" Type="nonstandard">заікаў</Form>
-        <Form Tag="DP">заікам</Form>
-        <Form Tag="AP">заік</Form>
-        <Form Tag="AP" Type="nonstandard">заікаў</Form>
-        <Form Tag="IP">заікамі</Form>
-        <Form Tag="LP">заіках</Form>
+    <Paradigm pdgId="1132679" Lemma="здаравіла" Tag="NCAPNM2">
+        <Form Tag="NS">здаравіла</Form>
+        <Form Tag="GS">здаравілы</Form>
+        <Form Tag="DS">здаравілу</Form>
+        <Form Tag="AS">здаравілу</Form>
+        <Form Tag="IS">здаравілам</Form>
+        <Form Tag="LS">здаравілу</Form>
+        <Form Tag="NP">здаравілы</Form>
+        <Form Tag="GP">здаравіл</Form>
+        <Form Tag="DP">здаравілам</Form>
+        <Form Tag="AP">здаравіл</Form>
+        <Form Tag="IP">здаравіламі</Form>
+        <Form Tag="LP">здаравілах</Form>
     </Paradigm>
     <Paradigm pdgId="1126980" Lemma="здаравяка" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">здаравяка</Form>
@@ -1065,20 +1079,6 @@
         <Form Tag="AP">здаравякаў</Form>
         <Form Tag="IP">здаравякамі</Form>
         <Form Tag="LP">здаравяках</Form>
-    </Paradigm>
-    <Paradigm pdgId="1132679" Lemma="здаравіла" Tag="NCAPNM2">
-        <Form Tag="NS">здаравіла</Form>
-        <Form Tag="GS">здаравілы</Form>
-        <Form Tag="DS">здаравілу</Form>
-        <Form Tag="AS">здаравілу</Form>
-        <Form Tag="IS">здаравілам</Form>
-        <Form Tag="LS">здаравілу</Form>
-        <Form Tag="NP">здаравілы</Form>
-        <Form Tag="GP">здаравіл</Form>
-        <Form Tag="DP">здаравілам</Form>
-        <Form Tag="AP">здаравіл</Form>
-        <Form Tag="IP">здаравіламі</Form>
-        <Form Tag="LP">здаравілах</Form>
     </Paradigm>
     <Paradigm pdgId="1131663" Lemma="землязнаўца" Tag="NCAPNM2">
         <Form Tag="NS">землязнаўца</Form>
@@ -1135,6 +1135,20 @@
         <Form Tag="AP">золатапрамыслоўцаў</Form>
         <Form Tag="IP">золатапрамыслоўцамі</Form>
         <Form Tag="LP">золатапрамыслоўцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1133534" Lemma="іуда" Tag="NCAPNM2">
+        <Form Tag="NS">іуда</Form>
+        <Form Tag="GS">іуды</Form>
+        <Form Tag="DS">іуду</Form>
+        <Form Tag="AS">іуду</Form>
+        <Form Tag="IS">іудам</Form>
+        <Form Tag="LS">іудзе</Form>
+        <Form Tag="NP">іуды</Form>
+        <Form Tag="GP">іудаў</Form>
+        <Form Tag="DP">іудам</Form>
+        <Form Tag="AP">іудаў</Form>
+        <Form Tag="IP">іудамі</Form>
+        <Form Tag="LP">іудах</Form>
     </Paradigm>
     <Paradigm pdgId="1132705" Lemma="кажамяка" Tag="NCAPNM2">
         <Form Tag="NS">кажамяка</Form>
@@ -1206,48 +1220,6 @@
         <Form Tag="IP">караўкамі</Form>
         <Form Tag="LP">караўках</Form>
     </Paradigm>
-    <Paradigm pdgId="1132748" Lemma="кніганоша" Tag="NCAPNM2">
-        <Form Tag="NS">кніганоша</Form>
-        <Form Tag="GS">кніганошы</Form>
-        <Form Tag="DS">кніганошу</Form>
-        <Form Tag="AS">кніганошу</Form>
-        <Form Tag="IS">кніганошам</Form>
-        <Form Tag="LS">кніганошу</Form>
-        <Form Tag="NP">кніганошы</Form>
-        <Form Tag="GP">кніганошаў</Form>
-        <Form Tag="DP">кніганошам</Form>
-        <Form Tag="AP">кніганошаў</Form>
-        <Form Tag="IP">кніганошамі</Form>
-        <Form Tag="LP">кніганошах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1031021" Lemma="краязнаўца" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">краязнаўца</Form>
-        <Form Tag="GS">краязнаўцы</Form>
-        <Form Tag="DS">краязнаўцу</Form>
-        <Form Tag="AS">краязнаўцу</Form>
-        <Form Tag="IS">краязнаўцам</Form>
-        <Form Tag="LS">краязнаўцы</Form>
-        <Form Tag="NP">краязнаўцы</Form>
-        <Form Tag="GP">краязнаўцаў</Form>
-        <Form Tag="DP">краязнаўцам</Form>
-        <Form Tag="AP">краязнаўцаў</Form>
-        <Form Tag="IP">краязнаўцамі</Form>
-        <Form Tag="LP">краязнаўцах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127016" Lemma="крыўляка" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">крыўляка</Form>
-        <Form Tag="GS">крыўлякі</Form>
-        <Form Tag="DS">крыўляку</Form>
-        <Form Tag="AS">крыўляку</Form>
-        <Form Tag="IS">крыўлякам</Form>
-        <Form Tag="LS">крыўляку</Form>
-        <Form Tag="NP">крыўлякі</Form>
-        <Form Tag="GP">крыўлякаў</Form>
-        <Form Tag="DP">крыўлякам</Form>
-        <Form Tag="AP">крыўлякаў</Form>
-        <Form Tag="IP">крыўлякамі</Form>
-        <Form Tag="LP">крыўляках</Form>
-    </Paradigm>
     <Paradigm pdgId="1030281" Lemma="кіберзлачынца" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">кіберзлачынца</Form>
         <Form Tag="GS">кіберзлачынцы</Form>
@@ -1289,6 +1261,48 @@
         <Form Tag="AP">кіроўцаў</Form>
         <Form Tag="IP">кіроўцамі</Form>
         <Form Tag="LP">кіроўцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1132748" Lemma="кніганоша" Tag="NCAPNM2">
+        <Form Tag="NS">кніганоша</Form>
+        <Form Tag="GS">кніганошы</Form>
+        <Form Tag="DS">кніганошу</Form>
+        <Form Tag="AS">кніганошу</Form>
+        <Form Tag="IS">кніганошам</Form>
+        <Form Tag="LS">кніганошу</Form>
+        <Form Tag="NP">кніганошы</Form>
+        <Form Tag="GP">кніганошаў</Form>
+        <Form Tag="DP">кніганошам</Form>
+        <Form Tag="AP">кніганошаў</Form>
+        <Form Tag="IP">кніганошамі</Form>
+        <Form Tag="LP">кніганошах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1031021" Lemma="краязнаўца" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">краязнаўца</Form>
+        <Form Tag="GS">краязнаўцы</Form>
+        <Form Tag="DS">краязнаўцу</Form>
+        <Form Tag="AS">краязнаўцу</Form>
+        <Form Tag="IS">краязнаўцам</Form>
+        <Form Tag="LS">краязнаўцы</Form>
+        <Form Tag="NP">краязнаўцы</Form>
+        <Form Tag="GP">краязнаўцаў</Form>
+        <Form Tag="DP">краязнаўцам</Form>
+        <Form Tag="AP">краязнаўцаў</Form>
+        <Form Tag="IP">краязнаўцамі</Form>
+        <Form Tag="LP">краязнаўцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127016" Lemma="крыўляка" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">крыўляка</Form>
+        <Form Tag="GS">крыўлякі</Form>
+        <Form Tag="DS">крыўляку</Form>
+        <Form Tag="AS">крыўляку</Form>
+        <Form Tag="IS">крыўлякам</Form>
+        <Form Tag="LS">крыўляку</Form>
+        <Form Tag="NP">крыўлякі</Form>
+        <Form Tag="GP">крыўлякаў</Form>
+        <Form Tag="DP">крыўлякам</Form>
+        <Form Tag="AP">крыўлякаў</Form>
+        <Form Tag="IP">крыўлякамі</Form>
+        <Form Tag="LP">крыўляках</Form>
     </Paradigm>
     <Paradigm pdgId="1126982" Lemma="латруга" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">латруга</Form>
@@ -1346,20 +1360,6 @@
         <Form Tag="IP">лжэсведкамі</Form>
         <Form Tag="LP">лжэсведках</Form>
     </Paradigm>
-    <Paradigm pdgId="1031435" Lemma="ляўша" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">ляўша</Form>
-        <Form Tag="GS">ляўшы</Form>
-        <Form Tag="DS">ляўшы</Form>
-        <Form Tag="AS">ляўшу</Form>
-        <Form Tag="IS">ляўшой</Form>
-        <Form Tag="LS">ляўшы</Form>
-        <Form Tag="NP">ляўшы</Form>
-        <Form Tag="GP">ляўшоў</Form>
-        <Form Tag="DP">ляўшам</Form>
-        <Form Tag="AP">ляўшоў</Form>
-        <Form Tag="IP">ляўшамі</Form>
-        <Form Tag="LP">ляўшах</Form>
-    </Paradigm>
     <Paradigm pdgId="1031235" Lemma="літаратуразнаўца" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">літаратуразнаўца</Form>
         <Form Tag="GS">літаратуразнаўцы</Form>
@@ -1373,6 +1373,20 @@
         <Form Tag="AP">літаратуразнаўцаў</Form>
         <Form Tag="IP">літаратуразнаўцамі</Form>
         <Form Tag="LP">літаратуразнаўцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1031435" Lemma="ляўша" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">ляўша</Form>
+        <Form Tag="GS">ляўшы</Form>
+        <Form Tag="DS">ляўшы</Form>
+        <Form Tag="AS">ляўшу</Form>
+        <Form Tag="IS">ляўшой</Form>
+        <Form Tag="LS">ляўшы</Form>
+        <Form Tag="NP">ляўшы</Form>
+        <Form Tag="GP">ляўшоў</Form>
+        <Form Tag="DP">ляўшам</Form>
+        <Form Tag="AP">ляўшоў</Form>
+        <Form Tag="IP">ляўшамі</Form>
+        <Form Tag="LP">ляўшах</Form>
     </Paradigm>
     <Paradigm pdgId="1132791" Lemma="майстра" Tag="NCAPNM2">
         <Form Tag="NS">майстра</Form>
@@ -1488,6 +1502,21 @@
         <Form Tag="IP">мастацтвазнаўцамі</Form>
         <Form Tag="LP">мастацтвазнаўцах</Form>
     </Paradigm>
+    <Paradigm pdgId="1132842" Lemma="мірза" Tag="NCAPNM2">
+        <Form Tag="NS">мірза</Form>
+        <Form Tag="GS">мірзы</Form>
+        <Form Tag="DS">мірзе</Form>
+        <Form Tag="AS">мірзу</Form>
+        <Form Tag="IS">мірзой</Form>
+        <Form Tag="IS">мірзою</Form>
+        <Form Tag="LS">мірзе</Form>
+        <Form Tag="NP">мірзы</Form>
+        <Form Tag="GP">мірзаў</Form>
+        <Form Tag="DP">мірзам</Form>
+        <Form Tag="AP">мірзаў</Form>
+        <Form Tag="IP">мірзамі</Form>
+        <Form Tag="LP">мірзах</Form>
+    </Paradigm>
     <Paradigm pdgId="1031869" Lemma="мовазнаўца" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">мовазнаўца</Form>
         <Form Tag="GS">мовазнаўцы</Form>
@@ -1599,21 +1628,6 @@
         <Form Tag="AP">мурзілаў</Form>
         <Form Tag="IP">мурзіламі</Form>
         <Form Tag="LP">мурзілах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1132842" Lemma="мірза" Tag="NCAPNM2">
-        <Form Tag="NS">мірза</Form>
-        <Form Tag="GS">мірзы</Form>
-        <Form Tag="DS">мірзе</Form>
-        <Form Tag="AS">мірзу</Form>
-        <Form Tag="IS">мірзой</Form>
-        <Form Tag="IS">мірзою</Form>
-        <Form Tag="LS">мірзе</Form>
-        <Form Tag="NP">мірзы</Form>
-        <Form Tag="GP">мірзаў</Form>
-        <Form Tag="DP">мірзам</Form>
-        <Form Tag="AP">мірзаў</Form>
-        <Form Tag="IP">мірзамі</Form>
-        <Form Tag="LP">мірзах</Form>
     </Paradigm>
     <Paradigm pdgId="1131706" Lemma="навуказнаўца" Tag="NCAPNM2">
         <Form Tag="NS">навуказнаўца</Form>
@@ -1867,20 +1881,6 @@
         <Form Tag="IP">няздарамі</Form>
         <Form Tag="LP">няздарах</Form>
     </Paradigm>
-    <Paradigm pdgId="1132868" Lemma="няхлюда" Tag="NCAPNM2">
-        <Form Tag="NS">няхлюда</Form>
-        <Form Tag="GS">няхлюды</Form>
-        <Form Tag="DS">няхлюду</Form>
-        <Form Tag="AS">няхлюду</Form>
-        <Form Tag="IS">няхлюдам</Form>
-        <Form Tag="LS">няхлюдзе</Form>
-        <Form Tag="NP">няхлюды</Form>
-        <Form Tag="GP">няхлюд</Form>
-        <Form Tag="DP">няхлюдам</Form>
-        <Form Tag="AP">няхлюд</Form>
-        <Form Tag="IP">няхлюдамі</Form>
-        <Form Tag="LP">няхлюдах</Form>
-    </Paradigm>
     <Paradigm pdgId="1127039" Lemma="няўклюда" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">няўклюда</Form>
         <Form Tag="GS">няўклюды</Form>
@@ -1908,6 +1908,20 @@
         <Form Tag="AP">няўмехаў</Form>
         <Form Tag="IP">няўмехамі</Form>
         <Form Tag="LP">няўмехах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1132868" Lemma="няхлюда" Tag="NCAPNM2">
+        <Form Tag="NS">няхлюда</Form>
+        <Form Tag="GS">няхлюды</Form>
+        <Form Tag="DS">няхлюду</Form>
+        <Form Tag="AS">няхлюду</Form>
+        <Form Tag="IS">няхлюдам</Form>
+        <Form Tag="LS">няхлюдзе</Form>
+        <Form Tag="NP">няхлюды</Form>
+        <Form Tag="GP">няхлюд</Form>
+        <Form Tag="DP">няхлюдам</Form>
+        <Form Tag="AP">няхлюд</Form>
+        <Form Tag="IP">няхлюдамі</Form>
+        <Form Tag="LP">няхлюдах</Form>
     </Paradigm>
     <Paradigm pdgId="1032287" Lemma="ойча" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">ойча</Form>
@@ -2048,6 +2062,20 @@
         <Form Tag="AP">першапраходцаў</Form>
         <Form Tag="IP">першапраходцамі</Form>
         <Form Tag="LP">першапраходцах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1032329" Lemma="пісака" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">пісака</Form>
+        <Form Tag="GS">пісакі</Form>
+        <Form Tag="DS">пісаку</Form>
+        <Form Tag="AS">пісаку</Form>
+        <Form Tag="IS">пісакам</Form>
+        <Form Tag="LS">пісаку</Form>
+        <Form Tag="NP">пісакі</Form>
+        <Form Tag="GP">пісакаў</Form>
+        <Form Tag="DP">пісакам</Form>
+        <Form Tag="AP">пісакаў</Form>
+        <Form Tag="IP">пісакамі</Form>
+        <Form Tag="LP">пісаках</Form>
     </Paradigm>
     <Paradigm pdgId="1033174" Lemma="прабацька" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">прабацька</Form>
@@ -2217,20 +2245,6 @@
         <Form Tag="IP">прастачынамі</Form>
         <Form Tag="LP">прастачынах</Form>
     </Paradigm>
-    <Paradigm pdgId="1033327" Lemma="працадаўца" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">працадаўца</Form>
-        <Form Tag="GS">працадаўцы</Form>
-        <Form Tag="DS">працадаўцу</Form>
-        <Form Tag="AS">працадаўцу</Form>
-        <Form Tag="IS">працадаўцам</Form>
-        <Form Tag="LS">працадаўцы</Form>
-        <Form Tag="NP">працадаўцы</Form>
-        <Form Tag="GP">працадаўцаў</Form>
-        <Form Tag="DP">працадаўцам</Form>
-        <Form Tag="AP">працадаўцаў</Form>
-        <Form Tag="IP">працадаўцамі</Form>
-        <Form Tag="LP">працадаўцах</Form>
-    </Paradigm>
     <Paradigm pdgId="1160831" Lemma="праўша" Tag="NCAPNM2">
         <Form Tag="NS">праўша</Form>
         <Form Tag="GS">праўшы</Form>
@@ -2244,6 +2258,20 @@
         <Form Tag="AP">праўшоў</Form>
         <Form Tag="IP">праўшамі</Form>
         <Form Tag="LP">праўшах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1033327" Lemma="працадаўца" Tag="NCAPNM2" Govern="">
+        <Form Tag="NS">працадаўца</Form>
+        <Form Tag="GS">працадаўцы</Form>
+        <Form Tag="DS">працадаўцу</Form>
+        <Form Tag="AS">працадаўцу</Form>
+        <Form Tag="IS">працадаўцам</Form>
+        <Form Tag="LS">працадаўцы</Form>
+        <Form Tag="NP">працадаўцы</Form>
+        <Form Tag="GP">працадаўцаў</Form>
+        <Form Tag="DP">працадаўцам</Form>
+        <Form Tag="AP">працадаўцаў</Form>
+        <Form Tag="IP">працадаўцамі</Form>
+        <Form Tag="LP">працадаўцах</Form>
     </Paradigm>
     <Paradigm pdgId="1033342" Lemma="пройда" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">пройда</Form>
@@ -2300,20 +2328,6 @@
         <Form Tag="AP">прыродазнаўцаў</Form>
         <Form Tag="IP">прыродазнаўцамі</Form>
         <Form Tag="LP">прыродазнаўцах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1032329" Lemma="пісака" Tag="NCAPNM2" Govern="">
-        <Form Tag="NS">пісака</Form>
-        <Form Tag="GS">пісакі</Form>
-        <Form Tag="DS">пісаку</Form>
-        <Form Tag="AS">пісаку</Form>
-        <Form Tag="IS">пісакам</Form>
-        <Form Tag="LS">пісаку</Form>
-        <Form Tag="NP">пісакі</Form>
-        <Form Tag="GP">пісакаў</Form>
-        <Form Tag="DP">пісакам</Form>
-        <Form Tag="AP">пісакаў</Form>
-        <Form Tag="IP">пісакамі</Form>
-        <Form Tag="LP">пісаках</Form>
     </Paradigm>
     <Paradigm pdgId="1126985" Lemma="рабацяга" Tag="NCAPNM2" Govern="">
         <Form Tag="NS">рабацяга</Form>
@@ -3058,19 +3072,5 @@
         <Form Tag="AP">юнгаў</Form>
         <Form Tag="IP">юнгамі</Form>
         <Form Tag="LP">юнгах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1133534" Lemma="іуда" Tag="NCAPNM2">
-        <Form Tag="NS">іуда</Form>
-        <Form Tag="GS">іуды</Form>
-        <Form Tag="DS">іуду</Form>
-        <Form Tag="AS">іуду</Form>
-        <Form Tag="IS">іудам</Form>
-        <Form Tag="LS">іудзе</Form>
-        <Form Tag="NP">іуды</Form>
-        <Form Tag="GP">іудаў</Form>
-        <Form Tag="DP">іудам</Form>
-        <Form Tag="AP">іудаў</Form>
-        <Form Tag="IP">іудамі</Form>
-        <Form Tag="LP">іудах</Form>
     </Paradigm>
 </Wordlist>

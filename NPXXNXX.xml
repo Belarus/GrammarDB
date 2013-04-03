@@ -644,20 +644,6 @@
         <Form Tag="IP">Саянамі</Form>
         <Form Tag="LP">Саянах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127721" Lemma="Смілавічы" Tag="NPXXNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
-        <Form Tag="NP">Смілавічы</Form>
-        <Form Tag="GP">Смілавічаў</Form>
-        <Form Tag="DP">Смілавічам</Form>
-        <Form Tag="AP">Смілавічы</Form>
-        <Form Tag="IP">Смілавічамі</Form>
-        <Form Tag="LP">Смілавічах</Form>
-    </Paradigm>
     <Paradigm pdgId="1127717" Lemma="Сіракузы" Tag="NPXXNXX">
         <Form Tag="NS"></Form>
         <Form Tag="GS"></Form>
@@ -671,6 +657,20 @@
         <Form Tag="AP">Сіракузы</Form>
         <Form Tag="IP">Сіракузамі</Form>
         <Form Tag="LP">Сіракузах</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127721" Lemma="Смілавічы" Tag="NPXXNXX">
+        <Form Tag="NS"></Form>
+        <Form Tag="GS"></Form>
+        <Form Tag="DS"></Form>
+        <Form Tag="AS"></Form>
+        <Form Tag="IS"></Form>
+        <Form Tag="LS"></Form>
+        <Form Tag="NP">Смілавічы</Form>
+        <Form Tag="GP">Смілавічаў</Form>
+        <Form Tag="DP">Смілавічам</Form>
+        <Form Tag="AP">Смілавічы</Form>
+        <Form Tag="IP">Смілавічамі</Form>
+        <Form Tag="LP">Смілавічах</Form>
     </Paradigm>
     <Paradigm pdgId="1127722" Lemma="Трокі" Tag="NPXXNXX">
         <Form Tag="NS"></Form>
@@ -770,20 +770,6 @@
         <Form Tag="IP">Філіпінамі</Form>
         <Form Tag="LP">Філіпінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127728" Lemma="Хойнікі" Tag="NPXXNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
-        <Form Tag="NP">Хойнікі</Form>
-        <Form Tag="GP">Хойнікаў</Form>
-        <Form Tag="DP">Хойнікам</Form>
-        <Form Tag="AP">Хойнікі</Form>
-        <Form Tag="IP">Хойнікамі</Form>
-        <Form Tag="LP">Хойніках</Form>
-    </Paradigm>
     <Paradigm pdgId="1127727" Lemma="Хімкі" Tag="NPXXNXX">
         <Form Tag="NS"></Form>
         <Form Tag="GS"></Form>
@@ -797,6 +783,20 @@
         <Form Tag="AP">Хімкі</Form>
         <Form Tag="IP">Хімкамі</Form>
         <Form Tag="LP">Хімках</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127728" Lemma="Хойнікі" Tag="NPXXNXX">
+        <Form Tag="NS"></Form>
+        <Form Tag="GS"></Form>
+        <Form Tag="DS"></Form>
+        <Form Tag="AS"></Form>
+        <Form Tag="IS"></Form>
+        <Form Tag="LS"></Form>
+        <Form Tag="NP">Хойнікі</Form>
+        <Form Tag="GP">Хойнікаў</Form>
+        <Form Tag="DP">Хойнікам</Form>
+        <Form Tag="AP">Хойнікі</Form>
+        <Form Tag="IP">Хойнікамі</Form>
+        <Form Tag="LP">Хойніках</Form>
     </Paradigm>
     <Paradigm pdgId="1127729" Lemma="Чавусы" Tag="NPXXNXX">
         <Form Tag="NS"></Form>

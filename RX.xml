@@ -155,6 +155,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104358" Lemma="ані" Tag="RX">
+        <Form Tag="P">ані</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1146179" Lemma="антытэатральна" Tag="RX">
         <Form Tag="P">антытэатральна</Form>
         <Form Tag="C"></Form>
@@ -167,11 +172,6 @@
     </Paradigm>
     <Paradigm pdgId="1139052" Lemma="анямела" Tag="RX">
         <Form Tag="P">анямела</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104358" Lemma="ані" Tag="RX">
-        <Form Tag="P">ані</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -215,14 +215,14 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104360" Lemma="асцярожна" Tag="RX">
-        <Form Tag="P">асцярожна</Form>
-        <Form Tag="C">асцярожней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139060" Lemma="асірацела" Tag="RX">
         <Form Tag="P">асірацела</Form>
         <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104360" Lemma="асцярожна" Tag="RX">
+        <Form Tag="P">асцярожна</Form>
+        <Form Tag="C">асцярожней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139061" Lemma="атарапела" Tag="RX">
@@ -335,6 +335,11 @@
         <Form Tag="C">бесстаронней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139081" Lemma="бітком" Tag="RX">
+        <Form Tag="P">бітком</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1146204" Lemma="благотна-цяжка" Tag="RX">
         <Form Tag="P">благотна-цяжка</Form>
         <Form Tag="C"></Form>
@@ -395,16 +400,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139081" Lemma="бітком" Tag="RX">
-        <Form Tag="P">бітком</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139082" Lemma="ва-ўсю" Tag="RX">
-        <Form Tag="P">ва-ўсю</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1104375" Lemma="важна" Tag="RX">
         <Form Tag="P">важна</Form>
         <Form Tag="C">важней</Form>
@@ -425,6 +420,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139082" Lemma="ва-ўсю" Tag="RX">
+        <Form Tag="P">ва-ўсю</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139084" Lemma="ваўчком" Tag="RX">
         <Form Tag="P">ваўчком</Form>
         <Form Tag="C"></Form>
@@ -435,14 +435,14 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104378" Lemma="вельмі" Tag="RX">
-        <Form Tag="P">вельмі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139086" Lemma="велікадушна" Tag="RX">
         <Form Tag="P">велікадушна</Form>
         <Form Tag="C">велікадушней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104378" Lemma="вельмі" Tag="RX">
+        <Form Tag="P">вельмі</Form>
+        <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139087" Lemma="верхам" Tag="RX">
@@ -462,6 +462,26 @@
     </Paradigm>
     <Paradigm pdgId="1104381" Lemma="вечна" Tag="RX">
         <Form Tag="P">вечна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139107" Lemma="відочна" Tag="RX">
+        <Form Tag="P">відочна</Form>
+        <Form Tag="C">відочней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139108" Lemma="візаві" Tag="RX">
+        <Form Tag="P">візаві</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139109" Lemma="вінтом" Tag="RX">
+        <Form Tag="P">вінтом</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104374" Lemma="віхрам" Tag="RX">
+        <Form Tag="P">віхрам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -582,26 +602,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139107" Lemma="відочна" Tag="RX">
-        <Form Tag="P">відочна</Form>
-        <Form Tag="C">відочней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139108" Lemma="візаві" Tag="RX">
-        <Form Tag="P">візаві</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139109" Lemma="вінтом" Tag="RX">
-        <Form Tag="P">вінтом</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104374" Lemma="віхрам" Tag="RX">
-        <Form Tag="P">віхрам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139110" Lemma="гадамі" Tag="RX">
         <Form Tag="P">гадамі</Form>
         <Form Tag="C"></Form>
@@ -634,6 +634,21 @@
     </Paradigm>
     <Paradigm pdgId="1139116" Lemma="гвалтам" Tag="RX">
         <Form Tag="P">гвалтам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139120" Lemma="гібельна" Tag="RX">
+        <Form Tag="P">гібельна</Form>
+        <Form Tag="C">гібельней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139121" Lemma="гібка" Tag="RX">
+        <Form Tag="P">гібка</Form>
+        <Form Tag="C">гібчэй</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139122" Lemma="гігравата" Tag="RX">
+        <Form Tag="P">гігравата</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -689,21 +704,6 @@
     </Paradigm>
     <Paradigm pdgId="1146269" Lemma="гэтаксама" Tag="RX">
         <Form Tag="P">гэтаксама</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139120" Lemma="гібельна" Tag="RX">
-        <Form Tag="P">гібельна</Form>
-        <Form Tag="C">гібельней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139121" Lemma="гібка" Tag="RX">
-        <Form Tag="P">гібка</Form>
-        <Form Tag="C">гібчэй</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139122" Lemma="гігравата" Tag="RX">
-        <Form Tag="P">гігравата</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -787,16 +787,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104400" Lemma="далоў" Tag="RX">
-        <Form Tag="P">далоў</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139133" Lemma="дальнабачна" Tag="RX">
-        <Form Tag="P">дальнабачна</Form>
-        <Form Tag="C">дальнабачней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1104398" Lemma="далёка" Tag="RX">
         <Form Tag="P">далёка</Form>
         <Form Tag="C">далей</Form>
@@ -805,6 +795,16 @@
     <Paradigm pdgId="1139134" Lemma="далёка-далёка" Tag="RX">
         <Form Tag="P">далёка-далёка</Form>
         <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104400" Lemma="далоў" Tag="RX">
+        <Form Tag="P">далоў</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139133" Lemma="дальнабачна" Tag="RX">
+        <Form Tag="P">дальнабачна</Form>
+        <Form Tag="C">дальнабачней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1104401" Lemma="дамавіта" Tag="RX">
@@ -872,6 +872,26 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139147" Lemma="даўнавата" Tag="RX">
+        <Form Tag="P">даўнавата</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139148" Lemma="даўней" Tag="RX">
+        <Form Tag="P">даўней</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104391" Lemma="даўно" Tag="RX">
+        <Form Tag="P">даўно</Form>
+        <Form Tag="C">даўней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1146273" Lemma="даўно-даўно" Tag="RX">
+        <Form Tag="P">даўно-даўно</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1104404" Lemma="дахаты" Tag="RX">
         <Form Tag="P">дахаты</Form>
         <Form Tag="C"></Form>
@@ -894,26 +914,6 @@
     </Paradigm>
     <Paradigm pdgId="1139146" Lemma="дашчэнту" Tag="RX">
         <Form Tag="P">дашчэнту</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139147" Lemma="даўнавата" Tag="RX">
-        <Form Tag="P">даўнавата</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139148" Lemma="даўней" Tag="RX">
-        <Form Tag="P">даўней</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104391" Lemma="даўно" Tag="RX">
-        <Form Tag="P">даўно</Form>
-        <Form Tag="C">даўней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1146273" Lemma="даўно-даўно" Tag="RX">
-        <Form Tag="P">даўно-даўно</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -977,13 +977,13 @@
         <Form Tag="C">дзіўней</Form>
         <Form Tag="S">найдзіўней</Form>
     </Paradigm>
-    <Paradigm pdgId="1139157" Lemma="днямі" Tag="RX">
-        <Form Tag="P">днямі</Form>
+    <Paradigm pdgId="1139158" Lemma="днём" Tag="RX">
+        <Form Tag="P">днём</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139158" Lemma="днём" Tag="RX">
-        <Form Tag="P">днём</Form>
+    <Paradigm pdgId="1139157" Lemma="днямі" Tag="RX">
+        <Form Tag="P">днямі</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1066,6 +1066,11 @@
         <Form Tag="C">дымней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104413" Lemma="дэманстрацыйна" Tag="RX">
+        <Form Tag="P">дэманстрацыйна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139167" Lemma="дэ-факта" Tag="RX">
         <Form Tag="P">дэ-факта</Form>
         <Form Tag="C"></Form>
@@ -1076,9 +1081,9 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104413" Lemma="дэманстрацыйна" Tag="RX">
-        <Form Tag="P">дэманстрацыйна</Form>
-        <Form Tag="C"></Form>
+    <Paradigm pdgId="1139024" Lemma="ёмка" Tag="RX">
+        <Form Tag="P">ёмка</Form>
+        <Form Tag="C">ямчэй</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139169" Lemma="жартам" Tag="RX">
@@ -1131,6 +1136,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139178" Lemma="завідна" Tag="RX">
+        <Form Tag="P">завідна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1104418" Lemma="завошта" Tag="RX">
         <Form Tag="P">завошта</Form>
         <Form Tag="C"></Form>
@@ -1138,11 +1148,6 @@
     </Paradigm>
     <Paradigm pdgId="1146183" Lemma="завуалявана" Tag="RX">
         <Form Tag="P">завуалявана</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139178" Lemma="завідна" Tag="RX">
-        <Form Tag="P">завідна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1211,14 +1216,14 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139191" Lemma="залпам" Tag="RX">
-        <Form Tag="P">залпам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139192" Lemma="залівіста" Tag="RX">
         <Form Tag="P">залівіста</Form>
         <Form Tag="C">залівісцей</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139191" Lemma="залпам" Tag="RX">
+        <Form Tag="P">залпам</Form>
+        <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139193" Lemma="замалада" Tag="RX">
@@ -1301,21 +1306,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139205" Lemma="зацемна" Tag="RX">
-        <Form Tag="P">зацемна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139206" Lemma="зацепла" Tag="RX">
-        <Form Tag="P">зацепла</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139207" Lemma="зашмат" Tag="RX">
-        <Form Tag="P">зашмат</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139208" Lemma="заўжды" Tag="RX">
         <Form Tag="P">заўжды</Form>
         <Form Tag="C"></Form>
@@ -1336,6 +1326,21 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139205" Lemma="зацемна" Tag="RX">
+        <Form Tag="P">зацемна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139206" Lemma="зацепла" Tag="RX">
+        <Form Tag="P">зацепла</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139207" Lemma="зашмат" Tag="RX">
+        <Form Tag="P">зашмат</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139210" Lemma="зблізку" Tag="RX">
         <Form Tag="P">зблізку</Form>
         <Form Tag="C"></Form>
@@ -1353,6 +1358,11 @@
     </Paradigm>
     <Paradigm pdgId="1139213" Lemma="звечара" Tag="RX">
         <Form Tag="P">звечара</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139218" Lemma="звідна" Tag="RX">
+        <Form Tag="P">звідна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1383,11 +1393,6 @@
     </Paradigm>
     <Paradigm pdgId="1104424" Lemma="звычайна" Tag="RX">
         <Form Tag="P">звычайна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139218" Lemma="звідна" Tag="RX">
-        <Form Tag="P">звідна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1431,6 +1436,16 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104415" Lemma="зімой" Tag="RX">
+        <Form Tag="P">зімой</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139238" Lemma="зімою" Tag="RX">
+        <Form Tag="P">зімою</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139224" Lemma="злёгку" Tag="RX">
         <Form Tag="P">злёгку</Form>
         <Form Tag="C"></Form>
@@ -1471,18 +1486,23 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104428" Lemma="знізу" Tag="RX">
+        <Form Tag="P">знізу</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1104430" Lemma="зноў" Tag="RX">
         <Form Tag="P">зноў</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139230" Lemma="зноў-такі" Tag="RX">
-        <Form Tag="P">зноў-такі</Form>
+    <Paradigm pdgId="1139231" Lemma="зноўку" Tag="RX">
+        <Form Tag="P">зноўку</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139231" Lemma="зноўку" Tag="RX">
-        <Form Tag="P">зноўку</Form>
+    <Paradigm pdgId="1139230" Lemma="зноў-такі" Tag="RX">
+        <Form Tag="P">зноў-такі</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1498,11 +1518,6 @@
     </Paradigm>
     <Paradigm pdgId="1139234" Lemma="знячэўку" Tag="RX">
         <Form Tag="P">знячэўку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104428" Lemma="знізу" Tag="RX">
-        <Form Tag="P">знізу</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1531,13 +1546,43 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104415" Lemma="зімой" Tag="RX">
-        <Form Tag="P">зімой</Form>
+    <Paradigm pdgId="1104347" Lemma="ідэйна" Tag="RX">
+        <Form Tag="P">ідэйна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139238" Lemma="зімою" Tag="RX">
-        <Form Tag="P">зімою</Form>
+    <Paradigm pdgId="1104348" Lemma="ізноў" Tag="RX">
+        <Form Tag="P">ізноў</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139979" Lemma="імпазантна" Tag="RX">
+        <Form Tag="P">імпазантна</Form>
+        <Form Tag="C">імпазантней</Form>
+        <Form Tag="S">найімпазантней</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104349" Lemma="інакш" Tag="RX">
+        <Form Tag="P">інакш</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1146198" Lemma="індустрыяльна" Tag="RX">
+        <Form Tag="P">індустрыяльна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139980" Lemma="інертна" Tag="RX">
+        <Form Tag="P">інертна</Form>
+        <Form Tag="C">інертней</Form>
+        <Form Tag="S">найінертней</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160171" Lemma="інкогніта" Tag="RX">
+        <Form Tag="P">інкогніта</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1146199" Lemma="інстытуцыянальна" Tag="RX">
+        <Form Tag="P">інстытуцыянальна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1596,6 +1641,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139260" Lemma="кішма" Tag="RX">
+        <Form Tag="P">кішма</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139248" Lemma="колка" Tag="RX">
         <Form Tag="P">колка</Form>
         <Form Tag="C"></Form>
@@ -1621,13 +1671,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139252" Lemma="крыж-накрыж" Tag="RX">
-        <Form Tag="P">крыж-накрыж</Form>
+    <Paradigm pdgId="1139253" Lemma="крыжам" Tag="RX">
+        <Form Tag="P">крыжам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139253" Lemma="крыжам" Tag="RX">
-        <Form Tag="P">крыжам</Form>
+    <Paradigm pdgId="1139252" Lemma="крыж-накрыж" Tag="RX">
+        <Form Tag="P">крыж-накрыж</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1686,43 +1736,8 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139260" Lemma="кішма" Tag="RX">
-        <Form Tag="P">кішма</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139261" Lemma="ланцугом" Tag="RX">
         <Form Tag="P">ланцугом</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104442" Lemma="ледзь" Tag="RX">
-        <Form Tag="P">ледзь</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139262" Lemma="ледзь-ледзь" Tag="RX">
-        <Form Tag="P">ледзь-ледзь</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139263" Lemma="ледзьве" Tag="RX">
-        <Form Tag="P">ледзьве</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139264" Lemma="летам" Tag="RX">
-        <Form Tag="P">летам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139265" Lemma="летась" Tag="RX">
-        <Form Tag="P">летась</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139266" Lemma="льготна" Tag="RX">
-        <Form Tag="P">льготна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1741,6 +1756,36 @@
         <Form Tag="C">лягчэй</Form>
         <Form Tag="S">найлягчэй</Form>
     </Paradigm>
+    <Paradigm pdgId="1104442" Lemma="ледзь" Tag="RX">
+        <Form Tag="P">ледзь</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139263" Lemma="ледзьве" Tag="RX">
+        <Form Tag="P">ледзьве</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139262" Lemma="ледзь-ледзь" Tag="RX">
+        <Form Tag="P">ледзь-ледзь</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139264" Lemma="летам" Tag="RX">
+        <Form Tag="P">летам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139265" Lemma="летась" Tag="RX">
+        <Form Tag="P">летась</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139266" Lemma="льготна" Tag="RX">
+        <Form Tag="P">льготна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1104445" Lemma="магчыма" Tag="RX">
         <Form Tag="P">магчыма</Form>
         <Form Tag="C"></Form>
@@ -1758,23 +1803,23 @@
         <Form Tag="S">найменш</Form>
         <Form Tag="S">найменей</Form>
     </Paradigm>
-    <Paradigm pdgId="1139270" Lemma="мала-памалу" Tag="RX">
-        <Form Tag="P">мала-памалу</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139271" Lemma="малавоблачна" Tag="RX">
         <Form Tag="P">малавоблачна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139272" Lemma="махам" Tag="RX">
-        <Form Tag="P">махам</Form>
+    <Paradigm pdgId="1139270" Lemma="мала-памалу" Tag="RX">
+        <Form Tag="P">мала-памалу</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139273" Lemma="маўчком" Tag="RX">
         <Form Tag="P">маўчком</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139272" Lemma="махам" Tag="RX">
+        <Form Tag="P">махам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1823,48 +1868,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104449" Lemma="многа" Tag="RX">
-        <Form Tag="P">многа</Form>
-        <Form Tag="C">больш</Form>
-        <Form Tag="C">болей</Form>
-        <Form Tag="S">найбольш</Form>
-        <Form Tag="S">найболей</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139281" Lemma="многа-многа" Tag="RX">
-        <Form Tag="P">многа-многа</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104451" Lemma="моцна" Tag="RX">
-        <Form Tag="P">моцна</Form>
-        <Form Tag="C">мацней</Form>
-        <Form Tag="S">наймацней</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139282" Lemma="моцна-моцна" Tag="RX">
-        <Form Tag="P">моцна-моцна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104450" Lemma="моўчкі" Tag="RX">
-        <Form Tag="P">моўчкі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139342" Lemma="мудра" Tag="RX">
-        <Form Tag="P">мудра</Form>
-        <Form Tag="C">мудрэй</Form>
-        <Form Tag="S">наймудрэй</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139283" Lemma="мысленна" Tag="RX">
-        <Form Tag="P">мысленна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139284" Lemma="мяльком" Tag="RX">
-        <Form Tag="P">мяльком</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139285" Lemma="мігам" Tag="RX">
         <Form Tag="P">мігам</Form>
         <Form Tag="C"></Form>
@@ -1905,8 +1908,45 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139292" Lemma="на-гара" Tag="RX">
-        <Form Tag="P">на-гара</Form>
+    <Paradigm pdgId="1104449" Lemma="многа" Tag="RX">
+        <Form Tag="P">многа</Form>
+        <Form Tag="C">больш</Form>
+        <Form Tag="C">болей</Form>
+        <Form Tag="S">найбольш</Form>
+        <Form Tag="S">найболей</Form>
+    </Paradigm>
+    <Paradigm pdgId="1139281" Lemma="многа-многа" Tag="RX">
+        <Form Tag="P">многа-многа</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104450" Lemma="моўчкі" Tag="RX">
+        <Form Tag="P">моўчкі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104451" Lemma="моцна" Tag="RX">
+        <Form Tag="P">моцна</Form>
+        <Form Tag="C">мацней</Form>
+        <Form Tag="S">наймацней</Form>
+    </Paradigm>
+    <Paradigm pdgId="1139282" Lemma="моцна-моцна" Tag="RX">
+        <Form Tag="P">моцна-моцна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139342" Lemma="мудра" Tag="RX">
+        <Form Tag="P">мудра</Form>
+        <Form Tag="C">мудрэй</Form>
+        <Form Tag="S">наймудрэй</Form>
+    </Paradigm>
+    <Paradigm pdgId="1139283" Lemma="мысленна" Tag="RX">
+        <Form Tag="P">мысленна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139284" Lemma="мяльком" Tag="RX">
+        <Form Tag="P">мяльком</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -1962,6 +2002,11 @@
     </Paradigm>
     <Paradigm pdgId="1139303" Lemma="навечна" Tag="RX">
         <Form Tag="P">навечна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139316" Lemma="навідавоку" Tag="RX">
+        <Form Tag="P">навідавоку</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2040,13 +2085,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139316" Lemma="навідавоку" Tag="RX">
-        <Form Tag="P">навідавоку</Form>
+    <Paradigm pdgId="1139317" Lemma="нагала" Tag="RX">
+        <Form Tag="P">нагала</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139317" Lemma="нагала" Tag="RX">
-        <Form Tag="P">нагала</Form>
+    <Paradigm pdgId="1139292" Lemma="на-гара" Tag="RX">
+        <Form Tag="P">на-гара</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2180,6 +2225,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139341" Lemma="назіркам" Tag="RX">
+        <Form Tag="P">назіркам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1104464" Lemma="назло" Tag="RX">
         <Form Tag="P">назло</Form>
         <Form Tag="C"></Form>
@@ -2197,11 +2247,6 @@
     </Paradigm>
     <Paradigm pdgId="1139340" Lemma="назусім" Tag="RX">
         <Form Tag="P">назусім</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139341" Lemma="назіркам" Tag="RX">
-        <Form Tag="P">назіркам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2240,23 +2285,23 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139351" Lemma="намертва" Tag="RX">
-        <Form Tag="P">намертва</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139352" Lemma="намнога" Tag="RX">
-        <Form Tag="P">намнога</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139353" Lemma="намёкам" Tag="RX">
         <Form Tag="P">намёкам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139351" Lemma="намертва" Tag="RX">
+        <Form Tag="P">намертва</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139354" Lemma="намёртва" Tag="RX">
         <Form Tag="P">намёртва</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139352" Lemma="намнога" Tag="RX">
+        <Form Tag="P">намнога</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2330,13 +2375,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1146186" Lemma="напачатку" Tag="RX">
-        <Form Tag="P">напачатку</Form>
+    <Paradigm pdgId="1139367" Lemma="напаўголаса" Tag="RX">
+        <Form Tag="P">напаўголаса</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139367" Lemma="напаўголаса" Tag="RX">
-        <Form Tag="P">напаўголаса</Form>
+    <Paradigm pdgId="1146186" Lemma="напачатку" Tag="RX">
+        <Form Tag="P">напачатку</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2420,13 +2465,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139382" Lemma="напралом" Tag="RX">
-        <Form Tag="P">напралом</Form>
+    <Paradigm pdgId="1139383" Lemma="напралёт" Tag="RX">
+        <Form Tag="P">напралёт</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139383" Lemma="напралёт" Tag="RX">
-        <Form Tag="P">напралёт</Form>
+    <Paradigm pdgId="1139382" Lemma="напралом" Tag="RX">
+        <Form Tag="P">напралом</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2525,6 +2570,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139410" Lemma="насілу" Tag="RX">
+        <Form Tag="P">насілу</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139397" Lemma="наскокам" Tag="RX">
         <Form Tag="P">наскокам</Form>
         <Form Tag="C"></Form>
@@ -2605,11 +2655,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139410" Lemma="насілу" Tag="RX">
-        <Form Tag="P">насілу</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139411" Lemma="натоўпам" Tag="RX">
         <Form Tag="P">натоўпам</Form>
         <Form Tag="C"></Form>
@@ -2617,51 +2662,6 @@
     </Paradigm>
     <Paradigm pdgId="1139412" Lemma="натрае" Tag="RX">
         <Form Tag="P">натрае</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139413" Lemma="нацянькі" Tag="RX">
-        <Form Tag="P">нацянькі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139414" Lemma="начарна" Tag="RX">
-        <Form Tag="P">начарна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139415" Lemma="начыста" Tag="RX">
-        <Form Tag="P">начыста</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1163255" Lemma="нашмат" Tag="RX">
-        <Form Tag="P">нашмат</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104474" Lemma="нашто" Tag="RX">
-        <Form Tag="P">нашто</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1163254" Lemma="нашча" Tag="RX">
-        <Form Tag="P">нашча</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139416" Lemma="нашчэнт" Tag="RX">
-        <Form Tag="P">нашчэнт</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139417" Lemma="наяве" Tag="RX">
-        <Form Tag="P">наяве</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139418" Lemma="наяву" Tag="RX">
-        <Form Tag="P">наяву</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2740,13 +2740,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139434" Lemma="наўскос" Tag="RX">
-        <Form Tag="P">наўскос</Form>
+    <Paradigm pdgId="1139435" Lemma="наўскід" Tag="RX">
+        <Form Tag="P">наўскід</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139435" Lemma="наўскід" Tag="RX">
-        <Form Tag="P">наўскід</Form>
+    <Paradigm pdgId="1139434" Lemma="наўскос" Tag="RX">
+        <Form Tag="P">наўскос</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2757,6 +2757,51 @@
     </Paradigm>
     <Paradigm pdgId="1139437" Lemma="наўцёкі" Tag="RX">
         <Form Tag="P">наўцёкі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139413" Lemma="нацянькі" Tag="RX">
+        <Form Tag="P">нацянькі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139414" Lemma="начарна" Tag="RX">
+        <Form Tag="P">начарна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139415" Lemma="начыста" Tag="RX">
+        <Form Tag="P">начыста</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1163255" Lemma="нашмат" Tag="RX">
+        <Form Tag="P">нашмат</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104474" Lemma="нашто" Tag="RX">
+        <Form Tag="P">нашто</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1163254" Lemma="нашча" Tag="RX">
+        <Form Tag="P">нашча</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139416" Lemma="нашчэнт" Tag="RX">
+        <Form Tag="P">нашчэнт</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139417" Lemma="наяве" Tag="RX">
+        <Form Tag="P">наяве</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139418" Lemma="наяву" Tag="RX">
+        <Form Tag="P">наяву</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2795,13 +2840,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139443" Lemma="негліжэ" Tag="RX">
-        <Form Tag="P">негліжэ</Form>
+    <Paradigm pdgId="1139444" Lemma="негігіенічна" Tag="RX">
+        <Form Tag="P">негігіенічна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139444" Lemma="негігіенічна" Tag="RX">
-        <Form Tag="P">негігіенічна</Form>
+    <Paradigm pdgId="1139443" Lemma="негліжэ" Tag="RX">
+        <Form Tag="P">негліжэ</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2860,13 +2905,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104480" Lemma="некалькі" Tag="RX">
-        <Form Tag="P">некалькі</Form>
+    <Paradigm pdgId="1104479" Lemma="некалі" Tag="RX">
+        <Form Tag="P">некалі</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104479" Lemma="некалі" Tag="RX">
-        <Form Tag="P">некалі</Form>
+    <Paradigm pdgId="1104480" Lemma="некалькі" Tag="RX">
+        <Form Tag="P">некалькі</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2875,13 +2920,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104481" Lemma="нельга" Tag="RX">
-        <Form Tag="P">нельга</Form>
+    <Paradigm pdgId="1139454" Lemma="нелітасціва" Tag="RX">
+        <Form Tag="P">нелітасціва</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139454" Lemma="нелітасціва" Tag="RX">
-        <Form Tag="P">нелітасціва</Form>
+    <Paradigm pdgId="1104481" Lemma="нельга" Tag="RX">
+        <Form Tag="P">нельга</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -2965,6 +3010,36 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104475" Lemma="неўзабаве" Tag="RX">
+        <Form Tag="P">неўзабаве</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139475" Lemma="неўзаметку" Tag="RX">
+        <Form Tag="P">неўзаметку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139476" Lemma="неўпапад" Tag="RX">
+        <Form Tag="P">неўпапад</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139477" Lemma="неўпрыкмет" Tag="RX">
+        <Form Tag="P">неўпрыкмет</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139478" Lemma="неўразумела" Tag="RX">
+        <Form Tag="P">неўразумела</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139479" Lemma="неўспадзеўкі" Tag="RX">
+        <Form Tag="P">неўспадзеўкі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139470" Lemma="нехаця" Tag="RX">
         <Form Tag="P">нехаця</Form>
         <Form Tag="C"></Form>
@@ -3005,33 +3080,93 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104475" Lemma="неўзабаве" Tag="RX">
-        <Form Tag="P">неўзабаве</Form>
+    <Paradigm pdgId="1139511" Lemma="ніадкуль" Tag="RX">
+        <Form Tag="P">ніадкуль</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139475" Lemma="неўзаметку" Tag="RX">
-        <Form Tag="P">неўзаметку</Form>
+    <Paradigm pdgId="1104452" Lemma="нідзе" Tag="RX">
+        <Form Tag="P">нідзе</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139476" Lemma="неўпапад" Tag="RX">
-        <Form Tag="P">неўпапад</Form>
+    <Paradigm pdgId="1139513" Lemma="нізавошта" Tag="RX">
+        <Form Tag="P">нізавошта</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139477" Lemma="неўпрыкмет" Tag="RX">
-        <Form Tag="P">неўпрыкмет</Form>
+    <Paradigm pdgId="1139514" Lemma="нізам" Tag="RX">
+        <Form Tag="P">нізам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139478" Lemma="неўразумела" Tag="RX">
-        <Form Tag="P">неўразумела</Form>
+    <Paradigm pdgId="1139515" Lemma="нізашто" Tag="RX">
+        <Form Tag="P">нізашто</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139479" Lemma="неўспадзеўкі" Tag="RX">
-        <Form Tag="P">неўспадзеўкі</Form>
+    <Paradigm pdgId="1139512" Lemma="нізка" Tag="RX">
+        <Form Tag="P">нізка</Form>
+        <Form Tag="C">ніжэй</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139516" Lemma="нізкавата" Tag="RX">
+        <Form Tag="P">нізкавата</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104453" Lemma="ніколі" Tag="RX">
+        <Form Tag="P">ніколі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139517" Lemma="ніколькі" Tag="RX">
+        <Form Tag="P">ніколькі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104454" Lemma="нікуды" Tag="RX">
+        <Form Tag="P">нікуды</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139510" Lemma="ні-ні" Tag="RX">
+        <Form Tag="P">ні-ні</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139518" Lemma="ніц" Tag="RX">
+        <Form Tag="P">ніц</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139519" Lemma="ніцма" Tag="RX">
+        <Form Tag="P">ніцма</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104455" Lemma="нічога" Tag="RX">
+        <Form Tag="P">нічога</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139520" Lemma="нічуць" Tag="RX">
+        <Form Tag="P">нічуць</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139521" Lemma="нішкам" Tag="RX">
+        <Form Tag="P">нішкам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139522" Lemma="нішто" Tag="RX">
+        <Form Tag="P">нішто</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104456" Lemma="ніяк" Tag="RX">
+        <Form Tag="P">ніяк</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3066,6 +3201,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139488" Lemma="нягібка" Tag="RX">
+        <Form Tag="P">нягібка</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139485" Lemma="нягладка" Tag="RX">
         <Form Tag="P">нягладка</Form>
         <Form Tag="C"></Form>
@@ -3078,11 +3218,6 @@
     </Paradigm>
     <Paradigm pdgId="1139487" Lemma="нягуста" Tag="RX">
         <Form Tag="P">нягуста</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139488" Lemma="нягібка" Tag="RX">
-        <Form Tag="P">нягібка</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3111,11 +3246,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139492" Lemma="нямнога" Tag="RX">
-        <Form Tag="P">нямнога</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139493" Lemma="няміла" Tag="RX">
         <Form Tag="P">няміла</Form>
         <Form Tag="C"></Form>
@@ -3128,6 +3258,11 @@
     </Paradigm>
     <Paradigm pdgId="1139495" Lemma="няміласціва" Tag="RX">
         <Form Tag="P">няміласціва</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139492" Lemma="нямнога" Tag="RX">
+        <Form Tag="P">нямнога</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3148,11 +3283,6 @@
     </Paradigm>
     <Paradigm pdgId="1139499" Lemma="нястройна" Tag="RX">
         <Form Tag="P">нястройна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139500" Lemma="няшмат" Tag="RX">
-        <Form Tag="P">няшмат</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3206,93 +3336,8 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139510" Lemma="ні-ні" Tag="RX">
-        <Form Tag="P">ні-ні</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139511" Lemma="ніадкуль" Tag="RX">
-        <Form Tag="P">ніадкуль</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104452" Lemma="нідзе" Tag="RX">
-        <Form Tag="P">нідзе</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139513" Lemma="нізавошта" Tag="RX">
-        <Form Tag="P">нізавошта</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139514" Lemma="нізам" Tag="RX">
-        <Form Tag="P">нізам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139515" Lemma="нізашто" Tag="RX">
-        <Form Tag="P">нізашто</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139512" Lemma="нізка" Tag="RX">
-        <Form Tag="P">нізка</Form>
-        <Form Tag="C">ніжэй</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139516" Lemma="нізкавата" Tag="RX">
-        <Form Tag="P">нізкавата</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139517" Lemma="ніколькі" Tag="RX">
-        <Form Tag="P">ніколькі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104453" Lemma="ніколі" Tag="RX">
-        <Form Tag="P">ніколі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104454" Lemma="нікуды" Tag="RX">
-        <Form Tag="P">нікуды</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139518" Lemma="ніц" Tag="RX">
-        <Form Tag="P">ніц</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139519" Lemma="ніцма" Tag="RX">
-        <Form Tag="P">ніцма</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104455" Lemma="нічога" Tag="RX">
-        <Form Tag="P">нічога</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139520" Lemma="нічуць" Tag="RX">
-        <Form Tag="P">нічуць</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139521" Lemma="нішкам" Tag="RX">
-        <Form Tag="P">нішкам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139522" Lemma="нішто" Tag="RX">
-        <Form Tag="P">нішто</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104456" Lemma="ніяк" Tag="RX">
-        <Form Tag="P">ніяк</Form>
+    <Paradigm pdgId="1139500" Lemma="няшмат" Tag="RX">
+        <Form Tag="P">няшмат</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3331,6 +3376,16 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139599" Lemma="паасобку" Tag="RX">
+        <Form Tag="P">паасобку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139600" Lemma="пабатальённа" Tag="RX">
+        <Form Tag="P">пабатальённа</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139529" Lemma="па-бацькоўску" Tag="RX">
         <Form Tag="P">па-бацькоўску</Form>
         <Form Tag="C"></Form>
@@ -3338,6 +3393,11 @@
     </Paradigm>
     <Paradigm pdgId="1139530" Lemma="па-беларуску" Tag="RX">
         <Form Tag="P">па-беларуску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139601" Lemma="паблізу" Tag="RX">
+        <Form Tag="P">паблізу</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3356,6 +3416,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139602" Lemma="пабрыгадна" Tag="RX">
+        <Form Tag="P">пабрыгадна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139533" Lemma="па-будзённаму" Tag="RX">
         <Form Tag="P">па-будзённаму</Form>
         <Form Tag="C"></Form>
@@ -3363,6 +3428,16 @@
     </Paradigm>
     <Paradigm pdgId="1139534" Lemma="па-в'етнамску" Tag="RX">
         <Form Tag="P">па-в'етнамску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139603" Lemma="павабліва" Tag="RX">
+        <Form Tag="P">павабліва</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139604" Lemma="павабна" Tag="RX">
+        <Form Tag="P">павабна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3381,9 +3456,39 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104498" Lemma="павек" Tag="RX">
+        <Form Tag="P">павек</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139605" Lemma="паверсе" Tag="RX">
+        <Form Tag="P">паверсе</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139606" Lemma="паверх" Tag="RX">
+        <Form Tag="P">паверх</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139538" Lemma="па-веснавому" Tag="RX">
         <Form Tag="P">па-веснавому</Form>
         <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139607" Lemma="паводдаль" Tag="RX">
+        <Form Tag="P">паводдаль</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139608" Lemma="паволі" Tag="RX">
+        <Form Tag="P">паволі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104499" Lemma="павольна" Tag="RX">
+        <Form Tag="P">павольна</Form>
+        <Form Tag="C">павольней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139539" Lemma="па-восьмае" Tag="RX">
@@ -3421,8 +3526,18 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139609" Lemma="пагадова" Tag="RX">
+        <Form Tag="P">пагадова</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139545" Lemma="па-гарадскому" Tag="RX">
         <Form Tag="P">па-гарадскому</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139610" Lemma="пагатоў" Tag="RX">
+        <Form Tag="P">пагатоў</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3436,6 +3551,16 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139611" Lemma="пагрозна" Tag="RX">
+        <Form Tag="P">пагрозна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104500" Lemma="пагэтуль" Tag="RX">
+        <Form Tag="P">пагэтуль</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139548" Lemma="па-дамашняму" Tag="RX">
         <Form Tag="P">па-дамашняму</Form>
         <Form Tag="C"></Form>
@@ -3446,8 +3571,18 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139612" Lemma="падаўна" Tag="RX">
+        <Form Tag="P">падаўна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139550" Lemma="па-дацку" Tag="RX">
         <Form Tag="P">па-дацку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139613" Lemma="падзённа" Tag="RX">
+        <Form Tag="P">падзённа</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3458,6 +3593,21 @@
     </Paradigm>
     <Paradigm pdgId="1139552" Lemma="па-добраму" Tag="RX">
         <Form Tag="P">па-добраму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139614" Lemma="падоўгу" Tag="RX">
+        <Form Tag="P">падоўгу</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139615" Lemma="падпахі" Tag="RX">
+        <Form Tag="P">падпахі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139616" Lemma="падрад" Tag="RX">
+        <Form Tag="P">падрад</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3476,8 +3626,63 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139617" Lemma="падчас" Tag="RX">
+        <Form Tag="P">падчас</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139556" Lemma="па-еўрапейску" Tag="RX">
         <Form Tag="P">па-еўрапейску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139618" Lemma="пазалетась" Tag="RX">
+        <Form Tag="P">пазалетась</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139619" Lemma="пазаўчора" Tag="RX">
+        <Form Tag="P">пазаўчора</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139620" Lemma="пазменна" Tag="RX">
+        <Form Tag="P">пазменна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139621" Lemma="пазнавата" Tag="RX">
+        <Form Tag="P">пазнавата</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139594" Lemma="па-іншаму" Tag="RX">
+        <Form Tag="P">па-іншаму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139595" Lemma="па-іхняму" Tag="RX">
+        <Form Tag="P">па-іхняму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139622" Lemma="пакрысе" Tag="RX">
+        <Form Tag="P">пакрысе</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139623" Lemma="пакрыху" Tag="RX">
+        <Form Tag="P">пакрыху</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139624" Lemma="пакрышку" Tag="RX">
+        <Form Tag="P">пакрышку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104501" Lemma="пакуль" Tag="RX">
+        <Form Tag="P">пакуль</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3491,13 +3696,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139559" Lemma="па-людску" Tag="RX">
-        <Form Tag="P">па-людску</Form>
+    <Paradigm pdgId="1139560" Lemma="па-літоўску" Tag="RX">
+        <Form Tag="P">па-літоўску</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139560" Lemma="па-літоўску" Tag="RX">
-        <Form Tag="P">па-літоўску</Form>
+    <Paradigm pdgId="1139559" Lemma="па-людску" Tag="RX">
+        <Form Tag="P">па-людску</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3506,8 +3711,23 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139625" Lemma="памаленьку" Tag="RX">
+        <Form Tag="P">памаленьку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139626" Lemma="памалу" Tag="RX">
+        <Form Tag="P">памалу</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139562" Lemma="па-мацярынску" Tag="RX">
         <Form Tag="P">па-мацярынску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139627" Lemma="памінутна" Tag="RX">
+        <Form Tag="P">памінутна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3541,8 +3761,28 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139628" Lemma="паняволі" Tag="RX">
+        <Form Tag="P">паняволі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139568" Lemma="па-нявольніцку" Tag="RX">
         <Form Tag="P">па-нявольніцку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139629" Lemma="папалам" Tag="RX">
+        <Form Tag="P">папалам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139631" Lemma="папаўдні" Tag="RX">
+        <Form Tag="P">папаўдні</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139630" Lemma="папацёмку" Tag="RX">
+        <Form Tag="P">папацёмку</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3556,13 +3796,28 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139632" Lemma="папоўначы" Tag="RX">
+        <Form Tag="P">папоўначы</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139571" Lemma="па-простаму" Tag="RX">
         <Form Tag="P">па-простаму</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139633" Lemma="папросту" Tag="RX">
+        <Form Tag="P">папросту</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139572" Lemma="па-прыяцельску" Tag="RX">
         <Form Tag="P">па-прыяцельску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139634" Lemma="папярок" Tag="RX">
+        <Form Tag="P">папярок</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3576,9 +3831,34 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139635" Lemma="параўнаўча" Tag="RX">
+        <Form Tag="P">параўнаўча</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139574" Lemma="па-рознаму" Tag="RX">
         <Form Tag="P">па-рознаму</Form>
         <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139637" Lemma="пароўну" Tag="RX">
+        <Form Tag="P">пароўну</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139636" Lemma="парою" Tag="RX">
+        <Form Tag="P">парою</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104502" Lemma="партыйна" Tag="RX">
+        <Form Tag="P">партыйна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139638" Lemma="парывіста" Tag="RX">
+        <Form Tag="P">парывіста</Form>
+        <Form Tag="C">парывісцей</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139575" Lemma="па-салаўінаму" Tag="RX">
@@ -3611,344 +3891,9 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139579" Lemma="па-старому" Tag="RX">
-        <Form Tag="P">па-старому</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139580" Lemma="па-сур'ёзнаму" Tag="RX">
-        <Form Tag="P">па-сур'ёзнаму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104496" Lemma="па-суседску" Tag="RX">
-        <Form Tag="P">па-суседску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139581" Lemma="па-сучаснаму" Tag="RX">
-        <Form Tag="P">па-сучаснаму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139582" Lemma="па-сяброўску" Tag="RX">
-        <Form Tag="P">па-сяброўску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139583" Lemma="па-сіроцку" Tag="RX">
         <Form Tag="P">па-сіроцку</Form>
         <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139584" Lemma="па-таварыску" Tag="RX">
-        <Form Tag="P">па-таварыску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104497" Lemma="па-твойму" Tag="RX">
-        <Form Tag="P">па-твойму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139585" Lemma="па-трэцяе" Tag="RX">
-        <Form Tag="P">па-трэцяе</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139586" Lemma="па-флоцку" Tag="RX">
-        <Form Tag="P">па-флоцку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139587" Lemma="па-філасофску" Tag="RX">
-        <Form Tag="P">па-філасофску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1146276" Lemma="па-хлапечы" Tag="RX">
-        <Form Tag="P">па-хлапечы</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139588" Lemma="па-хрысціянску" Tag="RX">
-        <Form Tag="P">па-хрысціянску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139589" Lemma="па-цяперашняму" Tag="RX">
-        <Form Tag="P">па-цяперашняму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139590" Lemma="па-чалавечы" Tag="RX">
-        <Form Tag="P">па-чалавечы</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139591" Lemma="па-чэшску" Tag="RX">
-        <Form Tag="P">па-чэшску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139592" Lemma="па-шатландску" Tag="RX">
-        <Form Tag="P">па-шатландску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139593" Lemma="па-шведску" Tag="RX">
-        <Form Tag="P">па-шведску</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139594" Lemma="па-іншаму" Tag="RX">
-        <Form Tag="P">па-іншаму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139595" Lemma="па-іхняму" Tag="RX">
-        <Form Tag="P">па-іхняму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139596" Lemma="па-ўдарнаму" Tag="RX">
-        <Form Tag="P">па-ўдарнаму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139597" Lemma="па-ўсякаму" Tag="RX">
-        <Form Tag="P">па-ўсякаму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139598" Lemma="па-ўчарашняму" Tag="RX">
-        <Form Tag="P">па-ўчарашняму</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139599" Lemma="паасобку" Tag="RX">
-        <Form Tag="P">паасобку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139600" Lemma="пабатальённа" Tag="RX">
-        <Form Tag="P">пабатальённа</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139601" Lemma="паблізу" Tag="RX">
-        <Form Tag="P">паблізу</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139602" Lemma="пабрыгадна" Tag="RX">
-        <Form Tag="P">пабрыгадна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139603" Lemma="павабліва" Tag="RX">
-        <Form Tag="P">павабліва</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139604" Lemma="павабна" Tag="RX">
-        <Form Tag="P">павабна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104498" Lemma="павек" Tag="RX">
-        <Form Tag="P">павек</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139605" Lemma="паверсе" Tag="RX">
-        <Form Tag="P">паверсе</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139606" Lemma="паверх" Tag="RX">
-        <Form Tag="P">паверх</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139607" Lemma="паводдаль" Tag="RX">
-        <Form Tag="P">паводдаль</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104499" Lemma="павольна" Tag="RX">
-        <Form Tag="P">павольна</Form>
-        <Form Tag="C">павольней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139608" Lemma="паволі" Tag="RX">
-        <Form Tag="P">паволі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139609" Lemma="пагадова" Tag="RX">
-        <Form Tag="P">пагадова</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139610" Lemma="пагатоў" Tag="RX">
-        <Form Tag="P">пагатоў</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139611" Lemma="пагрозна" Tag="RX">
-        <Form Tag="P">пагрозна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104500" Lemma="пагэтуль" Tag="RX">
-        <Form Tag="P">пагэтуль</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139612" Lemma="падаўна" Tag="RX">
-        <Form Tag="P">падаўна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139613" Lemma="падзённа" Tag="RX">
-        <Form Tag="P">падзённа</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139614" Lemma="падоўгу" Tag="RX">
-        <Form Tag="P">падоўгу</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139615" Lemma="падпахі" Tag="RX">
-        <Form Tag="P">падпахі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139616" Lemma="падрад" Tag="RX">
-        <Form Tag="P">падрад</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139617" Lemma="падчас" Tag="RX">
-        <Form Tag="P">падчас</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139618" Lemma="пазалетась" Tag="RX">
-        <Form Tag="P">пазалетась</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139619" Lemma="пазаўчора" Tag="RX">
-        <Form Tag="P">пазаўчора</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139620" Lemma="пазменна" Tag="RX">
-        <Form Tag="P">пазменна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139621" Lemma="пазнавата" Tag="RX">
-        <Form Tag="P">пазнавата</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139622" Lemma="пакрысе" Tag="RX">
-        <Form Tag="P">пакрысе</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139623" Lemma="пакрыху" Tag="RX">
-        <Form Tag="P">пакрыху</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139624" Lemma="пакрышку" Tag="RX">
-        <Form Tag="P">пакрышку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104501" Lemma="пакуль" Tag="RX">
-        <Form Tag="P">пакуль</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139625" Lemma="памаленьку" Tag="RX">
-        <Form Tag="P">памаленьку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139626" Lemma="памалу" Tag="RX">
-        <Form Tag="P">памалу</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139627" Lemma="памінутна" Tag="RX">
-        <Form Tag="P">памінутна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139628" Lemma="паняволі" Tag="RX">
-        <Form Tag="P">паняволі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139629" Lemma="папалам" Tag="RX">
-        <Form Tag="P">папалам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139630" Lemma="папацёмку" Tag="RX">
-        <Form Tag="P">папацёмку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139631" Lemma="папаўдні" Tag="RX">
-        <Form Tag="P">папаўдні</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139632" Lemma="папоўначы" Tag="RX">
-        <Form Tag="P">папоўначы</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139633" Lemma="папросту" Tag="RX">
-        <Form Tag="P">папросту</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139634" Lemma="папярок" Tag="RX">
-        <Form Tag="P">папярок</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139635" Lemma="параўнаўча" Tag="RX">
-        <Form Tag="P">параўнаўча</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139636" Lemma="парою" Tag="RX">
-        <Form Tag="P">парою</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139637" Lemma="пароўну" Tag="RX">
-        <Form Tag="P">пароўну</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104502" Lemma="партыйна" Tag="RX">
-        <Form Tag="P">партыйна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139638" Lemma="парывіста" Tag="RX">
-        <Form Tag="P">парывіста</Form>
-        <Form Tag="C">парывісцей</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1104503" Lemma="пасля" Tag="RX">
@@ -3966,13 +3911,48 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139579" Lemma="па-старому" Tag="RX">
+        <Form Tag="P">па-старому</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139580" Lemma="па-сур'ёзнаму" Tag="RX">
+        <Form Tag="P">па-сур'ёзнаму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104496" Lemma="па-суседску" Tag="RX">
+        <Form Tag="P">па-суседску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139641" Lemma="пасуху" Tag="RX">
         <Form Tag="P">пасуху</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139581" Lemma="па-сучаснаму" Tag="RX">
+        <Form Tag="P">па-сучаснаму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139582" Lemma="па-сяброўску" Tag="RX">
+        <Form Tag="P">па-сяброўску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1104504" Lemma="пасярэдзіне" Tag="RX">
         <Form Tag="P">пасярэдзіне</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139584" Lemma="па-таварыску" Tag="RX">
+        <Form Tag="P">па-таварыску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104497" Lemma="па-твойму" Tag="RX">
+        <Form Tag="P">па-твойму</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -3986,18 +3966,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139644" Lemma="пахмура" Tag="RX">
-        <Form Tag="P">пахмура</Form>
+    <Paradigm pdgId="1139585" Lemma="па-трэцяе" Tag="RX">
+        <Form Tag="P">па-трэцяе</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1146272" Lemma="паціхеньку" Tag="RX">
-        <Form Tag="P">паціхеньку</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139645" Lemma="паціху" Tag="RX">
-        <Form Tag="P">паціху</Form>
+    <Paradigm pdgId="1139596" Lemma="па-ўдарнаму" Tag="RX">
+        <Form Tag="P">па-ўдарнаму</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4028,6 +4003,76 @@
     </Paradigm>
     <Paradigm pdgId="1146190" Lemma="паўсюль" Tag="RX">
         <Form Tag="P">паўсюль</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139597" Lemma="па-ўсякаму" Tag="RX">
+        <Form Tag="P">па-ўсякаму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139598" Lemma="па-ўчарашняму" Tag="RX">
+        <Form Tag="P">па-ўчарашняму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139587" Lemma="па-філасофску" Tag="RX">
+        <Form Tag="P">па-філасофску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139586" Lemma="па-флоцку" Tag="RX">
+        <Form Tag="P">па-флоцку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1146276" Lemma="па-хлапечы" Tag="RX">
+        <Form Tag="P">па-хлапечы</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139644" Lemma="пахмура" Tag="RX">
+        <Form Tag="P">пахмура</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139588" Lemma="па-хрысціянску" Tag="RX">
+        <Form Tag="P">па-хрысціянску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1146272" Lemma="паціхеньку" Tag="RX">
+        <Form Tag="P">паціхеньку</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139645" Lemma="паціху" Tag="RX">
+        <Form Tag="P">паціху</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139589" Lemma="па-цяперашняму" Tag="RX">
+        <Form Tag="P">па-цяперашняму</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139590" Lemma="па-чалавечы" Tag="RX">
+        <Form Tag="P">па-чалавечы</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139591" Lemma="па-чэшску" Tag="RX">
+        <Form Tag="P">па-чэшску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139592" Lemma="па-шатландску" Tag="RX">
+        <Form Tag="P">па-шатландску</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139593" Lemma="па-шведску" Tag="RX">
+        <Form Tag="P">па-шведску</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4063,6 +4108,16 @@
     </Paradigm>
     <Paradigm pdgId="1146277" Lemma="пешшу" Tag="RX">
         <Form Tag="P">пешшу</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139690" Lemma="пісклява" Tag="RX">
+        <Form Tag="P">пісклява</Form>
+        <Form Tag="C">пісклявей</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139691" Lemma="пішчом" Tag="RX">
+        <Form Tag="P">пішчом</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4136,11 +4191,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139664" Lemma="пошла" Tag="RX">
-        <Form Tag="P">пошла</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1127944" Lemma="поўнасцю" Tag="RX">
         <Form Tag="P">поўнасцю</Form>
         <Form Tag="C"></Form>
@@ -4151,19 +4201,24 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139664" Lemma="пошла" Tag="RX">
+        <Form Tag="P">пошла</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139666" Lemma="праездам" Tag="RX">
         <Form Tag="P">праездам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139668" Lemma="пранікнёна" Tag="RX">
+        <Form Tag="P">пранікнёна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139667" Lemma="пранозліва" Tag="RX">
         <Form Tag="P">пранозліва</Form>
         <Form Tag="C">пранозлівей</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139668" Lemma="пранікнёна" Tag="RX">
-        <Form Tag="P">пранікнёна</Form>
-        <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139669" Lemma="прасцяком" Tag="RX">
@@ -4226,13 +4281,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139677" Lemma="прымусам" Tag="RX">
-        <Form Tag="P">прымусам</Form>
+    <Paradigm pdgId="1139678" Lemma="прымірана" Tag="RX">
+        <Form Tag="P">прымірана</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139678" Lemma="прымірана" Tag="RX">
-        <Form Tag="P">прымірана</Form>
+    <Paradigm pdgId="1139677" Lemma="прымусам" Tag="RX">
+        <Form Tag="P">прымусам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4243,6 +4298,11 @@
     </Paradigm>
     <Paradigm pdgId="1139680" Lemma="прытоена" Tag="RX">
         <Form Tag="P">прытоена</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139684" Lemma="прыўзнята" Tag="RX">
+        <Form Tag="P">прыўзнята</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4258,11 +4318,6 @@
     </Paradigm>
     <Paradigm pdgId="1139683" Lemma="прыцішана" Tag="RX">
         <Form Tag="P">прыцішана</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139684" Lemma="прыўзнята" Tag="RX">
-        <Form Tag="P">прыўзнята</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4301,28 +4356,8 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139690" Lemma="пісклява" Tag="RX">
-        <Form Tag="P">пісклява</Form>
-        <Form Tag="C">пісклявей</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139691" Lemma="пішчом" Tag="RX">
-        <Form Tag="P">пішчом</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1104514" Lemma="радасна" Tag="RX">
         <Form Tag="P">радасна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1146270" Lemma="раз-другі" Tag="RX">
-        <Form Tag="P">раз-другі</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1146278" Lemma="раз-пораз" Tag="RX">
-        <Form Tag="P">раз-пораз</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4336,8 +4371,18 @@
         <Form Tag="C">развязней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1146270" Lemma="раз-другі" Tag="RX">
+        <Form Tag="P">раз-другі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139693" Lemma="раздумліва" Tag="RX">
         <Form Tag="P">раздумліва</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1146278" Lemma="раз-пораз" Tag="RX">
+        <Form Tag="P">раз-пораз</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4356,15 +4401,15 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139696" Lemma="ранкам" Tag="RX">
-        <Form Tag="P">ранкам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139697" Lemma="раніцай" Tag="RX">
         <Form Tag="P">раніцай</Form>
         <Form Tag="P">раніцой</Form>
         <Form Tag="P">раніцою</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139696" Lemma="ранкам" Tag="RX">
+        <Form Tag="P">ранкам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4418,13 +4463,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139705" Lemma="рыхтык" Tag="RX">
-        <Form Tag="P">рыхтык</Form>
+    <Paradigm pdgId="1139706" Lemma="рыўком" Tag="RX">
+        <Form Tag="P">рыўком</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139706" Lemma="рыўком" Tag="RX">
-        <Form Tag="P">рыўком</Form>
+    <Paradigm pdgId="1139705" Lemma="рыхтык" Tag="RX">
+        <Form Tag="P">рыхтык</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4439,11 +4484,6 @@
         <Form Tag="C">рэльефней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139707" Lemma="сам-насам" Tag="RX">
-        <Form Tag="P">сам-насам</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139708" Lemma="самавукам" Tag="RX">
         <Form Tag="P">самавукам</Form>
         <Form Tag="C"></Form>
@@ -4456,6 +4496,11 @@
     </Paradigm>
     <Paradigm pdgId="1139710" Lemma="самацёкам" Tag="RX">
         <Form Tag="P">самацёкам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139707" Lemma="сам-насам" Tag="RX">
+        <Form Tag="P">сам-насам</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4477,6 +4522,31 @@
     <Paradigm pdgId="1104525" Lemma="святочна" Tag="RX">
         <Form Tag="P">святочна</Form>
         <Form Tag="C">святочней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139774" Lemma="сёлета" Tag="RX">
+        <Form Tag="P">сёлета</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104522" Lemma="сёння" Tag="RX">
+        <Form Tag="P">сёння</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139775" Lemma="сілай" Tag="RX">
+        <Form Tag="P">сілай</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139776" Lemma="сілаю" Tag="RX">
+        <Form Tag="P">сілаю</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104521" Lemma="сіне" Tag="RX">
+        <Form Tag="P">сіне</Form>
+        <Form Tag="C">сіней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139712" Lemma="скарацечна" Tag="RX">
@@ -4545,14 +4615,14 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139723" Lemma="смяртэльна" Tag="RX">
-        <Form Tag="P">смяртэльна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139724" Lemma="смірна" Tag="RX">
         <Form Tag="P">смірна</Form>
         <Form Tag="C">смірней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139723" Lemma="смяртэльна" Tag="RX">
+        <Form Tag="P">смяртэльна</Form>
+        <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139725" Lemma="соладка" Tag="RX">
@@ -4623,13 +4693,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104529" Lemma="спачатку" Tag="RX">
-        <Form Tag="P">спачатку</Form>
+    <Paradigm pdgId="1139736" Lemma="спаўна" Tag="RX">
+        <Form Tag="P">спаўна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139736" Lemma="спаўна" Tag="RX">
-        <Form Tag="P">спаўна</Form>
+    <Paradigm pdgId="1104529" Lemma="спачатку" Tag="RX">
+        <Form Tag="P">спачатку</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4640,6 +4710,11 @@
     </Paradigm>
     <Paradigm pdgId="1139738" Lemma="спехам" Tag="RX">
         <Form Tag="P">спехам</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139744" Lemma="спіраллю" Tag="RX">
+        <Form Tag="P">спіраллю</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4683,11 +4758,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139744" Lemma="спіраллю" Tag="RX">
-        <Form Tag="P">спіраллю</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139745" Lemma="старчаком" Tag="RX">
         <Form Tag="P">старчаком</Form>
         <Form Tag="C"></Form>
@@ -4698,13 +4768,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139747" Lemma="стаяком" Tag="RX">
-        <Form Tag="P">стаяком</Form>
+    <Paradigm pdgId="1139748" Lemma="стаўма" Tag="RX">
+        <Form Tag="P">стаўма</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139748" Lemma="стаўма" Tag="RX">
-        <Form Tag="P">стаўма</Form>
+    <Paradigm pdgId="1139747" Lemma="стаяком" Tag="RX">
+        <Form Tag="P">стаяком</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4789,13 +4859,13 @@
         <Form Tag="C">суразмерней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139760" Lemma="суха-насуха" Tag="RX">
-        <Form Tag="P">суха-насуха</Form>
+    <Paradigm pdgId="1139761" Lemma="сухавата" Tag="RX">
+        <Form Tag="P">сухавата</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139761" Lemma="сухавата" Tag="RX">
-        <Form Tag="P">сухавата</Form>
+    <Paradigm pdgId="1139760" Lemma="суха-насуха" Tag="RX">
+        <Form Tag="P">суха-насуха</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4804,13 +4874,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139763" Lemma="сцямна" Tag="RX">
-        <Form Tag="P">сцямна</Form>
+    <Paradigm pdgId="1139764" Lemma="сцішана" Tag="RX">
+        <Form Tag="P">сцішана</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139764" Lemma="сцішана" Tag="RX">
-        <Form Tag="P">сцішана</Form>
+    <Paradigm pdgId="1139763" Lemma="сцямна" Tag="RX">
+        <Form Tag="P">сцямна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4819,16 +4889,16 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104538" Lemma="сюд-туд" Tag="RX">
-        <Form Tag="P">сюд-туд</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1104539" Lemma="сюдой" Tag="RX">
         <Form Tag="P">сюдой</Form>
         <Form Tag="P">сюдою</Form>
         <Form Tag="P">сюдэй</Form>
         <Form Tag="P">сюдэю</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104538" Lemma="сюд-туд" Tag="RX">
+        <Form Tag="P">сюд-туд</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4882,31 +4952,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139774" Lemma="сёлета" Tag="RX">
-        <Form Tag="P">сёлета</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104522" Lemma="сёння" Tag="RX">
-        <Form Tag="P">сёння</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139775" Lemma="сілай" Tag="RX">
-        <Form Tag="P">сілай</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139776" Lemma="сілаю" Tag="RX">
-        <Form Tag="P">сілаю</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104521" Lemma="сіне" Tag="RX">
-        <Form Tag="P">сіне</Form>
-        <Form Tag="C">сіней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1104542" Lemma="тады" Tag="RX">
         <Form Tag="P">тады</Form>
         <Form Tag="C"></Form>
@@ -4927,13 +4972,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139779" Lemma="так-сяк" Tag="RX">
-        <Form Tag="P">так-сяк</Form>
+    <Paradigm pdgId="1104544" Lemma="таксама" Tag="RX">
+        <Form Tag="P">таксама</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104544" Lemma="таксама" Tag="RX">
-        <Form Tag="P">таксама</Form>
+    <Paradigm pdgId="1139779" Lemma="так-сяк" Tag="RX">
+        <Form Tag="P">так-сяк</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4942,23 +4987,18 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139780" Lemma="там-сям" Tag="RX">
-        <Form Tag="P">там-сям</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1146193" Lemma="тамака" Tag="RX">
         <Form Tag="P">тамака</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104546" Lemma="таму" Tag="RX">
-        <Form Tag="P">таму</Form>
+    <Paradigm pdgId="1139780" Lemma="там-сям" Tag="RX">
+        <Form Tag="P">там-сям</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139781" Lemma="то-та" Tag="RX">
-        <Form Tag="P">то-та</Form>
+    <Paradigm pdgId="1104546" Lemma="таму" Tag="RX">
+        <Form Tag="P">таму</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -4974,6 +5014,11 @@
     </Paradigm>
     <Paradigm pdgId="1146279" Lemma="толькі-толькі" Tag="RX">
         <Form Tag="P">толькі-толькі</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139781" Lemma="то-та" Tag="RX">
+        <Form Tag="P">то-та</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5058,11 +5103,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1146280" Lemma="у рэшце рэшт" Tag="RX">
-        <Form Tag="P">у рэшце рэшт</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139794" Lemma="убаку" Tag="RX">
         <Form Tag="P">убаку</Form>
         <Form Tag="C"></Form>
@@ -5083,13 +5123,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139797" Lemma="увасьмярых" Tag="RX">
-        <Form Tag="P">увасьмярых</Form>
+    <Paradigm pdgId="1139798" Lemma="увасьмёх" Tag="RX">
+        <Form Tag="P">увасьмёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139798" Lemma="увасьмёх" Tag="RX">
-        <Form Tag="P">увасьмёх</Form>
+    <Paradigm pdgId="1139797" Lemma="увасьмярых" Tag="RX">
+        <Form Tag="P">увасьмярых</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5198,13 +5238,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139816" Lemma="удалечыню" Tag="RX">
-        <Form Tag="P">удалечыню</Form>
+    <Paradigm pdgId="1139817" Lemma="удалечыні" Tag="RX">
+        <Form Tag="P">удалечыні</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139817" Lemma="удалечыні" Tag="RX">
-        <Form Tag="P">удалечыні</Form>
+    <Paradigm pdgId="1139816" Lemma="удалечыню" Tag="RX">
+        <Form Tag="P">удалечыню</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5218,11 +5258,6 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139819" Lemma="удачна" Tag="RX">
-        <Form Tag="P">удачна</Form>
-        <Form Tag="C">удачней</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
     <Paradigm pdgId="1139820" Lemma="удаўжкі" Tag="RX">
         <Form Tag="P">удаўжкі</Form>
         <Form Tag="C"></Form>
@@ -5233,6 +5268,16 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139819" Lemma="удачна" Tag="RX">
+        <Form Tag="P">удачна</Form>
+        <Form Tag="C">удачней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104556" Lemma="удваіх" Tag="RX">
+        <Form Tag="P">удваіх</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139822" Lemma="удвайне" Tag="RX">
         <Form Tag="P">удвайне</Form>
         <Form Tag="C"></Form>
@@ -5240,11 +5285,6 @@
     </Paradigm>
     <Paradigm pdgId="1139823" Lemma="удвая" Tag="RX">
         <Form Tag="P">удвая</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104556" Lemma="удваіх" Tag="RX">
-        <Form Tag="P">удваіх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5263,13 +5303,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139826" Lemma="удзевяцярых" Tag="RX">
-        <Form Tag="P">удзевяцярых</Form>
+    <Paradigm pdgId="1139827" Lemma="удзевяцёх" Tag="RX">
+        <Form Tag="P">удзевяцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139827" Lemma="удзевяцёх" Tag="RX">
-        <Form Tag="P">удзевяцёх</Form>
+    <Paradigm pdgId="1139826" Lemma="удзевяцярых" Tag="RX">
+        <Form Tag="P">удзевяцярых</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5278,13 +5318,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139829" Lemma="удзесяцярых" Tag="RX">
-        <Form Tag="P">удзесяцярых</Form>
+    <Paradigm pdgId="1139830" Lemma="удзесяцёх" Tag="RX">
+        <Form Tag="P">удзесяцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139830" Lemma="удзесяцёх" Tag="RX">
-        <Form Tag="P">удзесяцёх</Form>
+    <Paradigm pdgId="1139829" Lemma="удзесяцярых" Tag="RX">
+        <Form Tag="P">удзесяцярых</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5378,13 +5418,18 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139848" Lemma="уміг" Tag="RX">
+        <Form Tag="P">уміг</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139847" Lemma="умомант" Tag="RX">
         <Form Tag="P">умомант</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139848" Lemma="уміг" Tag="RX">
-        <Form Tag="P">уміг</Form>
+    <Paradigm pdgId="1139851" Lemma="унаём" Tag="RX">
+        <Form Tag="P">унаём</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5398,8 +5443,23 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139851" Lemma="унаём" Tag="RX">
-        <Form Tag="P">унаём</Form>
+    <Paradigm pdgId="1139857" Lemma="уніжана" Tag="RX">
+        <Form Tag="P">уніжана</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104560" Lemma="уніз" Tag="RX">
+        <Form Tag="P">уніз</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139858" Lemma="унізе" Tag="RX">
+        <Form Tag="P">унізе</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1139859" Lemma="унічыю" Tag="RX">
+        <Form Tag="P">унічыю</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5425,26 +5485,6 @@
     </Paradigm>
     <Paradigm pdgId="1139856" Lemma="унутрымышачна" Tag="RX">
         <Form Tag="P">унутрымышачна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139857" Lemma="уніжана" Tag="RX">
-        <Form Tag="P">уніжана</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104560" Lemma="уніз" Tag="RX">
-        <Form Tag="P">уніз</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139858" Lemma="унізе" Tag="RX">
-        <Form Tag="P">унізе</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139859" Lemma="унічыю" Tag="RX">
-        <Form Tag="P">унічыю</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5574,13 +5614,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139884" Lemma="упяцярых" Tag="RX">
-        <Form Tag="P">упяцярых</Form>
+    <Paradigm pdgId="1139885" Lemma="упяцёх" Tag="RX">
+        <Form Tag="P">упяцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139885" Lemma="упяцёх" Tag="RX">
-        <Form Tag="P">упяцёх</Form>
+    <Paradigm pdgId="1139884" Lemma="упяцярых" Tag="RX">
+        <Form Tag="P">упяцярых</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5589,13 +5629,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139887" Lemma="уразброд" Tag="RX">
-        <Form Tag="P">уразброд</Form>
+    <Paradigm pdgId="1139888" Lemma="уразбіўку" Tag="RX">
+        <Form Tag="P">уразбіўку</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139888" Lemma="уразбіўку" Tag="RX">
-        <Form Tag="P">уразбіўку</Form>
+    <Paradigm pdgId="1139887" Lemma="уразброд" Tag="RX">
+        <Form Tag="P">уразброд</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5684,6 +5724,16 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1146280" Lemma="у рэшце рэшт" Tag="RX">
+        <Form Tag="P">у рэшце рэшт</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1104564" Lemma="усё" Tag="RX">
+        <Form Tag="P">усё</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139903" Lemma="усемярых" Tag="RX">
         <Form Tag="P">усемярых</Form>
         <Form Tag="C"></Form>
@@ -5759,8 +5809,8 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104564" Lemma="усё" Tag="RX">
-        <Form Tag="P">усё</Form>
+    <Paradigm pdgId="1104566" Lemma="утраіх" Tag="RX">
+        <Form Tag="P">утраіх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5771,11 +5821,6 @@
     </Paradigm>
     <Paradigm pdgId="1139918" Lemma="утрая" Tag="RX">
         <Form Tag="P">утрая</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104566" Lemma="утраіх" Tag="RX">
-        <Form Tag="P">утраіх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5824,13 +5869,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139924" Lemma="ушасцярых" Tag="RX">
-        <Form Tag="P">ушасцярых</Form>
+    <Paradigm pdgId="1139925" Lemma="ушасцёх" Tag="RX">
+        <Form Tag="P">ушасцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139925" Lemma="ушасцёх" Tag="RX">
-        <Form Tag="P">ушасцёх</Form>
+    <Paradigm pdgId="1139924" Lemma="ушасцярых" Tag="RX">
+        <Form Tag="P">ушасцярых</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -5934,6 +5979,26 @@
         <Form Tag="C">цвярдзей</Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139025" Lemma="цёпла" Tag="RX">
+        <Form Tag="P">цёпла</Form>
+        <Form Tag="C">цяплей</Form>
+        <Form Tag="S">найцяплей</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104574" Lemma="цікава" Tag="RX">
+        <Form Tag="P">цікава</Form>
+        <Form Tag="C">цікавей</Form>
+        <Form Tag="S">найцікавей</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104575" Lemma="ціха" Tag="RX">
+        <Form Tag="P">ціха</Form>
+        <Form Tag="C">цішэй</Form>
+        <Form Tag="S">найцішэй</Form>
+    </Paradigm>
+    <Paradigm pdgId="1104576" Lemma="цішком" Tag="RX">
+        <Form Tag="P">цішком</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139941" Lemma="цугам" Tag="RX">
         <Form Tag="P">цугам</Form>
         <Form Tag="C"></Form>
@@ -5973,26 +6038,6 @@
         <Form Tag="P">цярпіма</Form>
         <Form Tag="C">цярпімей</Form>
         <Form Tag="S">найцярпімей</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139025" Lemma="цёпла" Tag="RX">
-        <Form Tag="P">цёпла</Form>
-        <Form Tag="C">цяплей</Form>
-        <Form Tag="S">найцяплей</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104574" Lemma="цікава" Tag="RX">
-        <Form Tag="P">цікава</Form>
-        <Form Tag="C">цікавей</Form>
-        <Form Tag="S">найцікавей</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104575" Lemma="ціха" Tag="RX">
-        <Form Tag="P">ціха</Form>
-        <Form Tag="C">цішэй</Form>
-        <Form Tag="S">найцішэй</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104576" Lemma="цішком" Tag="RX">
-        <Form Tag="P">цішком</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1139945" Lemma="чаго" Tag="RX">
         <Form Tag="P">чаго</Form>
@@ -6144,6 +6189,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1139969" Lemma="штосілы" Tag="RX">
+        <Form Tag="P">штосілы</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139967" Lemma="штось" Tag="RX">
         <Form Tag="P">штось</Form>
         <Form Tag="C"></Form>
@@ -6151,11 +6201,6 @@
     </Paradigm>
     <Paradigm pdgId="1139968" Lemma="штосьці" Tag="RX">
         <Form Tag="P">штосьці</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139969" Lemma="штосілы" Tag="RX">
-        <Form Tag="P">штосілы</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -6219,6 +6264,11 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
+    <Paradigm pdgId="1104594" Lemma="якасна" Tag="RX">
+        <Form Tag="P">якасна</Form>
+        <Form Tag="C">якасней</Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
     <Paradigm pdgId="1139977" Lemma="як-небудзь" Tag="RX">
         <Form Tag="P">як-небудзь</Form>
         <Form Tag="C"></Form>
@@ -6227,11 +6277,6 @@
     <Paradigm pdgId="1139978" Lemma="як-ніяк" Tag="RX">
         <Form Tag="P">як-ніяк</Form>
         <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104594" Lemma="якасна" Tag="RX">
-        <Form Tag="P">якасна</Form>
-        <Form Tag="C">якасней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
     <Paradigm pdgId="1104595" Lemma="якраз" Tag="RX">
@@ -6246,51 +6291,6 @@
     </Paradigm>
     <Paradigm pdgId="1104597" Lemma="яшчэ" Tag="RX">
         <Form Tag="P">яшчэ</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139024" Lemma="ёмка" Tag="RX">
-        <Form Tag="P">ёмка</Form>
-        <Form Tag="C">ямчэй</Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104347" Lemma="ідэйна" Tag="RX">
-        <Form Tag="P">ідэйна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1104348" Lemma="ізноў" Tag="RX">
-        <Form Tag="P">ізноў</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139979" Lemma="імпазантна" Tag="RX">
-        <Form Tag="P">імпазантна</Form>
-        <Form Tag="C">імпазантней</Form>
-        <Form Tag="S">найімпазантней</Form>
-    </Paradigm>
-    <Paradigm pdgId="1104349" Lemma="інакш" Tag="RX">
-        <Form Tag="P">інакш</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1146198" Lemma="індустрыяльна" Tag="RX">
-        <Form Tag="P">індустрыяльна</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1139980" Lemma="інертна" Tag="RX">
-        <Form Tag="P">інертна</Form>
-        <Form Tag="C">інертней</Form>
-        <Form Tag="S">найінертней</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160171" Lemma="інкогніта" Tag="RX">
-        <Form Tag="P">інкогніта</Form>
-        <Form Tag="C"></Form>
-        <Form Tag="S"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1146199" Lemma="інстытуцыянальна" Tag="RX">
-        <Form Tag="P">інстытуцыянальна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>

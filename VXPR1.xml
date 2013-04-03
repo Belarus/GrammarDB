@@ -816,22 +816,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">адажні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">аджа´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158418" Lemma="адка´шляцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">адка´шляцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">адка´шляюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">адка´шляешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">адка´шляецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">адка´шляемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">адка´шляецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">адка´шляюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">адка´шляўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">адка´шлялася</Form>
-        <Form Tag="PXSN">адка´шлялася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">адка´шляліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">адка´шляйся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">адка´шляйцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">адка´шляўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158415" Lemma="адказа´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">адказа´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">адкажу´ся</Form>
@@ -879,6 +863,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">адкашляні´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">адкашляні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">адкашляну´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158418" Lemma="адка´шляцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">адка´шляцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">адка´шляюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">адка´шляешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">адка´шляецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">адка´шляемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">адка´шляецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">адка´шляюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">адка´шляўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">адка´шлялася</Form>
+        <Form Tag="PXSN">адка´шлялася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">адка´шляліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">адка´шляйся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">адка´шляйцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">адка´шляўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158419" Lemma="адкла´няцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">адкла´няцца</Form>
@@ -1328,6 +1328,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">апаяшы´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">апаяса´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158449" Lemma="апі´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">апі´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">ап'ю´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">ап'е´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">ап'е´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">ап'ё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">ап'яце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">ап'ю´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">апі´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">апіла´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">апіло´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">апілі´ся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">апі´ся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">апі´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">апі´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158447" Lemma="апра´тацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">апра´тацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">апра´таюся</Form>
@@ -1359,22 +1375,6 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">апро´гшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158449" Lemma="апі´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">апі´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">ап'ю´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">ап'е´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">ап'е´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">ап'ё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">ап'яце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">ап'ю´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">апі´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">апіла´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">апіло´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">апілі´ся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">апі´ся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">апі´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">апі´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1160626" Lemma="асацыіравацца" Tag="VXPR1">
         <Form Tag="0">асацыіравацца</Form>
@@ -1440,22 +1440,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">асмаку´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">асмакава´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158454" Lemma="аста´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">аста´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">астану´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">астане´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">астане´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">астанё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">астаняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">астану´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">аста´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">астала´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">астало´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">асталі´ся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">аста´нься</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">аста´ньцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">аста´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158453" Lemma="асталява´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">асталява´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">асталю´юся</Form>
@@ -1471,6 +1455,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">асталю´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">асталю´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">асталява´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158454" Lemma="аста´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">аста´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">астану´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">астане´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">астане´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">астанё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">астаняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">астану´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">аста´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">астала´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">астало´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">асталі´ся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">аста´нься</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">аста´ньцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">аста´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158455" Lemma="атайбава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">атайбава´цца</Form>
@@ -1584,38 +1584,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">ачо´майцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">ачо´маўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158464" Lemma="ба´хнуцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">ба´хнуцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">ба´хнуся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">ба´хнешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">ба´хнецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">ба´хнемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">ба´хнецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">ба´хнуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">ба´хнуўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">ба´хнулася</Form>
-        <Form Tag="PXSN">ба´хнулася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">ба´хнуліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">ба´хніся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">ба´хніцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">ба´хнуўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158465" Lemma="ба´цнуцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">ба´цнуцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">ба´цнуся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">ба´цнешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">ба´цнецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">ба´цнемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">ба´цнецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">ба´цнуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">ба´цнуўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">ба´цнулася</Form>
-        <Form Tag="PXSN">ба´цнулася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">ба´цнуліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">ба´цніся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">ба´цніцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">ба´цнуўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158462" Lemma="бабу´хнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">бабу´хнуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">бабу´хнуся</Form>
@@ -1663,6 +1631,38 @@
         <Form Tag="I2S" Type="potential" Checked="+">баўтні´ся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">баўтні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">баўтну´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158464" Lemma="ба´хнуцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">ба´хнуцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">ба´хнуся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">ба´хнешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">ба´хнецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">ба´хнемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">ба´хнецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">ба´хнуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">ба´хнуўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">ба´хнулася</Form>
+        <Form Tag="PXSN">ба´хнулася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">ба´хнуліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">ба´хніся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">ба´хніцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">ба´хнуўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158465" Lemma="ба´цнуцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">ба´цнуцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">ба´цнуся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">ба´цнешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">ба´цнецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">ба´цнемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">ба´цнецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">ба´цнуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">ба´цнуўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">ба´цнулася</Form>
+        <Form Tag="PXSN">ба´цнулася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">ба´цнуліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">ба´цніся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">ба´цніцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">ба´цнуўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158467" Lemma="беларусізава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">беларусізава´цца</Form>
@@ -1808,22 +1808,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">вы´карабкайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">вы´карабкаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158475" Lemma="вы´кашляцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">вы´кашляцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">вы´кашляюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">вы´кашляешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">вы´кашляецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">вы´кашляемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">вы´кашляецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">вы´кашляюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">вы´кашляўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">вы´кашлялася</Form>
-        <Form Tag="PXSN">вы´кашлялася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">вы´кашляліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">вы´кашляйся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">вы´кашляйцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">вы´кашляўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158476" Lemma="вы´каўзнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">вы´каўзнуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">вы´каўзнуся</Form>
@@ -1839,6 +1823,22 @@
         <Form Tag="I2S" Type="potential" Checked="+">вы´каўзніся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">вы´каўзніцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">вы´каўзнуўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158475" Lemma="вы´кашляцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">вы´кашляцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">вы´кашляюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">вы´кашляешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">вы´кашляецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">вы´кашляемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">вы´кашляецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">вы´кашляюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">вы´кашляўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">вы´кашлялася</Form>
+        <Form Tag="PXSN">вы´кашлялася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">вы´кашляліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">вы´кашляйся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">вы´кашляйцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">вы´кашляўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158477" Lemma="вы´квацацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">вы´квацацца</Form>
@@ -2080,6 +2080,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">гайдані´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">гайдану´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1160623" Lemma="гідралізавацца" Tag="VXPR1">
+        <Form Tag="0">гідралізавацца</Form>
+        <Form Tag="F1S">гідралізуюся</Form>
+        <Form Tag="F2S">гідралізуешся</Form>
+        <Form Tag="F3S">гідралізуецца</Form>
+        <Form Tag="F1P">гідралізуемся</Form>
+        <Form Tag="F2P">гідралізуецеся</Form>
+        <Form Tag="F3P">гідралізуюцца</Form>
+        <Form Tag="PXSM">гідралізаваўся</Form>
+        <Form Tag="PXSF">гідралізавалася</Form>
+        <Form Tag="PXSN">гідралізавалася</Form>
+        <Form Tag="PXPX">гідралізаваліся</Form>
+        <Form Tag="I2S">гідралізуйся</Form>
+        <Form Tag="I2P">гідралізуйцеся</Form>
+        <Form Tag="PG">гідралізаваўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158492" Lemma="го´пнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">го´пнуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">го´пнуся</Form>
@@ -2144,21 +2160,21 @@
         <Form Tag="I2P" Checked="?vbdict_only?">гушкані´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">гушкану´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1160623" Lemma="гідралізавацца" Tag="VXPR1">
-        <Form Tag="0">гідралізавацца</Form>
-        <Form Tag="F1S">гідралізуюся</Form>
-        <Form Tag="F2S">гідралізуешся</Form>
-        <Form Tag="F3S">гідралізуецца</Form>
-        <Form Tag="F1P">гідралізуемся</Form>
-        <Form Tag="F2P">гідралізуецеся</Form>
-        <Form Tag="F3P">гідралізуюцца</Form>
-        <Form Tag="PXSM">гідралізаваўся</Form>
-        <Form Tag="PXSF">гідралізавалася</Form>
-        <Form Tag="PXSN">гідралізавалася</Form>
-        <Form Tag="PXPX">гідралізаваліся</Form>
-        <Form Tag="I2S">гідралізуйся</Form>
-        <Form Tag="I2P">гідралізуйцеся</Form>
-        <Form Tag="PG">гідралізаваўшыся</Form>
+    <Paradigm pdgId="1158496" Lemma="дабадзя´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">дабадзя´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">дабадзя´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">дабадзя´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">дабадзя´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">дабадзя´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">дабадзя´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">дабадзя´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">дабадзя´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">дабадзя´лася</Form>
+        <Form Tag="PXSN">дабадзя´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">дабадзя´ліся</Form>
+        <Form Tag="I2S" Checked="+"></Form>
+        <Form Tag="I2P" Checked="+"></Form>
+        <Form Tag="PG" Checked="?vbdict_only?">дабадзя´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158497" Lemma="даба´лавацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">даба´лавацца</Form>
@@ -2175,22 +2191,6 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">даба´лаваўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158496" Lemma="дабадзя´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">дабадзя´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">дабадзя´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">дабадзя´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">дабадзя´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">дабадзя´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">дабадзя´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">дабадзя´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">дабадзя´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">дабадзя´лася</Form>
-        <Form Tag="PXSN">дабадзя´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">дабадзя´ліся</Form>
-        <Form Tag="I2S" Checked="+"></Form>
-        <Form Tag="I2P" Checked="+"></Form>
-        <Form Tag="PG" Checked="?vbdict_only?">дабадзя´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158498" Lemma="дабры´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">дабры´цца</Form>
@@ -2303,6 +2303,38 @@
         <Form Tag="I2S" Checked="?vbdict_only?">дазаві´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">дазаві´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">дазва´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158529" Lemma="даігра´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">даігра´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">даігра´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">даігра´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">даігра´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">даігра´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">даігра´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">даігра´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">даігра´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">даігра´лася</Form>
+        <Form Tag="PXSN">даігра´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">даігра´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">даігра´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">даігра´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">даігра´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158530" Lemma="даілга´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">даілга´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">даілгу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">даілжэ´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">даілжэ´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">даілжо´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">даілжаце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">даілгу´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">даілга´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">даілга´лася</Form>
+        <Form Tag="PXSN">даілга´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">даілга´ліся</Form>
+        <Form Tag="I2S" Checked="+"></Form>
+        <Form Tag="I2P" Checked="+"></Form>
+        <Form Tag="PG" Checked="?vbdict_only?">даілга´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158505" Lemma="дакара´бкацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">дакара´бкацца</Form>
@@ -2608,6 +2640,22 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">датаўха´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158531" Lemma="даўме´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">даўме´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">даўме´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">даўме´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">даўме´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">даўме´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">даўме´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">даўме´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">даўме´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">даўме´лася</Form>
+        <Form Tag="PXSN">даўме´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">даўме´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">даўме´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">даўме´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">даўме´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158524" Lemma="дафіласо´фствавацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">дафіласо´фствавацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">дафіласо´фствуюся</Form>
@@ -2671,54 +2719,6 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">дашапта´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158529" Lemma="даігра´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">даігра´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">даігра´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">даігра´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">даігра´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">даігра´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">даігра´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">даігра´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">даігра´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">даігра´лася</Form>
-        <Form Tag="PXSN">даігра´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">даігра´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">даігра´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">даігра´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">даігра´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158530" Lemma="даілга´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">даілга´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">даілгу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">даілжэ´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">даілжэ´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">даілжо´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">даілжаце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">даілгу´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">даілга´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">даілга´лася</Form>
-        <Form Tag="PXSN">даілга´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">даілга´ліся</Form>
-        <Form Tag="I2S" Checked="+"></Form>
-        <Form Tag="I2P" Checked="+"></Form>
-        <Form Tag="PG" Checked="?vbdict_only?">даілга´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158531" Lemma="даўме´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">даўме´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">даўме´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">даўме´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">даўме´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">даўме´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">даўме´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">даўме´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">даўме´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">даўме´лася</Form>
-        <Form Tag="PXSN">даўме´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">даўме´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">даўме´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">даўме´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">даўме´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158532" Lemma="дзеўбану´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">дзеўбану´цца</Form>
@@ -3008,22 +3008,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">забяжы´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">забе´гшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158550" Lemma="забры´ндацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">забры´ндацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">забры´ндаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">забры´ндаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">забры´ндаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">забры´ндаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">забры´ндаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">забры´ндаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">забры´ндаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">забры´ндалася</Form>
-        <Form Tag="PXSN">забры´ндалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">забры´ндаліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">забры´ндайся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">забры´ндайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">забры´ндаўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158551" Lemma="забінтава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">забінтава´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">забінту´юся</Form>
@@ -3039,6 +3023,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">забінту´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">забінту´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">забінтава´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158550" Lemma="забры´ндацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">забры´ндацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">забры´ндаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">забры´ндаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">забры´ндаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">забры´ндаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">забры´ндаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">забры´ндаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">забры´ндаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">забры´ндалася</Form>
+        <Form Tag="PXSN">забры´ндалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">забры´ндаліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">забры´ндайся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">забры´ндайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">забры´ндаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158552" Lemma="заваро´чацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">заваро´чацца</Form>
@@ -3056,22 +3056,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">заваро´чайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">заваро´чаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158554" Lemma="заві´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">заві´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">заўю´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">заўе´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">заўе´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">заўё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">заўяце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">заўю´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">заві´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">завіла´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">завіло´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">завілі´ся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">заві´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">заві´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">заві´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158553" Lemma="завіхля´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">завіхля´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">завіхля´юся</Form>
@@ -3087,6 +3071,22 @@
         <Form Tag="I2S" Type="potential" Checked="+">завіхля´йся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">завіхля´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">завіхля´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158554" Lemma="заві´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">заві´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">заўю´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">заўе´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">заўе´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">заўё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">заўяце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">заўю´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">заві´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">завіла´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">завіло´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">завілі´ся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">заві´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">заві´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">заві´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158555" Lemma="загаве´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">загаве´цца</Form>
@@ -3232,6 +3232,38 @@
         <Form Tag="I2P" Checked="?vbdict_only?">зазява´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">зазява´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158618" Lemma="заігра´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">заігра´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">заігра´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">заігра´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">заігра´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">заігра´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">заігра´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">заігра´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">заігра´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">заігра´лася</Form>
+        <Form Tag="PXSN">заігра´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">заігра´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">заігра´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">заігра´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">заігра´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158619" Lemma="заірдзе´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">заірдзе´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">заірдзе´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">заірдзе´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">заірдзе´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">заірдзе´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">заірдзе´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">заірдзе´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">заірдзе´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">заірдзе´лася</Form>
+        <Form Tag="PXSN">заірдзе´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">заірдзе´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">заірдзе´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">заірдзе´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">заірдзе´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158564" Lemma="зайсці´ся" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">зайсці´ся</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">зайду´ся</Form>
@@ -3247,22 +3279,6 @@
         <Form Tag="I2S" Checked="?vbdict_only?">зайдзі´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">зайдзі´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">зайшо´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158567" Lemma="зака´яцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">зака´яцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">зака´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">зака´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">зака´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">зака´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">зака´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">зака´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">зака´яўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">зака´ялася</Form>
-        <Form Tag="PXSN">зака´ялася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">зака´яліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">зака´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">зака´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">зака´яўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158565" Lemma="заканспірава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">заканспірава´цца</Form>
@@ -3295,6 +3311,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">закантракту´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">закантракту´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">закантрактава´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158567" Lemma="зака´яцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">зака´яцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">зака´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">зака´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">зака´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">зака´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">зака´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">зака´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">зака´яўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">зака´ялася</Form>
+        <Form Tag="PXSN">зака´ялася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">зака´яліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">зака´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">зака´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">зака´яўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158568" Lemma="заквэ´цацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">заквэ´цацца</Form>
@@ -3440,22 +3472,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">замацюка´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">замацюка´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158578" Lemma="замя´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">замя´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">замну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">замне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">замне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">замнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">замняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">замну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">замя´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">замя´лася</Form>
-        <Form Tag="PXSN">замя´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">замя´ліся</Form>
-        <Form Tag="I2S" Checked="+"></Form>
-        <Form Tag="I2P" Checked="+"></Form>
-        <Form Tag="PG" Checked="?vbdict_only?">замя´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158577" Lemma="замяня´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">замяня´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">замяня´юся</Form>
@@ -3471,6 +3487,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">замяня´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">замяня´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">замяня´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158578" Lemma="замя´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">замя´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">замну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">замне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">замне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">замнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">замняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">замну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">замя´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">замя´лася</Form>
+        <Form Tag="PXSN">замя´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">замя´ліся</Form>
+        <Form Tag="I2S" Checked="+"></Form>
+        <Form Tag="I2P" Checked="+"></Form>
+        <Form Tag="PG" Checked="?vbdict_only?">замя´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158580" Lemma="зап'я´нствавацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">зап'я´нствавацца</Form>
@@ -3536,22 +3568,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">запры´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">запё´ршыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158584" Lemma="запле´сціся" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">запле´сціся</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">запляту´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">запляце´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">запляце´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">запляцё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">заплецяце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">запляту´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">заплё´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">запляла´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">запляло´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">заплялі´ся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">запляці´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">запляці´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">заплё´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158586" Lemma="заплё´скацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">заплё´скацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">заплё´скаюся</Form>
@@ -3567,6 +3583,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">заплё´скайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">заплё´скайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">заплё´скаўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158584" Lemma="запле´сціся" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">запле´сціся</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">запляту´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">запляце´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">запляце´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">запляцё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">заплецяце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">запляту´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">заплё´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">запляла´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">запляло´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">заплялі´ся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">запляці´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">запляці´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">заплё´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158587" Lemma="заплікну´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">заплікну´цца</Form>
@@ -3600,22 +3632,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">запрада´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">запрада´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158591" Lemma="запя´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">запя´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">запну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">запне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">запне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">запнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">запняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">запну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">запя´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">запя´лася</Form>
-        <Form Tag="PXSN">запя´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">запя´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">запні´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">запні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">запя´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158590" Lemma="запялё´скацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">запялё´скацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">запялё´скаюся</Form>
@@ -3631,6 +3647,22 @@
         <Form Tag="I2S" Type="potential" Checked="+">запялё´скайся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">запялё´скайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">запялё´скаўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158591" Lemma="запя´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">запя´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">запну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">запне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">запне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">запнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">запняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">запну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">запя´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">запя´лася</Form>
+        <Form Tag="PXSN">запя´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">запя´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">запні´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">запні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">запя´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158592" Lemma="зара´давацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">зара´давацца</Form>
@@ -3888,6 +3920,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">заха´ркайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">заха´ркаўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158611" Lemma="захлібну´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">захлібну´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">захлібну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">захлібне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">захлібне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">захлібнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">захлібняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">захлібну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">захлібну´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">захлібну´лася</Form>
+        <Form Tag="PXSN">захлібну´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">захлібну´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">захлібні´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">захлібні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">захлібну´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158609" Lemma="захлю´пацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">захлю´пацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">захлю´паюся</Form>
@@ -3919,22 +3967,6 @@
         <Form Tag="I2S" Checked="?vbdict_only?">захлябні´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">захлябні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">захлябну´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158611" Lemma="захлібну´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">захлібну´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">захлібну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">захлібне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">захлібне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">захлібнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">захлібняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">захлібну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">захлібну´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">захлібну´лася</Form>
-        <Form Tag="PXSN">захлібну´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">захлібну´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">захлібні´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">захлібні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">захлібну´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158612" Lemma="зацеляпа´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">зацеляпа´цца</Form>
@@ -4031,38 +4063,6 @@
         <Form Tag="I2S" Checked="?vbdict_only?">зашы´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">зашы´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">зашы´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158618" Lemma="заігра´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">заігра´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">заігра´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">заігра´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">заігра´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">заігра´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">заігра´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">заігра´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">заігра´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">заігра´лася</Form>
-        <Form Tag="PXSN">заігра´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">заігра´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">заігра´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">заігра´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">заігра´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158619" Lemma="заірдзе´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">заірдзе´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">заірдзе´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">заірдзе´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">заірдзе´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">заірдзе´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">заірдзе´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">заірдзе´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">заірдзе´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">заірдзе´лася</Form>
-        <Form Tag="PXSN">заірдзе´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">заірдзе´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">заірдзе´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">заірдзе´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">заірдзе´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158620" Lemma="збадзя´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">збадзя´цца</Form>
@@ -4208,6 +4208,38 @@
         <Form Tag="I2P" Checked="?vbdict_only?">зжахні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">зжахну´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158639" Lemma="зірну´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">зірну´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">зірну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">зірне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">зірне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">зірнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">зірняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">зірну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">зірну´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">зірну´лася</Form>
+        <Form Tag="PXSN">зірну´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">зірну´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">зірні´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">зірні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">зірну´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158631" Lemma="злё´тацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">злё´тацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">злё´таюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">злё´таешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">злё´таецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">злё´таемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">злё´таецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">злё´таюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">злё´таўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">злё´талася</Form>
+        <Form Tag="PXSN">злё´талася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">злё´таліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">злё´тайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">злё´тайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">злё´таўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158629" Lemma="злякну´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">злякну´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">злякну´ся</Form>
@@ -4240,21 +4272,21 @@
         <Form Tag="I2P" Checked="?vbdict_only?">злята´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">злята´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158631" Lemma="злё´тацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">злё´тацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">злё´таюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">злё´таешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">злё´таецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">злё´таемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">злё´таецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">злё´таюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">злё´таўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">злё´талася</Form>
-        <Form Tag="PXSN">злё´талася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">злё´таліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">злё´тайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">злё´тайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">злё´таўшыся</Form>
+    <Paradigm pdgId="1158632" Lemma="змабілізава´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">змабілізава´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">змабілізу´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">змабілізу´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">змабілізу´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">змабілізу´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">змабілізу´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">змабілізу´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">змабілізава´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">змабілізава´лася</Form>
+        <Form Tag="PXSN">змабілізава´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">змабілізава´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">змабілізу´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">змабілізу´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">змабілізава´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158633" Lemma="зма´зацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">зма´зацца</Form>
@@ -4271,22 +4303,6 @@
         <Form Tag="I2S" Checked="?vbdict_only?">зма´жся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">зма´жцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">зма´заўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158632" Lemma="змабілізава´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">змабілізава´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">змабілізу´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">змабілізу´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">змабілізу´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">змабілізу´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">змабілізу´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">змабілізу´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">змабілізава´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">змабілізава´лася</Form>
-        <Form Tag="PXSN">змабілізава´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">змабілізава´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">змабілізу´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">змабілізу´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">змабілізава´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158634" Lemma="змата´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">змата´цца</Form>
@@ -4368,21 +4384,69 @@
         <Form Tag="I2P" Checked="?vbdict_only?">зыбні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">зыбну´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158639" Lemma="зірну´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">зірну´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">зірну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">зірне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">зірне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">зірнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">зірняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">зірну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">зірну´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">зірну´лася</Form>
-        <Form Tag="PXSN">зірну´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">зірну´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">зірні´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">зірні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">зірну´ўшыся</Form>
+    <Paradigm pdgId="1159191" Lemma="ізалява´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">ізалява´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">ізалю´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">ізалю´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">ізалю´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">ізалю´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">ізалю´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">ізалю´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">ізалява´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">ізалява´лася</Form>
+        <Form Tag="PXSN">ізалява´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">ізалява´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">ізалю´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">ізалю´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">ізалява´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1160625" Lemma="інактывавацца" Tag="VXPR1">
+        <Form Tag="0">інактывавацца</Form>
+        <Form Tag="F1S">інактывуюся</Form>
+        <Form Tag="F2S">інактывуешся</Form>
+        <Form Tag="F3S">інактывуецца</Form>
+        <Form Tag="F1P">інактывуемся</Form>
+        <Form Tag="F2P">інактывуецеся</Form>
+        <Form Tag="F3P">інактывуюцца</Form>
+        <Form Tag="PXSM">інактываваўся</Form>
+        <Form Tag="PXSF">інактывавалася</Form>
+        <Form Tag="PXSN">інактывавалася</Form>
+        <Form Tag="PXPX">інактываваліся</Form>
+        <Form Tag="I2S">інактывуйся</Form>
+        <Form Tag="I2P">інактывуйцеся</Form>
+        <Form Tag="PG">інактываваўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159192" Lemma="інфармава´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">інфармава´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">інфарму´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">інфарму´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">інфарму´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">інфарму´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">інфарму´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">інфарму´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">інфармава´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">інфармава´лася</Form>
+        <Form Tag="PXSN">інфармава´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">інфармава´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">інфарму´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">інфарму´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">інфармава´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1163344" Lemma="інфільтравацца" Tag="VXPR1">
+        <Form Tag="0">інфільтравацца</Form>
+        <Form Tag="F1S">інфільтруюся</Form>
+        <Form Tag="F2S">інфільтруешся</Form>
+        <Form Tag="F3S">інфільтруецца</Form>
+        <Form Tag="F1P">інфільтруемся</Form>
+        <Form Tag="F2P">інфільтруецеся</Form>
+        <Form Tag="F3P">інфільтруюцца</Form>
+        <Form Tag="PXSM">інфільтраваўся</Form>
+        <Form Tag="PXSF">інфільтравалася</Form>
+        <Form Tag="PXSN">інфільтравалася</Form>
+        <Form Tag="PXPX">інфільтраваліся</Form>
+        <Form Tag="I2S">інфільтруйся</Form>
+        <Form Tag="I2P">інфільтруйцеся</Form>
+        <Form Tag="PG">інфільтраваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158640" Lemma="кааперава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">кааперава´цца</Form>
@@ -4960,22 +5024,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">надзяўба´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">надзяўба´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158677" Lemma="нажа´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">нажа´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">нажну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">нажне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">нажне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">нажнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">нажняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">нажну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">нажа´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">нажа´лася</Form>
-        <Form Tag="PXSN">нажа´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">нажа´ліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">нажні´ся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">нажні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">нажа´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158676" Lemma="нажава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нажава´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">нажую´ся</Form>
@@ -4991,6 +5039,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">нажу´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">нажу´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">нажава´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158677" Lemma="нажа´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">нажа´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">нажну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">нажне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">нажне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">нажнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">нажняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">нажну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">нажа´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">нажа´лася</Form>
+        <Form Tag="PXSN">нажа´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">нажа´ліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">нажні´ся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">нажні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">нажа´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158678" Lemma="нажлу´ктацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нажлу´ктацца</Form>
@@ -5264,6 +5328,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">накупа´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">накупа´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158695" Lemma="налапата´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">налапата´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">налапачу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">налапо´чашся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">налапо´чацца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">налапо´чамся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">налапо´чацеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">налапо´чуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">налапата´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">налапата´лася</Form>
+        <Form Tag="PXSN">налапата´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">налапата´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">налапачы´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">налапачы´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">налапата´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158696" Lemma="нала´яцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нала´яцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">нала´юся</Form>
@@ -5280,21 +5360,21 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">нала´яўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158695" Lemma="налапата´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">налапата´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">налапачу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">налапо´чашся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">налапо´чацца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">налапо´чамся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">налапо´чацеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">налапо´чуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">налапата´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">налапата´лася</Form>
-        <Form Tag="PXSN">налапата´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">налапата´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">налапачы´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">налапачы´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">налапата´ўшыся</Form>
+    <Paradigm pdgId="1158701" Lemma="наліза´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">наліза´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">наліжу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">налі´жашся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">налі´жацца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">налі´жамся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">налі´жацеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">налі´жуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">наліза´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">наліза´лася</Form>
+        <Form Tag="PXSN">наліза´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">наліза´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">наліжы´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">наліжы´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">наліза´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158697" Lemma="нало´пацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нало´пацца</Form>
@@ -5359,22 +5439,6 @@
         <Form Tag="I2S" Checked="?vbdict_only?">налята´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">налята´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">налята´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158701" Lemma="наліза´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">наліза´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">наліжу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">налі´жашся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">налі´жацца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">налі´жамся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">налі´жацеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">налі´жуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">наліза´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">наліза´лася</Form>
-        <Form Tag="PXSN">наліза´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">наліза´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">наліжы´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">наліжы´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">наліза´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158702" Lemma="намагчы´ся" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">намагчы´ся</Form>
@@ -5632,6 +5696,22 @@
         <Form Tag="I2P" Type="potential" Checked="+">наркатызу´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">наркатызава´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158719" Lemma="насвіста´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">насвіста´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">насвішчу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">насві´шчашся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">насві´шчацца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">насві´шчамся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">насві´шчацеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">насві´шчуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">насвіста´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">насвіста´лася</Form>
+        <Form Tag="PXSN">насвіста´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">насвіста´ліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">насвішчы´ся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">насвішчы´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">насвіста´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158718" Lemma="насвяткава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">насвяткава´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">насвятку´юся</Form>
@@ -5648,21 +5728,21 @@
         <Form Tag="I2P" Checked="?vbdict_only?">насвятку´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">насвяткава´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158719" Lemma="насвіста´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">насвіста´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">насвішчу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">насві´шчашся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">насві´шчацца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">насві´шчамся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">насві´шчацеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">насві´шчуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">насвіста´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">насвіста´лася</Form>
-        <Form Tag="PXSN">насвіста´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">насвіста´ліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">насвішчы´ся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">насвішчы´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">насвіста´ўшыся</Form>
+    <Paradigm pdgId="1158728" Lemma="насё´рбацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">насё´рбацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">насё´рбаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">насё´рбаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">насё´рбаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">насё´рбаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">насё´рбаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">насё´рбаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">насё´рбаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">насё´рбалася</Form>
+        <Form Tag="PXSN">насё´рбалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">насё´рбаліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">насё´рбайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">насё´рбайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">насё´рбаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158720" Lemma="насланя´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">насланя´цца</Form>
@@ -5775,22 +5855,6 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">насумава´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158728" Lemma="насё´рбацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">насё´рбацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">насё´рбаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">насё´рбаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">насё´рбаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">насё´рбаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">насё´рбаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">насё´рбаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">насё´рбаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">насё´рбалася</Form>
-        <Form Tag="PXSN">насё´рбалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">насё´рбаліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">насё´рбайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">насё´рбайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">насё´рбаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158729" Lemma="натанцава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">натанцава´цца</Form>
@@ -5952,21 +6016,21 @@
         <Form Tag="I2P" Type="potential" Checked="+">нахварэйцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">нахварэ´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158740" Lemma="нахлябта´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">нахлябта´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">нахлябчу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">нахле´бчашся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">нахле´бчацца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">нахле´бчамся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">нахле´бчацеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">нахле´бчуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">нахля´бтаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">нахля´бталася</Form>
-        <Form Tag="PXSN">нахля´бталася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">нахля´бталіся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">нахля´бчыся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">нахля´бчыцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">нахля´бтаўшыся</Form>
+    <Paradigm pdgId="1158742" Lemma="нахіну´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">нахіну´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">нахіну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">нахіне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">нахіне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">нахінё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">нахіняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">нахіну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">нахіну´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">нахіну´лася</Form>
+        <Form Tag="PXSN">нахіну´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">нахіну´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">нахіні´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">нахіні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">нахіну´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158741" Lemma="нахлё´бацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нахлё´бацца</Form>
@@ -5984,37 +6048,21 @@
         <Form Tag="I2P" Checked="?vbdict_only?">нахлё´байцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">нахлё´баўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158742" Lemma="нахіну´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">нахіну´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">нахіну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">нахіне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">нахіне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">нахінё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">нахіняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">нахіну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">нахіну´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">нахіну´лася</Form>
-        <Form Tag="PXSN">нахіну´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">нахіну´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">нахіні´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">нахіні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">нахіну´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158744" Lemma="наца´цкацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">наца´цкацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">наца´цкаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">наца´цкаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">наца´цкаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">наца´цкаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">наца´цкаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">наца´цкаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">наца´цкаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">наца´цкалася</Form>
-        <Form Tag="PXSN">наца´цкалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">наца´цкаліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">наца´цкайся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">наца´цкайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">наца´цкаўшыся</Form>
+    <Paradigm pdgId="1158740" Lemma="нахлябта´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">нахлябта´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">нахлябчу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">нахле´бчашся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">нахле´бчацца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">нахле´бчамся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">нахле´бчацеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">нахле´бчуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">нахля´бтаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">нахля´бталася</Form>
+        <Form Tag="PXSN">нахля´бталася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">нахля´бталіся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">нахля´бчыся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">нахля´бчыцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">нахля´бтаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158743" Lemma="нацалава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нацалава´цца</Form>
@@ -6031,6 +6079,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">нацалу´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">нацалу´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">нацалава´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158744" Lemma="наца´цкацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">наца´цкацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">наца´цкаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">наца´цкаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">наца´цкаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">наца´цкаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">наца´цкаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">наца´цкаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">наца´цкаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">наца´цкалася</Form>
+        <Form Tag="PXSN">наца´цкалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">наца´цкаліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">наца´цкайся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">наца´цкайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">наца´цкаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158745" Lemma="нацмо´кацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">нацмо´кацца</Form>
@@ -6416,22 +6480,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">пабра´тайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пабра´таўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158770" Lemma="пабры´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">пабры´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">пабры´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">пабры´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">пабры´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">пабры´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">пабры´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">пабры´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">пабры´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">пабры´лася</Form>
-        <Form Tag="PXSN">пабры´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">пабры´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">пабры´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">пабры´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">пабры´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158769" Lemma="пабрыка´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пабрыка´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">пабрыка´юся</Form>
@@ -6447,6 +6495,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">пабрыка´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">пабрыка´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пабрыка´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158770" Lemma="пабры´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">пабры´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">пабры´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">пабры´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">пабры´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">пабры´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">пабры´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">пабры´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">пабры´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">пабры´лася</Form>
+        <Form Tag="PXSN">пабры´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">пабры´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">пабры´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">пабры´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">пабры´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158771" Lemma="паважда´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">паважда´цца</Form>
@@ -6960,22 +7024,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">пазайма´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пазайма´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158803" Lemma="пазапліка´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">пазапліка´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">пазапліка´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">пазапліка´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">пазапліка´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">пазапліка´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">пазапліка´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">пазапліка´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">пазапліка´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">пазапліка´лася</Form>
-        <Form Tag="PXSN">пазапліка´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">пазапліка´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">пазапліка´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">пазапліка´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">пазапліка´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158804" Lemma="пазапі´свацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пазапі´свацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">пазапі´сваюся</Form>
@@ -6991,6 +7039,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">пазапі´свайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">пазапі´свайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пазапі´сваўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158803" Lemma="пазапліка´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">пазапліка´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">пазапліка´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">пазапліка´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">пазапліка´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">пазапліка´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">пазапліка´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">пазапліка´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">пазапліка´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">пазапліка´лася</Form>
+        <Form Tag="PXSN">пазапліка´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">пазапліка´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">пазапліка´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">пазапліка´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">пазапліка´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158805" Lemma="пазахапля´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пазахапля´цца</Form>
@@ -7328,22 +7392,6 @@
         <Form Tag="I2P" Type="potential" Checked="+">паню´хайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">паню´хаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158847" Lemma="папа´сціся" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">папа´сціся</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">пападу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">пападзе´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">пападзе´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">пападзё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">пападзяце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">пападу´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">папа´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">папа´лася</Form>
-        <Form Tag="PXSN">папа´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">папа´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">пападзі´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">пападзі´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">папа´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158827" Lemma="папаваро´чацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">папаваро´чацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">папаваро´чаюся</Form>
@@ -7408,22 +7456,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">папаганя´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">папаганя´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158832" Lemma="папагры´зціся" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">папагры´зціся</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">папагрызу´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">папагрызе´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">папагрызе´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">папагрызё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">папагрызяце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">папагрызу´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">папагры´зся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">папагры´злася</Form>
-        <Form Tag="PXSN">папагры´злася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">папагры´зліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">папагрызі´ся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">папагрызі´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">папагры´зшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158831" Lemma="папагрыза´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">папагрыза´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">папагрыза´юся</Form>
@@ -7439,6 +7471,22 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">папагрыза´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158832" Lemma="папагры´зціся" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">папагры´зціся</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">папагрызу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">папагрызе´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">папагрызе´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">папагрызё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">папагрызяце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">папагрызу´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">папагры´зся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">папагры´злася</Form>
+        <Form Tag="PXSN">папагры´злася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">папагры´зліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">папагрызі´ся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">папагрызі´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">папагры´зшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158833" Lemma="пападпі´свацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пападпі´свацца</Form>
@@ -7536,22 +7584,6 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">папакру´чваўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158840" Lemma="папаку´пвацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">папаку´пвацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">папаку´пваюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">папаку´пваешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">папаку´пваецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">папаку´пваемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">папаку´пваецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">папаку´пваюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">папаку´пваўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">папаку´пвалася</Form>
-        <Form Tag="PXSN">папаку´пвалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">папаку´пваліся</Form>
-        <Form Tag="I2S" Checked="+"></Form>
-        <Form Tag="I2P" Checked="+"></Form>
-        <Form Tag="PG" Checked="?vbdict_only?">папаку´пваўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158839" Lemma="папакупа´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">папакупа´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">папакупа´юся</Form>
@@ -7567,6 +7599,22 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">папакупа´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158840" Lemma="папаку´пвацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">папаку´пвацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">папаку´пваюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">папаку´пваешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">папаку´пваецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">папаку´пваемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">папаку´пваецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">папаку´пваюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">папаку´пваўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">папаку´пвалася</Form>
+        <Form Tag="PXSN">папаку´пвалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">папаку´пваліся</Form>
+        <Form Tag="I2S" Checked="+"></Form>
+        <Form Tag="I2P" Checked="+"></Form>
+        <Form Tag="PG" Checked="?vbdict_only?">папаку´пваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158841" Lemma="папале´чвацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">папале´чвацца</Form>
@@ -7664,6 +7712,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">папастара´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">папастара´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158847" Lemma="папа´сціся" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">папа´сціся</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">пападу´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">пападзе´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">пападзе´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">пападзё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">пападзяце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">пападу´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">папа´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">папа´лася</Form>
+        <Form Tag="PXSN">папа´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">папа´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">пападзі´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">пападзі´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">папа´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158848" Lemma="папатрэ´сціся" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">папатрэ´сціся</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">папатрасу´ся</Form>
@@ -7744,38 +7808,6 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">папачу´хваўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158855" Lemma="папе´рціся" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">папе´рціся</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">папру´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">папрэ´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">папрэ´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">папро´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">папраце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">папру´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">папё´рся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">папе´рлася</Form>
-        <Form Tag="PXSN">папе´рлася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">папе´рліся</Form>
-        <Form Tag="I2S" Type="potential" Checked="+">папры´ся</Form>
-        <Form Tag="I2P" Type="potential" Checked="+">папры´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">папё´ршыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158856" Lemma="папе´ставацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">папе´ставацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">папе´стуюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">папе´стуешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">папе´стуецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">папе´стуемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">папе´стуецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">папе´стуюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">папе´ставаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">папе´ставалася</Form>
-        <Form Tag="PXSN">папе´ставалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">папе´ставаліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">папе´стуйся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">папе´стуйцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">папе´ставаўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158853" Lemma="паперабіра´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">паперабіра´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">паперабіра´юся</Form>
@@ -7807,6 +7839,38 @@
         <Form Tag="I2S" Checked="?vbdict_only?">паперавя´звайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">паперавя´звайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">паперавя´зваўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158855" Lemma="папе´рціся" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">папе´рціся</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">папру´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">папрэ´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">папрэ´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">папро´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">папраце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">папру´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">папё´рся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">папе´рлася</Form>
+        <Form Tag="PXSN">папе´рлася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">папе´рліся</Form>
+        <Form Tag="I2S" Type="potential" Checked="+">папры´ся</Form>
+        <Form Tag="I2P" Type="potential" Checked="+">папры´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">папё´ршыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158856" Lemma="папе´ставацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">папе´ставацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">папе´стуюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">папе´стуешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">папе´стуецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">папе´стуемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">папе´стуецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">папе´стуюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">папе´ставаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">папе´ставалася</Form>
+        <Form Tag="PXSN">папе´ставалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">папе´ставаліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">папе´стуйся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">папе´стуйцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">папе´ставаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158857" Lemma="паплё´скацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">паплё´скацца</Form>
@@ -7872,22 +7936,6 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">папрыхіля´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158862" Lemma="папя´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">папя´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">папну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">папне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">папне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">папнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">папняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">папну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">папя´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">папя´лася</Form>
-        <Form Tag="PXSN">папя´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">папя´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">папні´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">папні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">папя´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158861" Lemma="папялё´скацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">папялё´скацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">папялё´скаюся</Form>
@@ -7903,6 +7951,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">папялё´скайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">папялё´скайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">папялё´скаўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158862" Lemma="папя´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">папя´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">папну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">папне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">папне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">папнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">папняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">папну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">папя´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">папя´лася</Form>
+        <Form Tag="PXSN">папя´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">папя´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">папні´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">папні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">папя´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158863" Lemma="парука´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">парука´цца</Form>
@@ -7951,6 +8015,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">пасва´тайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">пасва´тайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пасва´таўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158873" Lemma="пасілкава´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">пасілкава´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">пасілку´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">пасілку´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">пасілку´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">пасілку´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">пасілку´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">пасілку´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">пасілкава´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">пасілкава´лася</Form>
+        <Form Tag="PXSN">пасілкава´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">пасілкава´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">пасілку´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">пасілку´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">пасілкава´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158866" Lemma="пасланя´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пасланя´цца</Form>
@@ -8048,22 +8128,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">пасябру´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пасябрава´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158873" Lemma="пасілкава´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">пасілкава´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">пасілку´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">пасілку´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">пасілку´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">пасілку´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">пасілку´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">пасілку´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">пасілкава´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">пасілкава´лася</Form>
-        <Form Tag="PXSN">пасілкава´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">пасілкава´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">пасілку´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">пасілку´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">пасілкава´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158874" Lemma="патаргава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">патаргава´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">патаргу´юся</Form>
@@ -8143,6 +8207,54 @@
         <Form Tag="I2S" Type="potential" Checked="+">паты´цкайся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">паты´цкайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">паты´цкаўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158887" Lemma="паўгляда´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">паўгляда´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">паўгляда´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">паўгляда´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">паўгляда´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">паўгляда´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">паўгляда´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">паўгляда´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">паўгляда´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">паўгляда´лася</Form>
+        <Form Tag="PXSN">паўгляда´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">паўгляда´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">паўгляда´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">паўгляда´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">паўгляда´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158888" Lemma="паўпіра´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">паўпіра´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">паўпіра´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">паўпіра´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">паўпіра´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">паўпіра´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">паўпіра´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">паўпіра´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">паўпіра´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">паўпіра´лася</Form>
+        <Form Tag="PXSN">паўпіра´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">паўпіра´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">паўпіра´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">паўпіра´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">паўпіра´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158889" Lemma="паўслухо´ўвацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">паўслухо´ўвацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">паўслухо´ўваюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">паўслухо´ўваешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">паўслухо´ўваецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">паўслухо´ўваемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">паўслухо´ўваецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">паўслухо´ўваюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">паўслухо´ўваўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">паўслухо´ўвалася</Form>
+        <Form Tag="PXSN">паўслухо´ўвалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">паўслухо´ўваліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">паўслухо´ўвайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">паўслухо´ўвайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">паўслухо´ўваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158879" Lemma="паца´пацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">паца´пацца</Form>
@@ -8279,54 +8391,6 @@
         <Form Tag="I2S" Type="potential" Checked="+">паэкзамену´йся</Form>
         <Form Tag="I2P" Type="potential" Checked="+">паэкзамену´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">паэкзаменава´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158887" Lemma="паўгляда´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">паўгляда´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">паўгляда´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">паўгляда´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">паўгляда´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">паўгляда´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">паўгляда´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">паўгляда´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">паўгляда´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">паўгляда´лася</Form>
-        <Form Tag="PXSN">паўгляда´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">паўгляда´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">паўгляда´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">паўгляда´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">паўгляда´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158888" Lemma="паўпіра´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">паўпіра´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">паўпіра´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">паўпіра´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">паўпіра´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">паўпіра´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">паўпіра´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">паўпіра´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">паўпіра´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">паўпіра´лася</Form>
-        <Form Tag="PXSN">паўпіра´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">паўпіра´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">паўпіра´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">паўпіра´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">паўпіра´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1158889" Lemma="паўслухо´ўвацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">паўслухо´ўвацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">паўслухо´ўваюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">паўслухо´ўваешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">паўслухо´ўваецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">паўслухо´ўваемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">паўслухо´ўваецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">паўслухо´ўваюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">паўслухо´ўваўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">паўслухо´ўвалася</Form>
-        <Form Tag="PXSN">паўслухо´ўвалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">паўслухо´ўваліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">паўслухо´ўвайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">паўслухо´ўвайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">паўслухо´ўваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158890" Lemma="пераабмундзірава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пераабмундзірава´цца</Form>
@@ -8488,22 +8552,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">пераздаро´ўкайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пераздаро´ўкаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158900" Lemma="перазня´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">перазня´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">перазніму´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">перазні´мешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">перазні´мецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">перазні´мемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">перазні´мецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">перазні´муцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">перазня´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">перазняла´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">перазняло´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">перазнялі´ся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">перазнімі´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">перазнімі´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">перазня´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158901" Lemma="перазірну´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">перазірну´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">перазірну´ся</Form>
@@ -8519,6 +8567,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">перазірні´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">перазірні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">перазірну´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158900" Lemma="перазня´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">перазня´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">перазніму´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">перазні´мешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">перазні´мецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">перазні´мемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">перазні´мецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">перазні´муцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">перазня´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">перазняла´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">перазняло´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">перазнялі´ся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">перазнімі´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">перазнімі´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">перазня´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158902" Lemma="перакара´бкацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">перакара´бкацца</Form>
@@ -8808,22 +8872,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">пераэкзамену´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">пераэкзаменава´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158920" Lemma="плю´снуцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">плю´снуцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">плю´снуся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">плю´снешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">плю´снецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">плю´снемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">плю´снецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">плю´снуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">плю´снуўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">плю´снулася</Form>
-        <Form Tag="PXSN">плю´снулася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">плю´снуліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">плю´сніся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">плю´сніцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">плю´снуўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158921" Lemma="плё´хнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">плё´хнуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">плё´хнуся</Form>
@@ -8839,6 +8887,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">плё´хніся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">плё´хніцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">плё´хнуўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158920" Lemma="плю´снуцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">плю´снуцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">плю´снуся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">плю´снешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">плю´снецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">плю´снемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">плю´снецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">плю´снуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">плю´снуўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">плю´снулася</Form>
+        <Form Tag="PXSN">плю´снулася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">плю´снуліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">плю´сніся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">плю´сніцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">плю´снуўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158922" Lemma="прабадзя´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прабадзя´цца</Form>
@@ -9000,22 +9064,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">прады´хайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">прады´хаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158937" Lemma="прака´шляцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">прака´шляцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">прака´шляюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">прака´шляешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">прака´шляецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">прака´шляемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">прака´шляецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">прака´шляюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">прака´шляўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">прака´шлялася</Form>
-        <Form Tag="PXSN">прака´шлялася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">прака´шляліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">прака´шляйся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">прака´шляйцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">прака´шляўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158933" Lemma="пракалупа´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пракалупа´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">пракалупа´юся</Form>
@@ -9080,6 +9128,22 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">пракарпа´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158937" Lemma="прака´шляцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">прака´шляцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">прака´шляюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">прака´шляешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">прака´шляецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">прака´шляемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">прака´шляецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">прака´шляюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">прака´шляўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">прака´шлялася</Form>
+        <Form Tag="PXSN">прака´шлялася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">прака´шляліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">прака´шляйся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">прака´шляйцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">прака´шляўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158938" Lemma="праке´шкацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">праке´шкацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">праке´шкаюся</Form>
@@ -9095,6 +9159,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">праке´шкайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">праке´шкайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">праке´шкаўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158941" Lemma="пракі´дацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">пракі´дацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">пракі´даюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">пракі´даешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">пракі´даецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">пракі´даемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">пракі´даецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">пракі´даюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">пракі´даўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">пракі´далася</Form>
+        <Form Tag="PXSN">пракі´далася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">пракі´даліся</Form>
+        <Form Tag="I2S" Checked="+"></Form>
+        <Form Tag="I2P" Checked="+"></Form>
+        <Form Tag="PG" Checked="?vbdict_only?">пракі´даўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158939" Lemma="прако´рпацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прако´рпацца</Form>
@@ -9128,22 +9208,6 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">прако´ўзаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158941" Lemma="пракі´дацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">пракі´дацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">пракі´даюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">пракі´даешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">пракі´даецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">пракі´даемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">пракі´даецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">пракі´даюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">пракі´даўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">пракі´далася</Form>
-        <Form Tag="PXSN">пракі´далася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">пракі´даліся</Form>
-        <Form Tag="I2S" Checked="+"></Form>
-        <Form Tag="I2P" Checked="+"></Form>
-        <Form Tag="PG" Checked="?vbdict_only?">пракі´даўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158942" Lemma="пралга´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пралга´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">пралгу´ся</Form>
@@ -9160,22 +9224,6 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">пралга´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158943" Lemma="праня´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">праня´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">прайму´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">про´ймешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">про´ймецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">про´ймемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">про´ймецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">про´ймуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">праня´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">праняла´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">праняло´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">пранялі´ся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">праймі´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">праймі´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">праня´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158944" Lemma="прані´кнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прані´кнуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">прані´кнуся</Form>
@@ -9191,6 +9239,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">прані´кніся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">прані´кніцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">прані´кшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158943" Lemma="праня´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">праня´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">прайму´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">про´ймешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">про´ймецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">про´ймемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">про´ймецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">про´ймуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">праня´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">праняла´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">праняло´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">пранялі´ся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">праймі´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">праймі´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">праня´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158945" Lemma="прапаро´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прапаро´цца</Form>
@@ -9480,22 +9544,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">працеляпа´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">працеляпа´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158963" Lemma="працяга´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">працяга´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">працяга´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">працяга´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">працяга´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">працяга´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">працяга´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">працяга´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">працяга´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">працяга´лася</Form>
-        <Form Tag="PXSN">працяга´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">працяга´ліся</Form>
-        <Form Tag="I2S" Checked="+"></Form>
-        <Form Tag="I2P" Checked="+"></Form>
-        <Form Tag="PG" Checked="?vbdict_only?">працяга´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158964" Lemma="праці´скацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">праці´скацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">праці´скаюся</Form>
@@ -9511,6 +9559,22 @@
         <Form Tag="I2S"></Form>
         <Form Tag="I2P"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">праці´скаўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1158963" Lemma="працяга´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">працяга´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">працяга´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">працяга´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">працяга´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">працяга´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">працяга´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">працяга´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">працяга´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">працяга´лася</Form>
+        <Form Tag="PXSN">працяга´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">працяга´ліся</Form>
+        <Form Tag="I2S" Checked="+"></Form>
+        <Form Tag="I2P" Checked="+"></Form>
+        <Form Tag="PG" Checked="?vbdict_only?">працяга´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158965" Lemma="прачака´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прачака´цца</Form>
@@ -9982,6 +10046,22 @@
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">прыту´паўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1158996" Lemma="прыўзня´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">прыўзня´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">прыўзніму´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">прыўзні´мешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">прыўзні´мецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">прыўзні´мемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">прыўзні´мецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">прыўзні´муцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">прыўзня´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">прыўзняла´ся</Form>
+        <Form Tag="PXSN" Checked="?vbdict_only?">прыўзняло´ся</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">прыўзнялі´ся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">прыўзнімі´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">прыўзнімі´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">прыўзня´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1158994" Lemma="прычака´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прычака´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">прычака´юся</Form>
@@ -10014,22 +10094,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">прычашы´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">прычаса´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1158996" Lemma="прыўзня´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">прыўзня´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">прыўзніму´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">прыўзні´мешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">прыўзні´мецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">прыўзні´мемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">прыўзні´мецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">прыўзні´муцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">прыўзня´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">прыўзняла´ся</Form>
-        <Form Tag="PXSN" Checked="?vbdict_only?">прыўзняло´ся</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">прыўзнялі´ся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">прыўзнімі´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">прыўзнімі´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">прыўзня´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1158997" Lemma="пялё´снуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">пялё´снуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">пялё´снуся</Form>
@@ -10045,22 +10109,6 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">пялё´снуўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159002" Lemma="раза´хкацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">раза´хкацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">раза´хкаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">раза´хкаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">раза´хкаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">раза´хкаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">раза´хкаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">раза´хкаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">раза´хкаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">раза´хкалася</Form>
-        <Form Tag="PXSN">раза´хкалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">раза´хкаліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">раза´хкайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">раза´хкайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">раза´хкаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158998" Lemma="разадзе´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разадзе´цца</Form>
@@ -10126,6 +10174,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">разапні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">разапну´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1159002" Lemma="раза´хкацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">раза´хкацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">раза´хкаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">раза´хкаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">раза´хкаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">раза´хкаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">раза´хкаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">раза´хкаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">раза´хкаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">раза´хкалася</Form>
+        <Form Tag="PXSN">раза´хкалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">раза´хкаліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">раза´хкайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">раза´хкайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">раза´хкаўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1159003" Lemma="разачха´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разачха´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">разачха´юся</Form>
@@ -10190,6 +10254,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">разбяду´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">разбедава´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1159010" Lemma="разбінтава´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">разбінтава´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">разбінту´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">разбінту´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">разбінту´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">разбінту´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">разбінту´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">разбінту´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">разбінтава´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">разбінтава´лася</Form>
+        <Form Tag="PXSN">разбінтава´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">разбінтава´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">разбінту´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">разбінту´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">разбінтава´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1159007" Lemma="разбо´жкацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разбо´жкацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">разбо´жкаюся</Form>
@@ -10205,22 +10285,6 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">разбо´жкаўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159009" Lemma="разбу´ркацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">разбу´ркацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">разбу´ркаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">разбу´ркаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">разбу´ркаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">разбу´ркаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">разбу´ркаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">разбу´ркаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">разбу´ркаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">разбу´ркалася</Form>
-        <Form Tag="PXSN">разбу´ркалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">разбу´ркаліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">разбу´ркайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">разбу´ркайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">разбу´ркаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159008" Lemma="разбудава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разбудава´цца</Form>
@@ -10238,21 +10302,21 @@
         <Form Tag="I2P" Checked="?vbdict_only?">разбуду´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">разбудава´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159010" Lemma="разбінтава´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">разбінтава´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">разбінту´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">разбінту´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">разбінту´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">разбінту´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">разбінту´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">разбінту´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">разбінтава´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">разбінтава´лася</Form>
-        <Form Tag="PXSN">разбінтава´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">разбінтава´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">разбінту´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">разбінту´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">разбінтава´ўшыся</Form>
+    <Paradigm pdgId="1159009" Lemma="разбу´ркацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">разбу´ркацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">разбу´ркаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">разбу´ркаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">разбу´ркаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">разбу´ркаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">разбу´ркаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">разбу´ркаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">разбу´ркаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">разбу´ркалася</Form>
+        <Form Tag="PXSN">разбу´ркалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">разбу´ркаліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">разбу´ркайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">разбу´ркайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">разбу´ркаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159011" Lemma="разва´жнічацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разва´жнічацца</Form>
@@ -10526,22 +10590,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">разля´жцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">разлё´гшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159028" Lemma="разля´пацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">разля´пацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">разля´паюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">разля´паешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">разля´паецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">разля´паемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">разля´паецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">разля´паюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">разля´паўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">разля´палася</Form>
-        <Form Tag="PXSN">разля´палася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">разля´паліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">разля´пайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">разля´пайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">разля´паўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159029" Lemma="разлё´тацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разлё´тацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">разлё´таюся</Form>
@@ -10557,6 +10605,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">разлё´тайся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">разлё´тайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">разлё´таўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159028" Lemma="разля´пацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">разля´пацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">разля´паюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">разля´паешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">разля´паецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">разля´паемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">разля´паецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">разля´паюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">разля´паўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">разля´палася</Form>
+        <Form Tag="PXSN">разля´палася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">разля´паліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">разля´пайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">разля´пайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">разля´паўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159030" Lemma="размаха´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">размаха´цца</Form>
@@ -10590,38 +10654,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">размахні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">размахну´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159033" Lemma="размя´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">размя´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">разамну´ся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">разамне´шся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">разамне´цца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">разамнё´мся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">разамняце´ся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">разамну´цца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">размя´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">размя´лася</Form>
-        <Form Tag="PXSN">размя´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">размя´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">разамні´ся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">разамні´цеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">размя´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159032" Lemma="размяня´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">размяня´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">размяня´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">размяня´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">размяня´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">размяня´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">размяня´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">размяня´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">размяня´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">размяня´лася</Form>
-        <Form Tag="PXSN">размяня´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">размяня´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">размяня´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">размяня´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">размяня´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159034" Lemma="разміну´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разміну´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">разміну´ся</Form>
@@ -10653,6 +10685,38 @@
         <Form Tag="I2S" Checked="?vbdict_only?">размітынгу´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">размітынгу´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">размітынгава´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159032" Lemma="размяня´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">размяня´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">размяня´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">размяня´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">размяня´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">размяня´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">размяня´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">размяня´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">размяня´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">размяня´лася</Form>
+        <Form Tag="PXSN">размяня´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">размяня´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">размяня´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">размяня´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">размяня´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159033" Lemma="размя´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">размя´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">разамну´ся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">разамне´шся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">разамне´цца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">разамнё´мся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">разамняце´ся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">разамну´цца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">размя´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">размя´лася</Form>
+        <Form Tag="PXSN">размя´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">размя´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">разамні´ся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">разамні´цеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">размя´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159036" Lemma="разны´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">разны´цца</Form>
@@ -10798,22 +10862,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">ракіру´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">ракірава´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159046" Lemma="раска´шляцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">раска´шляцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">раска´шляюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">раска´шляешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">раска´шляецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">раска´шляемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">раска´шляецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">раска´шляюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">раска´шляўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">раска´шлялася</Form>
-        <Form Tag="PXSN">раска´шлялася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">раска´шляліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">раска´шляйся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">раска´шляйцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">раска´шляўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159045" Lemma="раската´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">раската´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">раската´юся</Form>
@@ -10829,6 +10877,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">раската´йся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">раската´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">раската´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159046" Lemma="раска´шляцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">раска´шляцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">раска´шляюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">раска´шляешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">раска´шляецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">раска´шляемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">раска´шляецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">раска´шляюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">раска´шляўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">раска´шлялася</Form>
+        <Form Tag="PXSN">раска´шлялася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">раска´шляліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">раска´шляйся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">раска´шляйцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">раска´шляўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159047" Lemma="расквакта´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">расквакта´цца</Form>
@@ -11166,22 +11230,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">расфантазі´руйцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">расфантазі´раваўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159069" Lemma="расфы´ркацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">расфы´ркацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">расфы´ркаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">расфы´ркаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">расфы´ркаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">расфы´ркаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">расфы´ркаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">расфы´ркаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">расфы´ркаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">расфы´ркалася</Form>
-        <Form Tag="PXSN">расфы´ркалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">расфы´ркаліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">расфы´ркайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">расфы´ркайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">расфы´ркаўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159070" Lemma="расфіласо´фствавацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">расфіласо´фствавацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">расфіласо´фствуюся</Form>
@@ -11197,6 +11245,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">расфіласо´фствуйся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">расфіласо´фствуйцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">расфіласо´фстваваўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159069" Lemma="расфы´ркацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">расфы´ркацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">расфы´ркаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">расфы´ркаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">расфы´ркаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">расфы´ркаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">расфы´ркаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">расфы´ркаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">расфы´ркаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">расфы´ркалася</Form>
+        <Form Tag="PXSN">расфы´ркалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">расфы´ркаліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">расфы´ркайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">расфы´ркайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">расфы´ркаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159071" Lemma="расхны´кацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">расхны´кацца</Form>
@@ -11294,22 +11358,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">расчыркні´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">расчыркну´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159078" Lemma="расша´ркацца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">расша´ркацца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">расша´ркаюся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">расша´ркаешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">расша´ркаецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">расша´ркаемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">расша´ркаецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">расша´ркаюцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">расша´ркаўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">расша´ркалася</Form>
-        <Form Tag="PXSN">расша´ркалася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">расша´ркаліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">расша´ркайся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">расша´ркайцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">расша´ркаўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159077" Lemma="расшапта´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">расшапта´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">расшапчу´ся</Form>
@@ -11325,6 +11373,22 @@
         <Form Tag="I2S" Checked="+"></Form>
         <Form Tag="I2P" Checked="+"></Form>
         <Form Tag="PG" Checked="?vbdict_only?">расшапта´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159078" Lemma="расша´ркацца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">расша´ркацца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">расша´ркаюся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">расша´ркаешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">расша´ркаецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">расша´ркаемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">расша´ркаецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">расша´ркаюцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">расша´ркаўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">расша´ркалася</Form>
+        <Form Tag="PXSN">расша´ркалася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">расша´ркаліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">расша´ркайся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">расша´ркайцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">расша´ркаўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159079" Lemma="расшчабята´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">расшчабята´цца</Form>
@@ -11838,22 +11902,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">сквіта´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">сквіта´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159111" Lemma="скупа´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">скупа´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">скупа´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">скупа´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">скупа´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">скупа´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">скупа´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">скупа´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">скупа´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">скупа´лася</Form>
-        <Form Tag="PXSN">скупа´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">скупа´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">скупа´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">скупа´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">скупа´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159110" Lemma="скупану´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">скупану´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">скупану´ся</Form>
@@ -11869,6 +11917,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">скупані´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">скупані´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">скупану´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159111" Lemma="скупа´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">скупа´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">скупа´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">скупа´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">скупа´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">скупа´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">скупа´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">скупа´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">скупа´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">скупа´лася</Form>
+        <Form Tag="PXSN">скупа´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">скупа´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">скупа´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">скупа´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">скупа´ўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159112" Lemma="смаргану´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">смаргану´цца</Form>
@@ -12814,22 +12878,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">ушу´шкайцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">ушу´шкаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159173" Lemma="хлю´пнуцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">хлю´пнуцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">хлю´пнуся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">хлю´пнешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">хлю´пнецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">хлю´пнемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">хлю´пнецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">хлю´пнуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">хлю´пнуўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">хлю´пнулася</Form>
-        <Form Tag="PXSN">хлю´пнулася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">хлю´пнуліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">хлю´пніся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">хлю´пніцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">хлю´пнуўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159174" Lemma="хістану´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">хістану´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">хістану´ся</Form>
@@ -12845,6 +12893,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">хістані´ся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">хістані´цеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">хістану´ўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159173" Lemma="хлю´пнуцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">хлю´пнуцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">хлю´пнуся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">хлю´пнешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">хлю´пнецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">хлю´пнемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">хлю´пнецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">хлю´пнуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">хлю´пнуўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">хлю´пнулася</Form>
+        <Form Tag="PXSN">хлю´пнулася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">хлю´пнуліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">хлю´пніся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">хлю´пніцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">хлю´пнуўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159175" Lemma="цывілізава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">цывілізава´цца</Form>
@@ -12926,22 +12990,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">чмя´кніцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">чмя´кнуўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159183" Lemma="ша´снуцца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">ша´снуцца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">ша´снуся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">ша´снешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">ша´снецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">ша´снемся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">ша´снецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">ша´снуцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">ша´снуўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">ша´снулася</Form>
-        <Form Tag="PXSN">ша´снулася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">ша´снуліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">ша´сніся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">ша´сніцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">ша´снуўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159180" Lemma="шабулды´хнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">шабулды´хнуцца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">шабулды´хнуся</Form>
@@ -12989,6 +13037,22 @@
         <Form Tag="I2S" Checked="?vbdict_only?">шара´хніся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">шара´хніцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">шара´хнуўшыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1159183" Lemma="ша´снуцца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">ша´снуцца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">ша´снуся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">ша´снешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">ша´снецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">ша´снемся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">ша´снецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">ша´снуцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">ша´снуўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">ша´снулася</Form>
+        <Form Tag="PXSN">ша´снулася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">ша´снуліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">ша´сніся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">ша´сніцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">ша´снуўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159184" Lemma="шмя´кнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">шмя´кнуцца</Form>
@@ -13054,22 +13118,6 @@
         <Form Tag="I2P" Checked="?vbdict_only?">эвакуі´руйцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">эвакуі´раваўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1159188" Lemma="экспатрыява´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">экспатрыява´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">экспатрыю´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">экспатрыю´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">экспатрыю´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">экспатрыю´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">экспатрыю´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">экспатрыю´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">экспатрыява´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">экспатрыява´лася</Form>
-        <Form Tag="PXSN">экспатрыява´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">экспатрыява´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">экспатрыю´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">экспатрыю´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">экспатрыява´ўшыся</Form>
-    </Paradigm>
     <Paradigm pdgId="1159189" Lemma="экіпірава´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">экіпірава´цца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">экіпіру´юся</Form>
@@ -13086,6 +13134,22 @@
         <Form Tag="I2P" Checked="?vbdict_only?">экіпіру´йцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">экіпірава´ўшыся</Form>
     </Paradigm>
+    <Paradigm pdgId="1159188" Lemma="экспатрыява´цца" Tag="VXPR1" Checked="?vbdict_only?">
+        <Form Tag="0" Checked="?vbdict_only?">экспатрыява´цца</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">экспатрыю´юся</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">экспатрыю´ешся</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">экспатрыю´ецца</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">экспатрыю´емся</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">экспатрыю´ецеся</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">экспатрыю´юцца</Form>
+        <Form Tag="PXSM" Checked="?vbdict_only?">экспатрыява´ўся</Form>
+        <Form Tag="PXSF" Checked="?vbdict_only?">экспатрыява´лася</Form>
+        <Form Tag="PXSN">экспатрыява´лася</Form>
+        <Form Tag="PXPX" Checked="?vbdict_only?">экспатрыява´ліся</Form>
+        <Form Tag="I2S" Checked="?vbdict_only?">экспатрыю´йся</Form>
+        <Form Tag="I2P" Checked="?vbdict_only?">экспатрыю´йцеся</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">экспатрыява´ўшыся</Form>
+    </Paradigm>
     <Paradigm pdgId="1159190" Lemma="эмансіпі´равацца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">эмансіпі´равацца</Form>
         <Form Tag="F1S" Checked="?vbdict_only?">эмансіпі´руюся</Form>
@@ -13101,69 +13165,5 @@
         <Form Tag="I2S" Checked="?vbdict_only?">эмансіпі´руйся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">эмансіпі´руйцеся</Form>
         <Form Tag="PG" Checked="?vbdict_only?">эмансіпі´раваўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159191" Lemma="ізалява´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">ізалява´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">ізалю´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">ізалю´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">ізалю´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">ізалю´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">ізалю´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">ізалю´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">ізалява´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">ізалява´лася</Form>
-        <Form Tag="PXSN">ізалява´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">ізалява´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">ізалю´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">ізалю´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">ізалява´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160625" Lemma="інактывавацца" Tag="VXPR1">
-        <Form Tag="0">інактывавацца</Form>
-        <Form Tag="F1S">інактывуюся</Form>
-        <Form Tag="F2S">інактывуешся</Form>
-        <Form Tag="F3S">інактывуецца</Form>
-        <Form Tag="F1P">інактывуемся</Form>
-        <Form Tag="F2P">інактывуецеся</Form>
-        <Form Tag="F3P">інактывуюцца</Form>
-        <Form Tag="PXSM">інактываваўся</Form>
-        <Form Tag="PXSF">інактывавалася</Form>
-        <Form Tag="PXSN">інактывавалася</Form>
-        <Form Tag="PXPX">інактываваліся</Form>
-        <Form Tag="I2S">інактывуйся</Form>
-        <Form Tag="I2P">інактывуйцеся</Form>
-        <Form Tag="PG">інактываваўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1159192" Lemma="інфармава´цца" Tag="VXPR1" Checked="?vbdict_only?">
-        <Form Tag="0" Checked="?vbdict_only?">інфармава´цца</Form>
-        <Form Tag="F1S" Checked="?vbdict_only?">інфарму´юся</Form>
-        <Form Tag="F2S" Checked="?vbdict_only?">інфарму´ешся</Form>
-        <Form Tag="F3S" Checked="?vbdict_only?">інфарму´ецца</Form>
-        <Form Tag="F1P" Checked="?vbdict_only?">інфарму´емся</Form>
-        <Form Tag="F2P" Checked="?vbdict_only?">інфарму´ецеся</Form>
-        <Form Tag="F3P" Checked="?vbdict_only?">інфарму´юцца</Form>
-        <Form Tag="PXSM" Checked="?vbdict_only?">інфармава´ўся</Form>
-        <Form Tag="PXSF" Checked="?vbdict_only?">інфармава´лася</Form>
-        <Form Tag="PXSN">інфармава´лася</Form>
-        <Form Tag="PXPX" Checked="?vbdict_only?">інфармава´ліся</Form>
-        <Form Tag="I2S" Checked="?vbdict_only?">інфарму´йся</Form>
-        <Form Tag="I2P" Checked="?vbdict_only?">інфарму´йцеся</Form>
-        <Form Tag="PG" Checked="?vbdict_only?">інфармава´ўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1163344" Lemma="інфільтравацца" Tag="VXPR1">
-        <Form Tag="0">інфільтравацца</Form>
-        <Form Tag="F1S">інфільтруюся</Form>
-        <Form Tag="F2S">інфільтруешся</Form>
-        <Form Tag="F3S">інфільтруецца</Form>
-        <Form Tag="F1P">інфільтруемся</Form>
-        <Form Tag="F2P">інфільтруецеся</Form>
-        <Form Tag="F3P">інфільтруюцца</Form>
-        <Form Tag="PXSM">інфільтраваўся</Form>
-        <Form Tag="PXSF">інфільтравалася</Form>
-        <Form Tag="PXSN">інфільтравалася</Form>
-        <Form Tag="PXPX">інфільтраваліся</Form>
-        <Form Tag="I2S">інфільтруйся</Form>
-        <Form Tag="I2P">інфільтруйцеся</Form>
-        <Form Tag="PG">інфільтраваўшыся</Form>
     </Paradigm>
 </Wordlist>

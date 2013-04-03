@@ -210,6 +210,20 @@
         <Form Tag="XIP">Зайкоўскімі</Form>
         <Form Tag="XLP">Зайкоўскіх</Form>
     </Paradigm>
+    <Paradigm pdgId="1037463" Lemma="Іваноўскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+        <Form Tag="MNS">Іваноўскі</Form>
+        <Form Tag="MGS">Іваноўскага</Form>
+        <Form Tag="MDS">Іваноўскаму</Form>
+        <Form Tag="MAS">Іваноўскага</Form>
+        <Form Tag="MIS">Іваноўскім</Form>
+        <Form Tag="MLS">Іваноўскім</Form>
+        <Form Tag="XNP">Іваноўскія</Form>
+        <Form Tag="XGP">Іваноўскіх</Form>
+        <Form Tag="XDP">Іваноўскім</Form>
+        <Form Tag="XAP">Іваноўскіх</Form>
+        <Form Tag="XIP">Іваноўскімі</Form>
+        <Form Tag="XLP">Іваноўскіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1038141" Lemma="Кальбечынскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="MNS">Кальбечынскі</Form>
         <Form Tag="MGS">Кальбечынскага</Form>
@@ -350,20 +364,6 @@
         <Form Tag="XIP">Лепяшынскімі</Form>
         <Form Tag="XLP">Лепяшынскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1038338" Lemma="Ляшчынскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Form Tag="MNS">Ляшчынскі</Form>
-        <Form Tag="MGS">Ляшчынскага</Form>
-        <Form Tag="MDS">Ляшчынскаму</Form>
-        <Form Tag="MAS">Ляшчынскага</Form>
-        <Form Tag="MIS">Ляшчынскім</Form>
-        <Form Tag="MLS">Ляшчынскім</Form>
-        <Form Tag="XNP">Ляшчынскія</Form>
-        <Form Tag="XGP">Ляшчынскіх</Form>
-        <Form Tag="XDP">Ляшчынскім</Form>
-        <Form Tag="XAP">Ляшчынскіх</Form>
-        <Form Tag="XIP">Ляшчынскімі</Form>
-        <Form Tag="XLP">Ляшчынскіх</Form>
-    </Paradigm>
     <Paradigm pdgId="1038273" Lemma="Ліпскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="MNS">Ліпскі</Form>
         <Form Tag="MGS">Ліпскага</Form>
@@ -377,6 +377,20 @@
         <Form Tag="XAP">Ліпскіх</Form>
         <Form Tag="XIP">Ліпскімі</Form>
         <Form Tag="XLP">Ліпскіх</Form>
+    </Paradigm>
+    <Paradigm pdgId="1038338" Lemma="Ляшчынскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+        <Form Tag="MNS">Ляшчынскі</Form>
+        <Form Tag="MGS">Ляшчынскага</Form>
+        <Form Tag="MDS">Ляшчынскаму</Form>
+        <Form Tag="MAS">Ляшчынскага</Form>
+        <Form Tag="MIS">Ляшчынскім</Form>
+        <Form Tag="MLS">Ляшчынскім</Form>
+        <Form Tag="XNP">Ляшчынскія</Form>
+        <Form Tag="XGP">Ляшчынскіх</Form>
+        <Form Tag="XDP">Ляшчынскім</Form>
+        <Form Tag="XAP">Ляшчынскіх</Form>
+        <Form Tag="XIP">Ляшчынскімі</Form>
+        <Form Tag="XLP">Ляшчынскіх</Form>
     </Paradigm>
     <Paradigm pdgId="1038436" Lemma="Маякоўскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="MNS">Маякоўскі</Form>
@@ -448,6 +462,20 @@
         <Form Tag="XIP">Панятоўскімі</Form>
         <Form Tag="XLP">Панятоўскіх</Form>
     </Paradigm>
+    <Paradigm pdgId="1038538" Lemma="Пілсудскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+        <Form Tag="MNS">Пілсудскі</Form>
+        <Form Tag="MGS">Пілсудскага</Form>
+        <Form Tag="MDS">Пілсудскаму</Form>
+        <Form Tag="MAS">Пілсудскага</Form>
+        <Form Tag="MIS">Пілсудскім</Form>
+        <Form Tag="MLS">Пілсудскім</Form>
+        <Form Tag="XNP">Пілсудскія</Form>
+        <Form Tag="XGP">Пілсудскіх</Form>
+        <Form Tag="XDP">Пілсудскім</Form>
+        <Form Tag="XAP">Пілсудскіх</Form>
+        <Form Tag="XIP">Пілсудскімі</Form>
+        <Form Tag="XLP">Пілсудскіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1016656" Lemma="Прачыстая" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/святы;" Govern="">
         <Form Tag="FNS">Прачыстая</Form>
         <Form Tag="FGS">Прачыстай</Form>
@@ -489,20 +517,6 @@
         <Form Tag="XAP">Пуслоўскіх</Form>
         <Form Tag="XIP">Пуслоўскімі</Form>
         <Form Tag="XLP">Пуслоўскіх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1038538" Lemma="Пілсудскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Form Tag="MNS">Пілсудскі</Form>
-        <Form Tag="MGS">Пілсудскага</Form>
-        <Form Tag="MDS">Пілсудскаму</Form>
-        <Form Tag="MAS">Пілсудскага</Form>
-        <Form Tag="MIS">Пілсудскім</Form>
-        <Form Tag="MLS">Пілсудскім</Form>
-        <Form Tag="XNP">Пілсудскія</Form>
-        <Form Tag="XGP">Пілсудскіх</Form>
-        <Form Tag="XDP">Пілсудскім</Form>
-        <Form Tag="XAP">Пілсудскіх</Form>
-        <Form Tag="XIP">Пілсудскімі</Form>
-        <Form Tag="XLP">Пілсудскіх</Form>
     </Paradigm>
     <Paradigm pdgId="1038640" Lemma="Радзінскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="MNS">Радзінскі</Form>
@@ -616,6 +630,20 @@
         <Form Tag="XIP">Сасноўскімі</Form>
         <Form Tag="XLP">Сасноўскіх</Form>
     </Paradigm>
+    <Paradigm pdgId="1038713" Lemma="Сікорскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+        <Form Tag="MNS">Сікорскі</Form>
+        <Form Tag="MGS">Сікорскага</Form>
+        <Form Tag="MDS">Сікорскаму</Form>
+        <Form Tag="MAS">Сікорскага</Form>
+        <Form Tag="MIS">Сікорскім</Form>
+        <Form Tag="MLS">Сікорскім</Form>
+        <Form Tag="XNP">Сікорскія</Form>
+        <Form Tag="XGP">Сікорскіх</Form>
+        <Form Tag="XDP">Сікорскім</Form>
+        <Form Tag="XAP">Сікорскіх</Form>
+        <Form Tag="XIP">Сікорскімі</Form>
+        <Form Tag="XLP">Сікорскіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1038781" Lemma="Скліфасоўскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="MNS">Скліфасоўскі</Form>
         <Form Tag="MGS">Скліфасоўскага</Form>
@@ -671,20 +699,6 @@
         <Form Tag="XAP">Сяняўскіх</Form>
         <Form Tag="XIP">Сяняўскімі</Form>
         <Form Tag="XLP">Сяняўскіх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1038713" Lemma="Сікорскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Form Tag="MNS">Сікорскі</Form>
-        <Form Tag="MGS">Сікорскага</Form>
-        <Form Tag="MDS">Сікорскаму</Form>
-        <Form Tag="MAS">Сікорскага</Form>
-        <Form Tag="MIS">Сікорскім</Form>
-        <Form Tag="MLS">Сікорскім</Form>
-        <Form Tag="XNP">Сікорскія</Form>
-        <Form Tag="XGP">Сікорскіх</Form>
-        <Form Tag="XDP">Сікорскім</Form>
-        <Form Tag="XAP">Сікорскіх</Form>
-        <Form Tag="XIP">Сікорскімі</Form>
-        <Form Tag="XLP">Сікорскіх</Form>
     </Paradigm>
     <Paradigm pdgId="1038859" Lemma="Талстой" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="MNS">Талстой</Form>
@@ -797,19 +811,5 @@
         <Form Tag="XAP">Якубоўскіх</Form>
         <Form Tag="XIP">Якубоўскімі</Form>
         <Form Tag="XLP">Якубоўскіх</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037463" Lemma="Іваноўскі" Tag="NPAPNS5" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Form Tag="MNS">Іваноўскі</Form>
-        <Form Tag="MGS">Іваноўскага</Form>
-        <Form Tag="MDS">Іваноўскаму</Form>
-        <Form Tag="MAS">Іваноўскага</Form>
-        <Form Tag="MIS">Іваноўскім</Form>
-        <Form Tag="MLS">Іваноўскім</Form>
-        <Form Tag="XNP">Іваноўскія</Form>
-        <Form Tag="XGP">Іваноўскіх</Form>
-        <Form Tag="XDP">Іваноўскім</Form>
-        <Form Tag="XAP">Іваноўскіх</Form>
-        <Form Tag="XIP">Іваноўскімі</Form>
-        <Form Tag="XLP">Іваноўскіх</Form>
     </Paradigm>
 </Wordlist>

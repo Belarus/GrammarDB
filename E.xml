@@ -33,11 +33,11 @@
     <Paradigm pdgId="1000015" Lemma="амаль" Tag="E">
         <Form Tag="X">амаль</Form>
     </Paradigm>
-    <Paradigm pdgId="1000017" Lemma="ану" Tag="E">
-        <Form Tag="X">ану</Form>
-    </Paradigm>
     <Paradigm pdgId="1000016" Lemma="ані" Tag="E">
         <Form Tag="X">ані</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000017" Lemma="ану" Tag="E">
+        <Form Tag="X">ану</Form>
     </Paradigm>
     <Paradigm pdgId="1000018" Lemma="б" Tag="E">
         <Form Tag="X">б</Form>
@@ -126,6 +126,23 @@
     <Paradigm pdgId="1000042" Lemma="жа" Tag="E">
         <Form Tag="X">жа</Form>
     </Paradigm>
+    <Paradigm pdgId="1000001" Lemma="і" Tag="E">
+        <Form Tag="X">і</Form>
+        <Form Tag="X">й</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127115" Lemma="і" Tag="E">
+        <Form Tag="X">і</Form>
+        <Form Tag="X">й</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000002" Lemma="іменна" Tag="E">
+        <Form Tag="X">іменна</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000003" Lemma="інакш" Tag="E">
+        <Form Tag="X">інакш</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000004" Lemma="іначай" Tag="E">
+        <Form Tag="X">іначай</Form>
+    </Paradigm>
     <Paradigm pdgId="1000043" Lemma="каб" Tag="E">
         <Form Tag="X">каб</Form>
     </Paradigm>
@@ -165,35 +182,20 @@
     <Paradigm pdgId="1000056" Lemma="нават і" Tag="E">
         <Form Tag="X">нават і</Form>
     </Paradigm>
-    <Paradigm pdgId="1000057" Lemma="нашто ўжо" Tag="E">
-        <Form Tag="X">нашто ўжо</Form>
-    </Paradigm>
     <Paradigm pdgId="1000053" Lemma="наўрад" Tag="E">
         <Form Tag="X">наўрад</Form>
     </Paradigm>
     <Paradigm pdgId="1000054" Lemma="наўрад ці" Tag="E">
         <Form Tag="X">наўрад ці</Form>
     </Paradigm>
+    <Paradigm pdgId="1000057" Lemma="нашто ўжо" Tag="E">
+        <Form Tag="X">нашто ўжо</Form>
+    </Paradigm>
     <Paradigm pdgId="1000058" Lemma="не" Tag="E">
         <Form Tag="X">не</Form>
     </Paradigm>
     <Paradigm pdgId="1127957" Lemma="нечага" Tag="E">
         <Form Tag="X">нечага</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000059" Lemma="ну" Tag="E">
-        <Form Tag="X">ну</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127958" Lemma="ну-ну" Tag="E">
-        <Form Tag="X">ну-ну</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000060" Lemma="ня" Tag="E">
-        <Form Tag="X">ня</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000062" Lemma="няхай" Tag="E">
-        <Form Tag="X">няхай</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000061" Lemma="няўжо" Tag="E">
-        <Form Tag="X">няўжо</Form>
     </Paradigm>
     <Paradigm pdgId="1000049" Lemma="ні" Tag="E">
         <Form Tag="X">ні</Form>
@@ -206,6 +208,21 @@
     </Paradigm>
     <Paradigm pdgId="1000051" Lemma="нібыта" Tag="E">
         <Form Tag="X">нібыта</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000059" Lemma="ну" Tag="E">
+        <Form Tag="X">ну</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127958" Lemma="ну-ну" Tag="E">
+        <Form Tag="X">ну-ну</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000060" Lemma="ня" Tag="E">
+        <Form Tag="X">ня</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000061" Lemma="няўжо" Tag="E">
+        <Form Tag="X">няўжо</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000062" Lemma="няхай" Tag="E">
+        <Form Tag="X">няхай</Form>
     </Paradigm>
     <Paradigm pdgId="1000063" Lemma="ось" Tag="E">
         <Form Tag="X">ось</Form>
@@ -237,11 +254,11 @@
     <Paradigm pdgId="1127111" Lemma="так" Tag="E">
         <Form Tag="X">так</Form>
     </Paradigm>
-    <Paradigm pdgId="1000070" Lemma="таксама" Tag="E">
-        <Form Tag="X">таксама</Form>
-    </Paradigm>
     <Paradigm pdgId="1127961" Lemma="такі" Tag="E">
         <Form Tag="X">такі</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000070" Lemma="таксама" Tag="E">
+        <Form Tag="X">таксама</Form>
     </Paradigm>
     <Paradigm pdgId="1000071" Lemma="там" Tag="E">
         <Form Tag="X">там</Form>
@@ -278,11 +295,11 @@
     <Paradigm pdgId="1000081" Lemma="хаця" Tag="E">
         <Form Tag="X">хаця</Form>
     </Paradigm>
-    <Paradigm pdgId="1000082" Lemma="хоць" Tag="E">
-        <Form Tag="X">хоць</Form>
-    </Paradigm>
     <Paradigm pdgId="1000079" Lemma="хіба" Tag="E">
         <Form Tag="X">хіба</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000082" Lemma="хоць" Tag="E">
+        <Form Tag="X">хоць</Form>
     </Paradigm>
     <Paradigm pdgId="1000083" Lemma="ці" Tag="E">
         <Form Tag="X">ці</Form>
@@ -310,22 +327,5 @@
     </Paradigm>
     <Paradigm pdgId="1000088" Lemma="яшчэ" Tag="E">
         <Form Tag="X">яшчэ</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000001" Lemma="і" Tag="E">
-        <Form Tag="X">і</Form>
-        <Form Tag="X">й</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127115" Lemma="і" Tag="E">
-        <Form Tag="X">і</Form>
-        <Form Tag="X">й</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000002" Lemma="іменна" Tag="E">
-        <Form Tag="X">іменна</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000003" Lemma="інакш" Tag="E">
-        <Form Tag="X">інакш</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000004" Lemma="іначай" Tag="E">
-        <Form Tag="X">іначай</Form>
     </Paradigm>
 </Wordlist>

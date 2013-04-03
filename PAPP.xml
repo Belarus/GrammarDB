@@ -87,6 +87,35 @@
         <Form Tag="XIP">абветралымі</Form>
         <Form Tag="XLP">абветралых</Form>
     </Paradigm>
+    <Paradigm pdgId="1000384" Lemma="абвіслы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">абвіслы</Form>
+        <Form Tag="MGS">абвіслага</Form>
+        <Form Tag="MDS">абвісламу</Form>
+        <Form Tag="MAS">абвіслы</Form>
+        <Form Tag="MAS">абвіслага</Form>
+        <Form Tag="MIS">абвіслым</Form>
+        <Form Tag="MLS">абвіслым</Form>
+        <Form Tag="FNS">абвіслая</Form>
+        <Form Tag="FGS">абвіслай</Form>
+        <Form Tag="FGS">абвіслае</Form>
+        <Form Tag="FDS">абвіслай</Form>
+        <Form Tag="FAS">абвіслую</Form>
+        <Form Tag="FIS">абвіслай</Form>
+        <Form Tag="FIS">абвіслаю</Form>
+        <Form Tag="FLS">абвіслай</Form>
+        <Form Tag="NNS">абвіслае</Form>
+        <Form Tag="NGS">абвіслага</Form>
+        <Form Tag="NDS">абвісламу</Form>
+        <Form Tag="NAS">абвіслае</Form>
+        <Form Tag="NIS">абвіслым</Form>
+        <Form Tag="NLS">абвіслым</Form>
+        <Form Tag="XNP">абвіслыя</Form>
+        <Form Tag="XGP">абвіслых</Form>
+        <Form Tag="XDP">абвіслым</Form>
+        <Form Tag="XAP">абвіслыя</Form>
+        <Form Tag="XIP">абвіслымі</Form>
+        <Form Tag="XLP">абвіслых</Form>
+    </Paradigm>
     <Paradigm pdgId="1000438" Lemma="абвялы" Tag="PAPP" Govern="">
         <Form Tag="MNS">абвялы</Form>
         <Form Tag="MGS">абвялага</Form>
@@ -144,35 +173,6 @@
         <Form Tag="XAP">абвясціўшыя</Form>
         <Form Tag="XIP">абвясціўшымі</Form>
         <Form Tag="XLP">абвясціўшых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000384" Lemma="абвіслы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">абвіслы</Form>
-        <Form Tag="MGS">абвіслага</Form>
-        <Form Tag="MDS">абвісламу</Form>
-        <Form Tag="MAS">абвіслы</Form>
-        <Form Tag="MAS">абвіслага</Form>
-        <Form Tag="MIS">абвіслым</Form>
-        <Form Tag="MLS">абвіслым</Form>
-        <Form Tag="FNS">абвіслая</Form>
-        <Form Tag="FGS">абвіслай</Form>
-        <Form Tag="FGS">абвіслае</Form>
-        <Form Tag="FDS">абвіслай</Form>
-        <Form Tag="FAS">абвіслую</Form>
-        <Form Tag="FIS">абвіслай</Form>
-        <Form Tag="FIS">абвіслаю</Form>
-        <Form Tag="FLS">абвіслай</Form>
-        <Form Tag="NNS">абвіслае</Form>
-        <Form Tag="NGS">абвіслага</Form>
-        <Form Tag="NDS">абвісламу</Form>
-        <Form Tag="NAS">абвіслае</Form>
-        <Form Tag="NIS">абвіслым</Form>
-        <Form Tag="NLS">абвіслым</Form>
-        <Form Tag="XNP">абвіслыя</Form>
-        <Form Tag="XGP">абвіслых</Form>
-        <Form Tag="XDP">абвіслым</Form>
-        <Form Tag="XAP">абвіслыя</Form>
-        <Form Tag="XIP">абвіслымі</Form>
-        <Form Tag="XLP">абвіслых</Form>
     </Paradigm>
     <Paradigm pdgId="1000463" Lemma="абгарэлы" Tag="PAPP" Govern="">
         <Form Tag="MNS">абгарэлы</Form>
@@ -1537,6 +1537,64 @@
         <Form Tag="XIP">аселымі</Form>
         <Form Tag="XLP">аселых</Form>
     </Paradigm>
+    <Paradigm pdgId="1002029" Lemma="асіплы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">асіплы</Form>
+        <Form Tag="MGS">асіплага</Form>
+        <Form Tag="MDS">асіпламу</Form>
+        <Form Tag="MAS">асіплы</Form>
+        <Form Tag="MAS">асіплага</Form>
+        <Form Tag="MIS">асіплым</Form>
+        <Form Tag="MLS">асіплым</Form>
+        <Form Tag="FNS">асіплая</Form>
+        <Form Tag="FGS">асіплай</Form>
+        <Form Tag="FGS">асіплае</Form>
+        <Form Tag="FDS">асіплай</Form>
+        <Form Tag="FAS">асіплую</Form>
+        <Form Tag="FIS">асіплай</Form>
+        <Form Tag="FIS">асіплаю</Form>
+        <Form Tag="FLS">асіплай</Form>
+        <Form Tag="NNS">асіплае</Form>
+        <Form Tag="NGS">асіплага</Form>
+        <Form Tag="NDS">асіпламу</Form>
+        <Form Tag="NAS">асіплае</Form>
+        <Form Tag="NIS">асіплым</Form>
+        <Form Tag="NLS">асіплым</Form>
+        <Form Tag="XNP">асіплыя</Form>
+        <Form Tag="XGP">асіплых</Form>
+        <Form Tag="XDP">асіплым</Form>
+        <Form Tag="XAP">асіплыя</Form>
+        <Form Tag="XIP">асіплымі</Form>
+        <Form Tag="XLP">асіплых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1002032" Lemma="асірацелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">асірацелы</Form>
+        <Form Tag="MGS">асірацелага</Form>
+        <Form Tag="MDS">асірацеламу</Form>
+        <Form Tag="MAS">асірацелы</Form>
+        <Form Tag="MAS">асірацелага</Form>
+        <Form Tag="MIS">асірацелым</Form>
+        <Form Tag="MLS">асірацелым</Form>
+        <Form Tag="FNS">асірацелая</Form>
+        <Form Tag="FGS">асірацелай</Form>
+        <Form Tag="FGS">асірацелае</Form>
+        <Form Tag="FDS">асірацелай</Form>
+        <Form Tag="FAS">асірацелую</Form>
+        <Form Tag="FIS">асірацелай</Form>
+        <Form Tag="FIS">асірацелаю</Form>
+        <Form Tag="FLS">асірацелай</Form>
+        <Form Tag="NNS">асірацелае</Form>
+        <Form Tag="NGS">асірацелага</Form>
+        <Form Tag="NDS">асірацеламу</Form>
+        <Form Tag="NAS">асірацелае</Form>
+        <Form Tag="NIS">асірацелым</Form>
+        <Form Tag="NLS">асірацелым</Form>
+        <Form Tag="XNP">асірацелыя</Form>
+        <Form Tag="XGP">асірацелых</Form>
+        <Form Tag="XDP">асірацелым</Form>
+        <Form Tag="XAP">асірацелыя</Form>
+        <Form Tag="XIP">асірацелымі</Form>
+        <Form Tag="XLP">асірацелых</Form>
+    </Paradigm>
     <Paradigm pdgId="1002080" Lemma="аслабелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">аслабелы</Form>
         <Form Tag="MGS">аслабелага</Form>
@@ -1711,64 +1769,6 @@
         <Form Tag="XIP">астылымі</Form>
         <Form Tag="XLP">астылых</Form>
     </Paradigm>
-    <Paradigm pdgId="1002029" Lemma="асіплы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">асіплы</Form>
-        <Form Tag="MGS">асіплага</Form>
-        <Form Tag="MDS">асіпламу</Form>
-        <Form Tag="MAS">асіплы</Form>
-        <Form Tag="MAS">асіплага</Form>
-        <Form Tag="MIS">асіплым</Form>
-        <Form Tag="MLS">асіплым</Form>
-        <Form Tag="FNS">асіплая</Form>
-        <Form Tag="FGS">асіплай</Form>
-        <Form Tag="FGS">асіплае</Form>
-        <Form Tag="FDS">асіплай</Form>
-        <Form Tag="FAS">асіплую</Form>
-        <Form Tag="FIS">асіплай</Form>
-        <Form Tag="FIS">асіплаю</Form>
-        <Form Tag="FLS">асіплай</Form>
-        <Form Tag="NNS">асіплае</Form>
-        <Form Tag="NGS">асіплага</Form>
-        <Form Tag="NDS">асіпламу</Form>
-        <Form Tag="NAS">асіплае</Form>
-        <Form Tag="NIS">асіплым</Form>
-        <Form Tag="NLS">асіплым</Form>
-        <Form Tag="XNP">асіплыя</Form>
-        <Form Tag="XGP">асіплых</Form>
-        <Form Tag="XDP">асіплым</Form>
-        <Form Tag="XAP">асіплыя</Form>
-        <Form Tag="XIP">асіплымі</Form>
-        <Form Tag="XLP">асіплых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1002032" Lemma="асірацелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">асірацелы</Form>
-        <Form Tag="MGS">асірацелага</Form>
-        <Form Tag="MDS">асірацеламу</Form>
-        <Form Tag="MAS">асірацелы</Form>
-        <Form Tag="MAS">асірацелага</Form>
-        <Form Tag="MIS">асірацелым</Form>
-        <Form Tag="MLS">асірацелым</Form>
-        <Form Tag="FNS">асірацелая</Form>
-        <Form Tag="FGS">асірацелай</Form>
-        <Form Tag="FGS">асірацелае</Form>
-        <Form Tag="FDS">асірацелай</Form>
-        <Form Tag="FAS">асірацелую</Form>
-        <Form Tag="FIS">асірацелай</Form>
-        <Form Tag="FIS">асірацелаю</Form>
-        <Form Tag="FLS">асірацелай</Form>
-        <Form Tag="NNS">асірацелае</Form>
-        <Form Tag="NGS">асірацелага</Form>
-        <Form Tag="NDS">асірацеламу</Form>
-        <Form Tag="NAS">асірацелае</Form>
-        <Form Tag="NIS">асірацелым</Form>
-        <Form Tag="NLS">асірацелым</Form>
-        <Form Tag="XNP">асірацелыя</Form>
-        <Form Tag="XGP">асірацелых</Form>
-        <Form Tag="XDP">асірацелым</Form>
-        <Form Tag="XAP">асірацелыя</Form>
-        <Form Tag="XIP">асірацелымі</Form>
-        <Form Tag="XLP">асірацелых</Form>
-    </Paradigm>
     <Paradigm pdgId="1002203" Lemma="атлусцелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">атлусцелы</Form>
         <Form Tag="MGS">атлусцелага</Form>
@@ -1826,6 +1826,35 @@
         <Form Tag="XAP">атруціўшыя</Form>
         <Form Tag="XIP">атруціўшымі</Form>
         <Form Tag="XLP">атруціўшых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000231" Lemma="аўдавелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">аўдавелы</Form>
+        <Form Tag="MGS">аўдавелага</Form>
+        <Form Tag="MDS">аўдавеламу</Form>
+        <Form Tag="MAS">аўдавелы</Form>
+        <Form Tag="MAS">аўдавелага</Form>
+        <Form Tag="MIS">аўдавелым</Form>
+        <Form Tag="MLS">аўдавелым</Form>
+        <Form Tag="FNS">аўдавелая</Form>
+        <Form Tag="FGS">аўдавелай</Form>
+        <Form Tag="FGS">аўдавелае</Form>
+        <Form Tag="FDS">аўдавелай</Form>
+        <Form Tag="FAS">аўдавелую</Form>
+        <Form Tag="FIS">аўдавелай</Form>
+        <Form Tag="FIS">аўдавелаю</Form>
+        <Form Tag="FLS">аўдавелай</Form>
+        <Form Tag="NNS">аўдавелае</Form>
+        <Form Tag="NGS">аўдавелага</Form>
+        <Form Tag="NDS">аўдавеламу</Form>
+        <Form Tag="NAS">аўдавелае</Form>
+        <Form Tag="NIS">аўдавелым</Form>
+        <Form Tag="NLS">аўдавелым</Form>
+        <Form Tag="XNP">аўдавелыя</Form>
+        <Form Tag="XGP">аўдавелых</Form>
+        <Form Tag="XDP">аўдавелым</Form>
+        <Form Tag="XAP">аўдавелыя</Form>
+        <Form Tag="XIP">аўдавелымі</Form>
+        <Form Tag="XLP">аўдавелых</Form>
     </Paradigm>
     <Paradigm pdgId="1002281" Lemma="ахмялелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">ахмялелы</Form>
@@ -2087,35 +2116,6 @@
         <Form Tag="XAP">ашклянелыя</Form>
         <Form Tag="XIP">ашклянелымі</Form>
         <Form Tag="XLP">ашклянелых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000231" Lemma="аўдавелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">аўдавелы</Form>
-        <Form Tag="MGS">аўдавелага</Form>
-        <Form Tag="MDS">аўдавеламу</Form>
-        <Form Tag="MAS">аўдавелы</Form>
-        <Form Tag="MAS">аўдавелага</Form>
-        <Form Tag="MIS">аўдавелым</Form>
-        <Form Tag="MLS">аўдавелым</Form>
-        <Form Tag="FNS">аўдавелая</Form>
-        <Form Tag="FGS">аўдавелай</Form>
-        <Form Tag="FGS">аўдавелае</Form>
-        <Form Tag="FDS">аўдавелай</Form>
-        <Form Tag="FAS">аўдавелую</Form>
-        <Form Tag="FIS">аўдавелай</Form>
-        <Form Tag="FIS">аўдавелаю</Form>
-        <Form Tag="FLS">аўдавелай</Form>
-        <Form Tag="NNS">аўдавелае</Form>
-        <Form Tag="NGS">аўдавелага</Form>
-        <Form Tag="NDS">аўдавеламу</Form>
-        <Form Tag="NAS">аўдавелае</Form>
-        <Form Tag="NIS">аўдавелым</Form>
-        <Form Tag="NLS">аўдавелым</Form>
-        <Form Tag="XNP">аўдавелыя</Form>
-        <Form Tag="XGP">аўдавелых</Form>
-        <Form Tag="XDP">аўдавелым</Form>
-        <Form Tag="XAP">аўдавелыя</Form>
-        <Form Tag="XIP">аўдавелымі</Form>
-        <Form Tag="XLP">аўдавелых</Form>
     </Paradigm>
     <Paradigm pdgId="1002476" Lemma="браклы" Tag="PAPP" Govern="">
         <Form Tag="MNS">браклы</Form>
@@ -2900,6 +2900,35 @@
         <Form Tag="XIP">заледзянелымі</Form>
         <Form Tag="XLP">заледзянелых</Form>
     </Paradigm>
+    <Paradigm pdgId="1004511" Lemma="замёрзлы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">замёрзлы</Form>
+        <Form Tag="MGS">замёрзлага</Form>
+        <Form Tag="MDS">замёрзламу</Form>
+        <Form Tag="MAS">замёрзлы</Form>
+        <Form Tag="MAS">замёрзлага</Form>
+        <Form Tag="MIS">замёрзлым</Form>
+        <Form Tag="MLS">замёрзлым</Form>
+        <Form Tag="FNS">замёрзлая</Form>
+        <Form Tag="FGS">замёрзлай</Form>
+        <Form Tag="FGS">замёрзлае</Form>
+        <Form Tag="FDS">замёрзлай</Form>
+        <Form Tag="FAS">замёрзлую</Form>
+        <Form Tag="FIS">замёрзлай</Form>
+        <Form Tag="FIS">замёрзлаю</Form>
+        <Form Tag="FLS">замёрзлай</Form>
+        <Form Tag="NNS">замёрзлае</Form>
+        <Form Tag="NGS">замёрзлага</Form>
+        <Form Tag="NDS">замёрзламу</Form>
+        <Form Tag="NAS">замёрзлае</Form>
+        <Form Tag="NIS">замёрзлым</Form>
+        <Form Tag="NLS">замёрзлым</Form>
+        <Form Tag="XNP">замёрзлыя</Form>
+        <Form Tag="XGP">замёрзлых</Form>
+        <Form Tag="XDP">замёрзлым</Form>
+        <Form Tag="XAP">замёрзлыя</Form>
+        <Form Tag="XIP">замёрзлымі</Form>
+        <Form Tag="XLP">замёрзлых</Form>
+    </Paradigm>
     <Paradigm pdgId="1004558" Lemma="замоклы" Tag="PAPP" Govern="">
         <Form Tag="MNS">замоклы</Form>
         <Form Tag="MGS">замоклага</Form>
@@ -2986,35 +3015,6 @@
         <Form Tag="XAP">замяніўшыя</Form>
         <Form Tag="XIP">замяніўшымі</Form>
         <Form Tag="XLP">замяніўшых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1004511" Lemma="замёрзлы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">замёрзлы</Form>
-        <Form Tag="MGS">замёрзлага</Form>
-        <Form Tag="MDS">замёрзламу</Form>
-        <Form Tag="MAS">замёрзлы</Form>
-        <Form Tag="MAS">замёрзлага</Form>
-        <Form Tag="MIS">замёрзлым</Form>
-        <Form Tag="MLS">замёрзлым</Form>
-        <Form Tag="FNS">замёрзлая</Form>
-        <Form Tag="FGS">замёрзлай</Form>
-        <Form Tag="FGS">замёрзлае</Form>
-        <Form Tag="FDS">замёрзлай</Form>
-        <Form Tag="FAS">замёрзлую</Form>
-        <Form Tag="FIS">замёрзлай</Form>
-        <Form Tag="FIS">замёрзлаю</Form>
-        <Form Tag="FLS">замёрзлай</Form>
-        <Form Tag="NNS">замёрзлае</Form>
-        <Form Tag="NGS">замёрзлага</Form>
-        <Form Tag="NDS">замёрзламу</Form>
-        <Form Tag="NAS">замёрзлае</Form>
-        <Form Tag="NIS">замёрзлым</Form>
-        <Form Tag="NLS">замёрзлым</Form>
-        <Form Tag="XNP">замёрзлыя</Form>
-        <Form Tag="XGP">замёрзлых</Form>
-        <Form Tag="XDP">замёрзлым</Form>
-        <Form Tag="XAP">замёрзлыя</Form>
-        <Form Tag="XIP">замёрзлымі</Form>
-        <Form Tag="XLP">замёрзлых</Form>
     </Paradigm>
     <Paradigm pdgId="1004618" Lemma="занямелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">занямелы</Form>
@@ -3741,35 +3741,6 @@
         <Form Tag="XIP">захмялелымі</Form>
         <Form Tag="XLP">захмялелых</Form>
     </Paradigm>
-    <Paradigm pdgId="1005123" Lemma="зацвярдзелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">зацвярдзелы</Form>
-        <Form Tag="MGS">зацвярдзелага</Form>
-        <Form Tag="MDS">зацвярдзеламу</Form>
-        <Form Tag="MAS">зацвярдзелы</Form>
-        <Form Tag="MAS">зацвярдзелага</Form>
-        <Form Tag="MIS">зацвярдзелым</Form>
-        <Form Tag="MLS">зацвярдзелым</Form>
-        <Form Tag="FNS">зацвярдзелая</Form>
-        <Form Tag="FGS">зацвярдзелай</Form>
-        <Form Tag="FGS">зацвярдзелае</Form>
-        <Form Tag="FDS">зацвярдзелай</Form>
-        <Form Tag="FAS">зацвярдзелую</Form>
-        <Form Tag="FIS">зацвярдзелай</Form>
-        <Form Tag="FIS">зацвярдзелаю</Form>
-        <Form Tag="FLS">зацвярдзелай</Form>
-        <Form Tag="NNS">зацвярдзелае</Form>
-        <Form Tag="NGS">зацвярдзелага</Form>
-        <Form Tag="NDS">зацвярдзеламу</Form>
-        <Form Tag="NAS">зацвярдзелае</Form>
-        <Form Tag="NIS">зацвярдзелым</Form>
-        <Form Tag="NLS">зацвярдзелым</Form>
-        <Form Tag="XNP">зацвярдзелыя</Form>
-        <Form Tag="XGP">зацвярдзелых</Form>
-        <Form Tag="XDP">зацвярдзелым</Form>
-        <Form Tag="XAP">зацвярдзелыя</Form>
-        <Form Tag="XIP">зацвярдзелымі</Form>
-        <Form Tag="XLP">зацвярдзелых</Form>
-    </Paradigm>
     <Paradigm pdgId="1005118" Lemma="зацвілы" Tag="PAPP" Govern="">
         <Form Tag="MNS">зацвілы</Form>
         <Form Tag="MGS">зацвілага</Form>
@@ -3798,6 +3769,35 @@
         <Form Tag="XAP">зацвілыя</Form>
         <Form Tag="XIP">зацвілымі</Form>
         <Form Tag="XLP">зацвілых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1005123" Lemma="зацвярдзелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">зацвярдзелы</Form>
+        <Form Tag="MGS">зацвярдзелага</Form>
+        <Form Tag="MDS">зацвярдзеламу</Form>
+        <Form Tag="MAS">зацвярдзелы</Form>
+        <Form Tag="MAS">зацвярдзелага</Form>
+        <Form Tag="MIS">зацвярдзелым</Form>
+        <Form Tag="MLS">зацвярдзелым</Form>
+        <Form Tag="FNS">зацвярдзелая</Form>
+        <Form Tag="FGS">зацвярдзелай</Form>
+        <Form Tag="FGS">зацвярдзелае</Form>
+        <Form Tag="FDS">зацвярдзелай</Form>
+        <Form Tag="FAS">зацвярдзелую</Form>
+        <Form Tag="FIS">зацвярдзелай</Form>
+        <Form Tag="FIS">зацвярдзелаю</Form>
+        <Form Tag="FLS">зацвярдзелай</Form>
+        <Form Tag="NNS">зацвярдзелае</Form>
+        <Form Tag="NGS">зацвярдзелага</Form>
+        <Form Tag="NDS">зацвярдзеламу</Form>
+        <Form Tag="NAS">зацвярдзелае</Form>
+        <Form Tag="NIS">зацвярдзелым</Form>
+        <Form Tag="NLS">зацвярдзелым</Form>
+        <Form Tag="XNP">зацвярдзелыя</Form>
+        <Form Tag="XGP">зацвярдзелых</Form>
+        <Form Tag="XDP">зацвярдзелым</Form>
+        <Form Tag="XAP">зацвярдзелыя</Form>
+        <Form Tag="XIP">зацвярдзелымі</Form>
+        <Form Tag="XLP">зацвярдзелых</Form>
     </Paradigm>
     <Paradigm pdgId="1005109" Lemma="зацёклы" Tag="PAPP" Govern="">
         <Form Tag="MNS">зацёклы</Form>
@@ -4611,34 +4611,34 @@
         <Form Tag="XIP">здурнелымі</Form>
         <Form Tag="XLP">здурнелых</Form>
     </Paradigm>
-    <Paradigm pdgId="1005632" Lemma="зляжалы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">зляжалы</Form>
-        <Form Tag="MGS">зляжалага</Form>
-        <Form Tag="MDS">зляжаламу</Form>
-        <Form Tag="MAS">зляжалы</Form>
-        <Form Tag="MAS">зляжалага</Form>
-        <Form Tag="MIS">зляжалым</Form>
-        <Form Tag="MLS">зляжалым</Form>
-        <Form Tag="FNS">зляжалая</Form>
-        <Form Tag="FGS">зляжалай</Form>
-        <Form Tag="FGS">зляжалае</Form>
-        <Form Tag="FDS">зляжалай</Form>
-        <Form Tag="FAS">зляжалую</Form>
-        <Form Tag="FIS">зляжалай</Form>
-        <Form Tag="FIS">зляжалаю</Form>
-        <Form Tag="FLS">зляжалай</Form>
-        <Form Tag="NNS">зляжалае</Form>
-        <Form Tag="NGS">зляжалага</Form>
-        <Form Tag="NDS">зляжаламу</Form>
-        <Form Tag="NAS">зляжалае</Form>
-        <Form Tag="NIS">зляжалым</Form>
-        <Form Tag="NLS">зляжалым</Form>
-        <Form Tag="XNP">зляжалыя</Form>
-        <Form Tag="XGP">зляжалых</Form>
-        <Form Tag="XDP">зляжалым</Form>
-        <Form Tag="XAP">зляжалыя</Form>
-        <Form Tag="XIP">зляжалымі</Form>
-        <Form Tag="XLP">зляжалых</Form>
+    <Paradigm pdgId="1003971" Lemma="зіхацелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">зіхацелы</Form>
+        <Form Tag="MGS">зіхацелага</Form>
+        <Form Tag="MDS">зіхацеламу</Form>
+        <Form Tag="MAS">зіхацелы</Form>
+        <Form Tag="MAS">зіхацелага</Form>
+        <Form Tag="MIS">зіхацелым</Form>
+        <Form Tag="MLS">зіхацелым</Form>
+        <Form Tag="FNS">зіхацелая</Form>
+        <Form Tag="FGS">зіхацелай</Form>
+        <Form Tag="FGS">зіхацелае</Form>
+        <Form Tag="FDS">зіхацелай</Form>
+        <Form Tag="FAS">зіхацелую</Form>
+        <Form Tag="FIS">зіхацелай</Form>
+        <Form Tag="FIS">зіхацелаю</Form>
+        <Form Tag="FLS">зіхацелай</Form>
+        <Form Tag="NNS">зіхацелае</Form>
+        <Form Tag="NGS">зіхацелага</Form>
+        <Form Tag="NDS">зіхацеламу</Form>
+        <Form Tag="NAS">зіхацелае</Form>
+        <Form Tag="NIS">зіхацелым</Form>
+        <Form Tag="NLS">зіхацелым</Form>
+        <Form Tag="XNP">зіхацелыя</Form>
+        <Form Tag="XGP">зіхацелых</Form>
+        <Form Tag="XDP">зіхацелым</Form>
+        <Form Tag="XAP">зіхацелыя</Form>
+        <Form Tag="XIP">зіхацелымі</Form>
+        <Form Tag="XLP">зіхацелых</Form>
     </Paradigm>
     <Paradigm pdgId="1005585" Lemma="зліплы" Tag="PAPP" Govern="">
         <Form Tag="MNS">зліплы</Form>
@@ -4668,6 +4668,35 @@
         <Form Tag="XAP">зліплыя</Form>
         <Form Tag="XIP">зліплымі</Form>
         <Form Tag="XLP">зліплых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1005632" Lemma="зляжалы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">зляжалы</Form>
+        <Form Tag="MGS">зляжалага</Form>
+        <Form Tag="MDS">зляжаламу</Form>
+        <Form Tag="MAS">зляжалы</Form>
+        <Form Tag="MAS">зляжалага</Form>
+        <Form Tag="MIS">зляжалым</Form>
+        <Form Tag="MLS">зляжалым</Form>
+        <Form Tag="FNS">зляжалая</Form>
+        <Form Tag="FGS">зляжалай</Form>
+        <Form Tag="FGS">зляжалае</Form>
+        <Form Tag="FDS">зляжалай</Form>
+        <Form Tag="FAS">зляжалую</Form>
+        <Form Tag="FIS">зляжалай</Form>
+        <Form Tag="FIS">зляжалаю</Form>
+        <Form Tag="FLS">зляжалай</Form>
+        <Form Tag="NNS">зляжалае</Form>
+        <Form Tag="NGS">зляжалага</Form>
+        <Form Tag="NDS">зляжаламу</Form>
+        <Form Tag="NAS">зляжалае</Form>
+        <Form Tag="NIS">зляжалым</Form>
+        <Form Tag="NLS">зляжалым</Form>
+        <Form Tag="XNP">зляжалыя</Form>
+        <Form Tag="XGP">зляжалых</Form>
+        <Form Tag="XDP">зляжалым</Form>
+        <Form Tag="XAP">зляжалыя</Form>
+        <Form Tag="XIP">зляжалымі</Form>
+        <Form Tag="XLP">зляжалых</Form>
     </Paradigm>
     <Paradigm pdgId="1005663" Lemma="змарнелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">змарнелы</Form>
@@ -4726,6 +4755,64 @@
         <Form Tag="XAP">змаршчэлыя</Form>
         <Form Tag="XIP">змаршчэлымі</Form>
         <Form Tag="XLP">змаршчэлых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1005636" Lemma="змёрзлы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">змёрзлы</Form>
+        <Form Tag="MGS">змёрзлага</Form>
+        <Form Tag="MDS">змёрзламу</Form>
+        <Form Tag="MAS">змёрзлы</Form>
+        <Form Tag="MAS">змёрзлага</Form>
+        <Form Tag="MIS">змёрзлым</Form>
+        <Form Tag="MLS">змёрзлым</Form>
+        <Form Tag="FNS">змёрзлая</Form>
+        <Form Tag="FGS">змёрзлай</Form>
+        <Form Tag="FGS">змёрзлае</Form>
+        <Form Tag="FDS">змёрзлай</Form>
+        <Form Tag="FAS">змёрзлую</Form>
+        <Form Tag="FIS">змёрзлай</Form>
+        <Form Tag="FIS">змёрзлаю</Form>
+        <Form Tag="FLS">змёрзлай</Form>
+        <Form Tag="NNS">змёрзлае</Form>
+        <Form Tag="NGS">змёрзлага</Form>
+        <Form Tag="NDS">змёрзламу</Form>
+        <Form Tag="NAS">змёрзлае</Form>
+        <Form Tag="NIS">змёрзлым</Form>
+        <Form Tag="NLS">змёрзлым</Form>
+        <Form Tag="XNP">змёрзлыя</Form>
+        <Form Tag="XGP">змёрзлых</Form>
+        <Form Tag="XDP">змёрзлым</Form>
+        <Form Tag="XAP">змёрзлыя</Form>
+        <Form Tag="XIP">змёрзлымі</Form>
+        <Form Tag="XLP">змёрзлых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1005639" Lemma="змёрлы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">змёрлы</Form>
+        <Form Tag="MGS">змёрлага</Form>
+        <Form Tag="MDS">змёрламу</Form>
+        <Form Tag="MAS">змёрлы</Form>
+        <Form Tag="MAS">змёрлага</Form>
+        <Form Tag="MIS">змёрлым</Form>
+        <Form Tag="MLS">змёрлым</Form>
+        <Form Tag="FNS">змёрлая</Form>
+        <Form Tag="FGS">змёрлай</Form>
+        <Form Tag="FGS">змёрлае</Form>
+        <Form Tag="FDS">змёрлай</Form>
+        <Form Tag="FAS">змёрлую</Form>
+        <Form Tag="FIS">змёрлай</Form>
+        <Form Tag="FIS">змёрлаю</Form>
+        <Form Tag="FLS">змёрлай</Form>
+        <Form Tag="NNS">змёрлае</Form>
+        <Form Tag="NGS">змёрлага</Form>
+        <Form Tag="NDS">змёрламу</Form>
+        <Form Tag="NAS">змёрлае</Form>
+        <Form Tag="NIS">змёрлым</Form>
+        <Form Tag="NLS">змёрлым</Form>
+        <Form Tag="XNP">змёрлыя</Form>
+        <Form Tag="XGP">змёрлых</Form>
+        <Form Tag="XDP">змёрлым</Form>
+        <Form Tag="XAP">змёрлыя</Form>
+        <Form Tag="XIP">змёрлымі</Form>
+        <Form Tag="XLP">змёрлых</Form>
     </Paradigm>
     <Paradigm pdgId="1005691" Lemma="змоклы" Tag="PAPP" Govern="">
         <Form Tag="MNS">змоклы</Form>
@@ -4901,64 +4988,6 @@
         <Form Tag="XIP">змярцвелымі</Form>
         <Form Tag="XLP">змярцвелых</Form>
     </Paradigm>
-    <Paradigm pdgId="1005636" Lemma="змёрзлы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">змёрзлы</Form>
-        <Form Tag="MGS">змёрзлага</Form>
-        <Form Tag="MDS">змёрзламу</Form>
-        <Form Tag="MAS">змёрзлы</Form>
-        <Form Tag="MAS">змёрзлага</Form>
-        <Form Tag="MIS">змёрзлым</Form>
-        <Form Tag="MLS">змёрзлым</Form>
-        <Form Tag="FNS">змёрзлая</Form>
-        <Form Tag="FGS">змёрзлай</Form>
-        <Form Tag="FGS">змёрзлае</Form>
-        <Form Tag="FDS">змёрзлай</Form>
-        <Form Tag="FAS">змёрзлую</Form>
-        <Form Tag="FIS">змёрзлай</Form>
-        <Form Tag="FIS">змёрзлаю</Form>
-        <Form Tag="FLS">змёрзлай</Form>
-        <Form Tag="NNS">змёрзлае</Form>
-        <Form Tag="NGS">змёрзлага</Form>
-        <Form Tag="NDS">змёрзламу</Form>
-        <Form Tag="NAS">змёрзлае</Form>
-        <Form Tag="NIS">змёрзлым</Form>
-        <Form Tag="NLS">змёрзлым</Form>
-        <Form Tag="XNP">змёрзлыя</Form>
-        <Form Tag="XGP">змёрзлых</Form>
-        <Form Tag="XDP">змёрзлым</Form>
-        <Form Tag="XAP">змёрзлыя</Form>
-        <Form Tag="XIP">змёрзлымі</Form>
-        <Form Tag="XLP">змёрзлых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1005639" Lemma="змёрлы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">змёрлы</Form>
-        <Form Tag="MGS">змёрлага</Form>
-        <Form Tag="MDS">змёрламу</Form>
-        <Form Tag="MAS">змёрлы</Form>
-        <Form Tag="MAS">змёрлага</Form>
-        <Form Tag="MIS">змёрлым</Form>
-        <Form Tag="MLS">змёрлым</Form>
-        <Form Tag="FNS">змёрлая</Form>
-        <Form Tag="FGS">змёрлай</Form>
-        <Form Tag="FGS">змёрлае</Form>
-        <Form Tag="FDS">змёрлай</Form>
-        <Form Tag="FAS">змёрлую</Form>
-        <Form Tag="FIS">змёрлай</Form>
-        <Form Tag="FIS">змёрлаю</Form>
-        <Form Tag="FLS">змёрлай</Form>
-        <Form Tag="NNS">змёрлае</Form>
-        <Form Tag="NGS">змёрлага</Form>
-        <Form Tag="NDS">змёрламу</Form>
-        <Form Tag="NAS">змёрлае</Form>
-        <Form Tag="NIS">змёрлым</Form>
-        <Form Tag="NLS">змёрлым</Form>
-        <Form Tag="XNP">змёрлыя</Form>
-        <Form Tag="XGP">змёрлых</Form>
-        <Form Tag="XDP">змёрлым</Form>
-        <Form Tag="XAP">змёрлыя</Form>
-        <Form Tag="XIP">змёрлымі</Form>
-        <Form Tag="XLP">змёрлых</Form>
-    </Paradigm>
     <Paradigm pdgId="1005791" Lemma="знежывелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">знежывелы</Form>
         <Form Tag="MGS">знежывелага</Form>
@@ -4987,35 +5016,6 @@
         <Form Tag="XAP">знежывелыя</Form>
         <Form Tag="XIP">знежывелымі</Form>
         <Form Tag="XLP">знежывелых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1005814" Lemma="знямелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">знямелы</Form>
-        <Form Tag="MGS">знямелага</Form>
-        <Form Tag="MDS">знямеламу</Form>
-        <Form Tag="MAS">знямелы</Form>
-        <Form Tag="MAS">знямелага</Form>
-        <Form Tag="MIS">знямелым</Form>
-        <Form Tag="MLS">знямелым</Form>
-        <Form Tag="FNS">знямелая</Form>
-        <Form Tag="FGS">знямелай</Form>
-        <Form Tag="FGS">знямелае</Form>
-        <Form Tag="FDS">знямелай</Form>
-        <Form Tag="FAS">знямелую</Form>
-        <Form Tag="FIS">знямелай</Form>
-        <Form Tag="FIS">знямелаю</Form>
-        <Form Tag="FLS">знямелай</Form>
-        <Form Tag="NNS">знямелае</Form>
-        <Form Tag="NGS">знямелага</Form>
-        <Form Tag="NDS">знямеламу</Form>
-        <Form Tag="NAS">знямелае</Form>
-        <Form Tag="NIS">знямелым</Form>
-        <Form Tag="NLS">знямелым</Form>
-        <Form Tag="XNP">знямелыя</Form>
-        <Form Tag="XGP">знямелых</Form>
-        <Form Tag="XDP">знямелым</Form>
-        <Form Tag="XAP">знямелыя</Form>
-        <Form Tag="XIP">знямелымі</Form>
-        <Form Tag="XLP">знямелых</Form>
     </Paradigm>
     <Paradigm pdgId="1005765" Lemma="зніклы" Tag="PAPP" Govern="">
         <Form Tag="MNS">зніклы</Form>
@@ -5075,6 +5075,35 @@
         <Form Tag="XIP">знікшымі</Form>
         <Form Tag="XLP">знікшых</Form>
     </Paradigm>
+    <Paradigm pdgId="1005814" Lemma="знямелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">знямелы</Form>
+        <Form Tag="MGS">знямелага</Form>
+        <Form Tag="MDS">знямеламу</Form>
+        <Form Tag="MAS">знямелы</Form>
+        <Form Tag="MAS">знямелага</Form>
+        <Form Tag="MIS">знямелым</Form>
+        <Form Tag="MLS">знямелым</Form>
+        <Form Tag="FNS">знямелая</Form>
+        <Form Tag="FGS">знямелай</Form>
+        <Form Tag="FGS">знямелае</Form>
+        <Form Tag="FDS">знямелай</Form>
+        <Form Tag="FAS">знямелую</Form>
+        <Form Tag="FIS">знямелай</Form>
+        <Form Tag="FIS">знямелаю</Form>
+        <Form Tag="FLS">знямелай</Form>
+        <Form Tag="NNS">знямелае</Form>
+        <Form Tag="NGS">знямелага</Form>
+        <Form Tag="NDS">знямеламу</Form>
+        <Form Tag="NAS">знямелае</Form>
+        <Form Tag="NIS">знямелым</Form>
+        <Form Tag="NLS">знямелым</Form>
+        <Form Tag="XNP">знямелыя</Form>
+        <Form Tag="XGP">знямелых</Form>
+        <Form Tag="XDP">знямелым</Form>
+        <Form Tag="XAP">знямелыя</Form>
+        <Form Tag="XIP">знямелымі</Form>
+        <Form Tag="XLP">знямелых</Form>
+    </Paradigm>
     <Paradigm pdgId="1005838" Lemma="зразумелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">зразумелы</Form>
         <Form Tag="MGS">зразумелага</Form>
@@ -5103,35 +5132,6 @@
         <Form Tag="XAP">зразумелыя</Form>
         <Form Tag="XIP">зразумелымі</Form>
         <Form Tag="XLP">зразумелых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1003971" Lemma="зіхацелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">зіхацелы</Form>
-        <Form Tag="MGS">зіхацелага</Form>
-        <Form Tag="MDS">зіхацеламу</Form>
-        <Form Tag="MAS">зіхацелы</Form>
-        <Form Tag="MAS">зіхацелага</Form>
-        <Form Tag="MIS">зіхацелым</Form>
-        <Form Tag="MLS">зіхацелым</Form>
-        <Form Tag="FNS">зіхацелая</Form>
-        <Form Tag="FGS">зіхацелай</Form>
-        <Form Tag="FGS">зіхацелае</Form>
-        <Form Tag="FDS">зіхацелай</Form>
-        <Form Tag="FAS">зіхацелую</Form>
-        <Form Tag="FIS">зіхацелай</Form>
-        <Form Tag="FIS">зіхацелаю</Form>
-        <Form Tag="FLS">зіхацелай</Form>
-        <Form Tag="NNS">зіхацелае</Form>
-        <Form Tag="NGS">зіхацелага</Form>
-        <Form Tag="NDS">зіхацеламу</Form>
-        <Form Tag="NAS">зіхацелае</Form>
-        <Form Tag="NIS">зіхацелым</Form>
-        <Form Tag="NLS">зіхацелым</Form>
-        <Form Tag="XNP">зіхацелыя</Form>
-        <Form Tag="XGP">зіхацелых</Form>
-        <Form Tag="XDP">зіхацелым</Form>
-        <Form Tag="XAP">зіхацелыя</Form>
-        <Form Tag="XIP">зіхацелымі</Form>
-        <Form Tag="XLP">зіхацелых</Form>
     </Paradigm>
     <Paradigm pdgId="1006279" Lemma="леглы" Tag="PAPP" Govern="">
         <Form Tag="MNS">леглы</Form>
@@ -5162,35 +5162,6 @@
         <Form Tag="XIP">леглымі</Form>
         <Form Tag="XLP">леглых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006308" Lemma="ляжалы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">ляжалы</Form>
-        <Form Tag="MGS">ляжалага</Form>
-        <Form Tag="MDS">ляжаламу</Form>
-        <Form Tag="MAS">ляжалы</Form>
-        <Form Tag="MAS">ляжалага</Form>
-        <Form Tag="MIS">ляжалым</Form>
-        <Form Tag="MLS">ляжалым</Form>
-        <Form Tag="FNS">ляжалая</Form>
-        <Form Tag="FGS">ляжалай</Form>
-        <Form Tag="FGS">ляжалае</Form>
-        <Form Tag="FDS">ляжалай</Form>
-        <Form Tag="FAS">ляжалую</Form>
-        <Form Tag="FIS">ляжалай</Form>
-        <Form Tag="FIS">ляжалаю</Form>
-        <Form Tag="FLS">ляжалай</Form>
-        <Form Tag="NNS">ляжалае</Form>
-        <Form Tag="NGS">ляжалага</Form>
-        <Form Tag="NDS">ляжаламу</Form>
-        <Form Tag="NAS">ляжалае</Form>
-        <Form Tag="NIS">ляжалым</Form>
-        <Form Tag="NLS">ляжалым</Form>
-        <Form Tag="XNP">ляжалыя</Form>
-        <Form Tag="XGP">ляжалых</Form>
-        <Form Tag="XDP">ляжалым</Form>
-        <Form Tag="XAP">ляжалыя</Form>
-        <Form Tag="XIP">ляжалымі</Form>
-        <Form Tag="XLP">ляжалых</Form>
-    </Paradigm>
     <Paradigm pdgId="1006222" Lemma="лінялы" Tag="PAPP" Govern="">
         <Form Tag="MNS">лінялы</Form>
         <Form Tag="MGS">лінялага</Form>
@@ -5219,6 +5190,35 @@
         <Form Tag="XAP">лінялыя</Form>
         <Form Tag="XIP">лінялымі</Form>
         <Form Tag="XLP">лінялых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1006308" Lemma="ляжалы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">ляжалы</Form>
+        <Form Tag="MGS">ляжалага</Form>
+        <Form Tag="MDS">ляжаламу</Form>
+        <Form Tag="MAS">ляжалы</Form>
+        <Form Tag="MAS">ляжалага</Form>
+        <Form Tag="MIS">ляжалым</Form>
+        <Form Tag="MLS">ляжалым</Form>
+        <Form Tag="FNS">ляжалая</Form>
+        <Form Tag="FGS">ляжалай</Form>
+        <Form Tag="FGS">ляжалае</Form>
+        <Form Tag="FDS">ляжалай</Form>
+        <Form Tag="FAS">ляжалую</Form>
+        <Form Tag="FIS">ляжалай</Form>
+        <Form Tag="FIS">ляжалаю</Form>
+        <Form Tag="FLS">ляжалай</Form>
+        <Form Tag="NNS">ляжалае</Form>
+        <Form Tag="NGS">ляжалага</Form>
+        <Form Tag="NDS">ляжаламу</Form>
+        <Form Tag="NAS">ляжалае</Form>
+        <Form Tag="NIS">ляжалым</Form>
+        <Form Tag="NLS">ляжалым</Form>
+        <Form Tag="XNP">ляжалыя</Form>
+        <Form Tag="XGP">ляжалых</Form>
+        <Form Tag="XDP">ляжалым</Form>
+        <Form Tag="XAP">ляжалыя</Form>
+        <Form Tag="XIP">ляжалымі</Form>
+        <Form Tag="XLP">ляжалых</Form>
     </Paradigm>
     <Paradigm pdgId="1006446" Lemma="мужнелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">мужнелы</Form>
@@ -5510,35 +5510,6 @@
         <Form Tag="XIP">намяклымі</Form>
         <Form Tag="XLP">намяклых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006959" Lemma="напацелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">напацелы</Form>
-        <Form Tag="MGS">напацелага</Form>
-        <Form Tag="MDS">напацеламу</Form>
-        <Form Tag="MAS">напацелы</Form>
-        <Form Tag="MAS">напацелага</Form>
-        <Form Tag="MIS">напацелым</Form>
-        <Form Tag="MLS">напацелым</Form>
-        <Form Tag="FNS">напацелая</Form>
-        <Form Tag="FGS">напацелай</Form>
-        <Form Tag="FGS">напацелае</Form>
-        <Form Tag="FDS">напацелай</Form>
-        <Form Tag="FAS">напацелую</Form>
-        <Form Tag="FIS">напацелай</Form>
-        <Form Tag="FIS">напацелаю</Form>
-        <Form Tag="FLS">напацелай</Form>
-        <Form Tag="NNS">напацелае</Form>
-        <Form Tag="NGS">напацелага</Form>
-        <Form Tag="NDS">напацеламу</Form>
-        <Form Tag="NAS">напацелае</Form>
-        <Form Tag="NIS">напацелым</Form>
-        <Form Tag="NLS">напацелым</Form>
-        <Form Tag="XNP">напацелыя</Form>
-        <Form Tag="XGP">напацелых</Form>
-        <Form Tag="XDP">напацелым</Form>
-        <Form Tag="XAP">напацелыя</Form>
-        <Form Tag="XIP">напацелымі</Form>
-        <Form Tag="XLP">напацелых</Form>
-    </Paradigm>
     <Paradigm pdgId="1006929" Lemma="напаўздохлы" Tag="PAPP" Govern="">
         <Form Tag="MNS">напаўздохлы</Form>
         <Form Tag="MGS">напаўздохлага</Form>
@@ -5596,6 +5567,35 @@
         <Form Tag="XAP">напаўспарахнелыя</Form>
         <Form Tag="XIP">напаўспарахнелымі</Form>
         <Form Tag="XLP">напаўспарахнелых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1006959" Lemma="напацелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">напацелы</Form>
+        <Form Tag="MGS">напацелага</Form>
+        <Form Tag="MDS">напацеламу</Form>
+        <Form Tag="MAS">напацелы</Form>
+        <Form Tag="MAS">напацелага</Form>
+        <Form Tag="MIS">напацелым</Form>
+        <Form Tag="MLS">напацелым</Form>
+        <Form Tag="FNS">напацелая</Form>
+        <Form Tag="FGS">напацелай</Form>
+        <Form Tag="FGS">напацелае</Form>
+        <Form Tag="FDS">напацелай</Form>
+        <Form Tag="FAS">напацелую</Form>
+        <Form Tag="FIS">напацелай</Form>
+        <Form Tag="FIS">напацелаю</Form>
+        <Form Tag="FLS">напацелай</Form>
+        <Form Tag="NNS">напацелае</Form>
+        <Form Tag="NGS">напацелага</Form>
+        <Form Tag="NDS">напацеламу</Form>
+        <Form Tag="NAS">напацелае</Form>
+        <Form Tag="NIS">напацелым</Form>
+        <Form Tag="NLS">напацелым</Form>
+        <Form Tag="XNP">напацелыя</Form>
+        <Form Tag="XGP">напацелых</Form>
+        <Form Tag="XDP">напацелым</Form>
+        <Form Tag="XAP">напацелыя</Form>
+        <Form Tag="XIP">напацелымі</Form>
+        <Form Tag="XLP">напацелых</Form>
     </Paradigm>
     <Paradigm pdgId="1007001" Lemma="напухлы" Tag="PAPP" Govern="">
         <Form Tag="MNS">напухлы</Form>
@@ -6728,6 +6728,35 @@
         <Form Tag="XIP">памерлымі</Form>
         <Form Tag="XLP">памерлых</Form>
     </Paradigm>
+    <Paradigm pdgId="1009730" Lemma="памёршы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">памёршы</Form>
+        <Form Tag="MGS">памёршага</Form>
+        <Form Tag="MDS">памёршаму</Form>
+        <Form Tag="MAS">памёршы</Form>
+        <Form Tag="MAS">памёршага</Form>
+        <Form Tag="MIS">памёршым</Form>
+        <Form Tag="MLS">памёршым</Form>
+        <Form Tag="FNS">памёршая</Form>
+        <Form Tag="FGS">памёршай</Form>
+        <Form Tag="FGS">памёршае</Form>
+        <Form Tag="FDS">памёршай</Form>
+        <Form Tag="FAS">памёршую</Form>
+        <Form Tag="FIS">памёршай</Form>
+        <Form Tag="FIS">памёршаю</Form>
+        <Form Tag="FLS">памёршай</Form>
+        <Form Tag="NNS">памёршае</Form>
+        <Form Tag="NGS">памёршага</Form>
+        <Form Tag="NDS">памёршаму</Form>
+        <Form Tag="NAS">памёршае</Form>
+        <Form Tag="NIS">памёршым</Form>
+        <Form Tag="NLS">памёршым</Form>
+        <Form Tag="XNP">памёршыя</Form>
+        <Form Tag="XGP">памёршых</Form>
+        <Form Tag="XDP">памёршым</Form>
+        <Form Tag="XAP">памёршыя</Form>
+        <Form Tag="XIP">памёршымі</Form>
+        <Form Tag="XLP">памёршых</Form>
+    </Paradigm>
     <Paradigm pdgId="1009766" Lemma="памужнелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">памужнелы</Form>
         <Form Tag="MGS">памужнелага</Form>
@@ -6785,35 +6814,6 @@
         <Form Tag="XAP">памярцвелыя</Form>
         <Form Tag="XIP">памярцвелымі</Form>
         <Form Tag="XLP">памярцвелых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1009730" Lemma="памёршы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">памёршы</Form>
-        <Form Tag="MGS">памёршага</Form>
-        <Form Tag="MDS">памёршаму</Form>
-        <Form Tag="MAS">памёршы</Form>
-        <Form Tag="MAS">памёршага</Form>
-        <Form Tag="MIS">памёршым</Form>
-        <Form Tag="MLS">памёршым</Form>
-        <Form Tag="FNS">памёршая</Form>
-        <Form Tag="FGS">памёршай</Form>
-        <Form Tag="FGS">памёршае</Form>
-        <Form Tag="FDS">памёршай</Form>
-        <Form Tag="FAS">памёршую</Form>
-        <Form Tag="FIS">памёршай</Form>
-        <Form Tag="FIS">памёршаю</Form>
-        <Form Tag="FLS">памёршай</Form>
-        <Form Tag="NNS">памёршае</Form>
-        <Form Tag="NGS">памёршага</Form>
-        <Form Tag="NDS">памёршаму</Form>
-        <Form Tag="NAS">памёршае</Form>
-        <Form Tag="NIS">памёршым</Form>
-        <Form Tag="NLS">памёршым</Form>
-        <Form Tag="XNP">памёршыя</Form>
-        <Form Tag="XGP">памёршых</Form>
-        <Form Tag="XDP">памёршым</Form>
-        <Form Tag="XAP">памёршыя</Form>
-        <Form Tag="XIP">памёршымі</Form>
-        <Form Tag="XLP">памёршых</Form>
     </Paradigm>
     <Paradigm pdgId="1009806" Lemma="панавалы" Tag="PAPP" Govern="">
         <Form Tag="MNS">панавалы</Form>
@@ -6988,6 +6988,35 @@
         <Form Tag="XAP">пасвяжэлыя</Form>
         <Form Tag="XIP">пасвяжэлымі</Form>
         <Form Tag="XLP">пасвяжэлых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1010064" Lemma="пасівелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">пасівелы</Form>
+        <Form Tag="MGS">пасівелага</Form>
+        <Form Tag="MDS">пасівеламу</Form>
+        <Form Tag="MAS">пасівелы</Form>
+        <Form Tag="MAS">пасівелага</Form>
+        <Form Tag="MIS">пасівелым</Form>
+        <Form Tag="MLS">пасівелым</Form>
+        <Form Tag="FNS">пасівелая</Form>
+        <Form Tag="FGS">пасівелай</Form>
+        <Form Tag="FGS">пасівелае</Form>
+        <Form Tag="FDS">пасівелай</Form>
+        <Form Tag="FAS">пасівелую</Form>
+        <Form Tag="FIS">пасівелай</Form>
+        <Form Tag="FIS">пасівелаю</Form>
+        <Form Tag="FLS">пасівелай</Form>
+        <Form Tag="NNS">пасівелае</Form>
+        <Form Tag="NGS">пасівелага</Form>
+        <Form Tag="NDS">пасівеламу</Form>
+        <Form Tag="NAS">пасівелае</Form>
+        <Form Tag="NIS">пасівелым</Form>
+        <Form Tag="NLS">пасівелым</Form>
+        <Form Tag="XNP">пасівелыя</Form>
+        <Form Tag="XGP">пасівелых</Form>
+        <Form Tag="XDP">пасівелым</Form>
+        <Form Tag="XAP">пасівелыя</Form>
+        <Form Tag="XIP">пасівелымі</Form>
+        <Form Tag="XLP">пасівелых</Form>
     </Paradigm>
     <Paradigm pdgId="1010126" Lemma="пасмаглы" Tag="PAPP" Govern="">
         <Form Tag="MNS">пасмаглы</Form>
@@ -7279,35 +7308,6 @@
         <Form Tag="XIP">пасуравелымі</Form>
         <Form Tag="XLP">пасуравелых</Form>
     </Paradigm>
-    <Paradigm pdgId="1010064" Lemma="пасівелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">пасівелы</Form>
-        <Form Tag="MGS">пасівелага</Form>
-        <Form Tag="MDS">пасівеламу</Form>
-        <Form Tag="MAS">пасівелы</Form>
-        <Form Tag="MAS">пасівелага</Form>
-        <Form Tag="MIS">пасівелым</Form>
-        <Form Tag="MLS">пасівелым</Form>
-        <Form Tag="FNS">пасівелая</Form>
-        <Form Tag="FGS">пасівелай</Form>
-        <Form Tag="FGS">пасівелае</Form>
-        <Form Tag="FDS">пасівелай</Form>
-        <Form Tag="FAS">пасівелую</Form>
-        <Form Tag="FIS">пасівелай</Form>
-        <Form Tag="FIS">пасівелаю</Form>
-        <Form Tag="FLS">пасівелай</Form>
-        <Form Tag="NNS">пасівелае</Form>
-        <Form Tag="NGS">пасівелага</Form>
-        <Form Tag="NDS">пасівеламу</Form>
-        <Form Tag="NAS">пасівелае</Form>
-        <Form Tag="NIS">пасівелым</Form>
-        <Form Tag="NLS">пасівелым</Form>
-        <Form Tag="XNP">пасівелыя</Form>
-        <Form Tag="XGP">пасівелых</Form>
-        <Form Tag="XDP">пасівелым</Form>
-        <Form Tag="XAP">пасівелыя</Form>
-        <Form Tag="XIP">пасівелымі</Form>
-        <Form Tag="XLP">пасівелых</Form>
-    </Paradigm>
     <Paradigm pdgId="1010189" Lemma="патанулы" Tag="PAPP" Govern="">
         <Form Tag="MNS">патанулы</Form>
         <Form Tag="MGS">патанулага</Form>
@@ -7365,6 +7365,93 @@
         <Form Tag="XAP">патухлыя</Form>
         <Form Tag="XIP">патухлымі</Form>
         <Form Tag="XLP">патухлых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1008796" Lemma="паўпадалы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">паўпадалы</Form>
+        <Form Tag="MGS">паўпадалага</Form>
+        <Form Tag="MDS">паўпадаламу</Form>
+        <Form Tag="MAS">паўпадалы</Form>
+        <Form Tag="MAS">паўпадалага</Form>
+        <Form Tag="MIS">паўпадалым</Form>
+        <Form Tag="MLS">паўпадалым</Form>
+        <Form Tag="FNS">паўпадалая</Form>
+        <Form Tag="FGS">паўпадалай</Form>
+        <Form Tag="FGS">паўпадалае</Form>
+        <Form Tag="FDS">паўпадалай</Form>
+        <Form Tag="FAS">паўпадалую</Form>
+        <Form Tag="FIS">паўпадалай</Form>
+        <Form Tag="FIS">паўпадалаю</Form>
+        <Form Tag="FLS">паўпадалай</Form>
+        <Form Tag="NNS">паўпадалае</Form>
+        <Form Tag="NGS">паўпадалага</Form>
+        <Form Tag="NDS">паўпадаламу</Form>
+        <Form Tag="NAS">паўпадалае</Form>
+        <Form Tag="NIS">паўпадалым</Form>
+        <Form Tag="NLS">паўпадалым</Form>
+        <Form Tag="XNP">паўпадалыя</Form>
+        <Form Tag="XGP">паўпадалых</Form>
+        <Form Tag="XDP">паўпадалым</Form>
+        <Form Tag="XAP">паўпадалыя</Form>
+        <Form Tag="XIP">паўпадалымі</Form>
+        <Form Tag="XLP">паўпадалых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1008813" Lemma="паўсталы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">паўсталы</Form>
+        <Form Tag="MGS">паўсталага</Form>
+        <Form Tag="MDS">паўсталаму</Form>
+        <Form Tag="MAS">паўсталы</Form>
+        <Form Tag="MAS">паўсталага</Form>
+        <Form Tag="MIS">паўсталым</Form>
+        <Form Tag="MLS">паўсталым</Form>
+        <Form Tag="FNS">паўсталая</Form>
+        <Form Tag="FGS">паўсталай</Form>
+        <Form Tag="FGS">паўсталае</Form>
+        <Form Tag="FDS">паўсталай</Form>
+        <Form Tag="FAS">паўсталую</Form>
+        <Form Tag="FIS">паўсталай</Form>
+        <Form Tag="FIS">паўсталаю</Form>
+        <Form Tag="FLS">паўсталай</Form>
+        <Form Tag="NNS">паўсталае</Form>
+        <Form Tag="NGS">паўсталага</Form>
+        <Form Tag="NDS">паўсталаму</Form>
+        <Form Tag="NAS">паўсталае</Form>
+        <Form Tag="NIS">паўсталым</Form>
+        <Form Tag="NLS">паўсталым</Form>
+        <Form Tag="XNP">паўсталыя</Form>
+        <Form Tag="XGP">паўсталых</Form>
+        <Form Tag="XDP">паўсталым</Form>
+        <Form Tag="XAP">паўсталыя</Form>
+        <Form Tag="XIP">паўсталымі</Form>
+        <Form Tag="XLP">паўсталых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1008822" Lemma="паўшы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">паўшы</Form>
+        <Form Tag="MGS">паўшага</Form>
+        <Form Tag="MDS">паўшаму</Form>
+        <Form Tag="MAS">паўшы</Form>
+        <Form Tag="MAS">паўшага</Form>
+        <Form Tag="MIS">паўшым</Form>
+        <Form Tag="MLS">паўшым</Form>
+        <Form Tag="FNS">паўшая</Form>
+        <Form Tag="FGS">паўшай</Form>
+        <Form Tag="FGS">паўшае</Form>
+        <Form Tag="FDS">паўшай</Form>
+        <Form Tag="FAS">паўшую</Form>
+        <Form Tag="FIS">паўшай</Form>
+        <Form Tag="FIS">паўшаю</Form>
+        <Form Tag="FLS">паўшай</Form>
+        <Form Tag="NNS">паўшае</Form>
+        <Form Tag="NGS">паўшага</Form>
+        <Form Tag="NDS">паўшаму</Form>
+        <Form Tag="NAS">паўшае</Form>
+        <Form Tag="NIS">паўшым</Form>
+        <Form Tag="NLS">паўшым</Form>
+        <Form Tag="XNP">паўшыя</Form>
+        <Form Tag="XGP">паўшых</Form>
+        <Form Tag="XDP">паўшым</Form>
+        <Form Tag="XAP">паўшыя</Form>
+        <Form Tag="XIP">паўшымі</Form>
+        <Form Tag="XLP">паўшых</Form>
     </Paradigm>
     <Paradigm pdgId="1010277" Lemma="пахудзелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">пахудзелы</Form>
@@ -7627,93 +7714,6 @@
         <Form Tag="XIP">пашарэлымі</Form>
         <Form Tag="XLP">пашарэлых</Form>
     </Paradigm>
-    <Paradigm pdgId="1008796" Lemma="паўпадалы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">паўпадалы</Form>
-        <Form Tag="MGS">паўпадалага</Form>
-        <Form Tag="MDS">паўпадаламу</Form>
-        <Form Tag="MAS">паўпадалы</Form>
-        <Form Tag="MAS">паўпадалага</Form>
-        <Form Tag="MIS">паўпадалым</Form>
-        <Form Tag="MLS">паўпадалым</Form>
-        <Form Tag="FNS">паўпадалая</Form>
-        <Form Tag="FGS">паўпадалай</Form>
-        <Form Tag="FGS">паўпадалае</Form>
-        <Form Tag="FDS">паўпадалай</Form>
-        <Form Tag="FAS">паўпадалую</Form>
-        <Form Tag="FIS">паўпадалай</Form>
-        <Form Tag="FIS">паўпадалаю</Form>
-        <Form Tag="FLS">паўпадалай</Form>
-        <Form Tag="NNS">паўпадалае</Form>
-        <Form Tag="NGS">паўпадалага</Form>
-        <Form Tag="NDS">паўпадаламу</Form>
-        <Form Tag="NAS">паўпадалае</Form>
-        <Form Tag="NIS">паўпадалым</Form>
-        <Form Tag="NLS">паўпадалым</Form>
-        <Form Tag="XNP">паўпадалыя</Form>
-        <Form Tag="XGP">паўпадалых</Form>
-        <Form Tag="XDP">паўпадалым</Form>
-        <Form Tag="XAP">паўпадалыя</Form>
-        <Form Tag="XIP">паўпадалымі</Form>
-        <Form Tag="XLP">паўпадалых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1008813" Lemma="паўсталы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">паўсталы</Form>
-        <Form Tag="MGS">паўсталага</Form>
-        <Form Tag="MDS">паўсталаму</Form>
-        <Form Tag="MAS">паўсталы</Form>
-        <Form Tag="MAS">паўсталага</Form>
-        <Form Tag="MIS">паўсталым</Form>
-        <Form Tag="MLS">паўсталым</Form>
-        <Form Tag="FNS">паўсталая</Form>
-        <Form Tag="FGS">паўсталай</Form>
-        <Form Tag="FGS">паўсталае</Form>
-        <Form Tag="FDS">паўсталай</Form>
-        <Form Tag="FAS">паўсталую</Form>
-        <Form Tag="FIS">паўсталай</Form>
-        <Form Tag="FIS">паўсталаю</Form>
-        <Form Tag="FLS">паўсталай</Form>
-        <Form Tag="NNS">паўсталае</Form>
-        <Form Tag="NGS">паўсталага</Form>
-        <Form Tag="NDS">паўсталаму</Form>
-        <Form Tag="NAS">паўсталае</Form>
-        <Form Tag="NIS">паўсталым</Form>
-        <Form Tag="NLS">паўсталым</Form>
-        <Form Tag="XNP">паўсталыя</Form>
-        <Form Tag="XGP">паўсталых</Form>
-        <Form Tag="XDP">паўсталым</Form>
-        <Form Tag="XAP">паўсталыя</Form>
-        <Form Tag="XIP">паўсталымі</Form>
-        <Form Tag="XLP">паўсталых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1008822" Lemma="паўшы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">паўшы</Form>
-        <Form Tag="MGS">паўшага</Form>
-        <Form Tag="MDS">паўшаму</Form>
-        <Form Tag="MAS">паўшы</Form>
-        <Form Tag="MAS">паўшага</Form>
-        <Form Tag="MIS">паўшым</Form>
-        <Form Tag="MLS">паўшым</Form>
-        <Form Tag="FNS">паўшая</Form>
-        <Form Tag="FGS">паўшай</Form>
-        <Form Tag="FGS">паўшае</Form>
-        <Form Tag="FDS">паўшай</Form>
-        <Form Tag="FAS">паўшую</Form>
-        <Form Tag="FIS">паўшай</Form>
-        <Form Tag="FIS">паўшаю</Form>
-        <Form Tag="FLS">паўшай</Form>
-        <Form Tag="NNS">паўшае</Form>
-        <Form Tag="NGS">паўшага</Form>
-        <Form Tag="NDS">паўшаму</Form>
-        <Form Tag="NAS">паўшае</Form>
-        <Form Tag="NIS">паўшым</Form>
-        <Form Tag="NLS">паўшым</Form>
-        <Form Tag="XNP">паўшыя</Form>
-        <Form Tag="XGP">паўшых</Form>
-        <Form Tag="XDP">паўшым</Form>
-        <Form Tag="XAP">паўшыя</Form>
-        <Form Tag="XIP">паўшымі</Form>
-        <Form Tag="XLP">паўшых</Form>
-    </Paradigm>
     <Paradigm pdgId="1010496" Lemma="перагнілы" Tag="PAPP" Govern="">
         <Form Tag="MNS">перагнілы</Form>
         <Form Tag="MGS">перагнілага</Form>
@@ -7743,35 +7743,6 @@
         <Form Tag="XIP">перагнілымі</Form>
         <Form Tag="XLP">перагнілых</Form>
     </Paradigm>
-    <Paradigm pdgId="1010718" Lemma="перамоклы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">перамоклы</Form>
-        <Form Tag="MGS">перамоклага</Form>
-        <Form Tag="MDS">перамокламу</Form>
-        <Form Tag="MAS">перамоклы</Form>
-        <Form Tag="MAS">перамоклага</Form>
-        <Form Tag="MIS">перамоклым</Form>
-        <Form Tag="MLS">перамоклым</Form>
-        <Form Tag="FNS">перамоклая</Form>
-        <Form Tag="FGS">перамоклай</Form>
-        <Form Tag="FGS">перамоклае</Form>
-        <Form Tag="FDS">перамоклай</Form>
-        <Form Tag="FAS">перамоклую</Form>
-        <Form Tag="FIS">перамоклай</Form>
-        <Form Tag="FIS">перамоклаю</Form>
-        <Form Tag="FLS">перамоклай</Form>
-        <Form Tag="NNS">перамоклае</Form>
-        <Form Tag="NGS">перамоклага</Form>
-        <Form Tag="NDS">перамокламу</Form>
-        <Form Tag="NAS">перамоклае</Form>
-        <Form Tag="NIS">перамоклым</Form>
-        <Form Tag="NLS">перамоклым</Form>
-        <Form Tag="XNP">перамоклыя</Form>
-        <Form Tag="XGP">перамоклых</Form>
-        <Form Tag="XDP">перамоклым</Form>
-        <Form Tag="XAP">перамоклыя</Form>
-        <Form Tag="XIP">перамоклымі</Form>
-        <Form Tag="XLP">перамоклых</Form>
-    </Paradigm>
     <Paradigm pdgId="1010694" Lemma="перамёрзлы" Tag="PAPP" Govern="">
         <Form Tag="MNS">перамёрзлы</Form>
         <Form Tag="MGS">перамёрзлага</Form>
@@ -7800,6 +7771,35 @@
         <Form Tag="XAP">перамёрзлыя</Form>
         <Form Tag="XIP">перамёрзлымі</Form>
         <Form Tag="XLP">перамёрзлых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1010718" Lemma="перамоклы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">перамоклы</Form>
+        <Form Tag="MGS">перамоклага</Form>
+        <Form Tag="MDS">перамокламу</Form>
+        <Form Tag="MAS">перамоклы</Form>
+        <Form Tag="MAS">перамоклага</Form>
+        <Form Tag="MIS">перамоклым</Form>
+        <Form Tag="MLS">перамоклым</Form>
+        <Form Tag="FNS">перамоклая</Form>
+        <Form Tag="FGS">перамоклай</Form>
+        <Form Tag="FGS">перамоклае</Form>
+        <Form Tag="FDS">перамоклай</Form>
+        <Form Tag="FAS">перамоклую</Form>
+        <Form Tag="FIS">перамоклай</Form>
+        <Form Tag="FIS">перамоклаю</Form>
+        <Form Tag="FLS">перамоклай</Form>
+        <Form Tag="NNS">перамоклае</Form>
+        <Form Tag="NGS">перамоклага</Form>
+        <Form Tag="NDS">перамокламу</Form>
+        <Form Tag="NAS">перамоклае</Form>
+        <Form Tag="NIS">перамоклым</Form>
+        <Form Tag="NLS">перамоклым</Form>
+        <Form Tag="XNP">перамоклыя</Form>
+        <Form Tag="XGP">перамоклых</Form>
+        <Form Tag="XDP">перамоклым</Form>
+        <Form Tag="XAP">перамоклыя</Form>
+        <Form Tag="XIP">перамоклымі</Form>
+        <Form Tag="XLP">перамоклых</Form>
     </Paradigm>
     <Paradigm pdgId="1010846" Lemma="пераржавелы" Tag="PAPP" Govern="">
         <Form Tag="MNS">пераржавелы</Form>
@@ -8294,35 +8294,6 @@
         <Form Tag="XIP">прырослымі</Form>
         <Form Tag="XLP">прырослых</Form>
     </Paradigm>
-    <Paradigm pdgId="1011885" Lemma="прыцямнелы" Tag="PAPP" Govern="">
-        <Form Tag="MNS">прыцямнелы</Form>
-        <Form Tag="MGS">прыцямнелага</Form>
-        <Form Tag="MDS">прыцямнеламу</Form>
-        <Form Tag="MAS">прыцямнелы</Form>
-        <Form Tag="MAS">прыцямнелага</Form>
-        <Form Tag="MIS">прыцямнелым</Form>
-        <Form Tag="MLS">прыцямнелым</Form>
-        <Form Tag="FNS">прыцямнелая</Form>
-        <Form Tag="FGS">прыцямнелай</Form>
-        <Form Tag="FGS">прыцямнелае</Form>
-        <Form Tag="FDS">прыцямнелай</Form>
-        <Form Tag="FAS">прыцямнелую</Form>
-        <Form Tag="FIS">прыцямнелай</Form>
-        <Form Tag="FIS">прыцямнелаю</Form>
-        <Form Tag="FLS">прыцямнелай</Form>
-        <Form Tag="NNS">прыцямнелае</Form>
-        <Form Tag="NGS">прыцямнелага</Form>
-        <Form Tag="NDS">прыцямнеламу</Form>
-        <Form Tag="NAS">прыцямнелае</Form>
-        <Form Tag="NIS">прыцямнелым</Form>
-        <Form Tag="NLS">прыцямнелым</Form>
-        <Form Tag="XNP">прыцямнелыя</Form>
-        <Form Tag="XGP">прыцямнелых</Form>
-        <Form Tag="XDP">прыцямнелым</Form>
-        <Form Tag="XAP">прыцямнелыя</Form>
-        <Form Tag="XIP">прыцямнелымі</Form>
-        <Form Tag="XLP">прыцямнелых</Form>
-    </Paradigm>
     <Paradigm pdgId="1011867" Lemma="прыціхлы" Tag="PAPP" Govern="">
         <Form Tag="MNS">прыціхлы</Form>
         <Form Tag="MGS">прыціхлага</Form>
@@ -8351,6 +8322,35 @@
         <Form Tag="XAP">прыціхлыя</Form>
         <Form Tag="XIP">прыціхлымі</Form>
         <Form Tag="XLP">прыціхлых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1011885" Lemma="прыцямнелы" Tag="PAPP" Govern="">
+        <Form Tag="MNS">прыцямнелы</Form>
+        <Form Tag="MGS">прыцямнелага</Form>
+        <Form Tag="MDS">прыцямнеламу</Form>
+        <Form Tag="MAS">прыцямнелы</Form>
+        <Form Tag="MAS">прыцямнелага</Form>
+        <Form Tag="MIS">прыцямнелым</Form>
+        <Form Tag="MLS">прыцямнелым</Form>
+        <Form Tag="FNS">прыцямнелая</Form>
+        <Form Tag="FGS">прыцямнелай</Form>
+        <Form Tag="FGS">прыцямнелае</Form>
+        <Form Tag="FDS">прыцямнелай</Form>
+        <Form Tag="FAS">прыцямнелую</Form>
+        <Form Tag="FIS">прыцямнелай</Form>
+        <Form Tag="FIS">прыцямнелаю</Form>
+        <Form Tag="FLS">прыцямнелай</Form>
+        <Form Tag="NNS">прыцямнелае</Form>
+        <Form Tag="NGS">прыцямнелага</Form>
+        <Form Tag="NDS">прыцямнеламу</Form>
+        <Form Tag="NAS">прыцямнелае</Form>
+        <Form Tag="NIS">прыцямнелым</Form>
+        <Form Tag="NLS">прыцямнелым</Form>
+        <Form Tag="XNP">прыцямнелыя</Form>
+        <Form Tag="XGP">прыцямнелых</Form>
+        <Form Tag="XDP">прыцямнелым</Form>
+        <Form Tag="XAP">прыцямнелыя</Form>
+        <Form Tag="XIP">прыцямнелымі</Form>
+        <Form Tag="XLP">прыцямнелых</Form>
     </Paradigm>
     <Paradigm pdgId="1011908" Lemma="прышлы" Tag="PAPP" Govern="">
         <Form Tag="MNS">прышлы</Form>

@@ -308,6 +308,20 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1037342" Lemma="Гішпанія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Гішпанія</Form>
+        <Form Tag="GS">Гішпаніі</Form>
+        <Form Tag="DS">Гішпаніі</Form>
+        <Form Tag="AS">Гішпанію</Form>
+        <Form Tag="IS">Гішпаніяй</Form>
+        <Form Tag="LS">Гішпаніі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1037343" Lemma="Гомельшчына" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Гомельшчына</Form>
         <Form Tag="GS">Гомельшчыны</Form>
@@ -399,20 +413,6 @@
         <Form Tag="AS">Густаўшчыну</Form>
         <Form Tag="IS">Густаўшчынай</Form>
         <Form Tag="LS">Густаўшчыне</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037342" Lemma="Гішпанія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Гішпанія</Form>
-        <Form Tag="GS">Гішпаніі</Form>
-        <Form Tag="DS">Гішпаніі</Form>
-        <Form Tag="AS">Гішпанію</Form>
-        <Form Tag="IS">Гішпаніяй</Form>
-        <Form Tag="LS">Гішпаніі</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -658,6 +658,146 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1037398" Lemma="Іліяда" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/назвы твораў, праграм">
+        <Form Tag="NS">Іліяда</Form>
+        <Form Tag="GS">Іліяды</Form>
+        <Form Tag="DS">Іліядзе</Form>
+        <Form Tag="AS">Іліяду</Form>
+        <Form Tag="IS">Іліядай</Form>
+        <Form Tag="LS">Іліядзе</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037402" Lemma="Інгушэція" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Інгушэція</Form>
+        <Form Tag="GS">Інгушэціі</Form>
+        <Form Tag="DS">Інгушэціі</Form>
+        <Form Tag="AS">Інгушэцію</Form>
+        <Form Tag="IS">Інгушэціяй</Form>
+        <Form Tag="LS">Інгушэціі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037403" Lemma="Інданэзія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Інданэзія</Form>
+        <Form Tag="GS">Інданэзіі</Form>
+        <Form Tag="DS">Інданэзіі</Form>
+        <Form Tag="AS">Інданэзію</Form>
+        <Form Tag="IS">Інданэзіяй</Form>
+        <Form Tag="LS">Інданэзіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037404" Lemma="Індыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Індыя</Form>
+        <Form Tag="GS">Індыі</Form>
+        <Form Tag="DS">Індыі</Form>
+        <Form Tag="AS">Індыю</Form>
+        <Form Tag="IS">Індыяй</Form>
+        <Form Tag="LS">Індыі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037407" Lemma="Ірландыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Ірландыя</Form>
+        <Form Tag="GS">Ірландыі</Form>
+        <Form Tag="DS">Ірландыі</Form>
+        <Form Tag="AS">Ірландыю</Form>
+        <Form Tag="IS">Ірландыяй</Form>
+        <Form Tag="LS">Ірландыі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037409" Lemma="Ісландыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Ісландыя</Form>
+        <Form Tag="GS">Ісландыі</Form>
+        <Form Tag="DS">Ісландыі</Form>
+        <Form Tag="AS">Ісландыю</Form>
+        <Form Tag="IS">Ісландыяй</Form>
+        <Form Tag="LS">Ісландыі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037410" Lemma="Іспанія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Іспанія</Form>
+        <Form Tag="GS">Іспаніі</Form>
+        <Form Tag="DS">Іспаніі</Form>
+        <Form Tag="AS">Іспанію</Form>
+        <Form Tag="IS">Іспаніяй</Form>
+        <Form Tag="LS">Іспаніі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037411" Lemma="Італія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Італія</Form>
+        <Form Tag="GS">Італіі</Form>
+        <Form Tag="DS">Італіі</Form>
+        <Form Tag="AS">Італію</Form>
+        <Form Tag="IS">Італіяй</Form>
+        <Form Tag="LS">Італіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037412" Lemma="Ічкерыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Ічкерыя</Form>
+        <Form Tag="GS">Ічкерыі</Form>
+        <Form Tag="DS">Ічкерыі</Form>
+        <Form Tag="AS">Ічкерыю</Form>
+        <Form Tag="IS">Ічкерыяй</Form>
+        <Form Tag="LS">Ічкерыі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037413" Lemma="Іярданія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Іярданія</Form>
+        <Form Tag="GS">Іярданіі</Form>
+        <Form Tag="DS">Іярданіі</Form>
+        <Form Tag="AS">Іярданію</Form>
+        <Form Tag="IS">Іярданіяй</Form>
+        <Form Tag="LS">Іярданіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1037416" Lemma="Казіміраўка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Казіміраўка</Form>
         <Form Tag="GS">Казіміраўкі</Form>
@@ -671,6 +811,34 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037417" Lemma="Каімбра" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Каімбра</Form>
+        <Form Tag="GS">Каімбры</Form>
+        <Form Tag="DS">Каімбры</Form>
+        <Form Tag="AS">Каімбру</Form>
+        <Form Tag="IS">Каімбрай</Form>
+        <Form Tag="LS">Каімбры</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037418" Lemma="Каліфорнія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Каліфорнія</Form>
+        <Form Tag="GS">Каліфорніі</Form>
+        <Form Tag="DS">Каліфорніі</Form>
+        <Form Tag="AS">Каліфорнію</Form>
+        <Form Tag="IS">Каліфорніяй</Form>
+        <Form Tag="LS">Каліфорніі</Form>
+        <Form Tag="NP">Каліфорніі</Form>
+        <Form Tag="GP">Каліфорній</Form>
+        <Form Tag="DP">Каліфорніям</Form>
+        <Form Tag="AP">Каліфорніі</Form>
+        <Form Tag="IP">Каліфорніямі</Form>
+        <Form Tag="LP">Каліфорніях</Form>
     </Paradigm>
     <Paradigm pdgId="1037419" Lemma="Калмыкія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Калмыкія</Form>
@@ -741,20 +909,6 @@
         <Form Tag="AP">Калхіды</Form>
         <Form Tag="IP">Калхідамі</Form>
         <Form Tag="LP">Калхідах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037418" Lemma="Каліфорнія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Каліфорнія</Form>
-        <Form Tag="GS">Каліфорніі</Form>
-        <Form Tag="DS">Каліфорніі</Form>
-        <Form Tag="AS">Каліфорнію</Form>
-        <Form Tag="IS">Каліфорніяй</Form>
-        <Form Tag="LS">Каліфорніі</Form>
-        <Form Tag="NP">Каліфорніі</Form>
-        <Form Tag="GP">Каліфорній</Form>
-        <Form Tag="DP">Каліфорніям</Form>
-        <Form Tag="AP">Каліфорніі</Form>
-        <Form Tag="IP">Каліфорніямі</Form>
-        <Form Tag="LP">Каліфорніях</Form>
     </Paradigm>
     <Paradigm pdgId="1037423" Lemma="Камбоджа" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Камбоджа</Form>
@@ -868,20 +1022,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1037417" Lemma="Каімбра" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Каімбра</Form>
-        <Form Tag="GS">Каімбры</Form>
-        <Form Tag="DS">Каімбры</Form>
-        <Form Tag="AS">Каімбру</Form>
-        <Form Tag="IS">Каімбрай</Form>
-        <Form Tag="LS">Каімбры</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1037439" Lemma="Кенія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Кенія</Form>
         <Form Tag="GS">Кеніі</Form>
@@ -889,6 +1029,20 @@
         <Form Tag="AS">Кенію</Form>
         <Form Tag="IS">Кеніяй</Form>
         <Form Tag="LS">Кеніі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1037441" Lemma="Кіргізія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Кіргізія</Form>
+        <Form Tag="GS">Кіргізіі</Form>
+        <Form Tag="DS">Кіргізіі</Form>
+        <Form Tag="AS">Кіргізію</Form>
+        <Form Tag="IS">Кіргізіяй</Form>
+        <Form Tag="LS">Кіргізіі</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -945,20 +1099,6 @@
         <Form Tag="AS">Кунцаўшчыну</Form>
         <Form Tag="IS">Кунцаўшчынай</Form>
         <Form Tag="LS">Кунцаўшчыне</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037441" Lemma="Кіргізія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Кіргізія</Form>
-        <Form Tag="GS">Кіргізіі</Form>
-        <Form Tag="DS">Кіргізіі</Form>
-        <Form Tag="AS">Кіргізію</Form>
-        <Form Tag="IS">Кіргізіяй</Form>
-        <Form Tag="LS">Кіргізіі</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -1092,6 +1232,76 @@
         <Form Tag="IP">Ленамі</Form>
         <Form Tag="LP">Ленах</Form>
     </Paradigm>
+    <Paradigm pdgId="1019456" Lemma="Лівія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Лівія</Form>
+        <Form Tag="GS">Лівіі</Form>
+        <Form Tag="DS">Лівіі</Form>
+        <Form Tag="AS">Лівію</Form>
+        <Form Tag="IS">Лівіяй</Form>
+        <Form Tag="LS">Лівіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1019457" Lemma="Лівонія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Лівонія</Form>
+        <Form Tag="GS">Лівоніі</Form>
+        <Form Tag="DS">Лівоніі</Form>
+        <Form Tag="AS">Лівонію</Form>
+        <Form Tag="IS">Лівоніяй</Form>
+        <Form Tag="LS">Лівоніі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1127739" Lemma="Ліда" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Ліда</Form>
+        <Form Tag="GS">Ліды</Form>
+        <Form Tag="DS">Лідзе</Form>
+        <Form Tag="AS">Ліду</Form>
+        <Form Tag="IS">Лідай</Form>
+        <Form Tag="LS">Лідзе</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1019465" Lemma="Ліліпутыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/міфонімы">
+        <Form Tag="NS">Ліліпутыя</Form>
+        <Form Tag="GS">Ліліпутыі</Form>
+        <Form Tag="DS">Ліліпутыі</Form>
+        <Form Tag="AS">Ліліпутыю</Form>
+        <Form Tag="IS">Ліліпутыяй</Form>
+        <Form Tag="LS">Ліліпутыі</Form>
+        <Form Tag="NP">Ліліпутыі</Form>
+        <Form Tag="GP">Ліліпутыяў</Form>
+        <Form Tag="DP">Ліліпутыям</Form>
+        <Form Tag="AP">Ліліпутыі</Form>
+        <Form Tag="IP">Ліліпутыямі</Form>
+        <Form Tag="LP">Ліліпутыях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1019497" Lemma="Літва" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Літва</Form>
+        <Form Tag="GS">Літвы</Form>
+        <Form Tag="DS">Літве</Form>
+        <Form Tag="AS">Літву</Form>
+        <Form Tag="IS">Літвой</Form>
+        <Form Tag="LS">Літве</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1019633" Lemma="Лубянка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/урбанонімы/гадонімы;Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Лубянка</Form>
         <Form Tag="GS">Лубянкі</Form>
@@ -1161,76 +1371,6 @@
         <Form Tag="AP">Лявоніхі</Form>
         <Form Tag="IP">Лявоніхамі</Form>
         <Form Tag="LP">Лявоніхах</Form>
-    </Paradigm>
-    <Paradigm pdgId="1019457" Lemma="Лівонія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Лівонія</Form>
-        <Form Tag="GS">Лівоніі</Form>
-        <Form Tag="DS">Лівоніі</Form>
-        <Form Tag="AS">Лівонію</Form>
-        <Form Tag="IS">Лівоніяй</Form>
-        <Form Tag="LS">Лівоніі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1019456" Lemma="Лівія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Лівія</Form>
-        <Form Tag="GS">Лівіі</Form>
-        <Form Tag="DS">Лівіі</Form>
-        <Form Tag="AS">Лівію</Form>
-        <Form Tag="IS">Лівіяй</Form>
-        <Form Tag="LS">Лівіі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1127739" Lemma="Ліда" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Ліда</Form>
-        <Form Tag="GS">Ліды</Form>
-        <Form Tag="DS">Лідзе</Form>
-        <Form Tag="AS">Ліду</Form>
-        <Form Tag="IS">Лідай</Form>
-        <Form Tag="LS">Лідзе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1019465" Lemma="Ліліпутыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Form Tag="NS">Ліліпутыя</Form>
-        <Form Tag="GS">Ліліпутыі</Form>
-        <Form Tag="DS">Ліліпутыі</Form>
-        <Form Tag="AS">Ліліпутыю</Form>
-        <Form Tag="IS">Ліліпутыяй</Form>
-        <Form Tag="LS">Ліліпутыі</Form>
-        <Form Tag="NP">Ліліпутыі</Form>
-        <Form Tag="GP">Ліліпутыяў</Form>
-        <Form Tag="DP">Ліліпутыям</Form>
-        <Form Tag="AP">Ліліпутыі</Form>
-        <Form Tag="IP">Ліліпутыямі</Form>
-        <Form Tag="LP">Ліліпутыях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1019497" Lemma="Літва" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Літва</Form>
-        <Form Tag="GS">Літвы</Form>
-        <Form Tag="DS">Літве</Form>
-        <Form Tag="AS">Літву</Form>
-        <Form Tag="IS">Літвой</Form>
-        <Form Tag="LS">Літве</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
     </Paradigm>
     <Paradigm pdgId="1019795" Lemma="Магілёўшчына" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Магілёўшчына</Form>
@@ -1330,20 +1470,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1019883" Lemma="Мальта" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Мальта</Form>
-        <Form Tag="GS">Мальты</Form>
-        <Form Tag="DS">Мальце</Form>
-        <Form Tag="AS">Мальту</Form>
-        <Form Tag="IS">Мальтай</Form>
-        <Form Tag="LS">Мальце</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1019882" Lemma="Мальёрка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Мальёрка</Form>
         <Form Tag="GS">Мальёркі</Form>
@@ -1351,6 +1477,20 @@
         <Form Tag="AS">Мальёрку</Form>
         <Form Tag="IS">Мальёркай</Form>
         <Form Tag="LS">Мальёрцы</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1019883" Lemma="Мальта" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Мальта</Form>
+        <Form Tag="GS">Мальты</Form>
+        <Form Tag="DS">Мальце</Form>
+        <Form Tag="AS">Мальту</Form>
+        <Form Tag="IS">Мальтай</Form>
+        <Form Tag="LS">Мальце</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -1680,6 +1820,34 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1020218" Lemma="Нігерыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Нігерыя</Form>
+        <Form Tag="GS">Нігерыі</Form>
+        <Form Tag="DS">Нігерыі</Form>
+        <Form Tag="AS">Нігерыю</Form>
+        <Form Tag="IS">Нігерыяй</Form>
+        <Form Tag="LS">Нігерыі</Form>
+        <Form Tag="NP">Нігерыі</Form>
+        <Form Tag="GP">Нігерый</Form>
+        <Form Tag="DP">Нігерыям</Form>
+        <Form Tag="AP">Нігерыі</Form>
+        <Form Tag="IP">Нігерыямі</Form>
+        <Form Tag="LP">Нігерыях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1020228" Lemma="Ніца" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Ніца</Form>
+        <Form Tag="GS">Ніцы</Form>
+        <Form Tag="DS">Ніцы</Form>
+        <Form Tag="AS">Ніцу</Form>
+        <Form Tag="IS">Ніцай</Form>
+        <Form Tag="LS">Ніцы</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1020869" Lemma="Нява" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы">
         <Form Tag="NS">Нява</Form>
         <Form Tag="GS">Нявы</Form>
@@ -1729,34 +1897,6 @@
         <Form Tag="AS">Няроплю</Form>
         <Form Tag="IS">Няропляй</Form>
         <Form Tag="LS">Няроплі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1020218" Lemma="Нігерыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Нігерыя</Form>
-        <Form Tag="GS">Нігерыі</Form>
-        <Form Tag="DS">Нігерыі</Form>
-        <Form Tag="AS">Нігерыю</Form>
-        <Form Tag="IS">Нігерыяй</Form>
-        <Form Tag="LS">Нігерыі</Form>
-        <Form Tag="NP">Нігерыі</Form>
-        <Form Tag="GP">Нігерый</Form>
-        <Form Tag="DP">Нігерыям</Form>
-        <Form Tag="AP">Нігерыі</Form>
-        <Form Tag="IP">Нігерыямі</Form>
-        <Form Tag="LP">Нігерыях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1020228" Lemma="Ніца" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Ніца</Form>
-        <Form Tag="GS">Ніцы</Form>
-        <Form Tag="DS">Ніцы</Form>
-        <Form Tag="AS">Ніцу</Form>
-        <Form Tag="IS">Ніцай</Form>
-        <Form Tag="LS">Ніцы</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -1918,6 +2058,20 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1021008" Lemma="Піліпаўка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/святы">
+        <Form Tag="NS">Піліпаўка</Form>
+        <Form Tag="GS">Піліпаўкі</Form>
+        <Form Tag="DS">Піліпаўцы</Form>
+        <Form Tag="AS">Піліпаўку</Form>
+        <Form Tag="IS">Піліпаўкай</Form>
+        <Form Tag="LS">Піліпаўцы</Form>
+        <Form Tag="NP">Піліпаўкі</Form>
+        <Form Tag="GP">Піліпавак</Form>
+        <Form Tag="DP">Піліпаўкам</Form>
+        <Form Tag="AP">Піліпаўкі</Form>
+        <Form Tag="IP">Піліпаўкамі</Form>
+        <Form Tag="LP">Піліпаўках</Form>
+    </Paradigm>
     <Paradigm pdgId="1021728" Lemma="Польшча" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Польшча</Form>
         <Form Tag="GS">Польшчы</Form>
@@ -1987,20 +2141,6 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1021008" Lemma="Піліпаўка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/святы">
-        <Form Tag="NS">Піліпаўка</Form>
-        <Form Tag="GS">Піліпаўкі</Form>
-        <Form Tag="DS">Піліпаўцы</Form>
-        <Form Tag="AS">Піліпаўку</Form>
-        <Form Tag="IS">Піліпаўкай</Form>
-        <Form Tag="LS">Піліпаўцы</Form>
-        <Form Tag="NP">Піліпаўкі</Form>
-        <Form Tag="GP">Піліпавак</Form>
-        <Form Tag="DP">Піліпаўкам</Form>
-        <Form Tag="AP">Піліпаўкі</Form>
-        <Form Tag="IP">Піліпаўкамі</Form>
-        <Form Tag="LP">Піліпаўках</Form>
     </Paradigm>
     <Paradigm pdgId="1022158" Lemma="Радаўніца" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/святы">
         <Form Tag="NS">Радаўніца</Form>
@@ -2338,6 +2478,20 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1022572" Lemma="Сёмуха" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/святы">
+        <Form Tag="NS">Сёмуха</Form>
+        <Form Tag="GS">Сёмухі</Form>
+        <Form Tag="DS">Сёмусе</Form>
+        <Form Tag="AS">Сёмуху</Form>
+        <Form Tag="IS">Сёмухай</Form>
+        <Form Tag="LS">Сёмусе</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1022933" Lemma="Серабранка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
         <Form Tag="NS">Серабранка</Form>
         <Form Tag="GS">Серабранкі</Form>
@@ -2359,6 +2513,62 @@
         <Form Tag="AS">Сербію</Form>
         <Form Tag="IS">Сербіяй</Form>
         <Form Tag="LS">Сербіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1022542" Lemma="Сіена" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Сіена</Form>
+        <Form Tag="GS">Сіены</Form>
+        <Form Tag="DS">Сіене</Form>
+        <Form Tag="AS">Сіену</Form>
+        <Form Tag="IS">Сіенай</Form>
+        <Form Tag="LS">Сіене</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1022544" Lemma="Сілезія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Сілезія</Form>
+        <Form Tag="GS">Сілезіі</Form>
+        <Form Tag="DS">Сілезіі</Form>
+        <Form Tag="AS">Сілезію</Form>
+        <Form Tag="IS">Сілезіяй</Form>
+        <Form Tag="LS">Сілезіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1022562" Lemma="Сірыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Сірыя</Form>
+        <Form Tag="GS">Сірыі</Form>
+        <Form Tag="DS">Сірыі</Form>
+        <Form Tag="AS">Сірыю</Form>
+        <Form Tag="IS">Сірыяй</Form>
+        <Form Tag="LS">Сірыі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1022571" Lemma="Сіцылія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Сіцылія</Form>
+        <Form Tag="GS">Сіцыліі</Form>
+        <Form Tag="DS">Сіцыліі</Form>
+        <Form Tag="AS">Сіцылію</Form>
+        <Form Tag="IS">Сіцыліяй</Form>
+        <Form Tag="LS">Сіцыліі</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -2478,75 +2688,19 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1022572" Lemma="Сёмуха" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/святы">
-        <Form Tag="NS">Сёмуха</Form>
-        <Form Tag="GS">Сёмухі</Form>
-        <Form Tag="DS">Сёмусе</Form>
-        <Form Tag="AS">Сёмуху</Form>
-        <Form Tag="IS">Сёмухай</Form>
-        <Form Tag="LS">Сёмусе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1022542" Lemma="Сіена" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Сіена</Form>
-        <Form Tag="GS">Сіены</Form>
-        <Form Tag="DS">Сіене</Form>
-        <Form Tag="AS">Сіену</Form>
-        <Form Tag="IS">Сіенай</Form>
-        <Form Tag="LS">Сіене</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1022544" Lemma="Сілезія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Сілезія</Form>
-        <Form Tag="GS">Сілезіі</Form>
-        <Form Tag="DS">Сілезіі</Form>
-        <Form Tag="AS">Сілезію</Form>
-        <Form Tag="IS">Сілезіяй</Form>
-        <Form Tag="LS">Сілезіі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1022562" Lemma="Сірыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Сірыя</Form>
-        <Form Tag="GS">Сірыі</Form>
-        <Form Tag="DS">Сірыі</Form>
-        <Form Tag="AS">Сірыю</Form>
-        <Form Tag="IS">Сірыяй</Form>
-        <Form Tag="LS">Сірыі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1022571" Lemma="Сіцылія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Сіцылія</Form>
-        <Form Tag="GS">Сіцыліі</Form>
-        <Form Tag="DS">Сіцыліі</Form>
-        <Form Tag="AS">Сіцылію</Form>
-        <Form Tag="IS">Сіцыліяй</Form>
-        <Form Tag="LS">Сіцыліі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
+    <Paradigm pdgId="1023435" Lemma="Таёта" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/арганізацыі;Імёны ўласныя/Таксаномія/гатункі, фірмы">
+        <Form Tag="NS">Таёта</Form>
+        <Form Tag="GS">Таёты</Form>
+        <Form Tag="DS">Таёце</Form>
+        <Form Tag="AS">Таёту</Form>
+        <Form Tag="IS">Таётай</Form>
+        <Form Tag="LS">Таёце</Form>
+        <Form Tag="NP">Таёты</Form>
+        <Form Tag="GP">Таётаў</Form>
+        <Form Tag="DP">Таётам</Form>
+        <Form Tag="AP">Таёты</Form>
+        <Form Tag="IP">Таётамі</Form>
+        <Form Tag="LP">Таётах</Form>
     </Paradigm>
     <Paradigm pdgId="1023488" Lemma="Танганьіка" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/лімнонімы;Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Танганьіка</Form>
@@ -2631,20 +2785,6 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1023435" Lemma="Таёта" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/арганізацыі;Імёны ўласныя/Таксаномія/гатункі, фірмы">
-        <Form Tag="NS">Таёта</Form>
-        <Form Tag="GS">Таёты</Form>
-        <Form Tag="DS">Таёце</Form>
-        <Form Tag="AS">Таёту</Form>
-        <Form Tag="IS">Таётай</Form>
-        <Form Tag="LS">Таёце</Form>
-        <Form Tag="NP">Таёты</Form>
-        <Form Tag="GP">Таётаў</Form>
-        <Form Tag="DP">Таётам</Form>
-        <Form Tag="AP">Таёты</Form>
-        <Form Tag="IP">Таётамі</Form>
-        <Form Tag="LP">Таётах</Form>
     </Paradigm>
     <Paradigm pdgId="1023421" Lemma="Таўрыда" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Таўрыда</Form>
@@ -3066,6 +3206,48 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
+    <Paradigm pdgId="1024242" Lemma="Філадэльфія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Філадэльфія</Form>
+        <Form Tag="GS">Філадэльфіі</Form>
+        <Form Tag="DS">Філадэльфіі</Form>
+        <Form Tag="AS">Філадэльфію</Form>
+        <Form Tag="IS">Філадэльфіяй</Form>
+        <Form Tag="LS">Філадэльфіі</Form>
+        <Form Tag="NP">Філадэльфіі</Form>
+        <Form Tag="GP">Філадэльфій</Form>
+        <Form Tag="DP">Філадэльфіям</Form>
+        <Form Tag="AP">Філадэльфіі</Form>
+        <Form Tag="IP">Філадэльфіямі</Form>
+        <Form Tag="LP">Філадэльфіях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1024259" Lemma="Фінікія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Фінікія</Form>
+        <Form Tag="GS">Фінікіі</Form>
+        <Form Tag="DS">Фінікіі</Form>
+        <Form Tag="AS">Фінікію</Form>
+        <Form Tag="IS">Фінікіяй</Form>
+        <Form Tag="LS">Фінікіі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1024265" Lemma="Фінляндыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Form Tag="NS">Фінляндыя</Form>
+        <Form Tag="GS">Фінляндыі</Form>
+        <Form Tag="DS">Фінляндыі</Form>
+        <Form Tag="AS">Фінляндыю</Form>
+        <Form Tag="IS">Фінляндыяй</Form>
+        <Form Tag="LS">Фінляндыі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1024458" Lemma="Фландрыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS">Фландрыя</Form>
         <Form Tag="GS">Фландрыі</Form>
@@ -3150,48 +3332,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1024242" Lemma="Філадэльфія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Філадэльфія</Form>
-        <Form Tag="GS">Філадэльфіі</Form>
-        <Form Tag="DS">Філадэльфіі</Form>
-        <Form Tag="AS">Філадэльфію</Form>
-        <Form Tag="IS">Філадэльфіяй</Form>
-        <Form Tag="LS">Філадэльфіі</Form>
-        <Form Tag="NP">Філадэльфіі</Form>
-        <Form Tag="GP">Філадэльфій</Form>
-        <Form Tag="DP">Філадэльфіям</Form>
-        <Form Tag="AP">Філадэльфіі</Form>
-        <Form Tag="IP">Філадэльфіямі</Form>
-        <Form Tag="LP">Філадэльфіях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1024265" Lemma="Фінляндыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Фінляндыя</Form>
-        <Form Tag="GS">Фінляндыі</Form>
-        <Form Tag="DS">Фінляндыі</Form>
-        <Form Tag="AS">Фінляндыю</Form>
-        <Form Tag="IS">Фінляндыяй</Form>
-        <Form Tag="LS">Фінляндыі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1024259" Lemma="Фінікія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Фінікія</Form>
-        <Form Tag="GS">Фінікіі</Form>
-        <Form Tag="DS">Фінікіі</Form>
-        <Form Tag="AS">Фінікію</Form>
-        <Form Tag="IS">Фінікіяй</Form>
-        <Form Tag="LS">Фінікіі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1024638" Lemma="Хайфа" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Хайфа</Form>
         <Form Tag="GS">Хайфы</Form>
@@ -3234,20 +3374,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1024717" Lemma="Хургада" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS">Хургада</Form>
-        <Form Tag="GS">Хургады</Form>
-        <Form Tag="DS">Хургадзе</Form>
-        <Form Tag="AS">Хургаду</Form>
-        <Form Tag="IS">Хургадай</Form>
-        <Form Tag="LS">Хургадзе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
     <Paradigm pdgId="1024629" Lemma="Хірасіма" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Хірасіма</Form>
         <Form Tag="GS">Хірасімы</Form>
@@ -3255,6 +3381,20 @@
         <Form Tag="AS">Хірасіму</Form>
         <Form Tag="IS">Хірасімай</Form>
         <Form Tag="LS">Хірасіме</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1024717" Lemma="Хургада" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS">Хургада</Form>
+        <Form Tag="GS">Хургады</Form>
+        <Form Tag="DS">Хургадзе</Form>
+        <Form Tag="AS">Хургаду</Form>
+        <Form Tag="IS">Хургадай</Form>
+        <Form Tag="LS">Хургадзе</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -3659,145 +3799,5 @@
         <Form Tag="AP">Японіі</Form>
         <Form Tag="IP">Японіямі</Form>
         <Form Tag="LP">Японіях</Form>
-    </Paradigm>
-    <Paradigm pdgId="1037398" Lemma="Іліяда" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/назвы твораў, праграм">
-        <Form Tag="NS">Іліяда</Form>
-        <Form Tag="GS">Іліяды</Form>
-        <Form Tag="DS">Іліядзе</Form>
-        <Form Tag="AS">Іліяду</Form>
-        <Form Tag="IS">Іліядай</Form>
-        <Form Tag="LS">Іліядзе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037402" Lemma="Інгушэція" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Інгушэція</Form>
-        <Form Tag="GS">Інгушэціі</Form>
-        <Form Tag="DS">Інгушэціі</Form>
-        <Form Tag="AS">Інгушэцію</Form>
-        <Form Tag="IS">Інгушэціяй</Form>
-        <Form Tag="LS">Інгушэціі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037403" Lemma="Інданэзія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Інданэзія</Form>
-        <Form Tag="GS">Інданэзіі</Form>
-        <Form Tag="DS">Інданэзіі</Form>
-        <Form Tag="AS">Інданэзію</Form>
-        <Form Tag="IS">Інданэзіяй</Form>
-        <Form Tag="LS">Інданэзіі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037404" Lemma="Індыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Індыя</Form>
-        <Form Tag="GS">Індыі</Form>
-        <Form Tag="DS">Індыі</Form>
-        <Form Tag="AS">Індыю</Form>
-        <Form Tag="IS">Індыяй</Form>
-        <Form Tag="LS">Індыі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037407" Lemma="Ірландыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Ірландыя</Form>
-        <Form Tag="GS">Ірландыі</Form>
-        <Form Tag="DS">Ірландыі</Form>
-        <Form Tag="AS">Ірландыю</Form>
-        <Form Tag="IS">Ірландыяй</Form>
-        <Form Tag="LS">Ірландыі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037409" Lemma="Ісландыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Ісландыя</Form>
-        <Form Tag="GS">Ісландыі</Form>
-        <Form Tag="DS">Ісландыі</Form>
-        <Form Tag="AS">Ісландыю</Form>
-        <Form Tag="IS">Ісландыяй</Form>
-        <Form Tag="LS">Ісландыі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037410" Lemma="Іспанія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Іспанія</Form>
-        <Form Tag="GS">Іспаніі</Form>
-        <Form Tag="DS">Іспаніі</Form>
-        <Form Tag="AS">Іспанію</Form>
-        <Form Tag="IS">Іспаніяй</Form>
-        <Form Tag="LS">Іспаніі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037411" Lemma="Італія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Італія</Form>
-        <Form Tag="GS">Італіі</Form>
-        <Form Tag="DS">Італіі</Form>
-        <Form Tag="AS">Італію</Form>
-        <Form Tag="IS">Італіяй</Form>
-        <Form Tag="LS">Італіі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037412" Lemma="Ічкерыя" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Ічкерыя</Form>
-        <Form Tag="GS">Ічкерыі</Form>
-        <Form Tag="DS">Ічкерыі</Form>
-        <Form Tag="AS">Ічкерыю</Form>
-        <Form Tag="IS">Ічкерыяй</Form>
-        <Form Tag="LS">Ічкерыі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1037413" Lemma="Іярданія" Tag="NPIXNF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Form Tag="NS">Іярданія</Form>
-        <Form Tag="GS">Іярданіі</Form>
-        <Form Tag="DS">Іярданіі</Form>
-        <Form Tag="AS">Іярданію</Form>
-        <Form Tag="IS">Іярданіяй</Form>
-        <Form Tag="LS">Іярданіі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
     </Paradigm>
 </Wordlist>

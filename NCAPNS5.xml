@@ -350,7 +350,7 @@
         <Form Tag="MLS">выбраным</Form>
         <Form Tag="FNS">выбраная</Form>
         <Form Tag="FGS">выбранай</Form>
-        <Form Tag="FGS" Tape="nonstandard">выбранае</Form>
+        <Form Tag="FGS" Type="nonstandard">выбранае</Form>
         <Form Tag="FDS">выбранай</Form>
         <Form Tag="FAS">выбраную</Form>
         <Form Tag="FIS">выбранай</Form>
@@ -1252,7 +1252,7 @@
         <Form Tag="MLS">пагарэлым</Form>
         <Form Tag="FNS">пагарэлая</Form>
         <Form Tag="FGS">пагарэлай</Form>
-        <Form Tag="FGS" Tape="nonstandard">пагарэлае</Form>
+        <Form Tag="FGS" Type="nonstandard">пагарэлае</Form>
         <Form Tag="FDS">пагарэлай</Form>
         <Form Tag="FAS">пагарэлую</Form>
         <Form Tag="FIS">пагарэлай</Form>
@@ -1274,7 +1274,7 @@
         <Form Tag="MLS">падапечным</Form>
         <Form Tag="FNS">падапечная</Form>
         <Form Tag="FGS">падапечнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падапечнае</Form>
+        <Form Tag="FGS" Type="nonstandard">падапечнае</Form>
         <Form Tag="FDS">падапечнай</Form>
         <Form Tag="FAS">падапечную</Form>
         <Form Tag="FIS">падапечнай</Form>
@@ -1296,7 +1296,7 @@
         <Form Tag="MLS">падарожным</Form>
         <Form Tag="FNS">падарожная</Form>
         <Form Tag="FGS">падарожнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падарожнае</Form>
+        <Form Tag="FGS" Type="nonstandard">падарожнае</Form>
         <Form Tag="FDS">падарожнай</Form>
         <Form Tag="FAS">падарожную</Form>
         <Form Tag="FIS">падарожнай</Form>
@@ -1318,7 +1318,7 @@
         <Form Tag="MLS">падданым</Form>
         <Form Tag="FNS">падданая</Form>
         <Form Tag="FGS">падданай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падданае</Form>
+        <Form Tag="FGS" Type="nonstandard">падданае</Form>
         <Form Tag="FDS">падданай</Form>
         <Form Tag="FAS">падданую</Form>
         <Form Tag="FIS">падданай</Form>
@@ -1382,7 +1382,7 @@
         <Form Tag="MLS">падручным</Form>
         <Form Tag="FNS">падручная</Form>
         <Form Tag="FGS">падручнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падручнае</Form>
+        <Form Tag="FGS" Type="nonstandard">падручнае</Form>
         <Form Tag="FDS">падручнай</Form>
         <Form Tag="FAS">падручную</Form>
         <Form Tag="FIS">падручнай</Form>
@@ -1404,7 +1404,7 @@
         <Form Tag="MLS">падследным</Form>
         <Form Tag="FNS">падследная</Form>
         <Form Tag="FGS">падследнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падследнае</Form>
+        <Form Tag="FGS" Type="nonstandard">падследнае</Form>
         <Form Tag="FDS">падследнай</Form>
         <Form Tag="FAS">падследную</Form>
         <Form Tag="FIS">падследнай</Form>
@@ -1474,7 +1474,7 @@
         <Form Tag="MLS">падсудным</Form>
         <Form Tag="FNS">падсудная</Form>
         <Form Tag="FGS">падсуднай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падсуднае</Form>
+        <Form Tag="FGS" Type="nonstandard">падсуднае</Form>
         <Form Tag="FDS">падсуднай</Form>
         <Form Tag="FAS">падсудную</Form>
         <Form Tag="FIS">падсуднай</Form>
@@ -1496,7 +1496,7 @@
         <Form Tag="MLS">падшэфным</Form>
         <Form Tag="FNS">падшэфная</Form>
         <Form Tag="FGS">падшэфнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">падшэфнае</Form>
+        <Form Tag="FGS" Type="nonstandard">падшэфнае</Form>
         <Form Tag="FDS">падшэфнай</Form>
         <Form Tag="FAS">падшэфную</Form>
         <Form Tag="FIS">падшэфнай</Form>
@@ -1518,7 +1518,7 @@
         <Form Tag="MLS">пажарным</Form>
         <Form Tag="FNS">пажарная</Form>
         <Form Tag="FGS">пажарнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">пажарнае</Form>
+        <Form Tag="FGS" Type="nonstandard">пажарнае</Form>
         <Form Tag="FDS">пажарнай</Form>
         <Form Tag="FAS">пажарную</Form>
         <Form Tag="FIS">пажарнай</Form>
@@ -1737,7 +1737,7 @@
         <Form Tag="MLS">паставым</Form>
         <Form Tag="FNS">паставая</Form>
         <Form Tag="FGS">паставой</Form>
-        <Form Tag="FGS" Tape="nonstandard">паставое</Form>
+        <Form Tag="FGS" Type="nonstandard">паставое</Form>
         <Form Tag="FDS">паставой</Form>
         <Form Tag="FAS">паставую</Form>
         <Form Tag="FIS">паставой</Form>
@@ -1759,7 +1759,7 @@
         <Form Tag="MLS">пасыльным</Form>
         <Form Tag="FNS">пасыльная</Form>
         <Form Tag="FGS">пасыльнай</Form>
-        <Form Tag="FGS" Tape="nonstandard">пасыльнае</Form>
+        <Form Tag="FGS" Type="nonstandard">пасыльнае</Form>
         <Form Tag="FDS">пасыльнай</Form>
         <Form Tag="FAS">пасыльную</Form>
         <Form Tag="FIS">пасыльнай</Form>
@@ -2678,7 +2678,7 @@
         <Form Tag="MLS">ультралевым</Form>
         <Form Tag="FNS">ультралевая</Form>
         <Form Tag="FGS">ультралевай</Form>
-        <Form Tag="FGS" Type="nonstandars">ультралевое</Form>
+        <Form Tag="FGS" Type="nonstandard">ультралевое</Form>
         <Form Tag="FDS">ультралевай</Form>
         <Form Tag="FAS">ультралевую</Form>
         <Form Tag="FIS">ультралевай</Form>

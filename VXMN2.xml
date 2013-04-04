@@ -2740,7 +2740,7 @@
         <Form Tag="PXPX" Checked="?vbdict_only?">графі´лі</Form>
         <Form Tag="I2S" Checked="?vbdict_only?">графі´</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">графі´це</Form>
-        <Form Tag="RG" Checked="?vbdict_only?">графлё´ны</Form>
+        <Form Tag="RG" Checked="?vbdict_only?"></Form>
     </Paradigm>
     <Paradigm pdgId="1109646" Lemma="грашы´ць" Tag="VXMN2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">грашы´ць</Form>
@@ -5504,7 +5504,7 @@
         <Form Tag="PXPX" Checked="?vbdict_only?">кляймі´лі</Form>
         <Form Tag="I2S" Checked="?vbdict_only?">кляймі´</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">кляймі´це</Form>
-        <Form Tag="RG" Checked="?vbdict_only?">кляймё´ны</Form>
+        <Form Tag="RG" Checked="?vbdict_only?"></Form>
     </Paradigm>
     <Paradigm pdgId="1113832" Lemma="кля´нчыць" Tag="VXMN2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">кля´нчыць</Form>
@@ -8008,7 +8008,7 @@
         <Form Tag="I2P" Checked="+">пага´ньце</Form>
         <Form Tag="RG" Checked="+">пага´нячы</Form>
     </Paradigm>
-    <Paradigm pdgId="1150538" Lemma="падвесялі´ць" Tag="VXMN2" Checked="?vbdict_only?">
+    <Paradigm pdgId="1150538" Lemma="падвесялі´ць" Tag="VXPN2" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">падвесялі´ць</Form>
         <Form Tag="R1S" Checked="?vbdict_only?">падвесялю´</Form>
         <Form Tag="R2S" Checked="?vbdict_only?">падвясе´ліш</Form>

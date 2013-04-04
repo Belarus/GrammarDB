@@ -9414,7 +9414,7 @@
         <Form Tag="PXPX" Checked="?vbdict_only?">прастытуі´раваліся</Form>
         <Form Tag="I2S" Checked="?vbdict_only?">прастытуі´руйся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">прастытуі´руйцеся</Form>
-        <Form Tag="PG"></Form>
+        <Form Tag="PG" Type="potential">прастытуі´раваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1158955" Lemma="прася´кнуцца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">прася´кнуцца</Form>
@@ -11660,7 +11660,7 @@
         <Form Tag="PXPX" Checked="?vbdict_only?">сані´раваліся</Form>
         <Form Tag="I2S" Checked="?vbdict_only?">сані´руйся</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">сані´руйцеся</Form>
-        <Form Tag="PG"></Form>
+        <Form Tag="PG" Type="potential">сані´раваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159095" Lemma="сапсу´цца" Tag="VXPR1" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">сапсу´цца</Form>

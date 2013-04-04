@@ -26310,7 +26310,7 @@
         <Form Tag="PXPX" Checked="+">зва´ліся</Form>
         <Form Tag="I2S" Checked="+">заві´ся</Form>
         <Form Tag="I2P" Checked="+">заві´цеся</Form>
-        <Form Tag="RG" Checked="+">зва´ўшыся</Form>
+        <Form Tag="RG" Type="potential">завучы´ся</Form>
     </Paradigm>
     <Paradigm pdgId="1112753" Lemma="звёрствацца" Tag="VIMR1" Govern="">
         <Form Tag="0">звёрствацца</Form>
@@ -44421,7 +44421,7 @@
         <Form Tag="PXPX" Checked="+">пе´рліся</Form>
         <Form Tag="I2S" Checked="+">пры´ся</Form>
         <Form Tag="I2P" Checked="+">пры´цеся</Form>
-        <Form Tag="RG" Checked="+">пё´ршыся</Form>
+        <Form Tag="RG" Type="potential">пру´чыся</Form>
     </Paradigm>
     <Paradigm pdgId="1120101" Lemma="пёрціся" Tag="VIMR1" Govern="">
         <Form Tag="0">пёрціся</Form>

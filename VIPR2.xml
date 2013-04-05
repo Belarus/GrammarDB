@@ -28202,18 +28202,18 @@
     </Paradigm>
     <Paradigm pdgId="1122352" Lemma="разрадзіцца" Tag="VIPR2" Govern="">
         <Form Tag="0">разрадзіцца</Form>
-        <Form Tag="F1S">разраджуся</Form>
-        <Form Tag="F2S">разрадзішся</Form>
+        <Form Tag="F1S" Type="potential">разраджуся</Form>
+        <Form Tag="F2S" Type="potential">разрадзішся</Form>
         <Form Tag="F3S">разрадзіцца</Form>
-        <Form Tag="F1P">разрадзімся</Form>
-        <Form Tag="F2P">разрадзіцеся</Form>
+        <Form Tag="F1P" Type="potential">разрадзімся</Form>
+        <Form Tag="F2P" Type="potential">разрадзіцеся</Form>
         <Form Tag="F3P">разрадзяцца</Form>
         <Form Tag="PXSM">разрадзіўся</Form>
         <Form Tag="PXSF">разрадзілася</Form>
         <Form Tag="PXSN">разрадзілася</Form>
         <Form Tag="PXPX">разрадзіліся</Form>
-        <Form Tag="I2S">разрадзіся</Form>
-        <Form Tag="I2P">разрадзіцеся</Form>
+        <Form Tag="I2S" Type="potential">разрадзіся</Form>
+        <Form Tag="I2P" Type="potential">разрадзіцеся</Form>
         <Form Tag="PG">разрадзіўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1122361" Lemma="разрадзіцца" Tag="VIPR2" Govern="">

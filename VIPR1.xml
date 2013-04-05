@@ -49,7 +49,7 @@
         <Form Tag="I2P" Checked="+">аб'ядна´йцеся</Form>
         <Form Tag="PG" Checked="+">аб'ядна´ўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1104820" Lemma="аба´біцца" Tag="VIPR1" Govern="" Checked="+">
+    <Paradigm pdgId="1104820" Lemma="аба´біцца" Tag="VIPR2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">аба´біцца</Form>
         <Form Tag="F1S" Checked="+">аба´блюся</Form>
         <Form Tag="F2S" Checked="+">аба´бішся</Form>
@@ -2465,7 +2465,7 @@
         <Form Tag="I2P">абылжыцеся</Form>
         <Form Tag="PG">абылгаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1105774" Lemma="абылгацца" Tag="VIPR1" Govern="">
+    <Paradigm pdgId="1105774" Lemma="абылгацца" Tag="VIPR1" Type="nonstandard" Govern="">
         <Form Tag="0">абылгацца</Form>
         <Form Tag="F1S">абылгаюся</Form>
         <Form Tag="F2S">абылгаешся</Form>
@@ -15484,7 +15484,7 @@
         <Form Tag="I2P">задзяўбіцеся</Form>
         <Form Tag="PG">задзяўбаўшыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1111168" Lemma="задзяўбацца" Tag="VIPR1" Govern="">
+    <Paradigm pdgId="1111168" Lemma="задзяўбацца" Tag="VIPR1" Type="nonstandard" Govern="">
         <Form Tag="0">задзяўбацца</Form>
         <Form Tag="F1S">задзяўбаюся</Form>
         <Form Tag="F2S">задзяўбаешся</Form>
@@ -24196,36 +24196,20 @@
         <Form Tag="PG">мінімізаваўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114171" Lemma="мінуцца" Tag="VIPR1" Govern="">
-        <Form Tag="0">мінуцца</Form>
-        <Form Tag="F1S">мінуся</Form>
-        <Form Tag="F2S">мінешся</Form>
+        <Form Tag="0" Type="potential">мінуцца</Form>
+        <Form Tag="F1S" Type="potential">мінуся</Form>
+        <Form Tag="F2S" Type="potential">мінешся</Form>
         <Form Tag="F3S">мінецца</Form>
-        <Form Tag="F1P">мінемся</Form>
-        <Form Tag="F2P">мінецеся</Form>
+        <Form Tag="F1P" Type="potential">мінемся</Form>
+        <Form Tag="F2P" Type="potential">мінецеся</Form>
         <Form Tag="F3P">мінуцца</Form>
         <Form Tag="PXSM">мінуўся</Form>
         <Form Tag="PXSF">мінулася</Form>
         <Form Tag="PXSN">мінулася</Form>
         <Form Tag="PXPX">мінуліся</Form>
-        <Form Tag="I2S">мініся</Form>
-        <Form Tag="I2P">мініцеся</Form>
-        <Form Tag="PG">мінуўшыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1114178" Lemma="мінуцца" Tag="VIPR1" Govern="">
-        <Form Tag="0">мінуцца</Form>
-        <Form Tag="F1S">мінуюся</Form>
-        <Form Tag="F2S">мінуешся</Form>
-        <Form Tag="F3S">мінуецца</Form>
-        <Form Tag="F1P">мінуемся</Form>
-        <Form Tag="F2P">мінуецеся</Form>
-        <Form Tag="F3P">мінуюцца</Form>
-        <Form Tag="PXSM">мінуўся</Form>
-        <Form Tag="PXSF">мінулася</Form>
-        <Form Tag="PXSN">мінулася</Form>
-        <Form Tag="PXPX">мінуліся</Form>
-        <Form Tag="I2S">мінуйся</Form>
-        <Form Tag="I2P">мінуйцеся</Form>
-        <Form Tag="PG">мінуўшыся</Form>
+        <Form Tag="I2S" Type="potential">мініся</Form>
+        <Form Tag="I2P" Type="potential">мініцеся</Form>
+        <Form Tag="PG" Type="potential">мінуўшыся</Form>
     </Paradigm>
     <Paradigm pdgId="1159847" Lemma="мультыплікавацца" Tag="VIPR1" Govern="">
         <Form Tag="0">мультыплікавацца</Form>

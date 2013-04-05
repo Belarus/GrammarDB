@@ -336,7 +336,7 @@
         <Form Tag="I2P" Checked="+">баламу´цьце</Form>
         <Form Tag="RG" Checked="+">баламу´цячы</Form>
     </Paradigm>
-    <Paradigm pdgId="1107729" Lemma="балець" Tag="VXMN2" Govern="">
+    <Paradigm pdgId="1107729" Lemma="балець" Tag="VXMN1" Govern="">
         <Form Tag="0">балець</Form>
         <Form Tag="R1S">балею</Form>
         <Form Tag="R2S">балееш</Form>
@@ -8010,19 +8010,19 @@
     </Paradigm>
     <Paradigm pdgId="1150538" Lemma="падвесялі´ць" Tag="VXPN2" Checked="?vbdict_only?">
         <Form Tag="0" Checked="?vbdict_only?">падвесялі´ць</Form>
-        <Form Tag="R1S" Checked="?vbdict_only?">падвесялю´</Form>
-        <Form Tag="R2S" Checked="?vbdict_only?">падвясе´ліш</Form>
-        <Form Tag="R3S" Checked="?vbdict_only?">падвясе´ліць</Form>
-        <Form Tag="R1P" Checked="?vbdict_only?">падвясе´лім</Form>
-        <Form Tag="R2P" Checked="?vbdict_only?">падвясе´ліце</Form>
-        <Form Tag="R3P" Checked="?vbdict_only?">падвясе´ляць</Form>
+        <Form Tag="F1S" Checked="?vbdict_only?">падвесялю´</Form>
+        <Form Tag="F2S" Checked="?vbdict_only?">падвясе´ліш</Form>
+        <Form Tag="F3S" Checked="?vbdict_only?">падвясе´ліць</Form>
+        <Form Tag="F1P" Checked="?vbdict_only?">падвясе´лім</Form>
+        <Form Tag="F2P" Checked="?vbdict_only?">падвясе´ліце</Form>
+        <Form Tag="F3P" Checked="?vbdict_only?">падвясе´ляць</Form>
         <Form Tag="PXSM" Checked="?vbdict_only?">падвесялі´ў</Form>
         <Form Tag="PXSF" Checked="?vbdict_only?">падвесялі´ла</Form>
         <Form Tag="PXSN">падвесялі´ла</Form>
         <Form Tag="PXPX" Checked="?vbdict_only?">падвесялі´лі</Form>
         <Form Tag="I2S" Checked="?vbdict_only?">падвесялі´</Form>
         <Form Tag="I2P" Checked="?vbdict_only?">падвесялі´це</Form>
-        <Form Tag="RG" Checked="?vbdict_only?">падвесялі´ўшы</Form>
+        <Form Tag="PG" Checked="?vbdict_only?">падвесялі´ўшы</Form>
     </Paradigm>
     <Paradigm pdgId="1116442" Lemma="падво´дзіць" Tag="VXMN2" Govern="" Checked="+">
         <Form Tag="0" Checked="+">падво´дзіць</Form>
@@ -8344,7 +8344,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">пасту´шце</Form>
         <Form Tag="RG" Checked="?vbdict_only?">пасту´шачы</Form>
     </Paradigm>
-    <Paradigm pdgId="1118326" Lemma="па´сціць" Tag="VXMN2" Govern="" Checked="+">
+    <Paradigm pdgId="1118326" Lemma="па´сціць" Tag="VXMN1" Govern="" Checked="+">
         <Form Tag="0" Checked="+">па´сціць</Form>
         <Form Tag="R1S" Checked="+">пасу´</Form>
         <Form Tag="R2S" Checked="+">пасе´ш</Form>
@@ -8911,22 +8911,6 @@
         <Form Tag="RG" Checked="+">право´зячы</Form>
     </Paradigm>
     <Paradigm pdgId="1120330" Lemma="прадбачыць" Tag="VXMN2" Govern="">
-        <Form Tag="0">прадбачыць</Form>
-        <Form Tag="R1S">прадбачу</Form>
-        <Form Tag="R2S">прадбачыш</Form>
-        <Form Tag="R3S">прадбачыць</Form>
-        <Form Tag="R1P">прадбачым</Form>
-        <Form Tag="R2P">прадбачыце</Form>
-        <Form Tag="R3P">прадбачаць</Form>
-        <Form Tag="PXSM">прадбачыў</Form>
-        <Form Tag="PXSF">прадбачыла</Form>
-        <Form Tag="PXSN">прадбачыла</Form>
-        <Form Tag="PXPX">прадбачылі</Form>
-        <Form Tag="I2S">прадбач</Form>
-        <Form Tag="I2P">прадбачце</Form>
-        <Form Tag="RG">прадбачачы</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160573" Lemma="прадбачыць" Tag="VXMN2">
         <Form Tag="0">прадбачыць</Form>
         <Form Tag="R1S">прадбачу</Form>
         <Form Tag="R2S">прадбачыш</Form>

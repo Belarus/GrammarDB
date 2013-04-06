@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1104916" Lemma="абвінава´чваць" Tag="VDMN1" Govern="+A+у(ў)+L, +A+за+A" Checked="+">
+    <Paradigm pdgId="1104916" Lemma="абвінава´чваць" Tag="VDMN1" Govern="+A+у(ў)+L, +A+за+A" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвінава´чваць</Form>
         <Form Tag="R1S" Checked="+">абвінава´чваю</Form>
         <Form Tag="R2S" Checked="+">абвінава´чваеш</Form>
@@ -16,23 +16,23 @@
         <Form Tag="I2P" Checked="+">абвінава´чвайце</Form>
         <Form Tag="RG" Checked="+">абвінава´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105256" Lemma="абліпаць" Tag="VDMN1" Govern="">
-        <Form Tag="0">абліпаць</Form>
-        <Form Tag="R1S">абліпаю</Form>
-        <Form Tag="R2S">абліпаеш</Form>
-        <Form Tag="R3S">абліпае</Form>
-        <Form Tag="R1P">абліпаем</Form>
-        <Form Tag="R2P">абліпаеце</Form>
-        <Form Tag="R3P">абліпаюць</Form>
-        <Form Tag="PXSM">абліпаў</Form>
-        <Form Tag="PXSF">абліпала</Form>
-        <Form Tag="PXSN">абліпала</Form>
-        <Form Tag="PXPX">абліпалі</Form>
-        <Form Tag="I2S">абліпай</Form>
-        <Form Tag="I2P">абліпайце</Form>
-        <Form Tag="RG">абліпаючы</Form>
+    <Paradigm pdgId="1105256" Lemma="абліпа´ць" Tag="VDMN1" Govern="" Slouniki="dzsl">
+        <Form Tag="0">абліпа´ць</Form>
+        <Form Tag="R1S" Type="potential">абліпаю</Form>
+        <Form Tag="R2S" Type="potential">абліпаеш</Form>
+        <Form Tag="R3S">абліпа´е</Form>
+        <Form Tag="R1P" Type="potential">абліпаем</Form>
+        <Form Tag="R2P" Type="potential">абліпаеце</Form>
+        <Form Tag="R3P">абліпа´юць</Form>
+        <Form Tag="PXSM">абліпа´ў</Form>
+        <Form Tag="PXSF">абліпа´ла</Form>
+        <Form Tag="PXSN">абліпа´ла</Form>
+        <Form Tag="PXPX">абліпа´лі</Form>
+        <Form Tag="I2S" Type="potential">абліпай</Form>
+        <Form Tag="I2P" Type="potential">абліпайце</Form>
+        <Form Tag="RG" Type="potential">абліпаючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105828" Lemma="абяца´ць" Tag="VDMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105828" Lemma="абяца´ць" Tag="VDMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абяца´ць</Form>
         <Form Tag="R1S" Checked="+">абяца´ю</Form>
         <Form Tag="R2S" Checked="+">абяца´еш</Form>
@@ -48,7 +48,7 @@
         <Form Tag="I2P" Checked="+">абяца´йце</Form>
         <Form Tag="RG" Checked="+">абяца´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104636" Lemma="імправізава´ць" Tag="VDMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104636" Lemma="імправізава´ць" Tag="VDMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">імправізава´ць</Form>
         <Form Tag="R1S" Checked="+">імправізу´ю</Form>
         <Form Tag="R2S" Checked="+">імправізу´еш</Form>
@@ -64,7 +64,7 @@
         <Form Tag="I2P" Checked="+">імправізу´йце</Form>
         <Form Tag="RG" Checked="+">імправізу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104710" Lemma="інтрыгава´ць" Tag="VDMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104710" Lemma="інтрыгава´ць" Tag="VDMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інтрыгава´ць</Form>
         <Form Tag="R1S" Checked="+">інтрыгу´ю</Form>
         <Form Tag="R2S" Checked="+">інтрыгу´еш</Form>

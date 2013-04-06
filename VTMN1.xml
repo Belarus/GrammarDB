@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1104801" Lemma="аб'ектываваць" Tag="VTMN1" Govern="">
-        <Form Tag="0">аб'ектываваць</Form>
-        <Form Tag="R1S">аб'ектывую</Form>
-        <Form Tag="R2S">аб'ектывуеш</Form>
-        <Form Tag="R3S">аб'ектывуе</Form>
-        <Form Tag="R1P">аб'ектывуем</Form>
-        <Form Tag="R2P">аб'ектывуеце</Form>
-        <Form Tag="R3P">аб'ектывуюць</Form>
-        <Form Tag="PXSM">аб'ектываваў</Form>
-        <Form Tag="PXSF">аб'ектывавала</Form>
-        <Form Tag="PXSN">аб'ектывавала</Form>
-        <Form Tag="PXPX">аб'ектывавалі</Form>
-        <Form Tag="I2S">аб'ектывуй</Form>
-        <Form Tag="I2P">аб'ектывуйце</Form>
-        <Form Tag="RG">аб'ектывуючы</Form>
+    <Paradigm pdgId="1104801" Lemma="аб'ектывава´ць" Tag="VTMN1" Govern="" Slouniki="dzsl">
+        <Form Tag="0">аб'ектывава´ць</Form>
+        <Form Tag="R1S">аб'ектыву´ю</Form>
+        <Form Tag="R2S">аб'ектыву´еш</Form>
+        <Form Tag="R3S">аб'ектыву´е</Form>
+        <Form Tag="R1P">аб'ектыву´ем</Form>
+        <Form Tag="R2P">аб'ектыву´еце</Form>
+        <Form Tag="R3P">аб'ектыву´юць</Form>
+        <Form Tag="PXSM">аб'ектывава´ў</Form>
+        <Form Tag="PXSF">аб'ектывава´ла</Form>
+        <Form Tag="PXSN">аб'ектывава´ла</Form>
+        <Form Tag="PXPX">аб'ектывава´лі</Form>
+        <Form Tag="I2S" Type="potential">аб'ектывуй</Form>
+        <Form Tag="I2P" Type="potential">аб'ектывуйце</Form>
+        <Form Tag="RG">аб'ектыву´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104807" Lemma="аб'яда´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104807" Lemma="аб'яда´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аб'яда´ць</Form>
         <Form Tag="R1S" Checked="+">аб'яда´ю</Form>
         <Form Tag="R2S" Checked="+">аб'яда´еш</Form>
@@ -32,7 +32,7 @@
         <Form Tag="I2P" Checked="+">аб'яда´йце</Form>
         <Form Tag="RG" Checked="+">аб'яда´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104811" Lemma="аб'ядно´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104811" Lemma="аб'ядно´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аб'ядно´ўваць</Form>
         <Form Tag="R1S" Checked="+">аб'ядно´ўваю</Form>
         <Form Tag="R2S" Checked="+">аб'ядно´ўваеш</Form>
@@ -48,7 +48,7 @@
         <Form Tag="I2P" Checked="+">аб'ядно´ўвайце</Form>
         <Form Tag="RG" Checked="+">аб'ядно´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104813" Lemma="аб'язджа´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104813" Lemma="аб'язджа´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аб'язджа´ць</Form>
         <Form Tag="R1S" Checked="+">аб'язджа´ю</Form>
         <Form Tag="R2S" Checked="+">аб'язджа´еш</Form>
@@ -64,7 +64,7 @@
         <Form Tag="I2P" Checked="+">аб'язджа´йце</Form>
         <Form Tag="RG" Checked="+">аб'язджа´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104803" Lemma="аб'яўля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104803" Lemma="аб'яўля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аб'яўля´ць</Form>
         <Form Tag="R1S" Checked="+">аб'яўля´ю</Form>
         <Form Tag="R2S" Checked="+">аб'яўля´еш</Form>
@@ -80,7 +80,7 @@
         <Form Tag="I2P" Checked="+">аб'яўля´йце</Form>
         <Form Tag="RG" Checked="+">аб'яўля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104827" Lemma="абавя´зваць" Tag="VTMN1" Govern="+A+да+G; +A+на+A" Checked="+">
+    <Paradigm pdgId="1104827" Lemma="абавя´зваць" Tag="VTMN1" Govern="+A+да+G; +A+на+A" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абавя´зваць</Form>
         <Form Tag="R1S" Checked="+">абавя´зваю</Form>
         <Form Tag="R2S" Checked="+">абавя´зваеш</Form>
@@ -96,7 +96,7 @@
         <Form Tag="I2P" Checked="+">абавя´звайце</Form>
         <Form Tag="RG" Checked="+">абавя´зваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104829" Lemma="абагаўля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104829" Lemma="абагаўля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абагаўля´ць</Form>
         <Form Tag="R1S" Checked="+">абагаўля´ю</Form>
         <Form Tag="R2S" Checked="+">абагаўля´еш</Form>
@@ -112,7 +112,7 @@
         <Form Tag="I2P" Checked="+">абагаўля´йце</Form>
         <Form Tag="RG" Checked="+">абагаўля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104835" Lemma="абагача´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104835" Lemma="абагача´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абагача´ць</Form>
         <Form Tag="R1S" Checked="+">абагача´ю</Form>
         <Form Tag="R2S" Checked="+">абагача´еш</Form>
@@ -128,7 +128,7 @@
         <Form Tag="I2P" Checked="+">абагача´йце</Form>
         <Form Tag="RG" Checked="+">абагача´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104837" Lemma="абаграва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104837" Lemma="абаграва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абаграва´ць</Form>
         <Form Tag="R1S" Checked="+">абаграва´ю</Form>
         <Form Tag="R2S" Checked="+">абаграва´еш</Form>
@@ -144,7 +144,7 @@
         <Form Tag="I2P" Checked="+">абаграва´йце</Form>
         <Form Tag="RG" Checked="+">абаграва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104843" Lemma="абагу´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104843" Lemma="абагу´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абагу´льваць</Form>
         <Form Tag="R1S" Checked="+">абагу´льваю</Form>
         <Form Tag="R2S" Checked="+">абагу´льваеш</Form>
@@ -160,7 +160,7 @@
         <Form Tag="I2P" Checked="+">абагу´львайце</Form>
         <Form Tag="RG" Checked="+">абагу´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104847" Lemma="абагульня´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104847" Lemma="абагульня´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абагульня´ць</Form>
         <Form Tag="R1S" Checked="+">абагульня´ю</Form>
         <Form Tag="R2S" Checked="+">абагульня´еш</Form>
@@ -192,7 +192,7 @@
         <Form Tag="I2P">абажайце</Form>
         <Form Tag="RG">абажаючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104857" Lemma="абазнача´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104857" Lemma="абазнача´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абазнача´ць</Form>
         <Form Tag="R1S" Checked="+">абазнача´ю</Form>
         <Form Tag="R2S" Checked="+">абазнача´еш</Form>
@@ -208,7 +208,7 @@
         <Form Tag="I2P" Checked="+">абазнача´йце</Form>
         <Form Tag="RG" Checked="+">абазнача´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104861" Lemma="абалва´ньваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104861" Lemma="абалва´ньваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абалва´ньваць</Form>
         <Form Tag="R1S" Checked="+">абалва´ньваю</Form>
         <Form Tag="R2S" Checked="+">абалва´ньваеш</Form>
@@ -240,7 +240,7 @@
         <Form Tag="I2P">абануйце</Form>
         <Form Tag="RG">абануючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104870" Lemma="абапіра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104870" Lemma="абапіра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абапіра´ць</Form>
         <Form Tag="R1S" Checked="+">абапіра´ю</Form>
         <Form Tag="R2S" Checked="+">абапіра´еш</Form>
@@ -256,7 +256,7 @@
         <Form Tag="I2P" Checked="+">абапіра´йце</Form>
         <Form Tag="RG" Checked="+">абапіра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104879" Lemma="абараня´ць" Tag="VTMN1" Govern="+A+ад+G" Checked="+">
+    <Paradigm pdgId="1104879" Lemma="абараня´ць" Tag="VTMN1" Govern="+A+ад+G" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абараня´ць</Form>
         <Form Tag="R1S" Checked="+">абараня´ю</Form>
         <Form Tag="R2S" Checked="+">абараня´еш</Form>
@@ -272,7 +272,7 @@
         <Form Tag="I2P" Checked="+">абараня´йце</Form>
         <Form Tag="RG" Checked="+">абараня´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104881" Lemma="абарача´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104881" Lemma="абарача´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абарача´ць</Form>
         <Form Tag="R1S" Checked="+">абарача´ю</Form>
         <Form Tag="R2S" Checked="+">абарача´еш</Form>
@@ -288,7 +288,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абарача´йце</Form>
         <Form Tag="RG" Checked="+">абарача´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104890" Lemma="абаро´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104890" Lemma="абаро´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абаро´чваць</Form>
         <Form Tag="R1S" Checked="+">абаро´чваю</Form>
         <Form Tag="R2S" Checked="+">абаро´чваеш</Form>
@@ -304,7 +304,7 @@
         <Form Tag="I2P" Checked="+">абаро´чвайце</Form>
         <Form Tag="RG" Checked="+">абаро´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104894" Lemma="аббудо´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104894" Lemma="аббудо´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аббудо´ўваць</Form>
         <Form Tag="R1S" Checked="+">аббудо´ўваю</Form>
         <Form Tag="R2S" Checked="+">аббудо´ўваеш</Form>
@@ -320,7 +320,7 @@
         <Form Tag="I2P" Checked="+">аббудо´ўвайце</Form>
         <Form Tag="RG" Checked="+">аббудо´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104900" Lemma="аббэ´рсваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104900" Lemma="аббэ´рсваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аббэ´рсваць</Form>
         <Form Tag="R1S" Checked="+">аббэ´рсваю</Form>
         <Form Tag="R2S" Checked="+">аббэ´рсваеш</Form>
@@ -336,7 +336,7 @@
         <Form Tag="I2P" Checked="+">аббэ´рсвайце</Form>
         <Form Tag="RG" Checked="+">аббэ´рсваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104906" Lemma="аббяга´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104906" Lemma="аббяга´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аббяга´ць</Form>
         <Form Tag="R1S" Checked="+">аббяга´ю</Form>
         <Form Tag="R2S" Checked="+">аббяга´еш</Form>
@@ -352,7 +352,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">аббяга´йце</Form>
         <Form Tag="RG" Checked="+">аббяга´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104923" Lemma="абвадня´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104923" Lemma="абвадня´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвадня´ць</Form>
         <Form Tag="R1S" Checked="+">абвадня´ю</Form>
         <Form Tag="R2S" Checked="+">абвадня´еш</Form>
@@ -368,7 +368,7 @@
         <Form Tag="I2P" Checked="+">абвадня´йце</Form>
         <Form Tag="RG" Checked="+">абвадня´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104931" Lemma="абвало´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104931" Lemma="абвало´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвало´ўваць</Form>
         <Form Tag="R1S" Checked="+">абвало´ўваю</Form>
         <Form Tag="R2S" Checked="+">абвало´ўваеш</Form>
@@ -384,7 +384,7 @@
         <Form Tag="I2P" Checked="+">абвало´ўвайце</Form>
         <Form Tag="RG" Checked="+">абвало´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104935" Lemma="абва´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104935" Lemma="абва´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абва´льваць</Form>
         <Form Tag="R1S" Checked="+">абва´льваю</Form>
         <Form Tag="R2S" Checked="+">абва´льваеш</Form>
@@ -400,7 +400,7 @@
         <Form Tag="I2P" Checked="+">абва´львайце</Form>
         <Form Tag="RG" Checked="+">абва´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104939" Lemma="абва´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104939" Lemma="абва´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абва´рваць</Form>
         <Form Tag="R1S" Checked="+">абва´рваю</Form>
         <Form Tag="R2S" Checked="+">абва´рваеш</Form>
@@ -416,7 +416,7 @@
         <Form Tag="I2P" Checked="+">абва´рвайце</Form>
         <Form Tag="RG" Checked="+">абва´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104943" Lemma="абвастра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104943" Lemma="абвастра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвастра´ць</Form>
         <Form Tag="R1S" Checked="+">абвастра´ю</Form>
         <Form Tag="R2S" Checked="+">абвастра´еш</Form>
@@ -432,7 +432,7 @@
         <Form Tag="I2P" Checked="+">абвастра´йце</Form>
         <Form Tag="RG" Checked="+">абвастра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104950" Lemma="абве´йваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104950" Lemma="абве´йваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абве´йваць</Form>
         <Form Tag="R1S" Checked="+">абве´йваю</Form>
         <Form Tag="R2S" Checked="+">абве´йваеш</Form>
@@ -448,7 +448,7 @@
         <Form Tag="I2P" Checked="+">абве´йвайце</Form>
         <Form Tag="RG" Checked="+">абве´йваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104956" Lemma="абве´трываць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104956" Lemma="абве´трываць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абве´трываць</Form>
         <Form Tag="R1S" Checked="+">абве´трываю</Form>
         <Form Tag="R2S" Checked="+">абве´трываеш</Form>
@@ -464,7 +464,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абве´трывайце</Form>
         <Form Tag="RG" Checked="+">абве´трываючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104910" Lemma="абвіва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104910" Lemma="абвіва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвіва´ць</Form>
         <Form Tag="R1S" Checked="+">абвіва´ю</Form>
         <Form Tag="R2S" Checked="+">абвіва´еш</Form>
@@ -480,7 +480,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абвіва´йце</Form>
         <Form Tag="RG" Checked="+">абвіва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104964" Lemma="абво´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104964" Lemma="абво´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абво´рваць</Form>
         <Form Tag="R1S" Checked="+">абво´рваю</Form>
         <Form Tag="R2S" Checked="+">абво´рваеш</Form>
@@ -496,7 +496,7 @@
         <Form Tag="I2P" Checked="+">абво´рвайце</Form>
         <Form Tag="RG" Checked="+">абво´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104976" Lemma="абвява´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104976" Lemma="абвява´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвява´ць</Form>
         <Form Tag="R1S" Checked="+">абвява´ю</Form>
         <Form Tag="R2S" Checked="+">абвява´еш</Form>
@@ -512,7 +512,7 @@
         <Form Tag="I2P" Checked="+">абвява´йце</Form>
         <Form Tag="RG" Checked="+">абвява´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104980" Lemma="абвя´зваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104980" Lemma="абвя´зваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвя´зваць</Form>
         <Form Tag="R1S" Checked="+">абвя´зваю</Form>
         <Form Tag="R2S" Checked="+">абвя´зваеш</Form>
@@ -528,7 +528,7 @@
         <Form Tag="I2P" Checked="+">абвя´звайце</Form>
         <Form Tag="RG" Checked="+">абвя´зваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104984" Lemma="абвя´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104984" Lemma="абвя´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвя´льваць</Form>
         <Form Tag="R1S" Checked="+">абвя´льваю</Form>
         <Form Tag="R2S" Checked="+">абвя´льваеш</Form>
@@ -544,7 +544,7 @@
         <Form Tag="I2P" Checked="+">абвя´львайце</Form>
         <Form Tag="RG" Checked="+">абвя´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104990" Lemma="абвярга´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104990" Lemma="абвярга´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвярга´ць</Form>
         <Form Tag="R1S" Checked="+">абвярга´ю</Form>
         <Form Tag="R2S" Checked="+">абвярга´еш</Form>
@@ -560,7 +560,7 @@
         <Form Tag="I2P" Checked="+">абвярга´йце</Form>
         <Form Tag="RG" Checked="+">абвярга´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104994" Lemma="абвяшча´ць" Tag="VTMN1" Govern="+D+A, +D+аб+I, +D+пра+A" Checked="+">
+    <Paradigm pdgId="1104994" Lemma="абвяшча´ць" Tag="VTMN1" Govern="+D+A, +D+аб+I, +D+пра+A" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абвяшча´ць</Form>
         <Form Tag="R1S" Checked="+">абвяшча´ю</Form>
         <Form Tag="R2S" Checked="+">абвяшча´еш</Form>
@@ -576,7 +576,7 @@
         <Form Tag="I2P" Checked="+">абвяшча´йце</Form>
         <Form Tag="RG" Checked="+">абвяшча´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105000" Lemma="абгаблё´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105000" Lemma="абгаблё´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгаблё´ўваць</Form>
         <Form Tag="R1S" Checked="+">абгаблё´ўваю</Form>
         <Form Tag="R2S" Checked="+">абгаблё´ўваеш</Form>
@@ -592,7 +592,7 @@
         <Form Tag="I2P" Checked="+">абгаблё´ўвайце</Form>
         <Form Tag="RG" Checked="+">абгаблё´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105004" Lemma="абгаво´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105004" Lemma="абгаво´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгаво´рваць</Form>
         <Form Tag="R1S" Checked="+">абгаво´рваю</Form>
         <Form Tag="R2S" Checked="+">абгаво´рваеш</Form>
@@ -608,7 +608,7 @@
         <Form Tag="I2P" Checked="+">абгаво´рвайце</Form>
         <Form Tag="RG" Checked="+">абгаво´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105008" Lemma="абга´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105008" Lemma="абга´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абга´джваць</Form>
         <Form Tag="R1S" Checked="+">абга´джваю</Form>
         <Form Tag="R2S" Checked="+">абга´джваеш</Form>
@@ -624,7 +624,7 @@
         <Form Tag="I2P" Checked="+">абга´джвайце</Form>
         <Form Tag="RG" Checked="+">абга´джваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105010" Lemma="абганя´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105010" Lemma="абганя´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абганя´ць</Form>
         <Form Tag="R1S" Checked="+">абганя´ю</Form>
         <Form Tag="R2S" Checked="+">абганя´еш</Form>
@@ -640,7 +640,7 @@
         <Form Tag="I2P" Checked="+">абганя´йце</Form>
         <Form Tag="RG" Checked="+">абганя´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105016" Lemma="абгаро´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105016" Lemma="абгаро´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгаро´джваць</Form>
         <Form Tag="R1S" Checked="+">абгаро´джваю</Form>
         <Form Tag="R2S" Checked="+">абгаро´джваеш</Form>
@@ -656,7 +656,7 @@
         <Form Tag="I2P" Checked="+">абгаро´джвайце</Form>
         <Form Tag="RG" Checked="+">абгаро´джваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104998" Lemma="абгіна´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104998" Lemma="абгіна´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгіна´ць</Form>
         <Form Tag="R1S" Checked="+">абгіна´ю</Form>
         <Form Tag="R2S" Checked="+">абгіна´еш</Form>
@@ -672,7 +672,7 @@
         <Form Tag="I2P" Checked="+">абгіна´йце</Form>
         <Form Tag="RG" Checked="+">абгіна´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105020" Lemma="абгла´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105020" Lemma="абгла´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгла´джваць</Form>
         <Form Tag="R1S" Checked="+">абгла´джваю</Form>
         <Form Tag="R2S" Checked="+">абгла´джваеш</Form>
@@ -688,7 +688,7 @@
         <Form Tag="I2P" Checked="+">абгла´джвайце</Form>
         <Form Tag="RG" Checked="+">абгла´джваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105035" Lemma="абго´ртваць" Tag="VTMN1" Govern="+A+I" Checked="+">
+    <Paradigm pdgId="1105035" Lemma="абго´ртваць" Tag="VTMN1" Govern="+A+I" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абго´ртваць</Form>
         <Form Tag="R1S" Checked="+">абго´ртваю</Form>
         <Form Tag="R2S" Checked="+">абго´ртваеш</Form>
@@ -704,7 +704,7 @@
         <Form Tag="I2P" Checked="+">абго´ртвайце</Form>
         <Form Tag="RG" Checked="+">абго´ртваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105037" Lemma="абграба´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105037" Lemma="абграба´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абграба´ць</Form>
         <Form Tag="R1S" Checked="+">абграба´ю</Form>
         <Form Tag="R2S" Checked="+">абграба´еш</Form>
@@ -720,7 +720,7 @@
         <Form Tag="I2P" Checked="+">абграба´йце</Form>
         <Form Tag="RG" Checked="+">абграба´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105039" Lemma="абгрунто´ўваць" Tag="VTMN1" Govern="+A, +A+I" Checked="+">
+    <Paradigm pdgId="1105039" Lemma="абгрунто´ўваць" Tag="VTMN1" Govern="+A, +A+I" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгрунто´ўваць</Form>
         <Form Tag="R1S" Checked="+">абгрунто´ўваю</Form>
         <Form Tag="R2S" Checked="+">абгрунто´ўваеш</Form>
@@ -736,7 +736,7 @@
         <Form Tag="I2P" Checked="+">абгрунто´ўвайце</Form>
         <Form Tag="RG" Checked="+">абгрунто´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105045" Lemma="абгрыза´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105045" Lemma="абгрыза´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгрыза´ць</Form>
         <Form Tag="R1S" Checked="+">абгрыза´ю</Form>
         <Form Tag="R2S" Checked="+">абгрыза´еш</Form>
@@ -752,7 +752,7 @@
         <Form Tag="I2P" Checked="+">абгрыза´йце</Form>
         <Form Tag="RG" Checked="+">абгрыза´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105049" Lemma="абгу´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105049" Lemma="абгу´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абгу´льваць</Form>
         <Form Tag="R1S" Checked="+">абгу´льваю</Form>
         <Form Tag="R2S" Checked="+">абгу´льваеш</Form>
@@ -768,7 +768,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абгу´львайце</Form>
         <Form Tag="RG" Checked="+">абгу´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105061" Lemma="абдзё´ўбваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105061" Lemma="абдзё´ўбваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдзё´ўбваць</Form>
         <Form Tag="R1S" Checked="+">абдзё´ўбваю</Form>
         <Form Tag="R2S" Checked="+">абдзё´ўбваеш</Form>
@@ -784,7 +784,7 @@
         <Form Tag="I2P" Checked="+">абдзё´ўбвайце</Form>
         <Form Tag="RG" Checked="+">абдзё´ўбваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105055" Lemma="абдзіма´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105055" Lemma="абдзіма´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдзіма´ць</Form>
         <Form Tag="R1S" Checked="+">абдзіма´ю</Form>
         <Form Tag="R2S" Checked="+">абдзіма´еш</Form>
@@ -800,7 +800,7 @@
         <Form Tag="I2P" Checked="+">абдзіма´йце</Form>
         <Form Tag="RG" Checked="+">абдзіма´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105057" Lemma="абдзіра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105057" Lemma="абдзіра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдзіра´ць</Form>
         <Form Tag="R1S" Checked="+">абдзіра´ю</Form>
         <Form Tag="R2S" Checked="+">абдзіра´еш</Form>
@@ -816,7 +816,7 @@
         <Form Tag="I2P" Checked="+">абдзіра´йце</Form>
         <Form Tag="RG" Checked="+">абдзіра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105067" Lemma="абдзьму´хваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105067" Lemma="абдзьму´хваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдзьму´хваць</Form>
         <Form Tag="R1S" Checked="+">абдзьму´хваю</Form>
         <Form Tag="R2S" Checked="+">абдзьму´хваеш</Form>
@@ -832,7 +832,7 @@
         <Form Tag="I2P" Checked="+">абдзьму´хвайце</Form>
         <Form Tag="RG" Checked="+">абдзьму´хваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105071" Lemma="абдзяля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105071" Lemma="абдзяля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдзяля´ць</Form>
         <Form Tag="R1S" Checked="+">абдзяля´ю</Form>
         <Form Tag="R2S" Checked="+">абдзяля´еш</Form>
@@ -848,7 +848,7 @@
         <Form Tag="I2P" Checked="+">абдзяля´йце</Form>
         <Form Tag="RG" Checked="+">абдзяля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105073" Lemma="абдзярно´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105073" Lemma="абдзярно´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдзярно´ўваць</Form>
         <Form Tag="R1S" Checked="+">абдзярно´ўваю</Form>
         <Form Tag="R2S" Checked="+">абдзярно´ўваеш</Form>
@@ -864,7 +864,7 @@
         <Form Tag="I2P" Checked="+">абдзярно´ўвайце</Form>
         <Form Tag="RG" Checked="+">абдзярно´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105075" Lemma="абдо´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105075" Lemma="абдо´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдо´рваць</Form>
         <Form Tag="R1S" Checked="+">абдо´рваю</Form>
         <Form Tag="R2S" Checked="+">абдо´рваеш</Form>
@@ -880,7 +880,7 @@
         <Form Tag="I2P" Checked="+">абдо´рвайце</Form>
         <Form Tag="RG" Checked="+">абдо´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105081" Lemma="абдра´пваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105081" Lemma="абдра´пваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдра´пваць</Form>
         <Form Tag="R1S" Checked="+">абдра´пваю</Form>
         <Form Tag="R2S" Checked="+">абдра´пваеш</Form>
@@ -896,7 +896,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абдра´пвайце</Form>
         <Form Tag="RG" Checked="+">абдра´пваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105085" Lemma="абдры´пваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105085" Lemma="абдры´пваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдры´пваць</Form>
         <Form Tag="R1S" Checked="+">абдры´пваю</Form>
         <Form Tag="R2S" Checked="+">абдры´пваеш</Form>
@@ -912,7 +912,7 @@
         <Form Tag="I2P" Checked="+">абдры´пвайце</Form>
         <Form Tag="RG" Checked="+">абдры´пваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105089" Lemma="абду´мваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105089" Lemma="абду´мваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абду´мваць</Form>
         <Form Tag="R1S" Checked="+">абду´мваю</Form>
         <Form Tag="R2S" Checked="+">абду´мваеш</Form>
@@ -928,7 +928,7 @@
         <Form Tag="I2P" Checked="+">абду´мвайце</Form>
         <Form Tag="RG" Checked="+">абду´мваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105091" Lemma="абду´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105091" Lemma="абду´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абду´рваць</Form>
         <Form Tag="R1S" Checked="+">абду´рваю</Form>
         <Form Tag="R2S" Checked="+">абду´рваеш</Form>
@@ -944,7 +944,7 @@
         <Form Tag="I2P" Checked="+">абду´рвайце</Form>
         <Form Tag="RG" Checked="+">абду´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105097" Lemma="абдыма´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105097" Lemma="абдыма´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абдыма´ць</Form>
         <Form Tag="R1S" Checked="+">абдыма´ю</Form>
         <Form Tag="R2S" Checked="+">абдыма´еш</Form>
@@ -960,7 +960,7 @@
         <Form Tag="I2P" Checked="+">абдыма´йце</Form>
         <Form Tag="RG" Checked="+">абдыма´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105101" Lemma="абезгало´ўліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105101" Lemma="абезгало´ўліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абезгало´ўліваць</Form>
         <Form Tag="R1S" Checked="+">абезгало´ўліваю</Form>
         <Form Tag="R2S" Checked="+">абезгало´ўліваеш</Form>
@@ -976,7 +976,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абезгало´ўлівайце</Form>
         <Form Tag="RG" Checked="+">абезгало´ўліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105106" Lemma="абеззара´жваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105106" Lemma="абеззара´жваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абеззара´жваць</Form>
         <Form Tag="R1S" Checked="+">абеззара´жваю</Form>
         <Form Tag="R2S" Checked="+">абеззара´жваеш</Form>
@@ -992,7 +992,7 @@
         <Form Tag="I2P" Checked="+">абеззара´жвайце</Form>
         <Form Tag="RG" Checked="+">абеззара´жваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105112" Lemma="абеззяме´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105112" Lemma="абеззяме´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абеззяме´льваць</Form>
         <Form Tag="R1S" Checked="+">абеззяме´льваю</Form>
         <Form Tag="R2S" Checked="+">абеззяме´льваеш</Form>
@@ -1008,7 +1008,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абеззяме´львайце</Form>
         <Form Tag="RG" Type="potential" Checked="+">абеззяме´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105116" Lemma="абезнадзе´йваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105116" Lemma="абезнадзе´йваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абезнадзе´йваць</Form>
         <Form Tag="R1S" Checked="+">абезнадзе´йваю</Form>
         <Form Tag="R2S" Checked="+">абезнадзе´йваеш</Form>
@@ -1040,7 +1040,7 @@
         <Form Tag="I2P">абезрухомлівайце</Form>
         <Form Tag="RG">абезрухомліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105122" Lemma="абе´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105122" Lemma="абе´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абе´льваць</Form>
         <Form Tag="R1S" Checked="+">абе´льваю</Form>
         <Form Tag="R2S" Checked="+">абе´льваеш</Form>
@@ -1056,7 +1056,7 @@
         <Form Tag="I2P" Checked="+">абе´львайце</Form>
         <Form Tag="RG" Checked="+">абе´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105124" Lemma="абескаляро´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105124" Lemma="абескаляро´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абескаляро´ўваць</Form>
         <Form Tag="R1S" Checked="+">абескаляро´ўваю</Form>
         <Form Tag="R2S" Checked="+">абескаляро´ўваеш</Form>
@@ -1072,7 +1072,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абескаляро´ўвайце</Form>
         <Form Tag="RG" Checked="+">абескаляро´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105128" Lemma="абжо´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105128" Lemma="абжо´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абжо´ўваць</Form>
         <Form Tag="R1S" Checked="+">абжо´ўваю</Form>
         <Form Tag="R2S" Checked="+">абжо´ўваеш</Form>
@@ -1088,7 +1088,7 @@
         <Form Tag="I2P" Checked="+">абжо´ўвайце</Form>
         <Form Tag="RG" Checked="+">абжо´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105134" Lemma="абжу´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105134" Lemma="абжу´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абжу´льваць</Form>
         <Form Tag="R1S" Checked="+">абжу´льваю</Form>
         <Form Tag="R2S" Checked="+">абжу´льваеш</Form>
@@ -1104,7 +1104,7 @@
         <Form Tag="I2P" Checked="+">абжу´львайце</Form>
         <Form Tag="RG" Checked="+">абжу´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105138" Lemma="абжыва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105138" Lemma="абжыва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абжыва´ць</Form>
         <Form Tag="R1S" Checked="+">абжыва´ю</Form>
         <Form Tag="R2S" Checked="+">абжыва´еш</Form>
@@ -1120,7 +1120,7 @@
         <Form Tag="I2P" Checked="+">абжыва´йце</Form>
         <Form Tag="RG" Checked="+">абжыва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105140" Lemma="абжына´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105140" Lemma="абжына´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абжына´ць</Form>
         <Form Tag="R1S" Checked="+">абжына´ю</Form>
         <Form Tag="R2S" Checked="+">абжына´еш</Form>
@@ -1136,7 +1136,7 @@
         <Form Tag="I2P" Checked="+">абжына´йце</Form>
         <Form Tag="RG" Checked="+">абжына´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105142" Lemma="абжыра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105142" Lemma="абжыра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абжыра´ць</Form>
         <Form Tag="R1S" Checked="+">абжыра´ю</Form>
         <Form Tag="R2S" Checked="+">абжыра´еш</Form>
@@ -1152,7 +1152,7 @@
         <Form Tag="I2P" Checked="+">абжыра´йце</Form>
         <Form Tag="RG" Checked="+">абжыра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105151" Lemma="абзво´ньваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105151" Lemma="абзво´ньваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абзво´ньваць</Form>
         <Form Tag="R1S" Checked="+">абзво´ньваю</Form>
         <Form Tag="R2S" Checked="+">абзво´ньваеш</Form>
@@ -1168,7 +1168,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абзво´ньвайце</Form>
         <Form Tag="RG" Checked="+">абзво´ньваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105155" Lemma="абзыва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105155" Lemma="абзыва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абзыва´ць</Form>
         <Form Tag="R1S" Checked="+">абзыва´ю</Form>
         <Form Tag="R2S" Checked="+">абзыва´еш</Form>
@@ -1184,7 +1184,7 @@
         <Form Tag="I2P" Checked="+">абзыва´йце</Form>
         <Form Tag="RG" Checked="+">абзыва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104815" Lemma="абіва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104815" Lemma="абіва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абіва´ць</Form>
         <Form Tag="R1S" Checked="+">абіва´ю</Form>
         <Form Tag="R2S" Checked="+">абіва´еш</Form>
@@ -1200,7 +1200,7 @@
         <Form Tag="I2P" Checked="+">абіва´йце</Form>
         <Form Tag="RG" Checked="+">абіва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104817" Lemma="абіра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104817" Lemma="абіра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абіра´ць</Form>
         <Form Tag="R1S" Checked="+">абіра´ю</Form>
         <Form Tag="R2S" Checked="+">абіра´еш</Form>
@@ -1216,7 +1216,7 @@
         <Form Tag="I2P" Checked="+">абіра´йце</Form>
         <Form Tag="RG" Checked="+">абіра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105165" Lemma="абкало´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105165" Lemma="абкало´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкало´чваць</Form>
         <Form Tag="R1S" Checked="+">абкало´чваю</Form>
         <Form Tag="R2S" Checked="+">абкало´чваеш</Form>
@@ -1232,7 +1232,7 @@
         <Form Tag="I2P" Checked="+">абкало´чвайце</Form>
         <Form Tag="RG" Checked="+">абкало´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105167" Lemma="абкаме´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105167" Lemma="абкаме´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкаме´чваць</Form>
         <Form Tag="R1S" Checked="+">абкаме´чваю</Form>
         <Form Tag="R2S" Checked="+">абкаме´чваеш</Form>
@@ -1248,7 +1248,7 @@
         <Form Tag="I2P" Checked="+">абкаме´чвайце</Form>
         <Form Tag="RG" Checked="+">абкаме´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105173" Lemma="абка´пваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105173" Lemma="абка´пваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абка´пваць</Form>
         <Form Tag="R1S" Checked="+">абка´пваю</Form>
         <Form Tag="R2S" Checked="+">абка´пваеш</Form>
@@ -1264,7 +1264,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абка´пвайце</Form>
         <Form Tag="RG" Checked="+">абка´пваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105176" Lemma="абка´тваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105176" Lemma="абка´тваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абка´тваць</Form>
         <Form Tag="R1S" Checked="+">абка´тваю</Form>
         <Form Tag="R2S" Checked="+">абка´тваеш</Form>
@@ -1280,7 +1280,7 @@
         <Form Tag="I2P" Checked="+">абка´твайце</Form>
         <Form Tag="RG" Checked="+">абка´тваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105159" Lemma="абкі´дваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105159" Lemma="абкі´дваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкі´дваць</Form>
         <Form Tag="R1S" Checked="+">абкі´дваю</Form>
         <Form Tag="R2S" Checked="+">абкі´дваеш</Form>
@@ -1296,7 +1296,7 @@
         <Form Tag="I2P" Checked="+">абкі´двайце</Form>
         <Form Tag="RG" Checked="+">абкі´дваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105188" Lemma="абклада´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105188" Lemma="абклада´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абклада´ць</Form>
         <Form Tag="R1S" Checked="+">абклада´ю</Form>
         <Form Tag="R2S" Checked="+">абклада´еш</Form>
@@ -1312,7 +1312,7 @@
         <Form Tag="I2P" Checked="+">абклада´йце</Form>
         <Form Tag="RG" Checked="+">абклада´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105190" Lemma="абкла´дваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105190" Lemma="абкла´дваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкла´дваць</Form>
         <Form Tag="R1S" Checked="+">абкла´дваю</Form>
         <Form Tag="R2S" Checked="+">абкла´дваеш</Form>
@@ -1328,7 +1328,7 @@
         <Form Tag="I2P" Checked="+">абкла´двайце</Form>
         <Form Tag="RG" Checked="+">абкла´дваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105194" Lemma="абкле´йваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105194" Lemma="абкле´йваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкле´йваць</Form>
         <Form Tag="R1S" Checked="+">абкле´йваю</Form>
         <Form Tag="R2S" Checked="+">абкле´йваеш</Form>
@@ -1344,7 +1344,7 @@
         <Form Tag="I2P" Checked="+">абкле´йвайце</Form>
         <Form Tag="RG" Checked="+">абкле´йваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105200" Lemma="абко´лваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105200" Lemma="абко´лваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абко´лваць</Form>
         <Form Tag="R1S" Checked="+">абко´лваю</Form>
         <Form Tag="R2S" Checked="+">абко´лваеш</Form>
@@ -1360,7 +1360,7 @@
         <Form Tag="I2P" Checked="+">абко´лвайце</Form>
         <Form Tag="RG" Checked="+">абко´лваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105202" Lemma="абко´пваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105202" Lemma="абко´пваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абко´пваць</Form>
         <Form Tag="R1S" Checked="+">абко´пваю</Form>
         <Form Tag="R2S" Checked="+">абко´пваеш</Form>
@@ -1376,7 +1376,7 @@
         <Form Tag="I2P" Checked="+">абко´пвайце</Form>
         <Form Tag="RG" Checked="+">абко´пваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105206" Lemma="абко´рмліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105206" Lemma="абко´рмліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абко´рмліваць</Form>
         <Form Tag="R1S" Checked="+">абко´рмліваю</Form>
         <Form Tag="R2S" Checked="+">абко´рмліваеш</Form>
@@ -1392,7 +1392,7 @@
         <Form Tag="I2P" Checked="+">абко´рмлівайце</Form>
         <Form Tag="RG" Checked="+">абко´рмліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105210" Lemma="абко´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105210" Lemma="абко´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абко´чваць</Form>
         <Form Tag="R1S" Checked="+">абко´чваю</Form>
         <Form Tag="R2S" Checked="+">абко´чваеш</Form>
@@ -1408,7 +1408,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абко´чвайце</Form>
         <Form Tag="RG" Checked="+">абко´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105212" Lemma="абко´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105212" Lemma="абко´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абко´шваць</Form>
         <Form Tag="R1S" Checked="+">абко´шваю</Form>
         <Form Tag="R2S" Checked="+">абко´шваеш</Form>
@@ -1424,7 +1424,7 @@
         <Form Tag="I2P" Checked="+">абко´швайце</Form>
         <Form Tag="RG" Checked="+">абко´шваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105218" Lemma="абкрада´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105218" Lemma="абкрада´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкрада´ць</Form>
         <Form Tag="R1S" Checked="+">абкрада´ю</Form>
         <Form Tag="R2S" Checked="+">абкрада´еш</Form>
@@ -1440,7 +1440,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абкрада´йце</Form>
         <Form Tag="RG" Checked="+">абкрада´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105220" Lemma="абкра´дваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105220" Lemma="абкра´дваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкра´дваць</Form>
         <Form Tag="R1S" Checked="+">абкра´дваю</Form>
         <Form Tag="R2S" Checked="+">абкра´дваеш</Form>
@@ -1456,7 +1456,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абкра´двайце</Form>
         <Form Tag="RG" Checked="+">абкра´дваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105222" Lemma="абкружа´ць" Tag="VTMN1" Govern="+A+I" Checked="+">
+    <Paradigm pdgId="1105222" Lemma="абкружа´ць" Tag="VTMN1" Govern="+A+I" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкружа´ць</Form>
         <Form Tag="R1S" Checked="+">абкружа´ю</Form>
         <Form Tag="R2S" Checked="+">абкружа´еш</Form>
@@ -1472,7 +1472,7 @@
         <Form Tag="I2P" Checked="+">абкружа´йце</Form>
         <Form Tag="RG" Checked="+">абкружа´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105228" Lemma="абкру´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105228" Lemma="абкру´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абкру´чваць</Form>
         <Form Tag="R1S" Checked="+">абкру´чваю</Form>
         <Form Tag="R2S" Checked="+">абкру´чваеш</Form>
@@ -1488,7 +1488,7 @@
         <Form Tag="I2P" Checked="+">абкру´чвайце</Form>
         <Form Tag="RG" Checked="+">абкру´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105234" Lemma="абку´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105234" Lemma="абку´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абку´рваць</Form>
         <Form Tag="R1S" Checked="+">абку´рваю</Form>
         <Form Tag="R2S" Checked="+">абку´рваеш</Form>
@@ -1504,7 +1504,7 @@
         <Form Tag="I2P" Checked="+">абку´рвайце</Form>
         <Form Tag="RG" Checked="+">абку´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105244" Lemma="абку´сваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105244" Lemma="абку´сваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абку´сваць</Form>
         <Form Tag="R1S" Checked="+">абку´сваю</Form>
         <Form Tag="R2S" Checked="+">абку´сваеш</Form>
@@ -1520,7 +1520,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абку´свайце</Form>
         <Form Tag="RG" Checked="+">абку´сваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105292" Lemma="абла´пліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105292" Lemma="абла´пліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абла´пліваць</Form>
         <Form Tag="R1S" Checked="+">абла´пліваю</Form>
         <Form Tag="R2S" Checked="+">абла´пліваеш</Form>
@@ -1536,7 +1536,7 @@
         <Form Tag="I2P" Checked="+">абла´плівайце</Form>
         <Form Tag="RG" Checked="+">абла´пліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105294" Lemma="аблапо´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105294" Lemma="аблапо´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблапо´шваць</Form>
         <Form Tag="R1S" Checked="+">аблапо´шваю</Form>
         <Form Tag="R2S" Checked="+">аблапо´шваеш</Form>
@@ -1552,7 +1552,7 @@
         <Form Tag="I2P" Checked="+">аблапо´швайце</Form>
         <Form Tag="RG" Checked="+">аблапо´шваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105271" Lemma="абле´жваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105271" Lemma="абле´жваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абле´жваць</Form>
         <Form Tag="R1S" Checked="+">абле´жваю</Form>
         <Form Tag="R2S" Checked="+">абле´жваеш</Form>
@@ -1568,7 +1568,7 @@
         <Form Tag="I2P" Checked="+">абле´жвайце</Form>
         <Form Tag="RG" Checked="+">абле´жваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105273" Lemma="аблё´тваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105273" Lemma="аблё´тваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблё´тваць</Form>
         <Form Tag="R1S" Checked="+">аблё´тваю</Form>
         <Form Tag="R2S" Checked="+">аблё´тваеш</Form>
@@ -1584,7 +1584,7 @@
         <Form Tag="I2P" Checked="+">аблё´твайце</Form>
         <Form Tag="RG" Checked="+">аблё´тваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105248" Lemma="абліва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105248" Lemma="абліва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абліва´ць</Form>
         <Form Tag="R1S" Checked="+">абліва´ю</Form>
         <Form Tag="R2S" Checked="+">абліва´еш</Form>
@@ -1600,7 +1600,7 @@
         <Form Tag="I2P" Checked="+">абліва´йце</Form>
         <Form Tag="RG" Checked="+">абліва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105252" Lemma="аблі´зваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105252" Lemma="аблі´зваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблі´зваць</Form>
         <Form Tag="R1S" Checked="+">аблі´зваю</Form>
         <Form Tag="R2S" Checked="+">аблі´зваеш</Form>
@@ -1616,7 +1616,7 @@
         <Form Tag="I2P" Checked="+">аблі´звайце</Form>
         <Form Tag="RG" Checked="+">аблі´зваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105259" Lemma="абліцо´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105259" Lemma="абліцо´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абліцо´ўваць</Form>
         <Form Tag="R1S" Checked="+">абліцо´ўваю</Form>
         <Form Tag="R2S" Checked="+">абліцо´ўваеш</Form>
@@ -1648,7 +1648,7 @@
         <Form Tag="I2P">аблічбоўвайце</Form>
         <Form Tag="RG">аблічбоўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105267" Lemma="аблі´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105267" Lemma="аблі´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблі´чваць</Form>
         <Form Tag="R1S" Checked="+">аблі´чваю</Form>
         <Form Tag="R2S" Checked="+">аблі´чваеш</Form>
@@ -1664,7 +1664,7 @@
         <Form Tag="I2P" Checked="+">аблі´чвайце</Form>
         <Form Tag="RG" Checked="+">аблі´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105311" Lemma="абло´жваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105311" Lemma="абло´жваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абло´жваць</Form>
         <Form Tag="R1S" Checked="+">абло´жваю</Form>
         <Form Tag="R2S" Checked="+">абло´жваеш</Form>
@@ -1680,7 +1680,7 @@
         <Form Tag="I2P" Checked="+">абло´жвайце</Form>
         <Form Tag="RG" Checked="+">абло´жваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105315" Lemma="абло´мваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105315" Lemma="абло´мваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абло´мваць</Form>
         <Form Tag="R1S" Checked="+">абло´мваю</Form>
         <Form Tag="R2S" Checked="+">абло´мваеш</Form>
@@ -1696,7 +1696,7 @@
         <Form Tag="I2P" Checked="+">абло´мвайце</Form>
         <Form Tag="RG" Checked="+">абло´мваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105317" Lemma="абло´мліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105317" Lemma="абло´мліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абло´мліваць</Form>
         <Form Tag="R1S" Checked="+">абло´мліваю</Form>
         <Form Tag="R2S" Checked="+">абло´мліваеш</Form>
@@ -1712,7 +1712,7 @@
         <Form Tag="I2P" Checked="+">абло´млівайце</Form>
         <Form Tag="RG" Checked="+">абло´мліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105307" Lemma="абло´ўліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105307" Lemma="абло´ўліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абло´ўліваць</Form>
         <Form Tag="R1S" Checked="+">абло´ўліваю</Form>
         <Form Tag="R2S" Checked="+">абло´ўліваеш</Form>
@@ -1728,7 +1728,7 @@
         <Form Tag="I2P" Checked="+">абло´ўлівайце</Form>
         <Form Tag="RG" Checked="+">абло´ўліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105321" Lemma="аблу´зваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105321" Lemma="аблу´зваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблу´зваць</Form>
         <Form Tag="R1S" Checked="+">аблу´зваю</Form>
         <Form Tag="R2S" Checked="+">аблу´зваеш</Form>
@@ -1744,7 +1744,7 @@
         <Form Tag="I2P" Checked="+">аблу´звайце</Form>
         <Form Tag="RG" Checked="+">аблу´зваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105325" Lemma="аблу´пліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105325" Lemma="аблу´пліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблу´пліваць</Form>
         <Form Tag="R1S" Checked="+">аблу´пліваю</Form>
         <Form Tag="R2S" Checked="+">аблу´пліваеш</Form>
@@ -1776,7 +1776,7 @@
         <Form Tag="I2P">аблупляйце</Form>
         <Form Tag="RG">аблупляючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105329" Lemma="аблу´шчваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105329" Lemma="аблу´шчваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблу´шчваць</Form>
         <Form Tag="R1S" Checked="+">аблу´шчваю</Form>
         <Form Tag="R2S" Checked="+">аблу´шчваеш</Form>
@@ -1792,7 +1792,7 @@
         <Form Tag="I2P" Checked="+">аблу´шчвайце</Form>
         <Form Tag="RG" Checked="+">аблу´шчваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105333" Lemma="аблы´гваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105333" Lemma="аблы´гваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблы´гваць</Form>
         <Form Tag="R1S" Checked="+">аблы´гваю</Form>
         <Form Tag="R2S" Checked="+">аблы´гваеш</Form>
@@ -1808,7 +1808,7 @@
         <Form Tag="I2P" Checked="+">аблы´гвайце</Form>
         <Form Tag="RG" Checked="+">аблы´гваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105338" Lemma="аблы´тваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105338" Lemma="аблы´тваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблы´тваць</Form>
         <Form Tag="R1S" Checked="+">аблы´тваю</Form>
         <Form Tag="R2S" Checked="+">аблы´тваеш</Form>
@@ -1824,7 +1824,7 @@
         <Form Tag="I2P" Checked="+">аблы´твайце</Form>
         <Form Tag="RG" Checked="+">аблы´тваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105340" Lemma="аблюбо´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105340" Lemma="аблюбо´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблюбо´ўваць</Form>
         <Form Tag="R1S" Checked="+">аблюбо´ўваю</Form>
         <Form Tag="R2S" Checked="+">аблюбо´ўваеш</Form>
@@ -1840,23 +1840,23 @@
         <Form Tag="I2P" Checked="+">аблюбо´ўвайце</Form>
         <Form Tag="RG" Checked="+">аблюбо´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105346" Lemma="аблягаць" Tag="VTMN1" Govern="">
-        <Form Tag="0">аблягаць</Form>
-        <Form Tag="R1S">аблягаю</Form>
-        <Form Tag="R2S">аблягаеш</Form>
-        <Form Tag="R3S">аблягае</Form>
-        <Form Tag="R1P">аблягаем</Form>
-        <Form Tag="R2P">аблягаеце</Form>
-        <Form Tag="R3P">аблягаюць</Form>
-        <Form Tag="PXSM">аблягаў</Form>
-        <Form Tag="PXSF">аблягала</Form>
-        <Form Tag="PXSN">аблягала</Form>
-        <Form Tag="PXPX">аблягалі</Form>
-        <Form Tag="I2S">аблягай</Form>
-        <Form Tag="I2P">аблягайце</Form>
-        <Form Tag="RG">аблягаючы</Form>
+    <Paradigm pdgId="1105346" Lemma="абляга´ць" Tag="VTMN1" Govern="" Slouniki="dzsl">
+        <Form Tag="0">абляга´ць</Form>
+        <Form Tag="R1S" Type="potential">аблягаю</Form>
+        <Form Tag="R2S" Type="potential">аблягаеш</Form>
+        <Form Tag="R3S">абляга´е</Form>
+        <Form Tag="R1P" Type="potential">аблягаем</Form>
+        <Form Tag="R2P" Type="potential">аблягаеце</Form>
+        <Form Tag="R3P">абляга´юць</Form>
+        <Form Tag="PXSM">абляга´ў</Form>
+        <Form Tag="PXSF">абляга´ла</Form>
+        <Form Tag="PXSN">абляга´ла</Form>
+        <Form Tag="PXPX">абляга´лі</Form>
+        <Form Tag="I2S" Type="potential">аблягай</Form>
+        <Form Tag="I2P" Type="potential">аблягайце</Form>
+        <Form Tag="RG">абляга´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105348" Lemma="аблягча´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105348" Lemma="аблягча´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблягча´ць</Form>
         <Form Tag="R1S" Checked="+">аблягча´ю</Form>
         <Form Tag="R2S" Checked="+">аблягча´еш</Form>
@@ -1872,7 +1872,7 @@
         <Form Tag="I2P" Checked="+">аблягча´йце</Form>
         <Form Tag="RG" Checked="+">аблягча´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105352" Lemma="аблямо´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105352" Lemma="аблямо´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблямо´ўваць</Form>
         <Form Tag="R1S" Checked="+">аблямо´ўваю</Form>
         <Form Tag="R2S" Checked="+">аблямо´ўваеш</Form>
@@ -1888,7 +1888,7 @@
         <Form Tag="I2P" Checked="+">аблямо´ўвайце</Form>
         <Form Tag="RG" Checked="+">аблямо´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105361" Lemma="абля´пваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105361" Lemma="абля´пваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абля´пваць</Form>
         <Form Tag="R1S" Checked="+">абля´пваю</Form>
         <Form Tag="R2S" Checked="+">абля´пваеш</Form>
@@ -1904,7 +1904,7 @@
         <Form Tag="I2P" Checked="+">абля´пвайце</Form>
         <Form Tag="RG" Checked="+">абля´пваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105363" Lemma="абляпля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105363" Lemma="абляпля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абляпля´ць</Form>
         <Form Tag="R1S" Checked="+">абляпля´ю</Form>
         <Form Tag="R2S" Checked="+">абляпля´еш</Form>
@@ -1920,7 +1920,7 @@
         <Form Tag="I2P" Checked="+">абляпля´йце</Form>
         <Form Tag="RG" Checked="+">абляпля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105367" Lemma="аблята´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105367" Lemma="аблята´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аблята´ць</Form>
         <Form Tag="R1S" Checked="+">аблята´ю</Form>
         <Form Tag="R2S" Checked="+">аблята´еш</Form>
@@ -1936,7 +1936,7 @@
         <Form Tag="I2P" Checked="+">аблята´йце</Form>
         <Form Tag="RG" Checked="+">аблята´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105379" Lemma="абма´зваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105379" Lemma="абма´зваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абма´зваць</Form>
         <Form Tag="R1S" Checked="+">абма´зваю</Form>
         <Form Tag="R2S" Checked="+">абма´зваеш</Form>
@@ -1952,7 +1952,7 @@
         <Form Tag="I2P" Checked="+">абма´звайце</Form>
         <Form Tag="RG" Checked="+">абма´зваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105381" Lemma="абмазго´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105381" Lemma="абмазго´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмазго´ўваць</Form>
         <Form Tag="R1S" Checked="+">абмазго´ўваю</Form>
         <Form Tag="R2S" Checked="+">абмазго´ўваеш</Form>
@@ -1968,7 +1968,7 @@
         <Form Tag="I2P" Checked="+">абмазго´ўвайце</Form>
         <Form Tag="RG" Checked="+">абмазго´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105387" Lemma="абма´кваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105387" Lemma="абма´кваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абма´кваць</Form>
         <Form Tag="R1S" Checked="+">абма´кваю</Form>
         <Form Tag="R2S" Checked="+">абма´кваеш</Form>
@@ -1984,7 +1984,7 @@
         <Form Tag="I2P" Checked="+">абма´квайце</Form>
         <Form Tag="RG" Checked="+">абма´кваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105392" Lemma="абмалё´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105392" Lemma="абмалё´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмалё´ўваць</Form>
         <Form Tag="R1S" Checked="+">абмалё´ўваю</Form>
         <Form Tag="R2S" Checked="+">абмалё´ўваеш</Form>
@@ -2000,7 +2000,7 @@
         <Form Tag="I2P" Checked="+">абмалё´ўвайце</Form>
         <Form Tag="RG" Checked="+">абмалё´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105396" Lemma="абмало´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105396" Lemma="абмало´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмало´чваць</Form>
         <Form Tag="R1S" Checked="+">абмало´чваю</Form>
         <Form Tag="R2S" Checked="+">абмало´чваеш</Form>
@@ -2016,7 +2016,7 @@
         <Form Tag="I2P" Checked="+">абмало´чвайце</Form>
         <Form Tag="RG" Checked="+">абмало´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105400" Lemma="абмаро´жваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105400" Lemma="абмаро´жваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмаро´жваць</Form>
         <Form Tag="R1S" Checked="+">абмаро´жваю</Form>
         <Form Tag="R2S" Checked="+">абмаро´жваеш</Form>
@@ -2032,7 +2032,7 @@
         <Form Tag="I2P" Checked="+">абмаро´жвайце</Form>
         <Form Tag="RG" Checked="+">абмаро´жваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105406" Lemma="абма´сліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105406" Lemma="абма´сліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абма´сліваць</Form>
         <Form Tag="R1S" Checked="+">абма´сліваю</Form>
         <Form Tag="R2S" Checked="+">абма´сліваеш</Form>
@@ -2064,7 +2064,7 @@
         <Form Tag="I2P">абмаўляйце</Form>
         <Form Tag="RG">абмаўляючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105412" Lemma="абма´хваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105412" Lemma="абма´хваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абма´хваць</Form>
         <Form Tag="R1S" Checked="+">абма´хваю</Form>
         <Form Tag="R2S" Checked="+">абма´хваеш</Form>
@@ -2080,7 +2080,7 @@
         <Form Tag="I2P" Checked="+">абма´хвайце</Form>
         <Form Tag="RG" Checked="+">абма´хваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105418" Lemma="абма´цваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105418" Lemma="абма´цваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абма´цваць</Form>
         <Form Tag="R1S" Checked="+">абма´цваю</Form>
         <Form Tag="R2S" Checked="+">абма´цваеш</Form>
@@ -2096,7 +2096,7 @@
         <Form Tag="I2P" Checked="+">абма´цвайце</Form>
         <Form Tag="RG" Checked="+">абма´цваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105422" Lemma="абме´ньваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105422" Lemma="абме´ньваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абме´ньваць</Form>
         <Form Tag="R1S" Checked="+">абме´ньваю</Form>
         <Form Tag="R2S" Checked="+">абме´ньваеш</Form>
@@ -2112,7 +2112,7 @@
         <Form Tag="I2P" Checked="+">абме´ньвайце</Form>
         <Form Tag="RG" Checked="+">абме´ньваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105426" Lemma="абме´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105426" Lemma="абме´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абме´рваць</Form>
         <Form Tag="R1S" Checked="+">абме´рваю</Form>
         <Form Tag="R2S" Checked="+">абме´рваеш</Form>
@@ -2128,7 +2128,7 @@
         <Form Tag="I2P" Checked="+">абме´рвайце</Form>
         <Form Tag="RG" Checked="+">абме´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105429" Lemma="абме´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105429" Lemma="абме´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абме´шваць</Form>
         <Form Tag="R1S" Checked="+">абме´шваю</Form>
         <Form Tag="R2S" Checked="+">абме´шваеш</Form>
@@ -2144,7 +2144,7 @@
         <Form Tag="I2P" Checked="+">абме´швайце</Form>
         <Form Tag="RG" Checked="+">абме´шваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105374" Lemma="абміна´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105374" Lemma="абміна´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абміна´ць</Form>
         <Form Tag="R1S" Checked="+">абміна´ю</Form>
         <Form Tag="R2S" Checked="+">абміна´еш</Form>
@@ -2160,7 +2160,7 @@
         <Form Tag="I2P" Checked="+">абміна´йце</Form>
         <Form Tag="RG" Checked="+">абміна´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105434" Lemma="абмо´тваць" Tag="VTMN1" Govern="+A+I" Checked="+">
+    <Paradigm pdgId="1105434" Lemma="абмо´тваць" Tag="VTMN1" Govern="+A+I" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмо´тваць</Form>
         <Form Tag="R1S" Checked="+">абмо´тваю</Form>
         <Form Tag="R2S" Checked="+">абмо´тваеш</Form>
@@ -2176,7 +2176,7 @@
         <Form Tag="I2P" Checked="+">абмо´твайце</Form>
         <Form Tag="RG" Checked="+">абмо´тваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105436" Lemma="абмо´чваць" Tag="VTMN1" Govern="+A, +A+I, +A+у(ў)+A" Checked="+">
+    <Paradigm pdgId="1105436" Lemma="абмо´чваць" Tag="VTMN1" Govern="+A, +A+I, +A+у(ў)+A" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмо´чваць</Form>
         <Form Tag="R1S" Checked="+">абмо´чваю</Form>
         <Form Tag="R2S" Checked="+">абмо´чваеш</Form>
@@ -2192,7 +2192,7 @@
         <Form Tag="I2P" Checked="+">абмо´чвайце</Form>
         <Form Tag="RG" Checked="+">абмо´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105440" Lemma="абмундзіро´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105440" Lemma="абмундзіро´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмундзіро´ўваць</Form>
         <Form Tag="R1S" Checked="+">абмундзіро´ўваю</Form>
         <Form Tag="R2S" Checked="+">абмундзіро´ўваеш</Form>
@@ -2208,7 +2208,7 @@
         <Form Tag="I2P" Checked="+">абмундзіро´ўвайце</Form>
         <Form Tag="RG" Checked="+">абмундзіро´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105448" Lemma="абмыва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105448" Lemma="абмыва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмыва´ць</Form>
         <Form Tag="R1S" Checked="+">абмыва´ю</Form>
         <Form Tag="R2S" Checked="+">абмыва´еш</Form>
@@ -2224,7 +2224,7 @@
         <Form Tag="I2P" Checked="+">абмыва´йце</Form>
         <Form Tag="RG" Checked="+">абмыва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105454" Lemma="абмяжо´ўваць" Tag="VTMN1" Govern="+A+I, +A+у(ў)+I" Checked="+">
+    <Paradigm pdgId="1105454" Lemma="абмяжо´ўваць" Tag="VTMN1" Govern="+A+I, +A+у(ў)+I" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмяжо´ўваць</Form>
         <Form Tag="R1S" Checked="+">абмяжо´ўваю</Form>
         <Form Tag="R2S" Checked="+">абмяжо´ўваеш</Form>
@@ -2240,7 +2240,7 @@
         <Form Tag="I2P" Checked="+">абмяжо´ўвайце</Form>
         <Form Tag="RG" Checked="+">абмяжо´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105460" Lemma="абмяра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105460" Lemma="абмяра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмяра´ць</Form>
         <Form Tag="R1S" Checked="+">абмяра´ю</Form>
         <Form Tag="R2S" Checked="+">абмяра´еш</Form>
@@ -2256,7 +2256,7 @@
         <Form Tag="I2P" Checked="+">абмяра´йце</Form>
         <Form Tag="RG" Checked="+">абмяра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105462" Lemma="абмярко´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105462" Lemma="абмярко´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абмярко´ўваць</Form>
         <Form Tag="R1S" Checked="+">абмярко´ўваю</Form>
         <Form Tag="R2S" Checked="+">абмярко´ўваеш</Form>
@@ -2272,7 +2272,7 @@
         <Form Tag="I2P" Checked="+">абмярко´ўвайце</Form>
         <Form Tag="RG" Checked="+">абмярко´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105472" Lemma="абнадзе´йваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105472" Lemma="абнадзе´йваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абнадзе´йваць</Form>
         <Form Tag="R1S" Checked="+">абнадзе´йваю</Form>
         <Form Tag="R2S" Checked="+">абнадзе´йваеш</Form>
@@ -2304,7 +2304,7 @@
         <Form Tag="I2P">абнасеньвайце</Form>
         <Form Tag="RG">абнасеньваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105468" Lemma="абнаўля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105468" Lemma="абнаўля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абнаўля´ць</Form>
         <Form Tag="R1S" Checked="+">абнаўля´ю</Form>
         <Form Tag="R2S" Checked="+">абнаўля´еш</Form>
@@ -2320,7 +2320,7 @@
         <Form Tag="I2P" Checked="+">абнаўля´йце</Form>
         <Form Tag="RG" Checked="+">абнаўля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105486" Lemma="абно´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105486" Lemma="абно´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абно´шваць</Form>
         <Form Tag="R1S" Checked="+">абно´шваю</Form>
         <Form Tag="R2S" Checked="+">абно´шваеш</Form>
@@ -2336,7 +2336,7 @@
         <Form Tag="I2P" Checked="+">абно´швайце</Form>
         <Form Tag="RG" Checked="+">абно´шваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105490" Lemma="абню´хваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105490" Lemma="абню´хваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абню´хваць</Form>
         <Form Tag="R1S" Checked="+">абню´хваю</Form>
         <Form Tag="R2S" Checked="+">абню´хваеш</Form>
@@ -2368,7 +2368,7 @@
         <Form Tag="I2P">абняслаўляйце</Form>
         <Form Tag="RG">абняслаўляючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105503" Lemma="абпа´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105503" Lemma="абпа´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абпа´льваць</Form>
         <Form Tag="R1S" Checked="+">абпа´льваю</Form>
         <Form Tag="R2S" Checked="+">абпа´льваеш</Form>
@@ -2384,7 +2384,7 @@
         <Form Tag="I2P" Checked="+">абпа´львайце</Form>
         <Form Tag="RG" Checked="+">абпа´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105499" Lemma="абпаўза´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105499" Lemma="абпаўза´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абпаўза´ць</Form>
         <Form Tag="R1S" Checked="+">абпаўза´ю</Form>
         <Form Tag="R2S" Checked="+">абпаўза´еш</Form>
@@ -2416,7 +2416,7 @@
         <Form Tag="I2P">абплёўвайце</Form>
         <Form Tag="RG">абплёўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105512" Lemma="абрабля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105512" Lemma="абрабля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абрабля´ць</Form>
         <Form Tag="R1S" Checked="+">абрабля´ю</Form>
         <Form Tag="R2S" Checked="+">абрабля´еш</Form>
@@ -2432,7 +2432,7 @@
         <Form Tag="I2P" Checked="+">абрабля´йце</Form>
         <Form Tag="RG" Checked="+">абрабля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105518" Lemma="абража´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105518" Lemma="абража´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абража´ць</Form>
         <Form Tag="R1S" Checked="+">абража´ю</Form>
         <Form Tag="R2S" Checked="+">абража´еш</Form>
@@ -2448,7 +2448,7 @@
         <Form Tag="I2P" Checked="+">абража´йце</Form>
         <Form Tag="RG" Checked="+">абража´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105522" Lemma="абраза´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105522" Lemma="абраза´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абраза´ць</Form>
         <Form Tag="R1S" Checked="+">абраза´ю</Form>
         <Form Tag="R2S" Checked="+">абраза´еш</Form>
@@ -2464,7 +2464,7 @@
         <Form Tag="I2P" Checked="+">абраза´йце</Form>
         <Form Tag="RG" Checked="+">абраза´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105524" Lemma="абрамля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105524" Lemma="абрамля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абрамля´ць</Form>
         <Form Tag="R1S" Checked="+">абрамля´ю</Form>
         <Form Tag="R2S" Checked="+">абрамля´еш</Form>
@@ -2496,7 +2496,7 @@
         <Form Tag="I2P">абрашайце</Form>
         <Form Tag="RG">абрашаючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105537" Lemma="абру´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105537" Lemma="абру´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абру´шваць</Form>
         <Form Tag="R1S" Checked="+">абру´шваю</Form>
         <Form Tag="R2S" Checked="+">абру´шваеш</Form>
@@ -2512,7 +2512,7 @@
         <Form Tag="I2P" Checked="+">абру´швайце</Form>
         <Form Tag="RG" Checked="+">абру´шваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105539" Lemma="абрыва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105539" Lemma="абрыва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абрыва´ць</Form>
         <Form Tag="R1S" Checked="+">абрыва´ю</Form>
         <Form Tag="R2S" Checked="+">абрыва´еш</Form>
@@ -2528,7 +2528,7 @@
         <Form Tag="I2P" Checked="+">абрыва´йце</Form>
         <Form Tag="RG" Checked="+">абрыва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105551" Lemma="абрына´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105551" Lemma="абрына´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абрына´ць</Form>
         <Form Tag="R1S" Checked="+">абрына´ю</Form>
         <Form Tag="R2S" Checked="+">абрына´еш</Form>
@@ -2544,7 +2544,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абрына´йце</Form>
         <Form Tag="RG" Checked="+">абрына´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105557" Lemma="абрэ´зваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105557" Lemma="абрэ´зваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абрэ´зваць</Form>
         <Form Tag="R1S" Checked="+">абрэ´зваю</Form>
         <Form Tag="R2S" Checked="+">абрэ´зваеш</Form>
@@ -2560,7 +2560,7 @@
         <Form Tag="I2P" Checked="+">абрэ´звайце</Form>
         <Form Tag="RG" Checked="+">абрэ´зваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105564" Lemma="абса´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105564" Lemma="абса´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абса´джваць</Form>
         <Form Tag="R1S" Checked="+">абса´джваю</Form>
         <Form Tag="R2S" Checked="+">абса´джваеш</Form>
@@ -2576,7 +2576,7 @@
         <Form Tag="I2P" Checked="+">абса´джвайце</Form>
         <Form Tag="RG" Checked="+">абса´джваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105568" Lemma="абсалютызава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105568" Lemma="абсалютызава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсалютызава´ць</Form>
         <Form Tag="R1S" Checked="+">абсалютызу´ю</Form>
         <Form Tag="R2S" Checked="+">абсалютызу´еш</Form>
@@ -2624,7 +2624,7 @@
         <Form Tag="I2P">абсасвайце</Form>
         <Form Tag="RG">абсасваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105574" Lemma="абсві´стваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105574" Lemma="абсві´стваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсві´стваць</Form>
         <Form Tag="R1S" Checked="+">абсві´стваю</Form>
         <Form Tag="R2S" Checked="+">абсві´стваеш</Form>
@@ -2656,7 +2656,7 @@
         <Form Tag="I2P">абсірайце</Form>
         <Form Tag="RG">абсіраючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105582" Lemma="абско´кваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105582" Lemma="абско´кваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абско´кваць</Form>
         <Form Tag="R1S" Checked="+">абско´кваю</Form>
         <Form Tag="R2S" Checked="+">абско´кваеш</Form>
@@ -2672,7 +2672,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абско´квайце</Form>
         <Form Tag="RG" Checked="+">абско´кваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105592" Lemma="абсле´даваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105592" Lemma="абсле´даваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсле´даваць</Form>
         <Form Tag="R1S" Checked="+">абсле´дую</Form>
         <Form Tag="R2S" Checked="+">абсле´дуеш</Form>
@@ -2688,7 +2688,7 @@
         <Form Tag="I2P" Checked="+">абсле´дуйце</Form>
         <Form Tag="RG" Checked="+">абсле´дуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105594" Lemma="абслуго´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105594" Lemma="абслуго´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абслуго´ўваць</Form>
         <Form Tag="R1S" Checked="+">абслуго´ўваю</Form>
         <Form Tag="R2S" Checked="+">абслуго´ўваеш</Form>
@@ -2704,7 +2704,7 @@
         <Form Tag="I2P" Checked="+">абслуго´ўвайце</Form>
         <Form Tag="RG" Checked="+">абслуго´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105602" Lemma="абсма´жваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105602" Lemma="абсма´жваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсма´жваць</Form>
         <Form Tag="R1S" Checked="+">абсма´жваю</Form>
         <Form Tag="R2S" Checked="+">абсма´жваеш</Form>
@@ -2720,7 +2720,7 @@
         <Form Tag="I2P" Checked="+">абсма´жвайце</Form>
         <Form Tag="RG" Checked="+">абсма´жваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105604" Lemma="абсме´йваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105604" Lemma="абсме´йваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсме´йваць</Form>
         <Form Tag="R1S" Checked="+">абсме´йваю</Form>
         <Form Tag="R2S" Checked="+">абсме´йваеш</Form>
@@ -2736,7 +2736,7 @@
         <Form Tag="I2P" Checked="+">абсме´йвайце</Form>
         <Form Tag="RG" Checked="+">абсме´йваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105617" Lemma="абсталё´ўваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105617" Lemma="абсталё´ўваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсталё´ўваць</Form>
         <Form Tag="R1S" Checked="+">абсталё´ўваю</Form>
         <Form Tag="R2S" Checked="+">абсталё´ўваеш</Form>
@@ -2752,7 +2752,7 @@
         <Form Tag="I2P" Checked="+">абсталё´ўвайце</Form>
         <Form Tag="RG" Checked="+">абсталё´ўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105613" Lemma="абстаўля´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105613" Lemma="абстаўля´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абстаўля´ць</Form>
         <Form Tag="R1S" Checked="+">абстаўля´ю</Form>
         <Form Tag="R2S" Checked="+">абстаўля´еш</Form>
@@ -2768,7 +2768,7 @@
         <Form Tag="I2P" Checked="+">абстаўля´йце</Form>
         <Form Tag="RG" Checked="+">абстаўля´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105621" Lemma="абстрагава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105621" Lemma="абстрагава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абстрагава´ць</Form>
         <Form Tag="R1S" Checked="+">абстрагу´ю</Form>
         <Form Tag="R2S" Checked="+">абстрагу´еш</Form>
@@ -2784,7 +2784,7 @@
         <Form Tag="I2P" Checked="+">абстрагу´йце</Form>
         <Form Tag="RG" Checked="+">абстрагу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105628" Lemma="абстрыга´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105628" Lemma="абстрыга´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абстрыга´ць</Form>
         <Form Tag="R1S" Checked="+">абстрыга´ю</Form>
         <Form Tag="R2S" Checked="+">абстрыга´еш</Form>
@@ -2800,7 +2800,7 @@
         <Form Tag="I2P" Checked="+">абстрыга´йце</Form>
         <Form Tag="RG" Checked="+">абстрыга´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105630" Lemma="абстрэ´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105630" Lemma="абстрэ´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абстрэ´льваць</Form>
         <Form Tag="R1S" Checked="+">абстрэ´льваю</Form>
         <Form Tag="R2S" Checked="+">абстрэ´льваеш</Form>
@@ -2816,7 +2816,7 @@
         <Form Tag="I2P" Checked="+">абстрэ´львайце</Form>
         <Form Tag="RG" Checked="+">абстрэ´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105632" Lemma="абсту´кваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105632" Lemma="абсту´кваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсту´кваць</Form>
         <Form Tag="R1S" Checked="+">абсту´кваю</Form>
         <Form Tag="R2S" Checked="+">абсту´кваеш</Form>
@@ -2832,23 +2832,23 @@
         <Form Tag="I2P" Checked="+">абсту´квайце</Form>
         <Form Tag="RG" Checked="+">абсту´кваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105636" Lemma="абступаць" Tag="VTMN1" Govern="">
-        <Form Tag="0">абступаць</Form>
-        <Form Tag="R1S">абступаю</Form>
-        <Form Tag="R2S">абступаеш</Form>
-        <Form Tag="R3S">абступае</Form>
-        <Form Tag="R1P">абступаем</Form>
-        <Form Tag="R2P">абступаеце</Form>
-        <Form Tag="R3P">абступаюць</Form>
-        <Form Tag="PXSM">абступаў</Form>
-        <Form Tag="PXSF">абступала</Form>
-        <Form Tag="PXSN">абступала</Form>
-        <Form Tag="PXPX">абступалі</Form>
-        <Form Tag="I2S">абступай</Form>
-        <Form Tag="I2P">абступайце</Form>
-        <Form Tag="RG">абступаючы</Form>
+    <Paradigm pdgId="1105636" Lemma="абступа´ць" Tag="VTMN1" Govern="" Slouniki="dzsl">
+        <Form Tag="0">абступа´ць</Form>
+        <Form Tag="R1S" Type="potential">абступаю</Form>
+        <Form Tag="R2S" Type="potential">абступаеш</Form>
+        <Form Tag="R3S">абступа´е</Form>
+        <Form Tag="R1P">абступа´ем</Form>
+        <Form Tag="R2P">абступа´еце</Form>
+        <Form Tag="R3P">абступа´юць</Form>
+        <Form Tag="PXSM">абступа´ў</Form>
+        <Form Tag="PXSF">абступа´ла</Form>
+        <Form Tag="PXSN">абступа´ла</Form>
+        <Form Tag="PXPX">абступа´лі</Form>
+        <Form Tag="I2S" Type="potential">абступай</Form>
+        <Form Tag="I2P">абступа´йце</Form>
+        <Form Tag="RG">абступа´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105638" Lemma="абсу´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105638" Lemma="абсу´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсу´шваць</Form>
         <Form Tag="R1S" Checked="+">абсу´шваю</Form>
         <Form Tag="R2S" Checked="+">абсу´шваеш</Form>
@@ -2864,7 +2864,7 @@
         <Form Tag="I2P" Checked="+">абсу´швайце</Form>
         <Form Tag="RG" Checked="+">абсу´шваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105644" Lemma="абсыпа´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105644" Lemma="абсыпа´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсыпа´ць</Form>
         <Form Tag="R1S" Checked="+">абсыпа´ю</Form>
         <Form Tag="R2S" Checked="+">абсыпа´еш</Form>
@@ -2880,7 +2880,7 @@
         <Form Tag="I2P" Checked="+">абсыпа´йце</Form>
         <Form Tag="RG" Checked="+">абсыпа´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105652" Lemma="абсяка´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105652" Lemma="абсяка´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абсяка´ць</Form>
         <Form Tag="R1S" Checked="+">абсяка´ю</Form>
         <Form Tag="R2S" Checked="+">абсяка´еш</Form>
@@ -2896,7 +2896,7 @@
         <Form Tag="I2P" Checked="+">абсяка´йце</Form>
         <Form Tag="RG" Checked="+">абсяка´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105658" Lemma="абто´птваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105658" Lemma="абто´птваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абто´птваць</Form>
         <Form Tag="R1S" Checked="+">абто´птваю</Form>
         <Form Tag="R2S" Checked="+">абто´птваеш</Form>
@@ -2912,7 +2912,7 @@
         <Form Tag="I2P" Checked="+">абто´птвайце</Form>
         <Form Tag="RG" Checked="+">абто´птваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105660" Lemma="абто´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105660" Lemma="абто´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абто´чваць</Form>
         <Form Tag="R1S" Checked="+">абто´чваю</Form>
         <Form Tag="R2S" Checked="+">абто´чваеш</Form>
@@ -2928,7 +2928,7 @@
         <Form Tag="I2P" Checked="+">абто´чвайце</Form>
         <Form Tag="RG" Checked="+">абто´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105662" Lemma="абтраса´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105662" Lemma="абтраса´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абтраса´ць</Form>
         <Form Tag="R1S" Checked="+">абтраса´ю</Form>
         <Form Tag="R2S" Checked="+">абтраса´еш</Form>
@@ -2944,7 +2944,7 @@
         <Form Tag="I2P" Checked="+">абтраса´йце</Form>
         <Form Tag="RG" Checked="+">абтраса´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105666" Lemma="абтыка´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105666" Lemma="абтыка´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абтыка´ць</Form>
         <Form Tag="R1S" Checked="+">абтыка´ю</Form>
         <Form Tag="R2S" Checked="+">абтыка´еш</Form>
@@ -2976,7 +2976,7 @@
         <Form Tag="I2P">абтыквайце</Form>
         <Form Tag="RG">абтыкваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105674" Lemma="абува´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105674" Lemma="абува´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абува´ць</Form>
         <Form Tag="R1S" Checked="+">абува´ю</Form>
         <Form Tag="R2S" Checked="+">абува´еш</Form>
@@ -2992,7 +2992,7 @@
         <Form Tag="I2P" Checked="+">абува´йце</Form>
         <Form Tag="RG" Checked="+">абува´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105676" Lemma="абуджа´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105676" Lemma="абуджа´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абуджа´ць</Form>
         <Form Tag="R1S" Checked="+">абуджа´ю</Form>
         <Form Tag="R2S" Checked="+">абуджа´еш</Form>
@@ -3008,7 +3008,7 @@
         <Form Tag="I2P" Checked="+">абуджа´йце</Form>
         <Form Tag="RG" Checked="+">абуджа´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105684" Lemma="абумо´ўліваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105684" Lemma="абумо´ўліваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абумо´ўліваць</Form>
         <Form Tag="R1S" Checked="+">абумо´ўліваю</Form>
         <Form Tag="R2S" Checked="+">абумо´ўліваеш</Form>
@@ -3024,7 +3024,7 @@
         <Form Tag="I2P" Checked="+">абумо´ўлівайце</Form>
         <Form Tag="RG" Checked="+">абумо´ўліваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105688" Lemma="абура´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105688" Lemma="абура´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абура´ць</Form>
         <Form Tag="R1S" Checked="+">абура´ю</Form>
         <Form Tag="R2S" Checked="+">абура´еш</Form>
@@ -3056,7 +3056,7 @@
         <Form Tag="I2P">абхапляйце</Form>
         <Form Tag="RG">абхапляючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105700" Lemma="абхо´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105700" Lemma="абхо´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абхо´джваць</Form>
         <Form Tag="R1S" Checked="+">абхо´джваю</Form>
         <Form Tag="R2S" Checked="+">абхо´джваеш</Form>
@@ -3072,7 +3072,7 @@
         <Form Tag="I2P" Checked="+">абхо´джвайце</Form>
         <Form Tag="RG" Checked="+">абхо´джваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105706" Lemma="абціна´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105706" Lemma="абціна´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абціна´ць</Form>
         <Form Tag="R1S" Checked="+">абціна´ю</Form>
         <Form Tag="R2S" Checked="+">абціна´еш</Form>
@@ -3088,7 +3088,7 @@
         <Form Tag="I2P" Checked="+">абціна´йце</Form>
         <Form Tag="RG" Checked="+">абціна´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105708" Lemma="абціра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105708" Lemma="абціра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абціра´ць</Form>
         <Form Tag="R1S" Checked="+">абціра´ю</Form>
         <Form Tag="R2S" Checked="+">абціра´еш</Form>
@@ -3104,7 +3104,7 @@
         <Form Tag="I2P" Checked="+">абціра´йце</Form>
         <Form Tag="RG" Checked="+">абціра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105710" Lemma="абціска´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105710" Lemma="абціска´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абціска´ць</Form>
         <Form Tag="R1S" Checked="+">абціска´ю</Form>
         <Form Tag="R2S" Checked="+">абціска´еш</Form>
@@ -3120,7 +3120,7 @@
         <Form Tag="I2P" Checked="+">абціска´йце</Form>
         <Form Tag="RG" Checked="+">абціска´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105716" Lemma="абця´гваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105716" Lemma="абця´гваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абця´гваць</Form>
         <Form Tag="R1S" Checked="+">абця´гваю</Form>
         <Form Tag="R2S" Checked="+">абця´гваеш</Form>
@@ -3136,7 +3136,7 @@
         <Form Tag="I2P" Checked="+">абця´гвайце</Form>
         <Form Tag="RG" Checked="+">абця´гваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105722" Lemma="абцяжа´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105722" Lemma="абцяжа´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абцяжа´рваць</Form>
         <Form Tag="R1S" Checked="+">абцяжа´рваю</Form>
         <Form Tag="R2S" Checked="+">абцяжа´рваеш</Form>
@@ -3168,23 +3168,23 @@
         <Form Tag="I2P">абцяжвайце</Form>
         <Form Tag="RG">абцяжваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105726" Lemma="абцякаць" Tag="VTMN1" Govern="">
-        <Form Tag="0">абцякаць</Form>
-        <Form Tag="R1S">абцякаю</Form>
-        <Form Tag="R2S">абцякаеш</Form>
-        <Form Tag="R3S">абцякае</Form>
-        <Form Tag="R1P">абцякаем</Form>
-        <Form Tag="R2P">абцякаеце</Form>
-        <Form Tag="R3P">абцякаюць</Form>
-        <Form Tag="PXSM">абцякаў</Form>
-        <Form Tag="PXSF">абцякала</Form>
-        <Form Tag="PXSN">абцякала</Form>
-        <Form Tag="PXPX">абцякалі</Form>
-        <Form Tag="I2S">абцякай</Form>
-        <Form Tag="I2P">абцякайце</Form>
-        <Form Tag="RG">абцякаючы</Form>
+    <Paradigm pdgId="1105726" Lemma="абцяка´ць" Tag="VTMN1" Govern="" Slouniki="dzsl">
+        <Form Tag="0">абцяка´ць</Form>
+        <Form Tag="R1S" Type="potential">абцякаю</Form>
+        <Form Tag="R2S" Type="potential">абцякаеш</Form>
+        <Form Tag="R3S">абцяка´е</Form>
+        <Form Tag="R1P" Type="potential">абцякаем</Form>
+        <Form Tag="R2P" Type="potential">абцякаеце</Form>
+        <Form Tag="R3P">абцяка´юць</Form>
+        <Form Tag="PXSM">абцяка´ў</Form>
+        <Form Tag="PXSF">абцяка´ла</Form>
+        <Form Tag="PXSN">абцяка´ла</Form>
+        <Form Tag="PXPX">абцяка´лі</Form>
+        <Form Tag="I2S" Type="potential">абцякай</Form>
+        <Form Tag="I2P" Type="potential">абцякайце</Form>
+        <Form Tag="RG">абцяка´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105730" Lemma="абцяру´шваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105730" Lemma="абцяру´шваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абцяру´шваць</Form>
         <Form Tag="R1S" Checked="+">абцяру´шваю</Form>
         <Form Tag="R2S" Checked="+">абцяру´шваеш</Form>
@@ -3216,7 +3216,7 @@
         <Form Tag="I2P">абчапляйце</Form>
         <Form Tag="RG">абчапляючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105740" Lemma="абчэ´сваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105740" Lemma="абчэ´сваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абчэ´сваць</Form>
         <Form Tag="R1S" Checked="+">абчэ´сваю</Form>
         <Form Tag="R2S" Checked="+">абчэ´сваеш</Form>
@@ -3248,7 +3248,7 @@
         <Form Tag="I2P">абшмароўвайце</Form>
         <Form Tag="RG">абшмароўваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105754" Lemma="абшны´рваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105754" Lemma="абшны´рваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абшны´рваць</Form>
         <Form Tag="R1S" Checked="+">абшны´рваю</Form>
         <Form Tag="R2S" Checked="+">абшны´рваеш</Form>
@@ -3264,7 +3264,7 @@
         <Form Tag="I2P" Checked="+">абшны´рвайце</Form>
         <Form Tag="RG" Checked="+">абшны´рваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105758" Lemma="абшу´кваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105758" Lemma="абшу´кваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абшу´кваць</Form>
         <Form Tag="R1S" Checked="+">абшу´кваю</Form>
         <Form Tag="R2S" Checked="+">абшу´кваеш</Form>
@@ -3280,7 +3280,7 @@
         <Form Tag="I2P" Checked="+">абшу´квайце</Form>
         <Form Tag="RG" Checked="+">абшу´кваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105760" Lemma="абшчы´пваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105760" Lemma="абшчы´пваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абшчы´пваць</Form>
         <Form Tag="R1S" Checked="+">абшчы´пваю</Form>
         <Form Tag="R2S" Checked="+">абшчы´пваеш</Form>
@@ -3296,7 +3296,7 @@
         <Form Tag="I2P" Checked="+">абшчы´пвайце</Form>
         <Form Tag="RG" Checked="+">абшчы´пваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105762" Lemma="абшыва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105762" Lemma="абшыва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абшыва´ць</Form>
         <Form Tag="R1S" Checked="+">абшыва´ю</Form>
         <Form Tag="R2S" Checked="+">абшыва´еш</Form>
@@ -3312,7 +3312,7 @@
         <Form Tag="I2P" Checked="+">абшыва´йце</Form>
         <Form Tag="RG" Checked="+">абшыва´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105767" Lemma="абы´грываць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105767" Lemma="абы´грываць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абы´грываць</Form>
         <Form Tag="R1S" Checked="+">абы´грываю</Form>
         <Form Tag="R2S" Checked="+">абы´грываеш</Form>
@@ -3328,7 +3328,7 @@
         <Form Tag="I2P" Checked="+">абы´грывайце</Form>
         <Form Tag="RG" Checked="+">абы´грываючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105782" Lemma="абязбо´льваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105782" Lemma="абязбо´льваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абязбо´льваць</Form>
         <Form Tag="R1S" Checked="+">абязбо´льваю</Form>
         <Form Tag="R2S" Checked="+">абязбо´льваеш</Form>
@@ -3344,7 +3344,7 @@
         <Form Tag="I2P" Checked="+">абязбо´львайце</Form>
         <Form Tag="RG" Checked="+">абязбо´льваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105786" Lemma="абязве´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105786" Lemma="абязве´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абязве´чваць</Form>
         <Form Tag="R1S" Checked="+">абязве´чваю</Form>
         <Form Tag="R2S" Checked="+">абязве´чваеш</Form>
@@ -3360,7 +3360,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абязве´чвайце</Form>
         <Form Tag="RG" Checked="+">абязве´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105795" Lemma="абяззбро´йваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105795" Lemma="абяззбро´йваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абяззбро´йваць</Form>
         <Form Tag="R1S" Checked="+">абяззбро´йваю</Form>
         <Form Tag="R2S" Checked="+">абяззбро´йваеш</Form>
@@ -3376,7 +3376,7 @@
         <Form Tag="I2P" Checked="+">абяззбро´йвайце</Form>
         <Form Tag="RG" Checked="+">абяззбро´йваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105797" Lemma="абязлі´чваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105797" Lemma="абязлі´чваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абязлі´чваць</Form>
         <Form Tag="R1S" Checked="+">абязлі´чваю</Form>
         <Form Tag="R2S" Checked="+">абязлі´чваеш</Form>
@@ -3392,7 +3392,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абязлі´чвайце</Form>
         <Form Tag="RG" Checked="+">абязлі´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105806" Lemma="абяспло´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105806" Lemma="абяспло´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абяспло´джваць</Form>
         <Form Tag="R1S" Checked="+">абяспло´джваю</Form>
         <Form Tag="R2S" Checked="+">абяспло´джваеш</Form>
@@ -3408,7 +3408,7 @@
         <Form Tag="I2P" Type="potential" Checked="+">абяспло´джвайце</Form>
         <Form Tag="RG" Checked="+">абяспло´джваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105812" Lemma="абястлу´шчваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105812" Lemma="абястлу´шчваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абястлу´шчваць</Form>
         <Form Tag="R1S" Checked="+">абястлу´шчваю</Form>
         <Form Tag="R2S" Checked="+">абястлу´шчваеш</Form>
@@ -3440,7 +3440,7 @@
         <Form Tag="I2P">абясточвайце</Form>
         <Form Tag="RG">абясточваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105822" Lemma="абясцэ´ньваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105822" Lemma="абясцэ´ньваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абясцэ´ньваць</Form>
         <Form Tag="R1S" Checked="+">абясцэ´ньваю</Form>
         <Form Tag="R2S" Checked="+">абясцэ´ньваеш</Form>
@@ -3456,7 +3456,7 @@
         <Form Tag="I2P" Type="nonstandard" Checked="+">абясцэ´ньвайце</Form>
         <Form Tag="RG" Checked="+">абясцэ´ньваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105824" Lemma="абясшко´джваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1105824" Lemma="абясшко´джваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">абясшко´джваць</Form>
         <Form Tag="R1S" Checked="+">абясшко´джваю</Form>
         <Form Tag="R2S" Checked="+">абясшко´джваеш</Form>
@@ -3504,7 +3504,7 @@
         <Form Tag="I2P">аўтадэтэктуйце</Form>
         <Form Tag="RG">аўтадэтэктуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104772" Lemma="аўтаматызава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104772" Lemma="аўтаматызава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аўтаматызава´ць</Form>
         <Form Tag="R1S" Checked="+">аўтаматызу´ю</Form>
         <Form Tag="R2S" Checked="+">аўтаматызу´еш</Form>
@@ -3568,7 +3568,7 @@
         <Form Tag="I2P">аўтапераназывайце</Form>
         <Form Tag="RG">аўтапераназываючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104785" Lemma="аўтарызава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104785" Lemma="аўтарызава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">аўтарызава´ць</Form>
         <Form Tag="R1S" Checked="+">аўтарызу´ю</Form>
         <Form Tag="R2S" Checked="+">аўтарызу´еш</Form>
@@ -3600,7 +3600,7 @@
         <Form Tag="I2P">аўтэнтыфікуйце</Form>
         <Form Tag="RG">аўтэнтыфікуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104599" Lemma="ігнарава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104599" Lemma="ігнарава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ігнарава´ць</Form>
         <Form Tag="R1S" Checked="+">ігнару´ю</Form>
         <Form Tag="R2S" Checked="+">ігнару´еш</Form>
@@ -3616,7 +3616,7 @@
         <Form Tag="I2P" Checked="+">ігнару´йце</Form>
         <Form Tag="RG" Checked="+">ігнару´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104601" Lemma="ігра´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104601" Lemma="ігра´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ігра´ць</Form>
         <Form Tag="R1S" Checked="+">ігра´ю</Form>
         <Form Tag="R2S" Checked="+">ігра´еш</Form>
@@ -3632,7 +3632,7 @@
         <Form Tag="I2P" Checked="+">ігра´йце</Form>
         <Form Tag="RG" Checked="+">ігра´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104605" Lemma="ідэалізава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104605" Lemma="ідэалізава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ідэалізава´ць</Form>
         <Form Tag="R1S" Checked="+">ідэалізу´ю</Form>
         <Form Tag="R2S" Checked="+">ідэалізу´еш</Form>
@@ -3648,14 +3648,14 @@
         <Form Tag="I2P" Checked="+">ідэалізу´йце</Form>
         <Form Tag="RG" Checked="+">ідэалізу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104607" Lemma="ідэнтыфікава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104607" Lemma="ідэнтыфікава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ідэнтыфікава´ць</Form>
-        <Form Tag="R1S" Checked="+">ідэнтыфіку´ю</Form>
+        <Form Tag="R1S" Type="potential" Checked="+">ідэнтыфіку´ю</Form>
         <Form Tag="R2S" Checked="+">ідэнтыфіку´еш</Form>
         <Form Tag="R3S" Checked="+">ідэнтыфіку´е</Form>
         <Form Tag="R1P" Checked="+">ідэнтыфіку´ем</Form>
         <Form Tag="R2P" Checked="+">ідэнтыфіку´еце</Form>
-        <Form Tag="R3P" Checked="+">ідэнтыфіку´юць</Form>
+        <Form Tag="R3P" Type="potential" Checked="+">ідэнтыфіку´юць</Form>
         <Form Tag="PXSM" Checked="+">ідэнтыфікава´ў</Form>
         <Form Tag="PXSF" Checked="+">ідэнтыфікава´ла</Form>
         <Form Tag="PXSN" Checked="+">ідэнтыфікава´ла</Form>
@@ -3663,8 +3663,9 @@
         <Form Tag="I2S" Checked="+">ідэнтыфіку´й</Form>
         <Form Tag="I2P" Checked="+">ідэнтыфіку´йце</Form>
         <Form Tag="RG" Checked="+">ідэнтыфіку´ючы</Form>
+        <Form Tag="????" todo="ёсьць у dzsl">ідэндыфіку´ю</Form>
     </Paradigm>
-    <Paradigm pdgId="1104609" Lemma="ізалява´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104609" Lemma="ізалява´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ізалява´ць</Form>
         <Form Tag="R1S" Checked="+">ізалю´ю</Form>
         <Form Tag="R2S" Checked="+">ізалю´еш</Form>
@@ -3681,7 +3682,7 @@
         <Form Tag="I2P" Checked="+">ізалю´йце</Form>
         <Form Tag="RG" Checked="+">ізалю´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104618" Lemma="ілюмінава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104618" Lemma="ілюмінава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ілюмінава´ць</Form>
         <Form Tag="R1S" Checked="+">ілюміну´ю</Form>
         <Form Tag="R2S" Checked="+">ілюміну´еш</Form>
@@ -3697,7 +3698,7 @@
         <Form Tag="I2P" Checked="+">ілюміну´йце</Form>
         <Form Tag="RG" Checked="+">ілюміну´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104620" Lemma="ілюстрава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104620" Lemma="ілюстрава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ілюстрава´ць</Form>
         <Form Tag="R1S" Checked="+">ілюстру´ю</Form>
         <Form Tag="R2S" Checked="+">ілюстру´еш</Form>
@@ -3713,7 +3714,7 @@
         <Form Tag="I2P" Checked="+">ілюстру´йце</Form>
         <Form Tag="RG" Checked="+">ілюстру´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104623" Lemma="імітава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104623" Lemma="імітава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">імітава´ць</Form>
         <Form Tag="R1S" Checked="+">іміту´ю</Form>
         <Form Tag="R2S" Checked="+">іміту´еш</Form>
@@ -3729,7 +3730,7 @@
         <Form Tag="I2P" Checked="+">іміту´йце</Form>
         <Form Tag="RG" Checked="+">іміту´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104632" Lemma="імпартава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104632" Lemma="імпартава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">імпартава´ць</Form>
         <Form Tag="R1S" Checked="+">імпарту´ю</Form>
         <Form Tag="R2S" Checked="+">імпарту´еш</Form>
@@ -3761,7 +3762,7 @@
         <Form Tag="I2P">імплантуйце</Form>
         <Form Tag="RG">імплантуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104649" Lemma="інвентарызава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104649" Lemma="інвентарызава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інвентарызава´ць</Form>
         <Form Tag="R1S" Checked="+">інвентарызу´ю</Form>
         <Form Tag="R2S" Checked="+">інвентарызу´еш</Form>
@@ -3777,7 +3778,7 @@
         <Form Tag="I2P" Checked="+">інвентарызу´йце</Form>
         <Form Tag="RG" Checked="+">інвентарызу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104652" Lemma="інвертава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104652" Lemma="інвертава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інвертава´ць</Form>
         <Form Tag="R1S" Checked="+">інверту´ю</Form>
         <Form Tag="R2S" Checked="+">інверту´еш</Form>
@@ -3857,7 +3858,7 @@
         <Form Tag="I2P">індукуйце</Form>
         <Form Tag="RG">індукуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104663" Lemma="індустрыялізава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104663" Lemma="індустрыялізава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">індустрыялізава´ць</Form>
         <Form Tag="R1S" Checked="+">індустрыялізу´ю</Form>
         <Form Tag="R2S" Checked="+">індустрыялізу´еш</Form>
@@ -3873,7 +3874,7 @@
         <Form Tag="I2P" Checked="+">індустрыялізу´йце</Form>
         <Form Tag="RG" Checked="+">індустрыялізу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104666" Lemma="індывідуалізава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104666" Lemma="індывідуалізава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">індывідуалізава´ць</Form>
         <Form Tag="R1S" Checked="+">індывідуалізу´ю</Form>
         <Form Tag="R2S" Checked="+">індывідуалізу´еш</Form>
@@ -3969,7 +3970,7 @@
         <Form Tag="I2P">інкапсулюйце</Form>
         <Form Tag="RG">інкапсулюючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104678" Lemma="інкарпарава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104678" Lemma="інкарпарава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інкарпарава´ць</Form>
         <Form Tag="R1S" Checked="+">інкарпару´ю</Form>
         <Form Tag="R2S" Checked="+">інкарпару´еш</Form>
@@ -4001,7 +4002,7 @@
         <Form Tag="I2P">інкасуйце</Form>
         <Form Tag="RG">інкасуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104682" Lemma="інкрустава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104682" Lemma="інкрустава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інкрустава´ць</Form>
         <Form Tag="R1S" Checked="+">інкрусту´ю</Form>
         <Form Tag="R2S" Checked="+">інкрусту´еш</Form>
@@ -4015,9 +4016,10 @@
         <Form Tag="PXPX" Checked="+">інкрустава´лі</Form>
         <Form Tag="I2S" Checked="+">інкрусту´й</Form>
         <Form Tag="I2P" Checked="+">інкрусту´йце</Form>
-        <Form Tag="RG" Checked="+">інкрусту´ючы</Form>
+        <Form Tag="RG" Type="potential" Checked="+">інкрусту´ючы</Form>
+        <Form Tag="????" todo="ёсьць у dzsl">ікрусту´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104684" Lemma="інкрымінава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104684" Lemma="інкрымінава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інкрымінава´ць</Form>
         <Form Tag="R1S" Checked="+">інкрыміну´ю</Form>
         <Form Tag="R2S" Checked="+">інкрыміну´еш</Form>
@@ -4033,7 +4035,7 @@
         <Form Tag="I2P" Checked="+">інкрыміну´йце</Form>
         <Form Tag="RG" Checked="+">інкрыміну´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104690" Lemma="інспектава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104690" Lemma="інспектава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інспектава´ць</Form>
         <Form Tag="R1S" Checked="+">інспекту´ю</Form>
         <Form Tag="R2S" Checked="+">інспекту´еш</Form>
@@ -4049,7 +4051,7 @@
         <Form Tag="I2P" Checked="+">інспекту´йце</Form>
         <Form Tag="RG" Checked="+">інспекту´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104687" Lemma="інспірава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104687" Lemma="інспірава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інспірава´ць</Form>
         <Form Tag="R1S" Checked="+">інспіру´ю</Form>
         <Form Tag="R2S" Checked="+">інспіру´еш</Form>
@@ -4081,7 +4083,7 @@
         <Form Tag="I2P">інсталюйце</Form>
         <Form Tag="RG">інсталюючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104697" Lemma="інструктава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104697" Lemma="інструктава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інструктава´ць</Form>
         <Form Tag="R1S" Checked="+">інструкту´ю</Form>
         <Form Tag="R2S" Checked="+">інструкту´еш</Form>
@@ -4097,7 +4099,7 @@
         <Form Tag="I2P" Checked="+">інструкту´йце</Form>
         <Form Tag="RG" Checked="+">інструкту´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104700" Lemma="інструментава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104700" Lemma="інструментава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інструментава´ць</Form>
         <Form Tag="R1S" Checked="+">інструменту´ю</Form>
         <Form Tag="R2S" Checked="+">інструменту´еш</Form>
@@ -4145,7 +4147,7 @@
         <Form Tag="I2P">інсцэнуйце</Form>
         <Form Tag="RG">інсцэнуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104708" Lemma="інтанава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104708" Lemma="інтанава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інтанава´ць</Form>
         <Form Tag="R1S" Checked="+">інтану´ю</Form>
         <Form Tag="R2S" Checked="+">інтану´еш</Form>
@@ -4161,7 +4163,7 @@
         <Form Tag="I2P" Checked="+">інтану´йце</Form>
         <Form Tag="RG" Checked="+">інтану´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104713" Lemma="інтэграва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104713" Lemma="інтэграва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інтэграва´ць</Form>
         <Form Tag="R1S" Checked="+">інтэгру´ю</Form>
         <Form Tag="R2S" Checked="+">інтэгру´еш</Form>
@@ -4177,7 +4179,7 @@
         <Form Tag="I2P" Checked="+">інтэгру´йце</Form>
         <Form Tag="RG" Checked="+">інтэгру´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104715" Lemma="інтэнсіфікава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104715" Lemma="інтэнсіфікава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інтэнсіфікава´ць</Form>
         <Form Tag="R1S" Checked="+">інтэнсіфіку´ю</Form>
         <Form Tag="R2S" Checked="+">інтэнсіфіку´еш</Form>
@@ -4241,7 +4243,7 @@
         <Form Tag="I2P">інтэрнуйце</Form>
         <Form Tag="RG">інтэрнуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104722" Lemma="інтэрнацыяналізава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104722" Lemma="інтэрнацыяналізава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інтэрнацыяналізава´ць</Form>
         <Form Tag="R1S" Checked="+">інтэрнацыяналізу´ю</Form>
         <Form Tag="R2S" Checked="+">інтэрнацыяналізу´еш</Form>
@@ -4257,7 +4259,7 @@
         <Form Tag="I2P" Checked="+">інтэрнацыяналізу´йце</Form>
         <Form Tag="RG" Checked="+">інтэрнацыяналізу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104728" Lemma="інтэрпрэтава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104728" Lemma="інтэрпрэтава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інтэрпрэтава´ць</Form>
         <Form Tag="R1S" Checked="+">інтэрпрэту´ю</Form>
         <Form Tag="R2S" Checked="+">інтэрпрэту´еш</Form>
@@ -4273,7 +4275,7 @@
         <Form Tag="I2P" Checked="+">інтэрпрэту´йце</Form>
         <Form Tag="RG" Checked="+">інтэрпрэту´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104732" Lemma="інфармава´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104732" Lemma="інфармава´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">інфармава´ць</Form>
         <Form Tag="R1S" Checked="+">інфарму´ю</Form>
         <Form Tag="R2S" Checked="+">інфарму´еш</Form>
@@ -4305,7 +4307,7 @@
         <Form Tag="I2P">інфікуйце</Form>
         <Form Tag="RG">інфікуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104738" Lemma="ірва´ць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104738" Lemma="ірва´ць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ірва´ць</Form>
         <Form Tag="R1S" Checked="+">ірву´</Form>
         <Form Tag="R2S" Checked="+">ірве´ш</Form>
@@ -4337,7 +4339,7 @@
         <Form Tag="I2P">ірыгуйце</Form>
         <Form Tag="RG">ірыгуючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104755" Lemma="іспы´тваць" Tag="VTMN1" Govern="" Checked="+">
+    <Paradigm pdgId="1104755" Lemma="іспы´тваць" Tag="VTMN1" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">іспы´тваць</Form>
         <Form Tag="R1S" Checked="+">іспы´тваю</Form>
         <Form Tag="R2S" Checked="+">іспы´тваеш</Form>

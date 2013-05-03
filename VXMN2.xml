@@ -351,10 +351,10 @@
         <Form Tag="I2S"></Form>
         <Form Tag="I2P"></Form>
         <Form Tag="RG">бале´ючы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">бале´й</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">бале´йце</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">балі´ць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">баля´ць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">бале´й</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">бале´йце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">балі´ць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">баля´ць</Form>
     </Paradigm>
     <Paradigm pdgId="1150389" Lemma="бамбі´ць" Tag="VXMN2" Checked="?vbdict_only?" Slouniki="dzsl">
         <Form Tag="0" Checked="?vbdict_only?">бамбі´ць</Form>
@@ -1824,8 +1824,8 @@
         <Form Tag="I2S" Type="potential" Checked="+">ву´дзі</Form>
         <Form Tag="I2P" Checked="+">ву´дзіце</Form>
         <Form Tag="RG" Checked="+">ву´дзячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">вудзь</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">ву´дзьце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">вудзь</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">ву´дзьце</Form>
     </Paradigm>
     <Paradigm pdgId="1108118" Lemma="ву´зіць" Tag="VXMN2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">ву´зіць</Form>
@@ -2002,7 +2002,7 @@
         <Form Tag="I2S" Type="potential" Checked="+">вядзьма´р</Form>
         <Form Tag="I2P" Type="potential" Checked="+">вядзьма´рце</Form>
         <Form Tag="RG" Checked="+">вядзьма´рачы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">выдзьма´рыць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">выдзьма´рыць</Form>
     </Paradigm>
     <Paradigm pdgId="1150420" Lemma="вяле´ць" Tag="VXMN2" Checked="?vbdict_only?" Slouniki="dzsl">
         <Form Tag="0" Checked="?vbdict_only?">вяле´ць</Form>
@@ -2764,11 +2764,11 @@
         <Form Tag="I2S" Checked="+">грашы´</Form>
         <Form Tag="I2P" Checked="+">грашы´це</Form>
         <Form Tag="RG" Checked="+"></Form>
-        <Form Tag="????" todo="ёсьць у dzsl">грэ´шаш</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">грэ´шыць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">грэ´шым</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">грэ´шыце</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">грэ´шаць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">грэ´шаш</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">грэ´шыць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">грэ´шым</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">грэ´шыце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">грэ´шаць</Form>
     </Paradigm>
     <Paradigm pdgId="1150434" Lemma="грубі´ць" Tag="VXMN2" Checked="?vbdict_only?" Slouniki="dzsl">
         <Form Tag="0" Checked="?vbdict_only?">грубі´ць</Form>
@@ -3743,7 +3743,7 @@
         <Form Tag="I2S" Checked="+">е´нчы</Form>
         <Form Tag="I2P" Checked="+">е´нчыце</Form>
         <Form Tag="RG" Type="potential" Checked="+">е´нчачы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">е´нчучы</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">е´нчучы</Form>
     </Paradigm>
     <Paradigm pdgId="1150451" Lemma="жабра´чыць" Tag="VXMN2" Checked="?vbdict_only?" Slouniki="dzsl">
         <Form Tag="0" Checked="?vbdict_only?">жабра´чыць</Form>
@@ -6669,7 +6669,7 @@
         <Form Tag="I2S" Checked="+">ляці´</Form>
         <Form Tag="I2P" Checked="+">ляці´це</Form>
         <Form Tag="RG" Type="potential" Checked="+">ле´цячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">леця´ць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">леця´ць</Form>
     </Paradigm>
     <Paradigm pdgId="1114152" Lemma="лячы´ць" Tag="VXMN2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">лячы´ць</Form>
@@ -8309,11 +8309,11 @@
         <Form Tag="I2S" Checked="+">пасі´</Form>
         <Form Tag="I2P" Checked="+">пасі´це</Form>
         <Form Tag="RG" Checked="+">па´свячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасе´ш</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасе´</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасё´м</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасяце´</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасу´ць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">пасе´ш</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">пасе´</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">пасё´м</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">пасяце´</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">пасу´ць</Form>
     </Paradigm>
     <Paradigm pdgId="1160568" Lemma="пасвіць" Tag="VXMN2">
         <Form Tag="0">пасвіць</Form>
@@ -10728,17 +10728,17 @@
         <Form Tag="I2S">смалі´</Form>
         <Form Tag="I2P">смаліце</Form>
         <Form Tag="RG">сма´лячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смалі´ць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´ліш</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´ліць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´лім</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´ліце</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´ляць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смалі´це</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´лячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">сма´ліць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">сма´ліце</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смалі´це</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смалі´ць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смо´ліш</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смо´ліць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смо´лім</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смо´ліце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смо´ляць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смалі´це</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смо´лячы</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">сма´ліць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">сма´ліце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">смалі´це</Form>
     </Paradigm>
     <Paradigm pdgId="1150593" Lemma="сме´ціць" Tag="VXMN2" Checked="?vbdict_only?" Slouniki="dzsl">
         <Form Tag="0" Checked="?vbdict_only?">сме´ціць</Form>
@@ -10883,7 +10883,7 @@
         <Form Tag="I2S" Checked="+">спі</Form>
         <Form Tag="I2P" Checked="+">спі´це</Form>
         <Form Tag="RG" Type="potential" Checked="+">сплючы´</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">спя´чы</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">спя´чы</Form>
     </Paradigm>
     <Paradigm pdgId="1150597" Lemma="спе´ліць" Tag="VXMN2" Checked="?vbdict_only?" Slouniki="dzsl">
         <Form Tag="0" Checked="?vbdict_only?">спе´ліць</Form>
@@ -11012,7 +11012,7 @@
         <Form Tag="I2S" Checked="+">стой</Form>
         <Form Tag="I2P" Checked="+">сто´йце</Form>
         <Form Tag="RG" Checked="+">сто´ячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">стая´чы</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">стая´чы</Form>
     </Paradigm>
     <Paradigm pdgId="1124171" Lemma="сто´ліць" Tag="VXMN2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">сто´ліць</Form>
@@ -12967,8 +12967,8 @@
         <Form Tag="I2S" Type="potential" Checked="+">хібі</Form>
         <Form Tag="I2P" Checked="+">хі´біце</Form>
         <Form Tag="RG" Checked="+">хі´бячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">хіб</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">хі´бце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">хіб</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">хі´бце</Form>
     </Paradigm>
     <Paradigm pdgId="1126250" Lemma="хілі´ць" Tag="VXMN2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">хілі´ць</Form>
@@ -13228,8 +13228,8 @@
         <Form Tag="I2S" Type="potential">цверазі</Form>
         <Form Tag="I2P" Type="potential">цверазіце</Form>
         <Form Tag="RG" Type="potential">цверазячы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цвярэ´зіць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цвярэ´зяць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цвярэ´зіць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цвярэ´зяць</Form>
     </Paradigm>
     <Paradigm pdgId="1126382" Lemma="цвердзіць" Tag="VXMN2" Govern="">
         <Form Tag="0">цвердзіць</Form>
@@ -13518,14 +13518,14 @@
         <Form Tag="I2S" Type="potential">цяжар</Form>
         <Form Tag="I2P" Type="potential">цяжарце</Form>
         <Form Tag="RG" Type="potential">цяжарачы</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´раю</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´раеш</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´рае</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´раем</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´раеце</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´раюць</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´рала</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяжа´ралі</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´раю</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´раеш</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´рае</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´раем</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´раеце</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´раюць</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´рала</Form>
+        <Form Tag="XXXX" todo="ёсьць у dzsl">цяжа´ралі</Form>
     </Paradigm>
     <Paradigm pdgId="1126455" Lemma="цяліць" Tag="VXMN2" Govern="">
         <Form Tag="0">цяліць</Form>

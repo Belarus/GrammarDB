@@ -470,23 +470,21 @@
         <Form Tag="I2P">бузіцеся</Form>
         <Form Tag="RG">бузячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1107927" Lemma="бурыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">бурыцца</Form>
-        <Form Tag="R1S" Type="potential">буруся</Form>
-        <Form Tag="R2S" Type="potential">бурышся</Form>
-        <Form Tag="R3S">бурыцца</Form>
-        <Form Tag="R1P" Type="potential">бурымся</Form>
-        <Form Tag="R2P" Type="potential">бурыцеся</Form>
+    <Paradigm pdgId="1107927" Lemma="буры´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">буры´цца</Form>
+        <Form Tag="R1S" Type="potential">буру´ся</Form>
+        <Form Tag="R2S" Type="potential">бу´рышся</Form>
+        <Form Tag="R3S">бу´рыцца</Form>
+        <Form Tag="R1P" Type="potential">бу´рымся</Form>
+        <Form Tag="R2P" Type="potential">бу´рыцеся</Form>
         <Form Tag="R3P">бу´рацца</Form>
         <Form Tag="PXSM">буры´ўся</Form>
         <Form Tag="PXSF">буры´лася</Form>
         <Form Tag="PXSN">буры´лася</Form>
         <Form Tag="PXPX">буры´ліся</Form>
-        <Form Tag="I2S" Type="potential">бурыся</Form>
-        <Form Tag="I2P" Type="potential">бурыцеся</Form>
-        <Form Tag="RG" Type="potential">бурачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">буры´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">бу´рыцца</Form>
+        <Form Tag="I2S" Type="potential">буры´ся</Form>
+        <Form Tag="I2P" Type="potential">буры´цеся</Form>
+        <Form Tag="RG" Type="potential">бу´рачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1107935" Lemma="буці´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">буці´цца</Form>
@@ -1040,20 +1038,24 @@
     </Paradigm>
     <Paradigm pdgId="1109436" Lemma="вяршы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">вяршы´цца</Form>
-        <Form Tag="R1S" Type="potential">вяршуся</Form>
-        <Form Tag="R2S" Type="potential">вершышся</Form>
-        <Form Tag="R3S" Type="potential">вершыцца</Form>
-        <Form Tag="R1P" Type="potential">вершымся</Form>
-        <Form Tag="R2P" Type="potential">вершыцеся</Form>
-        <Form Tag="R3P" Type="potential">вершацца</Form>
+        <Form Tag="R1S" Type="potential">вяршу´ся</Form>
+        <Form Tag="R2S" Type="potential">ве´ршышся</Form>
+        <Form Tag="R2S" Type="potential">вяршы´шся</Form>
+        <Form Tag="R3S" Type="potential">ве´ршыцца</Form>
+        <Form Tag="R3S" Type="potential">вяршы´цца</Form>
+        <Form Tag="R1P" Type="potential">ве´ршымся</Form>
+        <Form Tag="R1P" Type="potential">вяршы´мся</Form>
+        <Form Tag="R2P" Type="potential">ве´ршыцеся</Form>
+        <Form Tag="R2P" Type="potential">вяршы´цеся</Form>
+        <Form Tag="R3P" Type="potential">ве´ршацца</Form>
+        <Form Tag="R3P">вярша´цца</Form>
         <Form Tag="PXSM">вяршы´ўся</Form>
         <Form Tag="PXSF">вяршы´лася</Form>
         <Form Tag="PXSN">вяршы´лася</Form>
         <Form Tag="PXPX">вяршы´ліся</Form>
-        <Form Tag="I2S" Type="potential">вяршыся</Form>
-        <Form Tag="I2P" Type="potential">вяршыцеся</Form>
-        <Form Tag="RG" Type="potential">вершачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">вярша´цца</Form>
+        <Form Tag="I2S" Type="potential">вяршы´ся</Form>
+        <Form Tag="I2P" Type="potential">вяршы´цеся</Form>
+        <Form Tag="RG" Type="potential">ве´ршачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109439" Lemma="вярэ´дзіцца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">вярэ´дзіцца</Form>
@@ -1343,41 +1345,37 @@
         <Form Tag="I2P">гарыцеся</Form>
         <Form Tag="RG">гаручыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109546" Lemma="гасіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">гасіцца</Form>
-        <Form Tag="R1S" Type="potential">гашуся</Form>
-        <Form Tag="R2S" Type="potential">гасішся</Form>
-        <Form Tag="R3S">гасіцца</Form>
-        <Form Tag="R1P" Type="potential">гасімся</Form>
-        <Form Tag="R2P" Type="potential">гасіцеся</Form>
+    <Paradigm pdgId="1109546" Lemma="гасі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">гасі´цца</Form>
+        <Form Tag="R1S" Type="potential">гашу´ся</Form>
+        <Form Tag="R2S" Type="potential">га´сішся</Form>
+        <Form Tag="R3S">га´сіцца</Form>
+        <Form Tag="R1P" Type="potential">га´сімся</Form>
+        <Form Tag="R2P" Type="potential">га´сіцеся</Form>
         <Form Tag="R3P">га´сяцца</Form>
         <Form Tag="PXSM">гасі´ўся</Form>
         <Form Tag="PXSF">гасі´лася</Form>
         <Form Tag="PXSN">гасі´лася</Form>
         <Form Tag="PXPX">гасі´ліся</Form>
-        <Form Tag="I2S" Type="potential">гасіся</Form>
-        <Form Tag="I2P" Type="potential">гасіцеся</Form>
-        <Form Tag="RG" Type="potential">гасячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">гасі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">га´сіцца</Form>
+        <Form Tag="I2S" Type="potential">гасі´ся</Form>
+        <Form Tag="I2P" Type="potential">гасі´цеся</Form>
+        <Form Tag="RG" Type="potential">га´сячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109562" Lemma="гаціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">гаціцца</Form>
-        <Form Tag="R1S" Type="potential">гачуся</Form>
-        <Form Tag="R2S" Type="potential">гацішся</Form>
-        <Form Tag="R3S">гаціцца</Form>
-        <Form Tag="R1P" Type="potential">гацімся</Form>
-        <Form Tag="R2P" Type="potential">гаціцеся</Form>
+    <Paradigm pdgId="1109562" Lemma="гаці´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">гаці´цца</Form>
+        <Form Tag="R1S" Type="potential">га´чуся</Form>
+        <Form Tag="R2S" Type="potential">га´цішся</Form>
+        <Form Tag="R3S">га´ціцца</Form>
+        <Form Tag="R1P" Type="potential">га´цімся</Form>
+        <Form Tag="R2P" Type="potential">га´ціцеся</Form>
         <Form Tag="R3P">га´цяцца</Form>
         <Form Tag="PXSM">гаці´ўся</Form>
         <Form Tag="PXSF">гаці´лася</Form>
         <Form Tag="PXSN">гаці´лася</Form>
         <Form Tag="PXPX">гаці´ліся</Form>
-        <Form Tag="I2S" Type="potential">гаціся</Form>
-        <Form Tag="I2P" Type="potential">гаціцеся</Form>
-        <Form Tag="RG" Type="potential">гацячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">гаці´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">га´ціцца</Form>
+        <Form Tag="I2S" Type="potential">гаці´ся</Form>
+        <Form Tag="I2P" Type="potential">гаці´цеся</Form>
+        <Form Tag="RG" Type="potential">га´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109570" Lemma="гва´лціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">гва´лціцца</Form>
@@ -1427,23 +1425,21 @@
         <Form Tag="I2P" Checked="+">гла´дзьцеся</Form>
         <Form Tag="RG" Checked="+">гла´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109588" Lemma="глушыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">глушыцца</Form>
-        <Form Tag="R1S" Type="potential">глушуся</Form>
-        <Form Tag="R2S" Type="potential">глушышся</Form>
-        <Form Tag="R3S">глушыцца</Form>
-        <Form Tag="R1P" Type="potential">глушымся</Form>
-        <Form Tag="R2P" Type="potential">глушыцеся</Form>
+    <Paradigm pdgId="1109588" Lemma="глушы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">глушы´цца</Form>
+        <Form Tag="R1S" Type="potential">глушу´ся</Form>
+        <Form Tag="R2S" Type="potential">глу´шышся</Form>
+        <Form Tag="R3S">глу´шыцца</Form>
+        <Form Tag="R1P" Type="potential">глу´шымся</Form>
+        <Form Tag="R2P" Type="potential">глу´шыцеся</Form>
         <Form Tag="R3P">глу´шацца</Form>
         <Form Tag="PXSM">глушы´ўся</Form>
         <Form Tag="PXSF">глушы´лася</Form>
         <Form Tag="PXSN">глушы´лася</Form>
         <Form Tag="PXPX">глушы´ліся</Form>
-        <Form Tag="I2S" Type="potential">глушыся</Form>
-        <Form Tag="I2P" Type="potential">глушыцеся</Form>
-        <Form Tag="RG" Type="potential">глушачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">глушы´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">глу´шыцца</Form>
+        <Form Tag="I2S" Type="potential">глушы´ся</Form>
+        <Form Tag="I2P" Type="potential">глушы´цеся</Form>
+        <Form Tag="RG" Type="potential">глу´шачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109598" Lemma="глядзе´цца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">глядзе´цца</Form>
@@ -1622,23 +1618,21 @@
         <Form Tag="I2P" Checked="+">грузі´цеся</Form>
         <Form Tag="RG" Checked="+">гру´зячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1109684" Lemma="губіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">губіцца</Form>
-        <Form Tag="R1S" Type="potential">гублюся</Form>
-        <Form Tag="R2S" Type="potential">губішся</Form>
-        <Form Tag="R3S">губіцца</Form>
-        <Form Tag="R1P" Type="potential">губімся</Form>
-        <Form Tag="R2P" Type="potential">губіцеся</Form>
+    <Paradigm pdgId="1109684" Lemma="губі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">губі´цца</Form>
+        <Form Tag="R1S" Type="potential">гублю´ся</Form>
+        <Form Tag="R2S" Type="potential">гу´бішся</Form>
+        <Form Tag="R3S">гу´біцца</Form>
+        <Form Tag="R1P" Type="potential">гу´бімся</Form>
+        <Form Tag="R2P" Type="potential">гу´біцеся</Form>
         <Form Tag="R3P">гу´бяцца</Form>
         <Form Tag="PXSM">губі´ўся</Form>
         <Form Tag="PXSF">губі´лася</Form>
         <Form Tag="PXSN">губі´лася</Form>
         <Form Tag="PXPX">губі´ліся</Form>
-        <Form Tag="I2S" Type="potential">губіся</Form>
-        <Form Tag="I2P" Type="potential">губіцеся</Form>
-        <Form Tag="RG" Type="potential">губячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">губі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">гу´біцца</Form>
+        <Form Tag="I2S" Type="potential">губі´ся</Form>
+        <Form Tag="I2P" Type="potential">губі´цеся</Form>
+        <Form Tag="RG" Type="potential">гу´бячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1109691" Lemma="гугнявіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">гугнявіцца</Form>
@@ -1949,20 +1943,20 @@
     </Paradigm>
     <Paradigm pdgId="1110426" Lemma="драбні´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">драбні´цца</Form>
-        <Form Tag="R1S" Type="potential">драбнюся</Form>
-        <Form Tag="R2S" Type="potential">дробнішся</Form>
+        <Form Tag="R1S" Type="potential">драбню´ся</Form>
+        <Form Tag="R2S" Type="potential">дро´бнішся</Form>
         <Form Tag="R3S">дро´бніцца</Form>
-        <Form Tag="R1P" Type="potential">дробнімся</Form>
-        <Form Tag="R2P" Type="potential">дробніцеся</Form>
+        <Form Tag="R1P" Type="potential">дро´бнімся</Form>
+        <Form Tag="R2P" Type="potential">дро´бніцеся</Form>
         <Form Tag="R3P">дро´бняцца</Form>
+        <Form Tag="R3P">драбня´цца</Form>
         <Form Tag="PXSM">драбні´ўся</Form>
         <Form Tag="PXSF">драбні´лася</Form>
         <Form Tag="PXSN">драбні´лася</Form>
         <Form Tag="PXPX">драбні´ліся</Form>
-        <Form Tag="I2S" Type="potential">драбніся</Form>
-        <Form Tag="I2P" Type="potential">драбніцеся</Form>
-        <Form Tag="RG" Type="potential">дробнячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">драбня´цца</Form>
+        <Form Tag="I2S" Type="potential">драбні´ся</Form>
+        <Form Tag="I2P" Type="potential">драбні´цеся</Form>
+        <Form Tag="RG" Type="potential">дро´бнячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1110409" Lemma="драбязніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">драбязніцца</Form>
@@ -2044,23 +2038,21 @@
         <Form Tag="I2P">дубасьцеся</Form>
         <Form Tag="RG">дубасячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1110453" Lemma="дубіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">дубіцца</Form>
-        <Form Tag="R1S" Type="potential">дублюся</Form>
-        <Form Tag="R2S" Type="potential">дубішся</Form>
-        <Form Tag="R3S">дубіцца</Form>
-        <Form Tag="R1P" Type="potential">дубімся</Form>
-        <Form Tag="R2P" Type="potential">дубіцеся</Form>
+    <Paradigm pdgId="1110453" Lemma="дубі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">ду´біцца</Form>
+        <Form Tag="R1S" Type="potential">дублю´ся</Form>
+        <Form Tag="R2S" Type="potential">ду´бішся</Form>
+        <Form Tag="R3S">ду´біцца</Form>
+        <Form Tag="R1P" Type="potential">ду´бімся</Form>
+        <Form Tag="R2P" Type="potential">ду´біцеся</Form>
         <Form Tag="R3P">ду´бяцца</Form>
         <Form Tag="PXSM">дубі´ўся</Form>
         <Form Tag="PXSF">дубі´лася</Form>
         <Form Tag="PXSN">дубі´лася</Form>
         <Form Tag="PXPX">дубі´ліся</Form>
-        <Form Tag="I2S" Type="potential">дубіся</Form>
-        <Form Tag="I2P" Type="potential">дубіцеся</Form>
-        <Form Tag="RG" Type="potential">дубячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">дубі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">ду´біцца</Form>
+        <Form Tag="I2S" Type="potential">дубі´ся</Form>
+        <Form Tag="I2P" Type="potential">дубі´цеся</Form>
+        <Form Tag="RG" Type="potential">ду´бячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1110470" Lemma="дуры´цца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">дуры´цца</Form>
@@ -2328,6 +2320,7 @@
         <Form Tag="R1P" Type="potential">залоцімся</Form>
         <Form Tag="R2P" Type="potential">залоціцеся</Form>
         <Form Tag="R3P">зало´цяцца</Form>
+        <Form Tag="R3P">залаця´цца</Form>
         <Form Tag="PXSM">залаці´ўся</Form>
         <Form Tag="PXSF">залаці´лася</Form>
         <Form Tag="PXSN">залаці´лася</Form>
@@ -2335,7 +2328,6 @@
         <Form Tag="I2S" Type="potential">залаціся</Form>
         <Form Tag="I2P" Type="potential">залаціцеся</Form>
         <Form Tag="RG" Type="potential">залоцячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">залаця´цца</Form>
     </Paradigm>
     <Paradigm pdgId="1111729" Lemma="зано´сіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">зано´сіцца</Form>
@@ -2545,41 +2537,37 @@
         <Form Tag="I2P" Type="potential" Checked="+">зно´сьцеся</Form>
         <Form Tag="RG" Checked="+">зно´сячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113486" Lemma="зубіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">зубіцца</Form>
-        <Form Tag="R1S" Type="potential">зублюся</Form>
-        <Form Tag="R2S" Type="potential">зубішся</Form>
-        <Form Tag="R3S">зубіцца</Form>
-        <Form Tag="R1P" Type="potential">зубімся</Form>
-        <Form Tag="R2P" Type="potential">зубіцеся</Form>
+    <Paradigm pdgId="1113486" Lemma="зубі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">зу´біцца</Form>
+        <Form Tag="R1S" Type="potential">зублю´ся</Form>
+        <Form Tag="R2S" Type="potential">зу´бішся</Form>
+        <Form Tag="R3S">зу´біцца</Form>
+        <Form Tag="R1P" Type="potential">зу´бімся</Form>
+        <Form Tag="R2P" Type="potential">зу´біцеся</Form>
         <Form Tag="R3P">зу´бяцца</Form>
         <Form Tag="PXSM">зубі´ўся</Form>
         <Form Tag="PXSF">зубі´лася</Form>
         <Form Tag="PXSN">зубі´лася</Form>
         <Form Tag="PXPX">зубі´ліся</Form>
-        <Form Tag="I2S" Type="potential">зубіся</Form>
-        <Form Tag="I2P" Type="potential">зубіцеся</Form>
-        <Form Tag="RG" Type="potential">зубячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">зубі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">зу´біцца</Form>
+        <Form Tag="I2S" Type="potential">зубі´ся</Form>
+        <Form Tag="I2P" Type="potential">зубі´цеся</Form>
+        <Form Tag="RG" Type="potential">зу´бячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113488" Lemma="зубрыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">зубрыцца</Form>
-        <Form Tag="R1S" Type="potential">зубруся</Form>
-        <Form Tag="R2S" Type="potential">зубрышся</Form>
-        <Form Tag="R3S">зубрыцца</Form>
-        <Form Tag="R1P" Type="potential">зубрымся</Form>
-        <Form Tag="R2P" Type="potential">зубрыцеся</Form>
+    <Paradigm pdgId="1113488" Lemma="зубры´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">зу´брыцца</Form>
+        <Form Tag="R1S" Type="potential">зубру´ся</Form>
+        <Form Tag="R2S" Type="potential">зу´брышся</Form>
+        <Form Tag="R3S">зу´брыцца</Form>
+        <Form Tag="R1P" Type="potential">зу´брымся</Form>
+        <Form Tag="R2P" Type="potential">зу´брыцеся</Form>
         <Form Tag="R3P">зу´брацца</Form>
         <Form Tag="PXSM">зубры´ўся</Form>
         <Form Tag="PXSF">зубры´лася</Form>
         <Form Tag="PXSN">зубры´лася</Form>
         <Form Tag="PXPX">зубры´ліся</Form>
-        <Form Tag="I2S" Type="potential">зубрыся</Form>
-        <Form Tag="I2P" Type="potential">зубрыцеся</Form>
-        <Form Tag="RG" Type="potential">зубрачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">зубры´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">зу´брыцца</Form>
+        <Form Tag="I2S" Type="potential">зубры´ся</Form>
+        <Form Tag="I2P" Type="potential">зубры´цеся</Form>
+        <Form Tag="RG" Type="potential">зу´брачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113501" Lemma="зыходзіцца" Tag="VIMR2" Govern="">
         <Form Tag="0">зыходзіцца</Form>
@@ -2651,17 +2639,15 @@
         <Form Tag="R2S">імчы´шся</Form>
         <Form Tag="R3S">імчы´цца</Form>
         <Form Tag="R1P">імчы´мся</Form>
-        <Form Tag="R2P">імчыцеся</Form>
+        <Form Tag="R2P">імчыце´ся</Form>
         <Form Tag="R3P">імча´цца</Form>
         <Form Tag="PXSM">імча´ўся</Form>
         <Form Tag="PXSF">імча´лася</Form>
         <Form Tag="PXSN">імча´лася</Form>
         <Form Tag="PXPX">імча´ліся</Form>
         <Form Tag="I2S">імчы´ся</Form>
-        <Form Tag="I2P">імчыцеся</Form>
-        <Form Tag="RG" Type="potential">імчучыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">імчыце´ся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">імчы´цеся</Form>
+        <Form Tag="I2P">імчы´цеся</Form>
+        <Form Tag="RG" Type="potential">імчучы´ся</Form>
     </Paradigm>
     <Paradigm pdgId="1104639" Lemma="імшы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">імшы´цца</Form>
@@ -2859,20 +2845,19 @@
     </Paradigm>
     <Paradigm pdgId="1113583" Lemma="калма´ціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">калма´ціцца</Form>
-        <Form Tag="R1S" Type="potential">калмачуся</Form>
-        <Form Tag="R2S" Type="potential">калмоцішся</Form>
-        <Form Tag="R3S" Type="potential">калмоціцца</Form>
-        <Form Tag="R1P" Type="potential">калмоцімся</Form>
-        <Form Tag="R2P" Type="potential">калмоціцеся</Form>
-        <Form Tag="R3P" Type="potential">калмоцяцца</Form>
+        <Form Tag="R1S" Type="potential">калма´чуся</Form>
+        <Form Tag="R2S" Type="potential">калма´цішся</Form>
+        <Form Tag="R3S" Type="potential">калма´ціцца</Form>
+        <Form Tag="R1P" Type="potential">калма´цімся</Form>
+        <Form Tag="R2P" Type="potential">калма´ціцеся</Form>
+        <Form Tag="R3P">калма´цяцца</Form>
         <Form Tag="PXSM">калма´ціўся</Form>
         <Form Tag="PXSF">калма´цілася</Form>
         <Form Tag="PXSN">калма´цілася</Form>
         <Form Tag="PXPX">калма´ціліся</Form>
-        <Form Tag="I2S" Type="potential">калмаціся</Form>
-        <Form Tag="I2P" Type="potential">калмаціцеся</Form>
-        <Form Tag="RG" Type="potential">калмоцячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">калма´цяцца</Form>
+        <Form Tag="I2S" Type="potential">калма´ціся</Form>
+        <Form Tag="I2P" Type="potential">калма´ціцеся</Form>
+        <Form Tag="RG" Type="potential">калма´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113615" Lemma="каме´чыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">каме´чыцца</Form>
@@ -2892,21 +2877,19 @@
     </Paradigm>
     <Paradigm pdgId="1113639" Lemma="камячы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">камячы´цца</Form>
-        <Form Tag="R1S" Type="potential">камячуся</Form>
-        <Form Tag="R2S" Type="potential">камячышся</Form>
-        <Form Tag="R3S">камячы´цца</Form>
-        <Form Tag="R1P" Type="potential">камячымся</Form>
-        <Form Tag="R2P" Type="potential">камячыцеся</Form>
-        <Form Tag="R3P" Type="potential">камячацца</Form>
+        <Form Tag="R1S" Type="potential">камячу´ся</Form>
+        <Form Tag="R2S" Type="potential">каме´чышся</Form>
+        <Form Tag="R3S">каме´чыцца</Form>
+        <Form Tag="R1P" Type="potential">каме´чымся</Form>
+        <Form Tag="R2P" Type="potential">каме´чыцеся</Form>
+        <Form Tag="R3P">каме´чацца</Form>
         <Form Tag="PXSM">камячы´ўся</Form>
         <Form Tag="PXSF">камячы´лася</Form>
         <Form Tag="PXSN">камячы´лася</Form>
         <Form Tag="PXPX">камячы´ліся</Form>
-        <Form Tag="I2S" Type="potential">камячыся</Form>
-        <Form Tag="I2P" Type="potential">камячыцеся</Form>
-        <Form Tag="RG" Type="potential">камячачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">каме´чыцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">каме´чацца</Form>
+        <Form Tag="I2S" Type="potential">камячы´ся</Form>
+        <Form Tag="I2P" Type="potential">камячы´цеся</Form>
+        <Form Tag="RG" Type="potential">каме´чачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113700" Lemma="канфу´зіцца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">канфу´зіцца</Form>
@@ -3180,7 +3163,7 @@
         <Form Tag="I2S" Checked="+">клапаці´ся</Form>
         <Form Tag="I2P" Checked="+">клапаці´цеся</Form>
         <Form Tag="RG" Type="nonstandard" Checked="+">клапо´цячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">клапо´чучыся</Form>
+        <Form Tag="RG">клапо´чучыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113817" Lemma="кле´іцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">кле´іцца</Form>
@@ -3248,26 +3231,37 @@
     </Paradigm>
     <Paradigm pdgId="1113876" Lemma="крапі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">крапі´цца</Form>
-        <Form Tag="R1S">краплю´ся</Form>
+        <Form Tag="R1S" Type="potential">краплю´ся</Form>
         <Form Tag="R2S" Type="potential">кропішся</Form>
         <Form Tag="R3S" Type="potential">кропіцца</Form>
+        <Form Tag="R3S">крапі´цца</Form>
         <Form Tag="R1P" Type="potential">кропімся</Form>
         <Form Tag="R2P" Type="potential">кропіцеся</Form>
+        <Form Tag="R3P">крапя´цца</Form>
         <Form Tag="R3P" Type="potential">кропяцца</Form>
+        <Form Tag="PXSM">крапі´ўся</Form>
+        <Form Tag="PXSF">крапі´лася</Form>
+        <Form Tag="PXSN">крапі´лася</Form>
+        <Form Tag="PXPX">крапі´ліся</Form>
+        <Form Tag="I2S" Type="potential">крапі´ся</Form>
+        <Form Tag="I2P" Type="potential">крапі´цеся</Form>
+        <Form Tag="RG" Type="potential">кропячыся</Form>
+    </Paradigm>
+        <Paradigm pdgId="1113876" Lemma="крапі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">крапі´цца</Form>
+        <Form Tag="R1S">краплю´ся</Form>
+        <Form Tag="R2S">крэ´пішся</Form>
+        <Form Tag="R3S">крэ´піцца</Form>
+        <Form Tag="R1P">крэ´пімся</Form>
+        <Form Tag="R2P">крэ´піцеся</Form>
+        <Form Tag="R3P">крэ´пяцца</Form>
         <Form Tag="PXSM">крапі´ўся</Form>
         <Form Tag="PXSF">крапі´лася</Form>
         <Form Tag="PXSN">крапі´лася</Form>
         <Form Tag="PXPX">крапі´ліся</Form>
         <Form Tag="I2S">крапі´ся</Form>
         <Form Tag="I2P">крапі´цеся</Form>
-        <Form Tag="RG" Type="potential">кропячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крапя´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крэ´пішся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крэ´піцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крэ´пімся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крэ´піцеся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крэ´пяцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крэ´пячыся</Form>
+        <Form Tag="RG">крэ´пячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113868" Lemma="красліцца" Tag="VIMR2" Govern="">
         <Form Tag="0">красліцца</Form>
@@ -3397,23 +3391,21 @@
         <Form Tag="I2P">крычыцеся</Form>
         <Form Tag="RG">крычучыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113908" Lemma="крышыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">крышыцца</Form>
-        <Form Tag="R1S" Type="potential">крышуся</Form>
-        <Form Tag="R2S" Type="potential">крышышся</Form>
-        <Form Tag="R3S">крышыцца</Form>
-        <Form Tag="R1P" Type="potential">крышымся</Form>
-        <Form Tag="R2P" Type="potential">крышыцеся</Form>
+    <Paradigm pdgId="1113908" Lemma="крышы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">крышы´цца</Form>
+        <Form Tag="R1S" Type="potential">крышу´ся</Form>
+        <Form Tag="R2S" Type="potential">кры´шышся</Form>
+        <Form Tag="R3S">кры´шыцца</Form>
+        <Form Tag="R1P" Type="potential">кры´шымся</Form>
+        <Form Tag="R2P" Type="potential">кры´шыцеся</Form>
         <Form Tag="R3P">кры´шацца</Form>
         <Form Tag="PXSM">крышы´ўся</Form>
         <Form Tag="PXSF">крышы´лася</Form>
         <Form Tag="PXSN">крышы´лася</Form>
         <Form Tag="PXPX">крышы´ліся</Form>
-        <Form Tag="I2S" Type="potential">крышыся</Form>
-        <Form Tag="I2P" Type="potential">крышыцеся</Form>
-        <Form Tag="RG" Type="potential">крышачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">крышы´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">кры´шыцца</Form>
+        <Form Tag="I2S" Type="potential">крышы´ся</Form>
+        <Form Tag="I2P" Type="potential">крышы´цеся</Form>
+        <Form Tag="RG" Type="potential">кры´шачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113916" Lemma="крэ´сліцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">крэ´сліцца</Form>
@@ -3511,23 +3503,21 @@
         <Form Tag="I2P" Type="potential" Checked="+">ку´рчцеся</Form>
         <Form Tag="RG" Type="nonstandard" Checked="+">ку´рчачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1113959" Lemma="курыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">курыцца</Form>
-        <Form Tag="R1S" Type="potential">куруся</Form>
-        <Form Tag="R2S" Type="potential">курышся</Form>
-        <Form Tag="R3S">курыцца</Form>
-        <Form Tag="R1P" Type="potential">курымся</Form>
-        <Form Tag="R2P" Type="potential">курыцеся</Form>
+    <Paradigm pdgId="1113959" Lemma="куры´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">куры´цца</Form>
+        <Form Tag="R1S" Type="potential">куру´ся</Form>
+        <Form Tag="R2S" Type="potential">ку´рышся</Form>
+        <Form Tag="R3S">ку´рыцца</Form>
+        <Form Tag="R1P" Type="potential">ку´рымся</Form>
+        <Form Tag="R2P" Type="potential">ку´рыцеся</Form>
         <Form Tag="R3P">ку´рацца</Form>
         <Form Tag="PXSM">куры´ўся</Form>
         <Form Tag="PXSF">куры´лася</Form>
         <Form Tag="PXSN">куры´лася</Form>
         <Form Tag="PXPX">куры´ліся</Form>
-        <Form Tag="I2S" Type="potential">курыся</Form>
-        <Form Tag="I2P" Type="potential">курыцеся</Form>
-        <Form Tag="RG" Type="potential">курачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">куры´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">ку´ры´цца</Form>
+        <Form Tag="I2S" Type="potential">куры´ся</Form>
+        <Form Tag="I2P" Type="potential">куры´цеся</Form>
+        <Form Tag="RG" Type="potential">ку´ручыся</Form>
     </Paradigm>
     <Paradigm pdgId="1113967" Lemma="кухарыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">кухарыцца</Form>
@@ -3817,41 +3807,37 @@
         <Form Tag="I2P" Checked="+">лічы´цеся</Form>
         <Form Tag="RG" Checked="+">лі´чачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114094" Lemma="лудзіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">лудзіцца</Form>
-        <Form Tag="R1S" Type="potential">луджуся</Form>
-        <Form Tag="R2S" Type="potential">лудзішся</Form>
-        <Form Tag="R3S">лудзіцца</Form>
-        <Form Tag="R1P" Type="potential">лудзімся</Form>
-        <Form Tag="R2P" Type="potential">лудзіцеся</Form>
+    <Paradigm pdgId="1114094" Lemma="лудзі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">лудзі´цца</Form>
+        <Form Tag="R1S" Type="potential">луджу´ся</Form>
+        <Form Tag="R2S" Type="potential">лу´дзішся</Form>
+        <Form Tag="R3S">лу´дзіцца</Form>
+        <Form Tag="R1P" Type="potential">лу´дзімся</Form>
+        <Form Tag="R2P" Type="potential">лу´дзіцеся</Form>
         <Form Tag="R3P">лу´дзяцца</Form>
         <Form Tag="PXSM">лудзі´ўся</Form>
         <Form Tag="PXSF">лудзі´лася</Form>
         <Form Tag="PXSN">лудзі´лася</Form>
         <Form Tag="PXPX">лудзі´ліся</Form>
-        <Form Tag="I2S" Type="potential">лудзіся</Form>
-        <Form Tag="I2P" Type="potential">лудзіцеся</Form>
-        <Form Tag="RG" Type="potential">лудзячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">лудзі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">лу´дзіцца</Form>
+        <Form Tag="I2S" Type="potential">лудзі´ся</Form>
+        <Form Tag="I2P" Type="potential">лудзі´цеся</Form>
+        <Form Tag="RG" Type="potential">лу´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114101" Lemma="лупіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">лупіцца</Form>
-        <Form Tag="R1S" Type="potential">луплюся</Form>
-        <Form Tag="R2S" Type="potential">лупішся</Form>
-        <Form Tag="R3S">лупіцца</Form>
-        <Form Tag="R1P" Type="potential">лупімся</Form>
-        <Form Tag="R2P" Type="potential">лупіцеся</Form>
+    <Paradigm pdgId="1114101" Lemma="лупі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">лупі´цца</Form>
+        <Form Tag="R1S" Type="potential">луплю´ся</Form>
+        <Form Tag="R2S" Type="potential">лу´пішся</Form>
+        <Form Tag="R3S">лу´піцца</Form>
+        <Form Tag="R1P" Type="potential">лу´пімся</Form>
+        <Form Tag="R2P" Type="potential">лу´піцеся</Form>
         <Form Tag="R3P">лу´пяцца</Form>
         <Form Tag="PXSM">лупі´ўся</Form>
         <Form Tag="PXSF">лупі´лася</Form>
         <Form Tag="PXSN">лупі´лася</Form>
         <Form Tag="PXPX">лупі´ліся</Form>
-        <Form Tag="I2S" Type="potential">лупіся</Form>
-        <Form Tag="I2P" Type="potential">лупіцеся</Form>
-        <Form Tag="RG" Type="potential">лупячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">лупі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">лу´піцца</Form>
+        <Form Tag="I2S" Type="potential">лупі´ся</Form>
+        <Form Tag="I2P" Type="potential">лупі´цеся</Form>
+        <Form Tag="RG" Type="potential">лу´пячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114108" Lemma="лучы´цца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">лучы´цца</Form>
@@ -4123,8 +4109,7 @@
         <Form Tag="PXPX" Checked="+">марко´ціліся</Form>
         <Form Tag="I2S" Checked="+">марко´цься</Form>
         <Form Tag="I2P" Checked="+">марко´цьцеся</Form>
-        <Form Tag="RG" Type="potential" Checked="+">марко´цячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">мярко´цячыся</Form>
+        <Form Tag="RG">марко´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114264" Lemma="марнатра´віцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">марнатра´віцца</Form>
@@ -4406,23 +4391,21 @@
         <Form Tag="I2P">мудрагельцеся</Form>
         <Form Tag="RG">мудрагелячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1114376" Lemma="муціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">муціцца</Form>
-        <Form Tag="R1S" Type="potential">мучуся</Form>
-        <Form Tag="R2S" Type="potential">муцішся</Form>
-        <Form Tag="R3S">муціцца</Form>
-        <Form Tag="R1P" Type="potential">муцімся</Form>
-        <Form Tag="R2P" Type="potential">муціцеся</Form>
+    <Paradigm pdgId="1114376" Lemma="муці´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">муці´цца</Form>
+        <Form Tag="R1S" Type="potential">мучу´ся</Form>
+        <Form Tag="R2S" Type="potential">му´цішся</Form>
+        <Form Tag="R3S">му´ціцца</Form>
+        <Form Tag="R1P" Type="potential">му´цімся</Form>
+        <Form Tag="R2P" Type="potential">му´ціцеся</Form>
         <Form Tag="R3P">му´цяцца</Form>
         <Form Tag="PXSM">муці´ўся</Form>
         <Form Tag="PXSF">муці´лася</Form>
         <Form Tag="PXSN">муці´лася</Form>
         <Form Tag="PXPX">муці´ліся</Form>
-        <Form Tag="I2S" Type="potential">муціся</Form>
-        <Form Tag="I2P" Type="potential">муціцеся</Form>
-        <Form Tag="RG" Type="potential">муцячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">муці´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">му´ціцца</Form>
+        <Form Tag="I2S" Type="potential">муці´ся</Form>
+        <Form Tag="I2P" Type="potential">муці´цеся</Form>
+        <Form Tag="RG" Type="potential">му´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1114378" Lemma="му´чыцца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">му´чыцца</Form>
@@ -4889,23 +4872,21 @@
         <Form Tag="I2P">палавіньцеся</Form>
         <Form Tag="RG">палавінячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1117565" Lemma="паліцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">паліцца</Form>
-        <Form Tag="R1S" Type="potential">палюся</Form>
-        <Form Tag="R2S" Type="potential">палішся</Form>
-        <Form Tag="R3S">паліцца</Form>
-        <Form Tag="R1P" Type="potential">палімся</Form>
-        <Form Tag="R2P" Type="potential">паліцеся</Form>
+    <Paradigm pdgId="1117565" Lemma="палі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">палі´цца</Form>
+        <Form Tag="R1S" Type="potential">палю´ся</Form>
+        <Form Tag="R2S" Type="potential">па´лішся</Form>
+        <Form Tag="R3S">па´ліцца</Form>
+        <Form Tag="R1P" Type="potential">па´лімся</Form>
+        <Form Tag="R2P" Type="potential">па´ліцеся</Form>
         <Form Tag="R3P">па´ляцца</Form>
         <Form Tag="PXSM">палі´ўся</Form>
         <Form Tag="PXSF">палі´лася</Form>
         <Form Tag="PXSN">палі´лася</Form>
         <Form Tag="PXPX">палі´ліся</Form>
-        <Form Tag="I2S" Type="potential">паліся</Form>
-        <Form Tag="I2P" Type="potential">паліцеся</Form>
-        <Form Tag="RG" Type="potential">палячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">палі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">па´ліцца</Form>
+        <Form Tag="I2S" Type="potential">палі´ся</Form>
+        <Form Tag="I2P" Type="potential">палі´цеся</Form>
+        <Form Tag="RG" Type="potential">па´лячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1118104" Lemma="папяліцца" Tag="VIMR2" Govern="">
         <Form Tag="0">папяліцца</Form>
@@ -4957,21 +4938,19 @@
     </Paradigm>
     <Paradigm pdgId="1118325" Lemma="па´сціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">па´сціцца</Form>
-        <Form Tag="R1S" Type="potential">пашчуся</Form>
-        <Form Tag="R2S" Type="potential">пасцішся</Form>
-        <Form Tag="R3S">па´сціцца</Form>
-        <Form Tag="R1P" Type="potential">пасцімся</Form>
-        <Form Tag="R2P" Type="potential">пасціцеся</Form>
-        <Form Tag="R3P" Type="potential">пасцяцца</Form>
+        <Form Tag="R1S" Type="potential">пасу´ся</Form>
+        <Form Tag="R2S" Type="potential">пасе´шся</Form>
+        <Form Tag="R3S">пасе´цца</Form>
+        <Form Tag="R1P" Type="potential">пасе´мся</Form>
+        <Form Tag="R2P" Type="potential">пасяце´ся</Form>
+        <Form Tag="R3P">пасу´цца</Form>
         <Form Tag="PXSM">па´сціўся</Form>
         <Form Tag="PXSF">па´сцілася</Form>
         <Form Tag="PXSN">па´сцілася</Form>
         <Form Tag="PXPX">па´сціліся</Form>
-        <Form Tag="I2S" Type="potential">пасціся</Form>
-        <Form Tag="I2P" Type="potential">пасціцеся</Form>
-        <Form Tag="RG" Type="potential">пасцячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасе´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пасу´цца</Form>
+        <Form Tag="I2S" Type="potential">пасі´ся</Form>
+        <Form Tag="I2P" Type="potential">пасі´цеся</Form>
+        <Form Tag="RG" Type="potential">пасу´чыся</Form>
     </Paradigm>
     <Paradigm pdgId="1118908" Lemma="пе´ніцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">пе´ніцца</Form>
@@ -5149,23 +5128,21 @@
         <Form Tag="I2P" Checked="+">пладзі´цеся</Form>
         <Form Tag="RG" Checked="+">пло´дзячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1120049" Lemma="плаціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">плаціцца</Form>
-        <Form Tag="R1S" Type="potential">плачуся</Form>
-        <Form Tag="R2S" Type="potential">плацішся</Form>
-        <Form Tag="R3S">плаціцца</Form>
-        <Form Tag="R1P" Type="potential">плацімся</Form>
-        <Form Tag="R2P" Type="potential">плаціцеся</Form>
+    <Paradigm pdgId="1120049" Lemma="плаці´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">плаці´цца</Form>
+        <Form Tag="R1S" Type="potential">плачу´ся</Form>
+        <Form Tag="R2S" Type="potential">пла´цішся</Form>
+        <Form Tag="R3S">пла´ціцца</Form>
+        <Form Tag="R1P" Type="potential">пла´цімся</Form>
+        <Form Tag="R2P" Type="potential">пла´ціцеся</Form>
         <Form Tag="R3P">пла´цяцца</Form>
         <Form Tag="PXSM">плаці´ўся</Form>
         <Form Tag="PXSF">плаці´лася</Form>
         <Form Tag="PXSN">плаці´лася</Form>
         <Form Tag="PXPX">плаці´ліся</Form>
-        <Form Tag="I2S" Type="potential">плаціся</Form>
-        <Form Tag="I2P" Type="potential">плаціцеся</Form>
-        <Form Tag="RG" Type="potential">плацячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">плаці´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">пла´ціцца</Form>
+        <Form Tag="I2S" Type="potential">плаці´ся</Form>
+        <Form Tag="I2P" Type="potential">плаці´цеся</Form>
+        <Form Tag="RG" Type="potential">пла´цячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1120065" Lemma="плю´шчыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">плю´шчыцца</Form>
@@ -5830,20 +5807,21 @@
     </Paradigm>
     <Paradigm pdgId="1123070" Lemma="раі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">раі´цца</Form>
-        <Form Tag="R1S" Type="potential">раюся</Form>
-        <Form Tag="R2S" Type="potential">роішся</Form>
-        <Form Tag="R3S" Type="potential">роіцца</Form>
-        <Form Tag="R1P" Type="potential">роімся</Form>
-        <Form Tag="R2P" Type="potential">роіцеся</Form>
-        <Form Tag="R3P" Type="potential">рояцца</Form>
+        <Form Tag="R1S" Type="potential">раю´ся</Form>
+        <Form Tag="R2S" Type="potential">ро´ішся</Form>
+        <Form Tag="R3S">раі´цца</Form>
+        <Form Tag="R3S" Type="potential">ро´іцца</Form>
+        <Form Tag="R1P" Type="potential">ро´імся</Form>
+        <Form Tag="R2P" Type="potential">ро´іцеся</Form>
+        <Form Tag="R3P">рая´цца</Form>
+        <Form Tag="R3P" Type="potential">ро´яцца</Form>
         <Form Tag="PXSM">раі´ўся</Form>
         <Form Tag="PXSF">раі´лася</Form>
         <Form Tag="PXSN">раі´лася</Form>
         <Form Tag="PXPX">раі´ліся</Form>
-        <Form Tag="I2S" Type="potential">раіся</Form>
-        <Form Tag="I2P" Type="potential">раіцеся</Form>
+        <Form Tag="I2S" Type="potential">раі´ся</Form>
+        <Form Tag="I2P" Type="potential">раі´цеся</Form>
         <Form Tag="RG" Type="potential">роячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">рая´цца</Form>
     </Paradigm>
     <Paradigm pdgId="1122399" Lemma="раніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">раніцца</Form>
@@ -5974,25 +5952,36 @@
         <Form Tag="RG" Type="potential">салодзячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1123816" Lemma="са´ліцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0" Type="potential">са´ліцца</Form>
-        <Form Tag="R1S" Type="potential">салюся</Form>
-        <Form Tag="R2S" Type="potential">солішся</Form>
+        <Form Tag="0">са´ліцца</Form>
+        <Form Tag="R1S" Type="potential">са´люся</Form>
+        <Form Tag="R2S" Type="potential">са´лішся</Form>
+        <Form Tag="R3S">са´ліцца</Form>
+        <Form Tag="R1P" Type="potential">са´лімся</Form>
+        <Form Tag="R2P" Type="potential">са´ліцеся</Form>
+        <Form Tag="R3P">са´ляцца</Form>
+        <Form Tag="PXSM">са´ліўся</Form>
+        <Form Tag="PXSF">са´лілася</Form>
+        <Form Tag="PXSN">са´лілася</Form>
+        <Form Tag="PXPX">са´ліліся</Form>
+        <Form Tag="I2S" Type="potential">са´лься</Form>
+        <Form Tag="I2P" Type="potential">са´льцеся</Form>
+        <Form Tag="RG" Type="potential">са´лячыся</Form>
+    </Paradigm>
+    <Paradigm pdgId="1123816" Lemma="салі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">салі´цца</Form>
+        <Form Tag="R1S" Type="potential">салю´ся</Form>
+        <Form Tag="R2S" Type="potential">со´лішся</Form>
         <Form Tag="R3S">со´ліцца</Form>
-        <Form Tag="R1P" Type="potential">солімся</Form>
-        <Form Tag="R2P" Type="potential">соліцеся</Form>
+        <Form Tag="R1P" Type="potential">со´лімся</Form>
+        <Form Tag="R2P" Type="potential">со´ліцеся</Form>
         <Form Tag="R3P">со´ляцца</Form>
-        <Form Tag="PXSM" Type="potential">са´ліўся</Form>
-        <Form Tag="PXSF" Type="potential">са´лілася</Form>
-        <Form Tag="PXSN" Type="potential">са´лілася</Form>
-        <Form Tag="PXPX" Type="potential">са´ліліся</Form>
-        <Form Tag="I2S" Type="potential">саліся</Form>
-        <Form Tag="I2P" Type="potential">саліцеся</Form>
-        <Form Tag="RG" Type="potential">солячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">са´ляцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">салі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">салі´ўся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">салі´лася</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">салі´ліся</Form>
+        <Form Tag="PXSM">салі´ўся</Form>
+        <Form Tag="PXSF">салі´лася</Form>
+        <Form Tag="PXSN">салі´лася</Form>
+        <Form Tag="PXPX">салі´ліся</Form>
+        <Form Tag="I2S" Type="potential">салі´ся</Form>
+        <Form Tag="I2P" Type="potential">салі´цеся</Form>
+        <Form Tag="RG" Type="potential">со´лячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1123378" Lemma="санда´ліцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">санда´ліцца</Form>
@@ -6362,8 +6351,8 @@
         <Form Tag="I2P" Type="potential">смажцеся</Form>
         <Form Tag="RG" Type="potential">смажачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1123789" Lemma="смаліцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">смаліцца</Form>
+    <Paradigm pdgId="1123789" Lemma="смалі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">смалі´цца</Form>
         <Form Tag="R1S">смалю´ся</Form>
         <Form Tag="R2S">сма´лішся</Form>
         <Form Tag="R3S">смаліцца</Form>
@@ -6374,13 +6363,26 @@
         <Form Tag="PXSF">смалі´лася</Form>
         <Form Tag="PXSN">смалі´лася</Form>
         <Form Tag="PXPX">смалі´ліся</Form>
-        <Form Tag="I2S" Type="potential">смаліся</Form>
-        <Form Tag="I2P">сма´ліцеся</Form>
+        <Form Tag="I2S" Type="potential">смалі´ся</Form>
+        <Form Tag="I2P" Type="potential">смалі´цеся</Form>
         <Form Tag="RG">сма´лячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смалі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´ліцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">смо´ляцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">сма´ліцца</Form>
+    </Paradigm>
+    <Paradigm pdgId="1123789" Lemma="смалі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">смалі´цца</Form>
+        <Form Tag="R1S"></Form>
+        <Form Tag="R2S"></Form>
+        <Form Tag="R3S"></Form>
+        <Form Tag="R3S">смо´ліцца</Form>
+        <Form Tag="R1P"></Form>
+        <Form Tag="R2P"></Form>
+        <Form Tag="R3P">смо´ляцца</Form>
+        <Form Tag="PXSM">смалі´ўся</Form>
+        <Form Tag="PXSF">смалі´лася</Form>
+        <Form Tag="PXSN">смалі´лася</Form>
+        <Form Tag="PXPX">смалі´ліся</Form>
+        <Form Tag="I2S"></Form>
+        <Form Tag="I2P"></Form>
+        <Form Tag="RG"></Form>
     </Paradigm>
     <Paradigm pdgId="1123800" Lemma="смярдзецца" Tag="VIMR2" Govern="">
         <Form Tag="0">смярдзецца</Form>
@@ -6592,23 +6594,21 @@
         <Form Tag="I2P" Type="potential">струменьцеся</Form>
         <Form Tag="RG" Type="potential">струменячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124234" Lemma="студзіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">студзіцца</Form>
-        <Form Tag="R1S" Type="potential">студжуся</Form>
-        <Form Tag="R2S" Type="potential">студзішся</Form>
-        <Form Tag="R3S">студзіцца</Form>
-        <Form Tag="R1P" Type="potential">студзімся</Form>
-        <Form Tag="R2P" Type="potential">студзіцеся</Form>
+    <Paradigm pdgId="1124234" Lemma="студзі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">студзі´цца</Form>
+        <Form Tag="R1S" Type="potential">студжу´ся</Form>
+        <Form Tag="R2S" Type="potential">сту´дзішся</Form>
+        <Form Tag="R3S">сту´дзіцца</Form>
+        <Form Tag="R1P" Type="potential">сту´дзімся</Form>
+        <Form Tag="R2P" Type="potential">сту´дзіцеся</Form>
         <Form Tag="R3P">сту´дзяцца</Form>
         <Form Tag="PXSM">студзі´ўся</Form>
         <Form Tag="PXSF">студзі´лася</Form>
         <Form Tag="PXSN">студзі´лася</Form>
         <Form Tag="PXPX">студзі´ліся</Form>
-        <Form Tag="I2S" Type="potential">студзіся</Form>
-        <Form Tag="I2P" Type="potential">студзіцеся</Form>
-        <Form Tag="RG" Type="potential">студзячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">студзі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">сту´дзіцца</Form>
+        <Form Tag="I2S" Type="potential">студзі´ся</Form>
+        <Form Tag="I2P" Type="potential">студзі´цеся</Form>
+        <Form Tag="RG" Type="potential">сту´дзячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124263" Lemma="суадно´сіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">суадно´сіцца</Form>
@@ -7106,23 +7106,21 @@
         <Form Tag="I2P" Type="potential">тоўпцеся</Form>
         <Form Tag="RG">то´ўпячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124691" Lemma="травіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">травіцца</Form>
-        <Form Tag="R1S" Type="potential">траўлюся</Form>
-        <Form Tag="R2S" Type="potential">травішся</Form>
-        <Form Tag="R3S">травіцца</Form>
-        <Form Tag="R1P" Type="potential">травімся</Form>
-        <Form Tag="R2P" Type="potential">травіцеся</Form>
+    <Paradigm pdgId="1124691" Lemma="траві´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">траві´цца</Form>
+        <Form Tag="R1S" Type="potential">траўлю´ся</Form>
+        <Form Tag="R2S" Type="potential">тра´вішся</Form>
+        <Form Tag="R3S">тра´віцца</Form>
+        <Form Tag="R1P" Type="potential">тра´вімся</Form>
+        <Form Tag="R2P" Type="potential">тра´віцеся</Form>
         <Form Tag="R3P">тра´вяцца</Form>
         <Form Tag="PXSM">траві´ўся</Form>
         <Form Tag="PXSF">траві´лася</Form>
         <Form Tag="PXSN">траві´лася</Form>
         <Form Tag="PXPX">траві´ліся</Form>
-        <Form Tag="I2S" Type="potential">траўся</Form>
-        <Form Tag="I2P" Type="potential">траўцеся</Form>
-        <Form Tag="RG" Type="potential">травячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">траві´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">тра´віцца</Form>
+        <Form Tag="I2S" Type="potential">тра´ўся</Form>
+        <Form Tag="I2P" Type="potential">тра´ўцеся</Form>
+        <Form Tag="RG" Type="potential">тра´вячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124736" Lemma="траі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">траі´цца</Form>
@@ -7158,21 +7156,19 @@
     </Paradigm>
     <Paradigm pdgId="1124723" Lemma="трасці´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">трасці´цца</Form>
-        <Form Tag="R1S" Type="potential">трашчуся</Form>
-        <Form Tag="R2S" Type="potential">трасцішся</Form>
-        <Form Tag="R3S">трасці´цца</Form>
-        <Form Tag="R1P" Type="potential">трасцімся</Form>
-        <Form Tag="R2P" Type="potential">трасціцеся</Form>
-        <Form Tag="R3P" Type="potential">трасцяцца</Form>
-        <Form Tag="PXSM" Type="potential">трасціўся</Form>
+        <Form Tag="R1S"></Form>
+        <Form Tag="R2S"></Form>
+        <Form Tag="R3S">тро´сціцца</Form>
+        <Form Tag="R1P"></Form>
+        <Form Tag="R2P"></Form>
+        <Form Tag="R3P">тро´сцяцца</Form>
+        <Form Tag="PXSM"></Form>
         <Form Tag="PXSF">трасці´лася</Form>
         <Form Tag="PXSN">трасці´лася</Form>
         <Form Tag="PXPX">трасці´ліся</Form>
-        <Form Tag="I2S" Type="potential">трасціся</Form>
-        <Form Tag="I2P" Type="potential">трасціцеся</Form>
-        <Form Tag="RG" Type="potential">трасцячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">тро´сціцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">тро´сцяцца</Form>
+        <Form Tag="I2S"></Form>
+        <Form Tag="I2P"></Form>
+        <Form Tag="RG"></Form>
     </Paradigm>
     <Paradigm pdgId="1124727" Lemma="трафарэ´ціцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">трафарэ´ціцца</Form>
@@ -7366,23 +7362,21 @@
         <Form Tag="I2P" Type="potential">туманьцеся</Form>
         <Form Tag="RG" Type="potential">туманячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124791" Lemma="тупіцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">тупіцца</Form>
-        <Form Tag="R1S" Type="potential">туплюся</Form>
-        <Form Tag="R2S" Type="potential">тупішся</Form>
-        <Form Tag="R3S">тупіцца</Form>
-        <Form Tag="R1P" Type="potential">тупімся</Form>
-        <Form Tag="R2P" Type="potential">тупіцеся</Form>
+    <Paradigm pdgId="1124791" Lemma="тупі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">тупі´цца</Form>
+        <Form Tag="R1S" Type="potential">туплю´ся</Form>
+        <Form Tag="R2S" Type="potential">ту´пішся</Form>
+        <Form Tag="R3S">ту´піцца</Form>
+        <Form Tag="R1P" Type="potential">ту´пімся</Form>
+        <Form Tag="R2P" Type="potential">ту´піцеся</Form>
         <Form Tag="R3P">ту´пяцца</Form>
         <Form Tag="PXSM">тупі´ўся</Form>
         <Form Tag="PXSF">тупі´лася</Form>
         <Form Tag="PXSN">тупі´лася</Form>
         <Form Tag="PXPX">тупі´ліся</Form>
-        <Form Tag="I2S" Type="potential">тупіся</Form>
-        <Form Tag="I2P" Type="potential">тупіцеся</Form>
-        <Form Tag="RG" Type="potential">тупячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">тупі´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">ту´піцца</Form>
+        <Form Tag="I2S" Type="potential">тупі´ся</Form>
+        <Form Tag="I2P" Type="potential">тупі´цеся</Form>
+        <Form Tag="RG" Type="potential">ту´пячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124806" Lemma="турыцца" Tag="VIMR2" Govern="">
         <Form Tag="0">турыцца</Form>
@@ -7400,23 +7394,21 @@
         <Form Tag="I2P">турыцеся</Form>
         <Form Tag="RG">турачыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1124813" Lemma="тушыцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">тушыцца</Form>
-        <Form Tag="R1S" Type="potential">тушуся</Form>
-        <Form Tag="R2S" Type="potential">тушышся</Form>
-        <Form Tag="R3S">тушыцца</Form>
-        <Form Tag="R1P" Type="potential">тушымся</Form>
-        <Form Tag="R2P" Type="potential">тушыцеся</Form>
+    <Paradigm pdgId="1124813" Lemma="тушы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">тушы´цца</Form>
+        <Form Tag="R1S" Type="potential">тушу´ся</Form>
+        <Form Tag="R2S" Type="potential">ту´шышся</Form>
+        <Form Tag="R3S">ту´шыцца</Form>
+        <Form Tag="R1P" Type="potential">ту´шымся</Form>
+        <Form Tag="R2P" Type="potential">ту´шыцеся</Form>
         <Form Tag="R3P">ту´шацца</Form>
         <Form Tag="PXSM">тушы´ўся</Form>
         <Form Tag="PXSF">тушы´лася</Form>
         <Form Tag="PXSN">тушы´лася</Form>
         <Form Tag="PXPX">тушы´ліся</Form>
-        <Form Tag="I2S" Type="potential">тушыся</Form>
-        <Form Tag="I2P" Type="potential">тушыцеся</Form>
-        <Form Tag="RG" Type="potential">тушачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">тушы´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">ту´шыцца</Form>
+        <Form Tag="I2S" Type="potential">тушы´ся</Form>
+        <Form Tag="I2P" Type="potential">тушы´цеся</Form>
+        <Form Tag="RG" Type="potential">ту´шачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1124829" Lemma="тыраніцца" Tag="VIMR2" Govern="">
         <Form Tag="0">тыраніцца</Form>
@@ -7862,11 +7854,9 @@
         <Form Tag="PXSF">хму´рылася</Form>
         <Form Tag="PXSN">хму´рылася</Form>
         <Form Tag="PXPX">хму´рыліся</Form>
-        <Form Tag="I2S" Type="potential">хмурыся</Form>
-        <Form Tag="I2P">хму´рыцеся</Form>
+        <Form Tag="I2S">хму´рся</Form>
+        <Form Tag="I2P">хму´рцеся</Form>
         <Form Tag="RG">хму´рачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">хму´рся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">хму´рцеся</Form>
     </Paradigm>
     <Paradigm pdgId="1126308" Lemma="хмылі´цца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">хмылі´цца</Form>
@@ -8110,39 +8100,35 @@
     </Paradigm>
     <Paradigm pdgId="1126396" Lemma="церусі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">церусі´цца</Form>
-        <Form Tag="R1S" Type="potential">церушуся</Form>
-        <Form Tag="R2S" Type="potential">церусішся</Form>
-        <Form Tag="R3S">церусі´цца</Form>
-        <Form Tag="R1P" Type="potential">церусімся</Form>
-        <Form Tag="R2P" Type="potential">церусіцеся</Form>
-        <Form Tag="R3P" Type="potential">церусяцца</Form>
+        <Form Tag="R1S" Type="potential">церушу´ся</Form>
+        <Form Tag="R2S" Type="potential">цяру´сішся</Form>
+        <Form Tag="R3S">цяру´сіцца</Form>
+        <Form Tag="R1P" Type="potential">цяру´сімся</Form>
+        <Form Tag="R2P" Type="potential">цяру´сіцеся</Form>
+        <Form Tag="R3P">цяру´сяцца</Form>
         <Form Tag="PXSM">церусі´ўся</Form>
         <Form Tag="PXSF">церусі´лася</Form>
         <Form Tag="PXSN">церусі´лася</Form>
         <Form Tag="PXPX">церусі´ліся</Form>
-        <Form Tag="I2S" Type="potential">церусіся</Form>
-        <Form Tag="I2P" Type="potential">церусіцеся</Form>
-        <Form Tag="RG" Type="potential">церусячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяру´сіцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяру´сяцца</Form>
+        <Form Tag="I2S" Type="potential">церусі´ся</Form>
+        <Form Tag="I2P" Type="potential">церусі´цеся</Form>
+        <Form Tag="RG" Type="potential">цяру´сячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126398" Lemma="церушы´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">церушы´цца</Form>
-        <Form Tag="R1S" Type="potential">церушуся</Form>
-        <Form Tag="R2S" Type="potential">церушышся</Form>
-        <Form Tag="R3S">церушы´цца</Form>
-        <Form Tag="R1P" Type="potential">церушымся</Form>
-        <Form Tag="R2P" Type="potential">церушыцеся</Form>
-        <Form Tag="R3P" Type="potential">церушацца</Form>
+        <Form Tag="R1S" Type="potential">церушу´ся</Form>
+        <Form Tag="R2S" Type="potential">цяру´шышся</Form>
+        <Form Tag="R3S">цяру´шыцца</Form>
+        <Form Tag="R1P" Type="potential">цяру´шымся</Form>
+        <Form Tag="R2P" Type="potential">цяру´шыцеся</Form>
+        <Form Tag="R3P">цяру´шацца</Form>
         <Form Tag="PXSM">церушы´ўся</Form>
         <Form Tag="PXSF">церушы´лася</Form>
         <Form Tag="PXSN">церушы´лася</Form>
         <Form Tag="PXPX">церушы´ліся</Form>
-        <Form Tag="I2S" Type="potential">церушыся</Form>
-        <Form Tag="I2P" Type="potential">церушыцеся</Form>
-        <Form Tag="RG" Type="potential">церушачыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяру´шыцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цяру´шацца</Form>
+        <Form Tag="I2S" Type="potential">церушы´ся</Form>
+        <Form Tag="I2P" Type="potential">церушы´цеся</Form>
+        <Form Tag="RG" Type="potential">цяру´шачыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126400" Lemma="це´шыцца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">це´шыцца</Form>
@@ -8210,21 +8196,19 @@
     </Paradigm>
     <Paradigm pdgId="1126454" Lemma="цялі´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">цялі´цца</Form>
-        <Form Tag="R1S" Type="potential">цялюся</Form>
-        <Form Tag="R2S" Type="potential">цялішся</Form>
-        <Form Tag="R3S">цялі´цца</Form>
-        <Form Tag="R1P" Type="potential">цялімся</Form>
-        <Form Tag="R2P" Type="potential">цяліцеся</Form>
-        <Form Tag="R3P" Type="potential">цяляцца</Form>
-        <Form Tag="PXSM" Type="potential">цяліўся</Form>
+        <Form Tag="R1S" Type="potential">цялю´ся</Form>
+        <Form Tag="R2S" Type="potential">це´лішся</Form>
+        <Form Tag="R3S">це´ліцца</Form>
+        <Form Tag="R1P" Type="potential">це´лімся</Form>
+        <Form Tag="R2P" Type="potential">це´ліцеся</Form>
+        <Form Tag="R3P">це´ляцца</Form>
+        <Form Tag="PXSM">цялі´ўся</Form>
         <Form Tag="PXSF">цялі´лася</Form>
         <Form Tag="PXSN">цялі´лася</Form>
         <Form Tag="PXPX">цялі´ліся</Form>
-        <Form Tag="I2S" Type="potential">цяліся</Form>
-        <Form Tag="I2P" Type="potential">цяліцеся</Form>
-        <Form Tag="RG" Type="potential">цялячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">це´ліцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">це´ляцца</Form>
+        <Form Tag="I2S" Type="potential">цялі´ся</Form>
+        <Form Tag="I2P" Type="potential">цялі´цеся</Form>
+        <Form Tag="RG" Type="potential">це´лячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126457" Lemma="цяміцца" Tag="VIMR2" Govern="">
         <Form Tag="0">цяміцца</Form>
@@ -8289,23 +8273,6 @@
         <Form Tag="I2S" Type="potential">цяпліся</Form>
         <Form Tag="I2P" Type="potential">цяпліцеся</Form>
         <Form Tag="RG" Type="potential">цеплячыся</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126473" Lemma="цярпе´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">цярпе´цца</Form>
-        <Form Tag="R1S" Type="potential">цярплюся</Form>
-        <Form Tag="R2S" Type="potential">церпішся</Form>
-        <Form Tag="R3S" Type="potential">церпіцца</Form>
-        <Form Tag="R1P" Type="potential">церпімся</Form>
-        <Form Tag="R2P" Type="potential">церпіцеся</Form>
-        <Form Tag="R3P" Type="potential">церпяцца</Form>
-        <Form Tag="PXSM" Type="potential">цярпеўся</Form>
-        <Form Tag="PXSF">цярпе´лася</Form>
-        <Form Tag="PXSN">цярпе´лася</Form>
-        <Form Tag="PXPX" Type="potential">цярпеліся</Form>
-        <Form Tag="I2S" Type="potential">цярпіся</Form>
-        <Form Tag="I2P" Type="potential">цярпіцеся</Form>
-        <Form Tag="RG" Type="potential">церпячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">цярпі´цца</Form>
     </Paradigm>
     <Paradigm pdgId="1126476" Lemma="цясні´цца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">цясні´цца</Form>
@@ -8380,21 +8347,19 @@
     </Paradigm>
     <Paradigm pdgId="1126499" Lemma="чарці´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">чарці´цца</Form>
-        <Form Tag="R1S" Type="potential">чарчуся</Form>
-        <Form Tag="R2S" Type="potential">чарцішся</Form>
-        <Form Tag="R3S">чарці´цца</Form>
-        <Form Tag="R1P" Type="potential">чарцімся</Form>
-        <Form Tag="R2P" Type="potential">чарціцеся</Form>
-        <Form Tag="R3P" Type="potential">чарцяцца</Form>
+        <Form Tag="R1S" Type="potential">чарчу´ся</Form>
+        <Form Tag="R2S" Type="potential">чэ´рцішся</Form>
+        <Form Tag="R3S">чэ´рціцца</Form>
+        <Form Tag="R1P" Type="potential">чэ´рцімся</Form>
+        <Form Tag="R2P" Type="potential">чэ´рціцеся</Form>
+        <Form Tag="R3P">чэ´рцяцца</Form>
         <Form Tag="PXSM">чарці´ўся</Form>
         <Form Tag="PXSF">чарці´лася</Form>
         <Form Tag="PXSN">чарці´лася</Form>
         <Form Tag="PXPX">чарці´ліся</Form>
-        <Form Tag="I2S" Type="potential">чарціся</Form>
-        <Form Tag="I2P" Type="potential">чарціцеся</Form>
-        <Form Tag="RG" Type="potential">чарцячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">чэ´рціцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">чэ´рцяцца</Form>
+        <Form Tag="I2S" Type="potential">чарці´ся</Form>
+        <Form Tag="I2P" Type="potential">чарці´цеся</Form>
+        <Form Tag="RG" Type="potential">чэ´рцячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126501" Lemma="часціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">часціцца</Form>
@@ -8460,23 +8425,21 @@
         <Form Tag="I2P" Checked="+">чу´бцеся</Form>
         <Form Tag="RG" Checked="+">чу´бячыся</Form>
     </Paradigm>
-    <Paradigm pdgId="1126536" Lemma="чыніцца" Tag="VIMR2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">чыніцца</Form>
-        <Form Tag="R1S" Type="potential">чынюся</Form>
-        <Form Tag="R2S" Type="potential">чынішся</Form>
-        <Form Tag="R3S">чыніцца</Form>
-        <Form Tag="R1P" Type="potential">чынімся</Form>
-        <Form Tag="R2P" Type="potential">чыніцеся</Form>
+    <Paradigm pdgId="1126536" Lemma="чыні´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
+        <Form Tag="0">чыні´цца</Form>
+        <Form Tag="R1S" Type="potential">чыню´ся</Form>
+        <Form Tag="R2S" Type="potential">чы´нішся</Form>
+        <Form Tag="R3S">чы´ніцца</Form>
+        <Form Tag="R1P" Type="potential">чы´німся</Form>
+        <Form Tag="R2P" Type="potential">чы´ніцеся</Form>
         <Form Tag="R3P">чы´няцца</Form>
         <Form Tag="PXSM">чыні´ўся</Form>
         <Form Tag="PXSF">чыні´лася</Form>
         <Form Tag="PXSN">чыні´лася</Form>
         <Form Tag="PXPX">чыні´ліся</Form>
-        <Form Tag="I2S" Type="potential">чыніся</Form>
-        <Form Tag="I2P" Type="potential">чыніцеся</Form>
-        <Form Tag="RG" Type="potential">чынячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">чыні´цца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">чы´ніцца</Form>
+        <Form Tag="I2S" Type="potential">чыні´ся</Form>
+        <Form Tag="I2P" Type="potential">чыні´цеся</Form>
+        <Form Tag="RG" Type="potential">чы´нячыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126540" Lemma="чырвані´цца" Tag="VIMR2" Govern="" Checked="+" Slouniki="dzsl">
         <Form Tag="0" Checked="+">чырвані´цца</Form>
@@ -8720,21 +8683,19 @@
     </Paradigm>
     <Paradigm pdgId="1126713" Lemma="шчані´цца" Tag="VIMR2" Govern="" Slouniki="dzsl">
         <Form Tag="0">шчані´цца</Form>
-        <Form Tag="R1S" Type="potential">шчанюся</Form>
-        <Form Tag="R2S" Type="potential">шчанішся</Form>
-        <Form Tag="R3S">шчані´цца</Form>
-        <Form Tag="R1P" Type="potential">шчанімся</Form>
-        <Form Tag="R2P" Type="potential">шчаніцеся</Form>
-        <Form Tag="R3P" Type="potential">шчаняцца</Form>
-        <Form Tag="PXSM" Type="potential">шчаніўся</Form>
+        <Form Tag="R1S" Type="potential">шчаню´ся</Form>
+        <Form Tag="R2S" Type="potential">шчэ´нішся</Form>
+        <Form Tag="R3S">шчэ´ніцца</Form>
+        <Form Tag="R1P" Type="potential">шчэ´німся</Form>
+        <Form Tag="R2P" Type="potential">шчэ´ніцеся</Form>
+        <Form Tag="R3P">шчэ´няцца</Form>
+        <Form Tag="PXSM" Type="potential">шчані´ўся</Form>
         <Form Tag="PXSF">шчані´лася</Form>
         <Form Tag="PXSN">шчані´лася</Form>
         <Form Tag="PXPX">шчані´ліся</Form>
-        <Form Tag="I2S" Type="potential">шчаніся</Form>
-        <Form Tag="I2P" Type="potential">шчаніцеся</Form>
-        <Form Tag="RG" Type="potential">шчанячыся</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">шчэ´ніцца</Form>
-        <Form Tag="????" todo="ёсьць у dzsl">шчэ´няцца</Form>
+        <Form Tag="I2S" Type="potential">шчані´ся</Form>
+        <Form Tag="I2P" Type="potential">шчані´цеся</Form>
+        <Form Tag="RG" Type="potential">шчанючыся</Form>
     </Paradigm>
     <Paradigm pdgId="1126714" Lemma="шчасціцца" Tag="VIMR2" Govern="">
         <Form Tag="0">шчасціцца</Form>

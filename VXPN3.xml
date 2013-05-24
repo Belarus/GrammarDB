@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1109723" Lemma="даць" Tag="VXPN3" Govern="" Checked="+" Slouniki="dzsl">
-        <Form Tag="0" Checked="+">даць</Form>
-        <Form Tag="F1S" Checked="+">дам</Form>
-        <Form Tag="F2S" Checked="+">дасі´</Form>
-        <Form Tag="F3S" Checked="+">дасць</Form>
+    <Paradigm pdgId="1109723" Lemma="даць" Tag="VXPN3" Govern="" Checked="+">
+        <Form Tag="0" Slouniki="dzsl2007" Checked="+">даць</Form>
+        <Form Tag="F1S" Slouniki="dzsl2007" Checked="+">дам</Form>
+        <Form Tag="F2S" Slouniki="dzsl2007" Checked="+">дасі´</Form>
+        <Form Tag="F3S" Slouniki="dzsl2007" Checked="+">дасць</Form>
         <Form Tag="F1P" Type="nonstandard" Checked="+">дамо´</Form>
-        <Form Tag="F1P" Checked="+">дадзі´м</Form>
-        <Form Tag="F2P" Checked="+">дасце´</Form>
-        <Form Tag="F3P" Checked="+">даду´ць</Form>
-        <Form Tag="PXSM" Checked="+">даў</Form>
-        <Form Tag="PXSF" Checked="+">дала´</Form>
-        <Form Tag="PXSN" Checked="+">дало´</Form>
-        <Form Tag="PXPX" Checked="+">далі´</Form>
-        <Form Tag="I2S" Checked="+">дай</Form>
-        <Form Tag="I2P" Checked="+">да´йце</Form>
-        <Form Tag="PG" Checked="+">да´ўшы</Form>
+        <Form Tag="F1P" Slouniki="dzsl2007" Checked="+">дадзі´м</Form>
+        <Form Tag="F2P" Slouniki="dzsl2007" Checked="+">дасце´</Form>
+        <Form Tag="F3P" Slouniki="dzsl2007" Checked="+">даду´ць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007" Checked="+">даў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007" Checked="+">дала´</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007" Checked="+">дало´</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007" Checked="+">далі´</Form>
+        <Form Tag="I2S" Slouniki="dzsl2007" Checked="+">дай</Form>
+        <Form Tag="I2P" Slouniki="dzsl2007" Checked="+">да´йце</Form>
+        <Form Tag="PG" Slouniki="dzsl2007" Checked="+">да´ўшы</Form>
     </Paradigm>
 </Wordlist>

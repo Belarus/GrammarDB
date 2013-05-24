@@ -1,83 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1104916" Lemma="абвінава´чваць" Tag="VDMN1" Govern="+A+у(ў)+L, +A+за+A" Checked="+" Slouniki="dzsl">
-        <Form Tag="0" Checked="+">абвінава´чваць</Form>
-        <Form Tag="R1S" Checked="+">абвінава´чваю</Form>
-        <Form Tag="R2S" Checked="+">абвінава´чваеш</Form>
-        <Form Tag="R3S" Checked="+">абвінава´чвае</Form>
-        <Form Tag="R1P" Checked="+">абвінава´чваем</Form>
-        <Form Tag="R2P" Checked="+">абвінава´чваеце</Form>
-        <Form Tag="R3P" Checked="+">абвінава´чваюць</Form>
-        <Form Tag="PXSM" Checked="+">абвінава´чваў</Form>
-        <Form Tag="PXSF" Checked="+">абвінава´чвала</Form>
-        <Form Tag="PXSN" Checked="+">абвінава´чвала</Form>
-        <Form Tag="PXPX" Checked="+">абвінава´чвалі</Form>
-        <Form Tag="I2S" Checked="+">абвінава´чвай</Form>
-        <Form Tag="I2P" Checked="+">абвінава´чвайце</Form>
-        <Form Tag="RG" Checked="+">абвінава´чваючы</Form>
+    <Paradigm pdgId="1104916" Lemma="абвінава´чваць" Tag="VDMN1" Govern="+A+у(ў)+L, +A+за+A" Checked="+">
+        <Form Tag="0" Slouniki="dzsl2007" Checked="+">абвінава´чваць</Form>
+        <Form Tag="R1S" Slouniki="dzsl2007" Checked="+">абвінава´чваю</Form>
+        <Form Tag="R2S" Slouniki="dzsl2007" Checked="+">абвінава´чваеш</Form>
+        <Form Tag="R3S" Slouniki="dzsl2007" Checked="+">абвінава´чвае</Form>
+        <Form Tag="R1P" Slouniki="dzsl2007" Checked="+">абвінава´чваем</Form>
+        <Form Tag="R2P" Slouniki="dzsl2007" Checked="+">абвінава´чваеце</Form>
+        <Form Tag="R3P" Slouniki="dzsl2007" Checked="+">абвінава´чваюць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007" Checked="+">абвінава´чваў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007" Checked="+">абвінава´чвала</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007" Checked="+">абвінава´чвала</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007" Checked="+">абвінава´чвалі</Form>
+        <Form Tag="I2S" Slouniki="dzsl2007" Checked="+">абвінава´чвай</Form>
+        <Form Tag="I2P" Slouniki="dzsl2007" Checked="+">абвінава´чвайце</Form>
+        <Form Tag="RG" Slouniki="dzsl2007" Checked="+">абвінава´чваючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105256" Lemma="абліпа´ць" Tag="VDMN1" Govern="" Slouniki="dzsl">
-        <Form Tag="0">абліпа´ць</Form>
+    <Paradigm pdgId="1105256" Lemma="абліпа´ць" Tag="VDMN1" Govern="">
+        <Form Tag="0" Slouniki="dzsl2007">абліпа´ць</Form>
         <Form Tag="R1S" Type="potential">абліпаю</Form>
         <Form Tag="R2S" Type="potential">абліпаеш</Form>
-        <Form Tag="R3S">абліпа´е</Form>
+        <Form Tag="R3S" Slouniki="dzsl2007">абліпа´е</Form>
         <Form Tag="R1P" Type="potential">абліпаем</Form>
         <Form Tag="R2P" Type="potential">абліпаеце</Form>
-        <Form Tag="R3P">абліпа´юць</Form>
-        <Form Tag="PXSM">абліпа´ў</Form>
-        <Form Tag="PXSF">абліпа´ла</Form>
-        <Form Tag="PXSN">абліпа´ла</Form>
-        <Form Tag="PXPX">абліпа´лі</Form>
+        <Form Tag="R3P" Slouniki="dzsl2007">абліпа´юць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007">абліпа´ў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007">абліпа´ла</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007">абліпа´ла</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007">абліпа´лі</Form>
         <Form Tag="I2S" Type="potential">абліпай</Form>
         <Form Tag="I2P" Type="potential">абліпайце</Form>
         <Form Tag="RG" Type="potential">абліпаючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1105828" Lemma="абяца´ць" Tag="VDMN1" Govern="" Checked="+" Slouniki="dzsl">
-        <Form Tag="0" Checked="+">абяца´ць</Form>
-        <Form Tag="R1S" Checked="+">абяца´ю</Form>
-        <Form Tag="R2S" Checked="+">абяца´еш</Form>
-        <Form Tag="R3S" Checked="+">абяца´е</Form>
-        <Form Tag="R1P" Checked="+">абяца´ем</Form>
-        <Form Tag="R2P" Checked="+">абяца´еце</Form>
-        <Form Tag="R3P" Checked="+">абяца´юць</Form>
-        <Form Tag="PXSM" Checked="+">абяца´ў</Form>
-        <Form Tag="PXSF" Checked="+">абяца´ла</Form>
-        <Form Tag="PXSN" Checked="+">абяца´ла</Form>
-        <Form Tag="PXPX" Checked="+">абяца´лі</Form>
-        <Form Tag="I2S" Checked="+">абяца´й</Form>
-        <Form Tag="I2P" Checked="+">абяца´йце</Form>
-        <Form Tag="RG" Checked="+">абяца´ючы</Form>
+    <Paradigm pdgId="1105828" Lemma="абяца´ць" Tag="VDMN1" Govern="" Checked="+">
+        <Form Tag="0" Slouniki="dzsl2007" Checked="+">абяца´ць</Form>
+        <Form Tag="R1S" Slouniki="dzsl2007" Checked="+">абяца´ю</Form>
+        <Form Tag="R2S" Slouniki="dzsl2007" Checked="+">абяца´еш</Form>
+        <Form Tag="R3S" Slouniki="dzsl2007" Checked="+">абяца´е</Form>
+        <Form Tag="R1P" Slouniki="dzsl2007" Checked="+">абяца´ем</Form>
+        <Form Tag="R2P" Slouniki="dzsl2007" Checked="+">абяца´еце</Form>
+        <Form Tag="R3P" Slouniki="dzsl2007" Checked="+">абяца´юць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007" Checked="+">абяца´ў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007" Checked="+">абяца´ла</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007" Checked="+">абяца´ла</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007" Checked="+">абяца´лі</Form>
+        <Form Tag="I2S" Slouniki="dzsl2007" Checked="+">абяца´й</Form>
+        <Form Tag="I2P" Slouniki="dzsl2007" Checked="+">абяца´йце</Form>
+        <Form Tag="RG" Slouniki="dzsl2007" Checked="+">абяца´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104636" Lemma="імправізава´ць" Tag="VDMN1" Govern="" Checked="+" Slouniki="dzsl">
-        <Form Tag="0" Checked="+">імправізава´ць</Form>
-        <Form Tag="R1S" Checked="+">імправізу´ю</Form>
-        <Form Tag="R2S" Checked="+">імправізу´еш</Form>
-        <Form Tag="R3S" Checked="+">імправізу´е</Form>
-        <Form Tag="R1P" Checked="+">імправізу´ем</Form>
-        <Form Tag="R2P" Checked="+">імправізу´еце</Form>
-        <Form Tag="R3P" Checked="+">імправізу´юць</Form>
-        <Form Tag="PXSM" Checked="+">імправізава´ў</Form>
-        <Form Tag="PXSF" Checked="+">імправізава´ла</Form>
-        <Form Tag="PXSN" Checked="+">імправізава´ла</Form>
-        <Form Tag="PXPX" Checked="+">імправізава´лі</Form>
-        <Form Tag="I2S" Checked="+">імправізу´й</Form>
-        <Form Tag="I2P" Checked="+">імправізу´йце</Form>
-        <Form Tag="RG" Checked="+">імправізу´ючы</Form>
+    <Paradigm pdgId="1104636" Lemma="імправізава´ць" Tag="VDMN1" Govern="" Checked="+">
+        <Form Tag="0" Slouniki="dzsl2007" Checked="+">імправізава´ць</Form>
+        <Form Tag="R1S" Slouniki="dzsl2007" Checked="+">імправізу´ю</Form>
+        <Form Tag="R2S" Slouniki="dzsl2007" Checked="+">імправізу´еш</Form>
+        <Form Tag="R3S" Slouniki="dzsl2007" Checked="+">імправізу´е</Form>
+        <Form Tag="R1P" Slouniki="dzsl2007" Checked="+">імправізу´ем</Form>
+        <Form Tag="R2P" Slouniki="dzsl2007" Checked="+">імправізу´еце</Form>
+        <Form Tag="R3P" Slouniki="dzsl2007" Checked="+">імправізу´юць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007" Checked="+">імправізава´ў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007" Checked="+">імправізава´ла</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007" Checked="+">імправізава´ла</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007" Checked="+">імправізава´лі</Form>
+        <Form Tag="I2S" Slouniki="dzsl2007" Checked="+">імправізу´й</Form>
+        <Form Tag="I2P" Slouniki="dzsl2007" Checked="+">імправізу´йце</Form>
+        <Form Tag="RG" Slouniki="dzsl2007" Checked="+">імправізу´ючы</Form>
     </Paradigm>
-    <Paradigm pdgId="1104710" Lemma="інтрыгава´ць" Tag="VDMN1" Govern="" Checked="+" Slouniki="dzsl">
-        <Form Tag="0" Checked="+">інтрыгава´ць</Form>
-        <Form Tag="R1S" Checked="+">інтрыгу´ю</Form>
-        <Form Tag="R2S" Checked="+">інтрыгу´еш</Form>
-        <Form Tag="R3S" Checked="+">інтрыгу´е</Form>
-        <Form Tag="R1P" Checked="+">інтрыгу´ем</Form>
-        <Form Tag="R2P" Checked="+">інтрыгу´еце</Form>
-        <Form Tag="R3P" Checked="+">інтрыгу´юць</Form>
-        <Form Tag="PXSM" Checked="+">інтрыгава´ў</Form>
-        <Form Tag="PXSF" Checked="+">інтрыгава´ла</Form>
-        <Form Tag="PXSN" Checked="+">інтрыгава´ла</Form>
-        <Form Tag="PXPX" Checked="+">інтрыгава´лі</Form>
-        <Form Tag="I2S" Checked="+">інтрыгу´й</Form>
-        <Form Tag="I2P" Checked="+">інтрыгу´йце</Form>
-        <Form Tag="RG" Checked="+">інтрыгу´ючы</Form>
+    <Paradigm pdgId="1104710" Lemma="інтрыгава´ць" Tag="VDMN1" Govern="" Checked="+">
+        <Form Tag="0" Slouniki="dzsl2007" Checked="+">інтрыгава´ць</Form>
+        <Form Tag="R1S" Slouniki="dzsl2007" Checked="+">інтрыгу´ю</Form>
+        <Form Tag="R2S" Slouniki="dzsl2007" Checked="+">інтрыгу´еш</Form>
+        <Form Tag="R3S" Slouniki="dzsl2007" Checked="+">інтрыгу´е</Form>
+        <Form Tag="R1P" Slouniki="dzsl2007" Checked="+">інтрыгу´ем</Form>
+        <Form Tag="R2P" Slouniki="dzsl2007" Checked="+">інтрыгу´еце</Form>
+        <Form Tag="R3P" Slouniki="dzsl2007" Checked="+">інтрыгу´юць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007" Checked="+">інтрыгава´ў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007" Checked="+">інтрыгава´ла</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007" Checked="+">інтрыгава´ла</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007" Checked="+">інтрыгава´лі</Form>
+        <Form Tag="I2S" Slouniki="dzsl2007" Checked="+">інтрыгу´й</Form>
+        <Form Tag="I2P" Slouniki="dzsl2007" Checked="+">інтрыгу´йце</Form>
+        <Form Tag="RG" Slouniki="dzsl2007" Checked="+">інтрыгу´ючы</Form>
     </Paradigm>
 </Wordlist>

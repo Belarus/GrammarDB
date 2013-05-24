@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1105280" Lemma="абла´зіць" Tag="VDMN2" Govern="" Slouniki="dzsl">
-        <Form Tag="0">абла´зіць</Form>
+    <Paradigm pdgId="1105280" Lemma="абла´зіць" Tag="VDMN2" Govern="">
+        <Form Tag="0" Slouniki="dzsl2007">абла´зіць</Form>
         <Form Tag="R1S" Type="potential">аблажу</Form>
         <Form Tag="R2S" Type="potential">аблазіш</Form>
-        <Form Tag="R3S">абла´зіць</Form>
+        <Form Tag="R3S" Slouniki="dzsl2007">абла´зіць</Form>
         <Form Tag="R1P" Type="potential">аблазім</Form>
         <Form Tag="R2P" Type="potential">аблазіце</Form>
-        <Form Tag="R3P">абла´зяць</Form>
-        <Form Tag="PXSM">абла´зіў</Form>
-        <Form Tag="PXSF">абла´зіла</Form>
-        <Form Tag="PXSN">абла´зіла</Form>
-        <Form Tag="PXPX">абла´зілі</Form>
+        <Form Tag="R3P" Slouniki="dzsl2007">абла´зяць</Form>
+        <Form Tag="PXSM" Slouniki="dzsl2007">абла´зіў</Form>
+        <Form Tag="PXSF" Slouniki="dzsl2007">абла´зіла</Form>
+        <Form Tag="PXSN" Slouniki="dzsl2007">абла´зіла</Form>
+        <Form Tag="PXPX" Slouniki="dzsl2007">абла´зілі</Form>
         <Form Tag="I2S" Type="potential">аблазь</Form>
         <Form Tag="I2P" Type="potential">аблазьце</Form>
         <Form Tag="RG" Type="potential">аблазячы</Form>

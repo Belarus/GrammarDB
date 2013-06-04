@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1133806" Lemma="борць" Tag="NCIXNF1">
-        <Form Tag="NS">борць</Form>
-        <Form Tag="GS">борці</Form>
-        <Form Tag="DS">борці</Form>
-        <Form Tag="AS">борць</Form>
-        <Form Tag="IS">борцю</Form>
-        <Form Tag="LS">борці</Form>
-        <Form Tag="NP">борці</Form>
-        <Form Tag="GP">борцей</Form>
-        <Form Tag="DP">борцям</Form>
-        <Form Tag="AP">борці</Form>
-        <Form Tag="IP">борцямі</Form>
-        <Form Tag="LP">борцях</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">борць</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">бо´рці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">бо´рці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">борць</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">бо´рцю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">бо´рці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">бо´рці</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">бо´рцей</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">бо´рцям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">бо´рці</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">бо´рцямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">бо´рцях</Form>
     </Paradigm>
-    <Paradigm pdgId="1138878" Lemma="перыпетыя+" Tag="NCIXNF1">
+    <Paradigm pdgId="1138878" Lemma="перыпетыя" Tag="NCIXNF1" options="usually_plurals">
         <Form Tag="NS">перыпетыя</Form>
         <Form Tag="GS">перыпетыі</Form>
         <Form Tag="DS">перыпетыі</Form>

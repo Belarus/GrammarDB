@@ -1,32 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1039807" Lemma="блізнё" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">блізнё</Form>
-        <Form Tag="GS">блізняці</Form>
-        <Form Tag="DS">блізню</Form>
-        <Form Tag="AS">блізнё</Form>
-        <Form Tag="IS">блізнём</Form>
-        <Form Tag="LS">блізняці</Form>
-        <Form Tag="NP">блізняты</Form>
-        <Form Tag="GP">блізнят</Form>
-        <Form Tag="DP">блізнятам</Form>
-        <Form Tag="AP">блізнят</Form>
-        <Form Tag="IP">блізнятамі</Form>
-        <Form Tag="LP">блізнятах</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">блізнё</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">блізня´ці</Form>
+        <Form Tag="DS" Type="nonstandard">блізню</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">блізня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">блізнё</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">блізнём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">блізня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">блізня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">блізня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">блізня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">блізня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">блізня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">блізня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1039808" Lemma="блізня" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">блізня</Form>
-        <Form Tag="GS">блізняці</Form>
-        <Form Tag="DS">блізню</Form>
-        <Form Tag="AS">блізня</Form>
-        <Form Tag="IS">блізнём</Form>
-        <Form Tag="LS">блізняці</Form>
-        <Form Tag="NP">блізняты</Form>
-        <Form Tag="GP">блізнят</Form>
-        <Form Tag="DP">блізнятам</Form>
-        <Form Tag="AP">блізнят</Form>
-        <Form Tag="IP">блізнятамі</Form>
-        <Form Tag="LP">блізнятах</Form>
+    <Paradigm pdgId="1039808" Lemma="блізня´" Tag="NCAPNN4" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">блізня´</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">блізня´ці</Form>
+        <Form Tag="DS" Type="nonstandard">блізню</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">блізня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">блізня´</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">блізнём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">блізня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">блізня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">блізня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">блізня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">блізня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">блізня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">блізня´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1138741" Lemma="дзеўчанё" Tag="NCAPNN4">
         <Form Tag="NS">дзеўчанё</Form>
@@ -89,160 +91,173 @@
         <Form Tag="LP">дзецях</Form>
     </Paradigm>
     <Paradigm pdgId="1040582" Lemma="дзіцянё" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">дзіцянё</Form>
-        <Form Tag="GS">дзіцяняці</Form>
-        <Form Tag="DS">дзіцяняці</Form>
-        <Form Tag="AS">дзіцянё</Form>
-        <Form Tag="IS">дзіцянём</Form>
-        <Form Tag="LS">дзіцяняці</Form>
-        <Form Tag="NP">дзіцяняты</Form>
-        <Form Tag="GP">дзіцянят</Form>
-        <Form Tag="DP">дзіцянятам</Form>
-        <Form Tag="AP">дзіцянят</Form>
-        <Form Tag="IP">дзіцянятамі</Form>
-        <Form Tag="LP">дзіцянятах</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">дзіцянё</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">дзіцяня´ці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">дзіцяня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">дзіцянё</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">дзіцянём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">дзіцяня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">дзіцяня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіцяня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзіцяня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзіцяня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзіцяня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзіцяня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1040583" Lemma="дзіцяня" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">дзіцяня</Form>
-        <Form Tag="GS">дзіцяня</Form>
-        <Form Tag="DS">дзіцяняці</Form>
-        <Form Tag="AS">дзіцяня</Form>
-        <Form Tag="IS">дзіцянём</Form>
-        <Form Tag="LS">дзіцяняці</Form>
-        <Form Tag="NP">дзіцяняты</Form>
-        <Form Tag="GP">дзіцянят</Form>
-        <Form Tag="DP">дзіцянятам</Form>
-        <Form Tag="AP">дзіцянят</Form>
-        <Form Tag="IP">дзіцянятамі</Form>
-        <Form Tag="LP">дзіцянятах</Form>
+    <Paradigm pdgId="1040583" Lemma="дзіцяня´" Tag="NCAPNN4" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">дзіцяня´</Form>
+        <Form Tag="GS" Type="nonstandard">дзіцяня</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">дзіцяня´ці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">дзіцяня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">дзіцяня´</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">дзіцянём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">дзіцяня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">дзіцяня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіцяня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзіцяня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзіцяня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзіцяня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзіцяня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1017931" Lemma="дзіцятка" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">дзіцятка</Form>
-        <Form Tag="GS">дзіцяткі</Form>
-        <Form Tag="DS">дзіцятку</Form>
-        <Form Tag="AS">дзіцятку</Form>
-        <Form Tag="IS">дзіцяткам</Form>
-        <Form Tag="LS">дзіцятку</Form>
-        <Form Tag="NP">дзіцяткі</Form>
-        <Form Tag="GP">дзіцятак</Form>
-        <Form Tag="DP">дзіцяткам</Form>
-        <Form Tag="AP">дзіцятак</Form>
-        <Form Tag="IP">дзіцяткамі</Form>
-        <Form Tag="LP">дзіцятках</Form>
+    <Paradigm pdgId="1017931" Lemma="дзіця´тка" Tag="NCAPNN4" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">дзіця´тка</Form>
+        <Form Tag="GS" Type="nonstandard">дзіцяткі</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">дзіця´тка</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">дзіця´тку</Form>
+        <Form Tag="AS" Type="nonstandard">дзіцятку</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">дзіця´тка</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">дзіця´ткам</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">дзіця´тку</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">дзіця´ткі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіця´так</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзіця´ткам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзіця´так</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзіця´ткамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзіця´тках</Form>
     </Paradigm>
-    <Paradigm pdgId="1041752" Lemma="немаўля" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">немаўля</Form>
-        <Form Tag="GS">немаўля</Form>
-        <Form Tag="GS">немаўляці</Form>
-        <Form Tag="DS">немаўлю</Form>
-        <Form Tag="DS">немаўляці</Form>
-        <Form Tag="AS">немаўля</Form>
-        <Form Tag="IS">немаўлём</Form>
-        <Form Tag="LS">немаўлю</Form>
-        <Form Tag="LS">немаўляці</Form>
-        <Form Tag="NP">немаўляты</Form>
-        <Form Tag="GP">немаўлят</Form>
-        <Form Tag="DP">немаўлятам</Form>
-        <Form Tag="AP">немаўлят</Form>
-        <Form Tag="IP">немаўлятамі</Form>
-        <Form Tag="LP">немаўлятах</Form>
+    <Paradigm pdgId="1041752" Lemma="немаўля´" Tag="NCAPNN4" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">немаўля´</Form>
+        <Form Tag="GS" Type="nonstandard">немаўля</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">немаўля´ці</Form>
+        <Form Tag="DS" Type="nonstandard">немаўлю</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">немаўля´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">немаўля´</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">немаўлём</Form>
+        <Form Tag="LS" Type="nonstandard">немаўлю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">немаўля´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">немаўля´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">немаўля´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">немаўля´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">немаўля´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">немаўля´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">немаўля´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1043618" Lemma="хлапчанё" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">хлапчанё</Form>
-        <Form Tag="GS">хлапчаняці</Form>
-        <Form Tag="DS">хлапчаняці</Form>
-        <Form Tag="AS">хлапчанё</Form>
-        <Form Tag="IS">хлапчанём</Form>
-        <Form Tag="LS">хлапчаняці</Form>
-        <Form Tag="NP">хлапчаняты</Form>
-        <Form Tag="GP">хлапчанят</Form>
-        <Form Tag="DP">хлапчанятам</Form>
-        <Form Tag="AP">хлапчанят</Form>
-        <Form Tag="IP">хлапчанятамі</Form>
-        <Form Tag="LP">хлапчанятах</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">хлапчанё</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">хлапчаня´ці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">хлапчаня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">хлапчанё</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">хлапчанём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">хлапчаня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">хлапчаня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">хлапчаня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">хлапчаня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">хлапчаня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">хлапчаня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">хлапчаня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1043619" Lemma="хлапчаня" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">хлапчаня</Form>
-        <Form Tag="GS">хлапчаняці</Form>
-        <Form Tag="DS">хлапчаняці</Form>
-        <Form Tag="AS">хлапчаня</Form>
-        <Form Tag="IS">хлапчанём</Form>
-        <Form Tag="LS">хлапчаняці</Form>
-        <Form Tag="NP">хлапчаняты</Form>
-        <Form Tag="GP">хлапчанят</Form>
-        <Form Tag="DP">хлапчанятам</Form>
-        <Form Tag="AP">хлапчанят</Form>
-        <Form Tag="IP">хлапчанятамі</Form>
-        <Form Tag="LP">хлапчанятах</Form>
+    <Paradigm pdgId="1043619" Lemma="хлапчаня´" Tag="NCAPNN4" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">хлапчаня´</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">хлапчаня´ці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">хлапчаня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">хлапчаня´</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">хлапчанём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">хлапчаня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">хлапчаня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">хлапчаня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">хлапчаня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">хлапчаня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">хлапчаня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">хлапчаня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1138744" Lemma="хлапчо" Tag="NCAPNN4">
-        <Form Tag="NS">хлапчо</Form>
-        <Form Tag="GS">хлапчаці</Form>
-        <Form Tag="DS">хлапчаню</Form>
-        <Form Tag="AS">хлапчо</Form>
-        <Form Tag="IS">хлапчанём</Form>
-        <Form Tag="LS">хлапчаняці</Form>
-        <Form Tag="NP">хлапчаняты</Form>
-        <Form Tag="GP">хлапчанятаў</Form>
-        <Form Tag="DP">хлапчанятам</Form>
-        <Form Tag="AP">хлапчанятаў</Form>
-        <Form Tag="IP">хлапчанятамі</Form>
-        <Form Tag="LP">хлапчанятах</Form>
+    <Paradigm pdgId="1138744" Lemma="хлапчо´" Tag="NCAPNN4" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NS" Slouniki="nazounik2008">хлапчо´</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">хлапча´ці</Form>
+        <Form Tag="DS" Type="nonstandard">хлапчаню</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">хлапча´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">хлапчо´</Form>
+        <Form Tag="IS" Type="nonstandard">хлапчанём</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">хлапчо´м</Form>
+        <Form Tag="LS" Type="nonstandard">хлапчаняці</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">хлапча´ці</Form>
+        <Form Tag="NP" Type="nonstandard">хлапчаняты</Form>
+        <Form Tag="GP" Type="nonstandard">хлапчанятаў</Form>
+        <Form Tag="DP" Type="nonstandard">хлапчанятам</Form>
+        <Form Tag="AP" Type="nonstandard">хлапчанятаў</Form>
+        <Form Tag="IP" Type="nonstandard">хлапчанятамі</Form>
+        <Form Tag="LP" Type="nonstandard">хлапчанятах</Form>
     </Paradigm>
     <Paradigm pdgId="1138742" Lemma="цыганё" Tag="NCAPNN4">
-        <Form Tag="NS">цыганё</Form>
-        <Form Tag="GS">цыганяці</Form>
-        <Form Tag="DS">цыганю</Form>
-        <Form Tag="AS">цыганё</Form>
-        <Form Tag="IS">цыганём</Form>
-        <Form Tag="LS">цыганяці</Form>
-        <Form Tag="NP">цыганяты</Form>
-        <Form Tag="GP">цыганятаў</Form>
-        <Form Tag="DP">цыганятам</Form>
-        <Form Tag="AP">цыганятаў</Form>
-        <Form Tag="IP">цыганятамі</Form>
-        <Form Tag="LP">цыганятах</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">цыганё</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">цыганя´ці</Form>
+        <Form Tag="DS" Type="nonstandard">цыганю</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">цыганя´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">цыганё</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">цыганём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">цыганя´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">цыганя´ты</Form>
+        <Form Tag="GP" Type="nonstandard">цыганятаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">цыганя´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">цыганя´там</Form>
+        <Form Tag="AP" Type="nonstandard">цыганятаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">цыганя´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">цыганя´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">цыганя´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1138743" Lemma="цыганя" Tag="NCAPNN4">
-        <Form Tag="NS">цыганя</Form>
-        <Form Tag="GS">цыганяці</Form>
-        <Form Tag="DS">цыганю</Form>
-        <Form Tag="AS">цыганя</Form>
-        <Form Tag="IS">цыганём</Form>
-        <Form Tag="LS">цыганяці</Form>
-        <Form Tag="NP">цыганяты</Form>
-        <Form Tag="GP">цыганятаў</Form>
-        <Form Tag="DP">цыганятам</Form>
-        <Form Tag="AP">цыганятаў</Form>
-        <Form Tag="IP">цыганятамі</Form>
-        <Form Tag="LP">цыганятах</Form>
+    <Paradigm pdgId="1138743" Lemma="цыганя´" Tag="NCAPNN4">
+        <Form Tag="NS" Slouniki="nazounik2008">цыганя´</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">цыганя´ці</Form>
+        <Form Tag="DS" Type="nonstandard">цыганю</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">цыганя´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">цыганя´</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">цыганём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">цыганя´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">цыганя´ты</Form>
+        <Form Tag="GP" Type="nonstandard">цыганятаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">цыганя´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">цыганя´там</Form>
+        <Form Tag="AP" Type="nonstandard">цыганятаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">цыганя´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">цыганя´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">цыганя´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1043698" Lemma="чарцянё" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">чарцянё</Form>
-        <Form Tag="GS">чарцяняці</Form>
-        <Form Tag="DS">чарцяняці</Form>
-        <Form Tag="AS">чарцянё</Form>
-        <Form Tag="IS">чарцянём</Form>
-        <Form Tag="LS">чарцяняці</Form>
-        <Form Tag="NP">чарцяняты</Form>
-        <Form Tag="GP">чарцянят</Form>
-        <Form Tag="DP">чарцянятам</Form>
-        <Form Tag="AP">чарцянят</Form>
-        <Form Tag="IP">чарцянятамі</Form>
-        <Form Tag="LP">чарцянятах</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">чарцянё</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">чарцяня´ці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">чарцяня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">чарцянё</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">чарцянём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">чарцяня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">чарцяня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">чарцяня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">чарцяня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">чарцяня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">чарцяня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">чарцяня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1043699" Lemma="чарцяня" Tag="NCAPNN4" Govern="">
-        <Form Tag="NS">чарцяня</Form>
-        <Form Tag="GS">чарцяня</Form>
-        <Form Tag="DS">чарцяняці</Form>
-        <Form Tag="AS">чарцяня</Form>
-        <Form Tag="IS">чарцянём</Form>
-        <Form Tag="LS">чарцяняці</Form>
-        <Form Tag="NP">чарцяняты</Form>
-        <Form Tag="GP">чарцянят</Form>
-        <Form Tag="DP">чарцянятам</Form>
-        <Form Tag="AP">чарцянят</Form>
-        <Form Tag="IP">чарцянятамі</Form>
-        <Form Tag="LP">чарцянятах</Form>
+    <Paradigm pdgId="1043699" Lemma="чарцяня´" Tag="NCAPNN4" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">чарцяня´</Form>
+        <Form Tag="GS" Type="nonstandard">чарцяня</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">чарцяня´ці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">чарцяня´ці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">чарцяня´</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">чарцянём</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">чарцяня´ці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">чарцяня´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">чарцяня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">чарцяня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">чарцяня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">чарцяня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">чарцяня´тах</Form>
     </Paradigm>
 </Wordlist>

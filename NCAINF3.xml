@@ -1,150 +1,158 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1017120" Lemma="вош" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">вош</Form>
-        <Form Tag="GS">вошы</Form>
-        <Form Tag="DS">вошы</Form>
-        <Form Tag="AS">вош</Form>
-        <Form Tag="IS">вошшу</Form>
-        <Form Tag="LS">вошы</Form>
-        <Form Tag="NP">вошы</Form>
-        <Form Tag="GP">вошай</Form>
-        <Form Tag="DP">вошам</Form>
-        <Form Tag="AP">вошы</Form>
-        <Form Tag="IP">вошамі</Form>
-        <Form Tag="LP">вошах</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">вош</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">во´шы</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">во´шы</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">вош</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">во´шшу</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">во´шы</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">во´шы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">во´шай</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">во´шам</Form>
+        <Form Tag="AP" Type="nonstandard">вошы</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">во´шай</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">во´шамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">во´шах</Form>
     </Paradigm>
-    <Paradigm pdgId="1017447" Lemma="газель" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">газель</Form>
-        <Form Tag="GS">газелі</Form>
-        <Form Tag="DS">газелі</Form>
-        <Form Tag="AS">газель</Form>
-        <Form Tag="IS">газеллю</Form>
-        <Form Tag="LS">газелі</Form>
-        <Form Tag="NP">газелі</Form>
-        <Form Tag="GP">газелей</Form>
-        <Form Tag="GP">газеляў</Form>
-        <Form Tag="DP">газелям</Form>
-        <Form Tag="AP">газелей</Form>
-        <Form Tag="IP">газелямі</Form>
-        <Form Tag="LP">газелях</Form>
+    <Paradigm pdgId="1017447" Lemma="газе´ль" Tag="NCAINF3" Govern="" todo="праверыць адушаўлёнасьць" meaning="тып вершаскладання">
+        <Form Tag="NS" Slouniki="nazounik2008">газе´ль</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">газе´ль</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">газе´ллю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="NP" Type="nonstandard">газелі</Form>
+        <Form Tag="GP" Type="nonstandard">газелей</Form>
+        <Form Tag="GP" Type="nonstandard">газеляў</Form>
+        <Form Tag="DP" Type="nonstandard">газелям</Form>
+        <Form Tag="AP" Type="nonstandard">газелей</Form>
+        <Form Tag="IP" Type="nonstandard">газелямі</Form>
+        <Form Tag="LP" Type="nonstandard">газелях</Form>
     </Paradigm>
-    <Paradigm pdgId="1128216" Lemma="газель" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">газель</Form>
-        <Form Tag="GS">газелі</Form>
-        <Form Tag="DS">газелі</Form>
-        <Form Tag="AS">газель</Form>
-        <Form Tag="IS">газеллю</Form>
-        <Form Tag="LS">газелі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
+    <Paradigm pdgId="1128216" Lemma="газе´ль" Tag="NCAINF3" Govern="" meaning="жывёліна">
+        <Form Tag="NS" Slouniki="nazounik2008">газе´ль</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">газе´ль</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">газе´ллю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">газе´лі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">газе´лей</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">газе´ляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">газе´лям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">газе´лей</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">газе´ляў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">газе´лямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">газе´лях</Form>
     </Paradigm>
     <Paradigm pdgId="1029408" Lemma="гусь" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">гусь</Form>
-        <Form Tag="GS">гусі</Form>
-        <Form Tag="DS">гусі</Form>
-        <Form Tag="AS">гусь</Form>
-        <Form Tag="IS">гусcю</Form>
-        <Form Tag="LS">гусі</Form>
-        <Form Tag="NP">гусі</Form>
-        <Form Tag="GP">гусей</Form>
-        <Form Tag="DP">гусям</Form>
-        <Form Tag="AP">гусей</Form>
-        <Form Tag="IP">гусямі</Form>
-        <Form Tag="LP">гусях</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">гусь</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">гу´сі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">гу´сі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">гусь</Form>
+        <Form Tag="IS" Type="nonstandard">гусcю</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">гу´ссю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">гу´сі</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">гу´сі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">гусе´й</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">гуся´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гусе´й</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">гуся´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">гуся´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1132033" Lemma="кефаль" Tag="NCAINF3">
-        <Form Tag="NS">кефаль</Form>
-        <Form Tag="GS">кефалі</Form>
-        <Form Tag="DS">кефалі</Form>
-        <Form Tag="AS">кефаль</Form>
-        <Form Tag="IS">кефаллю</Form>
-        <Form Tag="LS">кефалі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
+    <Paradigm pdgId="1132033" Lemma="кефа´ль" Tag="NCAINF3">
+        <Form Tag="NS" Slouniki="nazounik2008">кефа´ль</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">кефа´лі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">кефа´лі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">кефа´ль</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">кефа´ллю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">кефа´лі</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">кефа´лі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кефа´лей</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кефа´лям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кефа´лей</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кефа´лямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кефа´лях</Form>
     </Paradigm>
     <Paradigm pdgId="1132037" Lemma="лань" Tag="NCAINF3">
-        <Form Tag="NS">лань</Form>
-        <Form Tag="GS">лані</Form>
-        <Form Tag="DS">лані</Form>
-        <Form Tag="AS">лань</Form>
-        <Form Tag="IS">ланлю</Form>
-        <Form Tag="LS">лані</Form>
-        <Form Tag="NP">лані</Form>
-        <Form Tag="GP">ланей</Form>
-        <Form Tag="GP">ланяў</Form>
-        <Form Tag="DP">ланям</Form>
-        <Form Tag="AP">ланей</Form>
-        <Form Tag="AP">ланяў</Form>
-        <Form Tag="IP">ланямі</Form>
-        <Form Tag="LP">ланях</Form>
+        <Form Tag="NS" Slouniki="nazounik2008">лань</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">ла´ні</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">ла´ні</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">лань</Form>
+        <Form Tag="IS" Type="nonstandard">ланлю</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">ла´нню</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">ла´ні</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">ла´ні</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ла´ней</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ла´няў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ла´ням</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ла´ней</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ла´няў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ла´нямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ла´нях</Form>
     </Paradigm>
-    <Paradigm pdgId="1020177" Lemma="мыш" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">мыш</Form>
-        <Form Tag="GS">мышы</Form>
-        <Form Tag="DS">мышы</Form>
-        <Form Tag="AS">мыш</Form>
-        <Form Tag="IS">мышшу</Form>
-        <Form Tag="LS">мышы</Form>
-        <Form Tag="NP">мышы</Form>
-        <Form Tag="GP">мышэй</Form>
-        <Form Tag="DP">мышам</Form>
-        <Form Tag="AP">мышэй</Form>
-        <Form Tag="IP">мышамі</Form>
-        <Form Tag="LP">мышах</Form>
+    <Paradigm pdgId="1020177" Lemma="мыш" Tag="NCAINF3" Govern="" meaning="жывёліна">
+        <Form Tag="NS" Slouniki="nazounik2008">мыш</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">мы´шы</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">мы´шы</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">мыш</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">мы´шшу</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">мы´шы</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">мы´шы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мышэ´й</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мыша´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мышэ´й</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мыша´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мыша´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1132062" Lemma="няясыць" Tag="NCAINF3">
-        <Form Tag="NS">няясыць</Form>
-        <Form Tag="GS">няясыці</Form>
-        <Form Tag="DS">няясыці</Form>
-        <Form Tag="AS">няясыць</Form>
-        <Form Tag="IS">няясыцлю</Form>
-        <Form Tag="LS">няясыці</Form>
-        <Form Tag="NP">няясыці</Form>
-        <Form Tag="GP">няясыцей</Form>
-        <Form Tag="GP">няясыцяў</Form>
-        <Form Tag="DP">няясыцям</Form>
-        <Form Tag="AP">няясыцей</Form>
-        <Form Tag="AP">няясыцяў</Form>
-        <Form Tag="IP">няясыцямі</Form>
-        <Form Tag="LP">няясыцях</Form>
+    <Paradigm pdgId="1132062" Lemma="няя´сыць" Tag="NCAINF3">
+        <Form Tag="NS" Slouniki="nazounik2008">няя´сыць</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">няя´сыці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">няя´сыці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">няя´сыць</Form>
+        <Form Tag="IS" Type="nonstandard">няясыцлю</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">няя´сыццю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">няя´сыці</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">няя´сыці</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">няя´сыцей</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">няя´сыцяў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">няя´сыцям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">няя´сыцей</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">няя´сыцяў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">няя´сыцямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">няя´сыцях</Form>
     </Paradigm>
-    <Paradigm pdgId="1022430" Lemma="рысь" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">рысь</Form>
-        <Form Tag="GS">рысі</Form>
-        <Form Tag="DS">рысі</Form>
-        <Form Tag="AS">рысь</Form>
-        <Form Tag="IS">рыссю</Form>
-        <Form Tag="LS">рысі</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
+    <Paradigm pdgId="1022430" Lemma="рысь" Tag="NCAINF3" Govern="" meaning="жывёліна">
+        <Form Tag="NS" Slouniki="nazounik2008">рысь</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">рысь</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">ры´ссю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ры´сей</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ры´сяў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ры´сям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ры´сей</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ры´сяў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ры´сямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ры´сях</Form>
     </Paradigm>
-    <Paradigm pdgId="1128227" Lemma="рысь" Tag="NCAINF3" Govern="">
-        <Form Tag="NS">рысь</Form>
-        <Form Tag="GS">рысі</Form>
-        <Form Tag="DS">рысі</Form>
-        <Form Tag="AS">рысь</Form>
-        <Form Tag="IS">рыссю</Form>
-        <Form Tag="LS">рысі</Form>
-        <Form Tag="NP">рысі</Form>
-        <Form Tag="GP">рысей</Form>
-        <Form Tag="GP">рысяў</Form>
-        <Form Tag="DP">рысям</Form>
-        <Form Tag="AP">рысі</Form>
-        <Form Tag="IP">рысямі</Form>
-        <Form Tag="LP">рысях</Form>
+    <Paradigm pdgId="1128227" Lemma="рысь" Tag="NCAINF3" Govern="" todo="праверыць адушаўлёнасьць" meaning="бег">
+        <Form Tag="NS" Slouniki="nazounik2008">рысь</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">рысь</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">ры´ссю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">ры´сі</Form>
+        <Form Tag="NP" Type="nonstandard">рысі</Form>
+        <Form Tag="GP" Type="nonstandard">рысей</Form>
+        <Form Tag="GP" Type="nonstandard">рысяў</Form>
+        <Form Tag="DP" Type="nonstandard">рысям</Form>
+        <Form Tag="AP" Type="nonstandard">рысі</Form>
+        <Form Tag="IP" Type="nonstandard">рысямі</Form>
+        <Form Tag="LP" Type="nonstandard">рысях</Form>
     </Paradigm>
     <Paradigm pdgId="1022846" Lemma="свіязь" Tag="NCAINF3" Govern="">
         <Form Tag="NS">свіязь</Form>
@@ -160,20 +168,21 @@
         <Form Tag="IP">свіязямі</Form>
         <Form Tag="LP">свіязях</Form>
     </Paradigm>
-    <Paradigm pdgId="1132076" Lemma="сцерлядзь" Tag="NCAINF3">
-        <Form Tag="NS">сцерлядзь</Form>
-        <Form Tag="GS">сцерлядзі</Form>
-        <Form Tag="DS">сцерлядзі</Form>
-        <Form Tag="AS">сцерлядзь</Form>
-        <Form Tag="IS">сцерлядзлю</Form>
-        <Form Tag="LS">сцерлядзі</Form>
-        <Form Tag="NP">сцерлядзі</Form>
-        <Form Tag="GP">сцерлядзей</Form>
-        <Form Tag="GP">сцерлядзяў</Form>
-        <Form Tag="DP">сцерлядзям</Form>
-        <Form Tag="AP">сцерлядзей</Form>
-        <Form Tag="AP">сцерлядзяў</Form>
-        <Form Tag="IP">сцерлядзямі</Form>
-        <Form Tag="LP">сцерлядзях</Form>
+    <Paradigm pdgId="1132076" Lemma="сце´рлядзь" Tag="NCAINF3">
+        <Form Tag="NS" Slouniki="nazounik2008">сце´рлядзь</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">сце´рлядзі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">сце´рлядзі</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">сце´рлядзь</Form>
+        <Form Tag="IS" Type="nonstandard">сцерлядзлю</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">сце´рляддзю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">сце´рлядзі</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">сце´рлядзі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">сце´рлядзей</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">сце´рлядзяў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">сце´рлядзям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">сце´рлядзей</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">сце´рлядзяў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">сце´рлядзямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">сце´рлядзях</Form>
     </Paradigm>
 </Wordlist>

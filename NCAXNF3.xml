@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1021437" Lemma="пасрэднасць" Tag="NCAXNF3" Govern="">
-        <Form Tag="NS">пасрэднасць</Form>
-        <Form Tag="GS">пасрэднасці</Form>
-        <Form Tag="DS">пасрэднасці</Form>
-        <Form Tag="AS">пасрэднасць</Form>
-        <Form Tag="IS">пасрэднасцю</Form>
-        <Form Tag="LS">пасрэднасці</Form>
-        <Form Tag="NP">пасрэднасці</Form>
-        <Form Tag="GP">пасрэднасцей</Form>
-        <Form Tag="DP">пасрэднасцям</Form>
-        <Form Tag="AP">пасрэднасцей</Form>
-        <Form Tag="IP">пасрэднасцямі</Form>
-        <Form Tag="LP">пасрэднасцях</Form>
+    <Paradigm pdgId="1021437" Lemma="пасрэ´днасць" Tag="NCAXNF3" Govern="" todo="праверыць адушаўлёнасьць" meaning="уласцівасць пасрэднага">
+        <Form Tag="NS" Slouniki="nazounik2008">пасрэ´днасць</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">пасрэ´днасці</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">пасрэ´днасці</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">пасрэ´днасць</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">пасрэ´днасцю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">пасрэ´днасці</Form>
+        <Form Tag="NP" Type="nonstandard">пасрэднасці</Form>
+        <Form Tag="GP" Type="nonstandard">пасрэднасцей</Form>
+        <Form Tag="DP" Type="nonstandard">пасрэднасцям</Form>
+        <Form Tag="AP" Type="nonstandard">пасрэднасцей</Form>
+        <Form Tag="IP" Type="nonstandard">пасрэднасцямі</Form>
+        <Form Tag="LP" Type="nonstandard">пасрэднасцях</Form>
     </Paradigm>
 </Wordlist>

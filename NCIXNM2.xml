@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1028598" Lemma="вятрыска" Tag="NCIXNM2" Govern="">
-        <Form Tag="NS">вятрыска</Form>
-        <Form Tag="GS">вятрыскі</Form>
-        <Form Tag="DS">вятрыску</Form>
-        <Form Tag="AS">вятрыску</Form>
-        <Form Tag="IS">вятрыскам</Form>
-        <Form Tag="LS">вятрыску</Form>
-        <Form Tag="NP">вятрыскі</Form>
-        <Form Tag="GP">вятрыскаў</Form>
-        <Form Tag="DP">вятрыскам</Form>
-        <Form Tag="AP">вятрыскаў</Form>
-        <Form Tag="IP">вятрыскамі</Form>
-        <Form Tag="LP">вятрысках</Form>
+    <Paradigm pdgId="1028598" Lemma="вятры´ска" Tag="NCIXNM2" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">вятры´ска</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">вятры´скі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">вятры´ску</Form>
+        <Form Tag="AS" Type="nonstandard">вятрыску</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">вятры´ска</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">вятры´скам</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">вятры´ску</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">вятры´скі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">вятры´скаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">вятры´скам</Form>
+        <Form Tag="AP" Type="nonstandard">вятрыскаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">вятры´скі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">вятры´скамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">вятры´сках</Form>
     </Paradigm>
-    <Paradigm pdgId="1031909" Lemma="музыка" Tag="NCIXNM2" Govern="">
+    <Paradigm pdgId="1031909" Lemma="музыка" Tag="NCIXNM2" Govern="" todo="дакладна праверыць адушаўлёнасьць">
         <Form Tag="NS">музыка</Form>
         <Form Tag="GS">музыкі</Form>
         <Form Tag="DS">музыку</Form>

@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1131372" Lemma="амшарына" Tag="NCIINF2">
-        <Form Tag="NS">амшарына</Form>
-        <Form Tag="GS">амшарыны</Form>
-        <Form Tag="DS">амшарыне</Form>
-        <Form Tag="AS">амшарыну</Form>
-        <Form Tag="IS">амшарынай</Form>
-        <Form Tag="IS">амшарынаю</Form>
-        <Form Tag="LS">амшарыне</Form>
-        <Form Tag="NP">амшарыны</Form>
-        <Form Tag="GP">амшарын</Form>
-        <Form Tag="DP">амшарынам</Form>
-        <Form Tag="AP">амшарын</Form>
-        <Form Tag="IP">амшарынамі</Form>
-        <Form Tag="LP">амшарынах</Form>
+    <Paradigm pdgId="1131372" Lemma="амша´рына" Tag="NCIINF2">
+        <Form Tag="NS" Slouniki="nazounik2008">амша´рына</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">амша´рыны</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">амша´рыне</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">амша´рыну</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">амша´рынай</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">амша´рынаю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">амша´рыне</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">амша´рыны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">амша´рын</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">амша´рынам</Form>
+        <Form Tag="AP" Type="nonstandard">амшарын</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">амша´рыны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">амша´рынамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">амша´рынах</Form>
     </Paradigm>
-    <Paradigm pdgId="1128217" Lemma="гніда" Tag="NCIINF2" Govern="">
-        <Form Tag="NS">гніда</Form>
-        <Form Tag="GS">гніды</Form>
-        <Form Tag="DS">гнідзе</Form>
-        <Form Tag="AS">гніду</Form>
-        <Form Tag="IS">гнідай</Form>
-        <Form Tag="IS">гнідаю</Form>
-        <Form Tag="LS">гнідзе</Form>
-        <Form Tag="NP">гніды</Form>
-        <Form Tag="GP">гнід</Form>
-        <Form Tag="DP">гнідам</Form>
-        <Form Tag="AP">гніды</Form>
-        <Form Tag="IP">гнідамі</Form>
-        <Form Tag="LP">гнідах</Form>
+    <Paradigm pdgId="1128217" Lemma="гні´да" Tag="NCIINF2" Govern="" meaning="яйцо вошы">
+        <Form Tag="NS" Slouniki="nazounik2008">гні´да</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">гні´ды</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">гні´дзе</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">гні´ду</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">гні´дай</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">гні´даю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">гні´дзе</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">гні´ды</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">гнід</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">гні´дам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гні´ды</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">гні´дамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">гні´дах</Form>
     </Paradigm>
 </Wordlist>

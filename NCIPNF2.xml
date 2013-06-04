@@ -8,26 +8,20 @@
         <Form Tag="IS">аблівахай</Form>
         <Form Tag="IS">аблівахаю</Form>
         <Form Tag="LS">аблівасе</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1018854" Lemma="какетка" Tag="NCIPNF2" Govern="">
-        <Form Tag="NS">какетка</Form>
-        <Form Tag="GS">какеткі</Form>
-        <Form Tag="DS">какетцы</Form>
-        <Form Tag="AS">какетку</Form>
-        <Form Tag="IS">какеткай</Form>
-        <Form Tag="IS">какеткаю</Form>
-        <Form Tag="LS">какетцы</Form>
-        <Form Tag="NP">какеткі</Form>
-        <Form Tag="GP">какетак</Form>
-        <Form Tag="DP">какеткам</Form>
-        <Form Tag="AP">какеткі</Form>
-        <Form Tag="IP">какеткамі</Form>
-        <Form Tag="LP">какетках</Form>
+    <Paradigm pdgId="1018854" Lemma="каке´тка" Tag="NCIPNF2" Govern="" meaning="гестка">
+        <Form Tag="NS" Slouniki="nazounik2008">каке´тка</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">каке´ткі</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">каке´тцы</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">каке´тку</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">каке´ткай</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">каке´ткаю</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">каке´тцы</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">каке´ткі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">каке´так</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">каке´ткам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">каке´ткі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">каке´ткамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">каке´тках</Form>
     </Paradigm>
 </Wordlist>

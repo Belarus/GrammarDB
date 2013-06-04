@@ -1,327 +1,342 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1128290" Lemma="адбіўная" Tag="NCIXNS5">
-        <Form Tag="FNS">адбіўная</Form>
-        <Form Tag="FGS">адбіўной</Form>
-        <Form Tag="FDS">адбіўной</Form>
-        <Form Tag="FAS">адбіўную</Form>
-        <Form Tag="FIS">адбіўной</Form>
-        <Form Tag="FIS">адбіўною</Form>
-        <Form Tag="FLS">адбіўной</Form>
-        <Form Tag="XNP">адбіўныя</Form>
-        <Form Tag="XGP">адбіўных</Form>
-        <Form Tag="XDP">адбіўным</Form>
-        <Form Tag="XAP">адбіўныя</Form>
-        <Form Tag="XIP">адбіўнымі</Form>
-        <Form Tag="XLP">адбіўных</Form>
+    <Paradigm pdgId="1128290" Lemma="адбіўна´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">адбіўна´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">адбіўно´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">адбіўно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">адбіўну´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">адбіўно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">адбіўно´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">адбіўно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">адбіўны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">адбіўны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">адбіўны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">адбіўны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">адбіўны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">адбіўны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128176" Lemma="адкупное" Tag="NCIXNS5">
-        <Form Tag="NNS">адкупное</Form>
-        <Form Tag="NGS">адкупнога</Form>
-        <Form Tag="NDS">адкупному</Form>
-        <Form Tag="NAS">адкупное</Form>
-        <Form Tag="NIS">адкупным</Form>
-        <Form Tag="NLS">адкупным</Form>
-        <Form Tag="XNP">адкупныя</Form>
-        <Form Tag="XGP">адкупных</Form>
-        <Form Tag="XDP">адкупным</Form>
-        <Form Tag="XAP">адкупныя</Form>
-        <Form Tag="XIP">адкупнымі</Form>
-        <Form Tag="XLP">адкупных</Form>
+    <Paradigm pdgId="1128176" Lemma="адкупно´е" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">адкупныя</Form>
+        <Form Tag="XGP" Type="nonstandard">адкупных</Form>
+        <Form Tag="XDP" Type="nonstandard">адкупным</Form>
+        <Form Tag="XAP" Type="nonstandard">адкупныя</Form>
+        <Form Tag="XIP" Type="nonstandard">адкупнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">адкупных</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">адкупно´е</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">адкупно´га</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">адкупно´му</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">адкупно´е</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">адкупны´м</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">адкупны´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1039500" Lemma="аднімаемае" Tag="NCIXNS5" Govern="">
-        <Form Tag="NNS">аднімаемае</Form>
-        <Form Tag="NGS">аднімаемага</Form>
-        <Form Tag="NDS">аднімаемаму</Form>
-        <Form Tag="NAS">аднімаемае</Form>
-        <Form Tag="NIS">аднімаемым</Form>
-        <Form Tag="NLS">аднімаемым</Form>
-        <Form Tag="XNP">аднімаемыя</Form>
-        <Form Tag="XGP">аднімаемых</Form>
-        <Form Tag="XDP">аднімаемым</Form>
-        <Form Tag="XAP">аднімаемыя</Form>
-        <Form Tag="XIP">аднімаемымі</Form>
-        <Form Tag="XLP">аднімаемых</Form>
+    <Paradigm pdgId="1039500" Lemma="адніма´емае" Tag="NCIXNS5" Govern="" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">аднімаемыя</Form>
+        <Form Tag="XGP" Type="nonstandard">аднімаемых</Form>
+        <Form Tag="XDP" Type="nonstandard">аднімаемым</Form>
+        <Form Tag="XAP" Type="nonstandard">аднімаемыя</Form>
+        <Form Tag="XIP" Type="nonstandard">аднімаемымі</Form>
+        <Form Tag="XLP" Type="nonstandard">аднімаемых</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">адніма´емае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">адніма´емага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">адніма´емаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">адніма´емае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">адніма´емым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">адніма´емым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128175" Lemma="адступное" Tag="NCIXNS5">
-        <Form Tag="NNS">адступное</Form>
-        <Form Tag="NGS">адступнога</Form>
-        <Form Tag="NDS">адступному</Form>
-        <Form Tag="NAS">адступное</Form>
-        <Form Tag="NIS">адступным</Form>
-        <Form Tag="NLS">адступным</Form>
-        <Form Tag="XNP">адступныя</Form>
-        <Form Tag="XGP">адступных</Form>
-        <Form Tag="XDP">адступным</Form>
-        <Form Tag="XAP">адступныя</Form>
-        <Form Tag="XIP">адступнымі</Form>
-        <Form Tag="XLP">адступных</Form>
+    <Paradigm pdgId="1128175" Lemma="адступно´е" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">адступныя</Form>
+        <Form Tag="XGP" Type="nonstandard">адступных</Form>
+        <Form Tag="XDP" Type="nonstandard">адступным</Form>
+        <Form Tag="XAP" Type="nonstandard">адступныя</Form>
+        <Form Tag="XIP" Type="nonstandard">адступнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">адступных</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">адступно´е</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">адступно´га</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">адступно´му</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">адступно´е</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">адступны´м</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">адступны´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1128167" Lemma="адходная" Tag="NCIXNS5">
-        <Form Tag="MNS">адходная</Form>
-        <Form Tag="MGS">адходнай</Form>
-        <Form Tag="MDS">адходнай</Form>
-        <Form Tag="MAS">адходную</Form>
-        <Form Tag="MIS">адходнай</Form>
-        <Form Tag="MLS">адходнай</Form>
-        <Form Tag="XNP">адходныя</Form>
-        <Form Tag="XGP">адходных</Form>
-        <Form Tag="XDP">адходным</Form>
-        <Form Tag="XAP">адходныя</Form>
-        <Form Tag="XIP">адходнымі</Form>
-        <Form Tag="XLP">адходных</Form>
+    <Paradigm pdgId="1128167" Lemma="адхо´дная" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">адходныя</Form>
+        <Form Tag="XGP" Type="nonstandard">адходных</Form>
+        <Form Tag="XDP" Type="nonstandard">адходным</Form>
+        <Form Tag="XAP" Type="nonstandard">адходныя</Form>
+        <Form Tag="XIP" Type="nonstandard">адходнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">адходных</Form>
+        <Form Tag="MNS" Type="nonstandard">адходная</Form>
+        <Form Tag="MGS" Type="nonstandard">адходнай</Form>
+        <Form Tag="MDS" Type="nonstandard">адходнай</Form>
+        <Form Tag="MAS" Type="nonstandard">адходную</Form>
+        <Form Tag="MIS" Type="nonstandard">адходнай</Form>
+        <Form Tag="MLS" Type="nonstandard">адходнай</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">адхо´дная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">адхо´днай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">адхо´днай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">адхо´дную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">адхо´днай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">адхо´днаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">адхо´днай</Form>
     </Paradigm>
-    <Paradigm pdgId="1128166" Lemma="адчэпнае" Tag="NCIXNS5">
-        <Form Tag="NNS">адчэпнае</Form>
-        <Form Tag="NGS">адчэпнага</Form>
-        <Form Tag="NDS">адчэпнаму</Form>
-        <Form Tag="NAS">адчэпнае</Form>
-        <Form Tag="NIS">адчэпным</Form>
-        <Form Tag="NLS">адчэпным</Form>
-        <Form Tag="XNP">адчэпныя</Form>
-        <Form Tag="XGP">адчэпных</Form>
-        <Form Tag="XDP">адчэпным</Form>
-        <Form Tag="XAP">адчэпныя</Form>
-        <Form Tag="XIP">адчэпнымі</Form>
-        <Form Tag="XLP">адчэпных</Form>
+    <Paradigm pdgId="1128166" Lemma="адчэ´пнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">адчэпныя</Form>
+        <Form Tag="XGP" Type="nonstandard">адчэпных</Form>
+        <Form Tag="XDP" Type="nonstandard">адчэпным</Form>
+        <Form Tag="XAP" Type="nonstandard">адчэпныя</Form>
+        <Form Tag="XIP" Type="nonstandard">адчэпнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">адчэпных</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">адчэ´пнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">адчэ´пнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">адчэ´пнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">адчэ´пнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">адчэ´пным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">адчэ´пным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128168" Lemma="адыходная" Tag="NCIXNS5">
-        <Form Tag="MNS">адыходная</Form>
-        <Form Tag="MGS">адыходнай</Form>
-        <Form Tag="MDS">адыходнай</Form>
-        <Form Tag="MAS">адыходную</Form>
-        <Form Tag="MIS">адыходнай</Form>
-        <Form Tag="MLS">адыходнай</Form>
-        <Form Tag="XNP">адыходныя</Form>
-        <Form Tag="XGP">адыходных</Form>
-        <Form Tag="XDP">адыходным</Form>
-        <Form Tag="XAP">адыходныя</Form>
-        <Form Tag="XIP">адыходнымі</Form>
-        <Form Tag="XLP">адыходных</Form>
+    <Paradigm pdgId="1128168" Lemma="адыхо´дная" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">адыходныя</Form>
+        <Form Tag="XGP" Type="nonstandard">адыходных</Form>
+        <Form Tag="XDP" Type="nonstandard">адыходным</Form>
+        <Form Tag="XAP" Type="nonstandard">адыходныя</Form>
+        <Form Tag="XIP" Type="nonstandard">адыходнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">адыходных</Form>
+        <Form Tag="MNS" Type="nonstandard">адыходная</Form>
+        <Form Tag="MGS" Type="nonstandard">адыходнай</Form>
+        <Form Tag="MDS" Type="nonstandard">адыходнай</Form>
+        <Form Tag="MAS" Type="nonstandard">адыходную</Form>
+        <Form Tag="MIS" Type="nonstandard">адыходнай</Form>
+        <Form Tag="MLS" Type="nonstandard">адыходнай</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">адыхо´дная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">адыхо´днай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">адыхо´днай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">адыхо´дную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">адыхо´днай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">адыхо´днаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">адыхо´днай</Form>
     </Paradigm>
-    <Paradigm pdgId="1128169" Lemma="апаратная" Tag="NCIXNS5">
-        <Form Tag="FNS">апаратная</Form>
-        <Form Tag="FGS">апаратнай</Form>
-        <Form Tag="FDS">апаратнай</Form>
-        <Form Tag="FAS">апаратную</Form>
-        <Form Tag="FIS">апаратнай</Form>
-        <Form Tag="FLS">апаратнай</Form>
-        <Form Tag="XNP">апаратныя</Form>
-        <Form Tag="XGP">апаратных</Form>
-        <Form Tag="XDP">апаратным</Form>
-        <Form Tag="XAP">апаратныя</Form>
-        <Form Tag="XIP">апаратнымі</Form>
-        <Form Tag="XLP">апаратных</Form>
+    <Paradigm pdgId="1128169" Lemma="апара´тная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">апара´тная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">апара´тнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">апара´тнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">апара´тную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">апара´тнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">апара´тнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">апара´тнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">апара´тныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">апара´тных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">апара´тным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">апара´тныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">апара´тнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">апара´тных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128170" Lemma="аператарская" Tag="NCIXNS5">
-        <Form Tag="FNS">аператарская</Form>
-        <Form Tag="FGS">аператарскай</Form>
-        <Form Tag="FDS">аператарскай</Form>
-        <Form Tag="FAS">аператарскую</Form>
-        <Form Tag="FIS">аператарскай</Form>
-        <Form Tag="FLS">аператарскай</Form>
-        <Form Tag="XNP">аператарскія</Form>
-        <Form Tag="XGP">аператарскіх</Form>
-        <Form Tag="XDP">аператарскім</Form>
-        <Form Tag="XAP">аператарскія</Form>
-        <Form Tag="XIP">аператарскімі</Form>
-        <Form Tag="XLP">аператарскіх</Form>
+    <Paradigm pdgId="1128170" Lemma="апера´тарская" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">апера´тарская</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">апера´тарскай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">апера´тарскай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">апера´тарскую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">апера´тарскай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">апера´тарскаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">апера´тарскай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">апера´тарскія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">апера´тарскіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">апера´тарскім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">апера´тарскія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">апера´тарскімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">апера´тарскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128171" Lemma="аперацыйная" Tag="NCIXNS5">
-        <Form Tag="FNS">аперацыйная</Form>
-        <Form Tag="FGS">аперацыйнай</Form>
-        <Form Tag="FDS">аперацыйнай</Form>
-        <Form Tag="FAS">аперацыйную</Form>
-        <Form Tag="FIS">аперацыйнай</Form>
-        <Form Tag="FLS">аперацыйнай</Form>
-        <Form Tag="XNP">аперацыйныя</Form>
-        <Form Tag="XGP">аперацыйных</Form>
-        <Form Tag="XDP">аперацыйным</Form>
-        <Form Tag="XAP">аперацыйныя</Form>
-        <Form Tag="XIP">аперацыйнымі</Form>
-        <Form Tag="XLP">аперацыйных</Form>
+    <Paradigm pdgId="1128171" Lemma="аперацы´йная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">аперацы´йная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">аперацы´йнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">аперацы´йнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">аперацы´йную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">аперацы´йнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">аперацы´йнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">аперацы´йнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">аперацы´йныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">аперацы´йных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">аперацы´йным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">аперацы´йныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">аперацы´йнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">аперацы´йных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128174" Lemma="апошняе" Tag="NCIXNS5">
-        <Form Tag="NNS">апошняе</Form>
-        <Form Tag="NGS">апошняга</Form>
-        <Form Tag="NDS">апошняму</Form>
-        <Form Tag="NAS">апошняе</Form>
-        <Form Tag="NIS">апошнім</Form>
-        <Form Tag="NLS">апошнім</Form>
-        <Form Tag="XNP">апошнія</Form>
-        <Form Tag="XGP">апошніх</Form>
-        <Form Tag="XDP">апошнім</Form>
-        <Form Tag="XAP">апошнія</Form>
-        <Form Tag="XIP">апошнімі</Form>
-        <Form Tag="XLP">апошніх</Form>
+    <Paradigm pdgId="1128174" Lemma="апо´шняе" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">апошнія</Form>
+        <Form Tag="XGP" Type="nonstandard">апошніх</Form>
+        <Form Tag="XDP" Type="nonstandard">апошнім</Form>
+        <Form Tag="XAP" Type="nonstandard">апошнія</Form>
+        <Form Tag="XIP" Type="nonstandard">апошнімі</Form>
+        <Form Tag="XLP" Type="nonstandard">апошніх</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">апо´шняе</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">апо´шняга</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">апо´шняму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">апо´шняе</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">апо´шнім</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">апо´шнім</Form>
     </Paradigm>
-    <Paradigm pdgId="1016067" Lemma="апраметная" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">апраметная</Form>
-        <Form Tag="FGS">апраметнай</Form>
-        <Form Tag="FDS">апраметнай</Form>
-        <Form Tag="FAS">апраметную</Form>
-        <Form Tag="FIS">апраметнай</Form>
-        <Form Tag="FLS">апраметнай</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1016067" Lemma="апраме´тная" Tag="NCIXNS5" Govern="" todo="праверыць адушаўлёнасьць">
+        <Form Tag="FNS" Slouniki="nazounik2008">апраме´тная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">апраме´тнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">апраме´тнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">апраме´тную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">апраме´тнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">апраме´тнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">апраме´тнай</Form>
     </Paradigm>
-    <Paradigm pdgId="1128172" Lemma="ардынатарская" Tag="NCIXNS5">
-        <Form Tag="FNS">ардынатарская</Form>
-        <Form Tag="FGS">ардынатарскай</Form>
-        <Form Tag="FDS">ардынатарскай</Form>
-        <Form Tag="FAS">ардынатарскую</Form>
-        <Form Tag="FIS">ардынатарскай</Form>
-        <Form Tag="FLS">ардынатарскай</Form>
-        <Form Tag="XNP">ардынатарскія</Form>
-        <Form Tag="XGP">ардынатарскіх</Form>
-        <Form Tag="XDP">ардынатарскім</Form>
-        <Form Tag="XAP">ардынатарскія</Form>
-        <Form Tag="XIP">ардынатарскімі</Form>
-        <Form Tag="XLP">ардынатарскіх</Form>
+    <Paradigm pdgId="1128172" Lemma="ардына´тарская" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">ардына´тарская</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">ардына´тарскай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">ардына´тарскай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">ардына´тарскую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ардына´тарскай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ардына´тарскаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">ардына´тарскай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">ардына´тарскія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">ардына´тарскіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">ардына´тарскім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">ардына´тарскія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">ардына´тарскімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">ардына´тарскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128071" Lemma="блінная" Tag="NCIXNS5">
-        <Form Tag="FNS">блінная</Form>
-        <Form Tag="FGS">бліннай</Form>
-        <Form Tag="FDS">бліннай</Form>
-        <Form Tag="FAS">блінную</Form>
-        <Form Tag="FIS">бліннай</Form>
-        <Form Tag="FLS">бліннай</Form>
-        <Form Tag="XNP">блінныя</Form>
-        <Form Tag="XGP">блінных</Form>
-        <Form Tag="XDP">блінным</Form>
-        <Form Tag="XAP">блінныя</Form>
-        <Form Tag="XIP">бліннымі</Form>
-        <Form Tag="XLP">блінных</Form>
+    <Paradigm pdgId="1128071" Lemma="блі´нная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">блі´нная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">блі´ннай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">блі´ннай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">блі´нную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">блі´ннай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">блі´ннаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">блі´ннай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">блі´нныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">блі´нных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">блі´нным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">блі´нныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">блі´ннымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">блі´нных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128072" Lemma="бойлерная" Tag="NCIXNS5">
-        <Form Tag="FNS">бойлерная</Form>
-        <Form Tag="FGS">бойлернай</Form>
-        <Form Tag="FDS">бойлернай</Form>
-        <Form Tag="FAS">бойлерную</Form>
-        <Form Tag="FIS">бойлернай</Form>
-        <Form Tag="FLS">бойлернай</Form>
-        <Form Tag="XNP">бойлерныя</Form>
-        <Form Tag="XGP">бойлерных</Form>
-        <Form Tag="XDP">бойлерным</Form>
-        <Form Tag="XAP">бойлерныя</Form>
-        <Form Tag="XIP">бойлернымі</Form>
-        <Form Tag="XLP">бойлерных</Form>
+    <Paradigm pdgId="1128072" Lemma="бо´йлерная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">бо´йлерная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">бо´йлернай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">бо´йлернай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">бо´йлерную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бо´йлернай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бо´йлернаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">бо´йлернай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">бо´йлерныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">бо´йлерных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">бо´йлерным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">бо´йлерныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">бо´йлернымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">бо´йлерных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128073" Lemma="брашуровачная" Tag="NCIXNS5">
-        <Form Tag="FNS">брашуровачная</Form>
-        <Form Tag="FGS">брашуровачнай</Form>
-        <Form Tag="FDS">брашуровачнай</Form>
-        <Form Tag="FAS">брашуровачную</Form>
-        <Form Tag="FIS">брашуровачнай</Form>
-        <Form Tag="FLS">брашуровачнай</Form>
-        <Form Tag="XNP">брашуровачныя</Form>
-        <Form Tag="XGP">брашуровачных</Form>
-        <Form Tag="XDP">брашуровачным</Form>
-        <Form Tag="XAP">брашуровачныя</Form>
-        <Form Tag="XIP">брашуровачнымі</Form>
-        <Form Tag="XLP">брашуровачных</Form>
+    <Paradigm pdgId="1128073" Lemma="брашуро´вачная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">брашуро´вачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">брашуро´вачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">брашуро´вачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">брашуро´вачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">брашуро´вачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">брашуро´вачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">брашуро´вачнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">брашуро´вачныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">брашуро´вачных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">брашуро´вачным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">брашуро´вачныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">брашуро´вачнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">брашуро´вачных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128074" Lemma="булачная" Tag="NCIXNS5">
-        <Form Tag="FNS">булачная</Form>
-        <Form Tag="FGS">булачнай</Form>
-        <Form Tag="FDS">булачнай</Form>
-        <Form Tag="FAS">булачную</Form>
-        <Form Tag="FIS">булачнай</Form>
-        <Form Tag="FLS">булачнай</Form>
-        <Form Tag="XNP">булачныя</Form>
-        <Form Tag="XGP">булачных</Form>
-        <Form Tag="XDP">булачным</Form>
-        <Form Tag="XAP">булачныя</Form>
-        <Form Tag="XIP">булачнымі</Form>
-        <Form Tag="XLP">булачных</Form>
+    <Paradigm pdgId="1128074" Lemma="бу´лачная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">бу´лачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">бу´лачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">бу´лачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">бу´лачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бу´лачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бу´лачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">бу´лачнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">бу´лачныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">бу´лачных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">бу´лачным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">бу´лачныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">бу´лачнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">бу´лачных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128075" Lemma="бульбяная" Tag="NCIXNS5">
-        <Form Tag="FNS">бульбяная</Form>
-        <Form Tag="FGS">бульбянай</Form>
-        <Form Tag="FDS">бульбянай</Form>
-        <Form Tag="FAS">бульбяную</Form>
-        <Form Tag="FIS">бульбянай</Form>
-        <Form Tag="FLS">бульбянай</Form>
-        <Form Tag="XNP">бульбяныя</Form>
-        <Form Tag="XGP">бульбяных</Form>
-        <Form Tag="XDP">бульбяным</Form>
-        <Form Tag="XAP">бульбяныя</Form>
-        <Form Tag="XIP">бульбянымі</Form>
-        <Form Tag="XLP">бульбяных</Form>
+    <Paradigm pdgId="1128075" Lemma="бульбяна´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">бульбяна´я</Form>
+        <Form Tag="FGS" Type="nonstandard">бульбянай</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">бульбяно´й</Form>
+        <Form Tag="FDS" Type="nonstandard">бульбянай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">бульбяно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">бульбяну´ю</Form>
+        <Form Tag="FIS" Type="nonstandard">бульбянай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бульбяно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бульбяно´ю</Form>
+        <Form Tag="FLS" Type="nonstandard">бульбянай</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">бульбяно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">бульбяны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">бульбяны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">бульбяны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">бульбяны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">бульбяны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">бульбяны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128076" Lemma="буравая" Tag="NCIXNS5">
-        <Form Tag="FNS">буравая</Form>
-        <Form Tag="FGS">буравой</Form>
-        <Form Tag="FDS">буравой</Form>
-        <Form Tag="FAS">буравую</Form>
-        <Form Tag="FIS">буравой</Form>
-        <Form Tag="FLS">буравой</Form>
-        <Form Tag="XNP">буравыя</Form>
-        <Form Tag="XGP">буравых</Form>
-        <Form Tag="XDP">буравым</Form>
-        <Form Tag="XAP">буравыя</Form>
-        <Form Tag="XIP">буравымі</Form>
-        <Form Tag="XLP">буравых</Form>
+    <Paradigm pdgId="1128076" Lemma="бурава´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">бурава´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">бураво´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">бураво´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">бураву´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бураво´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">бураво´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">бураво´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">буравы´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">буравы´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">буравы´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">буравы´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">буравы´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">буравы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1136700" Lemma="былое" Tag="NCIXNS5">
-        <Form Tag="NNS">былое</Form>
-        <Form Tag="NGS">былога</Form>
-        <Form Tag="NDS">былому</Form>
-        <Form Tag="NAS">былое</Form>
-        <Form Tag="NIS">былым</Form>
-        <Form Tag="NLS">былым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1136700" Lemma="было´е" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">было´е</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">было´га</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">было´му</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">было´е</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">былы´м</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">былы´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1136732" Lemma="валачобнае" Tag="NCIXNS5">
-        <Form Tag="NNS">валачобнае</Form>
-        <Form Tag="NGS">валачобнага</Form>
-        <Form Tag="NDS">валачобнаму</Form>
-        <Form Tag="NAS">валачобнае</Form>
-        <Form Tag="NIS">валачобным</Form>
-        <Form Tag="NLS">валачобным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1136732" Lemma="валачо´бнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">валачо´бнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">валачо´бнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">валачо´бнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">валачо´бнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">валачо´бным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">валачо´бным</Form>
     </Paradigm>
-    <Paradigm pdgId="1016983" Lemma="ванная" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">ванная</Form>
-        <Form Tag="FGS">ваннай</Form>
-        <Form Tag="FDS">ваннай</Form>
-        <Form Tag="FAS">ванную</Form>
-        <Form Tag="FIS">ваннай</Form>
-        <Form Tag="FLS">ваннай</Form>
-        <Form Tag="XNP">ванныя</Form>
-        <Form Tag="XGP">ваннаў</Form>
-        <Form Tag="XDP">ваннам</Form>
-        <Form Tag="XAP">ванныя</Form>
-        <Form Tag="XIP">ваннымі</Form>
-        <Form Tag="XLP">ванных</Form>
+    <Paradigm pdgId="1016983" Lemma="ва´нная" Tag="NCIXNS5" Govern="">
+        <Form Tag="XGP" Type="nonstandard">ваннаў</Form>
+        <Form Tag="XDP" Type="nonstandard">ваннам</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">ва´нная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">ва´ннай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">ва´ннай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">ва´нную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ва´ннай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ва´ннаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">ва´ннай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">ва´нныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">ва´нных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">ва´нным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">ва´нныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">ва´ннымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">ва´нных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128077" Lemma="вольная" Tag="NCIXNS5">
-        <Form Tag="FNS">вольная</Form>
-        <Form Tag="FGS">вольнай</Form>
-        <Form Tag="FDS">вольнай</Form>
-        <Form Tag="FAS">вольную</Form>
-        <Form Tag="FIS">вольнай</Form>
-        <Form Tag="FLS">вольнай</Form>
-        <Form Tag="XNP">вольныя</Form>
-        <Form Tag="XGP">вольных</Form>
-        <Form Tag="XDP">вольным</Form>
-        <Form Tag="XAP">вольныя</Form>
-        <Form Tag="XIP">вольнымі</Form>
-        <Form Tag="XLP">вольных</Form>
+    <Paradigm pdgId="1128077" Lemma="во´льная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">во´льная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">во´льнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">во´льнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">во´льную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">во´льнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">во´льнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">во´льнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">во´льныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">во´льных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">во´льным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">во´льныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">во´льнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">во´льных</Form>
     </Paradigm>
     <Paradigm pdgId="1128078" Lemma="вонкавае" Tag="NCIXNS5">
         <Form Tag="NNS">вонкавае</Form>
@@ -371,12 +386,6 @@
         <Form Tag="NAS">гаворанае</Form>
         <Form Tag="NIS">гавораным</Form>
         <Form Tag="NLS">гавораным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
     <Paradigm pdgId="1128083" Lemma="галоўнае" Tag="NCIXNS5">
         <Form Tag="NNS">галоўнае</Form>
@@ -385,166 +394,149 @@
         <Form Tag="NAS">галоўнае</Form>
         <Form Tag="NIS">галоўным</Form>
         <Form Tag="NLS">галоўным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1128084" Lemma="гарачае" Tag="NCIXNS5">
-        <Form Tag="NNS">гарачае</Form>
-        <Form Tag="NGS">гарачага</Form>
-        <Form Tag="NDS">гарачаму</Form>
-        <Form Tag="NAS">гарачае</Form>
-        <Form Tag="NIS">гарачым</Form>
-        <Form Tag="NLS">гарачым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128084" Lemma="гара´чае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">гара´чае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">гара´чага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">гара´чаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">гара´чае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">гара´чым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">гара´чым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128085" Lemma="гаручае" Tag="NCIXNS5">
-        <Form Tag="NNS">гаручае</Form>
-        <Form Tag="NGS">гаручага</Form>
-        <Form Tag="NDS">гаручаму</Form>
-        <Form Tag="NAS">гаручае</Form>
-        <Form Tag="NIS">гаручым</Form>
-        <Form Tag="NLS">гаручым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128085" Lemma="гару´чае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">гару´чае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">гару´чага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">гару´чаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">гару´чае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">гару´чым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">гару´чым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128086" Lemma="гарэлае" Tag="NCIXNS5">
-        <Form Tag="NNS">гарэлае</Form>
-        <Form Tag="NGS">гарэлага</Form>
-        <Form Tag="NDS">гарэламу</Form>
-        <Form Tag="NAS">гарэлае</Form>
-        <Form Tag="NIS">гарэлым</Form>
-        <Form Tag="NLS">гарэлым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128086" Lemma="гарэ´лае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">гарэ´лае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">гарэ´лага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">гарэ´ламу</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">гарэ´лае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">гарэ´лым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">гарэ´лым</Form>
     </Paradigm>
-    <Paradigm pdgId="1017586" Lemma="гасціная" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">гасціная</Form>
-        <Form Tag="FGS">гасцінай</Form>
-        <Form Tag="FDS">гасцінай</Form>
-        <Form Tag="FAS">гасціную</Form>
-        <Form Tag="FIS">гасцінай</Form>
-        <Form Tag="FLS">гасцінай</Form>
-        <Form Tag="XNP">гасціныя</Form>
-        <Form Tag="XGP">гасціных</Form>
-        <Form Tag="XDP">гасціным</Form>
-        <Form Tag="XAP">гасціныя</Form>
-        <Form Tag="XIP">гасцінымі</Form>
-        <Form Tag="XLP">гасціных</Form>
+    <Paradigm pdgId="1017586" Lemma="гасці´ная" Tag="NCIXNS5" Govern="">
+        <Form Tag="FNS" Slouniki="nazounik2008">гасці´ная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">гасці´най</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">гасці´най</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">гасці´ную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">гасці´най</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">гасці´наю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">гасці´най</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">гасці´ныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">гасці´ных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">гасці´ным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">гасці´ныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">гасці´нымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">гасці´ных</Form>
     </Paradigm>
     <Paradigm pdgId="1017756" Lemma="грымёрная" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">грымёрная</Form>
-        <Form Tag="FGS">грымёрнай</Form>
-        <Form Tag="FDS">грымёрнай</Form>
-        <Form Tag="FAS">грымёрную</Form>
-        <Form Tag="FIS">грымёрнай</Form>
-        <Form Tag="FLS">грымёрнай</Form>
-        <Form Tag="XNP">грымёрныя</Form>
-        <Form Tag="XGP">грымёрных</Form>
-        <Form Tag="XDP">грымёрным</Form>
-        <Form Tag="XAP">грымёрныя</Form>
-        <Form Tag="XIP">грымёрнымі</Form>
-        <Form Tag="XLP">грымёрных</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">грымёрная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">грымёрнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">грымёрнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">грымёрную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">грымёрнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">грымёрнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">грымёрнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">грымёрныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">грымёрных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">грымёрным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">грымёрныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">грымёрнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">грымёрных</Form>
     </Paradigm>
-    <Paradigm pdgId="1017835" Lemma="дакладная" Tag="NCIXNS5" Govern="">
-        <Form Tag="MNS">дакладная</Form>
-        <Form Tag="MGS">дакладной</Form>
-        <Form Tag="MDS">дакладной</Form>
-        <Form Tag="MAS">дакладную</Form>
-        <Form Tag="MIS">дакладной</Form>
-        <Form Tag="MLS">дакладной</Form>
-        <Form Tag="XNP">дакладныя</Form>
-        <Form Tag="XGP">дакладных</Form>
-        <Form Tag="XDP">дакладным</Form>
-        <Form Tag="XAP">дакладных</Form>
-        <Form Tag="XIP">дакладнымі</Form>
-        <Form Tag="XLP">дакладных</Form>
+    <Paradigm pdgId="1017835" Lemma="дакладна´я" Tag="NCIXNS5" Govern="">
+        <Form Tag="XAP" Type="nonstandard">дакладных</Form>
+        <Form Tag="MNS" Type="nonstandard">дакладная</Form>
+        <Form Tag="MGS" Type="nonstandard">дакладной</Form>
+        <Form Tag="MDS" Type="nonstandard">дакладной</Form>
+        <Form Tag="MAS" Type="nonstandard">дакладную</Form>
+        <Form Tag="MIS" Type="nonstandard">дакладной</Form>
+        <Form Tag="MLS" Type="nonstandard">дакладной</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">дакладна´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">дакладно´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">дакладно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">дакладну´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дакладно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дакладно´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">дакладно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">дакладны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">дакладны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">дакладны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">дакладны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">дакладны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">дакладны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128088" Lemma="датычная" Tag="NCIXNS5">
-        <Form Tag="FNS">датычная</Form>
-        <Form Tag="FGS">датычнай</Form>
-        <Form Tag="FDS">датычнай</Form>
-        <Form Tag="FAS">датычную</Form>
-        <Form Tag="FIS">датычнай</Form>
-        <Form Tag="FLS">датычнай</Form>
-        <Form Tag="XNP">датычныя</Form>
-        <Form Tag="XGP">датычных</Form>
-        <Form Tag="XDP">датычным</Form>
-        <Form Tag="XAP">датычныя</Form>
-        <Form Tag="XIP">датычнымі</Form>
-        <Form Tag="XLP">датычных</Form>
+    <Paradigm pdgId="1128088" Lemma="даты´чная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">даты´чная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">даты´чнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">даты´чнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">даты´чную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">даты´чнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">даты´чнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">даты´чнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">даты´чныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">даты´чных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">даты´чным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">даты´чныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">даты´чнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">даты´чных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128087" Lemma="даўнейшае" Tag="NCIXNS5">
-        <Form Tag="NNS">даўнейшае</Form>
-        <Form Tag="NGS">даўнейшага</Form>
-        <Form Tag="NDS">даўнейшаму</Form>
-        <Form Tag="NAS">даўнейшае</Form>
-        <Form Tag="NIS">даўнейшым</Form>
-        <Form Tag="NLS">даўнейшым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128087" Lemma="даўне´йшае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">даўне´йшае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">даўне´йшага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">даўне´йшаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">даўне´йшае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">даўне´йшым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">даўне´йшым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128089" Lemma="дворніцкая" Tag="NCIXNS5">
-        <Form Tag="FNS">дворніцкая</Form>
-        <Form Tag="FGS">дворніцкай</Form>
-        <Form Tag="FDS">дворніцкай</Form>
-        <Form Tag="FAS">дворніцкую</Form>
-        <Form Tag="FIS">дворніцкай</Form>
-        <Form Tag="FLS">дворніцкай</Form>
-        <Form Tag="XNP">дворніцкія</Form>
-        <Form Tag="XGP">дворніцкіх</Form>
-        <Form Tag="XDP">дворніцкім</Form>
-        <Form Tag="XAP">дворніцкія</Form>
-        <Form Tag="XIP">дворніцкімі</Form>
-        <Form Tag="XLP">дворніцкіх</Form>
+    <Paradigm pdgId="1128089" Lemma="дво´рніцкая" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">дво´рніцкая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">дво´рніцкай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">дво´рніцкай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">дво´рніцкую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дво´рніцкай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дво´рніцкаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">дво´рніцкай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">дво´рніцкія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">дво´рніцкіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">дво´рніцкім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">дво´рніцкія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">дво´рніцкімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">дво´рніцкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128090" Lemma="дзіцячая" Tag="NCIXNS5">
-        <Form Tag="FNS">дзіцячая</Form>
-        <Form Tag="FGS">дзіцячай</Form>
-        <Form Tag="FDS">дзіцячай</Form>
-        <Form Tag="FAS">дзіцячую</Form>
-        <Form Tag="FIS">дзіцячай</Form>
-        <Form Tag="FLS">дзіцячай</Form>
-        <Form Tag="XNP">дзіцячыя</Form>
-        <Form Tag="XGP">дзіцячых</Form>
-        <Form Tag="XDP">дзіцячым</Form>
-        <Form Tag="XAP">дзіцячыя</Form>
-        <Form Tag="XIP">дзіцячымі</Form>
-        <Form Tag="XLP">дзіцячых</Form>
+    <Paradigm pdgId="1128090" Lemma="дзіця´чая" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">дзіця´чая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">дзіця´чай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">дзіця´чай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">дзіця´чую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дзіця´чай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дзіця´чаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">дзіця´чай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">дзіця´чыя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">дзіця´чых</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">дзіця´чым</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">дзіця´чыя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">дзіця´чымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">дзіця´чых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128092" Lemma="дзялімае" Tag="NCIXNS5">
-        <Form Tag="NNS">дзялімае</Form>
-        <Form Tag="NGS">дзялімага</Form>
-        <Form Tag="NDS">дзялімаму</Form>
-        <Form Tag="NAS">дзялімае</Form>
-        <Form Tag="NIS">дзялімым</Form>
-        <Form Tag="NLS">дзялімым</Form>
-        <Form Tag="XNP">дзялімыя</Form>
-        <Form Tag="XGP">дзялімых</Form>
-        <Form Tag="XDP">дзялімым</Form>
-        <Form Tag="XAP">дзялімыя</Form>
-        <Form Tag="XIP">дзялімымі</Form>
-        <Form Tag="XLP">дзялімых</Form>
+    <Paradigm pdgId="1128092" Lemma="дзялі´мае" Tag="NCIXNS5">
+        <Form Tag="NNS" Slouniki="nazounik2008">дзялі´мае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">дзялі´мага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">дзялі´маму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">дзялі´мае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">дзялі´мым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">дзялі´мым</Form>
+        <Form Tag="NNP" Slouniki="nazounik2008">дзялі´мыя</Form>
+        <Form Tag="NGP" Slouniki="nazounik2008">дзялі´мых</Form>
+        <Form Tag="NDP" Slouniki="nazounik2008">дзялі´мым</Form>
+        <Form Tag="NAP" Slouniki="nazounik2008">дзялі´мыя</Form>
+        <Form Tag="NIP" Slouniki="nazounik2008">дзялі´мымі</Form>
+        <Form Tag="NLP" Slouniki="nazounik2008">дзялі´мых</Form>
     </Paradigm>
     <Paradigm pdgId="1128093" Lemma="добрае" Tag="NCIXNS5">
         <Form Tag="NNS">добрае</Form>
@@ -553,194 +545,183 @@
         <Form Tag="NAS">добрае</Form>
         <Form Tag="NIS">добрым</Form>
         <Form Tag="NLS">добрым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1128180" Lemma="другое" Tag="NCIXNS5">
-        <Form Tag="NNS">другое</Form>
-        <Form Tag="NGS">другога</Form>
-        <Form Tag="NDS">другому</Form>
-        <Form Tag="NAS">другое</Form>
-        <Form Tag="NIS">другім</Form>
-        <Form Tag="NLS">другім</Form>
-        <Form Tag="XNP">другія</Form>
-        <Form Tag="XGP">другіх</Form>
-        <Form Tag="XDP">другім</Form>
-        <Form Tag="XAP">другія</Form>
-        <Form Tag="XIP">другімі</Form>
-        <Form Tag="XLP">другіх</Form>
+    <Paradigm pdgId="1128180" Lemma="друго´е" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">другія</Form>
+        <Form Tag="XGP" Type="nonstandard">другіх</Form>
+        <Form Tag="XDP" Type="nonstandard">другім</Form>
+        <Form Tag="XAP" Type="nonstandard">другія</Form>
+        <Form Tag="XIP" Type="nonstandard">другімі</Form>
+        <Form Tag="XLP" Type="nonstandard">другіх</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">друго´е</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">друго´га</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">друго´му</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">друго´е</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">другі´м</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">другі´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1128094" Lemma="дрэннае" Tag="NCIXNS5">
-        <Form Tag="NNS">дрэннае</Form>
-        <Form Tag="NGS">дрэннага</Form>
-        <Form Tag="NDS">дрэннаму</Form>
-        <Form Tag="NAS">дрэннае</Form>
-        <Form Tag="NIS">дрэнным</Form>
-        <Form Tag="NLS">дрэнным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128094" Lemma="дрэ´ннае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">дрэ´ннае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">дрэ´ннага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">дрэ´ннаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">дрэ´ннае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">дрэ´нным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">дрэ´нным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128095" Lemma="душавая" Tag="NCIXNS5">
-        <Form Tag="FNS">душавая</Form>
-        <Form Tag="FGS">душавой</Form>
-        <Form Tag="FDS">душавой</Form>
-        <Form Tag="FAS">душавую</Form>
-        <Form Tag="FIS">душавой</Form>
-        <Form Tag="FLS">душавой</Form>
-        <Form Tag="XNP">душавыя</Form>
-        <Form Tag="XGP">душавых</Form>
-        <Form Tag="XDP">душавым</Form>
-        <Form Tag="XAP">душавыях</Form>
-        <Form Tag="XIP">душавымі</Form>
-        <Form Tag="XLP">душавых</Form>
+    <Paradigm pdgId="1128095" Lemma="душава´я" Tag="NCIXNS5">
+        <Form Tag="XAP" Type="nonstandard">душавыях</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">душава´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">душаво´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">душаво´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">душаву´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">душаво´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">душаво´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">душаво´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">душавы´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">душавы´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">душавы´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">душавы´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">душавы´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">душавы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128096" Lemma="дызельная" Tag="NCIXNS5">
-        <Form Tag="FNS">дызельная</Form>
-        <Form Tag="FGS">дызельнай</Form>
-        <Form Tag="FDS">дызельнай</Form>
-        <Form Tag="FAS">дызельную</Form>
-        <Form Tag="FIS">дызельнай</Form>
-        <Form Tag="FLS">дызельнай</Form>
-        <Form Tag="XNP">дызельныя</Form>
-        <Form Tag="XGP">дызельных</Form>
-        <Form Tag="XDP">дызельным</Form>
-        <Form Tag="XAP">дызельныя</Form>
-        <Form Tag="XIP">дызельнымі</Form>
-        <Form Tag="XLP">дызельных</Form>
+    <Paradigm pdgId="1128096" Lemma="ды´зельная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">ды´зельная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">ды´зельнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">ды´зельнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">ды´зельную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ды´зельнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ды´зельнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">ды´зельнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">ды´зельныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">ды´зельных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">ды´зельным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">ды´зельныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">ды´зельнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">ды´зельных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128097" Lemma="дыспетчарская" Tag="NCIXNS5">
-        <Form Tag="FNS">дыспетчарская</Form>
-        <Form Tag="FGS">дыспетчарскай</Form>
-        <Form Tag="FDS">дыспетчарскай</Form>
-        <Form Tag="FAS">дыспетчарскую</Form>
-        <Form Tag="FIS">дыспетчарскай</Form>
-        <Form Tag="FLS">дыспетчарскай</Form>
-        <Form Tag="XNP">дыспетчарскія</Form>
-        <Form Tag="XGP">дыспетчарскіх</Form>
-        <Form Tag="XDP">дыспетчарскім</Form>
-        <Form Tag="XAP">дыспетчарскія</Form>
-        <Form Tag="XIP">дыспетчарскімі</Form>
-        <Form Tag="XLP">дыспетчарскіх</Form>
+    <Paradigm pdgId="1128097" Lemma="дыспе´тчарская" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">дыспе´тчарская</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">дыспе´тчарскай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">дыспе´тчарскай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">дыспе´тчарскую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дыспе´тчарскай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дыспе´тчарскаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">дыспе´тчарскай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">дыспе´тчарскія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">дыспе´тчарскіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">дыспе´тчарскім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">дыспе´тчарскія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">дыспе´тчарскімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">дыспе´тчарскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128098" Lemma="закладная" Tag="NCIXNS5">
-        <Form Tag="MNS">закладная</Form>
-        <Form Tag="MGS">закладной</Form>
-        <Form Tag="MDS">закладной</Form>
-        <Form Tag="MAS">закладную</Form>
-        <Form Tag="MIS">закладной</Form>
-        <Form Tag="MLS">закладной</Form>
-        <Form Tag="XNP">закладныя</Form>
-        <Form Tag="XGP">закладных</Form>
-        <Form Tag="XDP">закладным</Form>
-        <Form Tag="XAP">закладныя</Form>
-        <Form Tag="XIP">закладнымі</Form>
-        <Form Tag="XLP">закладных</Form>
+    <Paradigm pdgId="1128098" Lemma="закладна´я" Tag="NCIXNS5">
+        <Form Tag="MNS" Type="nonstandard">закладная</Form>
+        <Form Tag="MGS" Type="nonstandard">закладной</Form>
+        <Form Tag="MDS" Type="nonstandard">закладной</Form>
+        <Form Tag="MAS" Type="nonstandard">закладную</Form>
+        <Form Tag="MIS" Type="nonstandard">закладной</Form>
+        <Form Tag="MLS" Type="nonstandard">закладной</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">закладна´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">закладно´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">закладно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">закладну´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">закладно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">закладно´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">закладно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">закладны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">закладны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">закладны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">закладны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">закладны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">закладны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1018443" Lemma="закусачная" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">закусачная</Form>
-        <Form Tag="FGS">закусачнай</Form>
-        <Form Tag="FDS">закусачнай</Form>
-        <Form Tag="FAS">закусачную</Form>
-        <Form Tag="FIS">закусачнай</Form>
-        <Form Tag="FLS">закусачнай</Form>
-        <Form Tag="XNP">закусачныя</Form>
-        <Form Tag="XGP">закусачных</Form>
-        <Form Tag="XDP">закусачным</Form>
-        <Form Tag="XAP">закусачныя</Form>
-        <Form Tag="XIP">закусачнымі</Form>
-        <Form Tag="XLP">закусачных</Form>
+    <Paradigm pdgId="1018443" Lemma="заку´сачная" Tag="NCIXNS5" Govern="">
+        <Form Tag="FNS" Slouniki="nazounik2008">заку´сачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">заку´сачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">заку´сачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">заку´сачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">заку´сачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">заку´сачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">заку´сачнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">заку´сачныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">заку´сачных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">заку´сачным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">заку´сачныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">заку´сачнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">заку´сачных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128179" Lemma="заліўное" Tag="NCIXNS5">
-        <Form Tag="NNS">заліўное</Form>
-        <Form Tag="NGS">заліўнога</Form>
-        <Form Tag="NDS">заліўному</Form>
-        <Form Tag="NAS">заліўное</Form>
-        <Form Tag="NIS">заліўным</Form>
-        <Form Tag="NLS">заліўным</Form>
-        <Form Tag="XNP">заліўныя</Form>
-        <Form Tag="XGP">заліўных</Form>
-        <Form Tag="XDP">заліўным</Form>
-        <Form Tag="XAP">заліўныя</Form>
-        <Form Tag="XIP">заліўнымі</Form>
-        <Form Tag="XLP">заліўных</Form>
+    <Paradigm pdgId="1128179" Lemma="заліўно´е" Tag="NCIXNS5">
+        <Form Tag="NNS" Slouniki="nazounik2008">заліўно´е</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">заліўно´га</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">заліўно´му</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">заліўно´е</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">заліўны´м</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">заліўны´м</Form>
+        <Form Tag="NNP" Slouniki="nazounik2008">заліўны´я</Form>
+        <Form Tag="NGP" Slouniki="nazounik2008">заліўны´х</Form>
+        <Form Tag="NDP" Slouniki="nazounik2008">заліўны´м</Form>
+        <Form Tag="NAP" Slouniki="nazounik2008">заліўны´я</Form>
+        <Form Tag="NIP" Slouniki="nazounik2008">заліўны´мі</Form>
+        <Form Tag="NLP" Slouniki="nazounik2008">заліўны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128099" Lemma="зборнае" Tag="NCIXNS5">
-        <Form Tag="NNS">зборнае</Form>
-        <Form Tag="NGS">зборнага</Form>
-        <Form Tag="NDS">зборнаму</Form>
-        <Form Tag="NAS">зборнае</Form>
-        <Form Tag="NIS">зборным</Form>
-        <Form Tag="NLS">зборным</Form>
-        <Form Tag="XNP">зборныя</Form>
-        <Form Tag="XGP">зборных</Form>
-        <Form Tag="XDP">зборным</Form>
-        <Form Tag="XAP">зборныя</Form>
-        <Form Tag="XIP">зборнымі</Form>
-        <Form Tag="XLP">зборных</Form>
+    <Paradigm pdgId="1128099" Lemma="збо´рнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">зборныя</Form>
+        <Form Tag="XGP" Type="nonstandard">зборных</Form>
+        <Form Tag="XDP" Type="nonstandard">зборным</Form>
+        <Form Tag="XAP" Type="nonstandard">зборныя</Form>
+        <Form Tag="XIP" Type="nonstandard">зборнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">зборных</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">збо´рнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">збо´рнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">збо´рнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">збо´рнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">збо´рным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">збо´рным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128100" Lemma="злоты" Tag="NCIXNS5">
-        <Form Tag="MNS">злоты</Form>
-        <Form Tag="MGS">злотага</Form>
-        <Form Tag="MDS">злотаму</Form>
-        <Form Tag="MAS">злоты</Form>
-        <Form Tag="MIS">злотым</Form>
-        <Form Tag="MLS">злотым</Form>
-        <Form Tag="XNP">злотыя</Form>
-        <Form Tag="XGP">злотых</Form>
-        <Form Tag="XDP">злотым</Form>
-        <Form Tag="XAP">злотыя</Form>
-        <Form Tag="XIP">злотымі</Form>
-        <Form Tag="XLP">злотых</Form>
+    <Paradigm pdgId="1128100" Lemma="зло´ты" Tag="NCIXNS5">
+        <Form Tag="MNS" Slouniki="nazounik2008">зло´ты</Form>
+        <Form Tag="MGS" Slouniki="nazounik2008">зло´тага</Form>
+        <Form Tag="MDS" Slouniki="nazounik2008">зло´таму</Form>
+        <Form Tag="MAS" Slouniki="nazounik2008">зло´ты</Form>
+        <Form Tag="MIS" Slouniki="nazounik2008">зло´тым</Form>
+        <Form Tag="MLS" Slouniki="nazounik2008">зло´тым</Form>
+        <Form Tag="MNP" Slouniki="nazounik2008">зло´тыя</Form>
+        <Form Tag="MGP" Slouniki="nazounik2008">зло´тых</Form>
+        <Form Tag="MDP" Slouniki="nazounik2008">зло´тым</Form>
+        <Form Tag="MAP" Slouniki="nazounik2008">зло´тыя</Form>
+        <Form Tag="MIP" Slouniki="nazounik2008">зло´тымі</Form>
+        <Form Tag="MLP" Slouniki="nazounik2008">зло´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1137258" Lemma="змякчальнае" Tag="NCIXNS5">
-        <Form Tag="NNS">змякчальнае</Form>
-        <Form Tag="NGS">змякчальнага</Form>
-        <Form Tag="NDS">змякчальнаму</Form>
-        <Form Tag="NAS">змякчальнае</Form>
-        <Form Tag="NIS">змякчальным</Form>
-        <Form Tag="NLS">змякчальным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1137258" Lemma="змякча´льнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">змякча´льнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">змякча´льнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">змякча´льнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">змякча´льнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">змякча´льным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">змякча´льным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128070" Lemma="ірвотнае" Tag="NCIXNS5">
-        <Form Tag="NNS">ірвотнае</Form>
-        <Form Tag="NGS">ірвотнага</Form>
-        <Form Tag="NDS">ірвотнаму</Form>
-        <Form Tag="NAS">ірвотнае</Form>
-        <Form Tag="NIS">ірвотным</Form>
-        <Form Tag="NLS">ірвотным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128070" Lemma="ірво´тнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">ірво´тнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">ірво´тнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">ірво´тнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">ірво´тнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">ірво´тным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">ірво´тным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128101" Lemma="карэктарская" Tag="NCIXNS5">
-        <Form Tag="FNS">карэктарская</Form>
-        <Form Tag="FGS">карэктарскай</Form>
-        <Form Tag="FDS">карэктарскай</Form>
-        <Form Tag="FAS">карэктарскую</Form>
-        <Form Tag="FIS">карэктарскай</Form>
-        <Form Tag="FLS">карэктарскай</Form>
-        <Form Tag="XNP">карэктарскія</Form>
-        <Form Tag="XGP">карэктарскіх</Form>
-        <Form Tag="XDP">карэктарскім</Form>
-        <Form Tag="XAP">карэктарскія</Form>
-        <Form Tag="XIP">карэктарскімі</Form>
-        <Form Tag="XLP">карэктарскіх</Form>
+    <Paradigm pdgId="1128101" Lemma="карэ´ктарская" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">карэ´ктарская</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">карэ´ктарскай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">карэ´ктарскай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">карэ´ктарскую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">карэ´ктарскай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">карэ´ктарскаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">карэ´ктарскай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">карэ´ктарскія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">карэ´ктарскіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">карэ´ктарскім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">карэ´ктарскія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">карэ´ктарскімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">карэ´ктарскіх</Form>
     </Paradigm>
     <Paradigm pdgId="1137300" Lemma="кафэ-марожанае" Tag="NCIXNS5">
         <Form Tag="NNS">кафэ-марожанае</Form>
@@ -749,196 +730,188 @@
         <Form Tag="NAS">кафэ-марожанае</Form>
         <Form Tag="NIS">кафэ-марожаным</Form>
         <Form Tag="NLS">кафэ-марожаным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1128102" Lemma="крадзенае" Tag="NCIXNS5">
-        <Form Tag="NNS">крадзенае</Form>
-        <Form Tag="NGS">крадзенага</Form>
-        <Form Tag="NDS">крадзенаму</Form>
-        <Form Tag="NAS">крадзенае</Form>
-        <Form Tag="NIS">крадзеным</Form>
-        <Form Tag="NLS">крадзеным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128102" Lemma="кра´дзенае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">кра´дзенае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">кра´дзенага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">кра´дзенаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">кра´дзенае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">кра´дзеным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">кра´дзеным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128103" Lemma="крывая" Tag="NCIXNS5">
-        <Form Tag="FNS">крывая</Form>
-        <Form Tag="FGS">крывой</Form>
-        <Form Tag="FDS">крывой</Form>
-        <Form Tag="FAS">крывую</Form>
-        <Form Tag="FIS">крывой</Form>
-        <Form Tag="FLS">крывой</Form>
-        <Form Tag="XNP">крывыя</Form>
-        <Form Tag="XGP">крывых</Form>
-        <Form Tag="XDP">крывым</Form>
-        <Form Tag="XAP">крывыя</Form>
-        <Form Tag="XIP">крывымі</Form>
-        <Form Tag="XLP">крывых</Form>
+    <Paradigm pdgId="1128103" Lemma="крыва´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">крыва´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">крыво´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">крыво´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">крыву´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">крыво´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">крыво´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">крыво´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">крывы´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">крывы´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">крывы´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">крывы´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">крывы´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">крывы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128104" Lemma="кубавая" Tag="NCIXNS5">
-        <Form Tag="FNS">кубавая</Form>
-        <Form Tag="FGS">кубавой</Form>
-        <Form Tag="FDS">кубавой</Form>
-        <Form Tag="FAS">кубавую</Form>
-        <Form Tag="FIS">кубавой</Form>
-        <Form Tag="FLS">кубавой</Form>
-        <Form Tag="XNP">кубавыя</Form>
-        <Form Tag="XGP">кубавых</Form>
-        <Form Tag="XDP">кубавым</Form>
-        <Form Tag="XAP">кубавыя</Form>
-        <Form Tag="XIP">кубавымі</Form>
-        <Form Tag="XLP">кубавых</Form>
+    <Paradigm pdgId="1128104" Lemma="кубава´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">кубава´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">кубаво´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">кубаво´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">кубаву´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">кубаво´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">кубаво´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">кубаво´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">кубавы´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">кубавы´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">кубавы´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">кубавы´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">кубавы´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">кубавы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1019430" Lemma="купчая" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">купчая</Form>
-        <Form Tag="FGS">купчай</Form>
-        <Form Tag="FDS">купчай</Form>
-        <Form Tag="FAS">купчую</Form>
-        <Form Tag="FIS">купчай</Form>
-        <Form Tag="FLS">купчай</Form>
-        <Form Tag="XNP">купчыя</Form>
-        <Form Tag="XGP">купчых</Form>
-        <Form Tag="XDP">купчым</Form>
-        <Form Tag="XAP">купчыя</Form>
-        <Form Tag="XIP">купчымі</Form>
-        <Form Tag="XLP">купчых</Form>
+    <Paradigm pdgId="1019430" Lemma="ку´пчая" Tag="NCIXNS5" Govern="">
+        <Form Tag="FNS" Slouniki="nazounik2008">ку´пчая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">ку´пчай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">ку´пчай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">ку´пчую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ку´пчай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ку´пчаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">ку´пчай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">ку´пчыя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">ку´пчых</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">ку´пчым</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">ку´пчыя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">ку´пчымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">ку´пчых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128105" Lemma="ліцейная" Tag="NCIXNS5">
-        <Form Tag="FNS">ліцейная</Form>
-        <Form Tag="FGS">ліцейнай</Form>
-        <Form Tag="FDS">ліцейнай</Form>
-        <Form Tag="FAS">ліцейную</Form>
-        <Form Tag="FIS">ліцейнай</Form>
-        <Form Tag="FLS">ліцейнай</Form>
-        <Form Tag="XNP">ліцейныя</Form>
-        <Form Tag="XGP">ліцейных</Form>
-        <Form Tag="XDP">ліцейным</Form>
-        <Form Tag="XAP">ліцейныя</Form>
-        <Form Tag="XIP">ліцейнымі</Form>
-        <Form Tag="XLP">ліцейных</Form>
+    <Paradigm pdgId="1128105" Lemma="ліце´йная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">ліце´йная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">ліце´йнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">ліце´йнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">ліце´йную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ліце´йнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">ліце´йнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">ліце´йнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">ліце´йныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">ліце´йных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">ліце´йным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">ліце´йныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">ліце´йнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">ліце´йных</Form>
     </Paradigm>
-    <Paradigm pdgId="1031433" Lemma="люты" Tag="NCIXNS5" Govern="">
-        <Form Tag="MNS">люты</Form>
-        <Form Tag="MGS">лютага</Form>
-        <Form Tag="MDS">лютаму</Form>
-        <Form Tag="MAS">люты</Form>
-        <Form Tag="MIS">лютым</Form>
-        <Form Tag="MLS">лютым</Form>
-        <Form Tag="XNP">лютыя</Form>
-        <Form Tag="XGP">лютых</Form>
-        <Form Tag="XDP">лютым</Form>
-        <Form Tag="XAP">лютыя</Form>
-        <Form Tag="XIP">лютымі</Form>
-        <Form Tag="XLP">лютых</Form>
+    <Paradigm pdgId="1031433" Lemma="лю´ты" Tag="NCIXNS5" Govern="">
+        <Form Tag="XNP" Type="nonstandard">лютыя</Form>
+        <Form Tag="XGP" Type="nonstandard">лютых</Form>
+        <Form Tag="XDP" Type="nonstandard">лютым</Form>
+        <Form Tag="XAP" Type="nonstandard">лютыя</Form>
+        <Form Tag="XIP" Type="nonstandard">лютымі</Form>
+        <Form Tag="XLP" Type="nonstandard">лютых</Form>
+        <Form Tag="MNS" Slouniki="nazounik2008">лю´ты</Form>
+        <Form Tag="MGS" Slouniki="nazounik2008">лю´тага</Form>
+        <Form Tag="MDS" Slouniki="nazounik2008">лю´таму</Form>
+        <Form Tag="MAS" Slouniki="nazounik2008">лю´ты</Form>
+        <Form Tag="MIS" Slouniki="nazounik2008">лю´тым</Form>
+        <Form Tag="MLS" Slouniki="nazounik2008">лю´тым</Form>
     </Paradigm>
-    <Paradigm pdgId="1041443" Lemma="марожанае" Tag="NCIXNS5" Govern="">
-        <Form Tag="NNS">марожанае</Form>
-        <Form Tag="NGS">марожанага</Form>
-        <Form Tag="NDS">марожанаму</Form>
-        <Form Tag="NAS">марожанае</Form>
-        <Form Tag="NIS">марожаным</Form>
-        <Form Tag="NLS">марожаным</Form>
-        <Form Tag="XNP">марожаныя</Form>
-        <Form Tag="XGP">марожаных</Form>
-        <Form Tag="XDP">марожаным</Form>
-        <Form Tag="XAP">марожаныя</Form>
-        <Form Tag="XIP">марожанымі</Form>
-        <Form Tag="XLP">марожаных</Form>
+    <Paradigm pdgId="1041443" Lemma="маро´жанае" Tag="NCIXNS5" Govern="" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">марожаныя</Form>
+        <Form Tag="XGP" Type="nonstandard">марожаных</Form>
+        <Form Tag="XDP" Type="nonstandard">марожаным</Form>
+        <Form Tag="XAP" Type="nonstandard">марожаныя</Form>
+        <Form Tag="XIP" Type="nonstandard">марожанымі</Form>
+        <Form Tag="XLP" Type="nonstandard">марожаных</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">маро´жанае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">маро´жанага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">маро´жанаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">маро´жанае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">маро´жаным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">маро´жаным</Form>
     </Paradigm>
-    <Paradigm pdgId="1019992" Lemma="маставая" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">маставая</Form>
-        <Form Tag="FGS">маставой</Form>
-        <Form Tag="FDS">маставой</Form>
-        <Form Tag="FAS">маставую</Form>
-        <Form Tag="FIS">маставой</Form>
-        <Form Tag="FLS">маставой</Form>
-        <Form Tag="XNP">маставыя</Form>
-        <Form Tag="XGP">маставых</Form>
-        <Form Tag="XDP">маставым</Form>
-        <Form Tag="XAP">маставых</Form>
-        <Form Tag="XIP">маставымі</Form>
-        <Form Tag="XLP">маставых</Form>
+    <Paradigm pdgId="1019992" Lemma="мастава´я" Tag="NCIXNS5" Govern="">
+        <Form Tag="XAP" Type="nonstandard">маставых</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">мастава´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">маставо´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">маставо´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">маставу´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">маставо´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">маставо´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">маставо´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">маставы´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">маставы´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">маставы´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">маставы´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">маставы´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">маставы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1041396" Lemma="мінулае" Tag="NCIXNS5" Govern="">
-        <Form Tag="NNS">мінулае</Form>
-        <Form Tag="NGS">мінулага</Form>
-        <Form Tag="NDS">мінуламу</Form>
-        <Form Tag="NAS">мінулае</Form>
-        <Form Tag="NIS">мінулым</Form>
-        <Form Tag="NLS">мінулым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1041396" Lemma="міну´лае" Tag="NCIXNS5" Govern="" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">міну´лае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">міну´лага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">міну´ламу</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">міну´лае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">міну´лым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">міну´лым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128106" Lemma="набярэжная" Tag="NCIXNS5">
-        <Form Tag="FNS">набярэжная</Form>
-        <Form Tag="FGS">набярэжнай</Form>
-        <Form Tag="FDS">набярэжнай</Form>
-        <Form Tag="FAS">набярэжную</Form>
-        <Form Tag="FIS">набярэжнай</Form>
-        <Form Tag="FLS">набярэжнай</Form>
-        <Form Tag="XNP">набярэжныя</Form>
-        <Form Tag="XGP">набярэжных</Form>
-        <Form Tag="XDP">набярэжным</Form>
-        <Form Tag="XAP">набярэжныя</Form>
-        <Form Tag="XIP">набярэжнымі</Form>
-        <Form Tag="XLP">набярэжных</Form>
+    <Paradigm pdgId="1128106" Lemma="набярэ´жная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">набярэ´жная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">набярэ´жнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">набярэ´жнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">набярэ´жную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">набярэ´жнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">набярэ´жнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">набярэ´жнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">набярэ´жныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">набярэ´жных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">набярэ´жным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">набярэ´жныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">набярэ´жнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">набярэ´жных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128107" Lemma="накладная" Tag="NCIXNS5">
-        <Form Tag="MNS">накладная</Form>
-        <Form Tag="MGS">накладной</Form>
-        <Form Tag="MDS">накладной</Form>
-        <Form Tag="MAS">накладную</Form>
-        <Form Tag="MIS">накладной</Form>
-        <Form Tag="MLS">накладной</Form>
-        <Form Tag="XNP">накладныя</Form>
-        <Form Tag="XGP">накладных</Form>
-        <Form Tag="XDP">накладным</Form>
-        <Form Tag="XAP">накладных</Form>
-        <Form Tag="XIP">накладнымі</Form>
-        <Form Tag="XLP">накладных</Form>
+    <Paradigm pdgId="1128107" Lemma="накладна´я" Tag="NCIXNS5">
+        <Form Tag="XAP" Type="nonstandard">накладных</Form>
+        <Form Tag="MNS" Type="nonstandard">накладная</Form>
+        <Form Tag="MGS" Type="nonstandard">накладной</Form>
+        <Form Tag="MDS" Type="nonstandard">накладной</Form>
+        <Form Tag="MAS" Type="nonstandard">накладную</Form>
+        <Form Tag="MIS" Type="nonstandard">накладной</Form>
+        <Form Tag="MLS" Type="nonstandard">накладной</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">накладна´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">накладно´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">накладно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">накладну´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">накладно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">накладно´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">накладно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">накладны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">накладны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">накладны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">накладны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">накладны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">накладны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128108" Lemma="належнае" Tag="NCIXNS5">
-        <Form Tag="NNS">належнае</Form>
-        <Form Tag="NGS">належнага</Form>
-        <Form Tag="NDS">належнаму</Form>
-        <Form Tag="NAS">належнае</Form>
-        <Form Tag="NIS">належным</Form>
-        <Form Tag="NLS">належным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128108" Lemma="нале´жнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">нале´жнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">нале´жнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">нале´жнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">нале´жнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">нале´жным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">нале´жным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128109" Lemma="настаўніцкая" Tag="NCIXNS5">
-        <Form Tag="FNS">настаўніцкая</Form>
-        <Form Tag="FGS">настаўніцкай</Form>
-        <Form Tag="FDS">настаўніцкай</Form>
-        <Form Tag="FAS">настаўніцкую</Form>
-        <Form Tag="FIS">настаўніцкай</Form>
-        <Form Tag="FLS">настаўніцкай</Form>
-        <Form Tag="XNP">настаўніцкія</Form>
-        <Form Tag="XGP">настаўніцкіх</Form>
-        <Form Tag="XDP">настаўніцкім</Form>
-        <Form Tag="XAP">настаўніцкія</Form>
-        <Form Tag="XIP">настаўніцкімі</Form>
-        <Form Tag="XLP">настаўніцкіх</Form>
+    <Paradigm pdgId="1128109" Lemma="наста´ўніцкая" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">наста´ўніцкая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">наста´ўніцкай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">наста´ўніцкай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">наста´ўніцкую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">наста´ўніцкай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">наста´ўніцкаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">наста´ўніцкай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">наста´ўніцкія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">наста´ўніцкіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">наста´ўніцкім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">наста´ўніцкія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">наста´ўніцкімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">наста´ўніцкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1041678" Lemma="насякомае" Tag="NCIXNS5" Govern="">
+    <Paradigm pdgId="1041678" Lemma="насякомае" Tag="NCIXNS5" Govern="" todo="дакладна праверыць адушаўлёнасьць">
         <Form Tag="NNS">насякомае</Form>
         <Form Tag="NGS">насякомага</Form>
         <Form Tag="NDS">насякомаму</Form>
@@ -952,19 +925,19 @@
         <Form Tag="XIP">насякомымі</Form>
         <Form Tag="XLP">насякомых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128110" Lemma="невядомае" Tag="NCIXNS5">
-        <Form Tag="NNS">невядомае</Form>
-        <Form Tag="NGS">невядомага</Form>
-        <Form Tag="NDS">невядомаму</Form>
-        <Form Tag="NAS">невядомае</Form>
-        <Form Tag="NIS">невядомым</Form>
-        <Form Tag="NLS">невядомым</Form>
-        <Form Tag="XNP">невядомыя</Form>
-        <Form Tag="XGP">невядомых</Form>
-        <Form Tag="XDP">невядомым</Form>
-        <Form Tag="XAP">невядомыя</Form>
-        <Form Tag="XIP">невядомымі</Form>
-        <Form Tag="XLP">невядомых</Form>
+    <Paradigm pdgId="1128110" Lemma="невядо´мае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">невядомыя</Form>
+        <Form Tag="XGP" Type="nonstandard">невядомых</Form>
+        <Form Tag="XDP" Type="nonstandard">невядомым</Form>
+        <Form Tag="XAP" Type="nonstandard">невядомыя</Form>
+        <Form Tag="XIP" Type="nonstandard">невядомымі</Form>
+        <Form Tag="XLP" Type="nonstandard">невядомых</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">невядо´мае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">невядо´мага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">невядо´маму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">невядо´мае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">невядо´мым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">невядо´мым</Form>
     </Paradigm>
     <Paradigm pdgId="1128184" Lemma="нічыя" Tag="NCIXNS5">
         <Form Tag="FNS">нічыя</Form>
@@ -987,40 +960,29 @@
         <Form Tag="NAS">нядобрае</Form>
         <Form Tag="NIS">нядобрым</Form>
         <Form Tag="NLS">нядобрым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
     <Paradigm pdgId="1138865" Lemma="пад'ёмныя" Tag="NCIXNS5">
-        <Form Tag="XNS"></Form>
-        <Form Tag="XGS"></Form>
-        <Form Tag="XDS"></Form>
-        <Form Tag="XAS"></Form>
-        <Form Tag="XIS"></Form>
-        <Form Tag="XLS"></Form>
-        <Form Tag="XNP">пад'ёмныя</Form>
-        <Form Tag="XGP">пад'ёмных</Form>
-        <Form Tag="XDP">пад'ёмным</Form>
-        <Form Tag="XAP">пад'ёмныя</Form>
-        <Form Tag="XIP">пад'ёмнымі</Form>
-        <Form Tag="XLP">пад'ёмных</Form>
+        <Form Tag="PNP" Slouniki="nazounik2008">пад'ёмныя</Form>
+        <Form Tag="PGP" Slouniki="nazounik2008">пад'ёмных</Form>
+        <Form Tag="PDP" Slouniki="nazounik2008">пад'ёмным</Form>
+        <Form Tag="PAP" Slouniki="nazounik2008">пад'ёмныя</Form>
+        <Form Tag="PIP" Slouniki="nazounik2008">пад'ёмнымі</Form>
+        <Form Tag="PLP" Slouniki="nazounik2008">пад'ёмных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128114" Lemma="пажарная" Tag="NCIXNS5">
-        <Form Tag="FNS">пажарная</Form>
-        <Form Tag="FGS">пажарнай</Form>
-        <Form Tag="FDS">пажарнай</Form>
-        <Form Tag="FAS">пажарную</Form>
-        <Form Tag="FIS">пажарнай</Form>
-        <Form Tag="FLS">пажарнай</Form>
-        <Form Tag="XNP">пажарныя</Form>
-        <Form Tag="XGP">пажарных</Form>
-        <Form Tag="XDP">пажарным</Form>
-        <Form Tag="XAP">пажарныя</Form>
-        <Form Tag="XIP">пажарнымі</Form>
-        <Form Tag="XLP">пажарных</Form>
+    <Paradigm pdgId="1128114" Lemma="пажа´рная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">пажа´рная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">пажа´рнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">пажа´рнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">пажа´рную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пажа´рнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пажа´рнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">пажа´рнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">пажа´рныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">пажа´рных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">пажа´рным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">пажа´рныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">пажа´рнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">пажа´рных</Form>
     </Paradigm>
     <Paradigm pdgId="1032569" Lemma="пазыўны" Tag="NCIXNS5" Govern="">
         <Form Tag="MNS">пазыўны</Form>
@@ -1036,47 +998,41 @@
         <Form Tag="XIP">пазыўнымі</Form>
         <Form Tag="XLP">пазыўных</Form>
     </Paradigm>
-    <Paradigm pdgId="1138868" Lemma="пазыўныя" Tag="NCIXNS5">
-        <Form Tag="XNS"></Form>
-        <Form Tag="XGS"></Form>
-        <Form Tag="XDS"></Form>
-        <Form Tag="XAS"></Form>
-        <Form Tag="XIS"></Form>
-        <Form Tag="XLS"></Form>
-        <Form Tag="XNP">пазыўныя</Form>
-        <Form Tag="XGP">пазыўных</Form>
-        <Form Tag="XDP">пазыўным</Form>
-        <Form Tag="XAP">пазыўныя</Form>
-        <Form Tag="XIP">пазыўнымі</Form>
-        <Form Tag="XLP">пазыўных</Form>
+    <Paradigm pdgId="1138868" Lemma="пазыўны´я" Tag="NCIXNS5">
+        <Form Tag="PNP" Slouniki="nazounik2008">пазыўны´я</Form>
+        <Form Tag="PGP" Slouniki="nazounik2008">пазыўны´х</Form>
+        <Form Tag="PDP" Slouniki="nazounik2008">пазыўны´м</Form>
+        <Form Tag="PAP" Slouniki="nazounik2008">пазыўны´я</Form>
+        <Form Tag="PIP" Slouniki="nazounik2008">пазыўны´мі</Form>
+        <Form Tag="PLP" Slouniki="nazounik2008">пазыўны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128115" Lemma="памяншаемае" Tag="NCIXNS5">
-        <Form Tag="NNS">памяншаемае</Form>
-        <Form Tag="NGS">памяншаемага</Form>
-        <Form Tag="NDS">памяншаемаму</Form>
-        <Form Tag="NAS">памяншаемае</Form>
-        <Form Tag="NIS">памяншаемым</Form>
-        <Form Tag="NLS">памяншаемым</Form>
-        <Form Tag="XNP">памяншаемыя</Form>
-        <Form Tag="XGP">памяншаемых</Form>
-        <Form Tag="XDP">памяншаемым</Form>
-        <Form Tag="XAP">памяншаемыя</Form>
-        <Form Tag="XIP">памяншаемымі</Form>
-        <Form Tag="XLP">памяншаемых</Form>
+    <Paradigm pdgId="1128115" Lemma="памянша´емае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">памяншаемыя</Form>
+        <Form Tag="XGP" Type="nonstandard">памяншаемых</Form>
+        <Form Tag="XDP" Type="nonstandard">памяншаемым</Form>
+        <Form Tag="XAP" Type="nonstandard">памяншаемыя</Form>
+        <Form Tag="XIP" Type="nonstandard">памяншаемымі</Form>
+        <Form Tag="XLP" Type="nonstandard">памяншаемых</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">памянша´емае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">памянша´емага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">памянша´емаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">памянша´емае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">памянша´емым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">памянша´емым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128183" Lemma="папярэдняе" Tag="NCIXNS5">
-        <Form Tag="NNS">папярэдняе</Form>
-        <Form Tag="NGS">папярэдняга</Form>
-        <Form Tag="NDS">папярэдняму</Form>
-        <Form Tag="NAS">папярэдняе</Form>
-        <Form Tag="NIS">папярэднім</Form>
-        <Form Tag="NLS">папярэднім</Form>
-        <Form Tag="XNP">папярэднія</Form>
-        <Form Tag="XGP">папярэдніх</Form>
-        <Form Tag="XDP">папярэднім</Form>
-        <Form Tag="XAP">папярэднія</Form>
-        <Form Tag="XIP">папярэднімі</Form>
-        <Form Tag="XLP">папярэдніх</Form>
+    <Paradigm pdgId="1128183" Lemma="папярэ´дняе" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">папярэднія</Form>
+        <Form Tag="XGP" Type="nonstandard">папярэдніх</Form>
+        <Form Tag="XDP" Type="nonstandard">папярэднім</Form>
+        <Form Tag="XAP" Type="nonstandard">папярэднія</Form>
+        <Form Tag="XIP" Type="nonstandard">папярэднімі</Form>
+        <Form Tag="XLP" Type="nonstandard">папярэдніх</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">папярэ´дняе</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">папярэ´дняга</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">папярэ´дняму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">папярэ´дняе</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">папярэ´днім</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">папярэ´днім</Form>
     </Paradigm>
     <Paradigm pdgId="1128116" Lemma="параднае" Tag="NCIXNS5">
         <Form Tag="NNS">параднае</Form>
@@ -1092,97 +1048,76 @@
         <Form Tag="XIP">параднымі</Form>
         <Form Tag="XLP">парадных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128117" Lemma="патагоннае" Tag="NCIXNS5">
-        <Form Tag="NNS">патагоннае</Form>
-        <Form Tag="NGS">патагоннага</Form>
-        <Form Tag="NDS">патагоннаму</Form>
-        <Form Tag="NAS">патагоннае</Form>
-        <Form Tag="NIS">патагонным</Form>
-        <Form Tag="NLS">патагонным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128117" Lemma="патаго´ннае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">патаго´ннае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">патаго´ннага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">патаго´ннаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">патаго´ннае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">патаго´нным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">патаго´нным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128118" Lemma="пельменная" Tag="NCIXNS5">
-        <Form Tag="FNS">пельменная</Form>
-        <Form Tag="FGS">пельменнай</Form>
-        <Form Tag="FDS">пельменнай</Form>
-        <Form Tag="FAS">пельменную</Form>
-        <Form Tag="FIS">пельменнай</Form>
-        <Form Tag="FLS">пельменнай</Form>
-        <Form Tag="XNP">пельменныя</Form>
-        <Form Tag="XGP">пельменных</Form>
-        <Form Tag="XDP">пельменным</Form>
-        <Form Tag="XAP">пельменныя</Form>
-        <Form Tag="XIP">пельменнымі</Form>
-        <Form Tag="XLP">пельменных</Form>
+    <Paradigm pdgId="1128118" Lemma="пельме´нная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">пельме´нная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">пельме´ннай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">пельме´ннай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">пельме´нную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пельме´ннай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пельме´ннаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">пельме´ннай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">пельме´нныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">пельме´нных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">пельме´нным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">пельме´нныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">пельме´ннымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">пельме´нных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128119" Lemma="перавязачная" Tag="NCIXNS5">
-        <Form Tag="FNS">перавязачная</Form>
-        <Form Tag="FGS">перавязачнай</Form>
-        <Form Tag="FDS">перавязачнай</Form>
-        <Form Tag="FAS">перавязачную</Form>
-        <Form Tag="FIS">перавязачнай</Form>
-        <Form Tag="FLS">перавязачнай</Form>
-        <Form Tag="XNP">перавязачныя</Form>
-        <Form Tag="XGP">перавязачных</Form>
-        <Form Tag="XDP">перавязачным</Form>
-        <Form Tag="XAP">перавязачныя</Form>
-        <Form Tag="XIP">перавязачнымі</Form>
-        <Form Tag="XLP">перавязачных</Form>
+    <Paradigm pdgId="1128119" Lemma="перавя´зачная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">перавя´зачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">перавя´зачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">перавя´зачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">перавя´зачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">перавя´зачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">перавя´зачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">перавя´зачнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">перавя´зачныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">перавя´зачных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">перавя´зачным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">перавя´зачныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">перавя´зачнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">перавя´зачных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128120" Lemma="перажытае" Tag="NCIXNS5">
-        <Form Tag="NNS">перажытае</Form>
-        <Form Tag="NGS">перажытага</Form>
-        <Form Tag="NDS">перажытаму</Form>
-        <Form Tag="NAS">перажытае</Form>
-        <Form Tag="NIS">перажытым</Form>
-        <Form Tag="NLS">перажытым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128120" Lemma="перажы´тае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">перажы´тае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">перажы´тага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">перажы´таму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">перажы´тае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">перажы´тым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">перажы´тым</Form>
     </Paradigm>
-    <Paradigm pdgId="1021571" Lemma="пераменная" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">пераменная</Form>
-        <Form Tag="FGS">пераменнай</Form>
-        <Form Tag="FDS">пераменнай</Form>
-        <Form Tag="FAS">пераменную</Form>
-        <Form Tag="FIS">пераменнай</Form>
-        <Form Tag="FLS">пераменнай</Form>
-        <Form Tag="XNP">пераменныя</Form>
-        <Form Tag="XGP">пераменных</Form>
-        <Form Tag="XDP">пераменным</Form>
-        <Form Tag="XAP">пераменныя</Form>
-        <Form Tag="XIP">пераменнымі</Form>
-        <Form Tag="XLP">пераменных</Form>
+    <Paradigm pdgId="1021571" Lemma="пераме´нная" Tag="NCIXNS5" Govern="">
+        <Form Tag="FNS" Slouniki="nazounik2008">пераме´нная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">пераме´ннай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">пераме´ннай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">пераме´нную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пераме´ннай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пераме´ннаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">пераме´ннай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">пераме´нныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">пераме´нных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">пераме´нным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">пераме´нныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">пераме´ннымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">пераме´нных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128121" Lemma="першае" Tag="NCIXNS5">
-        <Form Tag="NNS">першае</Form>
-        <Form Tag="NGS">першага</Form>
-        <Form Tag="NDS">першаму</Form>
-        <Form Tag="NAS">першае</Form>
-        <Form Tag="NIS">першым</Form>
-        <Form Tag="NLS">першым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128121" Lemma="пе´ршае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">пе´ршае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">пе´ршага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">пе´ршаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">пе´ршае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">пе´ршым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">пе´ршым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128122" Lemma="першацветны+" Tag="NCIXNS5">
-        <Form Tag="MNS"></Form>
-        <Form Tag="MGS"></Form>
-        <Form Tag="MDS"></Form>
-        <Form Tag="MAS"></Form>
-        <Form Tag="MIS"></Form>
-        <Form Tag="MLS"></Form>
+    <Paradigm pdgId="1128122" Lemma="першацветны" Tag="NCIXNS5" options="usually_plurals">
         <Form Tag="XNP">першацветныя</Form>
         <Form Tag="XGP">першацветных</Form>
         <Form Tag="XDP">першацветным</Form>
@@ -1190,35 +1125,36 @@
         <Form Tag="XIP">першацветнымі</Form>
         <Form Tag="XLP">першацветных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128112" Lemma="піражковая" Tag="NCIXNS5">
-        <Form Tag="FNS">піражковая</Form>
-        <Form Tag="FGS">піражковай</Form>
-        <Form Tag="FDS">піражковай</Form>
-        <Form Tag="FAS">піражковую</Form>
-        <Form Tag="FIS">піражковай</Form>
-        <Form Tag="FLS">піражковай</Form>
-        <Form Tag="XNP">піражковыя</Form>
-        <Form Tag="XGP">піражковых</Form>
-        <Form Tag="XDP">піражковым</Form>
-        <Form Tag="XAP">піражковыя</Form>
-        <Form Tag="XIP">піражковымі</Form>
-        <Form Tag="XLP">піражковых</Form>
+    <Paradigm pdgId="1128112" Lemma="піражко´вая" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">піражко´вая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">піражко´вай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">піражко´вай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">піражко´вую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">піражко´вай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">піражко´ваю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">піражко´вай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">піражко´выя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">піражко´вых</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">піражко´вым</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">піражко´выя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">піражко´вымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">піражко´вых</Form>
     </Paradigm>
-    <Paradigm pdgId="1041806" Lemma="пірожнае" Tag="NCIXNS5" Govern="">
-        <Form Tag="NNS">пірожнае</Form>
-        <Form Tag="NGS">пірожнага</Form>
-        <Form Tag="NDS">пірожнаму</Form>
-        <Form Tag="NAS">пірожнае</Form>
-        <Form Tag="NIS">пірожным</Form>
-        <Form Tag="NLS">пірожным</Form>
-        <Form Tag="XNP">пірожныя</Form>
-        <Form Tag="XGP">пірожных</Form>
-        <Form Tag="XDP">пірожным</Form>
-        <Form Tag="XAP">пірожныя</Form>
-        <Form Tag="XIP">пірожнымі</Form>
-        <Form Tag="XLP">пірожных</Form>
+    <Paradigm pdgId="1041806" Lemma="піро´жнае" Tag="NCIXNS5" Govern="">
+        <Form Tag="NNS" Slouniki="nazounik2008">піро´жнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">піро´жнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">піро´жнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">піро´жнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">піро´жным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">піро´жным</Form>
+        <Form Tag="NNP" Slouniki="nazounik2008">піро´жныя</Form>
+        <Form Tag="NGP" Slouniki="nazounik2008">піро´жных</Form>
+        <Form Tag="NDP" Slouniki="nazounik2008">піро´жным</Form>
+        <Form Tag="NAP" Slouniki="nazounik2008">піро´жныя</Form>
+        <Form Tag="NIP" Slouniki="nazounik2008">піро´жнымі</Form>
+        <Form Tag="NLP" Slouniki="nazounik2008">піро´жных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128113" Lemma="піхтавы+" Tag="NCIXNS5">
+    <Paradigm pdgId="1128113" Lemma="піхтавы" Tag="NCIXNS5" options="usually_plurals">
         <Form Tag="MNS">піхтавы</Form>
         <Form Tag="MGS">піхтавага</Form>
         <Form Tag="MDS">піхтаваму</Form>
@@ -1232,21 +1168,22 @@
         <Form Tag="XIP">піхтавымі</Form>
         <Form Tag="XLP">піхтавых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128123" Lemma="прамая" Tag="NCIXNS5">
-        <Form Tag="FNS">прамая</Form>
-        <Form Tag="FGS">прамой</Form>
-        <Form Tag="FDS">прамой</Form>
-        <Form Tag="FAS">прамую</Form>
-        <Form Tag="FIS">прамой</Form>
-        <Form Tag="FLS">прамой</Form>
-        <Form Tag="XNP">прамыя</Form>
-        <Form Tag="XGP">прамых</Form>
-        <Form Tag="XDP">прамым</Form>
-        <Form Tag="XAP">прамыя</Form>
-        <Form Tag="XIP">прамымі</Form>
-        <Form Tag="XLP">прамых</Form>
+    <Paradigm pdgId="1128123" Lemma="прама´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">прама´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прамо´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прамо´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">праму´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прамо´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прамо´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прамо´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прамы´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прамы´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прамы´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прамы´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прамы´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прамы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128124" Lemma="прасцейшы+" Tag="NCIXNS5">
+    <Paradigm pdgId="1128124" Lemma="прасцейшы" Tag="NCIXNS5" options="usually_plurals">
         <Form Tag="MNS">прасцейшы</Form>
         <Form Tag="MGS">прасцейшага</Form>
         <Form Tag="MDS">прасцейшаму</Form>
@@ -1260,201 +1197,193 @@
         <Form Tag="XIP">прасцейшымі</Form>
         <Form Tag="XLP">прасцейшых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128125" Lemma="прафесарская" Tag="NCIXNS5">
-        <Form Tag="FNS">прафесарская</Form>
-        <Form Tag="FGS">прафесарскай</Form>
-        <Form Tag="FDS">прафесарскай</Form>
-        <Form Tag="FAS">прафесарскую</Form>
-        <Form Tag="FIS">прафесарскай</Form>
-        <Form Tag="FLS">прафесарскай</Form>
-        <Form Tag="XNP">прафесарскія</Form>
-        <Form Tag="XGP">прафесарскіх</Form>
-        <Form Tag="XDP">прафесарскім</Form>
-        <Form Tag="XAP">прафесарскія</Form>
-        <Form Tag="XIP">прафесарскімі</Form>
-        <Form Tag="XLP">прафесарскіх</Form>
+    <Paradigm pdgId="1128125" Lemma="прафе´сарская" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">прафе´сарская</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прафе´сарскай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прафе´сарскай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">прафе´сарскую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прафе´сарскай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прафе´сарскаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прафе´сарскай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прафе´сарскія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прафе´сарскіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прафе´сарскім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прафе´сарскія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прафе´сарскімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прафе´сарскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128126" Lemma="прахадная" Tag="NCIXNS5">
-        <Form Tag="MNS">прахадная</Form>
-        <Form Tag="MGS">прахадной</Form>
-        <Form Tag="MDS">прахадной</Form>
-        <Form Tag="MAS">прахадную</Form>
-        <Form Tag="MIS">прахадной</Form>
-        <Form Tag="MLS">прахадной</Form>
-        <Form Tag="XNP">прахадныя</Form>
-        <Form Tag="XGP">прахадных</Form>
-        <Form Tag="XDP">прахадным</Form>
-        <Form Tag="XAP">прахадныя</Form>
-        <Form Tag="XIP">прахаднымі</Form>
-        <Form Tag="XLP">прахадных</Form>
+    <Paradigm pdgId="1128126" Lemma="прахадна´я" Tag="NCIXNS5">
+        <Form Tag="MNS" Type="nonstandard">прахадная</Form>
+        <Form Tag="MGS" Type="nonstandard">прахадной</Form>
+        <Form Tag="MDS" Type="nonstandard">прахадной</Form>
+        <Form Tag="MAS" Type="nonstandard">прахадную</Form>
+        <Form Tag="MIS" Type="nonstandard">прахадной</Form>
+        <Form Tag="MLS" Type="nonstandard">прахадной</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">прахадна´я</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прахадно´й</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прахадно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">прахадну´ю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прахадно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прахадно´ю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прахадно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прахадны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прахадны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прахадны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прахадны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прахадны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прахадны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128127" Lemma="працэдурная" Tag="NCIXNS5">
-        <Form Tag="FNS">працэдурная</Form>
-        <Form Tag="FGS">працэдурнай</Form>
-        <Form Tag="FDS">працэдурнай</Form>
-        <Form Tag="FAS">працэдурную</Form>
-        <Form Tag="FIS">працэдурнай</Form>
-        <Form Tag="FLS">працэдурнай</Form>
-        <Form Tag="XNP">працэдурныя</Form>
-        <Form Tag="XGP">працэдурных</Form>
-        <Form Tag="XDP">працэдурным</Form>
-        <Form Tag="XAP">працэдурныя</Form>
-        <Form Tag="XIP">працэдурнымі</Form>
-        <Form Tag="XLP">працэдурных</Form>
+    <Paradigm pdgId="1128127" Lemma="працэду´рная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">працэду´рная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">працэду´рнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">працэду´рнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">працэду´рную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">працэду´рнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">працэду´рнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">працэду´рнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">працэду´рныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">працэду´рных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">працэду´рным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">працэду´рныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">працэду´рнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">працэду´рных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128128" Lemma="пройдзенае" Tag="NCIXNS5">
-        <Form Tag="NNS">пройдзенае</Form>
-        <Form Tag="NGS">пройдзенага</Form>
-        <Form Tag="NDS">пройдзенаму</Form>
-        <Form Tag="NAS">пройдзенае</Form>
-        <Form Tag="NIS">пройдзеным</Form>
-        <Form Tag="NLS">пройдзеным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128128" Lemma="про´йдзенае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">про´йдзенае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">про´йдзенага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">про´йдзенаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">про´йдзенае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">про´йдзеным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">про´йдзеным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128130" Lemma="прыгожае" Tag="NCIXNS5">
-        <Form Tag="NNS">прыгожае</Form>
-        <Form Tag="NGS">прыгожага</Form>
-        <Form Tag="NDS">прыгожаму</Form>
-        <Form Tag="NAS">прыгожае</Form>
-        <Form Tag="NIS">прыгожым</Form>
-        <Form Tag="NLS">прыгожым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128130" Lemma="прыго´жае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">прыго´жае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">прыго´жага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">прыго´жаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">прыго´жае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">прыго´жым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">прыго´жым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128131" Lemma="прыданае" Tag="NCIXNS5">
-        <Form Tag="NNS">прыданае</Form>
-        <Form Tag="NGS">прыданага</Form>
-        <Form Tag="NDS">прыданаму</Form>
-        <Form Tag="NAS">прыданае</Form>
-        <Form Tag="NIS">прыданым</Form>
-        <Form Tag="NLS">прыданым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128131" Lemma="прыда´нае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">прыда´нае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">прыда´нага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">прыда´наму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">прыда´нае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">прыда´ным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">прыда´ным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128132" Lemma="прыемнае" Tag="NCIXNS5">
-        <Form Tag="NNS">прыемнае</Form>
-        <Form Tag="NGS">прыемнага</Form>
-        <Form Tag="NDS">прыемнаму</Form>
-        <Form Tag="NAS">прыемнае</Form>
-        <Form Tag="NIS">прыемным</Form>
-        <Form Tag="NLS">прыемным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128132" Lemma="прые´мнае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">прые´мнае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">прые´мнага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">прые´мнаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">прые´мнае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">прые´мным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">прые´мным</Form>
     </Paradigm>
     <Paradigm pdgId="1128129" Lemma="прыёмная" Tag="NCIXNS5">
-        <Form Tag="FNS">прыёмная</Form>
-        <Form Tag="FGS">прыёмнай</Form>
-        <Form Tag="FDS">прыёмнай</Form>
-        <Form Tag="FAS">прыёмную</Form>
-        <Form Tag="FIS">прыёмнай</Form>
-        <Form Tag="FLS">прыёмнай</Form>
-        <Form Tag="XNP">прыёмныя</Form>
-        <Form Tag="XGP">прыёмных</Form>
-        <Form Tag="XDP">прыёмным</Form>
-        <Form Tag="XAP">прыёмныя</Form>
-        <Form Tag="XIP">прыёмнымі</Form>
-        <Form Tag="XLP">прыёмных</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">прыёмная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прыёмнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прыёмнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">прыёмную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прыёмнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прыёмнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прыёмнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прыёмныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прыёмных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прыёмным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прыёмныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прыёмнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прыёмных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128133" Lemma="прымерачная" Tag="NCIXNS5">
-        <Form Tag="FNS">прымерачная</Form>
-        <Form Tag="FGS">прымерачнай</Form>
-        <Form Tag="FDS">прымерачнай</Form>
-        <Form Tag="FAS">прымерачную</Form>
-        <Form Tag="FIS">прымерачнай</Form>
-        <Form Tag="FLS">прымерачнай</Form>
-        <Form Tag="XNP">прымерачныя</Form>
-        <Form Tag="XGP">прымерачных</Form>
-        <Form Tag="XDP">прымерачным</Form>
-        <Form Tag="XAP">прымерачныя</Form>
-        <Form Tag="XIP">прымерачнымі</Form>
-        <Form Tag="XLP">прымерачных</Form>
+    <Paradigm pdgId="1128133" Lemma="прыме´рачная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">прыме´рачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прыме´рачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прыме´рачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">прыме´рачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прыме´рачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прыме´рачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прыме´рачнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прыме´рачныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прыме´рачных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прыме´рачным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прыме´рачныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прыме´рачнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прыме´рачных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128134" Lemma="прыхожая" Tag="NCIXNS5">
-        <Form Tag="FNS">прыхожая</Form>
-        <Form Tag="FGS">прыхожай</Form>
-        <Form Tag="FDS">прыхожай</Form>
-        <Form Tag="FAS">прыхожую</Form>
-        <Form Tag="FIS">прыхожай</Form>
-        <Form Tag="FLS">прыхожай</Form>
-        <Form Tag="XNP">прыхожыя</Form>
-        <Form Tag="XGP">прыхожых</Form>
-        <Form Tag="XDP">прыхожым</Form>
-        <Form Tag="XAP">прыхожыя</Form>
-        <Form Tag="XIP">прыхожымі</Form>
-        <Form Tag="XLP">прыхожых</Form>
+    <Paradigm pdgId="1128134" Lemma="прыхо´жая" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">прыхо´жая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прыхо´жай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прыхо´жай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">прыхо´жую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прыхо´жай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прыхо´жаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прыхо´жай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прыхо´жыя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прыхо´жых</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прыхо´жым</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прыхо´жыя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прыхо´жымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прыхо´жых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128135" Lemma="прэпаратарская" Tag="NCIXNS5">
-        <Form Tag="FNS">прэпаратарская</Form>
-        <Form Tag="FGS">прэпаратарскай</Form>
-        <Form Tag="FDS">прэпаратарскай</Form>
-        <Form Tag="FAS">прэпаратарскую</Form>
-        <Form Tag="FIS">прэпаратарскай</Form>
-        <Form Tag="FLS">прэпаратарскай</Form>
-        <Form Tag="XNP">прэпаратарскія</Form>
-        <Form Tag="XGP">прэпаратарскіх</Form>
-        <Form Tag="XDP">прэпаратарскім</Form>
-        <Form Tag="XAP">прэпаратарскія</Form>
-        <Form Tag="XIP">прэпаратарскімі</Form>
-        <Form Tag="XLP">прэпаратарскіх</Form>
+    <Paradigm pdgId="1128135" Lemma="прэпара´тарская" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">прэпара´тарская</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">прэпара´тарскай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">прэпара´тарскай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">прэпара´тарскую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прэпара´тарскай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">прэпара´тарскаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">прэпара´тарскай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">прэпара´тарскія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">прэпара´тарскіх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">прэпара´тарскім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">прэпара´тарскія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">прэпара´тарскімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">прэпара´тарскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128173" Lemma="пярэдняя" Tag="NCIXNS5">
-        <Form Tag="FNS">пярэдняя</Form>
-        <Form Tag="FGS">пярэдняй</Form>
-        <Form Tag="FDS">пярэдняй</Form>
-        <Form Tag="FAS">пярэднюю</Form>
-        <Form Tag="FIS">пярэдняй</Form>
-        <Form Tag="FLS">пярэдняй</Form>
-        <Form Tag="XNP">пярэднія</Form>
-        <Form Tag="XGP">пярэдніх</Form>
-        <Form Tag="XDP">пярэднім</Form>
-        <Form Tag="XAP">пярэднія</Form>
-        <Form Tag="XIP">пярэднімі</Form>
-        <Form Tag="XLP">пярэдніх</Form>
+    <Paradigm pdgId="1128173" Lemma="пярэ´дняя" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">пярэ´дняя</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">пярэ´дняй</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">пярэ´дняй</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">пярэ´днюю</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пярэ´дняй</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">пярэ´дняю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">пярэ´дняй</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">пярэ´днія</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">пярэ´дніх</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">пярэ´днім</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">пярэ´днія</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">пярэ´днімі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">пярэ´дніх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128136" Lemma="радаслоўная" Tag="NCIXNS5">
-        <Form Tag="FNS">радаслоўная</Form>
-        <Form Tag="FGS">радаслоўнай</Form>
-        <Form Tag="FDS">радаслоўнай</Form>
-        <Form Tag="FAS">радаслоўную</Form>
-        <Form Tag="FIS">радаслоўнай</Form>
-        <Form Tag="FLS">радаслоўнай</Form>
-        <Form Tag="XNP">радаслоўныя</Form>
-        <Form Tag="XGP">радаслоўных</Form>
-        <Form Tag="XDP">радаслоўным</Form>
-        <Form Tag="XAP">радаслоўныя</Form>
-        <Form Tag="XIP">радаслоўнымі</Form>
-        <Form Tag="XLP">радаслоўных</Form>
+    <Paradigm pdgId="1128136" Lemma="радасло´ўная" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">радаслоўныя</Form>
+        <Form Tag="XGP" Type="nonstandard">радаслоўных</Form>
+        <Form Tag="XDP" Type="nonstandard">радаслоўным</Form>
+        <Form Tag="XAP" Type="nonstandard">радаслоўныя</Form>
+        <Form Tag="XIP" Type="nonstandard">радаслоўнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">радаслоўных</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">радасло´ўная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">радасло´ўнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">радасло´ўнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">радасло´ўную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">радасло´ўнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">радасло´ўнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">радасло´ўнай</Form>
     </Paradigm>
-    <Paradigm pdgId="1128138" Lemma="радыёапаратная" Tag="NCIXNS5">
-        <Form Tag="FNS">радыёапаратная</Form>
-        <Form Tag="FGS">радыёапаратнай</Form>
-        <Form Tag="FDS">радыёапаратнай</Form>
-        <Form Tag="FAS">радыёапаратную</Form>
-        <Form Tag="FIS">радыёапаратнай</Form>
-        <Form Tag="FLS">радыёапаратнай</Form>
-        <Form Tag="XNP">радыёапаратныя</Form>
-        <Form Tag="XGP">радыёапаратных</Form>
-        <Form Tag="XDP">радыёапаратным</Form>
-        <Form Tag="XAP">радыёапаратныя</Form>
-        <Form Tag="XIP">радыёапаратнымі</Form>
-        <Form Tag="XLP">радыёапаратных</Form>
+    <Paradigm pdgId="1128138" Lemma="радыёапара´тная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">радыёапара´тная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">радыёапара´тнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">радыёапара´тнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">радыёапара´тную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">радыёапара´тнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">радыёапара´тнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">радыёапара´тнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">радыёапара´тныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">радыёапара´тных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">радыёапара´тным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">радыёапара´тныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">радыёапара´тнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">радыёапара´тных</Form>
     </Paradigm>
     <Paradigm pdgId="1033611" Lemma="радыёпазыўны" Tag="NCIXNS5" Govern="">
         <Form Tag="MNS">радыёпазыўны</Form>
@@ -1477,83 +1406,68 @@
         <Form Tag="NAS">рвотнае</Form>
         <Form Tag="NIS">рвотным</Form>
         <Form Tag="NLS">рвотным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1128140" Lemma="рознае" Tag="NCIXNS5">
-        <Form Tag="NNS">рознае</Form>
-        <Form Tag="NGS">рознага</Form>
-        <Form Tag="NDS">рознаму</Form>
-        <Form Tag="NAS">рознае</Form>
-        <Form Tag="NIS">розным</Form>
-        <Form Tag="NLS">розным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128140" Lemma="ро´знае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">ро´знае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">ро´знага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">ро´знаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">ро´знае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">ро´зным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">ро´зным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128141" Lemma="салодкае" Tag="NCIXNS5">
-        <Form Tag="NNS">салодкае</Form>
-        <Form Tag="NGS">салодкага</Form>
-        <Form Tag="NDS">салодкаму</Form>
-        <Form Tag="NAS">салодкае</Form>
-        <Form Tag="NIS">салодкім</Form>
-        <Form Tag="NLS">салодкім</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128141" Lemma="сало´дкае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">сало´дкае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">сало´дкага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">сало´дкаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">сало´дкае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">сало´дкім</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">сало´дкім</Form>
     </Paradigm>
-    <Paradigm pdgId="1128142" Lemma="сартавальная" Tag="NCIXNS5">
-        <Form Tag="FNS">сартавальная</Form>
-        <Form Tag="FGS">сартавальнай</Form>
-        <Form Tag="FDS">сартавальнай</Form>
-        <Form Tag="FAS">сартавальную</Form>
-        <Form Tag="FIS">сартавальнай</Form>
-        <Form Tag="FLS">сартавальнай</Form>
-        <Form Tag="XNP">сартавальныя</Form>
-        <Form Tag="XGP">сартавальных</Form>
-        <Form Tag="XDP">сартавальным</Form>
-        <Form Tag="XAP">сартавальныя</Form>
-        <Form Tag="XIP">сартавальнымі</Form>
-        <Form Tag="XLP">сартавальных</Form>
+    <Paradigm pdgId="1128142" Lemma="сартава´льная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">сартава´льная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">сартава´льнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">сартава´льнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">сартава´льную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сартава´льнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сартава´льнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">сартава´льнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">сартава´льныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">сартава´льных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">сартава´льным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">сартава´льныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">сартава´льнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">сартава´льных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128143" Lemma="сарціровачная" Tag="NCIXNS5">
-        <Form Tag="FNS">сарціровачная</Form>
-        <Form Tag="FGS">сарціровачнай</Form>
-        <Form Tag="FDS">сарціровачнай</Form>
-        <Form Tag="FAS">сарціровачную</Form>
-        <Form Tag="FIS">сарціровачнай</Form>
-        <Form Tag="FLS">сарціровачнай</Form>
-        <Form Tag="XNP">сарціровачныя</Form>
-        <Form Tag="XGP">сарціровачных</Form>
-        <Form Tag="XDP">сарціровачным</Form>
-        <Form Tag="XAP">сарціровачныя</Form>
-        <Form Tag="XIP">сарціровачнымі</Form>
-        <Form Tag="XLP">сарціровачных</Form>
+    <Paradigm pdgId="1128143" Lemma="сарціро´вачная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">сарціро´вачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">сарціро´вачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">сарціро´вачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">сарціро´вачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сарціро´вачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сарціро´вачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">сарціро´вачнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">сарціро´вачныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">сарціро´вачных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">сарціро´вачным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">сарціро´вачныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">сарціро´вачнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">сарціро´вачных</Form>
     </Paradigm>
-    <Paradigm pdgId="1130481" Lemma="сепаратарная" Tag="NCIXNS5">
-        <Form Tag="FNS">сепаратарная</Form>
-        <Form Tag="FGS">сепаратарнай</Form>
-        <Form Tag="FDS">сепаратарнай</Form>
-        <Form Tag="FAS">сепаратарную</Form>
-        <Form Tag="FIS">сепаратарнай</Form>
-        <Form Tag="FIS">сепаратарнаю</Form>
-        <Form Tag="FLS">сепаратарнай</Form>
-        <Form Tag="XNP">сепаратарныя</Form>
-        <Form Tag="XGP">сепаратарных</Form>
-        <Form Tag="XDP">сепаратарным</Form>
-        <Form Tag="XAP">сепаратарныя</Form>
-        <Form Tag="XIP">сепаратарных</Form>
-        <Form Tag="XLP">сепаратарных</Form>
+    <Paradigm pdgId="1130481" Lemma="сепара´тарная" Tag="NCIXNS5">
+        <Form Tag="XIP" Type="nonstandard">сепаратарных</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">сепара´тарная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">сепара´тарнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">сепара´тарнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">сепара´тарную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сепара´тарнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сепара´тарнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">сепара´тарнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">сепара´тарныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">сепара´тарных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">сепара´тарным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">сепара´тарныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">сепара´тарнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">сепара´тарных</Form>
     </Paradigm>
     <Paradigm pdgId="1128144" Lemma="складаемае" Tag="NCIXNS5">
         <Form Tag="NNS">складаемае</Form>
@@ -1583,89 +1497,79 @@
         <Form Tag="XIP">складаючымі</Form>
         <Form Tag="XLP">складаючых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128146" Lemma="смажанае" Tag="NCIXNS5">
-        <Form Tag="NNS">смажанае</Form>
-        <Form Tag="NGS">смажанага</Form>
-        <Form Tag="NDS">смажанаму</Form>
-        <Form Tag="NAS">смажанае</Form>
-        <Form Tag="NIS">смажаным</Form>
-        <Form Tag="NLS">смажаным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128146" Lemma="сма´жанае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">сма´жанае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">сма´жанага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">сма´жанаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">сма´жанае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">сма´жаным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">сма´жаным</Form>
     </Paradigm>
-    <Paradigm pdgId="1130559" Lemma="соценная" Tag="NCIXNS5">
-        <Form Tag="FNS">соценная</Form>
-        <Form Tag="FGS">соценнай</Form>
-        <Form Tag="FDS">соценнай</Form>
-        <Form Tag="FAS">соценную</Form>
-        <Form Tag="FIS">соценнай</Form>
-        <Form Tag="FLS">соценнай</Form>
-        <Form Tag="XNP">соценныя</Form>
-        <Form Tag="XGP">соценных</Form>
-        <Form Tag="XDP">соценным</Form>
-        <Form Tag="XAP">соценныя</Form>
-        <Form Tag="XIP">соценнымі</Form>
-        <Form Tag="XLP">соценных</Form>
+    <Paradigm pdgId="1130559" Lemma="со´ценная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">со´ценная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">со´ценнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">со´ценнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">со´ценную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">со´ценнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">со´ценнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">со´ценнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">со´ценныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">со´ценных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">со´ценным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">со´ценныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">со´ценнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">со´ценных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128178" Lemma="спіртное" Tag="NCIXNS5">
-        <Form Tag="NNS">спіртное</Form>
-        <Form Tag="NGS">спіртнога</Form>
-        <Form Tag="NDS">спіртному</Form>
-        <Form Tag="NAS">спіртное</Form>
-        <Form Tag="NIS">спіртным</Form>
-        <Form Tag="NLS">спіртным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128178" Lemma="спіртно´е" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">спіртно´е</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">спіртно´га</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">спіртно´му</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">спіртно´е</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">спіртны´м</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">спіртны´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1128182" Lemma="сподняе" Tag="NCIXNS5">
-        <Form Tag="NNS">сподняе</Form>
-        <Form Tag="NGS">сподняга</Form>
-        <Form Tag="NDS">сподняму</Form>
-        <Form Tag="NAS">сподняе</Form>
-        <Form Tag="NIS">споднім</Form>
-        <Form Tag="NLS">споднім</Form>
-        <Form Tag="XNP">споднія</Form>
-        <Form Tag="XGP">сподніх</Form>
-        <Form Tag="XDP">споднім</Form>
-        <Form Tag="XAP">споднія</Form>
-        <Form Tag="XIP">споднімі</Form>
-        <Form Tag="XLP">сподніх</Form>
+    <Paradigm pdgId="1128182" Lemma="спо´дняе" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">споднія</Form>
+        <Form Tag="XGP" Type="nonstandard">сподніх</Form>
+        <Form Tag="XDP" Type="nonstandard">споднім</Form>
+        <Form Tag="XAP" Type="nonstandard">споднія</Form>
+        <Form Tag="XIP" Type="nonstandard">споднімі</Form>
+        <Form Tag="XLP" Type="nonstandard">сподніх</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">спо´дняе</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">спо´дняга</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">спо´дняму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">спо´дняе</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">спо´днім</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">спо´днім</Form>
     </Paradigm>
-    <Paradigm pdgId="1023159" Lemma="сталовая" Tag="NCIXNS5" Govern="">
-        <Form Tag="FNS">сталовая</Form>
-        <Form Tag="FGS">сталовай</Form>
-        <Form Tag="FDS">сталовай</Form>
-        <Form Tag="FAS">сталовую</Form>
-        <Form Tag="FIS">сталовай</Form>
-        <Form Tag="FLS">сталовай</Form>
-        <Form Tag="XNP">сталовыя</Form>
-        <Form Tag="XGP">сталовых</Form>
-        <Form Tag="XDP">сталовым</Form>
-        <Form Tag="XAP">сталовыя</Form>
-        <Form Tag="XIP">сталовымі</Form>
-        <Form Tag="XLP">сталовых</Form>
+    <Paradigm pdgId="1023159" Lemma="стало´вая" Tag="NCIXNS5" Govern="">
+        <Form Tag="FNS" Slouniki="nazounik2008">стало´вая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">стало´вай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">стало´вай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">стало´вую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">стало´вай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">стало´ваю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">стало´вай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">стало´выя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">стало´вых</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">стало´вым</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">стало´выя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">стало´вымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">стало´вых</Form>
     </Paradigm>
-    <Paradigm pdgId="1138218" Lemma="страчанае" Tag="NCIXNS5">
-        <Form Tag="NNS">страчанае</Form>
-        <Form Tag="NGS">страчанага</Form>
-        <Form Tag="NDS">страчанаму</Form>
-        <Form Tag="NAS">страчанае</Form>
-        <Form Tag="NIS">страчаным</Form>
-        <Form Tag="NLS">страчаным</Form>
-        <Form Tag="XNP">страчаныя</Form>
-        <Form Tag="XGP">страчаных</Form>
-        <Form Tag="XDP">страчаным</Form>
-        <Form Tag="XAP">страчаныя</Form>
-        <Form Tag="XIP">страчанымі</Form>
-        <Form Tag="XLP">страчаных</Form>
+    <Paradigm pdgId="1138218" Lemma="стра´чанае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">страчаныя</Form>
+        <Form Tag="XGP" Type="nonstandard">страчаных</Form>
+        <Form Tag="XDP" Type="nonstandard">страчаным</Form>
+        <Form Tag="XAP" Type="nonstandard">страчаныя</Form>
+        <Form Tag="XIP" Type="nonstandard">страчанымі</Form>
+        <Form Tag="XLP" Type="nonstandard">страчаных</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">стра´чанае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">стра´чанага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">стра´чанаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">стра´чанае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">стра´чаным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">стра´чаным</Form>
     </Paradigm>
     <Paradigm pdgId="1128177" Lemma="сухое" Tag="NCIXNS5">
         <Form Tag="NNS">сухое</Form>
@@ -1688,68 +1592,59 @@
         <Form Tag="NAS">сучаснае</Form>
         <Form Tag="NIS">сучасным</Form>
         <Form Tag="NLS">сучасным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1128148" Lemma="сякучая" Tag="NCIXNS5">
-        <Form Tag="FNS">сякучая</Form>
-        <Form Tag="FGS">сякучай</Form>
-        <Form Tag="FDS">сякучай</Form>
-        <Form Tag="FAS">сякучую</Form>
-        <Form Tag="FIS">сякучай</Form>
-        <Form Tag="FLS">сякучай</Form>
-        <Form Tag="XNP">сякучыя</Form>
-        <Form Tag="XGP">сякучых</Form>
-        <Form Tag="XDP">сякучым</Form>
-        <Form Tag="XAP">сякучыя</Form>
-        <Form Tag="XIP">сякучымі</Form>
-        <Form Tag="XLP">сякучых</Form>
+    <Paradigm pdgId="1128148" Lemma="сяку´чая" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">сяку´чая</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">сяку´чай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">сяку´чай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">сяку´чую</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сяку´чай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">сяку´чаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">сяку´чай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">сяку´чыя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">сяку´чых</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">сяку´чым</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">сяку´чыя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">сяку´чымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">сяку´чых</Form>
     </Paradigm>
-    <Paradigm pdgId="1128149" Lemma="табельная" Tag="NCIXNS5">
-        <Form Tag="FNS">табельная</Form>
-        <Form Tag="FGS">табельнай</Form>
-        <Form Tag="FDS">табельнай</Form>
-        <Form Tag="FAS">табельную</Form>
-        <Form Tag="FIS">табельнай</Form>
-        <Form Tag="FLS">табельнай</Form>
-        <Form Tag="XNP">табельныя</Form>
-        <Form Tag="XGP">табельных</Form>
-        <Form Tag="XDP">табельным</Form>
-        <Form Tag="XAP">табельныя</Form>
-        <Form Tag="XIP">табельнымі</Form>
-        <Form Tag="XLP">табельных</Form>
+    <Paradigm pdgId="1128149" Lemma="та´бельная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">та´бельная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">та´бельнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">та´бельнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">та´бельную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">та´бельнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">та´бельнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">та´бельнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">та´бельныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">та´бельных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">та´бельным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">та´бельныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">та´бельнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">та´бельных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128150" Lemma="такайскае" Tag="NCIXNS5">
-        <Form Tag="NNS">такайскае</Form>
-        <Form Tag="NGS">такайскага</Form>
-        <Form Tag="NDS">такайскаму</Form>
-        <Form Tag="NAS">такайскае</Form>
-        <Form Tag="NIS">такайскім</Form>
-        <Form Tag="NLS">такайскім</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128150" Lemma="така´йскае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">така´йскае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">така´йскага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">така´йскаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">така´йскае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">така´йскім</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">така´йскім</Form>
     </Paradigm>
-    <Paradigm pdgId="1128151" Lemma="трапезная" Tag="NCIXNS5">
-        <Form Tag="FNS">трапезная</Form>
-        <Form Tag="FGS">трапезнай</Form>
-        <Form Tag="FDS">трапезнай</Form>
-        <Form Tag="FAS">трапезную</Form>
-        <Form Tag="FIS">трапезнай</Form>
-        <Form Tag="FLS">трапезнай</Form>
-        <Form Tag="XNP">трапезныя</Form>
-        <Form Tag="XGP">трапезных</Form>
-        <Form Tag="XDP">трапезным</Form>
-        <Form Tag="XAP">трапезныя</Form>
-        <Form Tag="XIP">трапезнымі</Form>
-        <Form Tag="XLP">трапезных</Form>
+    <Paradigm pdgId="1128151" Lemma="трапе´зная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">трапе´зная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">трапе´знай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">трапе´знай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">трапе´зную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">трапе´знай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">трапе´знаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">трапе´знай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">трапе´зныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">трапе´зных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">трапе´зным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">трапе´зныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">трапе´знымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">трапе´зных</Form>
     </Paradigm>
     <Paradigm pdgId="1128181" Lemma="трэцяе" Tag="NCIXNS5">
         <Form Tag="NNS">трэцяе</Form>
@@ -1765,214 +1660,222 @@
         <Form Tag="XIP">трэцімі</Form>
         <Form Tag="XLP">трэціх</Form>
     </Paradigm>
-    <Paradigm pdgId="1128152" Lemma="убачанае" Tag="NCIXNS5">
-        <Form Tag="NNS">убачанае</Form>
-        <Form Tag="NGS">убачанага</Form>
-        <Form Tag="NDS">убачанаму</Form>
-        <Form Tag="NAS">убачанае</Form>
-        <Form Tag="NIS">убачаным</Form>
-        <Form Tag="NLS">убачаным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128152" Lemma="уба´чанае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">уба´чанае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">уба´чанага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">уба´чанаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">уба´чанае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">уба´чаным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">уба´чаным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128153" Lemma="уборачная" Tag="NCIXNS5">
-        <Form Tag="FNS">уборачная</Form>
-        <Form Tag="FGS">уборачнай</Form>
-        <Form Tag="FDS">уборачнай</Form>
-        <Form Tag="FAS">уборачную</Form>
-        <Form Tag="FIS">уборачнай</Form>
-        <Form Tag="FLS">уборачнай</Form>
-        <Form Tag="XNP">уборачныя</Form>
-        <Form Tag="XGP">уборачных</Form>
-        <Form Tag="XDP">уборачным</Form>
-        <Form Tag="XAP">уборачныя</Form>
-        <Form Tag="XIP">уборачнымі</Form>
-        <Form Tag="XLP">уборачных</Form>
+    <Paradigm pdgId="1128153" Lemma="убо´рачная" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">уборачныя</Form>
+        <Form Tag="XGP" Type="nonstandard">уборачных</Form>
+        <Form Tag="XDP" Type="nonstandard">уборачным</Form>
+        <Form Tag="XAP" Type="nonstandard">уборачныя</Form>
+        <Form Tag="XIP" Type="nonstandard">уборачнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">уборачных</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">убо´рачная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">убо´рачнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">убо´рачнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">убо´рачную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">убо´рачнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">убо´рачнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">убо´рачнай</Form>
     </Paradigm>
-    <Paradigm pdgId="1128154" Lemma="уваходная" Tag="NCIXNS5">
-        <Form Tag="MNS">уваходная</Form>
-        <Form Tag="MGS">уваходнай</Form>
-        <Form Tag="MDS">уваходнай</Form>
-        <Form Tag="MAS">уваходную</Form>
-        <Form Tag="MIS">уваходнай</Form>
-        <Form Tag="MLS">уваходнай</Form>
-        <Form Tag="XNP">уваходныя</Form>
-        <Form Tag="XGP">уваходных</Form>
-        <Form Tag="XDP">уваходным</Form>
-        <Form Tag="XAP">уваходныя</Form>
-        <Form Tag="XIP">уваходнымі</Form>
-        <Form Tag="XLP">уваходных</Form>
+    <Paradigm pdgId="1128154" Lemma="увахо´дная" Tag="NCIXNS5">
+        <Form Tag="MNS" Type="nonstandard">уваходная</Form>
+        <Form Tag="MGS" Type="nonstandard">уваходнай</Form>
+        <Form Tag="MDS" Type="nonstandard">уваходнай</Form>
+        <Form Tag="MAS" Type="nonstandard">уваходную</Form>
+        <Form Tag="MIS" Type="nonstandard">уваходнай</Form>
+        <Form Tag="MLS" Type="nonstandard">уваходнай</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">увахо´дная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">увахо´днай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">увахо´днай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">увахо´дную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">увахо´днай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">увахо´днаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">увахо´днай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">увахо´дныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">увахо´дных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">увахо´дным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">увахо´дныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">увахо´днымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">увахо´дных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128155" Lemma="узбярэжная" Tag="NCIXNS5">
-        <Form Tag="FNS">узбярэжная</Form>
-        <Form Tag="FGS">узбярэжнай</Form>
-        <Form Tag="FDS">узбярэжнай</Form>
-        <Form Tag="FAS">узбярэжную</Form>
-        <Form Tag="FIS">узбярэжнай</Form>
-        <Form Tag="FLS">узбярэжнай</Form>
-        <Form Tag="XNP">узбярэжныя</Form>
-        <Form Tag="XGP">узбярэжных</Form>
-        <Form Tag="XDP">узбярэжным</Form>
-        <Form Tag="XAP">узбярэжныя</Form>
-        <Form Tag="XIP">узбярэжнымі</Form>
-        <Form Tag="XLP">узбярэжных</Form>
+    <Paradigm pdgId="1128155" Lemma="узбярэ´жная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">узбярэ´жная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">узбярэ´жнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">узбярэ´жнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">узбярэ´жную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">узбярэ´жнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">узбярэ´жнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">узбярэ´жнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">узбярэ´жныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">узбярэ´жных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">узбярэ´жным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">узбярэ´жныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">узбярэ´жнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">узбярэ´жных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128156" Lemma="усяночная" Tag="NCIXNS5">
-        <Form Tag="FNS">усяночная</Form>
-        <Form Tag="FGS">усяночнай</Form>
-        <Form Tag="FDS">усяночнай</Form>
-        <Form Tag="FAS">усяночную</Form>
-        <Form Tag="FIS">усяночнай</Form>
-        <Form Tag="FLS">усяночнай</Form>
-        <Form Tag="XNP">усяночныя</Form>
-        <Form Tag="XGP">усяночных</Form>
-        <Form Tag="XDP">усяночным</Form>
-        <Form Tag="XAP">усяночныя</Form>
-        <Form Tag="XIP">усяночнымі</Form>
-        <Form Tag="XLP">усяночных</Form>
+    <Paradigm pdgId="1128156" Lemma="усяно´чная" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">усяночныя</Form>
+        <Form Tag="XGP" Type="nonstandard">усяночных</Form>
+        <Form Tag="XDP" Type="nonstandard">усяночным</Form>
+        <Form Tag="XAP" Type="nonstandard">усяночныя</Form>
+        <Form Tag="XIP" Type="nonstandard">усяночнымі</Form>
+        <Form Tag="XLP" Type="nonstandard">усяночных</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">усяно´чная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">усяно´чнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">усяно´чнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">усяно´чную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">усяно´чнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">усяно´чнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">усяно´чнай</Form>
     </Paradigm>
-    <Paradigm pdgId="1128157" Lemma="утваральная" Tag="NCIXNS5">
-        <Form Tag="FNS">утваральная</Form>
-        <Form Tag="FGS">утваральнай</Form>
-        <Form Tag="FDS">утваральнай</Form>
-        <Form Tag="FAS">утваральную</Form>
-        <Form Tag="FIS">утваральнай</Form>
-        <Form Tag="FLS">утваральнай</Form>
-        <Form Tag="XNP">утваральныя</Form>
-        <Form Tag="XGP">утваральных</Form>
-        <Form Tag="XDP">утваральным</Form>
-        <Form Tag="XAP">утваральныя</Form>
-        <Form Tag="XIP">утваральнымі</Form>
-        <Form Tag="XLP">утваральных</Form>
+    <Paradigm pdgId="1128157" Lemma="утвара´льная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">утвара´льная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">утвара´льнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">утвара´льнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">утвара´льную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">утвара´льнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">утвара´льнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">утвара´льнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">утвара´льныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">утвара´льных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">утвара´льным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">утвара´льныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">утвара´льнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">утвара´льных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128158" Lemma="халоднае" Tag="NCIXNS5">
-        <Form Tag="NNS">халоднае</Form>
-        <Form Tag="NGS">халоднага</Form>
-        <Form Tag="NDS">халоднаму</Form>
-        <Form Tag="NAS">халоднае</Form>
-        <Form Tag="NIS">халодным</Form>
-        <Form Tag="NLS">халодным</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128158" Lemma="хало´днае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">хало´днае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">хало´днага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">хало´днаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">хало´днае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">хало´дным</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">хало´дным</Form>
     </Paradigm>
-    <Paradigm pdgId="1128159" Lemma="халодная" Tag="NCIXNS5">
-        <Form Tag="MNS">халодная</Form>
-        <Form Tag="MGS">халоднай</Form>
-        <Form Tag="MDS">халоднай</Form>
-        <Form Tag="MAS">халодную</Form>
-        <Form Tag="MIS">халоднай</Form>
-        <Form Tag="MLS">халоднай</Form>
-        <Form Tag="XNP">халодныя</Form>
-        <Form Tag="XGP">халодных</Form>
-        <Form Tag="XDP">халодным</Form>
-        <Form Tag="XAP">халодныя</Form>
-        <Form Tag="XIP">халоднымі</Form>
-        <Form Tag="XLP">халодных</Form>
+    <Paradigm pdgId="1128159" Lemma="хало´дная" Tag="NCIXNS5">
+        <Form Tag="MNS" Type="nonstandard">халодная</Form>
+        <Form Tag="MGS" Type="nonstandard">халоднай</Form>
+        <Form Tag="MDS" Type="nonstandard">халоднай</Form>
+        <Form Tag="MAS" Type="nonstandard">халодную</Form>
+        <Form Tag="MIS" Type="nonstandard">халоднай</Form>
+        <Form Tag="MLS" Type="nonstandard">халоднай</Form>
+        <Form Tag="FNS" Slouniki="nazounik2008">хало´дная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">хало´днай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">хало´днай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">хало´дную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">хало´днай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">хало´днаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">хало´днай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">хало´дныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">хало´дных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">хало´дным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">хало´дныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">хало´днымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">хало´дных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128160" Lemma="цэлае" Tag="NCIXNS5">
-        <Form Tag="NNS">цэлае</Form>
-        <Form Tag="NGS">цэлага</Form>
-        <Form Tag="NDS">цэламу</Form>
-        <Form Tag="NAS">цэлае</Form>
-        <Form Tag="NIS">цэлым</Form>
-        <Form Tag="NLS">цэлым</Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1128160" Lemma="цэ´лае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="NNS" Slouniki="nazounik2008">цэ´лае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">цэ´лага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">цэ´ламу</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">цэ´лае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">цэ´лым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">цэ´лым</Form>
     </Paradigm>
-    <Paradigm pdgId="1128161" Lemma="чабурэчная" Tag="NCIXNS5">
-        <Form Tag="FNS">чабурэчная</Form>
-        <Form Tag="FGS">чабурэчнай</Form>
-        <Form Tag="FDS">чабурэчнай</Form>
-        <Form Tag="FAS">чабурэчную</Form>
-        <Form Tag="FIS">чабурэчнай</Form>
-        <Form Tag="FLS">чабурэчнай</Form>
-        <Form Tag="XNP">чабурэчныя</Form>
-        <Form Tag="XGP">чабурэчных</Form>
-        <Form Tag="XDP">чабурэчным</Form>
-        <Form Tag="XAP">чабурэчныя</Form>
-        <Form Tag="XIP">чабурэчнымі</Form>
-        <Form Tag="XLP">чабурэчных</Form>
+    <Paradigm pdgId="1128161" Lemma="чабурэ´чная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">чабурэ´чная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">чабурэ´чнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">чабурэ´чнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">чабурэ´чную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">чабурэ´чнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">чабурэ´чнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">чабурэ´чнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">чабурэ´чныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">чабурэ´чных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">чабурэ´чным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">чабурэ´чныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">чабурэ´чнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">чабурэ´чных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128162" Lemma="чайная" Tag="NCIXNS5">
-        <Form Tag="FNS">чайная</Form>
-        <Form Tag="FGS">чайнай</Form>
-        <Form Tag="FDS">чайнай</Form>
-        <Form Tag="FAS">чайную</Form>
-        <Form Tag="FIS">чайнай</Form>
-        <Form Tag="FLS">чайнай</Form>
-        <Form Tag="XNP">чайныя</Form>
-        <Form Tag="XGP">чайных</Form>
-        <Form Tag="XDP">чайным</Form>
-        <Form Tag="XAP">чайныя</Form>
-        <Form Tag="XIP">чайнымі</Form>
-        <Form Tag="XLP">чайных</Form>
+    <Paradigm pdgId="1128162" Lemma="чайна´я" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">чайна´я</Form>
+        <Form Tag="FGS" Type="nonstandard">чайнай</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">чайно´й</Form>
+        <Form Tag="FDS" Type="nonstandard">чайнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">чайно´й</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">чайну´ю</Form>
+        <Form Tag="FIS" Type="nonstandard">чайнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">чайно´й</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">чайно´ю</Form>
+        <Form Tag="FLS" Type="nonstandard">чайнай</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">чайно´й</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">чайны´я</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">чайны´х</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">чайны´м</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">чайны´я</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">чайны´мі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">чайны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1128163" Lemma="чалабітная" Tag="NCIXNS5">
-        <Form Tag="FNS">чалабітная</Form>
-        <Form Tag="FGS">чалабітнай</Form>
-        <Form Tag="FDS">чалабітнай</Form>
-        <Form Tag="FAS">чалабітную</Form>
-        <Form Tag="FIS">чалабітнай</Form>
-        <Form Tag="FLS">чалабітнай</Form>
-        <Form Tag="XNP">чалабітныя</Form>
-        <Form Tag="XGP">чалабітных</Form>
-        <Form Tag="XDP">чалабітным</Form>
-        <Form Tag="XAP">чалабітныя</Form>
-        <Form Tag="XIP">чалабітнымі</Form>
-        <Form Tag="XLP">чалабітных</Form>
+    <Paradigm pdgId="1128163" Lemma="чалабі´тная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">чалабі´тная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">чалабі´тнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">чалабі´тнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">чалабі´тную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">чалабі´тнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">чалабі´тнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">чалабі´тнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">чалабі´тныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">чалабі´тных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">чалабі´тным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">чалабі´тныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">чалабі´тнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">чалабі´тных</Form>
     </Paradigm>
-    <Paradigm pdgId="1043728" Lemma="шампанскае" Tag="NCIXNS5" Govern="">
-        <Form Tag="NNS">шампанскае</Form>
-        <Form Tag="NGS">шампанскага</Form>
-        <Form Tag="NDS">шампанскаму</Form>
-        <Form Tag="NAS">шампанскае</Form>
-        <Form Tag="NIS">шампанскім</Form>
-        <Form Tag="NLS">шампанскім</Form>
-        <Form Tag="XNP">шампанскія</Form>
-        <Form Tag="XGP">шампанскіх</Form>
-        <Form Tag="XDP">шампанскім</Form>
-        <Form Tag="XAP">шампанскія</Form>
-        <Form Tag="XIP">шампанскімі</Form>
-        <Form Tag="XLP">шампанскіх</Form>
+    <Paradigm pdgId="1043728" Lemma="шампа´нскае" Tag="NCIXNS5" Govern="" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">шампанскія</Form>
+        <Form Tag="XGP" Type="nonstandard">шампанскіх</Form>
+        <Form Tag="XDP" Type="nonstandard">шампанскім</Form>
+        <Form Tag="XAP" Type="nonstandard">шампанскія</Form>
+        <Form Tag="XIP" Type="nonstandard">шампанскімі</Form>
+        <Form Tag="XLP" Type="nonstandard">шампанскіх</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">шампа´нскае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">шампа´нскага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">шампа´нскаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">шампа´нскае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">шампа´нскім</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">шампа´нскім</Form>
     </Paradigm>
-    <Paradigm pdgId="1128164" Lemma="шашлычная" Tag="NCIXNS5">
-        <Form Tag="FNS">шашлычная</Form>
-        <Form Tag="FGS">шашлычнай</Form>
-        <Form Tag="FDS">шашлычнай</Form>
-        <Form Tag="FAS">шашлычную</Form>
-        <Form Tag="FIS">шашлычнай</Form>
-        <Form Tag="FLS">шашлычнай</Form>
-        <Form Tag="XNP">шашлычныя</Form>
-        <Form Tag="XGP">шашлычных</Form>
-        <Form Tag="XDP">шашлычным</Form>
-        <Form Tag="XAP">шашлычныя</Form>
-        <Form Tag="XIP">шашлычнымі</Form>
-        <Form Tag="XLP">шашлычных</Form>
+    <Paradigm pdgId="1128164" Lemma="шашлы´чная" Tag="NCIXNS5">
+        <Form Tag="FNS" Slouniki="nazounik2008">шашлы´чная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">шашлы´чнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">шашлы´чнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">шашлы´чную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">шашлы´чнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">шашлы´чнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">шашлы´чнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">шашлы´чныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">шашлы´чных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">шашлы´чным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">шашлы´чныя</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">шашлы´чнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">шашлы´чных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128165" Lemma="шукаемае" Tag="NCIXNS5">
-        <Form Tag="NNS">шукаемае</Form>
-        <Form Tag="NGS">шукаемага</Form>
-        <Form Tag="NDS">шукаемаму</Form>
-        <Form Tag="NAS">шукаемае</Form>
-        <Form Tag="NIS">шукаемым</Form>
-        <Form Tag="NLS">шукаемым</Form>
-        <Form Tag="XNP">шукаемыя</Form>
-        <Form Tag="XGP">шукаемых</Form>
-        <Form Tag="XDP">шукаемым</Form>
-        <Form Tag="XAP">шукаемыя</Form>
-        <Form Tag="XIP">шукаемымі</Form>
-        <Form Tag="XLP">шукаемых</Form>
+    <Paradigm pdgId="1128165" Lemma="шука´емае" Tag="NCIXNS5" todo="праверыць адушаўлёнасьць">
+        <Form Tag="XNP" Type="nonstandard">шукаемыя</Form>
+        <Form Tag="XGP" Type="nonstandard">шукаемых</Form>
+        <Form Tag="XDP" Type="nonstandard">шукаемым</Form>
+        <Form Tag="XAP" Type="nonstandard">шукаемыя</Form>
+        <Form Tag="XIP" Type="nonstandard">шукаемымі</Form>
+        <Form Tag="XLP" Type="nonstandard">шукаемых</Form>
+        <Form Tag="NNS" Slouniki="nazounik2008">шука´емае</Form>
+        <Form Tag="NGS" Slouniki="nazounik2008">шука´емага</Form>
+        <Form Tag="NDS" Slouniki="nazounik2008">шука´емаму</Form>
+        <Form Tag="NAS" Slouniki="nazounik2008">шука´емае</Form>
+        <Form Tag="NIS" Slouniki="nazounik2008">шука´емым</Form>
+        <Form Tag="NLS" Slouniki="nazounik2008">шука´емым</Form>
     </Paradigm>
 </Wordlist>

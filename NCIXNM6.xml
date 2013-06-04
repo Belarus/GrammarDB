@@ -1,32 +1,42 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1027184" Lemma="бакштоў" Tag="NCIXNM6" Govern="">
-        <Form Tag="NS">бакштоў</Form>
-        <Form Tag="GS">бакштова</Form>
-        <Form Tag="DS">бакштову</Form>
-        <Form Tag="AS">бакштоў</Form>
-        <Form Tag="IS">бакштовым</Form>
-        <Form Tag="LS">бакштове</Form>
-        <Form Tag="NP">бакштовыя</Form>
-        <Form Tag="GP">бакштовых</Form>
-        <Form Tag="DP">бакштовым</Form>
-        <Form Tag="AP">бакштовыя</Form>
-        <Form Tag="IP">бакштовымі</Form>
-        <Form Tag="LP">бакштовых</Form>
+    <Paradigm pdgId="1027184" Lemma="бакшто´ў" Tag="NCIXNM6" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">бакшто´ў</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">бакшто´ва</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">бакшто´ву</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">бакшто´ў</Form>
+        <Form Tag="IS" Type="nonstandard">бакштовым</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">бакшто´вам</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">бакшто´ве</Form>
+        <Form Tag="NP" Type="nonstandard">бакштовыя</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">бакшто´вы</Form>
+        <Form Tag="GP" Type="nonstandard">бакштовых</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">бакшто´ваў</Form>
+        <Form Tag="DP" Type="nonstandard">бакштовым</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">бакшто´вам</Form>
+        <Form Tag="AP" Type="nonstandard">бакштовыя</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">бакшто´вы</Form>
+        <Form Tag="IP" Type="nonstandard">бакштовымі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">бакшто´вамі</Form>
+        <Form Tag="LP" Type="nonstandard">бакштовых</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">бакшто´вах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127804" Lemma="кабельтаў" Tag="NCIXNM6" Govern="">
-        <Form Tag="NS">кабельтаў</Form>
-        <Form Tag="GS">кабельтава</Form>
-        <Form Tag="DS">кабельтаву</Form>
-        <Form Tag="AS">кабельтаў</Form>
-        <Form Tag="IS">кабельтавым</Form>
-        <Form Tag="LS">кабельтаве</Form>
-        <Form Tag="NP">кабельтавыя</Form>
-        <Form Tag="GP">кабельтавых</Form>
-        <Form Tag="DP">кабельтавым</Form>
-        <Form Tag="AP">кабельтавыя</Form>
-        <Form Tag="IP">кабельтавымі</Form>
-        <Form Tag="LP">кабельтавых</Form>
+    <Paradigm pdgId="1127804" Lemma="ка´бельтаў" Tag="NCIXNM6" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">ка´бельтаў</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">ка´бельтава</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">ка´бельтаву</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">ка´бельтаў</Form>
+        <Form Tag="IS" Type="nonstandard">кабельтавым</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">ка´бельтавам</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">ка´бельтаве</Form>
+        <Form Tag="NP" Type="nonstandard">кабельтавыя</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">ка´бельтавы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ка´бельтавых</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ка´бельтавым</Form>
+        <Form Tag="AP" Type="nonstandard">кабельтавыя</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ка´бельтавы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ка´бельтавымі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ка´бельтавых</Form>
     </Paradigm>
     <Paradigm pdgId="1030437" Lemma="калашнікаў" Tag="NCIXNM6" Govern="">
         <Form Tag="NS">калашнікаў</Form>
@@ -42,18 +52,25 @@
         <Form Tag="IP">калашнікавымі</Form>
         <Form Tag="LP">калашнікавых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127805" Lemma="швартоў" Tag="NCIXNM6" Govern="">
-        <Form Tag="NS">швартоў</Form>
-        <Form Tag="GS">швартова</Form>
-        <Form Tag="DS">швартову</Form>
-        <Form Tag="AS">швартоў</Form>
-        <Form Tag="IS">швартовым</Form>
-        <Form Tag="LS">швартове</Form>
-        <Form Tag="NP">швартовыя</Form>
-        <Form Tag="GP">швартовых</Form>
-        <Form Tag="DP">швартовым</Form>
-        <Form Tag="AP">швартовыя</Form>
-        <Form Tag="IP">швартовымі</Form>
-        <Form Tag="LP">швартовых</Form>
+    <Paradigm pdgId="1127805" Lemma="шварто´ў" Tag="NCIXNM6" Govern="">
+        <Form Tag="NS" Slouniki="nazounik2008">шварто´ў</Form>
+        <Form Tag="GS" Slouniki="nazounik2008">шварто´ва</Form>
+        <Form Tag="DS" Slouniki="nazounik2008">шварто´ву</Form>
+        <Form Tag="AS" Slouniki="nazounik2008">шварто´ў</Form>
+        <Form Tag="IS" Type="nonstandard">швартовым</Form>
+        <Form Tag="IS" Slouniki="nazounik2008">шварто´вам</Form>
+        <Form Tag="LS" Slouniki="nazounik2008">шварто´ве</Form>
+        <Form Tag="NP" Type="nonstandard">швартовыя</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">шварто´вы</Form>
+        <Form Tag="GP" Type="nonstandard">швартовых</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">шварто´ваў</Form>
+        <Form Tag="DP" Type="nonstandard">швартовым</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">шварто´вам</Form>
+        <Form Tag="AP" Type="nonstandard">швартовыя</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">шварто´вы</Form>
+        <Form Tag="IP" Type="nonstandard">швартовымі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">шварто´вамі</Form>
+        <Form Tag="LP" Type="nonstandard">швартовых</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">шварто´вах</Form>
     </Paradigm>
 </Wordlist>

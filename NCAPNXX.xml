@@ -1,68 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1138777" Lemma="бацькі" Tag="NCAPNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
-        <Form Tag="NP">бацькі</Form>
-        <Form Tag="GP">бацькоў</Form>
-        <Form Tag="DP">бацькам</Form>
-        <Form Tag="AP">бацькоў</Form>
-        <Form Tag="IP">бацькамі</Form>
-        <Form Tag="LP">бацьках</Form>
+    <Paradigm pdgId="1138777" Lemma="бацькі´" Tag="NCAPNXX">
+        <Form Tag="NP" Slouniki="nazounik2008">бацькі´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">бацько´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">бацька´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">бацько´ў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">бацька´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">бацька´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127151" Lemma="інкі" Tag="NCAPNXX" Govern="">
-        <Form Tag="NP">інкі</Form>
-        <Form Tag="GP">інкаў</Form>
-        <Form Tag="DP">інкам</Form>
-        <Form Tag="AP">інкі</Form>
-        <Form Tag="IP">інкамі</Form>
-        <Form Tag="LP">інках</Form>
+    <Paradigm pdgId="1127151" Lemma="і´нкі" Tag="NCAPNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">і´нкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">і´нкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">і´нкам</Form>
+        <Form Tag="AP" Type="nonstandard">інкі</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">і´нкаў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">і´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">і´нках</Form>
     </Paradigm>
-    <Paradigm pdgId="1160150" Lemma="людзі" Tag="NCAPNXX" Govern="">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
-        <Form Tag="NP">людзі</Form>
-        <Form Tag="GP">людзей</Form>
-        <Form Tag="DP">людзям</Form>
-        <Form Tag="AP">людзей</Form>
-        <Form Tag="IP">людзьмі</Form>
-        <Form Tag="LP">людзях</Form>
+    <Paradigm pdgId="1160150" Lemma="лю´дзі" Tag="NCAPNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">лю´дзі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">людзе´й</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">лю´дзям</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">людзя´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">людзе´й</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">людзьмі´</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">лю´дзях</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">людзя´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1132908" Lemma="паляне" Tag="NCAPNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
-        <Form Tag="NP">паляне</Form>
-        <Form Tag="GP">палян</Form>
-        <Form Tag="DP">палянам</Form>
-        <Form Tag="AP">палян</Form>
-        <Form Tag="IP">палянамі</Form>
-        <Form Tag="LP">палянах</Form>
+    <Paradigm pdgId="1132908" Lemma="паля´не" Tag="NCAPNXX">
+        <Form Tag="NP" Slouniki="nazounik2008">паля´не</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">паля´н</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">паля´нам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">паля´н</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">паля´намі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">паля´нах</Form>
     </Paradigm>
     <Paradigm pdgId="1145612" Lemma="паляне" Tag="NCAPNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
         <Form Tag="NP">паляне</Form>
         <Form Tag="GP">палян</Form>
         <Form Tag="GP">палянаў</Form>

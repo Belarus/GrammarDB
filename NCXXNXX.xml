@@ -1,53 +1,54 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127153" Lemma="аб'едкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">аб'едкі</Form>
-        <Form Tag="GP">аб'едкаў</Form>
-        <Form Tag="DP">аб'едкам</Form>
-        <Form Tag="AP">аб'едкі</Form>
-        <Form Tag="IP">аб'едкамі</Form>
-        <Form Tag="LP">аб'едках</Form>
+    <Paradigm pdgId="1127153" Lemma="аб'е´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">аб'е´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">аб'е´дкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">аб'е´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">аб'е´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">аб'е´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">аб'е´дках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127155" Lemma="абдымкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">абдымкі</Form>
-        <Form Tag="GP">абдымкаў</Form>
-        <Form Tag="DP">абдымкам</Form>
-        <Form Tag="AP">абдымкі</Form>
-        <Form Tag="IP">абдымкамі</Form>
-        <Form Tag="LP">абдымках</Form>
+    <Paradigm pdgId="1127155" Lemma="абды´мкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">абды´мкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">абды´мкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">абды´мкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">абды´мкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">абды´мкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">абды´мках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127154" Lemma="абіркі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">абіркі</Form>
-        <Form Tag="GP">абіркаў</Form>
-        <Form Tag="DP">абіркам</Form>
-        <Form Tag="AP">абіркі</Form>
-        <Form Tag="IP">абіркамі</Form>
-        <Form Tag="LP">абірках</Form>
+    <Paradigm pdgId="1127154" Lemma="абі´ркі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">абі´ркі</Form>
+        <Form Tag="GP" Type="nonstandard">абіркаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">абі´рак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">абі´ркам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">абі´ркі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">абі´ркамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">абі´рках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127156" Lemma="абоймы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">абоймы</Form>
-        <Form Tag="GP">абоймаў</Form>
-        <Form Tag="DP">абоймам</Form>
-        <Form Tag="AP">абоймы</Form>
-        <Form Tag="IP">абоймамі</Form>
-        <Form Tag="LP">абоймах</Form>
+    <Paradigm pdgId="1127156" Lemma="або´ймы" Tag="NCXXNXX" Govern="" meaning="абрамленне; акружэнне">
+        <Form Tag="NP" Slouniki="nazounik2008">або´ймы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">або´ймаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">або´ймам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">або´ймы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">або´ймамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">або´ймах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127157" Lemma="абставіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">абставіны</Form>
-        <Form Tag="GP">абставін</Form>
-        <Form Tag="GP">абставінаў</Form>
-        <Form Tag="DP">абставінам</Form>
-        <Form Tag="AP">абставіны</Form>
-        <Form Tag="IP">абставінамі</Form>
-        <Form Tag="LP">абставінах</Form>
+    <Paradigm pdgId="1127157" Lemma="абста´віны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">абста´віны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">абста´він</Form>
+        <Form Tag="GP" Type="nonstandard">абставінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">абста´вінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">абста´віны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">абста´вінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">абста´вінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127158" Lemma="абцугі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">абцугі</Form>
-        <Form Tag="GP">абцугоў</Form>
-        <Form Tag="DP">абцугам</Form>
-        <Form Tag="AP">абцугі</Form>
-        <Form Tag="IP">абцугамі</Form>
-        <Form Tag="LP">абцугах</Form>
+    <Paradigm pdgId="1127158" Lemma="абцугі´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">абцугі´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">абцуго´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">абцуга´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">абцугі´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">абцуга´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">абцуга´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127159" Lemma="абштрыхі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">абштрыхі</Form>
@@ -73,77 +74,80 @@
         <Form Tag="IP">агаткамі</Form>
         <Form Tag="LP">агатках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127162" Lemma="агледзіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">агледзіны</Form>
-        <Form Tag="GP">агледзінаў</Form>
-        <Form Tag="DP">агледзінам</Form>
-        <Form Tag="AP">агледзіны</Form>
-        <Form Tag="IP">агледзінамі</Form>
-        <Form Tag="LP">агледзінах</Form>
+    <Paradigm pdgId="1127162" Lemma="агле´дзіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">агле´дзіны</Form>
+        <Form Tag="GP" Type="nonstandard">агледзінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">агле´дзін</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">агле´дзінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">агле´дзіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">агле´дзінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">агле´дзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127163" Lemma="адведкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">адведкі</Form>
-        <Form Tag="GP">адведак</Form>
-        <Form Tag="DP">адведкам</Form>
-        <Form Tag="AP">адведкі</Form>
-        <Form Tag="IP">адведкамі</Form>
-        <Form Tag="LP">адведках</Form>
+    <Paradigm pdgId="1127163" Lemma="адве´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">адве´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">адве´дак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">адве´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">адве´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">адве´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">адве´дках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127164" Lemma="адкіды" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">адкіды</Form>
-        <Form Tag="GP">адкідаў</Form>
-        <Form Tag="DP">адкідам</Form>
-        <Form Tag="AP">адкіды</Form>
-        <Form Tag="IP">адкідамі</Form>
-        <Form Tag="LP">адкідах</Form>
+    <Paradigm pdgId="1127164" Lemma="адкі´ды" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">адкі´ды</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">адкі´даў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">адкі´дам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">адкі´ды</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">адкі´дамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">адкі´дах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127165" Lemma="адносіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">адносіны</Form>
-        <Form Tag="GP">адносінаў</Form>
-        <Form Tag="DP">адносінам</Form>
-        <Form Tag="AP">адносіны</Form>
-        <Form Tag="IP">адносінамі</Form>
-        <Form Tag="LP">адносінах</Form>
+    <Paradigm pdgId="1127165" Lemma="адно´сіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">адно´сіны</Form>
+        <Form Tag="GP" Type="nonstandard">адносінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">адно´сін</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">адно´сінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">адно´сіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">адно´сінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">адно´сінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127392" Lemma="аліменты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">аліменты</Form>
-        <Form Tag="GP">аліментаў</Form>
-        <Form Tag="DP">аліментам</Form>
-        <Form Tag="AP">аліментаў</Form>
-        <Form Tag="IP">аліментамі</Form>
-        <Form Tag="LP">аліментах</Form>
+    <Paradigm pdgId="1127392" Lemma="аліме´нты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">аліме´нты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">аліме´нтаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">аліме´нтам</Form>
+        <Form Tag="AP" Type="nonstandard">аліментаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">аліме´нты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">аліме´нтамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">аліме´нтах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127166" Lemma="аналы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">аналы</Form>
-        <Form Tag="GP">аналаў</Form>
-        <Form Tag="DP">аналам</Form>
-        <Form Tag="AP">аналы</Form>
-        <Form Tag="IP">аналамі</Form>
-        <Form Tag="LP">аналах</Form>
+    <Paradigm pdgId="1127166" Lemma="ана´лы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ана´лы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ана´лаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ана´лам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ана´лы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ана´ламі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ана´лах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127167" Lemma="ападкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ападкі</Form>
-        <Form Tag="GP">ападкаў</Form>
-        <Form Tag="DP">ападкам</Form>
-        <Form Tag="AP">ападкі</Form>
-        <Form Tag="IP">ападкамі</Form>
-        <Form Tag="LP">ападках</Form>
+    <Paradigm pdgId="1127167" Lemma="апа´дкі" Tag="NCXXNXX" Govern="" meaning="атмасферная вільгаць">
+        <Form Tag="NP" Slouniki="nazounik2008">апа´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">апа´дкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">апа´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">апа´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">апа´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">апа´дках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127168" Lemma="апладысменты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">апладысменты</Form>
-        <Form Tag="GP">апладысментаў</Form>
-        <Form Tag="DP">апладысментам</Form>
-        <Form Tag="AP">апладысменты</Form>
-        <Form Tag="IP">апладысментамі</Form>
-        <Form Tag="LP">апладысментах</Form>
+    <Paradigm pdgId="1127168" Lemma="апладысме´нты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">апладысме´нты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">апладысме´нтаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">апладысме´нтам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">апладысме´нты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">апладысме´нтамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">апладысме´нтах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127169" Lemma="арэлі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">арэлі</Form>
-        <Form Tag="GP">арэляў</Form>
-        <Form Tag="DP">арэлям</Form>
-        <Form Tag="AP">арэлі</Form>
-        <Form Tag="IP">арэлямі</Form>
-        <Form Tag="LP">арэлях</Form>
+    <Paradigm pdgId="1127169" Lemma="арэ´лі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">арэ´лі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">арэ´ляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">арэ´лям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">арэ´лі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">арэ´лямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">арэ´лях</Form>
     </Paradigm>
     <Paradigm pdgId="1127170" Lemma="атопкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">атопкі</Form>
@@ -193,13 +197,14 @@
         <Form Tag="IP">блізнятамі</Form>
         <Form Tag="LP">блізнятах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127393" Lemma="боепрыпасы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">боепрыпасы</Form>
-        <Form Tag="GP">боепрыпасаў</Form>
-        <Form Tag="DP">боепрыпасам</Form>
-        <Form Tag="AP">боепрыпасаў</Form>
-        <Form Tag="IP">боепрыпасамі</Form>
-        <Form Tag="LP">боепрыпасах</Form>
+    <Paradigm pdgId="1127393" Lemma="боепрыпа´сы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">боепрыпа´сы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">боепрыпа´саў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">боепрыпа´сам</Form>
+        <Form Tag="AP" Type="nonstandard">боепрыпасаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">боепрыпа´сы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">боепрыпа´самі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">боепрыпа´сах</Form>
     </Paradigm>
     <Paradigm pdgId="1127174" Lemma="бровы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">бровы</Form>
@@ -209,21 +214,22 @@
         <Form Tag="IP">бровамі</Form>
         <Form Tag="LP">бровах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127175" Lemma="буякі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">буякі</Form>
-        <Form Tag="GP">буякоў</Form>
-        <Form Tag="DP">буякам</Form>
-        <Form Tag="AP">буякі</Form>
-        <Form Tag="IP">буякамі</Form>
-        <Form Tag="LP">буяках</Form>
+    <Paradigm pdgId="1127175" Lemma="буякі´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">буякі´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">буяко´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">буяка´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">буякі´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">буяка´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">буяка´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127176" Lemma="бялілы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">бялілы</Form>
-        <Form Tag="GP">бялілаў</Form>
-        <Form Tag="DP">бялілам</Form>
-        <Form Tag="AP">бялілы</Form>
-        <Form Tag="IP">бяліламі</Form>
-        <Form Tag="LP">бялілах</Form>
+    <Paradigm pdgId="1127176" Lemma="бялі´лы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">бялі´лы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">бялі´лаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">бялі´л</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">бялі´лам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">бялі´лы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">бялі´ламі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">бялі´лах</Form>
     </Paradigm>
     <Paradigm pdgId="1127179" Lemma="вагонасуткі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">вагонасуткі</Form>
@@ -233,29 +239,30 @@
         <Form Tag="IP">вагонасуткамі</Form>
         <Form Tag="LP">вагонасутках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127180" Lemma="вакацыі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вакацыі</Form>
-        <Form Tag="GP">вакацыяў</Form>
-        <Form Tag="DP">вакацыям</Form>
-        <Form Tag="AP">вакацыі</Form>
-        <Form Tag="IP">вакацыямі</Form>
-        <Form Tag="LP">вакацыях</Form>
+    <Paradigm pdgId="1127180" Lemma="вака´цыі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">вака´цыі</Form>
+        <Form Tag="GP" Type="nonstandard">вакацыяў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">вака´цый</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">вака´цыям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">вака´цыі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">вака´цыямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">вака´цыях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127181" Lemma="ваніты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ваніты</Form>
-        <Form Tag="GP">ванітаў</Form>
-        <Form Tag="DP">ванітам</Form>
-        <Form Tag="AP">ваніты</Form>
-        <Form Tag="IP">ванітамі</Form>
-        <Form Tag="LP">ванітах</Form>
+    <Paradigm pdgId="1127181" Lemma="вані´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">вані´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">вані´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">вані´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">вані´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">вані´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">вані´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127182" Lemma="вантробы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вантробы</Form>
-        <Form Tag="GP">вантробаў</Form>
-        <Form Tag="DP">вантробам</Form>
-        <Form Tag="AP">вантробы</Form>
-        <Form Tag="IP">вантробамі</Form>
-        <Form Tag="LP">вантробах</Form>
+    <Paradigm pdgId="1127182" Lemma="вантро´бы" Tag="NCXXNXX" Govern="" meaning="унутраныя органы">
+        <Form Tag="NP" Slouniki="nazounik2008">вантро´бы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">вантро´баў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">вантро´бам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">вантро´бы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">вантро´бамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">вантро´бах</Form>
     </Paradigm>
     <Paradigm pdgId="1127183" Lemma="ванты" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">ванты</Form>
@@ -273,14 +280,14 @@
         <Form Tag="IP">варожкамі</Form>
         <Form Tag="LP">варожках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127185" Lemma="вароты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вароты</Form>
-        <Form Tag="GP">варот</Form>
-        <Form Tag="GP">варотаў</Form>
-        <Form Tag="DP">варотам</Form>
-        <Form Tag="AP">вароты</Form>
-        <Form Tag="IP">варотамі</Form>
-        <Form Tag="LP">варотах</Form>
+    <Paradigm pdgId="1127185" Lemma="варо´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">варо´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">варо´т</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">варо´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">варо´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">варо´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">варо´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">варо´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1127186" Lemma="варункі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">варункі</Form>
@@ -290,45 +297,49 @@
         <Form Tag="IP">варункамі</Form>
         <Form Tag="LP">варунках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127187" Lemma="вачаняты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вачаняты</Form>
-        <Form Tag="GP">вачанятаў</Form>
-        <Form Tag="DP">вачанятам</Form>
-        <Form Tag="AP">вачаняты</Form>
-        <Form Tag="IP">вачанятамі</Form>
-        <Form Tag="LP">вачанятах</Form>
+    <Paradigm pdgId="1127187" Lemma="вачаня´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">вачаня´ты</Form>
+        <Form Tag="GP" Type="nonstandard">вачанятаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">вачаня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">вачаня´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">вачаня´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">вачаня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">вачаня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127188" Lemma="веды" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">веды</Form>
-        <Form Tag="GP">ведаў</Form>
-        <Form Tag="DP">ведам</Form>
-        <Form Tag="AP">веды</Form>
-        <Form Tag="IP">ведамі</Form>
-        <Form Tag="LP">ведах</Form>
+    <Paradigm pdgId="1127188" Lemma="ве´ды" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ве´ды</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ве´даў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ве´дам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ве´ды</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ве´дамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ве´дах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127189" Lemma="весніцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">весніцы</Form>
-        <Form Tag="GP">весніцаў</Form>
-        <Form Tag="DP">весніцам</Form>
-        <Form Tag="AP">весніцы</Form>
-        <Form Tag="IP">весніцамі</Form>
-        <Form Tag="LP">весніцах</Form>
+    <Paradigm pdgId="1127189" Lemma="ве´сніцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ве´сніцы</Form>
+        <Form Tag="GP" Type="nonstandard">весніцаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ве´сніц</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ве´сніцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ве´сніцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ве´сніцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ве´сніцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127190" Lemma="веснічкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">веснічкі</Form>
-        <Form Tag="GP">веснічкаў</Form>
-        <Form Tag="DP">веснічкам</Form>
-        <Form Tag="AP">веснічкі</Form>
-        <Form Tag="IP">веснічкамі</Form>
-        <Form Tag="LP">веснічках</Form>
+    <Paradigm pdgId="1127190" Lemma="ве´снічкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ве´снічкі</Form>
+        <Form Tag="GP" Type="nonstandard">веснічкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ве´снічак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ве´снічкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ве´снічкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ве´снічкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ве´снічках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127178" Lemma="вілы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вілы</Form>
-        <Form Tag="GP">вілаў</Form>
-        <Form Tag="DP">вілам</Form>
-        <Form Tag="AP">вілы</Form>
-        <Form Tag="IP">віламі</Form>
-        <Form Tag="LP">вілах</Form>
+    <Paradigm pdgId="1127178" Lemma="ві´лы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ві´лы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ві´лаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ві´л</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ві´лам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ві´лы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ві´ламі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ві´лах</Form>
     </Paradigm>
     <Paradigm pdgId="1127191" Lemma="ворлікі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">ворлікі</Form>
@@ -338,21 +349,21 @@
         <Form Tag="IP">ворлікамі</Form>
         <Form Tag="LP">ворліках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127192" Lemma="восці" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">восці</Form>
-        <Form Tag="GP">восцяў</Form>
-        <Form Tag="DP">восцям</Form>
-        <Form Tag="AP">восці</Form>
-        <Form Tag="IP">восцямі</Form>
-        <Form Tag="LP">восцях</Form>
+    <Paradigm pdgId="1127192" Lemma="во´сці" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">во´сці</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">во´сцяў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">во´сцям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">во´сці</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">во´сцямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">во´сцях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127193" Lemma="вусны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вусны</Form>
-        <Form Tag="GP">вуснаў</Form>
-        <Form Tag="DP">вуснам</Form>
-        <Form Tag="AP">вусны</Form>
-        <Form Tag="IP">вуснамі</Form>
-        <Form Tag="LP">вуснах</Form>
+    <Paradigm pdgId="1127193" Lemma="ву´сны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ву´сны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ву´снаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ву´снам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ву´сны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ву´снамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ву´снах</Form>
     </Paradigm>
     <Paradigm pdgId="1127194" Lemma="выводзіны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">выводзіны</Form>
@@ -362,13 +373,13 @@
         <Form Tag="IP">выводзінамі</Form>
         <Form Tag="LP">выводзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127195" Lemma="вымудры" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">вымудры</Form>
-        <Form Tag="GP">вымудраў</Form>
-        <Form Tag="DP">вымудрам</Form>
-        <Form Tag="AP">вымудры</Form>
-        <Form Tag="IP">вымудрамі</Form>
-        <Form Tag="LP">вымудрах</Form>
+    <Paradigm pdgId="1127195" Lemma="вы´мудры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">вы´мудры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">вы´мудраў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">вы´мудрам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">вы´мудры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">вы´мудрамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">вы´мудрах</Form>
     </Paradigm>
     <Paradigm pdgId="1127196" Lemma="гадзінічкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">гадзінічкі</Form>
@@ -394,13 +405,14 @@
         <Form Tag="IP">гетрамі</Form>
         <Form Tag="LP">гетрах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127199" Lemma="граблі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">граблі</Form>
-        <Form Tag="GP">грабляў</Form>
-        <Form Tag="DP">граблям</Form>
-        <Form Tag="AP">граблі</Form>
-        <Form Tag="IP">граблямі</Form>
-        <Form Tag="LP">граблях</Form>
+    <Paradigm pdgId="1127199" Lemma="гра´блі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">гра´блі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">гра´бляў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">грабе´ль</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">гра´блям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гра´блі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">гра´блямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">гра´блях</Form>
     </Paradigm>
     <Paradigm pdgId="1127200" Lemma="грамніцы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">грамніцы</Form>
@@ -418,54 +430,57 @@
         <Form Tag="IP">грашанятамі</Form>
         <Form Tag="LP">грашанятах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127202" Lemma="грошы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">грошы</Form>
-        <Form Tag="GP">грошай</Form>
-        <Form Tag="DP">грашам</Form>
-        <Form Tag="AP">грошы</Form>
-        <Form Tag="IP">грашыма</Form>
-        <Form Tag="LP">грашах</Form>
+    <Paradigm pdgId="1127202" Lemma="гро´шы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">гро´шы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">гро´шай</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">граша´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гро´шы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">грашы´ма</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">граша´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">граша´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127203" Lemma="грошыкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">грошыкі</Form>
-        <Form Tag="GP">грошыкаў</Form>
-        <Form Tag="DP">грошыкам</Form>
-        <Form Tag="AP">грошыкі</Form>
-        <Form Tag="IP">грошыкамі</Form>
-        <Form Tag="LP">грошыках</Form>
+    <Paradigm pdgId="1127203" Lemma="гро´шыкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">гро´шыкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">гро´шыкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">гро´шыкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гро´шыкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">гро´шыкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">гро´шыках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127204" Lemma="грудзі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">грудзі</Form>
-        <Form Tag="GP">грудзей</Form>
-        <Form Tag="DP">грудзям</Form>
-        <Form Tag="AP">грудзей</Form>
-        <Form Tag="IP">грудзьмі</Form>
-        <Form Tag="LP">грудзях</Form>
+    <Paradigm pdgId="1127204" Lemma="гру´дзі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">гру´дзі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">грудзе´й</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">грудзя´м</Form>
+        <Form Tag="AP" Type="nonstandard">грудзей</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гру´дзі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">грудзьмі´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">грудзя´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">грудзя´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127205" Lemma="грымзолі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">грымзолі</Form>
-        <Form Tag="GP">грымзоляў</Form>
-        <Form Tag="DP">грымзолям</Form>
-        <Form Tag="AP">грымзолі</Form>
-        <Form Tag="IP">грымзолямі</Form>
-        <Form Tag="LP">грымзолях</Form>
+    <Paradigm pdgId="1127205" Lemma="грымзо´лі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">грымзо´лі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">грымзо´ляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">грымзо´лям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">грымзо´лі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">грымзо´лямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">грымзо´лях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127206" Lemma="гуслі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">гуслі</Form>
-        <Form Tag="GP">гусляў</Form>
-        <Form Tag="DP">гуслям</Form>
-        <Form Tag="AP">гуслі</Form>
-        <Form Tag="IP">гуслямі</Form>
-        <Form Tag="LP">гуслях</Form>
+    <Paradigm pdgId="1127206" Lemma="гу´слі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">гу´слі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">гу´сляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">гу´слям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">гу´слі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">гу´слямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">гу´слях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127207" Lemma="даброты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">даброты</Form>
-        <Form Tag="GP">даброт</Form>
-        <Form Tag="GP">дабротаў</Form>
-        <Form Tag="DP">дабротам</Form>
-        <Form Tag="AP">даброты</Form>
-        <Form Tag="IP">дабротамі</Form>
-        <Form Tag="LP">дабротах</Form>
+    <Paradigm pdgId="1127207" Lemma="дабро´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дабро´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дабро´т</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дабро´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дабро´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дабро´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дабро´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дабро´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1127208" Lemma="даганялкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">даганялкі</Form>
@@ -475,137 +490,149 @@
         <Form Tag="IP">даганялкамі</Form>
         <Form Tag="LP">даганялках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127209" Lemma="дажынкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дажынкі</Form>
-        <Form Tag="GP">дажынкаў</Form>
-        <Form Tag="DP">дажынкам</Form>
-        <Form Tag="AP">дажынкі</Form>
-        <Form Tag="IP">дажынкамі</Form>
-        <Form Tag="LP">дажынках</Form>
+    <Paradigm pdgId="1127209" Lemma="дажы´нкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дажы´нкі</Form>
+        <Form Tag="GP" Type="nonstandard">дажынкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дажы´нак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дажы´нкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дажы´нкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дажы´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дажы´нках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127210" Lemma="дасеўкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дасеўкі</Form>
-        <Form Tag="GP">дасеўкаў</Form>
-        <Form Tag="DP">дасеўкам</Form>
-        <Form Tag="AP">дасеўкі</Form>
-        <Form Tag="IP">дасеўкамі</Form>
-        <Form Tag="LP">дасеўках</Form>
+    <Paradigm pdgId="1127210" Lemma="дасе´ўкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дасе´ўкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дасе´ўкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дасе´вак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дасе´ўкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дасе´ўкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дасе´ўкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дасе´ўках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127211" Lemma="двайняты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">двайняты</Form>
-        <Form Tag="GP">двайнятаў</Form>
-        <Form Tag="DP">двайнятам</Form>
-        <Form Tag="AP">двайнятаў</Form>
-        <Form Tag="IP">двайнятамі</Form>
-        <Form Tag="LP">двайнятах</Form>
+    <Paradigm pdgId="1127211" Lemma="двайня´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">двайня´ты</Form>
+        <Form Tag="GP" Type="nonstandard">двайнятаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">двайня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">двайня´там</Form>
+        <Form Tag="AP" Type="nonstandard">двайнятаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">двайня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">двайня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">двайня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127212" Lemma="джунглі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">джунглі</Form>
-        <Form Tag="GP">джунгляў</Form>
-        <Form Tag="DP">джунглям</Form>
-        <Form Tag="AP">джунглі</Form>
-        <Form Tag="IP">джунглямі</Form>
-        <Form Tag="LP">джунглях</Form>
+    <Paradigm pdgId="1127212" Lemma="джу´нглі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">джу´нглі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">джу´нгляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">джу´нглям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">джу´нглі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">джу´нглямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">джу´нглях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127213" Lemma="джынсы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">джынсы</Form>
-        <Form Tag="GP">джынсаў</Form>
-        <Form Tag="DP">джынсам</Form>
-        <Form Tag="AP">джынсы</Form>
-        <Form Tag="IP">джынсамі</Form>
-        <Form Tag="LP">джынсах</Form>
+    <Paradigm pdgId="1127213" Lemma="джы´нсы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">джы´нсы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">джы´нсаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">джы´нсам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">джы´нсы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">джы´нсамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">джы´нсах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127216" Lemma="дзверцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дзверцы</Form>
-        <Form Tag="GP">дзверцаў</Form>
-        <Form Tag="DP">дзверцам</Form>
-        <Form Tag="AP">дзверцы</Form>
-        <Form Tag="IP">дзверцамі</Form>
-        <Form Tag="LP">дзверцах</Form>
+    <Paradigm pdgId="1127216" Lemma="дзве´рцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дзве´рцы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзве´рцаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзве´рцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзве´рцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзве´рцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзве´рцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127217" Lemma="дзверы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дзверы</Form>
-        <Form Tag="GP">дзвярэй</Form>
-        <Form Tag="DP">дзвярам</Form>
-        <Form Tag="AP">дзверы</Form>
-        <Form Tag="IP">дзвярамі</Form>
-        <Form Tag="LP">дзвярах</Form>
+    <Paradigm pdgId="1127217" Lemma="дзве´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дзве´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзвярэ´й</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзвяра´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзве´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзвяра´мі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзвяры´ма</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзвярмі´</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзвяра´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127214" Lemma="дзівосы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дзівосы</Form>
-        <Form Tag="GP">дзівосаў</Form>
-        <Form Tag="DP">дзівосам</Form>
-        <Form Tag="AP">дзівосы</Form>
-        <Form Tag="IP">дзівосамі</Form>
-        <Form Tag="LP">дзівосах</Form>
+    <Paradigm pdgId="1127214" Lemma="дзіво´сы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дзіво´сы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіво´саў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіво´с</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзіво´сам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзіво´сы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзіво´самі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзіво´сах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127215" Lemma="дзівоты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дзівоты</Form>
-        <Form Tag="GP">дзівотаў</Form>
-        <Form Tag="DP">дзівотам</Form>
-        <Form Tag="AP">дзівоты</Form>
-        <Form Tag="IP">дзівотамі</Form>
-        <Form Tag="LP">дзівотах</Form>
+    <Paradigm pdgId="1127215" Lemma="дзіво´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дзіво´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіво´таў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дзіво´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дзіво´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дзіво´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дзіво´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дзіво´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127218" Lemma="драбы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">драбы</Form>
-        <Form Tag="GP">драбаў</Form>
-        <Form Tag="DP">драбам</Form>
-        <Form Tag="AP">драбы</Form>
-        <Form Tag="IP">драбамі</Form>
-        <Form Tag="LP">драбах</Form>
+    <Paradigm pdgId="1127218" Lemma="дра´бы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дра´бы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дра´баў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дра´б</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дра´бам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дра´бы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дра´бамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дра´бах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127220" Lemma="дровы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дровы</Form>
-        <Form Tag="GP">дроў</Form>
-        <Form Tag="DP">дровам</Form>
-        <Form Tag="AP">дровы</Form>
-        <Form Tag="IP">дровамі</Form>
-        <Form Tag="LP">дровах</Form>
+    <Paradigm pdgId="1127220" Lemma="дро´вы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дро´вы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дроў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дро´вам</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дрыва´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дро´вы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дро´вамі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дрыва´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дро´вах</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дрыва´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127221" Lemma="дрожджы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дрожджы</Form>
-        <Form Tag="GP">дражджэй</Form>
+    <Paradigm pdgId="1127221" Lemma="дро´жджы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дро´жджы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дражджэ´й</Form>
         <Form Tag="GP" Type="nonstandard">дрожджаў</Form>
-        <Form Tag="DP">дражджам</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дражджа´м</Form>
         <Form Tag="DP" Type="nonstandard">дрожджам</Form>
-        <Form Tag="AP">дрожджы</Form>
-        <Form Tag="IP">дражджамі</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дро´жджы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дражджа´мі</Form>
         <Form Tag="IP" Type="nonstandard">дрожджамі</Form>
-        <Form Tag="LP">дражджах</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дражджа´х</Form>
         <Form Tag="LP" Type="nonstandard">дрожджах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127219" Lemma="дроўцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дроўцы</Form>
-        <Form Tag="GP">дроўцаў</Form>
-        <Form Tag="DP">дроўцам</Form>
-        <Form Tag="AP">дроўцы</Form>
-        <Form Tag="IP">дроўцамі</Form>
-        <Form Tag="LP">дроўцах</Form>
+    <Paradigm pdgId="1127219" Lemma="дро´ўцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дро´ўцы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дро´ўцаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дро´ўцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дро´ўцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дро´ўцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дро´ўцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127222" Lemma="дрыжыкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дрыжыкі</Form>
-        <Form Tag="GP">дрыжыкаў</Form>
-        <Form Tag="DP">дрыжыкам</Form>
-        <Form Tag="AP">дрыжыкі</Form>
-        <Form Tag="IP">дрыжыкамі</Form>
-        <Form Tag="LP">дрыжыках</Form>
+    <Paradigm pdgId="1127222" Lemma="дры´жыкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дры´жыкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дры´жыкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дры´жыкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дры´жыкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дры´жыкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дры´жыках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127223" Lemma="дурыкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дурыкі</Form>
-        <Form Tag="GP">дурыкаў</Form>
-        <Form Tag="DP">дурыкам</Form>
-        <Form Tag="AP">дурыкі</Form>
-        <Form Tag="IP">дурыкамі</Form>
-        <Form Tag="LP">дурыках</Form>
+    <Paradigm pdgId="1127223" Lemma="ду´рыкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ду´рыкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ду´рыкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ду´рыкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ду´рыкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ду´рыкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ду´рыках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127224" Lemma="дэбаты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">дэбаты</Form>
-        <Form Tag="GP">дэбатаў</Form>
-        <Form Tag="DP">дэбатам</Form>
-        <Form Tag="AP">дэбаты</Form>
-        <Form Tag="IP">дэбатамі</Form>
-        <Form Tag="LP">дэбатах</Form>
+    <Paradigm pdgId="1127224" Lemma="дэба´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">дэба´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">дэба´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">дэба´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">дэба´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">дэба´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">дэба´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1127225" Lemma="еўрагрошы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">еўрагрошы</Form>
@@ -623,37 +650,39 @@
         <Form Tag="IP">жабрамі</Form>
         <Form Tag="LP">жабрах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127227" Lemma="жадункі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">жадункі</Form>
-        <Form Tag="GP">жадункаў</Form>
-        <Form Tag="DP">жадункам</Form>
-        <Form Tag="AP">жадункі</Form>
-        <Form Tag="IP">жадункамі</Form>
-        <Form Tag="LP">жадунках</Form>
+    <Paradigm pdgId="1127227" Lemma="жаду´нкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">жаду´нкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">жаду´нкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">жаду´нкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">жаду´нкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">жаду´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">жаду´нках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127228" Lemma="жамерыны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">жамерыны</Form>
-        <Form Tag="GP">жамерынаў</Form>
-        <Form Tag="DP">жамерынам</Form>
-        <Form Tag="AP">жамерыны</Form>
-        <Form Tag="IP">жамерынамі</Form>
-        <Form Tag="LP">жамерынах</Form>
+    <Paradigm pdgId="1127228" Lemma="жаме´рыны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">жаме´рыны</Form>
+        <Form Tag="GP" Type="nonstandard">жамерынаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">жаме´рын</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">жаме´рынам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">жаме´рыны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">жаме´рынамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">жаме´рынах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127229" Lemma="жартачкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">жартачкі</Form>
-        <Form Tag="GP">жартачкаў</Form>
-        <Form Tag="DP">жартачкам</Form>
-        <Form Tag="AP">жартачкі</Form>
-        <Form Tag="IP">жартачкамі</Form>
-        <Form Tag="LP">жартачках</Form>
+    <Paradigm pdgId="1127229" Lemma="жа´ртачкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">жа´ртачкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">жа´ртачкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">жа´ртачак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">жа´ртачкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">жа´ртачкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">жа´ртачкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">жа´ртачках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127230" Lemma="жорны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">жорны</Form>
-        <Form Tag="GP">жорнаў</Form>
-        <Form Tag="DP">жорнам</Form>
-        <Form Tag="AP">жорны</Form>
-        <Form Tag="IP">жорнамі</Form>
-        <Form Tag="LP">жорнах</Form>
+    <Paradigm pdgId="1127230" Lemma="жо´рны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">жо´рны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">жо´рнаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">жо´рнам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">жо´рны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">жо´рнамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">жо´рнах</Form>
     </Paradigm>
     <Paradigm pdgId="1127231" Lemma="з'едкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">з'едкі</Form>
@@ -663,29 +692,31 @@
         <Form Tag="IP">з'едкамі</Form>
         <Form Tag="LP">з'едках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127233" Lemma="забабоны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">забабоны</Form>
-        <Form Tag="GP">забабонаў</Form>
-        <Form Tag="DP">забабонам</Form>
-        <Form Tag="AP">забабоны</Form>
-        <Form Tag="IP">забабонамі</Form>
-        <Form Tag="LP">забабонах</Form>
+    <Paradigm pdgId="1127233" Lemma="забабо´ны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">забабо´ны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">забабо´наў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">забабо´нам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">забабо´ны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">забабо´намі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">забабо´нах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127234" Lemma="загавіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">загавіны</Form>
-        <Form Tag="GP">загавінаў</Form>
-        <Form Tag="DP">загавінам</Form>
-        <Form Tag="AP">загавіны</Form>
-        <Form Tag="IP">загавінамі</Form>
-        <Form Tag="LP">загавінах</Form>
+    <Paradigm pdgId="1127234" Lemma="за´гавіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">за´гавіны</Form>
+        <Form Tag="GP" Type="nonstandard">загавінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">за´гавін</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">за´гавінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">за´гавіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">за´гавінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">за´гавінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127235" Lemma="зажынкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">зажынкі</Form>
-        <Form Tag="GP">зажынкаў</Form>
-        <Form Tag="DP">зажынкам</Form>
-        <Form Tag="AP">зажынкі</Form>
-        <Form Tag="IP">зажынкамі</Form>
-        <Form Tag="LP">зажынках</Form>
+    <Paradigm pdgId="1127235" Lemma="зажы´нкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">зажы´нкі</Form>
+        <Form Tag="GP" Type="nonstandard">зажынкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">зажы´нак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">зажы´нкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">зажы´нкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">зажы´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">зажы´нках</Form>
     </Paradigm>
     <Paradigm pdgId="1127236" Lemma="залёты" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">залёты</Form>
@@ -703,21 +734,23 @@
         <Form Tag="IP">замаразкамі</Form>
         <Form Tag="LP">замаразках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127238" Lemma="заручыны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">заручыны</Form>
-        <Form Tag="GP">заручынаў</Form>
-        <Form Tag="DP">заручынам</Form>
-        <Form Tag="AP">заручыны</Form>
-        <Form Tag="IP">заручынамі</Form>
-        <Form Tag="LP">заручынах</Form>
+    <Paradigm pdgId="1127238" Lemma="зару´чыны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">зару´чыны</Form>
+        <Form Tag="GP" Type="nonstandard">заручынаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">зару´чын</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">зару´чынам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">зару´чыны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">зару´чынамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">зару´чынах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127239" Lemma="засеўкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">засеўкі</Form>
-        <Form Tag="GP">засеўкаў</Form>
-        <Form Tag="DP">засеўкам</Form>
-        <Form Tag="AP">засеўкі</Form>
-        <Form Tag="IP">засеўкамі</Form>
-        <Form Tag="LP">засеўках</Form>
+    <Paradigm pdgId="1127239" Lemma="засе´ўкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">засе´ўкі</Form>
+        <Form Tag="GP" Type="nonstandard">засеўкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">засе´вак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">засе´ўкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">засе´ўкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">засе´ўкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">засе´ўках</Form>
     </Paradigm>
     <Paradigm pdgId="1127232" Lemma="зёлкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">зёлкі</Form>
@@ -727,64 +760,66 @@
         <Form Tag="IP">зёлкамі</Form>
         <Form Tag="LP">зёлках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127240" Lemma="зносіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">зносіны</Form>
-        <Form Tag="GP">зносін</Form>
-        <Form Tag="GP">зносінаў</Form>
-        <Form Tag="DP">зносінам</Form>
-        <Form Tag="AP">зносіны</Form>
-        <Form Tag="IP">зносінамі</Form>
-        <Form Tag="LP">зносінах</Form>
+    <Paradigm pdgId="1127240" Lemma="зно´сіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">зно´сіны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">зно´сін</Form>
+        <Form Tag="GP" Type="nonstandard">зносінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">зно´сінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">зно´сіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">зно´сінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">зно´сінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127241" Lemma="зрыўкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">зрыўкі</Form>
-        <Form Tag="GP">зрыўкаў</Form>
-        <Form Tag="DP">зрыўкам</Form>
-        <Form Tag="AP">зрыўкі</Form>
-        <Form Tag="IP">зрыўкамі</Form>
-        <Form Tag="LP">зрыўках</Form>
+    <Paradigm pdgId="1127241" Lemma="зры´ўкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">зры´ўкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">зры´ўкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">зры´ўкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">зры´ўкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">зры´ўкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">зры´ўках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127242" Lemma="зрэбнікі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">зрэбнікі</Form>
-        <Form Tag="GP">зрэбнікаў</Form>
-        <Form Tag="DP">зрэбнікам</Form>
-        <Form Tag="AP">зрэбнікі</Form>
-        <Form Tag="IP">зрэбнікамі</Form>
-        <Form Tag="LP">зрэбніках</Form>
+    <Paradigm pdgId="1127242" Lemma="зрэ´бнікі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">зрэ´бнікі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">зрэ´бнікаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">зрэ´бнікам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">зрэ´бнікі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">зрэ´бнікамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">зрэ´бніках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127389" Lemma="імяніны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">імяніны</Form>
-        <Form Tag="GP">імянінаў</Form>
-        <Form Tag="GP">імянін</Form>
-        <Form Tag="DP">імянінам</Form>
-        <Form Tag="AP">імяніны</Form>
-        <Form Tag="IP">імянінамі</Form>
-        <Form Tag="LP">імянінах</Form>
+    <Paradigm pdgId="1127389" Lemma="імяні´ны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">імяні´ны</Form>
+        <Form Tag="GP" Type="nonstandard">імянінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">імяні´н</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">імяні´нам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">імяні´ны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">імяні´намі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">імяні´нах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127243" Lemma="кайданы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">кайданы</Form>
-        <Form Tag="GP">кайданоў</Form>
-        <Form Tag="DP">кайданам</Form>
-        <Form Tag="AP">кайданы</Form>
-        <Form Tag="IP">кайданамі</Form>
-        <Form Tag="LP">кайданах</Form>
+    <Paradigm pdgId="1127243" Lemma="кайда´ны´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кайда´ны´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кайдано´ў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кайда´наў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кайда´на´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кайда´ны´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кайда´на´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кайда´на´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127245" Lemma="калготкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">калготкі</Form>
-        <Form Tag="GP">калготкаў</Form>
-        <Form Tag="DP">калготкам</Form>
-        <Form Tag="AP">калготкі</Form>
-        <Form Tag="IP">калготкамі</Form>
-        <Form Tag="LP">калготках</Form>
+    <Paradigm pdgId="1127245" Lemma="калго´ткі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">калго´ткі</Form>
+        <Form Tag="GP" Type="nonstandard">калготкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">калго´так</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">калго´ткам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">калго´ткі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">калго´ткамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">калго´тках</Form>
     </Paradigm>
     <Paradigm pdgId="1127244" Lemma="калёсы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">калёсы</Form>
-        <Form Tag="GP">калёс</Form>
-        <Form Tag="GP">калёсаў</Form>
-        <Form Tag="DP">калёсам</Form>
-        <Form Tag="AP">калёсы</Form>
-        <Form Tag="IP">калёсамі</Form>
-        <Form Tag="LP">калёсах</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">калёсы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">калёс</Form>
+        <Form Tag="GP" Type="nonstandard">калёсаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">калёсам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">калёсы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">калёсамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">калёсах</Form>
     </Paradigm>
     <Paradigm pdgId="1127246" Lemma="калюмны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">калюмны</Form>
@@ -795,12 +830,6 @@
         <Form Tag="LP">калюмнах</Form>
     </Paradigm>
     <Paradigm pdgId="1161024" Lemma="камплектуючыя" Tag="NCXXNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
         <Form Tag="NP">камплектуючыя</Form>
         <Form Tag="GP">камплектуючых</Form>
         <Form Tag="DP">камплектуючым</Form>
@@ -808,14 +837,14 @@
         <Form Tag="IP">камплектуючымі</Form>
         <Form Tag="LP">камплектуючых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127247" Lemma="каноплі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">каноплі</Form>
-        <Form Tag="GP">канопляў</Form>
-        <Form Tag="GP">канапель</Form>
-        <Form Tag="DP">каноплям</Form>
-        <Form Tag="AP">каноплі</Form>
-        <Form Tag="IP">каноплямі</Form>
-        <Form Tag="LP">каноплях</Form>
+    <Paradigm pdgId="1127247" Lemma="кано´плі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кано´плі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кано´пляў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">канапе´ль</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кано´плям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кано´плі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кано´плямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кано´плях</Form>
     </Paradigm>
     <Paradigm pdgId="1127248" Lemma="каралі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">каралі</Form>
@@ -833,13 +862,14 @@
         <Form Tag="IP">карачкамі</Form>
         <Form Tag="LP">карачках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127250" Lemma="карункі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">карункі</Form>
-        <Form Tag="GP">карункаў</Form>
-        <Form Tag="DP">карункам</Form>
-        <Form Tag="AP">карункі</Form>
-        <Form Tag="IP">карункамі</Form>
-        <Form Tag="LP">карунках</Form>
+    <Paradigm pdgId="1127250" Lemma="кару´нкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кару´нкі</Form>
+        <Form Tag="GP" Type="nonstandard">карункаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кару´нак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кару´нкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кару´нкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кару´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кару´нках</Form>
     </Paradigm>
     <Paradigm pdgId="1127251" Lemma="карцішкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">карцішкі</Form>
@@ -857,13 +887,13 @@
         <Form Tag="IP">квазігрошамі</Form>
         <Form Tag="LP">квазігрошах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127253" Lemma="кепікі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">кепікі</Form>
-        <Form Tag="GP">кепікаў</Form>
-        <Form Tag="DP">кепікам</Form>
-        <Form Tag="AP">кепікі</Form>
-        <Form Tag="IP">кепікамі</Form>
-        <Form Tag="LP">кепіках</Form>
+    <Paradigm pdgId="1127253" Lemma="ке´пікі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ке´пікі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ке´пікаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ке´пікам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ке´пікі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ке´пікамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ке´піках</Form>
     </Paradigm>
     <Paradigm pdgId="1127254" Lemma="клубніцы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">клубніцы</Form>
@@ -881,30 +911,32 @@
         <Form Tag="IP">колядамі</Form>
         <Form Tag="LP">колядах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127256" Lemma="кпіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">кпіны</Form>
-        <Form Tag="GP">кпінаў</Form>
-        <Form Tag="DP">кпінам</Form>
-        <Form Tag="AP">кпіны</Form>
-        <Form Tag="IP">кпінамі</Form>
-        <Form Tag="LP">кпінах</Form>
+    <Paradigm pdgId="1127256" Lemma="кпі´ны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кпі´ны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кпі´наў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кпі´н</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кпі´нам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кпі´ны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кпі´намі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кпі´нах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127257" Lemma="краты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">краты</Form>
-        <Form Tag="GP">крат</Form>
-        <Form Tag="GP">кратаў</Form>
-        <Form Tag="DP">кратам</Form>
-        <Form Tag="AP">краты</Form>
-        <Form Tag="IP">кратамі</Form>
-        <Form Tag="LP">кратах</Form>
+    <Paradigm pdgId="1127257" Lemma="кра´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кра´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кра´т</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кра´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кра´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кра´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кра´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кра´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127258" Lemma="крупы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">крупы</Form>
-        <Form Tag="GP">крупаў</Form>
-        <Form Tag="DP">крупам</Form>
-        <Form Tag="AP">крупы</Form>
-        <Form Tag="IP">крупамі</Form>
-        <Form Tag="LP">крупах</Form>
+    <Paradigm pdgId="1127258" Lemma="кру´пы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кру´пы</Form>
+        <Form Tag="GP" Type="nonstandard">крупаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">круп</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кру´пам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кру´пы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кру´памі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кру´пах</Form>
     </Paradigm>
     <Paradigm pdgId="1127259" Lemma="кудзеркі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">кудзеркі</Form>
@@ -922,21 +954,21 @@
         <Form Tag="IP">кукішкамі</Form>
         <Form Tag="LP">кукішках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127261" Lemma="кулуары" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">кулуары</Form>
-        <Form Tag="GP">кулуараў</Form>
-        <Form Tag="DP">кулуарам</Form>
-        <Form Tag="AP">кулуары</Form>
-        <Form Tag="IP">кулуарамі</Form>
-        <Form Tag="LP">кулуарах</Form>
+    <Paradigm pdgId="1127261" Lemma="кулуа´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кулуа´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кулуа´раў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кулуа´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кулуа´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кулуа´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кулуа´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127262" Lemma="куранты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">куранты</Form>
-        <Form Tag="GP">курантаў</Form>
-        <Form Tag="DP">курантам</Form>
-        <Form Tag="AP">куранты</Form>
-        <Form Tag="IP">курантамі</Form>
-        <Form Tag="LP">курантах</Form>
+    <Paradigm pdgId="1127262" Lemma="кура´нты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">кура´нты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">кура´нтаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">кура´нтам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">кура´нты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">кура´нтамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">кура´нтах</Form>
     </Paradigm>
     <Paradigm pdgId="1127264" Lemma="ладачкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">ладачкі</Form>
@@ -946,13 +978,13 @@
         <Form Tag="IP">ладачкамі</Form>
         <Form Tag="LP">ладачках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127265" Lemma="ладкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ладкі</Form>
-        <Form Tag="GP">ладак</Form>
-        <Form Tag="DP">ладкам</Form>
-        <Form Tag="AP">ладкі</Form>
-        <Form Tag="IP">ладкамі</Form>
-        <Form Tag="LP">ладках</Form>
+    <Paradigm pdgId="1127265" Lemma="ла´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ла´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ла´дак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ла´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ла´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ла´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ла´дках</Form>
     </Paradigm>
     <Paradigm pdgId="1127266" Lemma="лейцы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">лейцы</Form>
@@ -962,21 +994,22 @@
         <Form Tag="IP">лейцамі</Form>
         <Form Tag="LP">лейцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127267" Lemma="лекі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">лекі</Form>
-        <Form Tag="GP">лекаў</Form>
-        <Form Tag="DP">лекам</Form>
-        <Form Tag="AP">лекі</Form>
-        <Form Tag="IP">лекамі</Form>
-        <Form Tag="LP">леках</Form>
+    <Paradigm pdgId="1127267" Lemma="ле´кі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ле´кі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ле´каў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ле´кам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ле´кі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ле´камі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ле´ках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127268" Lemma="лескі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">лескі</Form>
-        <Form Tag="GP">лескаў</Form>
-        <Form Tag="DP">лескам</Form>
-        <Form Tag="AP">лескі</Form>
-        <Form Tag="IP">лескамі</Form>
-        <Form Tag="LP">лесках</Form>
+    <Paradigm pdgId="1127268" Lemma="ле´скі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ле´скі</Form>
+        <Form Tag="GP" Type="nonstandard">лескаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ле´сак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ле´скам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ле´скі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ле´скамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ле´сках</Form>
     </Paradigm>
     <Paradigm pdgId="1127263" Lemma="ліскі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">ліскі</Form>
@@ -986,21 +1019,22 @@
         <Form Tag="IP">ліскамі</Form>
         <Form Tag="LP">лісках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127269" Lemma="людцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">людцы</Form>
-        <Form Tag="GP">людцаў</Form>
-        <Form Tag="DP">людцам</Form>
-        <Form Tag="AP">людцаў</Form>
-        <Form Tag="IP">людцамі</Form>
-        <Form Tag="LP">людцах</Form>
+    <Paradigm pdgId="1127269" Lemma="лю´дцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">лю´дцы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">лю´дцаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">лю´дцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">лю´дцаў</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">лю´дцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">лю´дцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127272" Lemma="маніцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">маніцы</Form>
-        <Form Tag="GP">маніцаў</Form>
-        <Form Tag="DP">маніцам</Form>
-        <Form Tag="AP">маніцы</Form>
-        <Form Tag="IP">маніцамі</Form>
-        <Form Tag="LP">маніцах</Form>
+    <Paradigm pdgId="1127272" Lemma="мані´цы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">мані´цы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мані´цаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мані´ц</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мані´цам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мані´цы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мані´цамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мані´цах</Form>
     </Paradigm>
     <Paradigm pdgId="1127273" Lemma="махры" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">махры</Form>
@@ -1018,29 +1052,29 @@
         <Form Tag="IP">меднікамі</Form>
         <Form Tag="LP">медніках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127276" Lemma="мемуары" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">мемуары</Form>
-        <Form Tag="GP">мемуараў</Form>
-        <Form Tag="DP">мемуарам</Form>
-        <Form Tag="AP">мемуары</Form>
-        <Form Tag="IP">мемуарамі</Form>
-        <Form Tag="LP">мемуарах</Form>
+    <Paradigm pdgId="1127276" Lemma="мемуа´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">мемуа´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мемуа´раў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мемуа´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мемуа´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мемуа´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мемуа´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127277" Lemma="метэаўмовы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">метэаўмовы</Form>
-        <Form Tag="GP">метэаўмоў</Form>
-        <Form Tag="DP">метэаўмовам</Form>
-        <Form Tag="AP">метэаўмовы</Form>
-        <Form Tag="IP">метэаўмовамі</Form>
-        <Form Tag="LP">метэаўмовах</Form>
+    <Paradigm pdgId="1127277" Lemma="метэаўмо´вы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">метэаўмо´вы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">метэаўмо´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">метэаўмо´вам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">метэаўмо´вы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">метэаўмо´вамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">метэаўмо´вах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127270" Lemma="мікрашалі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">мікрашалі</Form>
-        <Form Tag="GP">мікрашаляў</Form>
-        <Form Tag="DP">мікрашалям</Form>
-        <Form Tag="AP">мікрашалі</Form>
-        <Form Tag="IP">мікрашалямі</Form>
-        <Form Tag="LP">мікрашалях</Form>
+    <Paradigm pdgId="1127270" Lemma="мікраша´лі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">мікраша´лі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мікраша´ляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мікраша´лям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мікраша´лі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мікраша´лямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мікраша´лях</Form>
     </Paradigm>
     <Paradigm pdgId="1127271" Lemma="мінводы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">мінводы</Form>
@@ -1050,21 +1084,22 @@
         <Form Tag="IP">мінводамі</Form>
         <Form Tag="LP">мінводах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127278" Lemma="могілкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">могілкі</Form>
-        <Form Tag="GP">могілкаў</Form>
-        <Form Tag="DP">могілкам</Form>
-        <Form Tag="AP">могілкі</Form>
-        <Form Tag="IP">могілкамі</Form>
-        <Form Tag="LP">могілках</Form>
+    <Paradigm pdgId="1127278" Lemma="мо´гілкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">мо´гілкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мо´гілкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мо´гілак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мо´гілкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мо´гілкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мо´гілкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мо´гілках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127279" Lemma="мошчы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">мошчы</Form>
-        <Form Tag="GP">мошчаў</Form>
-        <Form Tag="DP">мошчам</Form>
-        <Form Tag="AP">мошчы</Form>
-        <Form Tag="IP">мошчамі</Form>
-        <Form Tag="LP">мошчах</Form>
+    <Paradigm pdgId="1127279" Lemma="мо´шчы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">мо´шчы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мо´шчаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мо´шчам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мо´шчы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мо´шчамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мо´шчах</Form>
     </Paradigm>
     <Paradigm pdgId="1127280" Lemma="мусоны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">мусоны</Form>
@@ -1074,29 +1109,30 @@
         <Form Tag="IP">мусонамі</Form>
         <Form Tag="LP">мусонах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127281" Lemma="мэтлахі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">мэтлахі</Form>
-        <Form Tag="GP">мэтлахаў</Form>
-        <Form Tag="DP">мэтлахам</Form>
-        <Form Tag="AP">мэтлахі</Form>
-        <Form Tag="IP">мэтлахамі</Form>
-        <Form Tag="LP">мэтлахах</Form>
+    <Paradigm pdgId="1127281" Lemma="мэ´тлахі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">мэ´тлахі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">мэ´тлахаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">мэ´тлахам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">мэ´тлахі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">мэ´тлахамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">мэ´тлахах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127283" Lemma="набадры" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">набадры</Form>
-        <Form Tag="GP">набадраў</Form>
-        <Form Tag="DP">набадрам</Form>
-        <Form Tag="AP">набадры</Form>
-        <Form Tag="IP">набадрамі</Form>
-        <Form Tag="LP">набадрах</Form>
+    <Paradigm pdgId="1127283" Lemma="на´бадры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">на´бадры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">на´бадраў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">на´бадрам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">на´бадры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">на´бадрамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">на´бадрах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127282" Lemma="набіліцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">набіліцы</Form>
-        <Form Tag="GP">набіліцаў</Form>
-        <Form Tag="DP">набіліцам</Form>
-        <Form Tag="AP">набіліцы</Form>
-        <Form Tag="IP">набіліцамі</Form>
-        <Form Tag="LP">набіліцах</Form>
+    <Paradigm pdgId="1127282" Lemma="набі´ліцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">набі´ліцы</Form>
+        <Form Tag="GP" Type="nonstandard">набіліцаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">набі´ліц</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">набі´ліцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">набі´ліцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">набі´ліцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">набі´ліцах</Form>
     </Paradigm>
     <Paradigm pdgId="1127284" Lemma="наведзіны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">наведзіны</Form>
@@ -1106,13 +1142,14 @@
         <Form Tag="IP">наведзінамі</Form>
         <Form Tag="LP">наведзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127285" Lemma="нагавіцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">нагавіцы</Form>
-        <Form Tag="GP">нагавіцаў</Form>
-        <Form Tag="DP">нагавіцам</Form>
-        <Form Tag="AP">нагавіцы</Form>
-        <Form Tag="IP">нагавіцамі</Form>
-        <Form Tag="LP">нагавіцах</Form>
+    <Paradigm pdgId="1127285" Lemma="нагаві´цы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">нагаві´цы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">нагаві´цаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">нагаві´ц</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">нагаві´цам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">нагаві´цы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">нагаві´цамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">нагаві´цах</Form>
     </Paradigm>
     <Paradigm pdgId="1127286" Lemma="наготкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">наготкі</Form>
@@ -1122,21 +1159,22 @@
         <Form Tag="IP">наготкамі</Form>
         <Form Tag="LP">наготках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127287" Lemma="нажніцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">нажніцы</Form>
-        <Form Tag="GP">нажніц</Form>
-        <Form Tag="DP">нажніцам</Form>
-        <Form Tag="AP">нажніцы</Form>
-        <Form Tag="IP">нажніцамі</Form>
-        <Form Tag="LP">нажніцах</Form>
+    <Paradigm pdgId="1127287" Lemma="нажні´цы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">нажні´цы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">нажні´ц</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">нажні´цаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">нажні´цам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">нажні´цы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">нажні´цамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">нажні´цах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127288" Lemma="нападкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">нападкі</Form>
-        <Form Tag="GP">нападкаў</Form>
-        <Form Tag="DP">нападкам</Form>
-        <Form Tag="AP">нападкі</Form>
-        <Form Tag="IP">нападкамі</Form>
-        <Form Tag="LP">нападках</Form>
+    <Paradigm pdgId="1127288" Lemma="напа´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">напа´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">напа´дкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">напа´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">напа´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">напа´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">напа´дках</Form>
     </Paradigm>
     <Paradigm pdgId="1127289" Lemma="нарды" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">нарды</Form>
@@ -1147,12 +1185,6 @@
         <Form Tag="LP">нардах</Form>
     </Paradigm>
     <Paradigm pdgId="1161023" Lemma="народзіны" Tag="NCXXNXX">
-        <Form Tag="NS"></Form>
-        <Form Tag="GS"></Form>
-        <Form Tag="DS"></Form>
-        <Form Tag="AS"></Form>
-        <Form Tag="IS"></Form>
-        <Form Tag="LS"></Form>
         <Form Tag="NP">народзіны</Form>
         <Form Tag="GP">народзінаў</Form>
         <Form Tag="DP">народзінам</Form>
@@ -1160,21 +1192,22 @@
         <Form Tag="IP">народзінамі</Form>
         <Form Tag="LP">народзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127290" Lemma="нары" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">нары</Form>
-        <Form Tag="GP">нараў</Form>
-        <Form Tag="DP">нарам</Form>
-        <Form Tag="AP">нары</Form>
-        <Form Tag="IP">нарамі</Form>
-        <Form Tag="LP">нарах</Form>
+    <Paradigm pdgId="1127290" Lemma="на´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">на´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">на´раў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">на´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">на´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">на´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">на´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127291" Lemma="насілкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">насілкі</Form>
-        <Form Tag="GP">насілкаў</Form>
-        <Form Tag="DP">насілкам</Form>
-        <Form Tag="AP">насілкі</Form>
-        <Form Tag="IP">насілкамі</Form>
-        <Form Tag="LP">насілках</Form>
+    <Paradigm pdgId="1127291" Lemma="насі´лкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">насі´лкі</Form>
+        <Form Tag="GP" Type="nonstandard">насілкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">насі´лак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">насі´лкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">насі´лкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">насі´лкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">насі´лках</Form>
     </Paradigm>
     <Paradigm pdgId="1127292" Lemma="недаедкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">недаедкі</Form>
@@ -1184,13 +1217,13 @@
         <Form Tag="IP">недаедкамі</Form>
         <Form Tag="LP">недаедках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127293" Lemma="нелады" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">нелады</Form>
-        <Form Tag="GP">неладоў</Form>
-        <Form Tag="DP">неладам</Form>
-        <Form Tag="AP">нелады</Form>
-        <Form Tag="IP">неладамі</Form>
-        <Form Tag="LP">неладах</Form>
+    <Paradigm pdgId="1127293" Lemma="нелады´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">нелады´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">неладо´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">нелада´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">нелады´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">нелада´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">нелада´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127294" Lemma="непаразумелкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">непаразумелкі</Form>
@@ -1208,46 +1241,48 @@
         <Form Tag="IP">нетрамі</Form>
         <Form Tag="LP">нетрах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127296" Lemma="нечыстоты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">нечыстоты</Form>
-        <Form Tag="GP">нечыстотаў</Form>
-        <Form Tag="DP">нечыстотам</Form>
-        <Form Tag="AP">нечыстоты</Form>
-        <Form Tag="IP">нечыстотамі</Form>
-        <Form Tag="LP">нечыстотах</Form>
+    <Paradigm pdgId="1127296" Lemma="нечысто´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">нечысто´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">нечысто´таў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">нечысто´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">нечысто´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">нечысто´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">нечысто´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">нечысто´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127297" Lemma="ножны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ножны</Form>
-        <Form Tag="GP">ножан</Form>
-        <Form Tag="DP">ножнам</Form>
-        <Form Tag="AP">ножны</Form>
-        <Form Tag="IP">ножнамі</Form>
-        <Form Tag="LP">ножнах</Form>
+    <Paradigm pdgId="1127297" Lemma="но´жны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">но´жны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">но´жан</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">но´жнаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">но´жнам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">но´жны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">но´жнамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">но´жнах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127299" Lemma="паводзіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">паводзіны</Form>
-        <Form Tag="GP">паводзін</Form>
-        <Form Tag="GP">паводзінаў</Form>
-        <Form Tag="DP">паводзінам</Form>
-        <Form Tag="AP">паводзіны</Form>
-        <Form Tag="IP">паводзінамі</Form>
-        <Form Tag="LP">паводзінах</Form>
+    <Paradigm pdgId="1127299" Lemma="паво´дзіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">паво´дзіны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">паво´дзін</Form>
+        <Form Tag="GP" Type="nonstandard">паводзінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">паво´дзінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">паво´дзіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">паво´дзінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">паво´дзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127300" Lemma="паддаўкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">паддаўкі</Form>
-        <Form Tag="GP">паддаўкоў</Form>
-        <Form Tag="DP">паддаўкам</Form>
-        <Form Tag="AP">паддаўкі</Form>
-        <Form Tag="IP">паддаўкамі</Form>
-        <Form Tag="LP">паддаўках</Form>
+    <Paradigm pdgId="1127300" Lemma="паддаўкі´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">паддаўкі´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">паддаўко´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">паддаўка´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">паддаўкі´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">паддаўка´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">паддаўка´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127301" Lemma="падмосткі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">падмосткі</Form>
-        <Form Tag="GP">падмосткаў</Form>
-        <Form Tag="DP">падмосткам</Form>
-        <Form Tag="AP">падмосткі</Form>
-        <Form Tag="IP">падмосткамі</Form>
-        <Form Tag="LP">падмостках</Form>
+    <Paradigm pdgId="1127301" Lemma="падмо´сткі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">падмо´сткі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">падмо´сткаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">падмо´сткам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">падмо´сткі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">падмо´сткамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">падмо´стках</Form>
     </Paradigm>
     <Paradigm pdgId="1127302" Lemma="падуздухі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">падуздухі</Form>
@@ -1257,13 +1292,13 @@
         <Form Tag="IP">падуздухамі</Form>
         <Form Tag="LP">падуздухах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127303" Lemma="пазадкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пазадкі</Form>
-        <Form Tag="GP">пазадкаў</Form>
-        <Form Tag="DP">пазадкам</Form>
-        <Form Tag="AP">пазадкі</Form>
-        <Form Tag="IP">пазадкамі</Form>
-        <Form Tag="LP">пазадках</Form>
+    <Paradigm pdgId="1127303" Lemma="паза´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">паза´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">паза´дкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">паза´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">паза´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">паза´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">паза´дках</Form>
     </Paradigm>
     <Paradigm pdgId="1127304" Lemma="пакровы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">пакровы</Form>
@@ -1273,13 +1308,13 @@
         <Form Tag="IP">пакровамі</Form>
         <Form Tag="LP">пакровах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127305" Lemma="памыі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">памыі</Form>
-        <Form Tag="GP">памыяў</Form>
-        <Form Tag="DP">памыям</Form>
-        <Form Tag="AP">памыі</Form>
-        <Form Tag="IP">памыямі</Form>
-        <Form Tag="LP">памыях</Form>
+    <Paradigm pdgId="1127305" Lemma="памы´і" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">памы´і</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">памы´яў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">памы´ям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">памы´і</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">памы´ямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">памы´ях</Form>
     </Paradigm>
     <Paradigm pdgId="1127306" Lemma="парэнчы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">парэнчы</Form>
@@ -1297,13 +1332,13 @@
         <Form Tag="IP">патугамі</Form>
         <Form Tag="LP">патугах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127308" Lemma="пацеры" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пацеры</Form>
-        <Form Tag="GP">пацераў</Form>
-        <Form Tag="DP">пацерам</Form>
-        <Form Tag="AP">пацеры</Form>
-        <Form Tag="IP">пацерамі</Form>
-        <Form Tag="LP">пацерах</Form>
+    <Paradigm pdgId="1127308" Lemma="па´церы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">па´церы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">па´цераў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">па´церам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">па´церы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">па´церамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">па´церах</Form>
     </Paradigm>
     <Paradigm pdgId="1127309" Lemma="пацешкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">пацешкі</Form>
@@ -1313,62 +1348,66 @@
         <Form Tag="IP">пацешкамі</Form>
         <Form Tag="LP">пацешках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127310" Lemma="пачаскі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пачаскі</Form>
-        <Form Tag="GP">пачаскаў</Form>
-        <Form Tag="DP">пачаскам</Form>
-        <Form Tag="AP">пачаскі</Form>
-        <Form Tag="IP">пачаскамі</Form>
-        <Form Tag="LP">пачасках</Form>
+    <Paradigm pdgId="1127310" Lemma="па´часкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">па´часкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">па´часкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">па´часкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">па´часкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">па´часкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">па´часках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127311" Lemma="перагаворы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">перагаворы</Form>
-        <Form Tag="GP">перагавораў</Form>
-        <Form Tag="DP">перагаворам</Form>
-        <Form Tag="AP">перагаворы</Form>
-        <Form Tag="IP">перагаворамі</Form>
-        <Form Tag="LP">перагаворах</Form>
+    <Paradigm pdgId="1127311" Lemma="перагаво´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">перагаво´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">перагаво´раў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">перагаво´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">перагаво´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">перагаво´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">перагаво´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127312" Lemma="перамовы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">перамовы</Form>
-        <Form Tag="GP">перамоваў</Form>
-        <Form Tag="DP">перамовам</Form>
-        <Form Tag="AP">перамовы</Form>
-        <Form Tag="IP">перамовамі</Form>
-        <Form Tag="LP">перамовах</Form>
+    <Paradigm pdgId="1127312" Lemma="перамо´вы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">перамо´вы</Form>
+        <Form Tag="GP" Type="nonstandard">перамоваў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">перамо´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">перамо´вам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">перамо´вы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">перамо´вамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">перамо´вах</Form>
     </Paradigm>
     <Paradigm pdgId="1127298" Lemma="пісьмёны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пісьмёны</Form>
-        <Form Tag="GP">пісьмёнаў</Form>
-        <Form Tag="DP">пісьмёнам</Form>
-        <Form Tag="AP">пісьмёны</Form>
-        <Form Tag="IP">пісьмёнамі</Form>
-        <Form Tag="LP">пісьмёнах</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">пісьмёны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">пісьмёнаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">пісьмён</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">пісьмёнам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">пісьмёны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">пісьмёнамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">пісьмёнах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127313" Lemma="портачкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">портачкі</Form>
-        <Form Tag="GP">портачкаў</Form>
-        <Form Tag="DP">портачкам</Form>
-        <Form Tag="AP">портачкі</Form>
-        <Form Tag="IP">портачкамі</Form>
-        <Form Tag="LP">портачках</Form>
+    <Paradigm pdgId="1127313" Lemma="по´ртачкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">по´ртачкі</Form>
+        <Form Tag="GP" Type="nonstandard">портачкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">по´ртачак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">по´ртачкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">по´ртачкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">по´ртачкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">по´ртачках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127314" Lemma="праваадносіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">праваадносіны</Form>
-        <Form Tag="GP">праваадносін</Form>
-        <Form Tag="GP">праваадносінаў</Form>
-        <Form Tag="DP">праваадносінам</Form>
-        <Form Tag="AP">праваадносіны</Form>
-        <Form Tag="IP">праваадносінамі</Form>
-        <Form Tag="LP">праваадносінах</Form>
+    <Paradigm pdgId="1127314" Lemma="праваадно´сіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">праваадно´сіны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">праваадно´сін</Form>
+        <Form Tag="GP" Type="nonstandard">праваадносінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">праваадно´сінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">праваадно´сіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">праваадно´сінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">праваадно´сінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127315" Lemma="праводзіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">праводзіны</Form>
-        <Form Tag="GP">праводзінаў</Form>
-        <Form Tag="DP">праводзінам</Form>
-        <Form Tag="AP">праводзіны</Form>
-        <Form Tag="IP">праводзінамі</Form>
-        <Form Tag="LP">праводзінах</Form>
+    <Paradigm pdgId="1127315" Lemma="право´дзіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">право´дзіны</Form>
+        <Form Tag="GP" Type="nonstandard">праводзінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">право´дзін</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">право´дзінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">право´дзіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">право´дзінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">право´дзінах</Form>
     </Paradigm>
     <Paradigm pdgId="1127316" Lemma="прамзалежы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">прамзалежы</Form>
@@ -1378,21 +1417,21 @@
         <Form Tag="IP">прамзалежамі</Form>
         <Form Tag="LP">прамзалежах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127317" Lemma="пранцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пранцы</Form>
-        <Form Tag="GP">пранцаў</Form>
-        <Form Tag="DP">пранцам</Form>
-        <Form Tag="AP">пранцы</Form>
-        <Form Tag="IP">пранцамі</Form>
-        <Form Tag="LP">пранцах</Form>
+    <Paradigm pdgId="1127317" Lemma="пра´нцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">пра´нцы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">пра´нцаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">пра´нцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">пра´нцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">пра´нцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">пра´нцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1021958" Lemma="прыгаршчы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">прыгаршчы</Form>
-        <Form Tag="GP">прыгаршчаў</Form>
-        <Form Tag="DP">прыгаршчам</Form>
-        <Form Tag="AP">прыгаршчы</Form>
-        <Form Tag="IP">прыгаршчамі</Form>
-        <Form Tag="LP">прыгаршчах</Form>
+    <Paradigm pdgId="1021958" Lemma="пры´гаршчы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">пры´гаршчы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">пры´гаршчаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">пры´гаршчам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">пры´гаршчы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">пры´гаршчамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">пры´гаршчах</Form>
     </Paradigm>
     <Paradigm pdgId="1127318" Lemma="прымхі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">прымхі</Form>
@@ -1402,13 +1441,14 @@
         <Form Tag="IP">прымхамі</Form>
         <Form Tag="LP">прымхах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127319" Lemma="прысады" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">прысады</Form>
-        <Form Tag="GP">прысадаў</Form>
-        <Form Tag="DP">прысадам</Form>
-        <Form Tag="AP">прысады</Form>
-        <Form Tag="IP">прысадамі</Form>
-        <Form Tag="LP">прысадах</Form>
+    <Paradigm pdgId="1127319" Lemma="прыса´ды" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">прыса´ды</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">прыса´даў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">прыса´д</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">прыса´дам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">прыса´ды</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">прыса´дамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">прыса´дах</Form>
     </Paradigm>
     <Paradigm pdgId="1127320" Lemma="прыхваткі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">прыхваткі</Form>
@@ -1426,13 +1466,13 @@
         <Form Tag="IP">пырскамі</Form>
         <Form Tag="LP">пырсках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127321" Lemma="пярэбары" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">пярэбары</Form>
-        <Form Tag="GP">пярэбараў</Form>
-        <Form Tag="DP">пярэбарам</Form>
-        <Form Tag="AP">пярэбары</Form>
-        <Form Tag="IP">пярэбарамі</Form>
-        <Form Tag="LP">пярэбарах</Form>
+    <Paradigm pdgId="1127321" Lemma="пярэ´бары" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">пярэ´бары</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">пярэ´бараў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">пярэ´барам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">пярэ´бары</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">пярэ´барамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">пярэ´барах</Form>
     </Paradigm>
     <Paradigm pdgId="1127322" Lemma="рабяты" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">рабяты</Form>
@@ -1442,13 +1482,14 @@
         <Form Tag="IP">рабятамі</Form>
         <Form Tag="LP">рабятах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127323" Lemma="развалкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">развалкі</Form>
-        <Form Tag="GP">развалкаў</Form>
-        <Form Tag="DP">развалкам</Form>
-        <Form Tag="AP">развалкі</Form>
-        <Form Tag="IP">развалкамі</Form>
-        <Form Tag="LP">развалках</Form>
+    <Paradigm pdgId="1127323" Lemma="разва´лкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">разва´лкі</Form>
+        <Form Tag="GP" Type="nonstandard">развалкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">разва´лак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">разва´лкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">разва´лкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">разва´лкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">разва´лках</Form>
     </Paradigm>
     <Paradigm pdgId="1127324" Lemma="разынкі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">разынкі</Form>
@@ -1458,13 +1499,13 @@
         <Form Tag="IP">разынкамі</Form>
         <Form Tag="LP">разынках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127325" Lemma="розгляды" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">розгляды</Form>
-        <Form Tag="GP">розглядаў</Form>
-        <Form Tag="DP">розглядам</Form>
-        <Form Tag="AP">розгляды</Form>
-        <Form Tag="IP">розглядамі</Form>
-        <Form Tag="LP">розглядах</Form>
+    <Paradigm pdgId="1127325" Lemma="ро´згляды" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ро´згляды</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ро´зглядаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ро´зглядам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ро´згляды</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ро´зглядамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ро´зглядах</Form>
     </Paradigm>
     <Paradigm pdgId="1127326" Lemma="рызманы" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">рызманы</Form>
@@ -1474,13 +1515,13 @@
         <Form Tag="IP">рызманамі</Form>
         <Form Tag="LP">рызманах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127327" Lemma="рэйтузы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">рэйтузы</Form>
-        <Form Tag="GP">рэйтузаў</Form>
-        <Form Tag="DP">рэйтузам</Form>
-        <Form Tag="AP">рэйтузы</Form>
-        <Form Tag="IP">рэйтузамі</Form>
-        <Form Tag="LP">рэйтузах</Form>
+    <Paradigm pdgId="1127327" Lemma="рэйту´зы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">рэйту´зы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">рэйту´заў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">рэйту´зам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">рэйту´зы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">рэйту´замі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">рэйту´зах</Form>
     </Paradigm>
     <Paradigm pdgId="1127328" Lemma="рэшткі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">рэшткі</Form>
@@ -1490,13 +1531,13 @@
         <Form Tag="IP">рэшткамі</Form>
         <Form Tag="LP">рэштках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127329" Lemma="сажонкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">сажонкі</Form>
-        <Form Tag="GP">сажонак</Form>
-        <Form Tag="DP">сажонкам</Form>
-        <Form Tag="AP">сажонкі</Form>
-        <Form Tag="IP">сажонкамі</Form>
-        <Form Tag="LP">сажонках</Form>
+    <Paradigm pdgId="1127329" Lemma="сажо´нкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">сажо´нкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">сажо´нак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">сажо´нкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">сажо´нкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">сажо´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">сажо´нках</Form>
     </Paradigm>
     <Paradigm pdgId="1127330" Lemma="самагуды" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">самагуды</Form>
@@ -1514,13 +1555,14 @@
         <Form Tag="IP">самулкамі</Form>
         <Form Tag="LP">самулках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127332" Lemma="саначкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">саначкі</Form>
-        <Form Tag="GP">саначкаў</Form>
-        <Form Tag="DP">саначкам</Form>
-        <Form Tag="AP">саначкі</Form>
-        <Form Tag="IP">саначкамі</Form>
-        <Form Tag="LP">саначках</Form>
+    <Paradigm pdgId="1127332" Lemma="са´начкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">са´начкі</Form>
+        <Form Tag="GP" Type="nonstandard">саначкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">са´начак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">са´начкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">са´начкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">са´начкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">са´начках</Form>
     </Paradigm>
     <Paradigm pdgId="1127333" Lemma="сандалі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">сандалі</Form>
@@ -1530,21 +1572,21 @@
         <Form Tag="IP">сандалямі</Form>
         <Form Tag="LP">сандалях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127334" Lemma="санкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">санкі</Form>
-        <Form Tag="GP">санак</Form>
-        <Form Tag="DP">санкам</Form>
-        <Form Tag="AP">санкі</Form>
-        <Form Tag="IP">санкамі</Form>
-        <Form Tag="LP">санках</Form>
+    <Paradigm pdgId="1127334" Lemma="са´нкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">са´нкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">са´нак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">са´нкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">са´нкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">са´нкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">са´нках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127335" Lemma="сантыменты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">сантыменты</Form>
-        <Form Tag="GP">сантыментаў</Form>
-        <Form Tag="DP">сантыментам</Form>
-        <Form Tag="AP">сантыменты</Form>
-        <Form Tag="IP">сантыментамі</Form>
-        <Form Tag="LP">сантыментах</Form>
+    <Paradigm pdgId="1127335" Lemma="сантыме´нты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">сантыме´нты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">сантыме´нтаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">сантыме´нтам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">сантыме´нты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">сантыме´нтамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">сантыме´нтах</Form>
     </Paradigm>
     <Paradigm pdgId="1127336" Lemma="сатурналіі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">сатурналіі</Form>
@@ -1554,21 +1596,22 @@
         <Form Tag="IP">сатурналіямі</Form>
         <Form Tag="LP">сатурналіях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127337" Lemma="святцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">святцы</Form>
-        <Form Tag="GP">святцаў</Form>
-        <Form Tag="DP">святцам</Form>
-        <Form Tag="AP">святцы</Form>
-        <Form Tag="IP">святцамі</Form>
-        <Form Tag="LP">святцах</Form>
+    <Paradigm pdgId="1127337" Lemma="свя´тцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">свя´тцы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">свя´тцаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">свя´тцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">свя´тцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">свя´тцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">свя´тцах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127338" Lemma="сенцы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">сенцы</Form>
-        <Form Tag="GP">сенцаў</Form>
-        <Form Tag="DP">сенцам</Form>
-        <Form Tag="AP">сенцы</Form>
-        <Form Tag="IP">сенцамі</Form>
-        <Form Tag="LP">сенцах</Form>
+    <Paradigm pdgId="1127338" Lemma="се´нцы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">се´нцы</Form>
+        <Form Tag="GP" Type="nonstandard">сенцаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">сяне´ц</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">се´нцам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">се´нцы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">се´нцамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">се´нцах</Form>
     </Paradigm>
     <Paradigm pdgId="1127339" Lemma="скокі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">скокі</Form>
@@ -1594,13 +1637,13 @@
         <Form Tag="IP">следзюкамі</Form>
         <Form Tag="LP">следзюках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127342" Lemma="споднікі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">споднікі</Form>
-        <Form Tag="GP">споднікаў</Form>
-        <Form Tag="DP">споднікам</Form>
-        <Form Tag="AP">споднікі</Form>
-        <Form Tag="IP">споднікамі</Form>
-        <Form Tag="LP">сподніках</Form>
+    <Paradigm pdgId="1127342" Lemma="спо´днікі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">спо´днікі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">спо´днікаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">спо´днікам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">спо´днікі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">спо´днікамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">спо´дніках</Form>
     </Paradigm>
     <Paradigm pdgId="1127343" Lemma="справункі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">справункі</Form>
@@ -1626,14 +1669,14 @@
         <Form Tag="IP">стрынгамі</Form>
         <Form Tag="LP">стрынгах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127346" Lemma="суадносіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">суадносіны</Form>
-        <Form Tag="GP">суадносін</Form>
-        <Form Tag="GP">суадносінаў</Form>
-        <Form Tag="DP">суадносінам</Form>
-        <Form Tag="AP">суадносіны</Form>
-        <Form Tag="IP">суадносінамі</Form>
-        <Form Tag="LP">суадносінах</Form>
+    <Paradigm pdgId="1127346" Lemma="суадно´сіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">суадно´сіны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">суадно´сін</Form>
+        <Form Tag="GP" Type="nonstandard">суадносінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">суадно´сінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">суадно´сіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">суадно´сінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">суадно´сінах</Form>
     </Paradigm>
     <Paradigm pdgId="1127347" Lemma="субтытры" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">субтытры</Form>
@@ -1643,61 +1686,63 @@
         <Form Tag="IP">субтытрамі</Form>
         <Form Tag="LP">субтытрах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127348" Lemma="сурокі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">сурокі</Form>
-        <Form Tag="GP">сурокаў</Form>
-        <Form Tag="DP">сурокам</Form>
-        <Form Tag="AP">сурокі</Form>
-        <Form Tag="IP">сурокамі</Form>
-        <Form Tag="LP">суроках</Form>
+    <Paradigm pdgId="1127348" Lemma="суро´кі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">суро´кі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">суро´каў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">суро´кам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">суро´кі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">суро´камі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">суро´ках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127349" Lemma="суткі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">суткі</Form>
-        <Form Tag="GP">сутак</Form>
-        <Form Tag="DP">суткам</Form>
-        <Form Tag="AP">суткі</Form>
-        <Form Tag="IP">суткамі</Form>
-        <Form Tag="LP">сутках</Form>
+    <Paradigm pdgId="1127349" Lemma="су´ткі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">су´ткі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">су´так</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">су´ткам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">су´ткі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">су´ткамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">су´тках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127350" Lemma="сухоты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">сухоты</Form>
-        <Form Tag="GP">сухотаў</Form>
-        <Form Tag="DP">сухотам</Form>
-        <Form Tag="AP">сухоты</Form>
-        <Form Tag="IP">сухотамі</Form>
-        <Form Tag="LP">сухотах</Form>
+    <Paradigm pdgId="1127350" Lemma="сухо´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">сухо´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">сухо´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">сухо´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">сухо´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">сухо´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">сухо´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127351" Lemma="сходы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">сходы</Form>
-        <Form Tag="GP">сходаў</Form>
-        <Form Tag="DP">сходам</Form>
-        <Form Tag="AP">сходы</Form>
-        <Form Tag="IP">сходамі</Form>
-        <Form Tag="LP">сходах</Form>
+    <Paradigm pdgId="1127351" Lemma="схо´ды" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">схо´ды</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">схо´даў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">схо´дам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">схо´ды</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">схо´дамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">схо´дах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127352" Lemma="трайняты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">трайняты</Form>
-        <Form Tag="GP">трайнятаў</Form>
-        <Form Tag="DP">трайнятам</Form>
-        <Form Tag="AP">трайнятаў</Form>
-        <Form Tag="IP">трайнятамі</Form>
-        <Form Tag="LP">трайнятах</Form>
+    <Paradigm pdgId="1127352" Lemma="трайня´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">трайня´ты</Form>
+        <Form Tag="GP" Type="nonstandard">трайнятаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">трайня´т</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">трайня´там</Form>
+        <Form Tag="AP" Type="nonstandard">трайнятаў</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">трайня´т</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">трайня´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">трайня´тах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127353" Lemma="транты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">транты</Form>
-        <Form Tag="GP">трантаў</Form>
-        <Form Tag="DP">трантам</Form>
-        <Form Tag="AP">транты</Form>
-        <Form Tag="IP">трантамі</Form>
-        <Form Tag="LP">трантах</Form>
+    <Paradigm pdgId="1127353" Lemma="тра´нты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">тра´нты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">тра´нтаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">тра´нтам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">тра´нты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">тра´нтамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">тра´нтах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127354" Lemma="трусы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">трусы</Form>
-        <Form Tag="GP">трусоў</Form>
-        <Form Tag="DP">трусам</Form>
-        <Form Tag="AP">трусы</Form>
-        <Form Tag="IP">трусамі</Form>
-        <Form Tag="LP">трусах</Form>
+    <Paradigm pdgId="1127354" Lemma="трусы´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">трусы´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">трусо´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">труса´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">трусы´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">труса´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">труса´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127355" Lemma="трыбухі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">трыбухі</Form>
@@ -1707,21 +1752,21 @@
         <Form Tag="IP">трыбухамі</Form>
         <Form Tag="LP">трыбухах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127356" Lemma="тэзаімяніны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">тэзаімяніны</Form>
-        <Form Tag="GP">тэзаімянінаў</Form>
-        <Form Tag="DP">тэзаімянінам</Form>
-        <Form Tag="AP">тэзаімяніны</Form>
-        <Form Tag="IP">тэзаімянінамі</Form>
-        <Form Tag="LP">тэзаімянінах</Form>
+    <Paradigm pdgId="1127356" Lemma="тэзаімяні´ны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">тэзаімяні´ны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">тэзаімяні´наў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">тэзаімяні´нам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">тэзаімяні´ны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">тэзаімяні´намі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">тэзаімяні´нах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127357" Lemma="тэледэбаты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">тэледэбаты</Form>
-        <Form Tag="GP">тэледэбатаў</Form>
-        <Form Tag="DP">тэледэбатам</Form>
-        <Form Tag="AP">тэледэбаты</Form>
-        <Form Tag="IP">тэледэбатамі</Form>
-        <Form Tag="LP">тэледэбатах</Form>
+    <Paradigm pdgId="1127357" Lemma="тэледэба´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">тэледэба´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">тэледэба´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">тэледэба´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">тэледэба´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">тэледэба´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">тэледэба´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1127358" Lemma="тэлекамунікацыі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">тэлекамунікацыі</Form>
@@ -1731,37 +1776,40 @@
         <Form Tag="IP">тэлекамунікацыямі</Form>
         <Form Tag="LP">тэлекамунікацыях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127359" Lemma="тэленавіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">тэленавіны</Form>
-        <Form Tag="GP">тэленавінаў</Form>
-        <Form Tag="DP">тэленавінам</Form>
-        <Form Tag="AP">тэленавіны</Form>
-        <Form Tag="IP">тэленавінамі</Form>
-        <Form Tag="LP">тэленавінах</Form>
+    <Paradigm pdgId="1127359" Lemma="тэленаві´ны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">тэленаві´ны</Form>
+        <Form Tag="GP" Type="nonstandard">тэленавінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">тэленаві´н</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">тэленаві´нам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">тэленаві´ны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">тэленаві´намі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">тэленаві´нах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127360" Lemma="тэхумовы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">тэхумовы</Form>
-        <Form Tag="GP">тэхумоў</Form>
-        <Form Tag="DP">тэхумовам</Form>
-        <Form Tag="AP">тэхумовы</Form>
-        <Form Tag="IP">тэхумовамі</Form>
-        <Form Tag="LP">тэхумовах</Form>
+    <Paradigm pdgId="1127360" Lemma="тэхумо´вы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">тэхумо´вы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">тэхумо´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">тэхумо´вам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">тэхумо´вы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">тэхумо´вамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">тэхумо´вах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127361" Lemma="уводзіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">уводзіны</Form>
-        <Form Tag="GP">уводзін</Form>
-        <Form Tag="DP">уводзінам</Form>
-        <Form Tag="AP">уводзіны</Form>
-        <Form Tag="IP">уводзінамі</Form>
-        <Form Tag="LP">уводзінах</Form>
+    <Paradigm pdgId="1127361" Lemma="уво´дзіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">уво´дзіны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">уво´дзін</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">уво´дзінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">уво´дзінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">уво´дзіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">уво´дзінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">уво´дзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127362" Lemma="угодкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">угодкі</Form>
-        <Form Tag="GP">угодкаў</Form>
-        <Form Tag="DP">угодкам</Form>
-        <Form Tag="AP">угодкі</Form>
-        <Form Tag="IP">угодкамі</Form>
-        <Form Tag="LP">угодках</Form>
+    <Paradigm pdgId="1127362" Lemma="уго´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">уго´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">уго´дкаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">уго´дак</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">уго´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">уго´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">уго´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">уго´дках</Form>
     </Paradigm>
     <Paradigm pdgId="1127363" Lemma="угры" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">угры</Form>
@@ -1771,14 +1819,14 @@
         <Form Tag="IP">уграмі</Form>
         <Form Tag="LP">уграх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127364" Lemma="узаемаадносіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">узаемаадносіны</Form>
-        <Form Tag="GP">узаемаадносін</Form>
-        <Form Tag="GP">узаемаадносінаў</Form>
-        <Form Tag="DP">узаемаадносінам</Form>
-        <Form Tag="AP">узаемаадносіны</Form>
-        <Form Tag="IP">узаемаадносінамі</Form>
-        <Form Tag="LP">узаемаадносінах</Form>
+    <Paradigm pdgId="1127364" Lemma="узаемаадно´сіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">узаемаадно´сіны</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">узаемаадно´сін</Form>
+        <Form Tag="GP" Type="nonstandard">узаемаадносінаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">узаемаадно´сінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">узаемаадно´сіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">узаемаадно´сінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">узаемаадно´сінах</Form>
     </Paradigm>
     <Paradigm pdgId="1127365" Lemma="усходзіны" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">усходзіны</Form>
@@ -1788,45 +1836,48 @@
         <Form Tag="IP">усходзінамі</Form>
         <Form Tag="LP">усходзінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127366" Lemma="усходкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">усходкі</Form>
-        <Form Tag="GP">усходкаў</Form>
-        <Form Tag="DP">усходкам</Form>
-        <Form Tag="AP">усходкі</Form>
-        <Form Tag="IP">усходкамі</Form>
-        <Form Tag="LP">усходках</Form>
+    <Paradigm pdgId="1127366" Lemma="усхо´дкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">усхо´дкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">усхо´дкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">усхо´дкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">усхо´дкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">усхо´дкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">усхо´дках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127367" Lemma="уходзіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">уходзіны</Form>
-        <Form Tag="GP">уходзінаў</Form>
-        <Form Tag="DP">уходзінам</Form>
-        <Form Tag="AP">уходзіны</Form>
-        <Form Tag="IP">уходзінамі</Form>
-        <Form Tag="LP">уходзінах</Form>
+    <Paradigm pdgId="1127367" Lemma="ухо´дзіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ухо´дзіны</Form>
+        <Form Tag="GP" Type="nonstandard">уходзінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ухо´дзін</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ухо´дзінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ухо´дзіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ухо´дзінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ухо´дзінах</Form>
     </Paradigm>
     <Paradigm pdgId="1127368" Lemma="уцёкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">уцёкі</Form>
-        <Form Tag="GP">уцёкаў</Form>
-        <Form Tag="DP">уцёкам</Form>
-        <Form Tag="AP">уцёкі</Form>
-        <Form Tag="IP">уцёкамі</Form>
-        <Form Tag="LP">уцёках</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">уцёкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">уцёкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">уцёкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">уцёкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">уцёкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">уцёках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127370" Lemma="фекаліі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">фекаліі</Form>
-        <Form Tag="GP">фекаліяў</Form>
-        <Form Tag="DP">фекаліям</Form>
-        <Form Tag="AP">фекаліі</Form>
-        <Form Tag="IP">фекаліямі</Form>
-        <Form Tag="LP">фекаліях</Form>
+    <Paradigm pdgId="1127370" Lemma="фека´ліі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">фека´ліі</Form>
+        <Form Tag="GP" Type="nonstandard">фекаліяў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">фека´лій</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">фека´ліям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">фека´ліі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">фека´ліямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">фека´ліях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127369" Lemma="фіжмы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">фіжмы</Form>
-        <Form Tag="GP">фіжмаў</Form>
-        <Form Tag="DP">фіжмам</Form>
-        <Form Tag="AP">фіжмы</Form>
-        <Form Tag="IP">фіжмамі</Form>
-        <Form Tag="LP">фіжмах</Form>
+    <Paradigm pdgId="1127369" Lemma="фі´жмы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">фі´жмы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">фі´жмаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">фі´жм</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">фі´жмам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">фі´жмы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">фі´жмамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">фі´жмах</Form>
     </Paradigm>
     <Paradigm pdgId="1127371" Lemma="флабафены" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">флабафены</Form>
@@ -1844,45 +1895,47 @@
         <Form Tag="IP">фумароламі</Form>
         <Form Tag="LP">фумаролах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127373" Lemma="хітрыкі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">хітрыкі</Form>
-        <Form Tag="GP">хітрыкаў</Form>
-        <Form Tag="DP">хітрыкам</Form>
-        <Form Tag="AP">хітрыкі</Form>
-        <Form Tag="IP">хітрыкамі</Form>
-        <Form Tag="LP">хітрыках</Form>
+    <Paradigm pdgId="1127373" Lemma="хі´трыкі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">хі´трыкі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">хі´трыкаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">хі´трыкам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">хі´трыкі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">хі´трыкамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">хі´трыках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127374" Lemma="хрэсьбіны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">хрэсьбіны</Form>
-        <Form Tag="GP">хрэсьбінаў</Form>
-        <Form Tag="DP">хрэсьбінам</Form>
-        <Form Tag="AP">хрэсьбіны</Form>
-        <Form Tag="IP">хрэсьбінамі</Form>
-        <Form Tag="LP">хрэсьбінах</Form>
+    <Paradigm pdgId="1127374" Lemma="хрэ´сьбіны" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">хрэ´сьбіны</Form>
+        <Form Tag="GP" Type="nonstandard">хрэсьбінаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">хрэ´сьбін</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">хрэ´сьбінам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">хрэ´сьбіны</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">хрэ´сьбінамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">хрэ´сьбінах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127375" Lemma="ціскі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">ціскі</Form>
-        <Form Tag="GP">ціскоў</Form>
-        <Form Tag="DP">ціскам</Form>
-        <Form Tag="AP">ціскі</Form>
-        <Form Tag="IP">ціскамі</Form>
-        <Form Tag="LP">цісках</Form>
+    <Paradigm pdgId="1127375" Lemma="ціскі´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ціскі´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ціско´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ціска´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ціскі´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ціска´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ціска´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127376" Lemma="цукраміцэты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">цукраміцэты</Form>
-        <Form Tag="GP">цукраміцэтаў</Form>
-        <Form Tag="DP">цукраміцэтам</Form>
-        <Form Tag="AP">цукраміцэты</Form>
-        <Form Tag="IP">цукраміцэтамі</Form>
-        <Form Tag="LP">цукраміцэтах</Form>
+    <Paradigm pdgId="1127376" Lemma="цукраміцэ´ты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">цукраміцэ´ты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">цукраміцэ´таў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">цукраміцэ´там</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">цукраміцэ´ты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">цукраміцэ´тамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">цукраміцэ´тах</Form>
     </Paradigm>
     <Paradigm pdgId="1127377" Lemma="цянёты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">цянёты</Form>
-        <Form Tag="GP">цянётаў</Form>
-        <Form Tag="DP">цянётам</Form>
-        <Form Tag="AP">цянёты</Form>
-        <Form Tag="IP">цянётамі</Form>
-        <Form Tag="LP">цянётах</Form>
+        <Form Tag="NP" Slouniki="nazounik2008">цянёты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">цянётаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">цянёт</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">цянётам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">цянёты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">цянётамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">цянётах</Form>
     </Paradigm>
     <Paradigm pdgId="1127378" Lemma="чаравікі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">чаравікі</Form>
@@ -1892,37 +1945,38 @@
         <Form Tag="IP">чаравікамі</Form>
         <Form Tag="LP">чаравіках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127379" Lemma="чары" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">чары</Form>
-        <Form Tag="GP">чараў</Form>
-        <Form Tag="DP">чарам</Form>
-        <Form Tag="AP">чары</Form>
-        <Form Tag="IP">чарамі</Form>
-        <Form Tag="LP">чарах</Form>
+    <Paradigm pdgId="1127379" Lemma="ча´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ча´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ча´раў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ча´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ча´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ча´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ча´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1025003" Lemma="шалі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">шалі</Form>
-        <Form Tag="GP">шаляў</Form>
-        <Form Tag="DP">шалям</Form>
-        <Form Tag="AP">шалі</Form>
-        <Form Tag="IP">шалямі</Form>
-        <Form Tag="LP">шалях</Form>
+    <Paradigm pdgId="1025003" Lemma="ша´лі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ша´лі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ша´ляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ша´лям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ша´лі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ша´лямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ша´лях</Form>
     </Paradigm>
-    <Paradigm pdgId="1127380" Lemma="шаравары" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">шаравары</Form>
-        <Form Tag="GP">шаравараў</Form>
-        <Form Tag="DP">шараварам</Form>
-        <Form Tag="AP">шаравары</Form>
-        <Form Tag="IP">шараварамі</Form>
-        <Form Tag="LP">шараварах</Form>
+    <Paradigm pdgId="1127380" Lemma="шарава´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">шарава´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">шарава´раў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">шарава´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">шарава´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">шарава´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">шарава´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127381" Lemma="шахматы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">шахматы</Form>
-        <Form Tag="GP">шахматаў</Form>
-        <Form Tag="DP">шахматам</Form>
-        <Form Tag="AP">шахматы</Form>
-        <Form Tag="IP">шахматамі</Form>
-        <Form Tag="LP">шахматах</Form>
+    <Paradigm pdgId="1127381" Lemma="ша´хматы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">ша´хматы</Form>
+        <Form Tag="GP" Type="nonstandard">шахматаў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">ша´хмат</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">ша´хматам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">ша´хматы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">ша´хматамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">ша´хматах</Form>
     </Paradigm>
     <Paradigm pdgId="1127382" Lemma="шлюбнікі" Tag="NCXXNXX" Govern="">
         <Form Tag="NP">шлюбнікі</Form>
@@ -1932,52 +1986,53 @@
         <Form Tag="IP">шлюбнікамі</Form>
         <Form Tag="LP">шлюбніках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127383" Lemma="шорты" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">шорты</Form>
-        <Form Tag="GP">шортаў</Form>
-        <Form Tag="DP">шортам</Form>
-        <Form Tag="AP">шорты</Form>
-        <Form Tag="IP">шортамі</Form>
-        <Form Tag="LP">шортах</Form>
+    <Paradigm pdgId="1127383" Lemma="шо´рты" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">шо´рты</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">шо´ртаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">шо´ртам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">шо´рты</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">шо´ртамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">шо´ртах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127384" Lemma="шпалеры" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">шпалеры</Form>
-        <Form Tag="GP">шпалераў</Form>
-        <Form Tag="DP">шпалерам</Form>
-        <Form Tag="AP">шпалеры</Form>
-        <Form Tag="IP">шпалерамі</Form>
-        <Form Tag="LP">шпалерах</Form>
+    <Paradigm pdgId="1127384" Lemma="шпале´ры" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">шпале´ры</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">шпале´раў</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">шпале´р</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">шпале´рам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">шпале´ры</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">шпале´рамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">шпале´рах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127385" Lemma="штаны" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">штаны</Form>
-        <Form Tag="GP">штаноў</Form>
-        <Form Tag="DP">штанам</Form>
-        <Form Tag="AP">штаны</Form>
-        <Form Tag="IP">штанамі</Form>
-        <Form Tag="LP">штанах</Form>
+    <Paradigm pdgId="1127385" Lemma="штаны´" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">штаны´</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">штано´ў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">штана´м</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">штаны´</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">штана´мі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">штана´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127386" Lemma="штонікі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">штонікі</Form>
-        <Form Tag="GP">штонікаў</Form>
-        <Form Tag="DP">штонікам</Form>
-        <Form Tag="AP">штонікі</Form>
-        <Form Tag="IP">штонікамі</Form>
-        <Form Tag="LP">штоніках</Form>
+    <Paradigm pdgId="1127386" Lemma="што´нікі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">што´нікі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">што´нікаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">што´нікам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">што´нікі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">што´нікамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">што´ніках</Form>
     </Paradigm>
-    <Paradigm pdgId="1127387" Lemma="шчэлепы" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">шчэлепы</Form>
-        <Form Tag="GP">шчэлепаў</Form>
-        <Form Tag="DP">шчэлепам</Form>
-        <Form Tag="AP">шчэлепы</Form>
-        <Form Tag="IP">шчэлепамі</Form>
-        <Form Tag="LP">шчэлепах</Form>
+    <Paradigm pdgId="1127387" Lemma="шчэ´лепы" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">шчэ´лепы</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">шчэ´лепаў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">шчэ´лепам</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">шчэ´лепы</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">шчэ´лепамі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">шчэ´лепах</Form>
     </Paradigm>
-    <Paradigm pdgId="1127388" Lemma="яслі" Tag="NCXXNXX" Govern="">
-        <Form Tag="NP">яслі</Form>
-        <Form Tag="GP">ясляў</Form>
-        <Form Tag="DP">яслям</Form>
-        <Form Tag="AP">яслі</Form>
-        <Form Tag="IP">яслямі</Form>
-        <Form Tag="LP">яслях</Form>
+    <Paradigm pdgId="1127388" Lemma="я´слі" Tag="NCXXNXX" Govern="">
+        <Form Tag="NP" Slouniki="nazounik2008">я´слі</Form>
+        <Form Tag="GP" Slouniki="nazounik2008">я´сляў</Form>
+        <Form Tag="DP" Slouniki="nazounik2008">я´слям</Form>
+        <Form Tag="AP" Slouniki="nazounik2008">я´слі</Form>
+        <Form Tag="IP" Slouniki="nazounik2008">я´слямі</Form>
+        <Form Tag="LP" Slouniki="nazounik2008">я´слях</Form>
     </Paradigm>
 </Wordlist>

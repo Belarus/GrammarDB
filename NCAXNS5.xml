@@ -28,19 +28,20 @@
         <Form Tag="XIP">выхаднымі</Form>
         <Form Tag="XLP">выхадных</Form>
     </Paradigm>
-    <Paradigm pdgId="1128091" Lemma="дзяжурная" Tag="NCAXNS5">
-        <Form Tag="FNS">дзяжурная</Form>
-        <Form Tag="FGS">дзяжурнай</Form>
-        <Form Tag="FDS">дзяжурнай</Form>
-        <Form Tag="FAS">дзяжурную</Form>
-        <Form Tag="FIS">дзяжурнай</Form>
-        <Form Tag="FLS">дзяжурнай</Form>
-        <Form Tag="XNP">дзяжурныя</Form>
-        <Form Tag="XGP">дзяжурных</Form>
-        <Form Tag="XDP">дзяжурным</Form>
-        <Form Tag="XAP">дзяжурных</Form>
-        <Form Tag="XIP">дзяжурнымі</Form>
-        <Form Tag="XLP">дзяжурных</Form>
+    <Paradigm pdgId="1128091" Lemma="дзяжу´рная" Tag="NCAXNS5" meaning="жанчына, якая дзяжурыць">
+        <Form Tag="FNS" Slouniki="nazounik2008">дзяжу´рная</Form>
+        <Form Tag="FGS" Slouniki="nazounik2008">дзяжу´рнай</Form>
+        <Form Tag="FDS" Slouniki="nazounik2008">дзяжу´рнай</Form>
+        <Form Tag="FAS" Slouniki="nazounik2008">дзяжу´рную</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дзяжу´рнай</Form>
+        <Form Tag="FIS" Slouniki="nazounik2008">дзяжу´рнаю</Form>
+        <Form Tag="FLS" Slouniki="nazounik2008">дзяжу´рнай</Form>
+        <Form Tag="FNP" Slouniki="nazounik2008">дзяжу´рныя</Form>
+        <Form Tag="FGP" Slouniki="nazounik2008">дзяжу´рных</Form>
+        <Form Tag="FDP" Slouniki="nazounik2008">дзяжу´рным</Form>
+        <Form Tag="FAP" Slouniki="nazounik2008">дзяжу´рных</Form>
+        <Form Tag="FIP" Slouniki="nazounik2008">дзяжу´рнымі</Form>
+        <Form Tag="FLP" Slouniki="nazounik2008">дзяжу´рных</Form>
     </Paradigm>
     <Paradigm pdgId="1128137" Lemma="радзімая" Tag="NCAXNS5">
         <Form Tag="FNS">радзімая</Form>
@@ -56,13 +57,7 @@
         <Form Tag="XIP">радзімымі</Form>
         <Form Tag="XLP">радзімых</Form>
     </Paradigm>
-    <Paradigm pdgId="1138921" Lemma="узнагародныя" Tag="NCAXNS5">
-        <Form Tag="XNS"></Form>
-        <Form Tag="XGS"></Form>
-        <Form Tag="XDS"></Form>
-        <Form Tag="XAS"></Form>
-        <Form Tag="XIS"></Form>
-        <Form Tag="XLS"></Form>
+    <Paradigm pdgId="1138921" Lemma="узнагародныя" Tag="NCAXNS5" todo="дакладна праверыць адушаўлёнасьць">
         <Form Tag="XNP">узнагародныя</Form>
         <Form Tag="XGP">узнагародных</Form>
         <Form Tag="XDP">узнагародным</Form>

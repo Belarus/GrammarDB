@@ -1,33 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1000289" Lemma="абабіты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">абабіты</Form>
-        <Form Tag="MGS">абабітага</Form>
-        <Form Tag="MDS">абабітаму</Form>
-        <Form Tag="MAS">абабіты</Form>
-        <Form Tag="MAS">абабітага</Form>
-        <Form Tag="MIS">абабітым</Form>
-        <Form Tag="MLS">абабітым</Form>
-        <Form Tag="FNS">абабітая</Form>
-        <Form Tag="FGS">абабітай</Form>
-        <Form Tag="FGS">абабітае</Form>
-        <Form Tag="FDS">абабітай</Form>
-        <Form Tag="FAS">абабітую</Form>
-        <Form Tag="FIS">абабітай</Form>
-        <Form Tag="FIS">абабітаю</Form>
-        <Form Tag="FLS">абабітай</Form>
-        <Form Tag="NNS">абабітае</Form>
-        <Form Tag="NGS">абабітага</Form>
-        <Form Tag="NDS">абабітаму</Form>
-        <Form Tag="NAS">абабітае</Form>
-        <Form Tag="NIS">абабітым</Form>
-        <Form Tag="NLS">абабітым</Form>
-        <Form Tag="XNP">абабітыя</Form>
-        <Form Tag="XGP">абабітых</Form>
-        <Form Tag="XDP">абабітым</Form>
-        <Form Tag="XAP">абабітыя</Form>
-        <Form Tag="XIP">абабітымі</Form>
-        <Form Tag="XLP">абабітых</Form>
+    <Paradigm pdgId="1000289" Lemma="абабі´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">абабі´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">абабі´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">абабі´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">абабі´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">абабі´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">абабі´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">абабі´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">абабі´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абабі´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абабі´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">абабі´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">абабі´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абабі´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абабі´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">абабі´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">абабі´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">абабі´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">абабі´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">абабі´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">абабі´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">абабі´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">абабі´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">абабі´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">абабі´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">абабі´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">абабі´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">абабі´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">абабі´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1000310" Lemma="абагнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">абагнуты</Form>
@@ -291,62 +292,63 @@
         <Form Tag="XLP">абгорнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1000482" Lemma="абдзёрты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">абдзёрты</Form>
-        <Form Tag="MGS">абдзёртага</Form>
-        <Form Tag="MDS">абдзёртаму</Form>
-        <Form Tag="MAS">абдзёрты</Form>
-        <Form Tag="MAS">абдзёртага</Form>
-        <Form Tag="MIS">абдзёртым</Form>
-        <Form Tag="MLS">абдзёртым</Form>
-        <Form Tag="FNS">абдзёртая</Form>
-        <Form Tag="FGS">абдзёртай</Form>
-        <Form Tag="FGS">абдзёртае</Form>
-        <Form Tag="FDS">абдзёртай</Form>
-        <Form Tag="FAS">абдзёртую</Form>
-        <Form Tag="FIS">абдзёртай</Form>
-        <Form Tag="FIS">абдзёртаю</Form>
-        <Form Tag="FLS">абдзёртай</Form>
-        <Form Tag="NNS">абдзёртае</Form>
-        <Form Tag="NGS">абдзёртага</Form>
-        <Form Tag="NDS">абдзёртаму</Form>
-        <Form Tag="NAS">абдзёртае</Form>
-        <Form Tag="NIS">абдзёртым</Form>
-        <Form Tag="NLS">абдзёртым</Form>
-        <Form Tag="XNP">абдзёртыя</Form>
-        <Form Tag="XGP">абдзёртых</Form>
-        <Form Tag="XDP">абдзёртым</Form>
-        <Form Tag="XAP">абдзёртыя</Form>
-        <Form Tag="XIP">абдзёртымі</Form>
-        <Form Tag="XLP">абдзёртых</Form>
+        <Form Tag="MNS" Slouniki="prym2009">абдзёрты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">абдзёртага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">абдзёртаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">абдзёрты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">абдзёртага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">абдзёртым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">абдзёртым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">абдзёртая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абдзёртай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абдзёртае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">абдзёртай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">абдзёртую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абдзёртай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абдзёртаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">абдзёртай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">абдзёртае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">абдзёртага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">абдзёртаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">абдзёртае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">абдзёртым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">абдзёртым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">абдзёртыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">абдзёртых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">абдзёртым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">абдзёртыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">абдзёртымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">абдзёртых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">абдзёртых</Form>
     </Paradigm>
-    <Paradigm pdgId="1000528" Lemma="абжыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">абжыты</Form>
-        <Form Tag="MGS">абжытага</Form>
-        <Form Tag="MDS">абжытаму</Form>
-        <Form Tag="MAS">абжыты</Form>
+    <Paradigm pdgId="1000528" Lemma="абжы´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">абжы´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">абжы´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">абжы´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">абжы´ты</Form>
         <Form Tag="MAS">абжытага</Form>
-        <Form Tag="MIS">абжытым</Form>
-        <Form Tag="MLS">абжытым</Form>
-        <Form Tag="FNS">абжытая</Form>
-        <Form Tag="FGS">абжытай</Form>
-        <Form Tag="FGS">абжытае</Form>
-        <Form Tag="FDS">абжытай</Form>
-        <Form Tag="FAS">абжытую</Form>
-        <Form Tag="FIS">абжытай</Form>
-        <Form Tag="FIS">абжытаю</Form>
-        <Form Tag="FLS">абжытай</Form>
-        <Form Tag="NNS">абжытае</Form>
-        <Form Tag="NGS">абжытага</Form>
-        <Form Tag="NDS">абжытаму</Form>
-        <Form Tag="NAS">абжытае</Form>
-        <Form Tag="NIS">абжытым</Form>
-        <Form Tag="NLS">абжытым</Form>
-        <Form Tag="XNP">абжытыя</Form>
-        <Form Tag="XGP">абжытых</Form>
-        <Form Tag="XDP">абжытым</Form>
-        <Form Tag="XAP">абжытыя</Form>
-        <Form Tag="XIP">абжытымі</Form>
-        <Form Tag="XLP">абжытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">абжы´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">абжы´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">абжы´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абжы´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абжы´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">абжы´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">абжы´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абжы´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абжы´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">абжы´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">абжы´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">абжы´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">абжы´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">абжы´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">абжы´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">абжы´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">абжы´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">абжы´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">абжы´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">абжы´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">абжы´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">абжы´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1000558" Lemma="абколаты" Tag="PPPP" Govern="">
         <Form Tag="MNS">абколаты</Form>
@@ -493,34 +495,35 @@
         <Form Tag="XIP">абрынутымі</Form>
         <Form Tag="XLP">абрынутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1000855" Lemma="абуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">абуты</Form>
-        <Form Tag="MGS">абутага</Form>
-        <Form Tag="MDS">абутаму</Form>
+    <Paradigm pdgId="1000855" Lemma="абу´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">абу´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">абу´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">абу´таму</Form>
         <Form Tag="MAS">абуты</Form>
-        <Form Tag="MAS">абутага</Form>
-        <Form Tag="MIS">абутым</Form>
-        <Form Tag="MLS">абутым</Form>
-        <Form Tag="FNS">абутая</Form>
-        <Form Tag="FGS">абутай</Form>
-        <Form Tag="FGS">абутае</Form>
-        <Form Tag="FDS">абутай</Form>
-        <Form Tag="FAS">абутую</Form>
-        <Form Tag="FIS">абутай</Form>
-        <Form Tag="FIS">абутаю</Form>
-        <Form Tag="FLS">абутай</Form>
-        <Form Tag="NNS">абутае</Form>
-        <Form Tag="NGS">абутага</Form>
-        <Form Tag="NDS">абутаму</Form>
-        <Form Tag="NAS">абутае</Form>
-        <Form Tag="NIS">абутым</Form>
-        <Form Tag="NLS">абутым</Form>
-        <Form Tag="XNP">абутыя</Form>
-        <Form Tag="XGP">абутых</Form>
-        <Form Tag="XDP">абутым</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">абу´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">абу´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">абу´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">абу´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абу´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">абу´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">абу´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">абу´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абу´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">абу´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">абу´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">абу´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">абу´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">абу´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">абу´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">абу´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">абу´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">абу´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">абу´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">абу´тым</Form>
         <Form Tag="XAP">абутыя</Form>
-        <Form Tag="XIP">абутымі</Form>
-        <Form Tag="XLP">абутых</Form>
+        <Form Tag="PIP" Slouniki="prym2009">абу´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">абу´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">абу´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1000864" Lemma="абціснуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">абціснуты</Form>
@@ -812,34 +815,35 @@
         <Form Tag="XIP">адбытымі</Form>
         <Form Tag="XLP">адбытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1001133" Lemma="адзеты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">адзеты</Form>
-        <Form Tag="MGS">адзетага</Form>
-        <Form Tag="MDS">адзетаму</Form>
-        <Form Tag="MAS">адзеты</Form>
-        <Form Tag="MAS">адзетага</Form>
-        <Form Tag="MIS">адзетым</Form>
-        <Form Tag="MLS">адзетым</Form>
-        <Form Tag="FNS">адзетая</Form>
-        <Form Tag="FGS">адзетай</Form>
-        <Form Tag="FGS">адзетае</Form>
-        <Form Tag="FDS">адзетай</Form>
-        <Form Tag="FAS">адзетую</Form>
-        <Form Tag="FIS">адзетай</Form>
-        <Form Tag="FIS">адзетаю</Form>
-        <Form Tag="FLS">адзетай</Form>
-        <Form Tag="NNS">адзетае</Form>
-        <Form Tag="NGS">адзетага</Form>
-        <Form Tag="NDS">адзетаму</Form>
-        <Form Tag="NAS">адзетае</Form>
-        <Form Tag="NIS">адзетым</Form>
-        <Form Tag="NLS">адзетым</Form>
-        <Form Tag="XNP">адзетыя</Form>
-        <Form Tag="XGP">адзетых</Form>
-        <Form Tag="XDP">адзетым</Form>
-        <Form Tag="XAP">адзетыя</Form>
-        <Form Tag="XIP">адзетымі</Form>
-        <Form Tag="XLP">адзетых</Form>
+    <Paradigm pdgId="1001133" Lemma="адзе´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">адзе´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">адзе´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">адзе´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">адзе´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">адзе´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">адзе´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">адзе´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">адзе´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">адзе´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">адзе´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">адзе´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">адзе´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">адзе´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">адзе´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">адзе´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">адзе´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">адзе´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">адзе´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">адзе´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">адзе´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">адзе´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">адзе´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">адзе´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">адзе´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">адзе´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">адзе´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">адзе´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">адзе´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1001145" Lemma="адкінуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">адкінуты</Form>
@@ -870,34 +874,34 @@
         <Form Tag="XIP">адкінутымі</Form>
         <Form Tag="XLP">адкінутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1001194" Lemma="адкрыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">адкрыты</Form>
-        <Form Tag="MGS">адкрытага</Form>
-        <Form Tag="MDS">адкрытаму</Form>
-        <Form Tag="MAS">адкрыты</Form>
+    <Paradigm pdgId="1001194" Lemma="адкры´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">адкры´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">адкры´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">адкры´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">адкры´ты</Form>
         <Form Tag="MAS">адкрытага</Form>
-        <Form Tag="MIS">адкрытым</Form>
-        <Form Tag="MLS">адкрытым</Form>
-        <Form Tag="FNS">адкрытая</Form>
-        <Form Tag="FGS">адкрытай</Form>
-        <Form Tag="FGS">адкрытае</Form>
-        <Form Tag="FDS">адкрытай</Form>
-        <Form Tag="FAS">адкрытую</Form>
-        <Form Tag="FIS">адкрытай</Form>
-        <Form Tag="FIS">адкрытаю</Form>
-        <Form Tag="FLS">адкрытай</Form>
-        <Form Tag="NNS">адкрытае</Form>
-        <Form Tag="NGS">адкрытага</Form>
-        <Form Tag="NDS">адкрытаму</Form>
-        <Form Tag="NAS">адкрытае</Form>
-        <Form Tag="NIS">адкрытым</Form>
-        <Form Tag="NLS">адкрытым</Form>
-        <Form Tag="XNP">адкрытыя</Form>
-        <Form Tag="XGP">адкрытых</Form>
-        <Form Tag="XDP">адкрытым</Form>
-        <Form Tag="XAP">адкрытыя</Form>
-        <Form Tag="XIP">адкрытымі</Form>
-        <Form Tag="XLP">адкрытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">адкры´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">адкры´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">адкры´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">адкры´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">адкры´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">адкры´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">адкры´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">адкры´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">адкры´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">адкры´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">адкры´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">адкры´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">адкры´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">адкры´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">адкры´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">адкры´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">адкры´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">адкры´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">адкры´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">адкры´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">адкры´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">адкры´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1001200" Lemma="адліты" Tag="PPPP" Govern="">
         <Form Tag="MNS">адліты</Form>
@@ -986,34 +990,35 @@
         <Form Tag="XIP">аднятымі</Form>
         <Form Tag="XLP">аднятых</Form>
     </Paradigm>
-    <Paradigm pdgId="1001315" Lemma="адпеты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">адпеты</Form>
-        <Form Tag="MGS">адпетага</Form>
-        <Form Tag="MDS">адпетаму</Form>
-        <Form Tag="MAS">адпеты</Form>
-        <Form Tag="MAS">адпетага</Form>
-        <Form Tag="MIS">адпетым</Form>
-        <Form Tag="MLS">адпетым</Form>
-        <Form Tag="FNS">адпетая</Form>
-        <Form Tag="FGS">адпетай</Form>
-        <Form Tag="FGS">адпетае</Form>
-        <Form Tag="FDS">адпетай</Form>
-        <Form Tag="FAS">адпетую</Form>
-        <Form Tag="FIS">адпетай</Form>
-        <Form Tag="FIS">адпетаю</Form>
-        <Form Tag="FLS">адпетай</Form>
-        <Form Tag="NNS">адпетае</Form>
-        <Form Tag="NGS">адпетага</Form>
-        <Form Tag="NDS">адпетаму</Form>
-        <Form Tag="NAS">адпетае</Form>
-        <Form Tag="NIS">адпетым</Form>
-        <Form Tag="NLS">адпетым</Form>
-        <Form Tag="XNP">адпетыя</Form>
-        <Form Tag="XGP">адпетых</Form>
-        <Form Tag="XDP">адпетым</Form>
-        <Form Tag="XAP">адпетыя</Form>
-        <Form Tag="XIP">адпетымі</Form>
-        <Form Tag="XLP">адпетых</Form>
+    <Paradigm pdgId="1001315" Lemma="адпе´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">адпе´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">адпе´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">адпе´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">адпе´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">адпе´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">адпе´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">адпе´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">адпе´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">адпе´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">адпе´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">адпе´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">адпе´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">адпе´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">адпе´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">адпе´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">адпе´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">адпе´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">адпе´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">адпе´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">адпе´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">адпе´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">адпе´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">адпе´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">адпе´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">адпе´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">адпе´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">адпе´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">адпе´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1001307" Lemma="адпіхнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">адпіхнуты</Form>
@@ -1305,63 +1310,65 @@
         <Form Tag="XIP">апетымі</Form>
         <Form Tag="XLP">апетых</Form>
     </Paradigm>
-    <Paradigm pdgId="1001898" Lemma="апрануты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">апрануты</Form>
-        <Form Tag="MGS">апранутага</Form>
-        <Form Tag="MDS">апранутаму</Form>
-        <Form Tag="MAS">апрануты</Form>
-        <Form Tag="MAS">апранутага</Form>
-        <Form Tag="MIS">апранутым</Form>
-        <Form Tag="MLS">апранутым</Form>
-        <Form Tag="FNS">апранутая</Form>
-        <Form Tag="FGS">апранутай</Form>
-        <Form Tag="FGS">апранутае</Form>
-        <Form Tag="FDS">апранутай</Form>
-        <Form Tag="FAS">апранутую</Form>
-        <Form Tag="FIS">апранутай</Form>
-        <Form Tag="FIS">апранутаю</Form>
-        <Form Tag="FLS">апранутай</Form>
-        <Form Tag="NNS">апранутае</Form>
-        <Form Tag="NGS">апранутага</Form>
-        <Form Tag="NDS">апранутаму</Form>
-        <Form Tag="NAS">апранутае</Form>
-        <Form Tag="NIS">апранутым</Form>
-        <Form Tag="NLS">апранутым</Form>
-        <Form Tag="XNP">апранутыя</Form>
-        <Form Tag="XGP">апранутых</Form>
-        <Form Tag="XDP">апранутым</Form>
-        <Form Tag="XAP">апранутыя</Form>
-        <Form Tag="XIP">апранутымі</Form>
-        <Form Tag="XLP">апранутых</Form>
+    <Paradigm pdgId="1001898" Lemma="апра´нуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">апра´нуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">апра´нутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">апра´нутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">апра´нуты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">апра´нутага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">апра´нутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">апра´нутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">апра´нутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">апра´нутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">апра´нутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">апра´нутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">апра´нутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">апра´нутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">апра´нутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">апра´нутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">апра´нутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">апра´нутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">апра´нутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">апра´нутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">апра´нутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">апра´нутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">апра´нутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">апра´нутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">апра´нутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">апра´нутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">апра´нутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">апра´нутых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">апра´нутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1002147" Lemma="асунуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">асунуты</Form>
-        <Form Tag="MGS">асунутага</Form>
-        <Form Tag="MDS">асунутаму</Form>
-        <Form Tag="MAS">асунуты</Form>
-        <Form Tag="MAS">асунутага</Form>
-        <Form Tag="MIS">асунутым</Form>
-        <Form Tag="MLS">асунутым</Form>
-        <Form Tag="FNS">асунутая</Form>
-        <Form Tag="FGS">асунутай</Form>
-        <Form Tag="FGS">асунутае</Form>
-        <Form Tag="FDS">асунутай</Form>
-        <Form Tag="FAS">асунутую</Form>
-        <Form Tag="FIS">асунутай</Form>
-        <Form Tag="FIS">асунутаю</Form>
-        <Form Tag="FLS">асунутай</Form>
-        <Form Tag="NNS">асунутае</Form>
-        <Form Tag="NGS">асунутага</Form>
-        <Form Tag="NDS">асунутаму</Form>
-        <Form Tag="NAS">асунутае</Form>
-        <Form Tag="NIS">асунутым</Form>
-        <Form Tag="NLS">асунутым</Form>
-        <Form Tag="XNP">асунутыя</Form>
-        <Form Tag="XGP">асунутых</Form>
-        <Form Tag="XDP">асунутым</Form>
-        <Form Tag="XAP">асунутыя</Form>
-        <Form Tag="XIP">асунутымі</Form>
-        <Form Tag="XLP">асунутых</Form>
+    <Paradigm pdgId="1002147" Lemma="асу´нуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">асу´нуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">асу´нутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">асу´нутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">асу´нуты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">асу´нутага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">асу´нутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">асу´нутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">асу´нутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">асу´нутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">асу´нутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">асу´нутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">асу´нутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">асу´нутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">асу´нутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">асу´нутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">асу´нутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">асу´нутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">асу´нутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">асу´нутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">асу´нутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">асу´нутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">асу´нутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">асу´нутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">асу´нутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">асу´нутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">асу´нутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">асу´нутых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">асу´нутых</Form>
     </Paradigm>
     <Paradigm pdgId="1002259" Lemma="ахінуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">ахінуты</Form>
@@ -1479,34 +1486,34 @@
         <Form Tag="XIP">вернутымі</Form>
         <Form Tag="XLP">вернутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1002557" Lemma="віты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">віты</Form>
-        <Form Tag="MGS">вітага</Form>
-        <Form Tag="MDS">вітаму</Form>
-        <Form Tag="MAS">віты</Form>
+    <Paradigm pdgId="1002557" Lemma="ві´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">ві´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">ві´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">ві´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">ві´ты</Form>
         <Form Tag="MAS">вітага</Form>
-        <Form Tag="MIS">вітым</Form>
-        <Form Tag="MLS">вітым</Form>
-        <Form Tag="FNS">вітая</Form>
-        <Form Tag="FGS">вітай</Form>
-        <Form Tag="FGS">вітае</Form>
-        <Form Tag="FDS">вітай</Form>
-        <Form Tag="FAS">вітую</Form>
-        <Form Tag="FIS">вітай</Form>
-        <Form Tag="FIS">вітаю</Form>
-        <Form Tag="FLS">вітай</Form>
-        <Form Tag="NNS">вітае</Form>
-        <Form Tag="NGS">вітага</Form>
-        <Form Tag="NDS">вітаму</Form>
-        <Form Tag="NAS">вітае</Form>
-        <Form Tag="NIS">вітым</Form>
-        <Form Tag="NLS">вітым</Form>
-        <Form Tag="XNP">вітыя</Form>
-        <Form Tag="XGP">вітых</Form>
-        <Form Tag="XDP">вітым</Form>
-        <Form Tag="XAP">вітыя</Form>
-        <Form Tag="XIP">вітымі</Form>
-        <Form Tag="XLP">вітых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">ві´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">ві´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">ві´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">ві´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">ві´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">ві´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">ві´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ві´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ві´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">ві´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">ві´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">ві´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">ві´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">ві´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">ві´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">ві´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">ві´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">ві´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">ві´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">ві´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">ві´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">ві´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1002631" Lemma="выбіты" Tag="PPPP" Govern="">
         <Form Tag="MNS">выбіты</Form>
@@ -1595,34 +1602,34 @@
         <Form Tag="XIP">вывернутымі</Form>
         <Form Tag="XLP">вывернутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1002650" Lemma="вывіхнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">вывіхнуты</Form>
-        <Form Tag="MGS">вывіхнутага</Form>
-        <Form Tag="MDS">вывіхнутаму</Form>
-        <Form Tag="MAS">вывіхнуты</Form>
+    <Paradigm pdgId="1002650" Lemma="вы´віхнуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">вы´віхнуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">вы´віхнутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">вы´віхнутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">вы´віхнуты</Form>
         <Form Tag="MAS">вывіхнутага</Form>
-        <Form Tag="MIS">вывіхнутым</Form>
-        <Form Tag="MLS">вывіхнутым</Form>
-        <Form Tag="FNS">вывіхнутая</Form>
-        <Form Tag="FGS">вывіхнутай</Form>
-        <Form Tag="FGS">вывіхнутае</Form>
-        <Form Tag="FDS">вывіхнутай</Form>
-        <Form Tag="FAS">вывіхнутую</Form>
-        <Form Tag="FIS">вывіхнутай</Form>
-        <Form Tag="FIS">вывіхнутаю</Form>
-        <Form Tag="FLS">вывіхнутай</Form>
-        <Form Tag="NNS">вывіхнутае</Form>
-        <Form Tag="NGS">вывіхнутага</Form>
-        <Form Tag="NDS">вывіхнутаму</Form>
-        <Form Tag="NAS">вывіхнутае</Form>
-        <Form Tag="NIS">вывіхнутым</Form>
-        <Form Tag="NLS">вывіхнутым</Form>
-        <Form Tag="XNP">вывіхнутыя</Form>
-        <Form Tag="XGP">вывіхнутых</Form>
-        <Form Tag="XDP">вывіхнутым</Form>
-        <Form Tag="XAP">вывіхнутыя</Form>
-        <Form Tag="XIP">вывіхнутымі</Form>
-        <Form Tag="XLP">вывіхнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">вы´віхнутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">вы´віхнутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">вы´віхнутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´віхнутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´віхнутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">вы´віхнутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">вы´віхнутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´віхнутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´віхнутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">вы´віхнутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">вы´віхнутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">вы´віхнутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">вы´віхнутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">вы´віхнутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">вы´віхнутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">вы´віхнутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">вы´віхнутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">вы´віхнутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">вы´віхнутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">вы´віхнутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">вы´віхнутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">вы´віхнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1002729" Lemma="выгнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">выгнуты</Form>
@@ -1885,34 +1892,35 @@
         <Form Tag="XIP">выкрытымі</Form>
         <Form Tag="XLP">выкрытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1002969" Lemma="выліты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">выліты</Form>
-        <Form Tag="MGS">вылітага</Form>
-        <Form Tag="MDS">вылітаму</Form>
-        <Form Tag="MAS">выліты</Form>
-        <Form Tag="MAS">вылітага</Form>
-        <Form Tag="MIS">вылітым</Form>
-        <Form Tag="MLS">вылітым</Form>
-        <Form Tag="FNS">вылітая</Form>
-        <Form Tag="FGS">вылітай</Form>
-        <Form Tag="FGS">вылітае</Form>
-        <Form Tag="FDS">вылітай</Form>
-        <Form Tag="FAS">вылітую</Form>
-        <Form Tag="FIS">вылітай</Form>
-        <Form Tag="FIS">вылітаю</Form>
-        <Form Tag="FLS">вылітай</Form>
-        <Form Tag="NNS">вылітае</Form>
-        <Form Tag="NGS">вылітага</Form>
-        <Form Tag="NDS">вылітаму</Form>
-        <Form Tag="NAS">вылітае</Form>
-        <Form Tag="NIS">вылітым</Form>
-        <Form Tag="NLS">вылітым</Form>
-        <Form Tag="XNP">вылітыя</Form>
-        <Form Tag="XGP">вылітых</Form>
-        <Form Tag="XDP">вылітым</Form>
-        <Form Tag="XAP">вылітыя</Form>
-        <Form Tag="XIP">вылітымі</Form>
-        <Form Tag="XLP">вылітых</Form>
+    <Paradigm pdgId="1002969" Lemma="вы´літы" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">вы´літы</Form>
+        <Form Tag="MGS" Slouniki="prym2009">вы´літага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">вы´літаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">вы´літы</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">вы´літага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">вы´літым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">вы´літым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">вы´літая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´літай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´літае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">вы´літай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">вы´літую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´літай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´літаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">вы´літай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">вы´літае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">вы´літага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">вы´літаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">вы´літае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">вы´літым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">вы´літым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">вы´літыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">вы´літых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">вы´літым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">вы´літыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">вы´літымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">вы´літых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">вы´літых</Form>
     </Paradigm>
     <Paradigm pdgId="1003062" Lemma="вымыты" Tag="PPPP" Govern="">
         <Form Tag="MNS">вымыты</Form>
@@ -2117,34 +2125,35 @@
         <Form Tag="XIP">высунутымі</Form>
         <Form Tag="XLP">высунутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1003377" Lemma="выцерты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">выцерты</Form>
-        <Form Tag="MGS">выцертага</Form>
-        <Form Tag="MDS">выцертаму</Form>
-        <Form Tag="MAS">выцерты</Form>
-        <Form Tag="MAS">выцертага</Form>
-        <Form Tag="MIS">выцертым</Form>
-        <Form Tag="MLS">выцертым</Form>
-        <Form Tag="FNS">выцертая</Form>
-        <Form Tag="FGS">выцертай</Form>
-        <Form Tag="FGS">выцертае</Form>
-        <Form Tag="FDS">выцертай</Form>
-        <Form Tag="FAS">выцертую</Form>
-        <Form Tag="FIS">выцертай</Form>
-        <Form Tag="FIS">выцертаю</Form>
-        <Form Tag="FLS">выцертай</Form>
-        <Form Tag="NNS">выцертае</Form>
-        <Form Tag="NGS">выцертага</Form>
-        <Form Tag="NDS">выцертаму</Form>
-        <Form Tag="NAS">выцертае</Form>
-        <Form Tag="NIS">выцертым</Form>
-        <Form Tag="NLS">выцертым</Form>
-        <Form Tag="XNP">выцертыя</Form>
-        <Form Tag="XGP">выцертых</Form>
-        <Form Tag="XDP">выцертым</Form>
-        <Form Tag="XAP">выцертыя</Form>
-        <Form Tag="XIP">выцертымі</Form>
-        <Form Tag="XLP">выцертых</Form>
+    <Paradigm pdgId="1003377" Lemma="вы´церты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">вы´церты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">вы´цертага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">вы´цертаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">вы´церты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">вы´цертага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">вы´цертым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">вы´цертым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">вы´цертая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´цертай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´цертае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">вы´цертай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">вы´цертую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´цертай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´цертаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">вы´цертай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">вы´цертае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">вы´цертага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">вы´цертаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">вы´цертае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">вы´цертым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">вы´цертым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">вы´цертыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">вы´цертых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">вы´цертым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">вы´цертыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">вы´цертымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">вы´цертых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">вы´цертых</Form>
     </Paradigm>
     <Paradigm pdgId="1003368" Lemma="выціснуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">выціснуты</Form>
@@ -2291,34 +2300,34 @@
         <Form Tag="XIP">выштурхнутымі</Form>
         <Form Tag="XLP">выштурхнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1003444" Lemma="вышыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">вышыты</Form>
-        <Form Tag="MGS">вышытага</Form>
-        <Form Tag="MDS">вышытаму</Form>
-        <Form Tag="MAS">вышыты</Form>
+    <Paradigm pdgId="1003444" Lemma="вы´шыты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">вы´шыты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">вы´шытага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">вы´шытаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">вы´шыты</Form>
         <Form Tag="MAS">вышытага</Form>
-        <Form Tag="MIS">вышытым</Form>
-        <Form Tag="MLS">вышытым</Form>
-        <Form Tag="FNS">вышытая</Form>
-        <Form Tag="FGS">вышытай</Form>
-        <Form Tag="FGS">вышытае</Form>
-        <Form Tag="FDS">вышытай</Form>
-        <Form Tag="FAS">вышытую</Form>
-        <Form Tag="FIS">вышытай</Form>
-        <Form Tag="FIS">вышытаю</Form>
-        <Form Tag="FLS">вышытай</Form>
-        <Form Tag="NNS">вышытае</Form>
-        <Form Tag="NGS">вышытага</Form>
-        <Form Tag="NDS">вышытаму</Form>
-        <Form Tag="NAS">вышытае</Form>
-        <Form Tag="NIS">вышытым</Form>
-        <Form Tag="NLS">вышытым</Form>
-        <Form Tag="XNP">вышытыя</Form>
-        <Form Tag="XGP">вышытых</Form>
-        <Form Tag="XDP">вышытым</Form>
-        <Form Tag="XAP">вышытыя</Form>
-        <Form Tag="XIP">вышытымі</Form>
-        <Form Tag="XLP">вышытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">вы´шытым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">вы´шытым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">вы´шытая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´шытай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">вы´шытае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">вы´шытай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">вы´шытую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´шытай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">вы´шытаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">вы´шытай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">вы´шытае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">вы´шытага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">вы´шытаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">вы´шытае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">вы´шытым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">вы´шытым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">вы´шытыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">вы´шытых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">вы´шытым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">вы´шытыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">вы´шытымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">вы´шытых</Form>
     </Paradigm>
     <Paradigm pdgId="1003567" Lemma="глянцаваты" Tag="PPPP" Govern="">
         <Form Tag="MNS">глянцаваты</Form>
@@ -2523,63 +2532,65 @@
         <Form Tag="XIP">драпнутымі</Form>
         <Form Tag="XLP">драпнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1003998" Lemma="забіты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">забіты</Form>
-        <Form Tag="MGS">забітага</Form>
-        <Form Tag="MDS">забітаму</Form>
-        <Form Tag="MAS">забіты</Form>
-        <Form Tag="MAS">забітага</Form>
-        <Form Tag="MIS">забітым</Form>
-        <Form Tag="MLS">забітым</Form>
-        <Form Tag="FNS">забітая</Form>
-        <Form Tag="FGS">забітай</Form>
-        <Form Tag="FGS">забітае</Form>
-        <Form Tag="FDS">забітай</Form>
-        <Form Tag="FAS">забітую</Form>
-        <Form Tag="FIS">забітай</Form>
-        <Form Tag="FIS">забітаю</Form>
-        <Form Tag="FLS">забітай</Form>
-        <Form Tag="NNS">забітае</Form>
-        <Form Tag="NGS">забітага</Form>
-        <Form Tag="NDS">забітаму</Form>
-        <Form Tag="NAS">забітае</Form>
-        <Form Tag="NIS">забітым</Form>
-        <Form Tag="NLS">забітым</Form>
-        <Form Tag="XNP">забітыя</Form>
-        <Form Tag="XGP">забітых</Form>
-        <Form Tag="XDP">забітым</Form>
-        <Form Tag="XAP">забітыя</Form>
-        <Form Tag="XIP">забітымі</Form>
-        <Form Tag="XLP">забітых</Form>
+    <Paradigm pdgId="1003998" Lemma="забі´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">забі´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">забі´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">забі´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">забі´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">забі´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">забі´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">забі´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">забі´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">забі´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">забі´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">забі´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">забі´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">забі´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">забі´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">забі´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">забі´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">забі´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">забі´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">забі´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">забі´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">забі´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">забі´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">забі´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">забі´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">забі´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">забі´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">забі´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">забі´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1004050" Lemma="забыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">забыты</Form>
-        <Form Tag="MGS">забытага</Form>
-        <Form Tag="MDS">забытаму</Form>
-        <Form Tag="MAS">забыты</Form>
-        <Form Tag="MAS">забытага</Form>
-        <Form Tag="MIS">забытым</Form>
-        <Form Tag="MLS">забытым</Form>
-        <Form Tag="FNS">забытая</Form>
-        <Form Tag="FGS">забытай</Form>
-        <Form Tag="FGS">забытае</Form>
-        <Form Tag="FDS">забытай</Form>
-        <Form Tag="FAS">забытую</Form>
-        <Form Tag="FIS">забытай</Form>
-        <Form Tag="FIS">забытаю</Form>
-        <Form Tag="FLS">забытай</Form>
-        <Form Tag="NNS">забытае</Form>
-        <Form Tag="NGS">забытага</Form>
-        <Form Tag="NDS">забытаму</Form>
-        <Form Tag="NAS">забытае</Form>
-        <Form Tag="NIS">забытым</Form>
-        <Form Tag="NLS">забытым</Form>
-        <Form Tag="XNP">забытыя</Form>
-        <Form Tag="XGP">забытых</Form>
-        <Form Tag="XDP">забытым</Form>
-        <Form Tag="XAP">забытыя</Form>
-        <Form Tag="XIP">забытымі</Form>
-        <Form Tag="XLP">забытых</Form>
+    <Paradigm pdgId="1004050" Lemma="забы´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">забы´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">забы´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">забы´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">забы´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">забы´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">забы´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">забы´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">забы´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">забы´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">забы´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">забы´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">забы´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">забы´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">забы´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">забы´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">забы´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">забы´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">забы´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">забы´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">забы´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">забы´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">забы´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">забы´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">забы´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">забы´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">забы´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">забы´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">забы´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1004068" Lemma="завіты" Tag="PPPP" Govern="">
         <Form Tag="MNS">завіты</Form>
@@ -2610,34 +2621,34 @@
         <Form Tag="XIP">завітымі</Form>
         <Form Tag="XLP">завітых</Form>
     </Paradigm>
-    <Paradigm pdgId="1004173" Lemma="загнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">загнуты</Form>
-        <Form Tag="MGS">загнутага</Form>
-        <Form Tag="MDS">загнутаму</Form>
-        <Form Tag="MAS">загнуты</Form>
+    <Paradigm pdgId="1004173" Lemma="загну´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">загну´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">загну´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">загну´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">загну´ты</Form>
         <Form Tag="MAS">загнутага</Form>
-        <Form Tag="MIS">загнутым</Form>
-        <Form Tag="MLS">загнутым</Form>
-        <Form Tag="FNS">загнутая</Form>
-        <Form Tag="FGS">загнутай</Form>
-        <Form Tag="FGS">загнутае</Form>
-        <Form Tag="FDS">загнутай</Form>
-        <Form Tag="FAS">загнутую</Form>
-        <Form Tag="FIS">загнутай</Form>
-        <Form Tag="FIS">загнутаю</Form>
-        <Form Tag="FLS">загнутай</Form>
-        <Form Tag="NNS">загнутае</Form>
-        <Form Tag="NGS">загнутага</Form>
-        <Form Tag="NDS">загнутаму</Form>
-        <Form Tag="NAS">загнутае</Form>
-        <Form Tag="NIS">загнутым</Form>
-        <Form Tag="NLS">загнутым</Form>
-        <Form Tag="XNP">загнутыя</Form>
-        <Form Tag="XGP">загнутых</Form>
-        <Form Tag="XDP">загнутым</Form>
-        <Form Tag="XAP">загнутыя</Form>
-        <Form Tag="XIP">загнутымі</Form>
-        <Form Tag="XLP">загнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">загну´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">загну´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">загну´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">загну´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">загну´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">загну´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">загну´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">загну´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">загну´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">загну´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">загну´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">загну´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">загну´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">загну´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">загну´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">загну´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">загну´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">загну´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">загну´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">загну´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">загну´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">загну´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1004180" Lemma="загорнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">загорнуты</Form>
@@ -2697,34 +2708,35 @@
         <Form Tag="XIP">зазнятымі</Form>
         <Form Tag="XLP">зазнятых</Form>
     </Paradigm>
-    <Paradigm pdgId="1004289" Lemma="закінуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">закінуты</Form>
-        <Form Tag="MGS">закінутага</Form>
-        <Form Tag="MDS">закінутаму</Form>
-        <Form Tag="MAS">закінуты</Form>
-        <Form Tag="MAS">закінутага</Form>
-        <Form Tag="MIS">закінутым</Form>
-        <Form Tag="MLS">закінутым</Form>
-        <Form Tag="FNS">закінутая</Form>
-        <Form Tag="FGS">закінутай</Form>
-        <Form Tag="FGS">закінутае</Form>
-        <Form Tag="FDS">закінутай</Form>
-        <Form Tag="FAS">закінутую</Form>
-        <Form Tag="FIS">закінутай</Form>
-        <Form Tag="FIS">закінутаю</Form>
-        <Form Tag="FLS">закінутай</Form>
-        <Form Tag="NNS">закінутае</Form>
-        <Form Tag="NGS">закінутага</Form>
-        <Form Tag="NDS">закінутаму</Form>
-        <Form Tag="NAS">закінутае</Form>
-        <Form Tag="NIS">закінутым</Form>
-        <Form Tag="NLS">закінутым</Form>
-        <Form Tag="XNP">закінутыя</Form>
-        <Form Tag="XGP">закінутых</Form>
-        <Form Tag="XDP">закінутым</Form>
-        <Form Tag="XAP">закінутыя</Form>
-        <Form Tag="XIP">закінутымі</Form>
-        <Form Tag="XLP">закінутых</Form>
+    <Paradigm pdgId="1004289" Lemma="закі´нуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">закі´нуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">закі´нутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">закі´нутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">закі´нуты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">закі´нутага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">закі´нутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">закі´нутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">закі´нутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">закі´нутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">закі´нутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">закі´нутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">закі´нутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">закі´нутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">закі´нутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">закі´нутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">закі´нутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">закі´нутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">закі´нутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">закі´нутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">закі´нутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">закі´нутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">закі´нутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">закі´нутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">закі´нутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">закі´нутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">закі´нутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">закі´нутых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">закі´нутых</Form>
     </Paradigm>
     <Paradigm pdgId="1004392" Lemma="заколаты" Tag="PPPP" Govern="">
         <Form Tag="MNS">заколаты</Form>
@@ -2784,34 +2796,34 @@
         <Form Tag="XIP">закранутымі</Form>
         <Form Tag="XLP">закранутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1004418" Lemma="закрыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">закрыты</Form>
-        <Form Tag="MGS">закрытага</Form>
-        <Form Tag="MDS">закрытаму</Form>
-        <Form Tag="MAS">закрыты</Form>
+    <Paradigm pdgId="1004418" Lemma="закры´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">закры´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">закры´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">закры´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">закры´ты</Form>
         <Form Tag="MAS">закрытага</Form>
-        <Form Tag="MIS">закрытым</Form>
-        <Form Tag="MLS">закрытым</Form>
-        <Form Tag="FNS">закрытая</Form>
-        <Form Tag="FGS">закрытай</Form>
-        <Form Tag="FGS">закрытае</Form>
-        <Form Tag="FDS">закрытай</Form>
-        <Form Tag="FAS">закрытую</Form>
-        <Form Tag="FIS">закрытай</Form>
-        <Form Tag="FIS">закрытаю</Form>
-        <Form Tag="FLS">закрытай</Form>
-        <Form Tag="NNS">закрытае</Form>
-        <Form Tag="NGS">закрытага</Form>
-        <Form Tag="NDS">закрытаму</Form>
-        <Form Tag="NAS">закрытае</Form>
-        <Form Tag="NIS">закрытым</Form>
-        <Form Tag="NLS">закрытым</Form>
-        <Form Tag="XNP">закрытыя</Form>
-        <Form Tag="XGP">закрытых</Form>
-        <Form Tag="XDP">закрытым</Form>
-        <Form Tag="XAP">закрытыя</Form>
-        <Form Tag="XIP">закрытымі</Form>
-        <Form Tag="XLP">закрытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">закры´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">закры´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">закры´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">закры´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">закры´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">закры´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">закры´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">закры´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">закры´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">закры´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">закры´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">закры´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">закры´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">закры´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">закры´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">закры´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">закры´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">закры´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">закры´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">закры´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">закры´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">закры´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1004445" Lemma="закуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">закуты</Form>
@@ -2929,34 +2941,35 @@
         <Form Tag="XIP">замытымі</Form>
         <Form Tag="XLP">замытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1004624" Lemma="заняты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">заняты</Form>
-        <Form Tag="MGS">занятага</Form>
-        <Form Tag="MDS">занятаму</Form>
-        <Form Tag="MAS">заняты</Form>
-        <Form Tag="MAS">занятага</Form>
-        <Form Tag="MIS">занятым</Form>
-        <Form Tag="MLS">занятым</Form>
-        <Form Tag="FNS">занятая</Form>
-        <Form Tag="FGS">занятай</Form>
-        <Form Tag="FGS">занятае</Form>
-        <Form Tag="FDS">занятай</Form>
-        <Form Tag="FAS">занятую</Form>
-        <Form Tag="FIS">занятай</Form>
-        <Form Tag="FIS">занятаю</Form>
-        <Form Tag="FLS">занятай</Form>
-        <Form Tag="NNS">занятае</Form>
-        <Form Tag="NGS">занятага</Form>
-        <Form Tag="NDS">занятаму</Form>
-        <Form Tag="NAS">занятае</Form>
-        <Form Tag="NIS">занятым</Form>
-        <Form Tag="NLS">занятым</Form>
-        <Form Tag="XNP">занятыя</Form>
-        <Form Tag="XGP">занятых</Form>
-        <Form Tag="XDP">занятым</Form>
-        <Form Tag="XAP">занятыя</Form>
-        <Form Tag="XIP">занятымі</Form>
-        <Form Tag="XLP">занятых</Form>
+    <Paradigm pdgId="1004624" Lemma="заня´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">заня´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">заня´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">заня´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">заня´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">заня´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">заня´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">заня´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">заня´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">заня´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">заня´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">заня´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">заня´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">заня´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">заня´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">заня´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">заня´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">заня´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">заня´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">заня´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">заня´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">заня´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">заня´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">заня´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">заня´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">заня´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">заня´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">заня´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">заня´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1004953" Lemma="заспеты" Tag="PPPP" Govern="">
         <Form Tag="MNS">заспеты</Form>
@@ -3509,34 +3522,34 @@
         <Form Tag="XIP">змытымі</Form>
         <Form Tag="XLP">змытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1005745" Lemma="змяты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">змяты</Form>
-        <Form Tag="MGS">змятага</Form>
-        <Form Tag="MDS">змятаму</Form>
-        <Form Tag="MAS">змяты</Form>
+    <Paradigm pdgId="1005745" Lemma="змя´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">змя´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">змя´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">змя´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">змя´ты</Form>
         <Form Tag="MAS">змятага</Form>
-        <Form Tag="MIS">змятым</Form>
-        <Form Tag="MLS">змятым</Form>
-        <Form Tag="FNS">змятая</Form>
-        <Form Tag="FGS">змятай</Form>
-        <Form Tag="FGS">змятае</Form>
-        <Form Tag="FDS">змятай</Form>
-        <Form Tag="FAS">змятую</Form>
-        <Form Tag="FIS">змятай</Form>
-        <Form Tag="FIS">змятаю</Form>
-        <Form Tag="FLS">змятай</Form>
-        <Form Tag="NNS">змятае</Form>
-        <Form Tag="NGS">змятага</Form>
-        <Form Tag="NDS">змятаму</Form>
-        <Form Tag="NAS">змятае</Form>
-        <Form Tag="NIS">змятым</Form>
-        <Form Tag="NLS">змятым</Form>
-        <Form Tag="XNP">змятыя</Form>
-        <Form Tag="XGP">змятых</Form>
-        <Form Tag="XDP">змятым</Form>
-        <Form Tag="XAP">змятыя</Form>
-        <Form Tag="XIP">змятымі</Form>
-        <Form Tag="XLP">змятых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">змя´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">змя´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">змя´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">змя´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">змя´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">змя´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">змя´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">змя´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">змя´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">змя´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">змя´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">змя´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">змя´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">змя´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">змя´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">змя´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">змя´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">змя´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">змя´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">змя´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">змя´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">змя´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1005829" Lemma="зняты" Tag="PPPP" Govern="">
         <Form Tag="MNS">зняты</Form>
@@ -3625,63 +3638,64 @@
         <Form Tag="XIP">зрынутымі</Form>
         <Form Tag="XLP">зрынутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1005895" Lemma="кінуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">кінуты</Form>
-        <Form Tag="MGS">кінутага</Form>
-        <Form Tag="MDS">кінутаму</Form>
-        <Form Tag="MAS">кінуты</Form>
-        <Form Tag="MAS">кінутага</Form>
-        <Form Tag="MIS">кінутым</Form>
-        <Form Tag="MLS">кінутым</Form>
-        <Form Tag="FNS">кінутая</Form>
-        <Form Tag="FGS">кінутай</Form>
-        <Form Tag="FGS">кінутае</Form>
-        <Form Tag="FDS">кінутай</Form>
-        <Form Tag="FAS">кінутую</Form>
-        <Form Tag="FIS">кінутай</Form>
-        <Form Tag="FIS">кінутаю</Form>
-        <Form Tag="FLS">кінутай</Form>
-        <Form Tag="NNS">кінутае</Form>
-        <Form Tag="NGS">кінутага</Form>
-        <Form Tag="NDS">кінутаму</Form>
-        <Form Tag="NAS">кінутае</Form>
-        <Form Tag="NIS">кінутым</Form>
-        <Form Tag="NLS">кінутым</Form>
-        <Form Tag="XNP">кінутыя</Form>
-        <Form Tag="XGP">кінутых</Form>
-        <Form Tag="XDP">кінутым</Form>
-        <Form Tag="XAP">кінутыя</Form>
-        <Form Tag="XIP">кінутымі</Form>
-        <Form Tag="XLP">кінутых</Form>
+    <Paradigm pdgId="1005895" Lemma="кі´нуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">кі´нуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">кі´нутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">кі´нутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">кі´нуты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">кі´нутага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">кі´нутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">кі´нутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">кі´нутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">кі´нутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">кі´нутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">кі´нутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">кі´нутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">кі´нутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">кі´нутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">кі´нутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">кі´нутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">кі´нутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">кі´нутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">кі´нутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">кі´нутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">кі´нутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">кі´нутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">кі´нутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">кі´нутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">кі´нутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">кі´нутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">кі´нутых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">кі´нутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006165" Lemma="колаты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">колаты</Form>
-        <Form Tag="MGS">колатага</Form>
-        <Form Tag="MDS">колатаму</Form>
-        <Form Tag="MAS">колаты</Form>
+    <Paradigm pdgId="1006165" Lemma="ко´латы" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">ко´латы</Form>
+        <Form Tag="MGS" Slouniki="prym2009">ко´латага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">ко´латаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">ко´латы</Form>
         <Form Tag="MAS">колатага</Form>
-        <Form Tag="MIS">колатым</Form>
-        <Form Tag="MLS">колатым</Form>
-        <Form Tag="FNS">колатая</Form>
-        <Form Tag="FGS">колатай</Form>
-        <Form Tag="FGS">колатае</Form>
-        <Form Tag="FDS">колатай</Form>
-        <Form Tag="FAS">колатую</Form>
-        <Form Tag="FIS">колатай</Form>
-        <Form Tag="FIS">колатаю</Form>
-        <Form Tag="FLS">колатай</Form>
-        <Form Tag="NNS">колатае</Form>
-        <Form Tag="NGS">колатага</Form>
-        <Form Tag="NDS">колатаму</Form>
-        <Form Tag="NAS">колатае</Form>
-        <Form Tag="NIS">колатым</Form>
-        <Form Tag="NLS">колатым</Form>
-        <Form Tag="XNP">колатыя</Form>
-        <Form Tag="XGP">колатых</Form>
-        <Form Tag="XDP">колатым</Form>
-        <Form Tag="XAP">колатыя</Form>
-        <Form Tag="XIP">колатымі</Form>
-        <Form Tag="XLP">колатых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">ко´латым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">ко´латым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">ко´латая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">ко´латай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">ко´латае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">ко´латай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">ко´латую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ко´латай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ко´латаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">ко´латай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">ко´латае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">ко´латага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">ко´латаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">ко´латае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">ко´латым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">ко´латым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">ко´латыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">ко´латых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">ко´латым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">ко´латыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">ко´латымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">ко´латых</Form>
     </Paradigm>
     <Paradigm pdgId="1006172" Lemma="кракнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">кракнуты</Form>
@@ -3741,34 +3755,34 @@
         <Form Tag="XIP">кранутымі</Form>
         <Form Tag="XLP">кранутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006188" Lemma="крыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">крыты</Form>
-        <Form Tag="MGS">крытага</Form>
-        <Form Tag="MDS">крытаму</Form>
-        <Form Tag="MAS">крыты</Form>
+    <Paradigm pdgId="1006188" Lemma="кры´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">кры´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">кры´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">кры´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">кры´ты</Form>
         <Form Tag="MAS">крытага</Form>
-        <Form Tag="MIS">крытым</Form>
-        <Form Tag="MLS">крытым</Form>
-        <Form Tag="FNS">крытая</Form>
-        <Form Tag="FGS">крытай</Form>
-        <Form Tag="FGS">крытае</Form>
-        <Form Tag="FDS">крытай</Form>
-        <Form Tag="FAS">крытую</Form>
-        <Form Tag="FIS">крытай</Form>
-        <Form Tag="FIS">крытаю</Form>
-        <Form Tag="FLS">крытай</Form>
-        <Form Tag="NNS">крытае</Form>
-        <Form Tag="NGS">крытага</Form>
-        <Form Tag="NDS">крытаму</Form>
-        <Form Tag="NAS">крытае</Form>
-        <Form Tag="NIS">крытым</Form>
-        <Form Tag="NLS">крытым</Form>
-        <Form Tag="XNP">крытыя</Form>
-        <Form Tag="XGP">крытых</Form>
-        <Form Tag="XDP">крытым</Form>
-        <Form Tag="XAP">крытыя</Form>
-        <Form Tag="XIP">крытымі</Form>
-        <Form Tag="XLP">крытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">кры´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">кры´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">кры´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">кры´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">кры´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">кры´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">кры´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">кры´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">кры´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">кры´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">кры´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">кры´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">кры´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">кры´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">кры´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">кры´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">кры´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">кры´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">кры´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">кры´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">кры´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">кры´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1006286" Lemma="лопнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">лопнуты</Form>
@@ -3828,92 +3842,92 @@
         <Form Tag="XIP">лупатымі</Form>
         <Form Tag="XLP">лупатых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006436" Lemma="молаты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">молаты</Form>
-        <Form Tag="MGS">молатага</Form>
-        <Form Tag="MDS">молатаму</Form>
-        <Form Tag="MAS">молаты</Form>
+    <Paradigm pdgId="1006436" Lemma="мо´латы" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">мо´латы</Form>
+        <Form Tag="MGS" Slouniki="prym2009">мо´латага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">мо´латаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">мо´латы</Form>
         <Form Tag="MAS">молатага</Form>
-        <Form Tag="MIS">молатым</Form>
-        <Form Tag="MLS">молатым</Form>
-        <Form Tag="FNS">молатая</Form>
-        <Form Tag="FGS">молатай</Form>
-        <Form Tag="FGS">молатае</Form>
-        <Form Tag="FDS">молатай</Form>
-        <Form Tag="FAS">молатую</Form>
-        <Form Tag="FIS">молатай</Form>
-        <Form Tag="FIS">молатаю</Form>
-        <Form Tag="FLS">молатай</Form>
-        <Form Tag="NNS">молатае</Form>
-        <Form Tag="NGS">молатага</Form>
-        <Form Tag="NDS">молатаму</Form>
-        <Form Tag="NAS">молатае</Form>
-        <Form Tag="NIS">молатым</Form>
-        <Form Tag="NLS">молатым</Form>
-        <Form Tag="XNP">молатыя</Form>
-        <Form Tag="XGP">молатых</Form>
-        <Form Tag="XDP">молатым</Form>
-        <Form Tag="XAP">молатыя</Form>
-        <Form Tag="XIP">молатымі</Form>
-        <Form Tag="XLP">молатых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">мо´латым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">мо´латым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">мо´латая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">мо´латай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">мо´латае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">мо´латай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">мо´латую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">мо´латай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">мо´латаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">мо´латай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">мо´латае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">мо´латага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">мо´латаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">мо´латае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">мо´латым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">мо´латым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">мо´латыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">мо´латых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">мо´латым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">мо´латыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">мо´латымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">мо´латых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006472" Lemma="мыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">мыты</Form>
-        <Form Tag="MGS">мытага</Form>
-        <Form Tag="MDS">мытаму</Form>
-        <Form Tag="MAS">мыты</Form>
+    <Paradigm pdgId="1006472" Lemma="мы´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">мы´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">мы´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">мы´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">мы´ты</Form>
         <Form Tag="MAS">мытага</Form>
-        <Form Tag="MIS">мытым</Form>
-        <Form Tag="MLS">мытым</Form>
-        <Form Tag="FNS">мытая</Form>
-        <Form Tag="FGS">мытай</Form>
-        <Form Tag="FGS">мытае</Form>
-        <Form Tag="FDS">мытай</Form>
-        <Form Tag="FAS">мытую</Form>
-        <Form Tag="FIS">мытай</Form>
-        <Form Tag="FIS">мытаю</Form>
-        <Form Tag="FLS">мытай</Form>
-        <Form Tag="NNS">мытае</Form>
-        <Form Tag="NGS">мытага</Form>
-        <Form Tag="NDS">мытаму</Form>
-        <Form Tag="NAS">мытае</Form>
-        <Form Tag="NIS">мытым</Form>
-        <Form Tag="NLS">мытым</Form>
-        <Form Tag="XNP">мытыя</Form>
-        <Form Tag="XGP">мытых</Form>
-        <Form Tag="XDP">мытым</Form>
-        <Form Tag="XAP">мытыя</Form>
-        <Form Tag="XIP">мытымі</Form>
-        <Form Tag="XLP">мытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">мы´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">мы´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">мы´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">мы´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">мы´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">мы´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">мы´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">мы´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">мы´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">мы´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">мы´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">мы´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">мы´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">мы´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">мы´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">мы´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">мы´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">мы´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">мы´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">мы´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">мы´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">мы´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006478" Lemma="мяты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">мяты</Form>
-        <Form Tag="MGS">мятага</Form>
-        <Form Tag="MDS">мятаму</Form>
-        <Form Tag="MAS">мяты</Form>
+    <Paradigm pdgId="1006478" Lemma="мя´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">мя´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">мя´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">мя´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">мя´ты</Form>
         <Form Tag="MAS">мятага</Form>
-        <Form Tag="MIS">мятым</Form>
-        <Form Tag="MLS">мятым</Form>
-        <Form Tag="FNS">мятая</Form>
-        <Form Tag="FGS">мятай</Form>
-        <Form Tag="FGS">мятае</Form>
-        <Form Tag="FDS">мятай</Form>
-        <Form Tag="FAS">мятую</Form>
-        <Form Tag="FIS">мятай</Form>
-        <Form Tag="FIS">мятаю</Form>
-        <Form Tag="FLS">мятай</Form>
-        <Form Tag="NNS">мятае</Form>
-        <Form Tag="NGS">мятага</Form>
-        <Form Tag="NDS">мятаму</Form>
-        <Form Tag="NAS">мятае</Form>
-        <Form Tag="NIS">мятым</Form>
-        <Form Tag="NLS">мятым</Form>
-        <Form Tag="XNP">мятыя</Form>
-        <Form Tag="XGP">мятых</Form>
-        <Form Tag="XDP">мятым</Form>
-        <Form Tag="XAP">мятыя</Form>
-        <Form Tag="XIP">мятымі</Form>
-        <Form Tag="XLP">мятых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">мя´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">мя´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">мя´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">мя´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">мя´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">мя´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">мя´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">мя´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">мя´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">мя´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">мя´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">мя´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">мя´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">мя´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">мя´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">мя´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">мя´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">мя´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">мя´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">мя´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">мя´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">мя´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1006497" Lemma="набіты" Tag="PPPP" Govern="">
         <Form Tag="MNS">набіты</Form>
@@ -4002,34 +4016,34 @@
         <Form Tag="XIP">нагнутымі</Form>
         <Form Tag="XLP">нагнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006628" Lemma="нагрэты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">нагрэты</Form>
-        <Form Tag="MGS">нагрэтага</Form>
-        <Form Tag="MDS">нагрэтаму</Form>
-        <Form Tag="MAS">нагрэты</Form>
+    <Paradigm pdgId="1006628" Lemma="нагрэ´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">нагрэ´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">нагрэ´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">нагрэ´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">нагрэ´ты</Form>
         <Form Tag="MAS">нагрэтага</Form>
-        <Form Tag="MIS">нагрэтым</Form>
-        <Form Tag="MLS">нагрэтым</Form>
-        <Form Tag="FNS">нагрэтая</Form>
-        <Form Tag="FGS">нагрэтай</Form>
-        <Form Tag="FGS">нагрэтае</Form>
-        <Form Tag="FDS">нагрэтай</Form>
-        <Form Tag="FAS">нагрэтую</Form>
-        <Form Tag="FIS">нагрэтай</Form>
-        <Form Tag="FIS">нагрэтаю</Form>
-        <Form Tag="FLS">нагрэтай</Form>
-        <Form Tag="NNS">нагрэтае</Form>
-        <Form Tag="NGS">нагрэтага</Form>
-        <Form Tag="NDS">нагрэтаму</Form>
-        <Form Tag="NAS">нагрэтае</Form>
-        <Form Tag="NIS">нагрэтым</Form>
-        <Form Tag="NLS">нагрэтым</Form>
-        <Form Tag="XNP">нагрэтыя</Form>
-        <Form Tag="XGP">нагрэтых</Form>
-        <Form Tag="XDP">нагрэтым</Form>
-        <Form Tag="XAP">нагрэтыя</Form>
-        <Form Tag="XIP">нагрэтымі</Form>
-        <Form Tag="XLP">нагрэтых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">нагрэ´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">нагрэ´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">нагрэ´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">нагрэ´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">нагрэ´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">нагрэ´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">нагрэ´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">нагрэ´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">нагрэ´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">нагрэ´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">нагрэ´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">нагрэ´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">нагрэ´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">нагрэ´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">нагрэ´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">нагрэ´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">нагрэ´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">нагрэ´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">нагрэ´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">нагрэ´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">нагрэ´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">нагрэ´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1006631" Lemma="надагнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">надагнуты</Form>
@@ -4060,34 +4074,35 @@
         <Form Tag="XIP">надагнутымі</Form>
         <Form Tag="XLP">надагнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006655" Lemma="надзьмуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">надзьмуты</Form>
-        <Form Tag="MGS">надзьмутага</Form>
-        <Form Tag="MDS">надзьмутаму</Form>
-        <Form Tag="MAS">надзьмуты</Form>
-        <Form Tag="MAS">надзьмутага</Form>
-        <Form Tag="MIS">надзьмутым</Form>
-        <Form Tag="MLS">надзьмутым</Form>
-        <Form Tag="FNS">надзьмутая</Form>
-        <Form Tag="FGS">надзьмутай</Form>
-        <Form Tag="FGS">надзьмутае</Form>
-        <Form Tag="FDS">надзьмутай</Form>
-        <Form Tag="FAS">надзьмутую</Form>
-        <Form Tag="FIS">надзьмутай</Form>
-        <Form Tag="FIS">надзьмутаю</Form>
-        <Form Tag="FLS">надзьмутай</Form>
-        <Form Tag="NNS">надзьмутае</Form>
-        <Form Tag="NGS">надзьмутага</Form>
-        <Form Tag="NDS">надзьмутаму</Form>
-        <Form Tag="NAS">надзьмутае</Form>
-        <Form Tag="NIS">надзьмутым</Form>
-        <Form Tag="NLS">надзьмутым</Form>
-        <Form Tag="XNP">надзьмутыя</Form>
-        <Form Tag="XGP">надзьмутых</Form>
-        <Form Tag="XDP">надзьмутым</Form>
-        <Form Tag="XAP">надзьмутыя</Form>
-        <Form Tag="XIP">надзьмутымі</Form>
-        <Form Tag="XLP">надзьмутых</Form>
+    <Paradigm pdgId="1006655" Lemma="надзьму´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">надзьму´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">надзьму´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">надзьму´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">надзьму´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">надзьму´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">надзьму´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">надзьму´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">надзьму´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">надзьму´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">надзьму´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">надзьму´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">надзьму´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">надзьму´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">надзьму´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">надзьму´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">надзьму´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">надзьму´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">надзьму´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">надзьму´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">надзьму´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">надзьму´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">надзьму´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">надзьму´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">надзьму´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">надзьму´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">надзьму´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">надзьму´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">надзьму´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1006694" Lemma="надтрэснуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">надтрэснуты</Form>
@@ -4118,34 +4133,34 @@
         <Form Tag="XIP">надтрэснутымі</Form>
         <Form Tag="XLP">надтрэснутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006709" Lemma="нажыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">нажыты</Form>
-        <Form Tag="MGS">нажытага</Form>
-        <Form Tag="MDS">нажытаму</Form>
-        <Form Tag="MAS">нажыты</Form>
+    <Paradigm pdgId="1006709" Lemma="нажы´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">нажы´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">нажы´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">нажы´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">нажы´ты</Form>
         <Form Tag="MAS">нажытага</Form>
-        <Form Tag="MIS">нажытым</Form>
-        <Form Tag="MLS">нажытым</Form>
-        <Form Tag="FNS">нажытая</Form>
-        <Form Tag="FGS">нажытай</Form>
-        <Form Tag="FGS">нажытае</Form>
-        <Form Tag="FDS">нажытай</Form>
-        <Form Tag="FAS">нажытую</Form>
-        <Form Tag="FIS">нажытай</Form>
-        <Form Tag="FIS">нажытаю</Form>
-        <Form Tag="FLS">нажытай</Form>
-        <Form Tag="NNS">нажытае</Form>
-        <Form Tag="NGS">нажытага</Form>
-        <Form Tag="NDS">нажытаму</Form>
-        <Form Tag="NAS">нажытае</Form>
-        <Form Tag="NIS">нажытым</Form>
-        <Form Tag="NLS">нажытым</Form>
-        <Form Tag="XNP">нажытыя</Form>
-        <Form Tag="XGP">нажытых</Form>
-        <Form Tag="XDP">нажытым</Form>
-        <Form Tag="XAP">нажытыя</Form>
-        <Form Tag="XIP">нажытымі</Form>
-        <Form Tag="XLP">нажытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">нажы´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">нажы´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">нажы´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">нажы´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">нажы´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">нажы´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">нажы´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">нажы´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">нажы´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">нажы´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">нажы´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">нажы´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">нажы´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">нажы´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">нажы´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">нажы´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">нажы´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">нажы´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">нажы´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">нажы´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">нажы´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">нажы´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1006749" Lemma="накінуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">накінуты</Form>
@@ -4205,63 +4220,64 @@
         <Form Tag="XIP">накрытымі</Form>
         <Form Tag="XLP">накрытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006808" Lemma="наліты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">наліты</Form>
-        <Form Tag="MGS">налітага</Form>
-        <Form Tag="MDS">налітаму</Form>
-        <Form Tag="MAS">наліты</Form>
+    <Paradigm pdgId="1006808" Lemma="налі´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">налі´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">налі´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">налі´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">налі´ты</Form>
         <Form Tag="MAS">налітага</Form>
-        <Form Tag="MIS">налітым</Form>
-        <Form Tag="MLS">налітым</Form>
-        <Form Tag="FNS">налітая</Form>
-        <Form Tag="FGS">налітай</Form>
-        <Form Tag="FGS">налітае</Form>
-        <Form Tag="FDS">налітай</Form>
-        <Form Tag="FAS">налітую</Form>
-        <Form Tag="FIS">налітай</Form>
-        <Form Tag="FIS">налітаю</Form>
-        <Form Tag="FLS">налітай</Form>
-        <Form Tag="NNS">налітае</Form>
-        <Form Tag="NGS">налітага</Form>
-        <Form Tag="NDS">налітаму</Form>
-        <Form Tag="NAS">налітае</Form>
-        <Form Tag="NIS">налітым</Form>
-        <Form Tag="NLS">налітым</Form>
-        <Form Tag="XNP">налітыя</Form>
-        <Form Tag="XGP">налітых</Form>
-        <Form Tag="XDP">налітым</Form>
-        <Form Tag="XAP">налітыя</Form>
-        <Form Tag="XIP">налітымі</Form>
-        <Form Tag="XLP">налітых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">налі´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">налі´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">налі´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">налі´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">налі´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">налі´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">налі´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">налі´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">налі´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">налі´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">налі´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">налі´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">налі´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">налі´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">налі´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">налі´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">налі´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">налі´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">налі´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">налі´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">налі´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">налі´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1006890" Lemma="наняты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">наняты</Form>
-        <Form Tag="MGS">нанятага</Form>
-        <Form Tag="MDS">нанятаму</Form>
-        <Form Tag="MAS">наняты</Form>
-        <Form Tag="MAS">нанятага</Form>
-        <Form Tag="MIS">нанятым</Form>
-        <Form Tag="MLS">нанятым</Form>
-        <Form Tag="FNS">нанятая</Form>
-        <Form Tag="FGS">нанятай</Form>
-        <Form Tag="FGS">нанятае</Form>
-        <Form Tag="FDS">нанятай</Form>
-        <Form Tag="FAS">нанятую</Form>
-        <Form Tag="FIS">нанятай</Form>
-        <Form Tag="FIS">нанятаю</Form>
-        <Form Tag="FLS">нанятай</Form>
-        <Form Tag="NNS">нанятае</Form>
-        <Form Tag="NGS">нанятага</Form>
-        <Form Tag="NDS">нанятаму</Form>
-        <Form Tag="NAS">нанятае</Form>
-        <Form Tag="NIS">нанятым</Form>
-        <Form Tag="NLS">нанятым</Form>
-        <Form Tag="XNP">нанятыя</Form>
-        <Form Tag="XGP">нанятых</Form>
-        <Form Tag="XDP">нанятым</Form>
-        <Form Tag="XAP">нанятыя</Form>
-        <Form Tag="XIP">нанятымі</Form>
-        <Form Tag="XLP">нанятых</Form>
+    <Paradigm pdgId="1006890" Lemma="наня´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">наня´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">наня´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">наня´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">наня´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">наня´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">наня´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">наня´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">наня´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">наня´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">наня´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">наня´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">наня´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">наня´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">наня´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">наня´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">наня´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">наня´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">наня´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">наня´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">наня´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">наня´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">наня´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">наня´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">наня´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">наня´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">наня´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">наня´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">наня´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1006905" Lemma="напаўадзеты" Tag="PPPP" Govern="">
         <Form Tag="MNS">напаўадзеты</Form>
@@ -4553,34 +4569,34 @@
         <Form Tag="XIP">націснутымі</Form>
         <Form Tag="XLP">націснутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1007181" Lemma="нацягнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">нацягнуты</Form>
-        <Form Tag="MGS">нацягнутага</Form>
-        <Form Tag="MDS">нацягнутаму</Form>
-        <Form Tag="MAS">нацягнуты</Form>
+    <Paradigm pdgId="1007181" Lemma="наця´гнуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">наця´гнуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">наця´гнутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">наця´гнутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">наця´гнуты</Form>
         <Form Tag="MAS">нацягнутага</Form>
-        <Form Tag="MIS">нацягнутым</Form>
-        <Form Tag="MLS">нацягнутым</Form>
-        <Form Tag="FNS">нацягнутая</Form>
-        <Form Tag="FGS">нацягнутай</Form>
-        <Form Tag="FGS">нацягнутае</Form>
-        <Form Tag="FDS">нацягнутай</Form>
-        <Form Tag="FAS">нацягнутую</Form>
-        <Form Tag="FIS">нацягнутай</Form>
-        <Form Tag="FIS">нацягнутаю</Form>
-        <Form Tag="FLS">нацягнутай</Form>
-        <Form Tag="NNS">нацягнутае</Form>
-        <Form Tag="NGS">нацягнутага</Form>
-        <Form Tag="NDS">нацягнутаму</Form>
-        <Form Tag="NAS">нацягнутае</Form>
-        <Form Tag="NIS">нацягнутым</Form>
-        <Form Tag="NLS">нацягнутым</Form>
-        <Form Tag="XNP">нацягнутыя</Form>
-        <Form Tag="XGP">нацягнутых</Form>
-        <Form Tag="XDP">нацягнутым</Form>
-        <Form Tag="XAP">нацягнутыя</Form>
-        <Form Tag="XIP">нацягнутымі</Form>
-        <Form Tag="XLP">нацягнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">наця´гнутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">наця´гнутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">наця´гнутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">наця´гнутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">наця´гнутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">наця´гнутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">наця´гнутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">наця´гнутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">наця´гнутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">наця´гнутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">наця´гнутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">наця´гнутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">наця´гнутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">наця´гнутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">наця´гнутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">наця´гнутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">наця´гнутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">наця´гнутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">наця´гнутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">наця´гнутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">наця´гнутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">наця´гнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1007187" Lemma="нацяты" Tag="PPPP" Govern="">
         <Form Tag="MNS">нацяты</Form>
@@ -5685,33 +5701,33 @@
         <Form Tag="XLP">паддатых</Form>
     </Paradigm>
     <Paradigm pdgId="1009134" Lemma="падзёрты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">падзёрты</Form>
-        <Form Tag="MGS">падзёртага</Form>
-        <Form Tag="MDS">падзёртаму</Form>
-        <Form Tag="MAS">падзёрты</Form>
-        <Form Tag="MAS">падзёртага</Form>
-        <Form Tag="MIS">падзёртым</Form>
-        <Form Tag="MLS">падзёртым</Form>
-        <Form Tag="FNS">падзёртая</Form>
-        <Form Tag="FGS">падзёртай</Form>
-        <Form Tag="FGS">падзёртае</Form>
-        <Form Tag="FDS">падзёртай</Form>
-        <Form Tag="FAS">падзёртую</Form>
-        <Form Tag="FIS">падзёртай</Form>
-        <Form Tag="FIS">падзёртаю</Form>
-        <Form Tag="FLS">падзёртай</Form>
-        <Form Tag="NNS">падзёртае</Form>
-        <Form Tag="NGS">падзёртага</Form>
-        <Form Tag="NDS">падзёртаму</Form>
-        <Form Tag="NAS">падзёртае</Form>
-        <Form Tag="NIS">падзёртым</Form>
-        <Form Tag="NLS">падзёртым</Form>
-        <Form Tag="XNP">падзёртыя</Form>
-        <Form Tag="XGP">падзёртых</Form>
-        <Form Tag="XDP">падзёртым</Form>
-        <Form Tag="XAP">падзёртыя</Form>
-        <Form Tag="XIP">падзёртымі</Form>
-        <Form Tag="XLP">падзёртых</Form>
+        <Form Tag="MNS" Slouniki="prym2009">падзёрты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">падзёртага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">падзёртаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">падзёрты</Form>
+        <Form Tag="MAS" options="anim">падзёртага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">падзёртым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">падзёртым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">падзёртая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">падзёртай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">падзёртае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">падзёртай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">падзёртую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">падзёртай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">падзёртаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">падзёртай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">падзёртае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">падзёртага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">падзёртаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">падзёртае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">падзёртым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">падзёртым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">падзёртыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">падзёртых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">падзёртым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">падзёртыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">падзёртымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">падзёртых</Form>
     </Paradigm>
     <Paradigm pdgId="1009147" Lemma="падкінуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">падкінуты</Form>
@@ -5771,34 +5787,35 @@
         <Form Tag="XIP">паднятымі</Form>
         <Form Tag="XLP">паднятых</Form>
     </Paradigm>
-    <Paradigm pdgId="1009433" Lemma="падцягнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">падцягнуты</Form>
-        <Form Tag="MGS">падцягнутага</Form>
-        <Form Tag="MDS">падцягнутаму</Form>
-        <Form Tag="MAS">падцягнуты</Form>
-        <Form Tag="MAS">падцягнутага</Form>
-        <Form Tag="MIS">падцягнутым</Form>
-        <Form Tag="MLS">падцягнутым</Form>
-        <Form Tag="FNS">падцягнутая</Form>
-        <Form Tag="FGS">падцягнутай</Form>
-        <Form Tag="FGS">падцягнутае</Form>
-        <Form Tag="FDS">падцягнутай</Form>
-        <Form Tag="FAS">падцягнутую</Form>
-        <Form Tag="FIS">падцягнутай</Form>
-        <Form Tag="FIS">падцягнутаю</Form>
-        <Form Tag="FLS">падцягнутай</Form>
-        <Form Tag="NNS">падцягнутае</Form>
-        <Form Tag="NGS">падцягнутага</Form>
-        <Form Tag="NDS">падцягнутаму</Form>
-        <Form Tag="NAS">падцягнутае</Form>
-        <Form Tag="NIS">падцягнутым</Form>
-        <Form Tag="NLS">падцягнутым</Form>
-        <Form Tag="XNP">падцягнутыя</Form>
-        <Form Tag="XGP">падцягнутых</Form>
-        <Form Tag="XDP">падцягнутым</Form>
-        <Form Tag="XAP">падцягнутыя</Form>
-        <Form Tag="XIP">падцягнутымі</Form>
-        <Form Tag="XLP">падцягнутых</Form>
+    <Paradigm pdgId="1009433" Lemma="падця´гнуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">падця´гнуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">падця´гнутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">падця´гнутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">падця´гнуты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">падця´гнутага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">падця´гнутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">падця´гнутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">падця´гнутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">падця´гнутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">падця´гнутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">падця´гнутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">падця´гнутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">падця´гнутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">падця´гнутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">падця´гнутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">падця´гнутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">падця´гнутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">падця´гнутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">падця´гнутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">падця´гнутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">падця´гнутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">падця´гнутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">падця´гнутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">падця´гнутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">падця´гнутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">падця´гнутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">падця´гнутых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">падця´гнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1009474" Lemma="пазакінуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">пазакінуты</Form>
@@ -6003,34 +6020,35 @@
         <Form Tag="XIP">памытымі</Form>
         <Form Tag="XLP">памытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1009787" Lemma="памяты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">памяты</Form>
-        <Form Tag="MGS">памятага</Form>
-        <Form Tag="MDS">памятаму</Form>
-        <Form Tag="MAS">памяты</Form>
-        <Form Tag="MAS">памятага</Form>
-        <Form Tag="MIS">памятым</Form>
-        <Form Tag="MLS">памятым</Form>
-        <Form Tag="FNS">памятая</Form>
-        <Form Tag="FGS">памятай</Form>
-        <Form Tag="FGS">памятае</Form>
-        <Form Tag="FDS">памятай</Form>
-        <Form Tag="FAS">памятую</Form>
-        <Form Tag="FIS">памятай</Form>
-        <Form Tag="FIS">памятаю</Form>
-        <Form Tag="FLS">памятай</Form>
-        <Form Tag="NNS">памятае</Form>
-        <Form Tag="NGS">памятага</Form>
-        <Form Tag="NDS">памятаму</Form>
-        <Form Tag="NAS">памятае</Form>
-        <Form Tag="NIS">памятым</Form>
-        <Form Tag="NLS">памятым</Form>
-        <Form Tag="XNP">памятыя</Form>
-        <Form Tag="XGP">памятых</Form>
-        <Form Tag="XDP">памятым</Form>
-        <Form Tag="XAP">памятыя</Form>
-        <Form Tag="XIP">памятымі</Form>
-        <Form Tag="XLP">памятых</Form>
+    <Paradigm pdgId="1009787" Lemma="памя´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">памя´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">памя´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">памя´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">памя´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">памя´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">памя´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">памя´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">памя´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">памя´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">памя´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">памя´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">памя´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">памя´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">памя´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">памя´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">памя´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">памя´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">памя´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">памя´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">памя´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">памя´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">памя´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">памя´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">памя´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">памя´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">памя´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">памя´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">памя´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1008781" Lemma="паўапрануты" Tag="PPPP" Govern="">
         <Form Tag="MNS">паўапрануты</Form>
@@ -6061,63 +6079,63 @@
         <Form Tag="XIP">паўапранутымі</Form>
         <Form Tag="XLP">паўапранутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1010308" Lemma="пачаты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">пачаты</Form>
-        <Form Tag="MGS">пачатага</Form>
-        <Form Tag="MDS">пачатаму</Form>
-        <Form Tag="MAS">пачаты</Form>
+    <Paradigm pdgId="1010308" Lemma="пача´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">пача´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">пача´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">пача´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">пача´ты</Form>
         <Form Tag="MAS">пачатага</Form>
-        <Form Tag="MIS">пачатым</Form>
-        <Form Tag="MLS">пачатым</Form>
-        <Form Tag="FNS">пачатая</Form>
-        <Form Tag="FGS">пачатай</Form>
-        <Form Tag="FGS">пачатае</Form>
-        <Form Tag="FDS">пачатай</Form>
-        <Form Tag="FAS">пачатую</Form>
-        <Form Tag="FIS">пачатай</Form>
-        <Form Tag="FIS">пачатаю</Form>
-        <Form Tag="FLS">пачатай</Form>
-        <Form Tag="NNS">пачатае</Form>
-        <Form Tag="NGS">пачатага</Form>
-        <Form Tag="NDS">пачатаму</Form>
-        <Form Tag="NAS">пачатае</Form>
-        <Form Tag="NIS">пачатым</Form>
-        <Form Tag="NLS">пачатым</Form>
-        <Form Tag="XNP">пачатыя</Form>
-        <Form Tag="XGP">пачатых</Form>
-        <Form Tag="XDP">пачатым</Form>
-        <Form Tag="XAP">пачатыя</Form>
-        <Form Tag="XIP">пачатымі</Form>
-        <Form Tag="XLP">пачатых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">пача´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">пача´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">пача´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пача´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пача´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">пача´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">пача´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пача´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пача´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">пача´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">пача´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">пача´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">пача´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">пача´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">пача´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">пача´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">пача´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">пача´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">пача´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">пача´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">пача´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">пача´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1010314" Lemma="пачуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">пачуты</Form>
-        <Form Tag="MGS">пачутага</Form>
-        <Form Tag="MDS">пачутаму</Form>
-        <Form Tag="MAS">пачуты</Form>
+    <Paradigm pdgId="1010314" Lemma="пачу´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">пачу´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">пачу´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">пачу´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">пачу´ты</Form>
         <Form Tag="MAS">пачутага</Form>
-        <Form Tag="MIS">пачутым</Form>
-        <Form Tag="MLS">пачутым</Form>
-        <Form Tag="FNS">пачутая</Form>
-        <Form Tag="FGS">пачутай</Form>
-        <Form Tag="FGS">пачутае</Form>
-        <Form Tag="FDS">пачутай</Form>
-        <Form Tag="FAS">пачутую</Form>
-        <Form Tag="FIS">пачутай</Form>
-        <Form Tag="FIS">пачутаю</Form>
-        <Form Tag="FLS">пачутай</Form>
-        <Form Tag="NNS">пачутае</Form>
-        <Form Tag="NGS">пачутага</Form>
-        <Form Tag="NDS">пачутаму</Form>
-        <Form Tag="NAS">пачутае</Form>
-        <Form Tag="NIS">пачутым</Form>
-        <Form Tag="NLS">пачутым</Form>
-        <Form Tag="XNP">пачутыя</Form>
-        <Form Tag="XGP">пачутых</Form>
-        <Form Tag="XDP">пачутым</Form>
-        <Form Tag="XAP">пачутыя</Form>
-        <Form Tag="XIP">пачутымі</Form>
-        <Form Tag="XLP">пачутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">пачу´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">пачу´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">пачу´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пачу´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пачу´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">пачу´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">пачу´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пачу´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пачу´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">пачу´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">пачу´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">пачу´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">пачу´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">пачу´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">пачу´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">пачу´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">пачу´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">пачу´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">пачу´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">пачу´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">пачу´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">пачу´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1010355" Lemma="пашыты" Tag="PPPP" Govern="">
         <Form Tag="MNS">пашыты</Form>
@@ -6148,34 +6166,35 @@
         <Form Tag="XIP">пашытымі</Form>
         <Form Tag="XLP">пашытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1010413" Lemma="пераапрануты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">пераапрануты</Form>
-        <Form Tag="MGS">пераапранутага</Form>
-        <Form Tag="MDS">пераапранутаму</Form>
+    <Paradigm pdgId="1010413" Lemma="пераапра´нуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">пераапра´нуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">пераапра´нутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">пераапра´нутаму</Form>
         <Form Tag="MAS">пераапрануты</Form>
-        <Form Tag="MAS">пераапранутага</Form>
-        <Form Tag="MIS">пераапранутым</Form>
-        <Form Tag="MLS">пераапранутым</Form>
-        <Form Tag="FNS">пераапранутая</Form>
-        <Form Tag="FGS">пераапранутай</Form>
-        <Form Tag="FGS">пераапранутае</Form>
-        <Form Tag="FDS">пераапранутай</Form>
-        <Form Tag="FAS">пераапранутую</Form>
-        <Form Tag="FIS">пераапранутай</Form>
-        <Form Tag="FIS">пераапранутаю</Form>
-        <Form Tag="FLS">пераапранутай</Form>
-        <Form Tag="NNS">пераапранутае</Form>
-        <Form Tag="NGS">пераапранутага</Form>
-        <Form Tag="NDS">пераапранутаму</Form>
-        <Form Tag="NAS">пераапранутае</Form>
-        <Form Tag="NIS">пераапранутым</Form>
-        <Form Tag="NLS">пераапранутым</Form>
-        <Form Tag="XNP">пераапранутыя</Form>
-        <Form Tag="XGP">пераапранутых</Form>
-        <Form Tag="XDP">пераапранутым</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">пераапра´нутага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">пераапра´нутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">пераапра´нутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">пераапра´нутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пераапра´нутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пераапра´нутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">пераапра´нутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">пераапра´нутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пераапра´нутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пераапра´нутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">пераапра´нутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">пераапра´нутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">пераапра´нутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">пераапра´нутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">пераапра´нутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">пераапра´нутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">пераапра´нутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">пераапра´нутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">пераапра´нутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">пераапра´нутым</Form>
         <Form Tag="XAP">пераапранутыя</Form>
-        <Form Tag="XIP">пераапранутымі</Form>
-        <Form Tag="XLP">пераапранутых</Form>
+        <Form Tag="PIP" Slouniki="prym2009">пераапра´нутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">пераапра´нутых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">пераапра´нутых</Form>
     </Paradigm>
     <Paradigm pdgId="1010437" Lemma="перабіты" Tag="PPPP" Govern="">
         <Form Tag="MNS">перабіты</Form>
@@ -6264,34 +6283,34 @@
         <Form Tag="XIP">перагнутымі</Form>
         <Form Tag="XLP">перагнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1010514" Lemma="перагрэты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">перагрэты</Form>
-        <Form Tag="MGS">перагрэтага</Form>
-        <Form Tag="MDS">перагрэтаму</Form>
-        <Form Tag="MAS">перагрэты</Form>
+    <Paradigm pdgId="1010514" Lemma="перагрэ´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">перагрэ´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">перагрэ´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">перагрэ´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">перагрэ´ты</Form>
         <Form Tag="MAS">перагрэтага</Form>
-        <Form Tag="MIS">перагрэтым</Form>
-        <Form Tag="MLS">перагрэтым</Form>
-        <Form Tag="FNS">перагрэтая</Form>
-        <Form Tag="FGS">перагрэтай</Form>
-        <Form Tag="FGS">перагрэтае</Form>
-        <Form Tag="FDS">перагрэтай</Form>
-        <Form Tag="FAS">перагрэтую</Form>
-        <Form Tag="FIS">перагрэтай</Form>
-        <Form Tag="FIS">перагрэтаю</Form>
-        <Form Tag="FLS">перагрэтай</Form>
-        <Form Tag="NNS">перагрэтае</Form>
-        <Form Tag="NGS">перагрэтага</Form>
-        <Form Tag="NDS">перагрэтаму</Form>
-        <Form Tag="NAS">перагрэтае</Form>
-        <Form Tag="NIS">перагрэтым</Form>
-        <Form Tag="NLS">перагрэтым</Form>
-        <Form Tag="XNP">перагрэтыя</Form>
-        <Form Tag="XGP">перагрэтых</Form>
-        <Form Tag="XDP">перагрэтым</Form>
-        <Form Tag="XAP">перагрэтыя</Form>
-        <Form Tag="XIP">перагрэтымі</Form>
-        <Form Tag="XLP">перагрэтых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">перагрэ´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">перагрэ´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">перагрэ´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">перагрэ´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">перагрэ´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">перагрэ´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">перагрэ´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">перагрэ´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">перагрэ´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">перагрэ´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">перагрэ´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">перагрэ´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">перагрэ´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">перагрэ´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">перагрэ´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">перагрэ´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">перагрэ´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">перагрэ´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">перагрэ´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">перагрэ´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">перагрэ´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">перагрэ´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1010551" Lemma="перажыты" Tag="PPPP" Govern="">
         <Form Tag="MNS">перажыты</Form>
@@ -6671,33 +6690,33 @@
         <Form Tag="XLP">праглынутых</Form>
     </Paradigm>
     <Paradigm pdgId="1011160" Lemma="прадзёрты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">прадзёрты</Form>
-        <Form Tag="MGS">прадзёртага</Form>
-        <Form Tag="MDS">прадзёртаму</Form>
-        <Form Tag="MAS">прадзёрты</Form>
-        <Form Tag="MAS">прадзёртага</Form>
-        <Form Tag="MIS">прадзёртым</Form>
-        <Form Tag="MLS">прадзёртым</Form>
-        <Form Tag="FNS">прадзёртая</Form>
-        <Form Tag="FGS">прадзёртай</Form>
-        <Form Tag="FGS">прадзёртае</Form>
-        <Form Tag="FDS">прадзёртай</Form>
-        <Form Tag="FAS">прадзёртую</Form>
-        <Form Tag="FIS">прадзёртай</Form>
-        <Form Tag="FIS">прадзёртаю</Form>
-        <Form Tag="FLS">прадзёртай</Form>
-        <Form Tag="NNS">прадзёртае</Form>
-        <Form Tag="NGS">прадзёртага</Form>
-        <Form Tag="NDS">прадзёртаму</Form>
-        <Form Tag="NAS">прадзёртае</Form>
-        <Form Tag="NIS">прадзёртым</Form>
-        <Form Tag="NLS">прадзёртым</Form>
-        <Form Tag="XNP">прадзёртыя</Form>
-        <Form Tag="XGP">прадзёртых</Form>
-        <Form Tag="XDP">прадзёртым</Form>
-        <Form Tag="XAP">прадзёртыя</Form>
-        <Form Tag="XIP">прадзёртымі</Form>
-        <Form Tag="XLP">прадзёртых</Form>
+        <Form Tag="MNS" Slouniki="prym2009">прадзёрты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">прадзёртага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">прадзёртаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">прадзёрты</Form>
+        <Form Tag="MAS" options="anim">прадзёртага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">прадзёртым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">прадзёртым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">прадзёртая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">прадзёртай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">прадзёртае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">прадзёртай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">прадзёртую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">прадзёртай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">прадзёртаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">прадзёртай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">прадзёртае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">прадзёртага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">прадзёртаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">прадзёртае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">прадзёртым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">прадзёртым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">прадзёртыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">прадзёртых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">прадзёртым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">прадзёртыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">прадзёртымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">прадзёртых</Form>
     </Paradigm>
     <Paradigm pdgId="1011191" Lemma="прадпрыняты" Tag="PPPP" Govern="">
         <Form Tag="MNS">прадпрыняты</Form>
@@ -6815,34 +6834,35 @@
         <Form Tag="XIP">пражытымі</Form>
         <Form Tag="XLP">пражытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1011291" Lemma="пракляты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">пракляты</Form>
-        <Form Tag="MGS">праклятага</Form>
-        <Form Tag="MDS">праклятаму</Form>
-        <Form Tag="MAS">пракляты</Form>
-        <Form Tag="MAS">праклятага</Form>
-        <Form Tag="MIS">праклятым</Form>
-        <Form Tag="MLS">праклятым</Form>
-        <Form Tag="FNS">праклятая</Form>
-        <Form Tag="FGS">праклятай</Form>
-        <Form Tag="FGS">праклятае</Form>
-        <Form Tag="FDS">праклятай</Form>
-        <Form Tag="FAS">праклятую</Form>
-        <Form Tag="FIS">праклятай</Form>
-        <Form Tag="FIS">праклятаю</Form>
-        <Form Tag="FLS">праклятай</Form>
-        <Form Tag="NNS">праклятае</Form>
-        <Form Tag="NGS">праклятага</Form>
-        <Form Tag="NDS">праклятаму</Form>
-        <Form Tag="NAS">праклятае</Form>
-        <Form Tag="NIS">праклятым</Form>
-        <Form Tag="NLS">праклятым</Form>
-        <Form Tag="XNP">праклятыя</Form>
-        <Form Tag="XGP">праклятых</Form>
-        <Form Tag="XDP">праклятым</Form>
-        <Form Tag="XAP">праклятыя</Form>
-        <Form Tag="XIP">праклятымі</Form>
-        <Form Tag="XLP">праклятых</Form>
+    <Paradigm pdgId="1011291" Lemma="пракля´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">пракля´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">пракля´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">пракля´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">пракля´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">пракля´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">пракля´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">пракля´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">пракля´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пракля´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">пракля´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">пракля´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">пракля´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пракля´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">пракля´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">пракля´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">пракля´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">пракля´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">пракля´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">пракля´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">пракля´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">пракля´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">пракля´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">пракля´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">пракля´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">пракля´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">пракля´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">пракля´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">пракля´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1011301" Lemma="праліты" Tag="PPPP" Govern="">
         <Form Tag="MNS">праліты</Form>
@@ -6961,33 +6981,33 @@
         <Form Tag="XLP">прасякнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1011516" Lemma="працёрты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">працёрты</Form>
-        <Form Tag="MGS">працёртага</Form>
-        <Form Tag="MDS">працёртаму</Form>
-        <Form Tag="MAS">працёрты</Form>
-        <Form Tag="MAS">працёртага</Form>
-        <Form Tag="MIS">працёртым</Form>
-        <Form Tag="MLS">працёртым</Form>
-        <Form Tag="FNS">працёртая</Form>
-        <Form Tag="FGS">працёртай</Form>
-        <Form Tag="FGS">працёртае</Form>
-        <Form Tag="FDS">працёртай</Form>
-        <Form Tag="FAS">працёртую</Form>
-        <Form Tag="FIS">працёртай</Form>
-        <Form Tag="FIS">працёртаю</Form>
-        <Form Tag="FLS">працёртай</Form>
-        <Form Tag="NNS">працёртае</Form>
-        <Form Tag="NGS">працёртага</Form>
-        <Form Tag="NDS">працёртаму</Form>
-        <Form Tag="NAS">працёртае</Form>
-        <Form Tag="NIS">працёртым</Form>
-        <Form Tag="NLS">працёртым</Form>
-        <Form Tag="XNP">працёртыя</Form>
-        <Form Tag="XGP">працёртых</Form>
-        <Form Tag="XDP">працёртым</Form>
-        <Form Tag="XAP">працёртыя</Form>
-        <Form Tag="XIP">працёртымі</Form>
-        <Form Tag="XLP">працёртых</Form>
+        <Form Tag="MNS" Slouniki="prym2009">працёрты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">працёртага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">працёртаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">працёрты</Form>
+        <Form Tag="MAS" options="anim">працёртага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">працёртым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">працёртым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">працёртая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">працёртай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">працёртае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">працёртай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">працёртую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">працёртай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">працёртаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">працёртай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">працёртае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">працёртага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">працёртаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">працёртае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">працёртым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">працёртым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">працёртыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">працёртых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">працёртым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">працёртыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">працёртымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">працёртых</Form>
     </Paradigm>
     <Paradigm pdgId="1011523" Lemma="працягнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">працягнуты</Form>
@@ -7076,34 +7096,35 @@
         <Form Tag="XIP">прашытымі</Form>
         <Form Tag="XLP">прашытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1011565" Lemma="прыбіты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">прыбіты</Form>
-        <Form Tag="MGS">прыбітага</Form>
-        <Form Tag="MDS">прыбітаму</Form>
-        <Form Tag="MAS">прыбіты</Form>
-        <Form Tag="MAS">прыбітага</Form>
-        <Form Tag="MIS">прыбітым</Form>
-        <Form Tag="MLS">прыбітым</Form>
-        <Form Tag="FNS">прыбітая</Form>
-        <Form Tag="FGS">прыбітай</Form>
-        <Form Tag="FGS">прыбітае</Form>
-        <Form Tag="FDS">прыбітай</Form>
-        <Form Tag="FAS">прыбітую</Form>
-        <Form Tag="FIS">прыбітай</Form>
-        <Form Tag="FIS">прыбітаю</Form>
-        <Form Tag="FLS">прыбітай</Form>
-        <Form Tag="NNS">прыбітае</Form>
-        <Form Tag="NGS">прыбітага</Form>
-        <Form Tag="NDS">прыбітаму</Form>
-        <Form Tag="NAS">прыбітае</Form>
-        <Form Tag="NIS">прыбітым</Form>
-        <Form Tag="NLS">прыбітым</Form>
-        <Form Tag="XNP">прыбітыя</Form>
-        <Form Tag="XGP">прыбітых</Form>
-        <Form Tag="XDP">прыбітым</Form>
-        <Form Tag="XAP">прыбітыя</Form>
-        <Form Tag="XIP">прыбітымі</Form>
-        <Form Tag="XLP">прыбітых</Form>
+    <Paradigm pdgId="1011565" Lemma="прыбі´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">прыбі´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">прыбі´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">прыбі´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">прыбі´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">прыбі´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">прыбі´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">прыбі´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">прыбі´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">прыбі´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">прыбі´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">прыбі´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">прыбі´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">прыбі´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">прыбі´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">прыбі´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">прыбі´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">прыбі´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">прыбі´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">прыбі´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">прыбі´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">прыбі´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">прыбі´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">прыбі´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">прыбі´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">прыбі´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">прыбі´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">прыбі´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">прыбі´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1011630" Lemma="прызабыты" Tag="PPPP" Govern="">
         <Form Tag="MNS">прызабыты</Form>
@@ -7337,34 +7358,35 @@
         <Form Tag="XIP">разагрэтымі</Form>
         <Form Tag="XLP">разагрэтых</Form>
     </Paradigm>
-    <Paradigm pdgId="1011986" Lemma="разадзеты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">разадзеты</Form>
-        <Form Tag="MGS">разадзетага</Form>
-        <Form Tag="MDS">разадзетаму</Form>
+    <Paradigm pdgId="1011986" Lemma="разадзе´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">разадзе´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">разадзе´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">разадзе´таму</Form>
         <Form Tag="MAS">разадзеты</Form>
-        <Form Tag="MAS">разадзетага</Form>
-        <Form Tag="MIS">разадзетым</Form>
-        <Form Tag="MLS">разадзетым</Form>
-        <Form Tag="FNS">разадзетая</Form>
-        <Form Tag="FGS">разадзетай</Form>
-        <Form Tag="FGS">разадзетае</Form>
-        <Form Tag="FDS">разадзетай</Form>
-        <Form Tag="FAS">разадзетую</Form>
-        <Form Tag="FIS">разадзетай</Form>
-        <Form Tag="FIS">разадзетаю</Form>
-        <Form Tag="FLS">разадзетай</Form>
-        <Form Tag="NNS">разадзетае</Form>
-        <Form Tag="NGS">разадзетага</Form>
-        <Form Tag="NDS">разадзетаму</Form>
-        <Form Tag="NAS">разадзетае</Form>
-        <Form Tag="NIS">разадзетым</Form>
-        <Form Tag="NLS">разадзетым</Form>
-        <Form Tag="XNP">разадзетыя</Form>
-        <Form Tag="XGP">разадзетых</Form>
-        <Form Tag="XDP">разадзетым</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">разадзе´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">разадзе´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">разадзе´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">разадзе´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">разадзе´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">разадзе´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">разадзе´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">разадзе´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">разадзе´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">разадзе´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">разадзе´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">разадзе´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">разадзе´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">разадзе´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">разадзе´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">разадзе´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">разадзе´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">разадзе´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">разадзе´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">разадзе´тым</Form>
         <Form Tag="XAP">разадзетыя</Form>
-        <Form Tag="XIP">разадзетымі</Form>
-        <Form Tag="XLP">разадзетых</Form>
+        <Form Tag="PIP" Slouniki="prym2009">разадзе´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">разадзе´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">разадзе´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1011989" Lemma="разадзьмуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">разадзьмуты</Form>
@@ -7424,34 +7446,35 @@
         <Form Tag="XIP">разапхнутымі</Form>
         <Form Tag="XLP">разапхнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1012017" Lemma="разбіты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">разбіты</Form>
-        <Form Tag="MGS">разбітага</Form>
-        <Form Tag="MDS">разбітаму</Form>
-        <Form Tag="MAS">разбіты</Form>
-        <Form Tag="MAS">разбітага</Form>
-        <Form Tag="MIS">разбітым</Form>
-        <Form Tag="MLS">разбітым</Form>
-        <Form Tag="FNS">разбітая</Form>
-        <Form Tag="FGS">разбітай</Form>
-        <Form Tag="FGS">разбітае</Form>
-        <Form Tag="FDS">разбітай</Form>
-        <Form Tag="FAS">разбітую</Form>
-        <Form Tag="FIS">разбітай</Form>
-        <Form Tag="FIS">разбітаю</Form>
-        <Form Tag="FLS">разбітай</Form>
-        <Form Tag="NNS">разбітае</Form>
-        <Form Tag="NGS">разбітага</Form>
-        <Form Tag="NDS">разбітаму</Form>
-        <Form Tag="NAS">разбітае</Form>
-        <Form Tag="NIS">разбітым</Form>
-        <Form Tag="NLS">разбітым</Form>
-        <Form Tag="XNP">разбітыя</Form>
-        <Form Tag="XGP">разбітых</Form>
-        <Form Tag="XDP">разбітым</Form>
-        <Form Tag="XAP">разбітыя</Form>
-        <Form Tag="XIP">разбітымі</Form>
-        <Form Tag="XLP">разбітых</Form>
+    <Paradigm pdgId="1012017" Lemma="разбі´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">разбі´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">разбі´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">разбі´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">разбі´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">разбі´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">разбі´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">разбі´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">разбі´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">разбі´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">разбі´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">разбі´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">разбі´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">разбі´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">разбі´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">разбі´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">разбі´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">разбі´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">разбі´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">разбі´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">разбі´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">разбі´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">разбі´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">разбі´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">разбі´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">разбі´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">разбі´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">разбі´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">разбі´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1012046" Lemma="развіты" Tag="PPPP" Govern="">
         <Form Tag="MNS">развіты</Form>
@@ -7482,34 +7505,34 @@
         <Form Tag="XIP">развітымі</Form>
         <Form Tag="XLP">развітых</Form>
     </Paradigm>
-    <Paradigm pdgId="1012123" Lemma="разгорнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">разгорнуты</Form>
-        <Form Tag="MGS">разгорнутага</Form>
-        <Form Tag="MDS">разгорнутаму</Form>
-        <Form Tag="MAS">разгорнуты</Form>
+    <Paradigm pdgId="1012123" Lemma="разго´рнуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">разго´рнуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">разго´рнутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">разго´рнутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">разго´рнуты</Form>
         <Form Tag="MAS">разгорнутага</Form>
-        <Form Tag="MIS">разгорнутым</Form>
-        <Form Tag="MLS">разгорнутым</Form>
-        <Form Tag="FNS">разгорнутая</Form>
-        <Form Tag="FGS">разгорнутай</Form>
-        <Form Tag="FGS">разгорнутае</Form>
-        <Form Tag="FDS">разгорнутай</Form>
-        <Form Tag="FAS">разгорнутую</Form>
-        <Form Tag="FIS">разгорнутай</Form>
-        <Form Tag="FIS">разгорнутаю</Form>
-        <Form Tag="FLS">разгорнутай</Form>
-        <Form Tag="NNS">разгорнутае</Form>
-        <Form Tag="NGS">разгорнутага</Form>
-        <Form Tag="NDS">разгорнутаму</Form>
-        <Form Tag="NAS">разгорнутае</Form>
-        <Form Tag="NIS">разгорнутым</Form>
-        <Form Tag="NLS">разгорнутым</Form>
-        <Form Tag="XNP">разгорнутыя</Form>
-        <Form Tag="XGP">разгорнутых</Form>
-        <Form Tag="XDP">разгорнутым</Form>
-        <Form Tag="XAP">разгорнутыя</Form>
-        <Form Tag="XIP">разгорнутымі</Form>
-        <Form Tag="XLP">разгорнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">разго´рнутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">разго´рнутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">разго´рнутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">разго´рнутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">разго´рнутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">разго´рнутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">разго´рнутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">разго´рнутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">разго´рнутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">разго´рнутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">разго´рнутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">разго´рнутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">разго´рнутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">разго´рнутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">разго´рнутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">разго´рнутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">разго´рнутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">разго´рнутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">разго´рнутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">разго´рнутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">разго´рнутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">разго´рнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1012196" Lemma="разліты" Tag="PPPP" Govern="">
         <Form Tag="MNS">разліты</Form>
@@ -7569,34 +7592,34 @@
         <Form Tag="XIP">размолатымі</Form>
         <Form Tag="XLP">размолатых</Form>
     </Paradigm>
-    <Paradigm pdgId="1012279" Lemma="размыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">размыты</Form>
-        <Form Tag="MGS">размытага</Form>
-        <Form Tag="MDS">размытаму</Form>
-        <Form Tag="MAS">размыты</Form>
+    <Paradigm pdgId="1012279" Lemma="размы´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">размы´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">размы´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">размы´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">размы´ты</Form>
         <Form Tag="MAS">размытага</Form>
-        <Form Tag="MIS">размытым</Form>
-        <Form Tag="MLS">размытым</Form>
-        <Form Tag="FNS">размытая</Form>
-        <Form Tag="FGS">размытай</Form>
-        <Form Tag="FGS">размытае</Form>
-        <Form Tag="FDS">размытай</Form>
-        <Form Tag="FAS">размытую</Form>
-        <Form Tag="FIS">размытай</Form>
-        <Form Tag="FIS">размытаю</Form>
-        <Form Tag="FLS">размытай</Form>
-        <Form Tag="NNS">размытае</Form>
-        <Form Tag="NGS">размытага</Form>
-        <Form Tag="NDS">размытаму</Form>
-        <Form Tag="NAS">размытае</Form>
-        <Form Tag="NIS">размытым</Form>
-        <Form Tag="NLS">размытым</Form>
-        <Form Tag="XNP">размытыя</Form>
-        <Form Tag="XGP">размытых</Form>
-        <Form Tag="XDP">размытым</Form>
-        <Form Tag="XAP">размытыя</Form>
-        <Form Tag="XIP">размытымі</Form>
-        <Form Tag="XLP">размытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">размы´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">размы´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">размы´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">размы´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">размы´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">размы´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">размы´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">размы´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">размы´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">размы´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">размы´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">размы´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">размы´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">размы´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">размы´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">размы´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">размы´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">размы´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">размы´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">размы´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">размы´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">размы´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1012297" Lemma="разняты" Tag="PPPP" Govern="">
         <Form Tag="MNS">разняты</Form>
@@ -7714,34 +7737,34 @@
         <Form Tag="XIP">раскрытымі</Form>
         <Form Tag="XLP">раскрытых</Form>
     </Paradigm>
-    <Paradigm pdgId="1012511" Lemma="распачаты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">распачаты</Form>
-        <Form Tag="MGS">распачатага</Form>
-        <Form Tag="MDS">распачатаму</Form>
-        <Form Tag="MAS">распачаты</Form>
+    <Paradigm pdgId="1012511" Lemma="распача´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">распача´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">распача´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">распача´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">распача´ты</Form>
         <Form Tag="MAS">распачатага</Form>
-        <Form Tag="MIS">распачатым</Form>
-        <Form Tag="MLS">распачатым</Form>
-        <Form Tag="FNS">распачатая</Form>
-        <Form Tag="FGS">распачатай</Form>
-        <Form Tag="FGS">распачатае</Form>
-        <Form Tag="FDS">распачатай</Form>
-        <Form Tag="FAS">распачатую</Form>
-        <Form Tag="FIS">распачатай</Form>
-        <Form Tag="FIS">распачатаю</Form>
-        <Form Tag="FLS">распачатай</Form>
-        <Form Tag="NNS">распачатае</Form>
-        <Form Tag="NGS">распачатага</Form>
-        <Form Tag="NDS">распачатаму</Form>
-        <Form Tag="NAS">распачатае</Form>
-        <Form Tag="NIS">распачатым</Form>
-        <Form Tag="NLS">распачатым</Form>
-        <Form Tag="XNP">распачатыя</Form>
-        <Form Tag="XGP">распачатых</Form>
-        <Form Tag="XDP">распачатым</Form>
-        <Form Tag="XAP">распачатыя</Form>
-        <Form Tag="XIP">распачатымі</Form>
-        <Form Tag="XLP">распачатых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">распача´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">распача´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">распача´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">распача´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">распача´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">распача´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">распача´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">распача´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">распача´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">распача´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">распача´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">распача´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">распача´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">распача´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">распача´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">распача´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">распача´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">распача´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">распача´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">распача´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">распача´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">распача´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1012475" Lemma="распёрты" Tag="PPPP" Govern="">
         <Form Tag="MNS">распёрты</Form>
@@ -8004,34 +8027,35 @@
         <Form Tag="XIP">расцягнутымі</Form>
         <Form Tag="XLP">расцягнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1012943" Lemma="сагнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">сагнуты</Form>
-        <Form Tag="MGS">сагнутага</Form>
-        <Form Tag="MDS">сагнутаму</Form>
-        <Form Tag="MAS">сагнуты</Form>
-        <Form Tag="MAS">сагнутага</Form>
-        <Form Tag="MIS">сагнутым</Form>
-        <Form Tag="MLS">сагнутым</Form>
-        <Form Tag="FNS">сагнутая</Form>
-        <Form Tag="FGS">сагнутай</Form>
-        <Form Tag="FGS">сагнутае</Form>
-        <Form Tag="FDS">сагнутай</Form>
-        <Form Tag="FAS">сагнутую</Form>
-        <Form Tag="FIS">сагнутай</Form>
-        <Form Tag="FIS">сагнутаю</Form>
-        <Form Tag="FLS">сагнутай</Form>
-        <Form Tag="NNS">сагнутае</Form>
-        <Form Tag="NGS">сагнутага</Form>
-        <Form Tag="NDS">сагнутаму</Form>
-        <Form Tag="NAS">сагнутае</Form>
-        <Form Tag="NIS">сагнутым</Form>
-        <Form Tag="NLS">сагнутым</Form>
-        <Form Tag="XNP">сагнутыя</Form>
-        <Form Tag="XGP">сагнутых</Form>
-        <Form Tag="XDP">сагнутым</Form>
-        <Form Tag="XAP">сагнутыя</Form>
-        <Form Tag="XIP">сагнутымі</Form>
-        <Form Tag="XLP">сагнутых</Form>
+    <Paradigm pdgId="1012943" Lemma="сагну´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">сагну´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">сагну´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">сагну´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">сагну´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">сагну´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">сагну´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">сагну´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">сагну´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сагну´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сагну´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">сагну´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">сагну´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сагну´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сагну´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">сагну´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">сагну´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">сагну´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">сагну´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">сагну´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">сагну´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">сагну´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">сагну´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">сагну´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">сагну´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">сагну´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">сагну´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">сагну´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">сагну´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1012949" Lemma="сагрэты" Tag="PPPP" Govern="">
         <Form Tag="MNS">сагрэты</Form>
@@ -8207,34 +8231,34 @@
         <Form Tag="XIP">скранутымі</Form>
         <Form Tag="XLP">скранутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1161127" Lemma="скрыты" Tag="PPPP">
-        <Form Tag="MNS">скрыты</Form>
-        <Form Tag="MGS">скрытага</Form>
-        <Form Tag="MDS">скрытаму</Form>
-        <Form Tag="MAS">скрыты</Form>
+    <Paradigm pdgId="1161127" Lemma="скры´ты" Tag="PPPP">
+        <Form Tag="MNS" Slouniki="prym2009">скры´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">скры´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">скры´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">скры´ты</Form>
         <Form Tag="MAS">скрытага</Form>
-        <Form Tag="MIS">скрытым</Form>
-        <Form Tag="MLS">скрытым</Form>
-        <Form Tag="FNS">скрытая</Form>
-        <Form Tag="FGS">скрытай</Form>
-        <Form Tag="FGS">скрытае</Form>
-        <Form Tag="FDS">скрытай</Form>
-        <Form Tag="FAS">скрытую</Form>
-        <Form Tag="FIS">скрытай</Form>
-        <Form Tag="FIS">скрытаю</Form>
-        <Form Tag="FLS">скрытай</Form>
-        <Form Tag="NNS">скрытае</Form>
-        <Form Tag="NGS">скрытага</Form>
-        <Form Tag="NDS">скрытаму</Form>
-        <Form Tag="NAS">скрытае</Form>
-        <Form Tag="NIS">скрытым</Form>
-        <Form Tag="NLS">скрытым</Form>
-        <Form Tag="XNP">скрытыя</Form>
-        <Form Tag="XGP">скрытых</Form>
-        <Form Tag="XDP">скрытым</Form>
-        <Form Tag="XAP">скрытыя</Form>
-        <Form Tag="XIP">скрытымі</Form>
-        <Form Tag="XLP">скрытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">скры´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">скры´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">скры´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">скры´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">скры´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">скры´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">скры´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">скры´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">скры´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">скры´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">скры´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">скры´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">скры´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">скры´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">скры´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">скры´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">скры´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">скры´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">скры´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">скры´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">скры´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">скры´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1013306" Lemma="спавіты" Tag="PPPP" Govern="">
         <Form Tag="MNS">спавіты</Form>
@@ -8323,34 +8347,34 @@
         <Form Tag="XIP">спаласнутымі</Form>
         <Form Tag="XLP">спаласнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1013504" Lemma="ссунуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">ссунуты</Form>
-        <Form Tag="MGS">ссунутага</Form>
-        <Form Tag="MDS">ссунутаму</Form>
-        <Form Tag="MAS">ссунуты</Form>
+    <Paradigm pdgId="1013504" Lemma="ссу´нуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">ссу´нуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">ссу´нутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">ссу´нутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">ссу´нуты</Form>
         <Form Tag="MAS">ссунутага</Form>
-        <Form Tag="MIS">ссунутым</Form>
-        <Form Tag="MLS">ссунутым</Form>
-        <Form Tag="FNS">ссунутая</Form>
-        <Form Tag="FGS">ссунутай</Form>
-        <Form Tag="FGS">ссунутае</Form>
-        <Form Tag="FDS">ссунутай</Form>
-        <Form Tag="FAS">ссунутую</Form>
-        <Form Tag="FIS">ссунутай</Form>
-        <Form Tag="FIS">ссунутаю</Form>
-        <Form Tag="FLS">ссунутай</Form>
-        <Form Tag="NNS">ссунутае</Form>
-        <Form Tag="NGS">ссунутага</Form>
-        <Form Tag="NDS">ссунутаму</Form>
-        <Form Tag="NAS">ссунутае</Form>
-        <Form Tag="NIS">ссунутым</Form>
-        <Form Tag="NLS">ссунутым</Form>
-        <Form Tag="XNP">ссунутыя</Form>
-        <Form Tag="XGP">ссунутых</Form>
-        <Form Tag="XDP">ссунутым</Form>
-        <Form Tag="XAP">ссунутыя</Form>
-        <Form Tag="XIP">ссунутымі</Form>
-        <Form Tag="XLP">ссунутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">ссу´нутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">ссу´нутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">ссу´нутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">ссу´нутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">ссу´нутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">ссу´нутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">ссу´нутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ссу´нутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ссу´нутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">ссу´нутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">ссу´нутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">ссу´нутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">ссу´нутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">ссу´нутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">ссу´нутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">ссу´нутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">ссу´нутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">ссу´нутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">ссу´нутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">ссу´нутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">ссу´нутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">ссу´нутых</Form>
     </Paradigm>
     <Paradigm pdgId="1013582" Lemma="стрэты" Tag="PPPP" Govern="">
         <Form Tag="MNS">стрэты</Form>
@@ -8469,91 +8493,91 @@
         <Form Tag="XLP">схвоснутых</Form>
     </Paradigm>
     <Paradigm pdgId="1013740" Lemma="сцёрты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">сцёрты</Form>
-        <Form Tag="MGS">сцёртага</Form>
-        <Form Tag="MDS">сцёртаму</Form>
-        <Form Tag="MAS">сцёрты</Form>
-        <Form Tag="MAS">сцёртага</Form>
-        <Form Tag="MIS">сцёртым</Form>
-        <Form Tag="MLS">сцёртым</Form>
-        <Form Tag="FNS">сцёртая</Form>
-        <Form Tag="FGS">сцёртай</Form>
-        <Form Tag="FGS">сцёртае</Form>
-        <Form Tag="FDS">сцёртай</Form>
-        <Form Tag="FAS">сцёртую</Form>
-        <Form Tag="FIS">сцёртай</Form>
-        <Form Tag="FIS">сцёртаю</Form>
-        <Form Tag="FLS">сцёртай</Form>
-        <Form Tag="NNS">сцёртае</Form>
-        <Form Tag="NGS">сцёртага</Form>
-        <Form Tag="NDS">сцёртаму</Form>
-        <Form Tag="NAS">сцёртае</Form>
-        <Form Tag="NIS">сцёртым</Form>
-        <Form Tag="NLS">сцёртым</Form>
-        <Form Tag="XNP">сцёртыя</Form>
-        <Form Tag="XGP">сцёртых</Form>
-        <Form Tag="XDP">сцёртым</Form>
-        <Form Tag="XAP">сцёртыя</Form>
-        <Form Tag="XIP">сцёртымі</Form>
-        <Form Tag="XLP">сцёртых</Form>
+        <Form Tag="MNS" Slouniki="prym2009">сцёрты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">сцёртага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">сцёртаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">сцёрты</Form>
+        <Form Tag="MAS" options="anim">сцёртага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">сцёртым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">сцёртым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">сцёртая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сцёртай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сцёртае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">сцёртай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">сцёртую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сцёртай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сцёртаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">сцёртай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">сцёртае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">сцёртага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">сцёртаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">сцёртае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">сцёртым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">сцёртым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">сцёртыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">сцёртых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">сцёртым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">сцёртыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">сцёртымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">сцёртых</Form>
     </Paradigm>
-    <Paradigm pdgId="1013737" Lemma="сціснуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">сціснуты</Form>
-        <Form Tag="MGS">сціснутага</Form>
-        <Form Tag="MDS">сціснутаму</Form>
-        <Form Tag="MAS">сціснуты</Form>
+    <Paradigm pdgId="1013737" Lemma="сці´снуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">сці´снуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">сці´снутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">сці´снутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">сці´снуты</Form>
         <Form Tag="MAS">сціснутага</Form>
-        <Form Tag="MIS">сціснутым</Form>
-        <Form Tag="MLS">сціснутым</Form>
-        <Form Tag="FNS">сціснутая</Form>
-        <Form Tag="FGS">сціснутай</Form>
-        <Form Tag="FGS">сціснутае</Form>
-        <Form Tag="FDS">сціснутай</Form>
-        <Form Tag="FAS">сціснутую</Form>
-        <Form Tag="FIS">сціснутай</Form>
-        <Form Tag="FIS">сціснутаю</Form>
-        <Form Tag="FLS">сціснутай</Form>
-        <Form Tag="NNS">сціснутае</Form>
-        <Form Tag="NGS">сціснутага</Form>
-        <Form Tag="NDS">сціснутаму</Form>
-        <Form Tag="NAS">сціснутае</Form>
-        <Form Tag="NIS">сціснутым</Form>
-        <Form Tag="NLS">сціснутым</Form>
-        <Form Tag="XNP">сціснутыя</Form>
-        <Form Tag="XGP">сціснутых</Form>
-        <Form Tag="XDP">сціснутым</Form>
-        <Form Tag="XAP">сціснутыя</Form>
-        <Form Tag="XIP">сціснутымі</Form>
-        <Form Tag="XLP">сціснутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">сці´снутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">сці´снутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">сці´снутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сці´снутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сці´снутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">сці´снутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">сці´снутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сці´снутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сці´снутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">сці´снутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">сці´снутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">сці´снутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">сці´снутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">сці´снутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">сці´снутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">сці´снутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">сці´снутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">сці´снутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">сці´снутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">сці´снутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">сці´снутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">сці´снутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1013765" Lemma="сцягнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">сцягнуты</Form>
-        <Form Tag="MGS">сцягнутага</Form>
-        <Form Tag="MDS">сцягнутаму</Form>
-        <Form Tag="MAS">сцягнуты</Form>
+    <Paradigm pdgId="1013765" Lemma="сця´гнуты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">сця´гнуты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">сця´гнутага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">сця´гнутаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">сця´гнуты</Form>
         <Form Tag="MAS">сцягнутага</Form>
-        <Form Tag="MIS">сцягнутым</Form>
-        <Form Tag="MLS">сцягнутым</Form>
-        <Form Tag="FNS">сцягнутая</Form>
-        <Form Tag="FGS">сцягнутай</Form>
-        <Form Tag="FGS">сцягнутае</Form>
-        <Form Tag="FDS">сцягнутай</Form>
-        <Form Tag="FAS">сцягнутую</Form>
-        <Form Tag="FIS">сцягнутай</Form>
-        <Form Tag="FIS">сцягнутаю</Form>
-        <Form Tag="FLS">сцягнутай</Form>
-        <Form Tag="NNS">сцягнутае</Form>
-        <Form Tag="NGS">сцягнутага</Form>
-        <Form Tag="NDS">сцягнутаму</Form>
-        <Form Tag="NAS">сцягнутае</Form>
-        <Form Tag="NIS">сцягнутым</Form>
-        <Form Tag="NLS">сцягнутым</Form>
-        <Form Tag="XNP">сцягнутыя</Form>
-        <Form Tag="XGP">сцягнутых</Form>
-        <Form Tag="XDP">сцягнутым</Form>
-        <Form Tag="XAP">сцягнутыя</Form>
-        <Form Tag="XIP">сцягнутымі</Form>
-        <Form Tag="XLP">сцягнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">сця´гнутым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">сця´гнутым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">сця´гнутая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сця´гнутай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">сця´гнутае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">сця´гнутай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">сця´гнутую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сця´гнутай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">сця´гнутаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">сця´гнутай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">сця´гнутае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">сця´гнутага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">сця´гнутаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">сця´гнутае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">сця´гнутым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">сця´гнутым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">сця´гнутыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">сця´гнутых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">сця´гнутым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">сця´гнутыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">сця´гнутымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">сця´гнутых</Form>
     </Paradigm>
     <Paradigm pdgId="1013768" Lemma="сцяты" Tag="PPPP" Govern="">
         <Form Tag="MNS">сцяты</Form>
@@ -8671,63 +8695,63 @@
         <Form Tag="XIP">трэснутымі</Form>
         <Form Tag="XLP">трэснутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1013994" Lemma="убіты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">убіты</Form>
-        <Form Tag="MGS">убітага</Form>
-        <Form Tag="MDS">убітаму</Form>
-        <Form Tag="MAS">убіты</Form>
+    <Paradigm pdgId="1013994" Lemma="убі´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">убі´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">убі´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">убі´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">убі´ты</Form>
         <Form Tag="MAS">убітага</Form>
-        <Form Tag="MIS">убітым</Form>
-        <Form Tag="MLS">убітым</Form>
-        <Form Tag="FNS">убітая</Form>
-        <Form Tag="FGS">убітай</Form>
-        <Form Tag="FGS">убітае</Form>
-        <Form Tag="FDS">убітай</Form>
-        <Form Tag="FAS">убітую</Form>
-        <Form Tag="FIS">убітай</Form>
-        <Form Tag="FIS">убітаю</Form>
-        <Form Tag="FLS">убітай</Form>
-        <Form Tag="NNS">убітае</Form>
-        <Form Tag="NGS">убітага</Form>
-        <Form Tag="NDS">убітаму</Form>
-        <Form Tag="NAS">убітае</Form>
-        <Form Tag="NIS">убітым</Form>
-        <Form Tag="NLS">убітым</Form>
-        <Form Tag="XNP">убітыя</Form>
-        <Form Tag="XGP">убітых</Form>
-        <Form Tag="XDP">убітым</Form>
-        <Form Tag="XAP">убітыя</Form>
-        <Form Tag="XIP">убітымі</Form>
-        <Form Tag="XLP">убітых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">убі´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">убі´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">убі´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">убі´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">убі´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">убі´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">убі´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">убі´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">убі´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">убі´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">убі´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">убі´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">убі´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">убі´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">убі´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">убі´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">убі´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">убі´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">убі´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">убі´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">убі´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">убі´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1014018" Lemma="увагнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">увагнуты</Form>
-        <Form Tag="MGS">увагнутага</Form>
-        <Form Tag="MDS">увагнутаму</Form>
-        <Form Tag="MAS">увагнуты</Form>
+    <Paradigm pdgId="1014018" Lemma="увагну´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">увагну´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">увагну´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">увагну´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">увагну´ты</Form>
         <Form Tag="MAS">увагнутага</Form>
-        <Form Tag="MIS">увагнутым</Form>
-        <Form Tag="MLS">увагнутым</Form>
-        <Form Tag="FNS">увагнутая</Form>
-        <Form Tag="FGS">увагнутай</Form>
-        <Form Tag="FGS">увагнутае</Form>
-        <Form Tag="FDS">увагнутай</Form>
-        <Form Tag="FAS">увагнутую</Form>
-        <Form Tag="FIS">увагнутай</Form>
-        <Form Tag="FIS">увагнутаю</Form>
-        <Form Tag="FLS">увагнутай</Form>
-        <Form Tag="NNS">увагнутае</Form>
-        <Form Tag="NGS">увагнутага</Form>
-        <Form Tag="NDS">увагнутаму</Form>
-        <Form Tag="NAS">увагнутае</Form>
-        <Form Tag="NIS">увагнутым</Form>
-        <Form Tag="NLS">увагнутым</Form>
-        <Form Tag="XNP">увагнутыя</Form>
-        <Form Tag="XGP">увагнутых</Form>
-        <Form Tag="XDP">увагнутым</Form>
-        <Form Tag="XAP">увагнутыя</Form>
-        <Form Tag="XIP">увагнутымі</Form>
-        <Form Tag="XLP">увагнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">увагну´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">увагну´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">увагну´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">увагну´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">увагну´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">увагну´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">увагну´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">увагну´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">увагну´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">увагну´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">увагну´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">увагну´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">увагну´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">увагну´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">увагну´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">увагну´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">увагну´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">увагну´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">увагну´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">увагну´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">увагну´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">увагну´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1014024" Lemma="увапхнуты" Tag="PPPP" Govern="">
         <Form Tag="MNS">увапхнуты</Form>
@@ -8816,34 +8840,34 @@
         <Form Tag="XIP">увітымі</Form>
         <Form Tag="XLP">увітых</Form>
     </Paradigm>
-    <Paradigm pdgId="1014081" Lemma="угнуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">угнуты</Form>
-        <Form Tag="MGS">угнутага</Form>
-        <Form Tag="MDS">угнутаму</Form>
-        <Form Tag="MAS">угнуты</Form>
+    <Paradigm pdgId="1014081" Lemma="угну´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">угну´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">угну´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">угну´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">угну´ты</Form>
         <Form Tag="MAS">угнутага</Form>
-        <Form Tag="MIS">угнутым</Form>
-        <Form Tag="MLS">угнутым</Form>
-        <Form Tag="FNS">угнутая</Form>
-        <Form Tag="FGS">угнутай</Form>
-        <Form Tag="FGS">угнутае</Form>
-        <Form Tag="FDS">угнутай</Form>
-        <Form Tag="FAS">угнутую</Form>
-        <Form Tag="FIS">угнутай</Form>
-        <Form Tag="FIS">угнутаю</Form>
-        <Form Tag="FLS">угнутай</Form>
-        <Form Tag="NNS">угнутае</Form>
-        <Form Tag="NGS">угнутага</Form>
-        <Form Tag="NDS">угнутаму</Form>
-        <Form Tag="NAS">угнутае</Form>
-        <Form Tag="NIS">угнутым</Form>
-        <Form Tag="NLS">угнутым</Form>
-        <Form Tag="XNP">угнутыя</Form>
-        <Form Tag="XGP">угнутых</Form>
-        <Form Tag="XDP">угнутым</Form>
-        <Form Tag="XAP">угнутыя</Form>
-        <Form Tag="XIP">угнутымі</Form>
-        <Form Tag="XLP">угнутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">угну´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">угну´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">угну´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">угну´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">угну´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">угну´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">угну´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">угну´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">угну´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">угну´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">угну´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">угну´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">угну´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">угну´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">угну´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">угну´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">угну´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">угну´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">угну´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">угну´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">угну´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">угну´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1014125" Lemma="ужыты" Tag="PPPP" Govern="">
         <Form Tag="MNS">ужыты</Form>
@@ -8932,34 +8956,35 @@
         <Form Tag="XIP">уздутымі</Form>
         <Form Tag="XLP">уздутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1014239" Lemma="узняты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">узняты</Form>
-        <Form Tag="MGS">узнятага</Form>
-        <Form Tag="MDS">узнятаму</Form>
-        <Form Tag="MAS">узняты</Form>
-        <Form Tag="MAS">узнятага</Form>
-        <Form Tag="MIS">узнятым</Form>
-        <Form Tag="MLS">узнятым</Form>
-        <Form Tag="FNS">узнятая</Form>
-        <Form Tag="FGS">узнятай</Form>
-        <Form Tag="FGS">узнятае</Form>
-        <Form Tag="FDS">узнятай</Form>
-        <Form Tag="FAS">узнятую</Form>
-        <Form Tag="FIS">узнятай</Form>
-        <Form Tag="FIS">узнятаю</Form>
-        <Form Tag="FLS">узнятай</Form>
-        <Form Tag="NNS">узнятае</Form>
-        <Form Tag="NGS">узнятага</Form>
-        <Form Tag="NDS">узнятаму</Form>
-        <Form Tag="NAS">узнятае</Form>
-        <Form Tag="NIS">узнятым</Form>
-        <Form Tag="NLS">узнятым</Form>
-        <Form Tag="XNP">узнятыя</Form>
-        <Form Tag="XGP">узнятых</Form>
-        <Form Tag="XDP">узнятым</Form>
-        <Form Tag="XAP">узнятыя</Form>
-        <Form Tag="XIP">узнятымі</Form>
-        <Form Tag="XLP">узнятых</Form>
+    <Paradigm pdgId="1014239" Lemma="узня´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">узня´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">узня´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">узня´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">узня´ты</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">узня´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">узня´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">узня´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">узня´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">узня´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">узня´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">узня´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">узня´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">узня´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">узня´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">узня´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">узня´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">узня´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">узня´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">узня´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">узня´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">узня´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">узня´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">узня´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">узня´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">узня´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">узня´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">узня´тых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">узня´тых</Form>
     </Paradigm>
     <Paradigm pdgId="1014262" Lemma="узяты" Tag="PPPP" Govern="">
         <Form Tag="MNS">узяты</Form>
@@ -9396,62 +9421,62 @@
         <Form Tag="XIP">цюкнутымі</Form>
         <Form Tag="XLP">цюкнутых</Form>
     </Paradigm>
-    <Paradigm pdgId="1015051" Lemma="чуты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">чуты</Form>
-        <Form Tag="MGS">чутага</Form>
-        <Form Tag="MDS">чутаму</Form>
-        <Form Tag="MAS">чуты</Form>
+    <Paradigm pdgId="1015051" Lemma="чу´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">чу´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">чу´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">чу´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">чу´ты</Form>
         <Form Tag="MAS">чутага</Form>
-        <Form Tag="MIS">чутым</Form>
-        <Form Tag="MLS">чутым</Form>
-        <Form Tag="FNS">чутая</Form>
-        <Form Tag="FGS">чутай</Form>
-        <Form Tag="FGS">чутае</Form>
-        <Form Tag="FDS">чутай</Form>
-        <Form Tag="FAS">чутую</Form>
-        <Form Tag="FIS">чутай</Form>
-        <Form Tag="FIS">чутаю</Form>
-        <Form Tag="FLS">чутай</Form>
-        <Form Tag="NNS">чутае</Form>
-        <Form Tag="NGS">чутага</Form>
-        <Form Tag="NDS">чутаму</Form>
-        <Form Tag="NAS">чутае</Form>
-        <Form Tag="NIS">чутым</Form>
-        <Form Tag="NLS">чутым</Form>
-        <Form Tag="XNP">чутыя</Form>
-        <Form Tag="XGP">чутых</Form>
-        <Form Tag="XDP">чутым</Form>
-        <Form Tag="XAP">чутыя</Form>
-        <Form Tag="XIP">чутымі</Form>
-        <Form Tag="XLP">чутых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">чу´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">чу´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">чу´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">чу´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">чу´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">чу´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">чу´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">чу´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">чу´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">чу´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">чу´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">чу´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">чу´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">чу´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">чу´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">чу´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">чу´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">чу´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">чу´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">чу´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">чу´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">чу´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1015114" Lemma="шыты" Tag="PPPP" Govern="">
-        <Form Tag="MNS">шыты</Form>
-        <Form Tag="MGS">шытага</Form>
-        <Form Tag="MDS">шытаму</Form>
-        <Form Tag="MAS">шыты</Form>
+    <Paradigm pdgId="1015114" Lemma="шы´ты" Tag="PPPP" Govern="">
+        <Form Tag="MNS" Slouniki="prym2009">шы´ты</Form>
+        <Form Tag="MGS" Slouniki="prym2009">шы´тага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">шы´таму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">шы´ты</Form>
         <Form Tag="MAS">шытага</Form>
-        <Form Tag="MIS">шытым</Form>
-        <Form Tag="MLS">шытым</Form>
-        <Form Tag="FNS">шытая</Form>
-        <Form Tag="FGS">шытай</Form>
-        <Form Tag="FGS">шытае</Form>
-        <Form Tag="FDS">шытай</Form>
-        <Form Tag="FAS">шытую</Form>
-        <Form Tag="FIS">шытай</Form>
-        <Form Tag="FIS">шытаю</Form>
-        <Form Tag="FLS">шытай</Form>
-        <Form Tag="NNS">шытае</Form>
-        <Form Tag="NGS">шытага</Form>
-        <Form Tag="NDS">шытаму</Form>
-        <Form Tag="NAS">шытае</Form>
-        <Form Tag="NIS">шытым</Form>
-        <Form Tag="NLS">шытым</Form>
-        <Form Tag="XNP">шытыя</Form>
-        <Form Tag="XGP">шытых</Form>
-        <Form Tag="XDP">шытым</Form>
-        <Form Tag="XAP">шытыя</Form>
-        <Form Tag="XIP">шытымі</Form>
-        <Form Tag="XLP">шытых</Form>
+        <Form Tag="MIS" Slouniki="prym2009">шы´тым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">шы´тым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">шы´тая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">шы´тай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">шы´тае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">шы´тай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">шы´тую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">шы´тай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">шы´таю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">шы´тай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">шы´тае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">шы´тага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">шы´таму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">шы´тае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">шы´тым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">шы´тым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">шы´тыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">шы´тых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">шы´тым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">шы´тыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">шы´тымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">шы´тых</Form>
     </Paradigm>
 </Wordlist>

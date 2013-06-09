@@ -1160,34 +1160,35 @@
         <Form Tag="XIP">квадруемымі</Form>
         <Form Tag="XLP">квадруемых</Form>
     </Paradigm>
-    <Paradigm pdgId="1161121" Lemma="кіруемы" Tag="PPRM">
-        <Form Tag="MNS">кіруемы</Form>
-        <Form Tag="MGS">кіруемага</Form>
-        <Form Tag="MDS">кіруемаму</Form>
-        <Form Tag="MAS">кіруемы</Form>
-        <Form Tag="MAS">кіруемага</Form>
-        <Form Tag="MIS">кіруемым</Form>
-        <Form Tag="MLS">кіруемым</Form>
-        <Form Tag="FNS">кіруемая</Form>
-        <Form Tag="FGS">кіруемай</Form>
-        <Form Tag="FGS">кіруемае</Form>
-        <Form Tag="FDS">кіруемай</Form>
-        <Form Tag="FAS">кіруемую</Form>
-        <Form Tag="FIS">кіруемай</Form>
-        <Form Tag="FIS">кіруемаю</Form>
-        <Form Tag="FLS">кіруемай</Form>
-        <Form Tag="NNS">кіруемае</Form>
-        <Form Tag="NGS">кіруемага</Form>
-        <Form Tag="NDS">кіруемаму</Form>
-        <Form Tag="NAS">кіруемае</Form>
-        <Form Tag="NIS">кіруемым</Form>
-        <Form Tag="NLS">кіруемым</Form>
-        <Form Tag="XNP">кіруемыя</Form>
-        <Form Tag="XGP">кіруемых</Form>
-        <Form Tag="XDP">кіруемым</Form>
-        <Form Tag="XAP">кіруемыя</Form>
-        <Form Tag="XIP">кіруемымі</Form>
-        <Form Tag="XLP">кіруемых</Form>
+    <Paradigm pdgId="1161121" Lemma="кіру´емы" Tag="PPRM">
+        <Form Tag="MNS" Slouniki="prym2009">кіру´емы</Form>
+        <Form Tag="MGS" Slouniki="prym2009">кіру´емага</Form>
+        <Form Tag="MDS" Slouniki="prym2009">кіру´емаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="inanim">кіру´емы</Form>
+        <Form Tag="MAS" Slouniki="prym2009" options="anim">кіру´емага</Form>
+        <Form Tag="MIS" Slouniki="prym2009">кіру´емым</Form>
+        <Form Tag="MLS" Slouniki="prym2009">кіру´емым</Form>
+        <Form Tag="FNS" Slouniki="prym2009">кіру´емая</Form>
+        <Form Tag="FGS" Slouniki="prym2009">кіру´емай</Form>
+        <Form Tag="FGS" Slouniki="prym2009">кіру´емае</Form>
+        <Form Tag="FDS" Slouniki="prym2009">кіру´емай</Form>
+        <Form Tag="FAS" Slouniki="prym2009">кіру´емую</Form>
+        <Form Tag="FIS" Slouniki="prym2009">кіру´емай</Form>
+        <Form Tag="FIS" Slouniki="prym2009">кіру´емаю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">кіру´емай</Form>
+        <Form Tag="NNS" Slouniki="prym2009">кіру´емае</Form>
+        <Form Tag="NGS" Slouniki="prym2009">кіру´емага</Form>
+        <Form Tag="NDS" Slouniki="prym2009">кіру´емаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009">кіру´емае</Form>
+        <Form Tag="NIS" Slouniki="prym2009">кіру´емым</Form>
+        <Form Tag="NLS" Slouniki="prym2009">кіру´емым</Form>
+        <Form Tag="PNP" Slouniki="prym2009">кіру´емыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009">кіру´емых</Form>
+        <Form Tag="PDP" Slouniki="prym2009">кіру´емым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="inanim">кіру´емыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009">кіру´емымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009">кіру´емых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" options="anim">кіру´емых</Form>
     </Paradigm>
     <Paradigm pdgId="1006198" Lemma="кубуемы" Tag="PPRM" Govern="">
         <Form Tag="MNS">кубуемы</Form>

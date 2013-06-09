@@ -1,93 +1,117 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127403" Lemma="абедзве" Tag="MNKS">
-        <Form Tag="XNX">абедзве</Form>
-        <Form Tag="XGX">абедзвюх</Form>
-        <Form Tag="XDX">абедзвюм</Form>
-        <Form Tag="XAX">абедзве</Form>
-        <Form Tag="XAX">абедзвюх</Form>
-        <Form Tag="XIX">абедзвюма</Form>
-        <Form Tag="XLX">абедзвюх</Form>
+    <Paradigm pdgId="1127403" Lemma="абе´дзве" Tag="MNKS">
+        <Form Tag="XNX"  Slouniki="prym2009">абе´дзве</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">абе´дзвюх</Form>
+        <Form Tag="XDX"  Slouniki="prym2009">абе´дзвюм</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">абе´дзве</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">абе´дзвюх</Form>
+        <Form Tag="XIX"  Slouniki="prym2009">абе´дзвюма</Form>
+        <Form Tag="XLX"  Slouniki="prym2009">абе´дзвюх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127404" Lemma="абодва" Tag="MNKS">
-        <Form Tag="XNX">абодва</Form>
-        <Form Tag="XGX">абодвух</Form>
-        <Form Tag="XDX">абодвум</Form>
-        <Form Tag="XAX">абодва</Form>
-        <Form Tag="XAX">абодвух</Form>
-        <Form Tag="XIX">абодвума</Form>
-        <Form Tag="XLX">абодвух</Form>
+    <Paradigm pdgId="1127404" Lemma="або´два" Tag="MNKS">
+        <Form Tag="MNX"  Slouniki="prym2009">або´два</Form>
+        <Form Tag="MGX"  Slouniki="prym2009">або´двух</Form>
+        <Form Tag="MDX"  Slouniki="prym2009">або´двум</Form>
+        <Form Tag="MAX"  Slouniki="prym2009">або´два</Form>
+        <Form Tag="MAX"  Slouniki="prym2009">або´двух</Form>
+        <Form Tag="MIX"  Slouniki="prym2009">або´двума</Form>
+        <Form Tag="MLX"  Slouniki="prym2009">або´двух</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127404" Lemma="або´два" Tag="MNKS">
+        <Form Tag="NNX"  Slouniki="prym2009">або´два</Form>
+        <Form Tag="NGX"  Slouniki="prym2009">або´двух</Form>
+        <Form Tag="NDX"  Slouniki="prym2009">або´двум</Form>
+        <Form Tag="NAX"  Slouniki="prym2009">або´два</Form>
+        <Form Tag="NAX"  Slouniki="prym2009">або´двух</Form>
+        <Form Tag="NIX"  Slouniki="prym2009">або´двума</Form>
+        <Form Tag="NLX"  Slouniki="prym2009">або´двух</Form>
     </Paradigm>
     <Paradigm pdgId="1127416" Lemma="васьмёра" Tag="MNKS">
-        <Form Tag="XNX">васьмёра</Form>
-        <Form Tag="XGX">васьмярых</Form>
-        <Form Tag="XDX">васьмярым</Form>
-        <Form Tag="XAX">васьмёра</Form>
-        <Form Tag="XAX">васьмярых</Form>
-        <Form Tag="XIX">васьмярыма</Form>
-        <Form Tag="XLX">васьмярых</Form>
+        <Form Tag="XNX"  Slouniki="prym2009">васьмёра</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">васьмяры´х</Form>
+        <Form Tag="XDX"  Slouniki="prym2009">васьмяры´м</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">васьмёра</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">васьмяры´х</Form>
+        <Form Tag="XIX"  Slouniki="prym2009">васьмяры´мі</Form>
+        <Form Tag="XIX">васьмяры´ма</Form>
+        <Form Tag="XLX"  Slouniki="prym2009">васьмяры´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127436" Lemma="дзевяцера" Tag="MNKS">
-        <Form Tag="XNX">дзевяцера</Form>
-        <Form Tag="XGX">дзевяцярых</Form>
-        <Form Tag="XDX">дзевяцярым</Form>
-        <Form Tag="XAX">дзевяцера</Form>
-        <Form Tag="XAX">дзевяцярых</Form>
-        <Form Tag="XIX">дзевяцярыма</Form>
-        <Form Tag="XLX">дзевяцярых</Form>
+    <Paradigm pdgId="1127436" Lemma="дзевя´цера" Tag="MNKS">
+        <Form Tag="XNX"  Slouniki="prym2009">дзявя´цера</Form>
+        <Form Tag="XNX">дзевя´цера</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">дзевяцяры´х</Form>
+        <Form Tag="XDX"  Slouniki="prym2009">дзевяцяры´м</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">дзявя´цера</Form>
+        <Form Tag="XAX">дзевя´цера</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">дзевяцяры´х</Form>
+        <Form Tag="XIX"  Slouniki="prym2009">дзевяцяры´мі</Form>
+        <Form Tag="XIX">дзевяцяры´ма</Form>
+        <Form Tag="XLX"  Slouniki="prym2009">дзевяцяры´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127440" Lemma="дзесяцера" Tag="MNKS">
-        <Form Tag="XNX">дзесяцера</Form>
-        <Form Tag="XGX">дзесяцярых</Form>
-        <Form Tag="XDX">дзесяцярым</Form>
-        <Form Tag="XAX">дзесяцера</Form>
-        <Form Tag="XAX">дзесяцярых</Form>
-        <Form Tag="XIX">дзесяцярыма</Form>
-        <Form Tag="XLX">дзесяцярых</Form>
+    <Paradigm pdgId="1127440" Lemma="дзеся´цера" Tag="MNKS">
+        <Form Tag="XNX"  Slouniki="prym2009">дзяся´цера</Form>
+        <Form Tag="XNX">дзеся´цера</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">дзесяцяры´х</Form>
+        <Form Tag="XDX"  Slouniki="prym2009">дзесяцяры´м</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">дзяся´цера</Form>
+        <Form Tag="XAX">дзеся´цера</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">дзесяцяры´х</Form>
+        <Form Tag="XIX"  Slouniki="prym2009">дзесяцяры´мі</Form>
+        <Form Tag="XIX">дзесяцяры´ма</Form>
+        <Form Tag="XLX"  Slouniki="prym2009">дзесяцяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127458" Lemma="пяцёра" Tag="MNKS">
-        <Form Tag="XNX">пяцёра</Form>
-        <Form Tag="XGX">пецярых</Form>
-        <Form Tag="XDX">пецярым</Form>
-        <Form Tag="XAX">пяцёра</Form>
-        <Form Tag="XAX">пецярых</Form>
-        <Form Tag="XIX">пецярыма</Form>
-        <Form Tag="XLX">пецярых</Form>
+        <Form Tag="XNX"  Slouniki="prym2009">пяцёра</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">пяцяры´х</Form>
+        <Form Tag="XGX">пецяры´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">пяцяры´м</Form>
+        <Form Tag="XDX">пецяры´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">пяцёра</Form>
+        <Form Tag="XAX" Slouniki="prym2009">пяцяры´х</Form>
+        <Form Tag="XAX">пецяры´х</Form>
+        <Form Tag="XIX" Slouniki="prym2009">пяцяры´мі</Form>
+        <Form Tag="XIX">пецяры´ма</Form>
+        <Form Tag="XLX" Slouniki="prym2009">пяцяры´х</Form>
+        <Form Tag="XLX">пецяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127476" Lemma="сямёра" Tag="MNKS">
-        <Form Tag="XNX">сямёра</Form>
-        <Form Tag="XGX">семярых</Form>
-        <Form Tag="XDX">семярым</Form>
-        <Form Tag="XAX">сямёра</Form>
-        <Form Tag="XAX">семярых</Form>
-        <Form Tag="XIX">семярыма</Form>
-        <Form Tag="XLX">семярых</Form>
+        <Form Tag="XNX" Slouniki="prym2009">сямёра</Form>
+        <Form Tag="XGX" Slouniki="prym2009">семяры´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">семяры´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">сямёра</Form>
+        <Form Tag="XAX" Slouniki="prym2009">семяры´х</Form>
+        <Form Tag="XIX" Slouniki="prym2009">семяры´мі</Form>
+        <Form Tag="XIX">семяры´ма</Form>
+        <Form Tag="XLX" Slouniki="prym2009">семяры´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127478" Lemma="трое" Tag="MNKS">
-        <Form Tag="XNX">трое</Form>
-        <Form Tag="XGX">траіх</Form>
-        <Form Tag="XDX">траім</Form>
-        <Form Tag="XAX">трое</Form>
-        <Form Tag="XAX">траіх</Form>
-        <Form Tag="XIX">траімі</Form>
-        <Form Tag="XLX">траіх</Form>
+    <Paradigm pdgId="1127478" Lemma="тро´е" Tag="MNKS">
+        <Form Tag="XNX" Slouniki="prym2009">тро´е</Form>
+        <Form Tag="XGX" Slouniki="prym2009">траі´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">траі´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">тро´е</Form>
+        <Form Tag="XAX" Slouniki="prym2009">траі´х</Form>
+        <Form Tag="XIX" Slouniki="prym2009">траі´мі</Form>
+        <Form Tag="XLX" Slouniki="prym2009">траі´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127495" Lemma="чацвёра" Tag="MNKS">
-        <Form Tag="XNX">чацвёра</Form>
-        <Form Tag="XGX">чацвярых</Form>
-        <Form Tag="XDX">чацвярым</Form>
-        <Form Tag="XAX">чацвёра</Form>
-        <Form Tag="XAX">чацвярых</Form>
-        <Form Tag="XIX">чацвярыма</Form>
-        <Form Tag="XLX">чацвярых</Form>
+        <Form Tag="XNX" Slouniki="prym2009">чацвёра</Form>
+        <Form Tag="XGX" Slouniki="prym2009">чацвяры´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">чацвяры´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">чацвёра</Form>
+        <Form Tag="XAX" Slouniki="prym2009">чацвяры´х</Form>
+        <Form Tag="XIX" Slouniki="prym2009">чацвяры´мі</Form>
+        <Form Tag="XIX">чацвяры´ма</Form>
+        <Form Tag="XLX" Slouniki="prym2009">чацвяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1127501" Lemma="шасцёра" Tag="MNKS">
-        <Form Tag="XNX">шасцёра</Form>
-        <Form Tag="XGX">шасцярых</Form>
-        <Form Tag="XDX">шасцярым</Form>
-        <Form Tag="XAX">шасцёра</Form>
-        <Form Tag="XAX">шасцярых</Form>
-        <Form Tag="XIX">шасцярыма</Form>
-        <Form Tag="XLX">шасцярых</Form>
+        <Form Tag="XNX" Slouniki="prym2009">шасцёра</Form>
+        <Form Tag="XGX" Slouniki="prym2009">шасцяры´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">шасцяры´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">шасцёра</Form>
+        <Form Tag="XAX" Slouniki="prym2009">шасцяры´х</Form>
+        <Form Tag="XIX" Slouniki="prym2009">шасцяры´мі</Form>
+        <Form Tag="XIX">шасцяры´ма</Form>
+        <Form Tag="XLX" Slouniki="prym2009">шасцяры´х</Form>
     </Paradigm>
 </Wordlist>

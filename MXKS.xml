@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127963" Lemma="дванаццацера" Tag="MXKS">
-        <Form Tag="XNX">дванаццацера</Form>
-        <Form Tag="XGX">дванаццацярых</Form>
-        <Form Tag="XDX">дванаццацярым</Form>
-        <Form Tag="XAX">дванаццацера</Form>
-        <Form Tag="XAX">дванаццацярых</Form>
-        <Form Tag="XIX">дванаццацярыма</Form>
-        <Form Tag="XLX">дванаццацярых</Form>
+    <Paradigm pdgId="1127963" Lemma="двана´ццацера" Tag="MXKS">
+        <Form Tag="XNX" Slouniki="prym2009">двана´ццацера</Form>
+        <Form Tag="XGX" Slouniki="prym2009">дванаццацяры´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">дванаццацяры´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">двана´ццацера</Form>
+        <Form Tag="XAX" Slouniki="prym2009">дванаццацяры´х</Form>
+        <Form Tag="XIX" Slouniki="prym2009">дванаццацяры´мі</Form>
+        <Form Tag="XIX">дванаццацяры´ма</Form>
+        <Form Tag="XLX" Slouniki="prym2009">дванаццацяры´х</Form>
     </Paradigm>
+	<Paradigm pdgId="1127963" Lemma="адзіна´ццацера" Tag="MXKS">
+        <Form Tag="XNX"  Slouniki="prym2009">адзіна´ццацера</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">адзінаццацяры´х</Form>
+        <Form Tag="XDX"  Slouniki="prym2009">адзінаццацяры´м</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">адзіна´ццацера</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">адзінаццацяры´х</Form>
+        <Form Tag="XIX">адзінаццацяры´ма</Form>
+        <Form Tag="XIX"  Slouniki="prym2009">адзінаццацяры´мі</Form>
+        <Form Tag="XLX"  Slouniki="prym2009">адзінаццацяры´х</Form>
+    </Paradigm>
+
 </Wordlist>

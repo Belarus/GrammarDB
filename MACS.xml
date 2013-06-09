@@ -1,64 +1,67 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127406" Lemma="адзін" Tag="MACS">
-        <Form Tag="MNS">адзін</Form>
-        <Form Tag="MGS">аднаго</Form>
-        <Form Tag="MDS">аднаму</Form>
-        <Form Tag="MAS">аднаго</Form>
-        <Form Tag="MAS">адзін</Form>
-        <Form Tag="MIS">адным</Form>
-        <Form Tag="MLS">адным</Form>
-        <Form Tag="FNS">адна</Form>
-        <Form Tag="FGS">адной</Form>
-        <Form Tag="FGS">аднае</Form>
-        <Form Tag="FDS">адной</Form>
+    <Paradigm pdgId="1127406" Lemma="адзі´н" Tag="MACS">
+        <Form Tag="MNS"  Slouniki="prym2009">адзі´н</Form>
+        <Form Tag="MGS"  Slouniki="prym2009">аднаго´´</Form>
+        <Form Tag="MDS"  Slouniki="prym2009">аднаму´</Form>
+        <Form Tag="MAS"  Slouniki="prym2009">аднаго´</Form>
+        <Form Tag="MAS"  Slouniki="prym2009">адзі´н</Form>
+        <Form Tag="MIS"  Slouniki="prym2009">адны´м</Form>
+        <Form Tag="MLS"  Slouniki="prym2009">адны´м</Form>
+        <Form Tag="FNS"  Slouniki="prym2009">адна´</Form>
+        <Form Tag="FGS"  Slouniki="prym2009">адно´й</Form>
+        <Form Tag="FGS"  Slouniki="prym2009">аднае´</Form>
+        <Form Tag="FDS"  Slouniki="prym2009">адно´й</Form>
         <Form Tag="FAS">адную</Form>
-        <Form Tag="FAS">адну</Form>
-        <Form Tag="FIS">адной</Form>
-        <Form Tag="FLS">адной</Form>
-        <Form Tag="NNS">адное</Form>
-        <Form Tag="NNS">адно</Form>
-        <Form Tag="NGS">аднога</Form>
-        <Form Tag="NDS">адному</Form>
-        <Form Tag="NAS">адное</Form>
-        <Form Tag="NAS">адно</Form>
-        <Form Tag="NAS">аднога</Form>
-        <Form Tag="NIS">адным</Form>
-        <Form Tag="NLS">адным</Form>
-        <Form Tag="XNP">адныя</Form>
-        <Form Tag="XNP">адны</Form>
-        <Form Tag="XGP">адных</Form>
-        <Form Tag="XDP">адным</Form>
-        <Form Tag="XAP">адных</Form>
-        <Form Tag="XAP">адны</Form>
-        <Form Tag="XIP">аднымі</Form>
-        <Form Tag="XLP">адных</Form>
+        <Form Tag="FAS"  Slouniki="prym2009">адну´</Form>
+        <Form Tag="FIS"  Slouniki="prym2009">адно´й</Form>
+        <Form Tag="FIS"  Slouniki="prym2009">адно´ю</Form>
+        <Form Tag="FLS"  Slouniki="prym2009">адно´й</Form>
+        <Form Tag="NNS"  Slouniki="prym2009">адно´е</Form>
+        <Form Tag="NNS"  Slouniki="prym2009">адно´</Form>
+        <Form Tag="NGS"  Slouniki="prym2009">аднаго´</Form>
+        <Form Tag="NGS">адно´га</Form>
+        <Form Tag="NDS"  Slouniki="prym2009">аднаму´</Form>
+        <Form Tag="NDS">адно´му</Form>
+        <Form Tag="NAS"  Slouniki="prym2009">адно´</Form>
+        <Form Tag="NAS">адно´е</Form>
+        <Form Tag="NAS"  Slouniki="prym2009">адно´</Form>
+        <Form Tag="NIS"  Slouniki="prym2009">адны´м</Form>
+        <Form Tag="NLS"  Slouniki="prym2009">адны´м</Form>
+        <Form Tag="XNP">адны´я</Form>
+        <Form Tag="XNP"  Slouniki="prym2009">адны´</Form>
+        <Form Tag="XGP"  Slouniki="prym2009">адны´х</Form>
+        <Form Tag="XDP"  Slouniki="prym2009">адны´м</Form>
+        <Form Tag="XAP"  Slouniki="prym2009">адны´х</Form>
+        <Form Tag="XAP"  Slouniki="prym2009">адны´</Form>
+        <Form Tag="XIP"  Slouniki="prym2009">адны´мі</Form>
+        <Form Tag="XLP"  Slouniki="prym2009">адны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127443" Lemma="колькі" Tag="MACS">
-        <Form Tag="XNX">колькі</Form>
-        <Form Tag="XGX">колькіх</Form>
-        <Form Tag="XDX">колькім</Form>
-        <Form Tag="XAX">колькі</Form>
-        <Form Tag="XAX">колькіх</Form>
-        <Form Tag="XIX">колькімі</Form>
-        <Form Tag="XLX">колькіх</Form>
+    <Paradigm pdgId="1127443" Lemma="ко´лькі" Tag="MACS">
+        <Form Tag="XNX">ко´лькі</Form>
+        <Form Tag="XGX">ко´лькіх</Form>
+        <Form Tag="XDX">ко´лькім</Form>
+        <Form Tag="XAX">ко´лькі</Form>
+        <Form Tag="XAX">ко´лькіх</Form>
+        <Form Tag="XIX">ко´лькімі</Form>
+        <Form Tag="XLX">ко´лькіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127448" Lemma="некалькі" Tag="MACS">
-        <Form Tag="XNX">некалькі</Form>
-        <Form Tag="XGX">некалькіх</Form>
-        <Form Tag="XDX">некалькім</Form>
-        <Form Tag="XAX">некалькі</Form>
-        <Form Tag="XAX">некалькіх</Form>
-        <Form Tag="XIX">некалькімі</Form>
-        <Form Tag="XLX">некалькіх</Form>
+    <Paradigm pdgId="1127448" Lemma="не´калькі" Tag="MACS">
+        <Form Tag="XNX">не´калькі</Form>
+        <Form Tag="XGX">не´калькіх</Form>
+        <Form Tag="XDX">не´калькім</Form>
+        <Form Tag="XAX">не´калькі</Form>
+        <Form Tag="XAX">не´калькіх</Form>
+        <Form Tag="XIX">не´калькімі</Form>
+        <Form Tag="XLX">не´калькіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127472" Lemma="столькі" Tag="MACS">
-        <Form Tag="XNX">столькі</Form>
-        <Form Tag="XGX">столькіх</Form>
-        <Form Tag="XDX">столькім</Form>
-        <Form Tag="XAX">столькі</Form>
-        <Form Tag="XAX">столькіх</Form>
-        <Form Tag="XIX">столькімі</Form>
-        <Form Tag="XLX">столькіх</Form>
+    <Paradigm pdgId="1127472" Lemma="сто´лькі" Tag="MACS">
+        <Form Tag="XNX">сто´лькі</Form>
+        <Form Tag="XGX">сто´лькіх</Form>
+        <Form Tag="XDX">сто´лькім</Form>
+        <Form Tag="XAX">сто´лькі</Form>
+        <Form Tag="XAX">сто´лькіх</Form>
+        <Form Tag="XIX">сто´лькімі</Form>
+        <Form Tag="XLX">сто´лькіх</Form>
     </Paradigm>
 </Wordlist>

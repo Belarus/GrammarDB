@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1160153" Lemma="мы" Tag="SNP1">
-        <Form Tag="XNP">мы</Form>
-        <Form Tag="XGP">нас</Form>
-        <Form Tag="XDP">нам</Form>
-        <Form Tag="XAP">нас</Form>
-        <Form Tag="XIP">намі</Form>
-        <Form Tag="XLP">нас</Form>
+        <Form Tag="XNP" Slouniki="prym2009">мы</Form>
+        <Form Tag="XGP" Slouniki="prym2009">нас</Form>
+        <Form Tag="XDP" Slouniki="prym2009">нам</Form>
+        <Form Tag="XAP" Slouniki="prym2009">нас</Form>
+        <Form Tag="XIP" Slouniki="prym2009">на´мі</Form>
+        <Form Tag="XLP" Slouniki="prym2009">нас</Form>
     </Paradigm>
     <Paradigm pdgId="1127807" Lemma="я" Tag="SNP1">
-        <Form Tag="XNS">я</Form>
-        <Form Tag="XGS">мяне</Form>
-        <Form Tag="XDS">мне</Form>
-        <Form Tag="XAS">мяне</Form>
-        <Form Tag="XIS">мной</Form>
-        <Form Tag="XIS">мною</Form>
-        <Form Tag="XLS">мне</Form>
+        <Form Tag="XNS" Slouniki="prym2009">я</Form>
+        <Form Tag="XGS" Slouniki="prym2009">мяне´</Form>
+        <Form Tag="XDS" Slouniki="prym2009">мне</Form>
+        <Form Tag="XAS" Slouniki="prym2009">мяне´</Form>
+        <Form Tag="XIS" Slouniki="prym2009">мной</Form>
+        <Form Tag="XIS" Slouniki="prym2009">мно´ю</Form>
+        <Form Tag="XLS" Slouniki="prym2009">мне</Form>
     </Paradigm>
 </Wordlist>

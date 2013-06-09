@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1160154" Lemma="вы" Tag="SNP2">
-        <Form Tag="XNP">вы</Form>
-        <Form Tag="XGP">вас</Form>
-        <Form Tag="XDP">вам</Form>
-        <Form Tag="XAP">вас</Form>
-        <Form Tag="XIP">вамі</Form>
-        <Form Tag="XLP">вас</Form>
+        <Form Tag="XNP" Slouniki="prym2009">вы</Form>
+        <Form Tag="XGP" Slouniki="prym2009">вас</Form>
+        <Form Tag="XDP" Slouniki="prym2009">вам</Form>
+        <Form Tag="XAP" Slouniki="prym2009">вас</Form>
+        <Form Tag="XIP" Slouniki="prym2009">ва´мі</Form>
+        <Form Tag="XLP" Slouniki="prym2009">вас</Form>
     </Paradigm>
     <Paradigm pdgId="1127808" Lemma="ты" Tag="SNP2">
-        <Form Tag="XNS">ты</Form>
-        <Form Tag="XGS">цябе</Form>
-        <Form Tag="XDS">табе</Form>
-        <Form Tag="XAS">цябе</Form>
-        <Form Tag="XIS">табой</Form>
-        <Form Tag="XIS">табою</Form>
-        <Form Tag="XLS">табе</Form>
+        <Form Tag="XNS" Slouniki="prym2009">ты</Form>
+        <Form Tag="XGS" Slouniki="prym2009">цябе´</Form>
+        <Form Tag="XDS" Slouniki="prym2009">табе´</Form>
+        <Form Tag="XAS" Slouniki="prym2009">цябе´</Form>
+        <Form Tag="XIS" Slouniki="prym2009">табо´й</Form>
+        <Form Tag="XIS" Slouniki="prym2009">табо´ю</Form>
+        <Form Tag="XLS" Slouniki="prym2009">табе´</Form>
     </Paradigm>
 </Wordlist>

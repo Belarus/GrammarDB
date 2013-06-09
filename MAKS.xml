@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127405" Lemma="абое" Tag="MAKS">
-        <Form Tag="XNX">абое</Form>
-        <Form Tag="XGX">абаіх</Form>
-        <Form Tag="XDX">абаім</Form>
-        <Form Tag="XAX">абаіх</Form>
-        <Form Tag="XIX">абаімі</Form>
-        <Form Tag="XLX">абаіх</Form>
+    <Paradigm pdgId="1127403" Lemma="або´е" Tag="MАKS">
+        <Form Tag="XNX"  Slouniki="prym2009">або´е</Form>
+        <Form Tag="XGX"  Slouniki="prym2009">абаі´х</Form>
+        <Form Tag="XDX"  Slouniki="prym2009">абаі´м</Form>
+        <Form Tag="XAX"  Slouniki="prym2009">абаі´х</Form>
+        <Form Tag="XIX"  Slouniki="prym2009">абаі´мі</Form>
+        <Form Tag="XLX"  Slouniki="prym2009">абаі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127426" Lemma="двое" Tag="MAKS">
-        <Form Tag="XNX">двое</Form>
-        <Form Tag="XGX">дваіх</Form>
-        <Form Tag="XDX">дваім</Form>
-        <Form Tag="XAX">дваіх</Form>
-        <Form Tag="XAX">двое</Form>
-        <Form Tag="XIX">дваімі</Form>
-        <Form Tag="XLX">дваіх</Form>
+    <Paradigm pdgId="1127426" Lemma="дво´е" Tag="MAKS">
+        <Form Tag="XNX" Slouniki="prym2009">дво´е</Form>
+        <Form Tag="XGX" Slouniki="prym2009">дваі´х</Form>
+        <Form Tag="XDX" Slouniki="prym2009">дваі´м</Form>
+        <Form Tag="XAX" Slouniki="prym2009">дваі´х</Form>
+        <Form Tag="XAX" Slouniki="prym2009">дво´е</Form>
+        <Form Tag="XIX" Slouniki="prym2009">дваі´мі</Form>
+        <Form Tag="XLX" Slouniki="prym2009">дваі´х</Form>
     </Paradigm>
 </Wordlist>

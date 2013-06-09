@@ -1,58 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127409" Lemma="багата" Tag="MXCS">
-        <Form Tag="XXX">багата</Form>
+    <Paradigm pdgId="1127409" Lemma="бага´та" Tag="MXCS">
+        <Form Tag="XXX">бага´та</Form>
     </Paradigm>
-    <Paradigm pdgId="1127410" Lemma="безліч" Tag="MXCS">
-        <Form Tag="XXX">безліч</Form>
+    <Paradigm pdgId="1127410" Lemma="бе´зліч" Tag="MXCS">
+        <Form Tag="XXX">бе´зліч</Form>
     </Paradigm>
-    <Paradigm pdgId="1127446" Lemma="мала" Tag="MXCS">
-        <Form Tag="XXX">мала</Form>
+    <Paradigm pdgId="1127446" Lemma="ма´ла" Tag="MXCS">
+        <Form Tag="XXX">ма´ла</Form>
     </Paradigm>
-    <Paradigm pdgId="1127447" Lemma="многа" Tag="MXCS">
-        <Form Tag="XXX">многа</Form>
+    <Paradigm pdgId="1127447" Lemma="мно´га" Tag="MXCS">
+        <Form Tag="XXX">мно´га</Form>
     </Paradigm>
-    <Paradigm pdgId="1127449" Lemma="нямнога" Tag="MXCS">
-        <Form Tag="XXX">нямнога</Form>
+    <Paradigm pdgId="1127449" Lemma="нямно´га" Tag="MXCS">
+        <Form Tag="XXX">нямно´га</Form>
     </Paradigm>
-    <Paradigm pdgId="1127964" Lemma="паўтара" Tag="MXCS">
-        <Form Tag="MNX">паўтара</Form>
-        <Form Tag="XGS"></Form>
-        <Form Tag="XDS"></Form>
-        <Form Tag="XAS"></Form>
-        <Form Tag="XIS"></Form>
-        <Form Tag="XIS"></Form>
-        <Form Tag="XLS"></Form>
-        <Form Tag="XNP"></Form>
-        <Form Tag="XGP"></Form>
-        <Form Tag="XDP"></Form>
-        <Form Tag="XAP"></Form>
-        <Form Tag="XIP"></Form>
-        <Form Tag="XLP"></Form>
+    <Paradigm pdgId="1127964" Lemma="паўтара´" Tag="MXCS">
+        <Form Tag="MNS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="MGS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="MDS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="MAS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="MIS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="MLS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="FNS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="FGS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="FDS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="FAS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="FAS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="FIS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="FLS" Slouniki="prym2009">паўтары</Form>
+        <Form Tag="NNS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="NGS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="NDS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="NAS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="NIS" Slouniki="prym2009">паўтара´</Form>
+        <Form Tag="NLS" Slouniki="prym2009">паўтара´</Form>
     </Paradigm>
-    <Paradigm pdgId="1127966" Lemma="паўтары" Tag="MXCS">
-        <Form Tag="FNX">паўтары</Form>
-        <Form Tag="XGX"></Form>
-        <Form Tag="XDX"></Form>
-        <Form Tag="XAX"></Form>
-        <Form Tag="XAX"></Form>
-        <Form Tag="XIX"></Form>
-        <Form Tag="XLX"></Form>
+    <Paradigm pdgId="1127967" Lemma="паўты´сячы" Tag="MXCS">
+        <Form Tag="FNS">паўты´сячы</Form>
+        <Form Tag="FGS">паўты´сячы</Form>
+        <Form Tag="FDS">паўты´сячы</Form>
+        <Form Tag="FAS">паўты´сячай</Form>
+        <Form Tag="FAS">паўты´сячы</Form>
+        <Form Tag="FIS">паўты´сячай</Form>
+        <Form Tag="FLS">паўты´сячы</Form>
     </Paradigm>
-    <Paradigm pdgId="1127967" Lemma="паўтысячы" Tag="MXCS">
-        <Form Tag="FNS">паўтысячы</Form>
-        <Form Tag="FGS">паўтысячы</Form>
-        <Form Tag="FDS">паўтысячы</Form>
-        <Form Tag="FAS">паўтысячай</Form>
-        <Form Tag="FAS">паўтысячы</Form>
-        <Form Tag="FIS">паўтысячай</Form>
-        <Form Tag="FLS">паўтысячы</Form>
+    <Paradigm pdgId="1127451" Lemma="по´ўна" Tag="MXCS">
+        <Form Tag="XXX">по´ўна</Form>
     </Paradigm>
-    <Paradigm pdgId="1127451" Lemma="поўна" Tag="MXCS">
-        <Form Tag="XXX">поўна</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127452" Lemma="процьма" Tag="MXCS">
-        <Form Tag="XXX">процьма</Form>
+    <Paradigm pdgId="1127452" Lemma="про´цьма" Tag="MXCS">
+        <Form Tag="XXX">про´цьма</Form>
     </Paradigm>
     <Paradigm pdgId="1127506" Lemma="шмат" Tag="MXCS">
         <Form Tag="XXX">шмат</Form>

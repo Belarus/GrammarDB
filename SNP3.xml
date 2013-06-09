@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1127912" Lemma="ён" Tag="SNP3">
-        <Form Tag="MNS">ён</Form>
-        <Form Tag="MGS">яго</Form>
-        <Form Tag="MDS">яму</Form>
-        <Form Tag="MAS">яго</Form>
-        <Form Tag="MIS">ім</Form>
-        <Form Tag="MLS">ім</Form>
+        <Form Tag="MNS" Slouniki="prym2009">ён</Form>
+        <Form Tag="MGS" Slouniki="prym2009">яго´</Form>
+        <Form Tag="MDS" Slouniki="prym2009">яму´</Form>
+        <Form Tag="MAS" Slouniki="prym2009">яго´</Form>
+        <Form Tag="MIS" Slouniki="prym2009">ім</Form>
+        <Form Tag="MLS" Slouniki="prym2009">ім</Form>
     </Paradigm>
-    <Paradigm pdgId="1127913" Lemma="яна" Tag="SNP3">
-        <Form Tag="FNS">яна</Form>
-        <Form Tag="FGS">яе</Form>
-        <Form Tag="FDS">ёй</Form>
-        <Form Tag="FAS">яе</Form>
-        <Form Tag="FIS">ёй</Form>
-        <Form Tag="FIS">ёю</Form>
-        <Form Tag="FLS">ёй</Form>
+    <Paradigm pdgId="1127913" Lemma="яна´" Tag="SNP3">
+        <Form Tag="FNS" Slouniki="prym2009">яна´</Form>
+        <Form Tag="FGS" Slouniki="prym2009">яе´</Form>
+        <Form Tag="FDS" Slouniki="prym2009">ёй</Form>
+        <Form Tag="FAS" Slouniki="prym2009">яе´</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ёй</Form>
+        <Form Tag="FIS" Slouniki="prym2009">ёю</Form>
+        <Form Tag="FLS" Slouniki="prym2009">ёй</Form>
     </Paradigm>
-    <Paradigm pdgId="1127809" Lemma="яно" Tag="SNP3">
-        <Form Tag="NNS">яно</Form>
-        <Form Tag="NGS">яго</Form>
-        <Form Tag="NDS">яму</Form>
-        <Form Tag="NAS">яго</Form>
-        <Form Tag="NIS">ім</Form>
-        <Form Tag="NLS">ім</Form>
+    <Paradigm pdgId="1127809" Lemma="яно´" Tag="SNP3">
+        <Form Tag="NNS" Slouniki="prym2009">яно´</Form>
+        <Form Tag="NGS" Slouniki="prym2009">яго´</Form>
+        <Form Tag="NDS" Slouniki="prym2009">яму´</Form>
+        <Form Tag="NAS" Slouniki="prym2009">яго´</Form>
+        <Form Tag="NIS" Slouniki="prym2009">ім</Form>
+        <Form Tag="NLS" Slouniki="prym2009">ім</Form>
     </Paradigm>
-    <Paradigm pdgId="1160155" Lemma="яны" Tag="SNP3">
-        <Form Tag="XNP">яны</Form>
-        <Form Tag="XGP">іх</Form>
-        <Form Tag="XDP">ім</Form>
-        <Form Tag="XAP">іх</Form>
-        <Form Tag="XIP">імі</Form>
-        <Form Tag="XLP">іх</Form>
+    <Paradigm pdgId="1160155" Lemma="яны´" Tag="SNP3">
+        <Form Tag="XNP" Slouniki="prym2009">яны´</Form>
+        <Form Tag="XGP" Slouniki="prym2009">іх</Form>
+        <Form Tag="XDP" Slouniki="prym2009">ім</Form>
+        <Form Tag="XAP" Slouniki="prym2009">іх</Form>
+        <Form Tag="XIP" Slouniki="prym2009">і´мі</Form>
+        <Form Tag="XLP" Slouniki="prym2009">іх</Form>
     </Paradigm>
 </Wordlist>

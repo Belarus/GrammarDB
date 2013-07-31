@@ -61465,7 +61465,7 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1082011" Lemma="пато´мна" Tag="RA" Govern="">
+    <Paradigm pdgId="1082011" Lemma="пато´мна" Tag="RA" Govern="" meaning="тама´мі">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">пато´мна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -67844,8 +67844,13 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1085353" Lemma="прыкладна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">прыкладна</Form>
+    <Paradigm pdgId="1085353" Lemma="пры´кладна" Tag="RA" Govern="" meaning="узорна">
+        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">пры´кладна</Form>
+        <Form Tag="C"></Form>
+        <Form Tag="S"></Form>
+    </Paradigm>
+	    <Paradigm pdgId="" Lemma="прыкла´дна" Tag="RA" Govern="" meaning="складна">
+        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">прыкла´дна</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
@@ -84710,12 +84715,12 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139798" Lemma="увасьмёх" Tag="RX">
+    <Paradigm pdgId="1139798" Lemma="увасьмёх" Tag="RX" meaning="толькі аб мужчынах або толькі аб жанчынах">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">увасьмёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139797" Lemma="увасьмяры´х" Tag="RX">
+    <Paradigm pdgId="1139797" Lemma="увасьмяры´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">увасьмяры´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -84990,7 +84995,7 @@
         <Form Tag="C">удачней</Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104556" Lemma="удваі´х" Tag="RX">
+    <Paradigm pdgId="1104556" Lemma="удваі´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удваі´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -85010,7 +85015,7 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139824" Lemma="удву´х" Tag="RX">
+    <Paradigm pdgId="1139824" Lemma="удву´х" Tag="RX" meaning="аб мужчы´нах">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удву´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -85020,17 +85025,17 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139825" Lemma="удзвю´х" Tag="RX">
+    <Paradigm pdgId="1139825" Lemma="удзвю´х" Tag="RX" meaning="аб жанчынах">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзвю´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139827" Lemma="удзевяцёх" Tag="RX">
+    <Paradigm pdgId="1139827" Lemma="удзевяцёх" Tag="RX" meaning="аб асобах аднаго полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзевяцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139826" Lemma="удзевяцяры´х" Tag="RX">
+    <Paradigm pdgId="1139826" Lemma="удзевяцяры´х" Tag="RX" meaning="аб асобах рознага полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзевяцяры´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -85050,12 +85055,12 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139830" Lemma="удзесяцёх" Tag="RX">
+    <Paradigm pdgId="1139830" Lemma="удзесяцёх" Tag="RX" meaning="аб асобах аднаго полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзесяцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139829" Lemma="удзесяцяры´х" Tag="RX">
+    <Paradigm pdgId="1139829" Lemma="удзесяцяры´х" Tag="RX" meaning="аб асобах рознага полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзесяцяры´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -87752,7 +87757,7 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139915" Lemma="усямёх" Tag="RX">
+    <Paradigm pdgId="1139915" Lemma="усямёх" Tag="RX" meaning="аб асобах аднаго полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">усямёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -87838,7 +87843,7 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104566" Lemma="утраі´х" Tag="RX">
+    <Paradigm pdgId="1104566" Lemma="утраі´х" Tag="RX" meaning="аб асобах рознага полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">утраі´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -87877,7 +87882,7 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1104569" Lemma="утро´х" Tag="RX">
+    <Paradigm pdgId="1104569" Lemma="утро´х" Tag="RX" meaning="толькі аб асобах аднаго полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">утро´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -88074,12 +88079,12 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139920" Lemma="учатыро´х" Tag="RX">
+    <Paradigm pdgId="1139920" Lemma="учатыро´х" Tag="RX" meaning="толькі аб асобах аднаго полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">учатыро´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139921" Lemma="учацвяры´х" Tag="RX">
+    <Paradigm pdgId="1139921" Lemma="учацвяры´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">учацвяры´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
@@ -88129,12 +88134,12 @@
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139925" Lemma="ушасцёх" Tag="RX">
+    <Paradigm pdgId="1139925" Lemma="ушасцёх" Tag="RX" meaning="толькі аб асобах аднаго полу">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">ушасцёх</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>
     </Paradigm>
-    <Paradigm pdgId="1139924" Lemma="ушасцяры´х" Tag="RX">
+    <Paradigm pdgId="1139924" Lemma="ушасцяры´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">ушасцяры´х</Form>
         <Form Tag="C"></Form>
         <Form Tag="S"></Form>

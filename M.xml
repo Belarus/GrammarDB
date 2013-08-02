@@ -18,7 +18,7 @@
         <Form Tag="MIX" Slouniki="prym2009" pravapis="A1957">або´двума</Form>
         <Form Tag="MLX" Slouniki="prym2009" pravapis="A1957">або´двух</Form>
     </Paradigm>
-    <Paradigm pdgId="1127404" Lemma="або´два" Tag="MNKS">
+    <Paradigm pdgId="1192893" Lemma="або´два" Tag="MNKS">
         <Form Tag="NNX" Slouniki="prym2009" pravapis="A1957">або´два</Form>
         <Form Tag="NGX" Slouniki="prym2009" pravapis="A1957">або´двух</Form>
         <Form Tag="NDX" Slouniki="prym2009" pravapis="A1957">або´двум</Form>
@@ -27,7 +27,7 @@
         <Form Tag="NIX" Slouniki="prym2009" pravapis="A1957">або´двума</Form>
         <Form Tag="NLX" Slouniki="prym2009" pravapis="A1957">або´двух</Form>
     </Paradigm>
-    <Paradigm pdgId="1127403" Lemma="або´е" Tag="MAKS">
+    <Paradigm pdgId="1192894" Lemma="або´е" Tag="MAKS">
         <Form Tag="XNX" Slouniki="prym2009" pravapis="A1957">або´е</Form>
         <Form Tag="XGX" Slouniki="prym2009" pravapis="A1957">абаі´х</Form>
         <Form Tag="XDX" Slouniki="prym2009" pravapis="A1957">абаі´м</Form>
@@ -72,34 +72,6 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">адны´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">адны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="адзіна´ццаты" Tag="MAOC">
-        <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">адзіна´ццаты</Form>
-        <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатага</Form>
-        <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатаму</Form>
-        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатага</Form>
-        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццаты</Form>
-        <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
-        <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
-        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатая</Form>
-        <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
-        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
-        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатую</Form>
-        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
-        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
-        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатае</Form>
-        <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатага</Form>
-        <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатаму</Form>
-        <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатае</Form>
-        <Form Tag="NIS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
-        <Form Tag="NLS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
-        <Form Tag="XNP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатыя</Form>
-        <Form Tag="XGP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатых</Form>
-        <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
-        <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатых</Form>
-        <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатыя</Form>
-        <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатымі</Form>
-        <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатых</Form>
-    </Paradigm>
     <Paradigm pdgId="1127407" Lemma="адзіна´ццаты" Tag="MAOS">
         <Form Tag="MNS">адзіна´ццаты</Form>
         <Form Tag="MGS">адзіна´ццатага</Form>
@@ -128,6 +100,34 @@
         <Form Tag="XAP">адзіна´ццатыя</Form>
         <Form Tag="XIP">адзіна´ццатымі</Form>
         <Form Tag="XLP">адзіна´ццатых</Form>
+    </Paradigm>
+    <Paradigm pdgId="1192895" Lemma="адзіна´ццаты" Tag="MAOC">
+        <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">адзіна´ццаты</Form>
+        <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатага</Form>
+        <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатага</Form>
+        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццаты</Form>
+        <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
+        <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
+        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатая</Form>
+        <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
+        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
+        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатую</Form>
+        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
+        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатай</Form>
+        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатае</Form>
+        <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатага</Form>
+        <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатае</Form>
+        <Form Tag="NIS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
+        <Form Tag="NLS" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
+        <Form Tag="XNP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатыя</Form>
+        <Form Tag="XGP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатых</Form>
+        <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатым</Form>
+        <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатых</Form>
+        <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатыя</Form>
+        <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатымі</Form>
+        <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">адзіна´ццатых</Form>
     </Paradigm>
     <Paradigm pdgId="1127963" Lemma="адзіна´ццацера" Tag="MXKS">
         <Form Tag="XNX" Slouniki="prym2009" pravapis="A1957">адзіна´ццацера</Form>
@@ -175,7 +175,7 @@
     <Paradigm pdgId="1127410" Lemma="бе´зліч" Tag="MXCS">
         <Form Tag="XXX">бе´зліч</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="більён" Tag="MNCS">
+    <Paradigm pdgId="1192896" Lemma="більён" Tag="MNCS">
         <Form Tag="XNS" Slouniki="prym2009" pravapis="A1957">більён</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957">більёна</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957">більёну</Form>
@@ -189,7 +189,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">більёнамі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">більёнах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="більён" Tag="MNCS">
+    <Paradigm pdgId="1192897" Lemma="більён" Tag="MNCS">
         <Form Tag="XNS" Slouniki="prym2009" pravapis="A1957">квінтыльён</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957">квінтыльёна</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957">квінтыльёну</Form>
@@ -297,7 +297,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">васьмісо´тымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">васьмісо´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="васьміты´сячны" Tag="MAOC">
+    <Paradigm pdgId="1192898" Lemma="васьміты´сячны" Tag="MAOC">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">васьміты´сячны</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">васьміты´сячнага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">васьміты´сячнаму</Form>
@@ -395,7 +395,7 @@
         <Form Tag="XLX" Slouniki="prym2009" pravapis="A1957">васямна´ццаці</Form>
         <Form Tag="XLX">васемна´ццаці</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="вігінтыльён" Tag="MNCS">
+    <Paradigm pdgId="1192899" Lemma="вігінтыльён" Tag="MNCS">
         <Form Tag="XNS" Slouniki="prym2009" pravapis="A1957">вігінтыльён</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957">вігінтыльёна</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957">вігінтыльёну</Form>
@@ -527,7 +527,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">двана´ццатымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">двана´ццатых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127963" Lemma="двана´ццацера" Tag="MXKS">
+    <Paradigm pdgId="1192900" Lemma="двана´ццацера" Tag="MXKS">
         <Form Tag="XNX" Slouniki="prym2009" pravapis="A1957">двана´ццацера</Form>
         <Form Tag="XGX" Slouniki="prym2009" pravapis="A1957">дванаццацяры´х</Form>
         <Form Tag="XDX" Slouniki="prym2009" pravapis="A1957">дванаццацяры´м</Form>
@@ -645,7 +645,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">двухсо´тымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">двухсо´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="двухты´сячны" Tag="MAOC">
+    <Paradigm pdgId="1192901" Lemma="двухты´сячны" Tag="MAOC">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">двухты´сячны</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">двухты´сячнага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">двухты´сячнаму</Form>
@@ -856,7 +856,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">дзевяцісо´тымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">дзевяцісо´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="дзевяціты´сячны" Tag="MAOC">
+    <Paradigm pdgId="1192902" Lemma="дзевяціты´сячны" Tag="MAOC">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">дзевяціты´сячны</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">дзевяціты´сячнага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">дзевяціты´сячнаму</Form>
@@ -1007,7 +1007,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">другі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">другі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="квадрыльён" Tag="MNCS">
+    <Paradigm pdgId="1192903" Lemma="квадрыльён" Tag="MNCS">
         <Form Tag="XNS" Slouniki="prym2009" pravapis="A1957">квадрыльён</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957">квадрыльёна</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957">квадрыльёну</Form>
@@ -1635,7 +1635,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">со´тымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">со´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="стамільённы" Tag="MAOC">
+    <Paradigm pdgId="1192904" Lemma="стамільённы" Tag="MAOC">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">стамільённы</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">стамільённага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">стамільённаму</Form>
@@ -1666,7 +1666,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">стамільённымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">стамільённых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="статы´сячны" Tag="MAOC">
+    <Paradigm pdgId="1192905" Lemma="статы´сячны" Tag="MAOC">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">статы´сячны</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">статы´сячнага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">статы´сячнаму</Form>
@@ -1894,7 +1894,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">тро´хсо´тымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">тро´хсо´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="трохты´сячны" Tag="MAOC">
+    <Paradigm pdgId="1192906" Lemma="трохты´сячны" Tag="MAOC">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">трохты´сячны</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">трохты´сячнага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">трохты´сячнаму</Form>
@@ -1962,7 +1962,7 @@
         <Form Tag="XIP">трыдзевя´тымі</Form>
         <Form Tag="XLP">трыдзевя´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="трыльён" Tag="MNCS">
+    <Paradigm pdgId="1192907" Lemma="трыльён" Tag="MNCS">
         <Form Tag="XNS" Slouniki="prym2009" pravapis="A1957">трыльён</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957">трыльёна</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957">трыльёну</Form>
@@ -2322,7 +2322,7 @@
         <Form Tag="XIP">чацве´ртымі</Form>
         <Form Tag="XLP">чацве´ртых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127490" Lemma="чацвёрты" Tag="MAOS">
+    <Paradigm pdgId="1192908" Lemma="чацвёрты" Tag="MAOS">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">чацвёрты</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">чацвёртага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">чацвёртаму</Form>

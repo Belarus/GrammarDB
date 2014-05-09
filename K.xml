@@ -18,8 +18,17 @@
     <Paradigm pdgId="1163355" Lemma="?" Tag="KA">
         <Form Tag="">?</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="/" Tag="KO">
+        <Form Tag="">/</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="/" Tag="KO">
+        <Form Tag="">/</Form>
+    </Paradigm>
     <Paradigm pdgId="1163366" Lemma="." Tag="KR">
         <Form Tag="">.</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="&quot;" Tag="KQQ">
+        <Form Tag="">&quot;</Form>
     </Paradigm>
     <Paradigm pdgId="1163364" Lemma="«" Tag="KQO">
         <Form Tag="">«</Form>
@@ -32,6 +41,12 @@
     </Paradigm>
     <Paradigm pdgId="1163356" Lemma=")" Tag="KDC">
         <Form Tag="">)</Form>
+    </Paradigm>
+    <Paradigm pdgId="1163357" Lemma="[" Tag="KVO">
+        <Form Tag="">[</Form>
+    </Paradigm>
+    <Paradigm pdgId="1163356" Lemma="]" Tag="KVC">
+        <Form Tag="">]</Form>
     </Paradigm>
     <Paradigm pdgId="1163363" Lemma="“" Tag="KQL">
         <Form Tag="">“</Form>

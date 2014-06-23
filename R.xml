@@ -40284,7 +40284,7 @@
         <Form Tag="P">патолагаанатамічна</Form>
     </Paradigm>
     <Paradigm pdgId="1082011" Lemma="пато´мна" Tag="RA" Govern="" meaning="тама´мі">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">пато´мна</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">пато´мна</Form>
     </Paradigm>
     <Paradigm pdgId="1082014" Lemma="патончана" Tag="RA" Govern="">
         <Form Tag="P">патончана</Form>
@@ -44502,10 +44502,10 @@
         <Form Tag="P">прыкладзена</Form>
     </Paradigm>
     <Paradigm pdgId="1085353" Lemma="пры´кладна" Tag="RA" Govern="" meaning="узорна">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">пры´кладна</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">пры´кладна</Form>
     </Paradigm>
     <Paradigm pdgId="1192717" Lemma="прыкла´дна" Tag="RA" Govern="" meaning="складна">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">прыкла´дна</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">прыкла´дна</Form>
     </Paradigm>
     <Paradigm pdgId="1085356" Lemma="прыклеена" Tag="RA" Govern="">
         <Form Tag="P">прыклеена</Form>
@@ -50675,9 +50675,9 @@
         <Form Tag="P">слязліва</Form>
         <Form Tag="C">слязлівей</Form>
     </Paradigm>
-    <Paradigm pdgId="1139721" Lemma="сляпіцай" Tag="RX">
-        <Form Tag="P">сляпіцай</Form>
-        <Form Tag="P">сляпіцаю</Form>
+    <Paradigm pdgId="1139721" Lemma="сляпі´цай" Tag="RX">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">сляпі´цай</Form>
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">сляпі´цаю</Form>
     </Paradigm>
     <Paradigm pdgId="1091416" Lemma="сляпу´ча" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">сляпу´ча</Form>
@@ -50968,8 +50968,8 @@
     <Paradigm pdgId="1091747" Lemma="спакойненька" Tag="RA" Govern="">
         <Form Tag="P">спакойненька</Form>
     </Paradigm>
-    <Paradigm pdgId="1139734" Lemma="спакон" Tag="RX">
-        <Form Tag="P">спакон</Form>
+    <Paradigm pdgId="1139734" Lemma="спако´н" Tag="RX">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">спако´н</Form>
     </Paradigm>
     <Paradigm pdgId="1091750" Lemma="спаконвечна" Tag="RA" Govern="">
         <Form Tag="P">спаконвечна</Form>
@@ -55629,10 +55629,10 @@
         <Form Tag="P">увасоблена</Form>
     </Paradigm>
     <Paradigm pdgId="1139798" Lemma="увасьмёх" Tag="RX" meaning="толькі аб мужчынах або толькі аб жанчынах">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">увасьмёх</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">увасьмёх</Form>
     </Paradigm>
     <Paradigm pdgId="1139797" Lemma="увасьмяры´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">увасьмяры´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">увасьмяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1096615" Lemma="уваткана" Tag="RA" Govern="">
         <Form Tag="P">уваткана</Form>
@@ -55815,7 +55815,7 @@
         <Form Tag="C">удачней</Form>
     </Paradigm>
     <Paradigm pdgId="1104556" Lemma="удваі´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удваі´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удваі´х</Form>
     </Paradigm>
     <Paradigm pdgId="1139822" Lemma="удвайне´" Tag="RX">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удвайне´</Form>
@@ -55826,20 +55826,23 @@
     <Paradigm pdgId="1104557" Lemma="удвойчы" Tag="RX">
         <Form Tag="P">удвойчы</Form>
     </Paradigm>
+    <Paradigm pdgId="" Lemma="удво´х" Tag="RX" meaning="аб мужчы´нах">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">удво´х</Form>
+    </Paradigm>
     <Paradigm pdgId="1139824" Lemma="удву´х" Tag="RX" meaning="аб мужчы´нах">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удву´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удву´х</Form>
     </Paradigm>
     <Paradigm pdgId="1096704" Lemma="уджалена" Tag="RA" Govern="">
         <Form Tag="P">уджалена</Form>
     </Paradigm>
     <Paradigm pdgId="1139825" Lemma="удзвю´х" Tag="RX" meaning="аб жанчынах">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзвю´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удзвю´х</Form>
     </Paradigm>
     <Paradigm pdgId="1139827" Lemma="удзевяцёх" Tag="RX" meaning="аб асобах аднаго полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзевяцёх</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удзевяцёх</Form>
     </Paradigm>
     <Paradigm pdgId="1139826" Lemma="удзевяцяры´х" Tag="RX" meaning="аб асобах рознага полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзевяцяры´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удзевяцяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1014110" Lemma="удзелена" Tag="RA" Govern="">
         <Form Tag="P">удзелена</Form>
@@ -55851,10 +55854,10 @@
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзе´нь</Form>
     </Paradigm>
     <Paradigm pdgId="1139830" Lemma="удзесяцёх" Tag="RX" meaning="аб асобах аднаго полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзесяцёх</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удзесяцёх</Form>
     </Paradigm>
     <Paradigm pdgId="1139829" Lemma="удзесяцяры´х" Tag="RX" meaning="аб асобах рознага полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзесяцяры´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">удзесяцяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1096713" Lemma="удзя´чна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">удзя´чна</Form>
@@ -57040,10 +57043,10 @@
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">упярэ´мешку</Form>
     </Paradigm>
     <Paradigm pdgId="1139885" Lemma="упяцёх" Tag="RX">
-        <Form Tag="P">упяцёх</Form>
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">упяцёх</Form>
     </Paradigm>
-    <Paradigm pdgId="1139884" Lemma="упяцярых" Tag="RX">
-        <Form Tag="P">упяцярых</Form>
+    <Paradigm pdgId="1139884" Lemma="упяцяры´х" Tag="RX">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">упяцяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1097583" Lemma="ураганна" Tag="RA" Govern="">
         <Form Tag="P">ураганна</Form>
@@ -57323,8 +57326,8 @@
     <Paradigm pdgId="1097779" Lemma="усемагчыма" Tag="RA" Govern="">
         <Form Tag="P">усемагчыма</Form>
     </Paradigm>
-    <Paradigm pdgId="1139903" Lemma="усемярых" Tag="RX">
-        <Form Tag="P">усемярых</Form>
+    <Paradigm pdgId="1139903" Lemma="усемяры´х" Tag="RX">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957, A2008">усемяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1097782" Lemma="усенаро´дна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">усенаро´дна</Form>
@@ -57689,7 +57692,7 @@
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">усяля´к</Form>
     </Paradigm>
     <Paradigm pdgId="1139915" Lemma="усямёх" Tag="RX" meaning="аб асобах аднаго полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">усямёх</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">усямёх</Form>
     </Paradigm>
     <Paradigm pdgId="1098037" Lemma="усяміласціва" Tag="RA" Govern="">
         <Form Tag="P">усяміласціва</Form>
@@ -57743,7 +57746,7 @@
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">уто´мна</Form>
     </Paradigm>
     <Paradigm pdgId="1104566" Lemma="утраі´х" Tag="RX" meaning="аб асобах рознага полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">утраі´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">утраі´х</Form>
     </Paradigm>
     <Paradigm pdgId="1139917" Lemma="утрайне´" Tag="RX">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">утрайне´</Form>
@@ -57772,7 +57775,7 @@
         <Form Tag="P">утройчы</Form>
     </Paradigm>
     <Paradigm pdgId="1104569" Lemma="утро´х" Tag="RX" meaning="толькі аб асобах аднаго полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">утро´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">утро´х</Form>
     </Paradigm>
     <Paradigm pdgId="1098095" Lemma="утрымана" Tag="RA" Govern="">
         <Form Tag="P">утрымана</Form>
@@ -57901,10 +57904,10 @@
         <Form Tag="P">па-ўчастковаму</Form>
     </Paradigm>
     <Paradigm pdgId="1139920" Lemma="учатыро´х" Tag="RX" meaning="толькі аб асобах аднаго полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">учатыро´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">учатыро´х</Form>
     </Paradigm>
     <Paradigm pdgId="1139921" Lemma="учацвяры´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">учацвяры´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">учацвяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1104570" Lemma="учо´ра" Tag="RX">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">учо´ра</Form>
@@ -57935,10 +57938,10 @@
         <Form Tag="P">ушанавана</Form>
     </Paradigm>
     <Paradigm pdgId="1139925" Lemma="ушасцёх" Tag="RX" meaning="толькі аб асобах аднаго полу">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">ушасцёх</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">ушасцёх</Form>
     </Paradigm>
     <Paradigm pdgId="1139924" Lemma="ушасцяры´х" Tag="RX" meaning="аб асобах рознага полу або аб істотах н.р.">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">ушасцяры´х</Form>
+        <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A1957, A2008">ушасцяры´х</Form>
     </Paradigm>
     <Paradigm pdgId="1098259" Lemma="ушацка-" Tag="RA" Govern="">
         <Form Tag="P">ушацка-</Form>

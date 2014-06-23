@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1000005" Lemma="а" Tag="E">
-        <Form Tag="">а</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">а</Form>
     </Paradigm>
     <Paradigm pdgId="1000006" Lemma="або" Tag="E">
         <Form Tag="">або</Form>
@@ -115,10 +115,8 @@
         <Form Tag="">дык вось</Form>
     </Paradigm>
     <Paradigm pdgId="1000041" Lemma="ж" Tag="E">
-        <Form Tag="">ж</Form>
-    </Paradigm>
-    <Paradigm pdgId="1000042" Lemma="жа" Tag="E">
-        <Form Tag="">жа</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ж</Form>
+		<Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">жа</Form>
     </Paradigm>
     <Paradigm pdgId="1000001" Lemma="і" Tag="E">
         <Form Tag="">і</Form>
@@ -230,7 +228,7 @@
         <Form Tag="">прыблізна</Form>
     </Paradigm>
     <Paradigm pdgId="1000067" Lemma="сабе" Tag="E">
-        <Form Tag="">сабе</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">сабе</Form>
     </Paradigm>
     <Paradigm pdgId="1000068" Lemma="сапраўды" Tag="E">
         <Form Tag="">сапраўды</Form>

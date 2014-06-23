@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1104206" Lemma="а" Tag="I" Govern="+A, +L">
-        <Form Tag="">а</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">а</Form>
     </Paradigm>
     <Paradigm pdgId="1104207" Lemma="аб" Tag="I" Govern="+A, +L">
-        <Form Tag="">аб</Form>
-        <Form Tag="">аба</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">аб</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">аба</Form>
     </Paradigm>
     <Paradigm pdgId="1104208" Lemma="абапал" Tag="I" Govern="+G">
         <Form Tag="">абапал</Form>
@@ -219,8 +219,8 @@
         <Form Tag="">для</Form>
     </Paradigm>
     <Paradigm pdgId="1104229" Lemma="з" Tag="I" Govern="+G, +A, +I">
-        <Form Tag="">з</Form>
-        <Form Tag="">са</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">з</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">са</Form>
         <Form Tag="">со</Form>
     </Paradigm>
     <Paradigm pdgId="1104242" Lemma="за" Tag="I" Govern="+A, +I, *G">
@@ -305,10 +305,8 @@
         <Form Tag="">знізу</Form>
     </Paradigm>
     <Paradigm pdgId="1104241" Lemma="з-пад" Tag="I" Govern="+G">
-        <Form Tag="">з-пад</Form>
-    </Paradigm>
-    <Paradigm pdgId="1138993" Lemma="з-пада" Tag="I" Govern="+G">
-        <Form Tag="">з-пада</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">з-пад</Form>
+		<Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">з-пада</Form>
     </Paradigm>
     <Paradigm pdgId="1104239" Lemma="з-па-за" Tag="I" Govern="+G">
         <Form Tag="">з-па-за</Form>
@@ -753,11 +751,8 @@
         <Form Tag="">павэдлуг</Form>
     </Paradigm>
     <Paradigm pdgId="1104286" Lemma="пад" Tag="I" Govern="+A, +I">
-        <Form Tag="">пад</Form>
-        <Form Tag="">пада</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160108" Lemma="пада" Tag="I" Govern="+A, +I">
-        <Form Tag="">пада</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">пад</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">пада</Form>
     </Paradigm>
     <Paradigm pdgId="1160004" Lemma="падалей ад" Tag="I" Govern="+G">
         <Form Tag="">падалей ад</Form>
@@ -868,10 +863,10 @@
         <Form Tag="">па шляху да</Form>
     </Paradigm>
     <Paradigm pdgId="1104297" Lemma="перад" Tag="I" Govern="+I, *A">
-        <Form Tag="">перад</Form>
-        <Form Tag="">перада</Form>
-        <Form Tag="">прад</Form>
-        <Form Tag="">прада</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">перад</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">перада</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">прад</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">прада</Form>
     </Paradigm>
     <Paradigm pdgId="1160139" Lemma="перада" Tag="I" Govern="+I">
         <Form Tag="">перада</Form>
@@ -932,12 +927,6 @@
     </Paradigm>
     <Paradigm pdgId="1104302" Lemma="пра" Tag="I" Govern="+A">
         <Form Tag="">пра</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160055" Lemma="прад" Tag="I" Govern="+I">
-        <Form Tag="">прад</Form>
-    </Paradigm>
-    <Paradigm pdgId="1160092" Lemma="прада" Tag="I" Govern="+I">
-        <Form Tag="">прада</Form>
     </Paradigm>
     <Paradigm pdgId="1104303" Lemma="праз" Tag="I" Govern="+A">
         <Form Tag="">праз</Form>
@@ -1033,10 +1022,10 @@
         <Form Tag="">таму назад</Form>
     </Paradigm>
     <Paradigm pdgId="1104314" Lemma="у" Tag="I" Govern="+G, +A, +L">
-        <Form Tag="">у</Form>
-        <Form Tag="">ў</Form>
-        <Form Tag="">ва</Form>
-        <Form Tag="">ува</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">у</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ў</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ва</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ува</Form>
     </Paradigm>
     <Paradigm pdgId="1159955" Lemma="у аб'ёме" Tag="I" Govern="+G">
         <Form Tag="">у аб'ёме</Form>
@@ -1085,10 +1074,6 @@
     <Paradigm pdgId="1160083" Lemma="у бок" Tag="I" Govern="+G">
         <Form Tag="">у бок</Form>
         <Form Tag="">ў бок</Form>
-    </Paradigm>
-    <Paradigm pdgId="1139016" Lemma="ува" Tag="I" Govern="+G, +A, +L">
-        <Form Tag="">ува</Form>
-        <Form Tag="">ўва</Form>
     </Paradigm>
     <Paradigm pdgId="1159918" Lemma="у ва" Tag="I" Govern="+G, +A, +L">
         <Form Tag="">у ва</Form>

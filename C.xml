@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1126904" Lemma="а" Tag="CKX">
-        <Form Tag="">а</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">а</Form>
     </Paradigm>
     <Paradigm pdgId="1126905" Lemma="або" Tag="CKX">
         <Form Tag="">або</Form>
@@ -76,10 +76,8 @@
         <Form Tag="">дык</Form>
     </Paradigm>
     <Paradigm pdgId="1126923" Lemma="ж" Tag="CKX">
-        <Form Tag="">ж</Form>
-    </Paradigm>
-    <Paradigm pdgId="1126924" Lemma="жа" Tag="CKX">
-        <Form Tag="">жа</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ж</Form>
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">жа</Form>
     </Paradigm>
     <Paradigm pdgId="1126928" Lemma="затое" Tag="CKX">
         <Form Tag="">затое</Form>
@@ -127,6 +125,9 @@
         <Form Tag="">не толькі...а і</Form>
     </Paradigm>
     <Paradigm pdgId="1127131" Lemma="не толькі...але і" Tag="CKX">
+        <Form Tag="">не толькі...але і</Form>
+    </Paradigm>
+    <Paradigm pdgId="" Lemma="не толькі...колькі" Tag="CKX">
         <Form Tag="">не толькі...але і</Form>
     </Paradigm>
     <Paradigm pdgId="1127122" Lemma="не то што...а" Tag="CKX">

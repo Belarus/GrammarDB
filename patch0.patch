@@ -1,0 +1,841 @@
+diff --git a/verb_mn.xml b/verb_mn.xml
+index 90c92ca..d3b89ec 100644
+--- a/verb_mn.xml
++++ b/verb_mn.xml
+@@ -14657,7 +14657,8 @@
+   <Form Tag="PXSM" Checked="+" Stress="віс">віс</Form>
+   <Form Tag="PXSF" Checked="+" Stress="в{і}снула">віснула</Form>
+   <Form Tag="PXSF" Checked="+" Stress="в{і}сла">вісла</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="в{і}сла">віснула</Form>
++  <Form Tag="PXSN" Checked="+" Stress="в{і}снула">віснула</Form>
++    <Form Tag="PXSN" Checked="+" Stress="в{і}сла">вісла</Form>
+   <Form Tag="PXPX" Checked="+" Stress="в{і}снулі">віснулі</Form>
+   <Form Tag="PXPX" Checked="+" Stress="в{і}слі">віслі</Form>
+   <Form Tag="I2S" Checked="+" Stress="в{і}сні">вісні</Form>
+@@ -22996,7 +22997,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="гугн{я}віла">гугнявіла</Form>
+   <Form Tag="PXPX" Checked="+" Stress="гугн{я}вілі">гугнявілі</Form>
+   <Form Tag="I2S" Checked="+" Stress="гугн{я}ў" Type="potential">гугняў</Form>
+-  <Form Tag="I2P" Checked="+" Stress="гугн{я}ў" Type="potential">гугняўце</Form>
++  <Form Tag="I2P" Checked="+" Stress="гугн{я}ўце" Type="potential">гугняўце</Form>
+   <Form Tag="RG" Checked="+" Stress="гугн{я}вячы">гугнявячы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1109693" Lemma="гусці" Tag="VXMN1" Checked="+" Govern="">
+@@ -24786,7 +24787,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="дарма{е}днічала">дармаеднічала</Form>
+   <Form Tag="PXPX" Checked="+" Stress="дарма{е}днічалі">дармаеднічалі</Form>
+   <Form Tag="I2S" Checked="+" Stress="дарма{е}днічай" Type="potential">дармаеднічай</Form>
+-  <Form Tag="I2P" Checked="+" Stress="дарма{е}дніча" Type="potential">дармаеднічайце</Form>
++  <Form Tag="I2P" Checked="+" Stress="дарма{е}днічайце" Type="potential">дармаеднічайце</Form>
+   <Form Tag="RG" Checked="+" Stress="дарма{е}днічаючы">дармаеднічаючы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1110184" Lemma="даробліваць" Tag="VXMN1" Govern="">
+@@ -37641,7 +37642,7 @@
+   <Form Tag="R3S" Checked="+" Stress="клян{е}">кляне</Form>
+   <Form Tag="R1P" Checked="+" Stress="клян{е}м" Type="nonstandard">клянем</Form>
+   <Form Tag="R1P" Checked="+" Stress="клян{ё}м">клянём</Form>
+-  <Form Tag="R2P" Checked="+" Stress="клян{е}мся" Type="nonstandard">клянеце</Form>
++  <Form Tag="R2P" Checked="+" Stress="клян{е}м" Type="nonstandard">клянем</Form>
+   <Form Tag="R2P" Checked="+" Stress="кленяц{е}">кленяце</Form>
+   <Form Tag="R3P" Checked="+" Stress="клян{у}ць">клянуць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="кляў">кляў</Form>
+@@ -43258,7 +43259,7 @@
+   <Form Tag="R1P" Checked="+" Stress="надзяв{а}ем">надзяваем</Form>
+   <Form Tag="R1P" Checked="+" Stress="надзя{е}м">надзяем</Form>
+   <Form Tag="R2P" Checked="+" Stress="надзяв{а}еце">надзяваеце</Form>
+-  <Form Tag="R2P" Checked="+" Stress="надзя{е}це" Type="nonstandard">надзя{е}це</Form>
++  <Form Tag="R2P" Checked="+" Stress="надзя{е}це" Type="nonstandard">надзяеце</Form>
+   <Form Tag="R3P" Checked="+" Stress="надзяв{а}юць">надзяваюць</Form>
+   <Form Tag="R3P" Checked="+" Stress="надзя{ю}ць" Type="nonstandard">надзяюць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="надзяв{а}ў">надзяваў</Form>
+@@ -56055,7 +56056,7 @@
+   <Form Tag="RG" Checked="+" Stress="пл{о}дзячы">плодзячы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1120053" Lemma="плысці" Tag="VXMN1" Checked="+" Govern="">
+-  <Form Tag="0" Checked="+" Stress="сці">плысці</Form>
++  <Form Tag="0" Checked="+" Stress="пл{ы}сці">плысці</Form>
+   <Form Tag="R1S" Checked="+" Stress="плыв{у}">плыву</Form>
+   <Form Tag="R2S" Checked="+" Stress="плыв{е}ш">плывеш</Form>
+   <Form Tag="R3S" Checked="+" Stress="плыв{е}">плыве</Form>
+@@ -155162,7 +155163,7 @@
+   <Form Tag="R1P" Checked="+" Stress="зацвердзяв{а}ем">зацвердзяваем</Form>
+   <Form Tag="R1P" Checked="+" Stress="зацвердзя{е}м">зацвердзяем</Form>
+   <Form Tag="R2P" Checked="+" Stress="зацвердзяв{а}еце">зацвердзяваеце</Form>
+-  <Form Tag="R2P" Checked="+" Stress="зацвердзя{е}це" Type="nonstandard">зацвердзя{е}це</Form>
++  <Form Tag="R2P" Checked="+" Stress="зацвердзя{е}це" Type="nonstandard">зацвердзяеце</Form>
+   <Form Tag="R3P" Checked="+" Stress="зацвердзяв{а}юць">зацвердзяваюць</Form>
+   <Form Tag="R3P" Checked="+" Stress="зацвердзя{ю}ць" Type="nonstandard">зацвердзяюць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="зацвердзяв{а}ў">зацвердзяваў</Form>
+diff --git a/verb_mr.xml b/verb_mr.xml
+index 89dc84b..b86581e 100644
+--- a/verb_mr.xml
++++ b/verb_mr.xml
+@@ -26576,11 +26576,11 @@
+   <Form Tag="R2P" Checked="+" Stress="заляпл{я}ецеся">заляпляецеся</Form>
+   <Form Tag="R3P" Checked="+" Stress="заляпл{я}юцца">заляпляюцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="заляпл{я}ўся">заляпляўся</Form>
+-  <Form Tag="PXSF" Checked="+" Stress="залямант{у}лася">заляплялася</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="залямант{у}лася">заляплялася</Form>
++  <Form Tag="PXSF" Checked="+" Stress="заляпл{я}лася">заляплялася</Form>
++  <Form Tag="PXSN" Checked="+" Stress="заляпл{я}лася">заляплялася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="заляпл{я}ліся">заляпляліся</Form>
+-  <Form Tag="I2S" Checked="+" Stress="залямант{у}й" Type="potential">заляпляйся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="залямант{у}йце" Type="potential">заляпляйцеся</Form>
++  <Form Tag="I2S" Checked="+" Stress="заляпл{я}йся" Type="potential">заляпляйся</Form>
++  <Form Tag="I2P" Checked="+" Stress="заляпл{я}йцеся" Type="potential">заляпляйцеся</Form>
+   <Form Tag="RG" Checked="+" Stress="заляпл{я}ючыся">заляпляючыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1111555" Lemma="заляцацца" Tag="VIMR1" Checked="+" Govern="">
+@@ -90536,20 +90536,20 @@
+   <Form Tag="RG" Checked="+" Stress="прымян{я}ючыся">прымяняючыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1160173" Lemma="успучвацца" Tag="VIMR1" Checked="+" Govern="">
+-  <Form Tag="0" Checked="+" Stress="успу{у}чвацца">успучвацца</Form>
+-  <Form Tag="R1S" Checked="+" Stress="успу{у}чваюся">успучваюся</Form>
+-  <Form Tag="R2S" Checked="+" Stress="успу{у}чваешся">успучваешся</Form>
+-  <Form Tag="R3S" Checked="+" Stress="успу{у}чваецца">успучваецца</Form>
+-  <Form Tag="R1P" Checked="+" Stress="успу{у}чваемся">успучваемся</Form>
+-  <Form Tag="R2P" Checked="+" Stress="успу{у}чваецеся">успучваецеся</Form>
+-  <Form Tag="R3P" Checked="+" Stress="успу{у}чваюцца">успучваюцца</Form>
+-  <Form Tag="PXSM" Checked="+" Stress="успу{у}чваўся">успучваўся</Form>
+-  <Form Tag="PXSF" Checked="+" Stress="успу{у}чвалася">успучвалася</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="успу{у}чвалася">успучвалася</Form>
+-  <Form Tag="PXPX" Checked="+" Stress="успу{у}чваліся">успучваліся</Form>
+-  <Form Tag="I2S" Checked="+" Stress="успу{у}чвайся">успучвайся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="успу{у}чвайцеся">успучвайцеся</Form>
+-  <Form Tag="RG" Checked="+" Stress="успу{у}чваючыся">успучваючыся</Form>
++  <Form Tag="0" Checked="+" Stress="усп{у}чвацца">успучвацца</Form>
++  <Form Tag="R1S" Checked="+" Stress="усп{у}чваюся">успучваюся</Form>
++  <Form Tag="R2S" Checked="+" Stress="усп{у}чваешся">успучваешся</Form>
++  <Form Tag="R3S" Checked="+" Stress="усп{у}чваецца">успучваецца</Form>
++  <Form Tag="R1P" Checked="+" Stress="усп{у}чваемся">успучваемся</Form>
++  <Form Tag="R2P" Checked="+" Stress="усп{у}чваецеся">успучваецеся</Form>
++  <Form Tag="R3P" Checked="+" Stress="усп{у}чваюцца">успучваюцца</Form>
++  <Form Tag="PXSM" Checked="+" Stress="усп{у}чваўся">успучваўся</Form>
++  <Form Tag="PXSF" Checked="+" Stress="усп{у}чвалася">успучвалася</Form>
++  <Form Tag="PXSN" Checked="+" Stress="усп{у}чвалася">успучвалася</Form>
++  <Form Tag="PXPX" Checked="+" Stress="усп{у}чваліся">успучваліся</Form>
++  <Form Tag="I2S" Checked="+" Stress="усп{у}чвайся">успучвайся</Form>
++  <Form Tag="I2P" Checked="+" Stress="усп{у}чвайцеся">успучвайцеся</Form>
++  <Form Tag="RG" Checked="+" Stress="усп{у}чваючыся">успучваючыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1160174" Lemma="звадкоўвацца" Tag="VIMR1" Checked="+" Govern="">
+   <Form Tag="0" Checked="+" Stress="звадк{о}ўвацца">звадкоўвацца</Form>
+diff --git a/verb_pn.xml b/verb_pn.xml
+index f2c61ee..747a366 100644
+--- a/verb_pn.xml
++++ b/verb_pn.xml
+@@ -1315,7 +1315,8 @@
+   <Form Tag="F3S" Checked="+" Stress="абвясц{і}ць">абвясціць</Form>
+   <Form Tag="F1P" Checked="+" Stress="абв{е}сцім">абвесцім</Form>
+   <Form Tag="F1P" Checked="+" Stress="абвясц{і}м">абвясцім</Form>
+-  <Form Tag="F2P" Checked="+" Stress="абв{е}сціце, абвесціц{е}">абвесціце</Form>
++  <Form Tag="F2P" Checked="+" Stress="абв{е}сціце">абвесціце</Form>
++  <Form Tag="F2P" Checked="+" Stress="абвесціц{е}">абвесціце</Form>
+   <Form Tag="F3P" Checked="+" Stress="абв{е}сцяць">абвесцяць</Form>
+   <Form Tag="F3P" Checked="+" Stress="абвясц{я}ць">абвясцяць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="абвясц{і}ў">абвясціў</Form>
+@@ -2277,25 +2278,25 @@
+ </Paradigm>
+ <Paradigm pdgId="1105216" Lemma="абакрасці" Tag="VXPN1" Checked="+" Govern="">
+   <Form Tag="0" Checked="+" Stress="абакр{а}сці">абакрасці</Form>
+-  <Form Tag="F1S" Checked="+" Stress="абкрад{у}" Type="nonstandard">абкраду</Form>
++  <Form Tag="F1S" Checked="+" Stress="абакрад{у}" Type="nonstandard">абакраду</Form>
+   <Form Tag="F1S" Checked="+" Stress="абакр{а}ду">абакраду</Form>
+-  <Form Tag="F2S" Checked="+" Stress="абакрадз{е}ш" Type="nonstandard">абкрадзеш</Form>
++  <Form Tag="F2S" Checked="+" Stress="абакрадз{е}ш" Type="nonstandard">абакрадзеш</Form>
+   <Form Tag="F2S" Checked="+" Stress="абакр{а}дзеш">абакрадзеш</Form>
+-  <Form Tag="F3S" Checked="+" Stress="абакрадз{е}" Type="nonstandard">абкрадзе</Form>
++  <Form Tag="F3S" Checked="+" Stress="абакрадз{е}" Type="nonstandard">абакрадзе</Form>
+   <Form Tag="F3S" Checked="+" Stress="абакр{а}дзе">абакрадзе</Form>
+-  <Form Tag="F1P" Checked="+" Stress="абакрадз{е}м" Type="nonstandard">абкрадзем</Form>
++  <Form Tag="F1P" Checked="+" Stress="абакрадз{е}м" Type="nonstandard">абакрадзем</Form>
+   <Form Tag="F1P" Checked="+" Stress="абакр{а}дзем">абакрадзем</Form>
+-  <Form Tag="F2P" Checked="+" Stress="абакрадз{е}це" Type="nonstandard">абкрадзеце</Form>
++  <Form Tag="F2P" Checked="+" Stress="абакрадз{е}це" Type="nonstandard">абакрадзеце</Form>
+   <Form Tag="F2P" Checked="+" Stress="абакр{а}дзеце">абакрадзеце</Form>
+-  <Form Tag="F3P" Checked="+" Stress="абакрад{у}ць" Type="nonstandard">абкрадуць</Form>
++  <Form Tag="F3P" Checked="+" Stress="абакрад{у}ць" Type="nonstandard">абакрадуць</Form>
+   <Form Tag="F3P" Checked="+" Stress="абакр{а}дуць">абакрадуць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="абакр{а}ў">абакраў</Form>
+   <Form Tag="PXSF" Checked="+" Stress="абакр{а}ла">абакрала</Form>
+   <Form Tag="PXSN" Checked="+" Stress="абакр{а}ла">абакрала</Form>
+   <Form Tag="PXPX" Checked="+" Stress="абакр{а}лі">абакралі</Form>
+-  <Form Tag="I2S" Checked="+" Stress="абакрадз{і}" Type="potential">абкрадзі</Form>
++  <Form Tag="I2S" Checked="+" Stress="абакрадз{і}" Type="potential">абакрадзі</Form>
+   <Form Tag="I2S" Checked="+" Stress="абакр{а}дзь">абакрадзь</Form>
+-  <Form Tag="I2P" Checked="+" Stress="абакрадз{і}це" Type="potential">абкрадзіце</Form>
++  <Form Tag="I2P" Checked="+" Stress="абакрадз{і}це" Type="potential">абакрадзіце</Form>
+   <Form Tag="I2P" Checked="+" Stress="абакр{а}дзьце">абакрадзьце</Form>
+   <Form Tag="PG" Checked="+" Stress="абакр{а}ўшы">абакраўшы</Form>
+ </Paradigm>
+@@ -9479,7 +9480,7 @@
+   <Form Tag="PXPX" Checked="+" Stress="адс{е}клі">адсеклі</Form>
+   <Form Tag="I2S" Checked="+" Stress="адсяч{ы}">адсячы</Form>
+   <Form Tag="I2P" Checked="+" Stress="адсяч{ы}це">адсячыце</Form>
+-  <Form Tag="PG" Checked="+" Stress="адс{е}кшы" Type="nonstandard">адсёкшы</Form>
++  <Form Tag="PG" Checked="+" Stress="адс{ё}кшы" Type="nonstandard">адсёкшы</Form>
+   <Form Tag="PG" Checked="+" Stress="адс{е}кшы">адсекшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1106689" Lemma="адсядзець" Tag="VXPN2" Checked="+" Govern="">
+@@ -12270,7 +12271,8 @@
+   <Form Tag="F3S" Checked="+" Stress="асвятл{і}ць">асвятліць</Form>
+   <Form Tag="F1P" Checked="+" Stress="асв{е}тлім">асветлім</Form>
+   <Form Tag="F1P" Checked="+" Stress="асвятл{і}м">асвятлім</Form>
+-  <Form Tag="F2P" Checked="+" Stress="асв{е}тліце, асветліц{е}">асветліце</Form>
++  <Form Tag="F2P" Checked="+" Stress="асв{е}тліце">асветліце</Form>
++  <Form Tag="F2P" Checked="+" Stress="асветліц{е}">асветліце</Form>
+   <Form Tag="F3P" Checked="+" Stress="асв{е}тляць">асветляць</Form>
+   <Form Tag="F3P" Checked="+" Stress="асвятл{я}ць">асвятляць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="асвятл{і}ў">асвятліў</Form>
+@@ -13441,7 +13443,8 @@
+   <Form Tag="F3S" Checked="+" Stress="ацяпл{і}ць">ацяпліць</Form>
+   <Form Tag="F1P" Checked="+" Stress="ац{е}плім">ацеплім</Form>
+   <Form Tag="F1P" Checked="+" Stress="ацяпл{і}м">ацяплім</Form>
+-  <Form Tag="F2P" Checked="+" Stress="ацепліц{е}, ац{е}пліце">ацепліце</Form>
++  <Form Tag="F2P" Checked="+" Stress="ацепліц{е}">ацепліце</Form>
++    <Form Tag="F2P" Checked="+" Stress="ац{е}пліце">ацепліце</Form>
+   <Form Tag="F3P" Checked="+" Stress="ац{е}пляць">ацепляць</Form>
+   <Form Tag="F3P" Checked="+" Stress="ацяпл{я}ць">ацяпляць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="ацяпл{і}ў">ацяпліў</Form>
+@@ -16388,7 +16391,7 @@
+   <Form Tag="F3P" Checked="+" Stress="в{ы}ліюць">выліюць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="в{ы}ліў">выліў</Form>
+   <Form Tag="PXSF" Checked="+" Stress="в{ы}ліла">выліла</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="в{ы}ліла">выліло</Form>
++  <Form Tag="PXSN" Checked="+" Stress="в{ы}ліла">выліла</Form>
+   <Form Tag="PXPX" Checked="+" Stress="в{ы}лілі">вылілі</Form>
+   <Form Tag="I2S" Checked="+" Stress="в{ы}лі">вылі</Form>
+   <Form Tag="I2P" Checked="+" Stress="в{ы}ліце">выліце</Form>
+@@ -26002,7 +26005,8 @@
+   <Form Tag="F3S" Checked="+" Stress="завярш{ы}ць">завяршыць</Form>
+   <Form Tag="F1P" Checked="+" Stress="зав{е}ршым">завершым</Form>
+   <Form Tag="F1P" Checked="+" Stress="завярш{ы}м">завяршым</Form>
+-  <Form Tag="F2P" Checked="+" Stress="зав{е}ршыце, завершыц{е}">завершыце</Form>
++  <Form Tag="F2P" Checked="+" Stress="зав{е}ршыце">завершыце</Form>
++    <Form Tag="F2P" Checked="+" Stress="завершыц{е}">завершыце</Form>
+   <Form Tag="F3P" Checked="+" Stress="зав{е}ршаць">завершаць</Form>
+   <Form Tag="F3P" Checked="+" Stress="завярш{а}ць">завяршаць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="завярш{ы}ў">завяршыў</Form>
+@@ -30711,7 +30715,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="заняп{а}ла">заняпала</Form>
+   <Form Tag="PXPX" Checked="+" Stress="заняп{а}лі">заняпалі</Form>
+   <Form Tag="I2S" Checked="+" Stress="занепадз{і}" Type="potential">занепадзі</Form>
+-  <Form Tag="I2P" Checked="+" Stress="занепадз{і}це" Type="potential">заняпадзіце</Form>
++  <Form Tag="I2P" Checked="+" Stress="занепадз{і}це" Type="potential">занепадзіце</Form>
+   <Form Tag="PG" Checked="+" Stress="заняп{а}ўшы">заняпаўшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1111751" Lemma="запіць" Tag="VXPN1" Checked="+" Govern="">
+@@ -33142,8 +33146,8 @@
+   <Form Tag="PXSF" Checked="+" Stress="засмыл{е}ла">засмылела</Form>
+   <Form Tag="PXSN" Checked="+" Stress="засмыл{е}ла">засмылела</Form>
+   <Form Tag="PXPX" Checked="+" Stress="засмыл{е}лі">засмылелі</Form>
+-  <Form Tag="I2S" Checked="+" Stress="засмыл{е}й" Type="potential">засмылі</Form>
+-  <Form Tag="I2P" Checked="+" Stress="засмыл{е}йце" Type="potential">засмыліце</Form>
++  <Form Tag="I2S" Checked="+" Stress="засмыл{і}" Type="potential">засмылі</Form>
++  <Form Tag="I2P" Checked="+" Stress="засмыл{і}це" Type="potential">засмыліце</Form>
+   <Form Tag="PG" Checked="+" Stress="засмыл{е}ўшы">засмылеўшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1112164" Lemma="засмяяць" Tag="VXPN1" Checked="+" Govern="">
+@@ -41660,7 +41664,8 @@
+   <Form Tag="PXPX" Checked="+" Stress="лягл{і}">ляглі</Form>
+   <Form Tag="I2S" Checked="+" Stress="ляж">ляж</Form>
+   <Form Tag="I2P" Checked="+" Stress="л{я}жце">ляжце</Form>
+-  <Form Tag="PG" Checked="+" Stress="л{е}гшы" Type="potential">лёгшы</Form>
++  <Form Tag="PG" Checked="+" Stress="л{ё}гшы" Type="potential">лёгшы</Form>
++    <Form Tag="PG" Checked="+" Stress="л{е}гшы" Type="potential">легшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1114148" Lemma="ляснуць" Tag="VXPN1" Checked="+" Govern="">
+   <Form Tag="0" Checked="+" Stress="л{я}снуць">ляснуць</Form>
+@@ -44831,9 +44836,9 @@
+   <Form Tag="F2S" Checked="+" Stress="накам{е}чыш">накамечыш</Form>
+   <Form Tag="F3S" Checked="+" Stress="накамяч{ы}ць" Type="nonstandard">накамячыць</Form>
+   <Form Tag="F3S" Checked="+" Stress="накам{е}чыць">накамечыць</Form>
+-  <Form Tag="F1P" Checked="+" Stress="накамяч{ы}це" Type="nonstandard">накамячым</Form>
++  <Form Tag="F1P" Checked="+" Stress="накамяч{ы}м" Type="nonstandard">накамячым</Form>
+   <Form Tag="F1P" Checked="+" Stress="накам{е}чым">накамечым</Form>
+-  <Form Tag="F2P" Checked="+" Stress="накамяч{ы}ць" Type="nonstandard">накамячыце</Form>
++  <Form Tag="F2P" Checked="+" Stress="накамяч{ы}це" Type="nonstandard">накамячыце</Form>
+   <Form Tag="F2P" Checked="+" Stress="накам{е}чыце">накамечыце</Form>
+   <Form Tag="F3P" Checked="+" Stress="накамяч{а}ць" Type="nonstandard">накамячаць</Form>
+   <Form Tag="F3P" Checked="+" Stress="накам{е}чаць">накамечаць</Form>
+@@ -49051,7 +49056,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="недацягн{у}ла">недацягнула</Form>
+   <Form Tag="PXPX" Checked="+" Stress="недацягн{у}лі">недацягнулі</Form>
+   <Form Tag="I2S" Checked="+" Stress="недацягн{і}" Type="potential">недацягні</Form>
+-  <Form Tag="I2P" Checked="+" Stress="недацягн{іце}" Type="potential">недацягніце</Form>
++  <Form Tag="I2P" Checked="+" Stress="недацягн{і}це" Type="potential">недацягніце</Form>
+   <Form Tag="PG" Checked="+" Stress="недацягн{у}ўшы">недацягнуўшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1115701" Lemma="недачуць" Tag="VXPN1" Checked="+" Govern="">
+@@ -69553,7 +69558,7 @@
+   <Form Tag="F1S" Checked="+" Stress="пацярпл{ю}">пацярплю</Form>
+   <Form Tag="F2S" Checked="+" Stress="пац{е}рпіш">пацерпіш</Form>
+   <Form Tag="F3S" Checked="+" Stress="пац{е}рпіць">пацерпіць</Form>
+-  <Form Tag="F1P" Checked="+" Stress="пац{е}рпім">пацярпім</Form>
++  <Form Tag="F1P" Checked="+" Stress="пац{е}рпім">пацерпім</Form>
+   <Form Tag="F2P" Checked="+" Stress="пац{е}рпіце">пацерпіце</Form>
+   <Form Tag="F3P" Checked="+" Stress="пац{е}рпяць">пацерпяць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="пацярп{е}ў">пацярпеў</Form>
+@@ -73873,7 +73878,7 @@
+   <Form Tag="F1S" Checked="+" Stress="перап'{ю}">перап'ю</Form>
+   <Form Tag="F2S" Checked="+" Stress="перап'{е}ш">перап'еш</Form>
+   <Form Tag="F3S" Checked="+" Stress="перап'{е}">перап'е</Form>
+-  <Form Tag="F1P" Checked="+" Stress="перап'{е}" Type="nonstandard">перап'ем</Form>
++  <Form Tag="F1P" Checked="+" Stress="перап'{е}м" Type="nonstandard">перап'ем</Form>
+   <Form Tag="F1P" Checked="+" Stress="перап'{ё}м">перап'ём</Form>
+   <Form Tag="F2P" Checked="+" Stress="перап'{е}це" Type="nonstandard">перап'еце</Form>
+   <Form Tag="F2P" Checked="+" Stress="перап'яц{е}">перап'яце</Form>
+@@ -74283,7 +74288,7 @@
+   <Form Tag="F1S" Checked="+" Stress="пераплят{у}">перапляту</Form>
+   <Form Tag="F2S" Checked="+" Stress="перапляц{е}ш">перапляцеш</Form>
+   <Form Tag="F3S" Checked="+" Stress="перапляц{е}">перапляце</Form>
+-  <Form Tag="F1P" Checked="+" Stress="перапляц{е}" Type="nonstandard">перапляцем</Form>
++  <Form Tag="F1P" Checked="+" Stress="перапляц{е}м" Type="nonstandard">перапляцем</Form>
+   <Form Tag="F1P" Checked="+" Stress="перапляц{ё}м">перапляцём</Form>
+   <Form Tag="F2P" Checked="+" Stress="перапляц{е}це" Type="nonstandard">перапляцеце</Form>
+   <Form Tag="F2P" Checked="+" Stress="пераплецяц{е}">пераплецяце</Form>
+@@ -76197,7 +76202,8 @@
+   <Form Tag="F3S" Checked="+" Stress="перацярп{і}ць">перацярпіць</Form>
+   <Form Tag="F1P" Checked="+" Stress="перац{е}рпім">перацерпім</Form>
+   <Form Tag="F1P" Checked="+" Stress="перацярп{і}м">перацярпім</Form>
+-  <Form Tag="F2P" Checked="+" Stress="перацерпіц{е}, перац{е}рпіце">перацерпіце</Form>
++  <Form Tag="F2P" Checked="+" Stress="перацерпіц{е}">перацерпіце</Form>
++  <Form Tag="F2P" Checked="+" Stress="перац{е}рпіце">перацерпіце</Form>
+   <Form Tag="F3P" Checked="+" Stress="перац{е}рпяць">перацерпяць</Form>
+   <Form Tag="F3P" Checked="+" Stress="перацярп{я}ць">перацярпяць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="перацярп{е}ў">перацярпеў</Form>
+@@ -80102,7 +80108,7 @@
+   <Form Tag="F1S" Checked="+" Stress="праняс{у}">пранясу</Form>
+   <Form Tag="F2S" Checked="+" Stress="праняс{е}ш">пранясеш</Form>
+   <Form Tag="F3S" Checked="+" Stress="праняс{е}">пранясе</Form>
+-  <Form Tag="F1P" Checked="+" Stress="праняс{е}це" Type="nonstandard">пранясем</Form>
++  <Form Tag="F1P" Checked="+" Stress="праняс{е}м" Type="nonstandard">пранясем</Form>
+   <Form Tag="F1P" Checked="+" Stress="праняс{ё}м">пранясём</Form>
+   <Form Tag="F2P" Checked="+" Stress="праняс{е}це" Type="nonstandard">пранясеце</Form>
+   <Form Tag="F2P" Checked="+" Stress="пранесяц{е}">пранесяце</Form>
+@@ -82680,7 +82686,7 @@
+   <Form Tag="F3S" Checked="+" Stress="прыб'{е}">прыб'е</Form>
+   <Form Tag="F1P" Checked="+" Stress="прыб'{е}м" Type="nonstandard">прыб'ем</Form>
+   <Form Tag="F1P" Checked="+" Stress="прыб'{ё}м">прыб'ём</Form>
+-  <Form Tag="F2P" Checked="+" Stress="прыб'{е}еце" Type="nonstandard">прыб'еце</Form>
++  <Form Tag="F2P" Checked="+" Stress="прыб'{е}це" Type="nonstandard">прыб'еце</Form>
+   <Form Tag="F2P" Checked="+" Stress="прыб'яц{е}">прыб'яце</Form>
+   <Form Tag="F3P" Checked="+" Stress="прыб'{ю}ць">прыб'юць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прыб{і}ў">прыбіў</Form>
+@@ -83596,7 +83602,8 @@
+   <Form Tag="F1P" Checked="+" Stress="прызямл{і}м">прызямлім</Form>
+   <Form Tag="F1P" Checked="+" Stress="прыз{е}млім">прыземлім</Form>
+   <Form Tag="F2P" Checked="+" Stress="прызямл{і}це">прызямліце</Form>
+-  <Form Tag="F2P" Checked="+" Stress="прыземліц{е}, прыз{е}мліце">прыземліце</Form>
++  <Form Tag="F2P" Checked="+" Stress="прыземліц{е}">прыземліце</Form>
++  <Form Tag="F2P" Checked="+" Stress="прыз{е}мліце">прыземліце</Form>
+   <Form Tag="F3P" Checked="+" Stress="прызямл{я}ць">прызямляць</Form>
+   <Form Tag="F3P" Checked="+" Stress="прыз{е}мляць">прыземляць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прызямл{і}ў">прызямліў</Form>
+@@ -91172,7 +91179,7 @@
+   <Form Tag="PXSF" Checked="+" Stress="растрап{а}ла">растрапала</Form>
+   <Form Tag="PXSN" Checked="+" Stress="растрап{а}ла">растрапала</Form>
+   <Form Tag="PXPX" Checked="+" Stress="растрап{а}лі">растрапалі</Form>
+-  <Form Tag="I2S" Checked="+" Stress="растрап{а}ла" Type="potential">растрапай</Form>
++  <Form Tag="I2S" Checked="+" Stress="растрап{а}й" Type="potential">растрапай</Form>
+   <Form Tag="I2S" Checked="+" Stress="растрап{і}">растрапі</Form>
+   <Form Tag="I2P" Checked="+" Stress="растрап{а}йце" Type="potential">растрапайце</Form>
+   <Form Tag="I2P" Checked="+" Stress="растрап{і}це">растрапіце</Form>
+@@ -95142,7 +95149,7 @@
+   <Form Tag="F2P" Checked="+" Stress="сплывяц{е}">сплывяце</Form>
+   <Form Tag="F3P" Checked="+" Stress="сплыв{у}ць">сплывуць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="сплыў">сплыў</Form>
+-  <Form Tag="PXSF" Checked="+" Stress="сплыл{а}">спыла</Form>
++  <Form Tag="PXSF" Checked="+" Stress="сплыл{а}">сплыла</Form>
+   <Form Tag="PXSN" Checked="+" Stress="сплыл{о}">сплыло</Form>
+   <Form Tag="PXPX" Checked="+" Stress="сплыл{і}">сплылі</Form>
+   <Form Tag="I2S" Checked="+" Stress="сплыв{і}">сплыві</Form>
+@@ -96608,7 +96615,7 @@
+   <Form Tag="F1S" Checked="+" Stress="сумяшч{у}">сумяшчу</Form>
+   <Form Tag="F2S" Checked="+" Stress="сумясц{і}ш" Type="nonstandard">сумясціш</Form>
+   <Form Tag="F2S" Checked="+" Stress="сум{е}сціш">сумесціш</Form>
+-  <Form Tag="F3S" Checked="+" Stress="сумясц{і}це" Type="nonstandard">сумясціць</Form>
++  <Form Tag="F3S" Checked="+" Stress="сумясц{і}ць" Type="nonstandard">сумясціць</Form>
+   <Form Tag="F3S" Checked="+" Stress="сум{е}сціць">сумесціць</Form>
+   <Form Tag="F1P" Checked="+" Stress="сумясц{і}м" Type="nonstandard">сумясцім</Form>
+   <Form Tag="F1P" Checked="+" Stress="сум{е}сцім">сумесцім</Form>
+@@ -98625,7 +98632,7 @@
+ <Paradigm pdgId="1124937" Lemma="увагнаць" Tag="VXPN2" Checked="+" Govern="">
+   <Form Tag="0" Checked="+" Stress="увагн{а}ць">увагнаць</Form>
+   <Form Tag="F1S" Checked="+" Stress="уган{ю}">уганю</Form>
+-  <Form Tag="F2S" Checked="+" Stress="уг{о{ніш">угоніш</Form>
++  <Form Tag="F2S" Checked="+" Stress="уг{о}ніш">угоніш</Form>
+   <Form Tag="F3S" Checked="+" Stress="уг{о}ніць">угоніць</Form>
+   <Form Tag="F1P" Checked="+" Stress="уг{о}нім">угонім</Form>
+   <Form Tag="F2P" Checked="+" Stress="уг{о}ніце">угоніце</Form>
+@@ -105557,13 +105564,15 @@
+   <Form Tag="PXSF" Checked="+" Stress="адгрукац{е}ла">адгрукацела</Form>
+   <Form Tag="PXSN" Checked="+" Stress="адгрукац{е}ла">адгрукацела</Form>
+   <Form Tag="PXPX" Checked="+" Stress="адгрукац{е}лі">адгрукацелі</Form>
+-  <Form Tag="I2S" Checked="+" Stress="адгрукач{ы}" Type="potential">адгрукоч</Form>
+-  <Form Tag="I2P" Checked="+" Stress="адгрукач{ы}це" Type="potential">адгрукочце</Form>
++  <Form Tag="I2S" Checked="+" Stress="адгрукач{ы}" Type="potential">адгрукачы</Form>
++    <Form Tag="I2S" Checked="+" Stress="адгрук{о}ч" Type="potential">адгрукоч</Form>
++  <Form Tag="I2P" Checked="+" Stress="адгрукач{ы}це" Type="potential">адгрукачыце</Form>
++    <Form Tag="I2P" Checked="+" Stress="адгрук{о}чце" Type="potential">адгрукочце</Form>
+   <Form Tag="PG" Checked="+" Stress="адгрукац{е}ўшы">адгрукацеўшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1146214" Lemma="адламаць" Tag="VXPN1" Checked="+" Govern="" Type="nonstandard">
+   <Form Tag="0" Checked="+" Stress="адлам{а}ць">адламаць</Form>
+-  <Form Tag="F1S" Checked="+" Stress="адлам{а}">адламаю</Form>
++  <Form Tag="F1S" Checked="+" Stress="адлам{а}ю">адламаю</Form>
+   <Form Tag="F2S" Checked="+" Stress="адлам{а}еш">адламаеш</Form>
+   <Form Tag="F3S" Checked="+" Stress="адлам{а}е">адламае</Form>
+   <Form Tag="F1P" Checked="+" Stress="адлам{а}ем">адламаем</Form>
+@@ -105652,7 +105661,7 @@
+   <Form Tag="PXSM" Checked="+" Stress="загудз{е}ў">загудзеў</Form>
+   <Form Tag="PXSF" Checked="+" Stress="загудз{е}ла">загудзела</Form>
+   <Form Tag="PXSN" Checked="+" Stress="загудз{е}ла">загудзела</Form>
+-  <Form Tag="PXPX" Checked="+" Stress="загудз{ешлі">загудзелі</Form>
++  <Form Tag="PXPX" Checked="+" Stress="загудз{е}лі">загудзелі</Form>
+   <Form Tag="PXPX" Checked="+" Stress="загул{і}">загулі</Form>
+   <Form Tag="I2S" Checked="+" Stress="загудз{і}">загудзі</Form>
+   <Form Tag="I2P" Checked="+" Stress="загудз{і}це">загудзіце</Form>
+@@ -105709,7 +105718,7 @@
+ <Paradigm pdgId="1146223" Lemma="надламаць" Tag="VXPN2" Checked="+" Govern="" Type="nonstandard">
+   <Form Tag="0" Checked="+" Stress="надлам{а}ць">надламаць</Form>
+   <Form Tag="F1S" Checked="+" Stress="надлам{а}ю">надламаю</Form>
+-  <Form Tag="F2S" Checked="+" Stress="надлам{а}ем">надламаеш</Form>
++  <Form Tag="F2S" Checked="+" Stress="надлам{а}еш">надламаеш</Form>
+   <Form Tag="F3S" Checked="+" Stress="надлам{а}е">надламае</Form>
+   <Form Tag="F1P" Checked="+" Stress="надлам{а}ем">надламаем</Form>
+   <Form Tag="F2P" Checked="+" Stress="надлам{а}еце">надламаеце</Form>
+@@ -105793,7 +105802,7 @@
+   <Form Tag="F3S" Checked="+" Stress="прагудз{і}ць">прагудзіць</Form>
+   <Form Tag="F1P" Checked="+" Stress="прагудз{і}м">прагудзім</Form>
+   <Form Tag="F2P" Checked="+" Stress="прагудз{і}це">прагудзіце</Form>
+-  <Form Tag="F3P" Checked="+" Stress="прагудз{яць">прагудзяць</Form>
++  <Form Tag="F3P" Checked="+" Stress="прагудз{я}ць">прагудзяць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прагудз{е}ў">прагудзеў</Form>
+   <Form Tag="PXSF" Checked="+" Stress="прагудз{е}ла">прагудзела</Form>
+   <Form Tag="PXSN" Checked="+" Stress="прагудз{е}ла">прагудзела</Form>
+@@ -105846,8 +105855,10 @@
+   <Form Tag="PXSF" Checked="+" Stress="прап{а}свіла">прапасвіла</Form>
+   <Form Tag="PXSN" Checked="+" Stress="прап{а}свіла">прапасвіла</Form>
+   <Form Tag="PXPX" Checked="+" Stress="прап{а}свілі">прапасвілі</Form>
+-  <Form Tag="I2S" Checked="+" Stress="прапас{і}" Type="potential">прапасві</Form>
+-  <Form Tag="I2P" Checked="+" Stress="прапас{і}це" Type="potential">прапасвіце</Form>
++  <Form Tag="I2S" Checked="+" Stress="прапас{і}" Type="potential">прапасі</Form>
++  <Form Tag="I2S" Checked="+" Stress="прап{а}сві" Type="potential">прапасві</Form>
++  <Form Tag="I2P" Checked="+" Stress="прапас{і}це" Type="potential">прапасіце</Form>
++  <Form Tag="I2P" Checked="+" Stress="прап{а}свіце" Type="potential">прапасвіце</Form>
+   <Form Tag="PG" Checked="+" Stress="прап{а}свіўшы">прапасвіўшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1146232" Lemma="прыламаць" Tag="VXPN1" Checked="+" Govern="" Type="nonstandard">
+@@ -187657,11 +187668,16 @@
+ <Paradigm pdgId="1156779" Lemma="апыліць" Tag="VXPN2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="апыл{і}ць">апыліць</Form>
+   <Form Tag="F1S" Checked="?vbdict_only?" Stress="апыл{ю}">апылю</Form>
+-  <Form Tag="F2S" Checked="?vbdict_only?" Stress="ап{ы}ліш, апыл{і}ш">апыліш</Form>
+-  <Form Tag="F3S" Checked="?vbdict_only?" Stress="ап{ы}ліць, апыл{і}ць">апыліць</Form>
+-  <Form Tag="F1P" Checked="?vbdict_only?" Stress="ап{ы}лім, апыл{і}м">апылім</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="ап{ы}ліце, апыліц{е}">апыліце</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="ап{ы}ляць, апыл{я}ць">апыляць</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="ап{ы}ліш">апыліш</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="апыл{і}ш">апыліш</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="ап{ы}ліць">апыліць</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="апыл{і}ць">апыліць</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="ап{ы}лім">апылім</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="апыл{і}м">апылім</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="ап{ы}ліце">апыліце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="апыліц{е}">апыліце</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="ап{ы}ляць">апыляць</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="апыл{я}ць">апыляць</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="апыл{і}ў">апыліў</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="апыл{і}ла">апыліла</Form>
+   <Form Tag="PXSN" Stress="апыл{і}ла">апыліла</Form>
+@@ -187806,11 +187822,16 @@
+ <Paradigm pdgId="1156788" Lemma="аснасціць" Tag="VXPN2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="аснасц{і}ць">аснасціць</Form>
+   <Form Tag="F1S" Checked="?vbdict_only?" Stress="аснашч{у}">аснашчу</Form>
+-  <Form Tag="F2S" Checked="?vbdict_only?" Stress="аснасц{і}ш, асн{а}сціш">аснасціш</Form>
+-  <Form Tag="F3S" Checked="?vbdict_only?" Stress="аснасц{і}ць, асн{а}сціць">аснасціць</Form>
+-  <Form Tag="F1P" Checked="?vbdict_only?" Stress="аснасц{і}м, асн{а}сцім">аснасцім</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="аснасціц{е}, асн{а}сціце">аснасціце</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="аснасц{я}ць, асн{а}сцяць">аснасцяць</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="аснасц{і}ш">аснасціш</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="асн{а}сціш">аснасціш</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="аснасц{і}ць">аснасціць</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="асн{а}сціць">аснасціць</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="аснасц{і}м">аснасцім</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="асн{а}сцім">аснасцім</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="аснасціц{е}">аснасціце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="асн{а}сціце">аснасціце</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="аснасц{я}ць">аснасцяць</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="асн{а}сцяць">аснасцяць</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="аснасц{і}ў">аснасціў</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="аснасц{і}ла">аснасціла</Form>
+   <Form Tag="PXSN" Stress="аснасц{і}ла">аснасціла</Form>
+@@ -189817,7 +189838,8 @@
+   <Form Tag="F3S" Checked="?vbdict_only?" Stress="дав{е}ршыць">давершыць</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="давярш{ы}м">давяршым</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="дав{е}ршым">давершым</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="давершыц{е}, дав{е}ршыце">давершыце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="давершыц{е}">давершыце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="дав{е}ршыце">давершыце</Form>
+   <Form Tag="F3P" Checked="?vbdict_only?" Stress="давярш{а}ць">давяршаць</Form>
+   <Form Tag="F3P" Checked="?vbdict_only?" Stress="дав{е}ршаць">давершаць</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="давярш{ы}ў">давяршыў</Form>
+@@ -191772,11 +191794,16 @@
+ <Paradigm pdgId="1157035" Lemma="закругліць" Tag="VXPN2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="закругл{і}ць">закругліць</Form>
+   <Form Tag="F1S" Checked="?vbdict_only?" Stress="закругл{ю}">закруглю</Form>
+-  <Form Tag="F2S" Checked="?vbdict_only?" Stress="закругл{і}ш, закр{у}гліш">закругліш</Form>
+-  <Form Tag="F3S" Checked="?vbdict_only?" Stress="закругл{і}ць, закр{у}гліць">закругліць</Form>
+-  <Form Tag="F1P" Checked="?vbdict_only?" Stress="закругл{і}м, закр{у}глім">закруглім</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="закругліц{е}, закр{у}гліце">закругліце</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="закругл{я}ць, закр{у}гляць">закругляць</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="закругл{і}ш">закругліш</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="закр{у}гліш">закругліш</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="закругл{і}ць">закругліць</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="закр{у}гліць">закругліць</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="закругл{і}м">закруглім</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="закр{у}глім">закруглім</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="закругліц{е}">закругліце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="закр{у}гліце">закругліце</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="закругл{я}ць">закругляць</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="закр{у}гляць">закругляць</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="закругл{і}ў">закругліў</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="закругл{і}ла">закругліла</Form>
+   <Form Tag="PXSN" Stress="закругл{і}ла">закругліла</Form>
+@@ -207243,7 +207270,8 @@
+   <Form Tag="F3S" Checked="?vbdict_only?" Stress="працярп{і}ць">працярпіць</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="прац{е}рпім">працерпім</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="працярп{і}м">працярпім</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="прац{е}рпіце, працерпіц{е}">працерпіце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="прац{е}рпіце">працерпіце</Form>
++    <Form Tag="F2P" Checked="?vbdict_only?" Stress="працерпіц{е}">працерпіце</Form>
+   <Form Tag="F3P" Checked="?vbdict_only?" Stress="прац{е}рпяць">працерпяць</Form>
+   <Form Tag="F3P" Checked="?vbdict_only?" Stress="працярп{я}ць">працярпяць</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="працярп{е}ў">працярпеў</Form>
+@@ -210728,11 +210756,16 @@
+ <Paradigm pdgId="1158219" Lemma="скругліць" Tag="VXPN2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="скругл{і}ць">скругліць</Form>
+   <Form Tag="F1S" Checked="?vbdict_only?" Stress="скругл{ю}">скруглю</Form>
+-  <Form Tag="F2S" Checked="?vbdict_only?" Stress="скр{у}гліш, скругл{і}ш">скругліш</Form>
+-  <Form Tag="F3S" Checked="?vbdict_only?" Stress="скр{у}гліць, скругл{і}ць">скругліць</Form>
+-  <Form Tag="F1P" Checked="?vbdict_only?" Stress="скр{у}глім, скругл{і}м">скруглім</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="скр{у}гліце, скругліц{е}">скругліце</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="скр{у}гляць, скругл{я}ць">скругляць</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="скр{у}гліш">скругліш</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="скругл{і}ш">скругліш</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="скр{у}гліць">скругліць</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="скругл{і}ць">скругліць</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="скр{у}глім">скруглім</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="скругл{і}м">скруглім</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="скр{у}гліце">скругліце</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="скругліц{е}">скругліце</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="скр{у}гляць">скругляць</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="скругл{я}ць">скругляць</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="скругл{і}ў">скругліў</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="скругл{і}ла">скругліла</Form>
+   <Form Tag="PXSN" Stress="скругл{і}ла">скругліла</Form>
+@@ -211299,7 +211332,8 @@
+   <Form Tag="PXPX" Checked="?vbdict_only?" Stress="стр{у}дзілі">струдзілі</Form>
+   <Form Tag="I2S" Checked="?vbdict_only?" Stress="струдзь">струдзь</Form>
+   <Form Tag="I2P" Checked="?vbdict_only?" Stress="стр{у}дзьце">струдзьце</Form>
+-  <Form Tag="PG" Checked="?vbdict_only?" Stress="стр{у}дз{і}ўшы">струдзіўшы</Form>
++  <Form Tag="PG" Checked="?vbdict_only?" Stress="стр{у}дзіўшы">струдзіўшы</Form>
++  <Form Tag="PG" Checked="?vbdict_only?" Stress="струдз{і}ўшы">струдзіўшы</Form>
+ </Paradigm>
+ <Paradigm pdgId="1158255" Lemma="струсіць" Tag="VXPN2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="стр{у}сіць">струсіць</Form>
+@@ -213391,13 +213425,13 @@
+   <Form Tag="F3S" Checked="+" Stress="прылі{е}">прыліе</Form>
+   <Form Tag="F1P" Checked="+" Stress="прыль{е}м">прыльем</Form>
+   <Form Tag="F1P" Checked="+" Stress="прылі{е}м">прыліем</Form>
+-  <Form Tag="F2P" Checked="+" Stress="прыльяц{е}">прыльеце</Form>
++  <Form Tag="F2P" Checked="+" Stress="прыльяц{е}">прыльяце</Form>
+   <Form Tag="F2P" Checked="+" Stress="прылі{е}це">прыліеце</Form>
+   <Form Tag="F3P" Checked="+" Stress="прыль{ю}ць">прыльюць</Form>
+   <Form Tag="F3P" Checked="+" Stress="прылі{ю}ць">прыліюць</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прыл{і}ў">прыліў</Form>
+   <Form Tag="PXSF" Checked="+" Stress="прыліл{а}">прыліла</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="прыліл{а}">прыліло</Form>
++  <Form Tag="PXSN" Checked="+" Stress="прыліл{о}">прыліло</Form>
+   <Form Tag="PXPX" Checked="+" Stress="прыліл{і}">прылілі</Form>
+   <Form Tag="I2S" Checked="+" Stress="прыл{і}">прылі</Form>
+   <Form Tag="I2P" Checked="+" Stress="прыл{і}це">прыліце</Form>
+diff --git a/verb_pr.xml b/verb_pr.xml
+index 1024530..575e962 100644
+--- a/verb_pr.xml
++++ b/verb_pr.xml
+@@ -712,7 +712,7 @@
+   <Form Tag="F2S" Checked="+" Stress="абабяр{э}шся">абабярэшся</Form>
+   <Form Tag="F3S" Checked="+" Stress="аббяр{э}цца" Type="nonstandard">аббярэцца</Form>
+   <Form Tag="F3S" Checked="+" Stress="абабяр{э}цца">абабярэцца</Form>
+-  <Form Tag="F1P" Checked="+" Stress="аббяр{о}мся" Type="nonstandard">аббярэмся</Form>
++  <Form Tag="F1P" Checked="+" Stress="аббяр{э}мся" Type="nonstandard">аббярэмся</Form>
+   <Form Tag="F1P" Checked="+" Stress="абабяр{о}мся">абабяромся</Form>
+   <Form Tag="F2P" Checked="+" Stress="аббяр{э}цеся" Type="nonstandard">аббярэцеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="абаберац{е}ся">абаберацеся</Form>
+@@ -11681,7 +11681,7 @@
+   <Form Tag="F3S" Checked="+" Stress="ахін{е}цца">ахінецца</Form>
+   <Form Tag="F1P" Checked="+" Stress="ахін{е}мся" Type="nonstandard">ахінемся</Form>
+   <Form Tag="F1P" Checked="+" Stress="ахін{ё}мся">ахінёмся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="ахін{е}цес" Type="nonstandard">ахінецеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="ахін{е}цеся" Type="nonstandard">ахінецеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="ахіняц{е}ся">ахіняцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="ахін{у}цца">ахінуцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="ахін{у}ўся">ахінуўся</Form>
+@@ -12297,7 +12297,7 @@
+   <Form Tag="F3S" Checked="+" Stress="баўтан{е}цца">баўтанецца</Form>
+   <Form Tag="F1P" Checked="+" Stress="баўтан{е}мся" Type="nonstandard">баўтанемся</Form>
+   <Form Tag="F1P" Checked="+" Stress="баўтан{ё}мся">баўтанёмся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="баўтан{е}мцеся" Type="nonstandard">баўтанецеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="баўтан{е}цеся" Type="nonstandard">баўтанецеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="баўтаняц{е}ся">баўтаняцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="баўтан{у}цца">баўтануцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="баўтан{у}ўся">баўтануўся</Form>
+@@ -20528,8 +20528,8 @@
+   <Form Tag="PXSF" Checked="+" Stress="дасмя{я}лася">дасмяялася</Form>
+   <Form Tag="PXSN" Checked="+" Stress="дасмя{я}лася">дасмяялася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="дасмя{я}ліся">дасмяяліся</Form>
+-  <Form Tag="I2S" Checked="+" Stress="дасмя{е}йся" Type="potential">дасмейся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="дасмя{е}йцеся" Type="potential">дасмейцейся</Form>
++  <Form Tag="I2S" Checked="+" Stress="дасм{е}йся" Type="potential">дасмейся</Form>
++  <Form Tag="I2P" Checked="+" Stress="дасм{е}йцеся" Type="potential">дасмейцейся</Form>
+   <Form Tag="PG" Checked="+" Stress="дасмя{я}ўшыся">дасмяяўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1110230" Lemma="дасачыцца" Tag="VIPR2" Govern="">
+@@ -21466,7 +21466,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="жахн{у}лася">жахнулася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="жахн{у}ліся">жахнуліся</Form>
+   <Form Tag="I2S" Checked="+" Stress="жахн{і}ся" Type="potential">жахніся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="жахн{і}ся" Type="potential">жахніцеся</Form>
++  <Form Tag="I2P" Checked="+" Stress="жахн{і}цеся" Type="potential">жахніцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="жахн{у}ўшыся">жахнуўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1110688" Lemma="сажрацца" Tag="VIPR1" Govern="">
+@@ -21808,7 +21808,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="заба{я}лася">забаялася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="заба{я}ліся">забаяліся</Form>
+   <Form Tag="I2S" Checked="+" Stress="заб{о}йся" Type="potential">забойся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="заб{о}йцеся" Type="potential">забойцейся</Form>
++  <Form Tag="I2P" Checked="+" Stress="заб{о}йцеся" Type="potential">забойцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="заба{я}ўшыся">забаяўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1110755" Lemma="забавіцца" Tag="VIPR2" Checked="+" Govern="">
+@@ -23289,11 +23289,11 @@
+   <Form Tag="F2P" Checked="+" Stress="загайд{а}ецеся">загайдаецеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="загайд{а}юцца">загайдаюцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="загайд{а}ўся">загайдаўся</Form>
+-  <Form Tag="PXSF" Checked="+" Stress="завяд{а}лася">загайдалася</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="завяд{а}лася">загайдалася</Form>
++  <Form Tag="PXSF" Checked="+" Stress="загайд{а}лася">загайдалася</Form>
++  <Form Tag="PXSN" Checked="+" Stress="загайд{а}лася">загайдалася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="загайд{а}ліся">загайдаліся</Form>
+-  <Form Tag="I2S" Checked="+" Stress="завяд{а}йся" Type="potential">загайдайся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="завяд{а}йцеся" Type="potential">загайдайцеся</Form>
++  <Form Tag="I2S" Checked="+" Stress="загайд{а}йся" Type="potential">загайдайся</Form>
++  <Form Tag="I2P" Checked="+" Stress="загайд{а}йцеся" Type="potential">загайдайцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="загайд{а}ўшыся">загайдаўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1111018" Lemma="загалёкацца" Tag="VIPR1" Govern="">
+@@ -29612,7 +29612,7 @@
+   <Form Tag="F3S" Checked="+" Stress="застан{е}цца">застанецца</Form>
+   <Form Tag="F1P" Checked="+" Stress="застан{е}мся" Type="nonstandard">застанемся</Form>
+   <Form Tag="F1P" Checked="+" Stress="застан{ё}мся">застанёмся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="застан{е}цся" Type="nonstandard">застанецеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="застан{е}цеся" Type="nonstandard">застанецеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="застаняц{е}ся">застаняцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="застан{у}цца">застануцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="заст{а}ўся">застаўся</Form>
+@@ -38976,9 +38976,9 @@
+   <Form Tag="F1S" Checked="+" Stress="надзяўб{у}ся">надзяўбуся</Form>
+   <Form Tag="F2S" Checked="+" Stress="надзяўб{е}шся">надзяўбешся</Form>
+   <Form Tag="F3S" Checked="+" Stress="надзяўб{е}цца">надзяўбецца</Form>
+-  <Form Tag="F1P" Checked="+" Stress="наддзяўб{е}мся" Type="nonstandard">надзяўбемся</Form>
++  <Form Tag="F1P" Checked="+" Stress="надзяўб{е}мся" Type="nonstandard">надзяўбемся</Form>
+   <Form Tag="F1P" Checked="+" Stress="надзяўб{ё}мся">надзяўбёмся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="наддзяўб{е}цеся" Type="nonstandard">надзяўбецеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="надзяўб{е}цеся" Type="nonstandard">надзяўбецеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="надзеўбяц{е}ся">надзеўбяцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="надзяўб{у}цца">надзяўбуцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="надз{ё}ўбся">надзёўбся</Form>
+@@ -40690,8 +40690,10 @@
+   <Form Tag="PXSF" Checked="+" Stress="нам{а}рылася">намарылася</Form>
+   <Form Tag="PXSN" Checked="+" Stress="нам{а}рылася">намарылася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="нам{а}рыліся">намарыліся</Form>
+-  <Form Tag="I2S" Checked="+" Stress="нам{а}рыся" Type="potential">намарся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="нам{а}рыцеся" Type="potential">намарцеся</Form>
++  <Form Tag="I2S" Checked="+" Stress="нам{а}рыся" Type="potential">намарыся</Form>
++    <Form Tag="I2S" Checked="+" Stress="нам{а}рся" Type="potential">намарся</Form>
++  <Form Tag="I2P" Checked="+" Stress="нам{а}рыцеся" Type="potential">намарыцеся</Form>
++    <Form Tag="I2P" Checked="+" Stress="нам{а}рцеся" Type="potential">намарцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="нам{а}рыўшыся">намарыўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1115068" Lemma="наматацца" Tag="VIPR1" Govern="">
+@@ -40805,7 +40807,7 @@
+   <Form Tag="PXSN" Checked="+" Stress="намал{о}лася">намалолася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="намал{о}ліся">намалоліся</Form>
+   <Form Tag="I2S" Checked="+" Stress="намял{і}ся" Type="potential">намяліся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="намял{і}цеся" Type="potential">намаліцеся</Form>
++  <Form Tag="I2P" Checked="+" Stress="намял{і}цеся" Type="potential">намяліцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="намал{о}ўшыся">намалоўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1115086" Lemma="намаліцца" Tag="VIPR2" Checked="+" Govern="">
+@@ -45880,8 +45882,8 @@
+   <Form Tag="PXSF" Checked="+" Stress="павар'яв{а}лася">павар'явалася</Form>
+   <Form Tag="PXSN" Checked="+" Stress="павар'яв{а}лася">павар'явалася</Form>
+   <Form Tag="PXPX" Checked="+" Stress="павар'яв{а}ліся">павар'яваліся</Form>
+-  <Form Tag="I2S" Checked="+" Stress="павар'{ю}юйся" Type="potential">павар'юйся</Form>
+-  <Form Tag="I2P" Checked="+" Stress="павар'{ю}юйцеся" Type="potential">павар'юйцеся</Form>
++  <Form Tag="I2S" Checked="+" Stress="павар'{ю}йся" Type="potential">павар'юйся</Form>
++  <Form Tag="I2P" Checked="+" Stress="павар'{ю}йцеся" Type="potential">павар'юйцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="павар'яв{а}ўшыся">павар'яваўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1116032" Lemma="паваркатацца" Tag="VIPR1" Govern="">
+@@ -48627,7 +48629,7 @@
+   <Form Tag="F1S" Checked="+" Stress="падд{а}мся">паддамся</Form>
+   <Form Tag="F2S" Checked="+" Stress="паддас{і}ся">паддасіся</Form>
+   <Form Tag="F3S" Checked="+" Stress="падд{а}сца">паддасца</Form>
+-  <Form Tag="F1P" Checked="+" Stress="падам{о}ся" Type="nonstandard">паддамося</Form>
++  <Form Tag="F1P" Checked="+" Stress="паддам{о}ся" Type="nonstandard">паддамося</Form>
+   <Form Tag="F1P" Checked="+" Stress="паддадз{і}мся">паддадзімся</Form>
+   <Form Tag="F2P" Checked="+" Stress="паддасц{е}ся">паддасцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="паддад{у}цца">паддадуцца</Form>
+@@ -59487,9 +59489,9 @@
+   <Form Tag="F3S" Checked="+" Stress="паспадзя{е}цца">паспадзяецца</Form>
+   <Form Tag="F1P" Checked="+" Stress="паспадзяв{а}емся" Type="nonstandard">паспадзяваемся</Form>
+   <Form Tag="F1P" Checked="+" Stress="паспадзя{ё}мся">паспадзяёмся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="паспадзяв[а]ецеся" Type="nonstandard">паспадзяваецеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="паспадзяв{а}ецеся" Type="nonstandard">паспадзяваецеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="паспадзеяц{е}ся">паспадзеяцеся</Form>
+-  <Form Tag="F3P" Checked="+" Stress="паспадзяв[а]юцца" Type="nonstandard">паспадзяваюцца</Form>
++  <Form Tag="F3P" Checked="+" Stress="паспадзяв{а}юцца" Type="nonstandard">паспадзяваюцца</Form>
+   <Form Tag="F3P" Checked="+" Stress="паспадзя{ю}цца">паспадзяюцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="паспадзяв{а}ўся">паспадзяваўся</Form>
+   <Form Tag="PXSF" Checked="+" Stress="паспадзяв{а}лася">паспадзявалася</Form>
+@@ -70353,7 +70355,7 @@
+   <Form Tag="F3S" Checked="+" Stress="прап'{е}цца">прап'ецца</Form>
+   <Form Tag="F1P" Checked="+" Stress="прап'{е}мся" Type="nonstandard">прап'емся</Form>
+   <Form Tag="F1P" Checked="+" Stress="прап'{ё}мся">прап'ёмся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="прап'{е}цся" Type="nonstandard">прап'ецеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="прап'{е}цеся" Type="nonstandard">прап'ецеся</Form>
+   <Form Tag="F2P" Checked="+" Stress="прап'яц{е}ся">прап'яцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="прап'{ю}цца">прап'юцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прап{і}ўся">прапіўся</Form>
+@@ -73426,7 +73428,8 @@
+   <Form Tag="F1P" Checked="+" Stress="прызямл{і}мся">прызямлімся</Form>
+   <Form Tag="F1P" Checked="+" Stress="прыз{е}млімся">прыземлімся</Form>
+   <Form Tag="F2P" Checked="+" Stress="прызямл{і}цеся" Type="nonstandard">прызямліцеся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="прыземліц{е}ся, прыз{е}мліцеся">прыземліцеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="прыземліц{е}ся">прыземліцеся</Form>
++  <Form Tag="F2P" Checked="+" Stress="прыз{е}мліцеся">прыземліцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="прызямл{я}цца">прызямляцца</Form>
+   <Form Tag="F3P" Checked="+" Stress="прыз{е}мляцца">прыземляцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прызямл{і}ўся">прызямліўся</Form>
+@@ -87982,19 +87985,11 @@
+ </Paradigm>
+ <Paradigm pdgId="1124936" Lemma="увагнацца" Tag="VIPR2" Govern="">
+   <Form Tag="0">увагнацца</Form>
+-  <Form Tag="F1S" Stress="уган{ю}ся" Type="potential">уганюся</Form>
+-  <Form Tag="F2S" Stress="уг{о{нішся" Type="potential">угонішся</Form>
+-  <Form Tag="F3S" Stress="уг{о}ніцца" Type="potential">угоніцца</Form>
+-  <Form Tag="F1P" Stress="уг{о}німся" Type="potential">угонімся</Form>
+-  <Form Tag="F2P" Stress="уг{о}ніцеся" Type="potential">угоніцеся</Form>
+-  <Form Tag="F3P" Stress="уг{о}няцца" Type="potential">угоняцца</Form>
+   <Form Tag="PXSM" Stress="увагн{а}ўся">увагнаўся</Form>
+   <Form Tag="PXSF" Stress="увагн{а}лася">увагналася</Form>
+   <Form Tag="PXSN" Stress="увагн{а}лася">увагналася</Form>
+   <Form Tag="PXPX" Stress="увагн{а}ліся">увагналіся</Form>
+-  <Form Tag="I2S" Stress="уган{і}ся" Type="potential">уганіся</Form>
+-  <Form Tag="I2P" Stress="уган{і}цеся" Type="potential">уганіцеся</Form>
+-  <Form Tag="PG">увагнаўшыся</Form>
++  <Form Tag="PG" Stress="увагн{а}ўшыся">увагнаўшыся</Form>
+ </Paradigm>
+ <Paradigm pdgId="1124938" Lemma="уважыцца" Tag="VIPR2" Govern="">
+   <Form Tag="0">уважыцца</Form>
+@@ -93826,15 +93821,15 @@
+ <Paradigm pdgId="1146238" Lemma="прызвычаіцца" Tag="VIPR1" Checked="+" Govern="" Type="nonstandard">
+   <Form Tag="0" Checked="+" Stress="прызвыч{а}іцца">прызвычаіцца</Form>
+   <Form Tag="F1S" Checked="+" Stress="прызвыч{а}юся">прызвычаюся</Form>
+-  <Form Tag="F2S" Checked="+" Stress="прызвыч{а}ішся">прызвычаешся</Form>
+-  <Form Tag="F3S" Checked="+" Stress="прызвыч{а}іцца">прызвычаецца</Form>
+-  <Form Tag="F1P" Checked="+" Stress="прызвыч{а}імся">прызвычаемся</Form>
+-  <Form Tag="F2P" Checked="+" Stress="прызвыч{а}іцеся">прызвычаецеся</Form>
++  <Form Tag="F2S" Checked="+" Stress="прызвыч{а}ішся">прызвычаішся</Form>
++  <Form Tag="F3S" Checked="+" Stress="прызвыч{а}іцца">прызвычаіцца</Form>
++  <Form Tag="F1P" Checked="+" Stress="прызвыч{а}імся">прызвычаімся</Form>
++  <Form Tag="F2P" Checked="+" Stress="прызвыч{а}іцеся">прызвычаіцеся</Form>
+   <Form Tag="F3P" Checked="+" Stress="прызвыч{а}юцца">прызвычаюцца</Form>
+   <Form Tag="PXSM" Checked="+" Stress="прызвыч{а}іўся">прызвычаеўся</Form>
+-  <Form Tag="PXSF" Checked="+" Stress="прызвыч{а}ілася">прызвычаелася</Form>
+-  <Form Tag="PXSN" Checked="+" Stress="прызвыч{а}ілася">прызвычаелася</Form>
+-  <Form Tag="PXPX" Checked="+" Stress="прызвыч{а}іліся">прызвычаеліся</Form>
++  <Form Tag="PXSF" Checked="+" Stress="прызвыч{а}ілася">прызвычаілася</Form>
++  <Form Tag="PXSN" Checked="+" Stress="прызвыч{а}ілася">прызвычаілася</Form>
++  <Form Tag="PXPX" Checked="+" Stress="прызвыч{а}іліся">прызвычаіліся</Form>
+   <Form Tag="I2S" Checked="+" Stress="прызвыч{а}йся">прызвычайся</Form>
+   <Form Tag="I2P" Checked="+" Stress="прызвыч{а}йцеся">прызвычайцеся</Form>
+   <Form Tag="PG" Checked="+" Stress="прызвыч{а}іўшыся">прызвычаіўшыся</Form>
+@@ -107333,7 +107328,8 @@
+   <Form Tag="F3S" Checked="?vbdict_only?" Stress="абц{е}рпіцца">абцерпіцца</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="абцярп{і}мся">абцярпімся</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="абц{е}рпімся">абцерпімся</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="абцерпіц{е}ся, абц{е}рпіцеся">абцерпіцеся</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="абцерпіц{е}ся">абцерпіцеся</Form>
++    <Form Tag="F2P" Checked="?vbdict_only?" Stress="абц{е}рпіцеся">абцерпіцеся</Form>
+   <Form Tag="F3P" Checked="?vbdict_only?" Stress="абцярп{я}цца">абцярпяцца</Form>
+   <Form Tag="F3P" Checked="?vbdict_only?" Stress="абц{е}рпяцца">абцерпяцца</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="абцярп{е}ўся">абцярпеўся</Form>
+@@ -108072,11 +108068,16 @@
+ <Paradigm pdgId="1159265" Lemma="аснасціцца" Tag="VXPR2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="аснасц{і}цца">аснасціцца</Form>
+   <Form Tag="F1S" Checked="?vbdict_only?" Stress="аснашч{у}ся">аснашчуся</Form>
+-  <Form Tag="F2S" Checked="?vbdict_only?" Stress="аснасц{і}шся, асн{а}сцішся">аснасцішся</Form>
+-  <Form Tag="F3S" Checked="?vbdict_only?" Stress="аснасц{і}цца, асн{а}сціцца">аснасціцца</Form>
+-  <Form Tag="F1P" Checked="?vbdict_only?" Stress="аснасц{і}мся, асн{а}сцімся">аснасцімся</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="аснасціц{е}ся, асн{а}сціцеся">аснасціцеся</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="аснасц{я}цца, асн{а}сцяцца">аснасцяцца</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="аснасц{і}шся">аснасцішся</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="асн{а}сцішся">аснасцішся</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="аснасц{і}цца">аснасціцца</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="асн{а}сціцца">аснасціцца</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="аснасц{і}мся">аснасцімся</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="асн{а}сцімся">аснасцімся</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="аснасціц{е}ся">аснасціцеся</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="асн{а}сціцеся">аснасціцеся</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="аснасц{я}цца">аснасцяцца</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="асн{а}сцяцца">аснасцяцца</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="аснасц{і}ўся">аснасціўся</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="аснасц{і}лася">аснасцілася</Form>
+   <Form Tag="PXSN" Stress="аснасц{і}лася">аснасцілася</Form>
+@@ -109169,7 +109170,7 @@
+   <Form Tag="F3S" Checked="?vbdict_only?" Stress="заказыр{ы}цца">заказырыцца</Form>
+   <Form Tag="F1P" Checked="?vbdict_only?" Stress="заказыр{ы}мся">заказырымся</Form>
+   <Form Tag="F2P" Checked="?vbdict_only?" Stress="заказырыц{е}ся">заказырыцеся</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="заказыр{а}ццца">заказырацца</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="заказыр{а}цца">заказырацца</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="заказыр{ы}ўся">заказырыўся</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="заказыр{ы}лася">заказырылася</Form>
+   <Form Tag="PXSN" Stress="заказыр{ы}лася">заказырылася</Form>
+@@ -109213,11 +109214,16 @@
+ <Paradigm pdgId="1159336" Lemma="закругліцца" Tag="VXPR2" Checked="?vbdict_only?">
+   <Form Tag="0" Checked="?vbdict_only?" Stress="закругл{і}цца">закругліцца</Form>
+   <Form Tag="F1S" Checked="?vbdict_only?" Stress="закругл{ю}ся">закруглюся</Form>
+-  <Form Tag="F2S" Checked="?vbdict_only?" Stress="закругл{і}шся, закр{у}глішся">закруглішся</Form>
+-  <Form Tag="F3S" Checked="?vbdict_only?" Stress="закругл{і}цца, закр{у}гліцца">закругліцца</Form>
+-  <Form Tag="F1P" Checked="?vbdict_only?" Stress="закругл{і}мся, закр{у}глімся">закруглімся</Form>
+-  <Form Tag="F2P" Checked="?vbdict_only?" Stress="закругліц{е}ся, закр{у}гліцеся">закругліцеся</Form>
+-  <Form Tag="F3P" Checked="?vbdict_only?" Stress="закругл{я}цца, закр{у}гляцца">закругляцца</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="закругл{і}шся">закруглішся</Form>
++  <Form Tag="F2S" Checked="?vbdict_only?" Stress="закр{у}глішся">закруглішся</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="закругл{і}цца">закругліцца</Form>
++  <Form Tag="F3S" Checked="?vbdict_only?" Stress="закр{у}гліцца">закругліцца</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="закругл{і}мся">закруглімся</Form>
++  <Form Tag="F1P" Checked="?vbdict_only?" Stress="закр{у}глімся">закруглімся</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="закругліц{е}ся">закругліцеся</Form>
++  <Form Tag="F2P" Checked="?vbdict_only?" Stress="закр{у}гліцеся">закругліцеся</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="закругл{я}цца">закругляцца</Form>
++  <Form Tag="F3P" Checked="?vbdict_only?" Stress="закр{у}гляцца">закругляцца</Form>
+   <Form Tag="PXSM" Checked="?vbdict_only?" Stress="закругл{і}ўся">закругліўся</Form>
+   <Form Tag="PXSF" Checked="?vbdict_only?" Stress="закругл{і}лася">закруглілася</Form>
+   <Form Tag="PXSN" Stress="закругл{і}лася">закруглілася</Form>

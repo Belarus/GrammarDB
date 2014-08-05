@@ -8033,7 +8033,7 @@
         <Form Tag="P">бліскавічна</Form>
     </Paradigm>
     <Paradigm pdgId="1002441" Lemma="бліску´ча" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">бліску´ча</Form>
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957">бліску´ча</Form>
         <Form Tag="P">па-бліскучаму</Form>
     </Paradigm>
     <Paradigm pdgId="1052787" Lemma="бліску´ча" Tag="RA" Govern="">
@@ -9965,7 +9965,7 @@
         <Form Tag="P">вечарова</Form>
     </Paradigm>
     <Paradigm pdgId="1055227" Lemma="ве´чна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">ве´чна</Form>
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957">ве´чна</Form>
         <Form Tag="P">па-вечнаму</Form>
     </Paradigm>
     <Paradigm pdgId="1104381" Lemma="ве´чна" Tag="RX">
@@ -35674,12 +35674,11 @@
     <Paradigm pdgId="1077845" Lemma="нявысветлена" Tag="RA" Govern="">
         <Form Tag="P">нявысветлена</Form>
     </Paradigm>
-    <Paradigm pdgId="1008632" Lemma="нявы´трымана" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">нявы´трымана</Form>
+    <Paradigm pdgId="1008632" Lemma="вы´трымана" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957">вы´трымана</Form>
     </Paradigm>
     <Paradigm pdgId="1077848" Lemma="нявы´трымана" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">нявы´трымана</Form>
-        <Form Tag="C">нявытрыманей</Form>
     </Paradigm>
     <Paradigm pdgId="1008635" Lemma="нявыхавана" Tag="RA" Govern="">
         <Form Tag="P">нявыхавана</Form>

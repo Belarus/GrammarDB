@@ -11086,8 +11086,8 @@
     <Paradigm pdgId="1056005" Lemma="выключана" Tag="RA" Govern="">
         <Form Tag="P">выключана</Form>
     </Paradigm>
-    <Paradigm pdgId="1056011" Lemma="выключна" Tag="RA" Govern="">
-        <Form Tag="P">выключна</Form>
+    <Paradigm pdgId="1056011" Lemma="выклю´чна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957,A2008">выклю´чна</Form>
         <Form Tag="C">выключней</Form>
     </Paradigm>
     <Paradigm pdgId="1104382" Lemma="выключна" Tag="RX">
@@ -11582,11 +11582,8 @@
         <Form Tag="P">высакапробна</Form>
     </Paradigm>
     <Paradigm pdgId="1056473" Lemma="высакаро´дна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">высакаро´дна</Form>
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">высакаро´дна</Form>
         <Form Tag="C">высакародней</Form>
-    </Paradigm>
-    <Paradigm pdgId="1146180" Lemma="высакаро´дна" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">высакаро´дна</Form>
     </Paradigm>
     <Paradigm pdgId="1056476" Lemma="высакаросла" Tag="RA" Govern="">
         <Form Tag="P">высакаросла</Form>
@@ -48130,7 +48127,7 @@
         <Form Tag="P">рэтараманска-</Form>
         <Form Tag="P">па-рэтараманску</Form>
     </Paradigm>
-    <Paradigm pdgId="" Lemma="рэ´тра" Tag="RХ" Govern="">
+    <Paradigm pdgId="0" Lemma="рэ´тра" Tag="RХ" Govern="">
         <Form Tag="P" Slouniki="sbm2012" pravapis="A1957,A2008">рэ´тра</Form>
     </Paradigm>
     <Paradigm pdgId="1088773" Lemma="рэтраградна" Tag="RA" Govern="">

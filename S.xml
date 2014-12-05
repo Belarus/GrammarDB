@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1138966" Lemma="aніхто´" Tag="SANX">
+    <Paradigm pdgId="1138966" Lemma="aніхто´" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">aніхто´</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">aніко´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">aніко´му</Form>
@@ -9,13 +9,7 @@
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957">анікі´м</Form>
         <Form Tag="MLS" Slouniki="TSBM" pravapis="A1957">ані аб кім</Form>
     </Paradigm>
-    <Paradigm pdgId="1127618" Lemma="абы-калі´" Tag="SAFX">
-        <Form Tag="XXX">абы-калі´</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127619" Lemma="абы-куды´" Tag="SAFX">
-        <Form Tag="XXX">абы-куды´</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127824" Lemma="абы-хто´" Tag="SAFX">
+    <Paradigm pdgId="1127824" Lemma="абы-хто´" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-хто´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-каго´</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">абы-каму´</Form>
@@ -23,7 +17,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">абы-кі´м</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">абы-кі´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1127854" Lemma="абы-чы´й" Tag="SAFX">
+    <Paradigm pdgId="1127854" Lemma="абы-чы´й" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-чы´й</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-чыйго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-чыйму´</Form>
@@ -52,7 +46,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">абы-чыі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">абы-чыі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127825" Lemma="абы-што´" Tag="SAFX">
+    <Paradigm pdgId="1127825" Lemma="абы-што´" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-што´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-чаго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абы-чаму´</Form>
@@ -60,7 +54,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">абы-чы´м</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">абы-чы´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1127861" Lemma="абы-які´" Tag="SAFX">
+    <Paradigm pdgId="1127861" Lemma="абы-які´" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">абы-які´</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">абы-яко´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">абы-яко´му</Form>
@@ -90,10 +84,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">абы-які´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">абы-які´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127608" Lemma="адгэ´туль" Tag="SADX">
-        <Form Tag="XXX">адгэ´туль</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127844" Lemma="адзі´н" Tag="SAFX">
+    <Paradigm pdgId="1127844" Lemma="адзі´н" Tag="SAF0">
         <Form Tag="MNS">адзі´н</Form>
         <Form Tag="MGS">аднаго´</Form>
         <Form Tag="MDS">аднаму´</Form>
@@ -122,10 +113,7 @@
         <Form Tag="XIP">адны´мі</Form>
         <Form Tag="XLP">адны´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127605" Lemma="адту´ль" Tag="SADX">
-        <Form Tag="XXX">адту´ль</Form>
-    </Paradigm>
-    <Paradigm pdgId="1138967" Lemma="анішто´" Tag="SANX">
+    <Paradigm pdgId="1138967" Lemma="анішто´" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">анішто´</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">анічо´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">анічо´му</Form>
@@ -134,7 +122,7 @@
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">анічы´м</Form>
         <Form Tag="MLS" Slouniki="TSBM" pravapis="A1957,A2008">ані аб чым</Form>
     </Paradigm>
-    <Paradigm pdgId="1127816" Lemma="анія´кі" Tag="SANX">
+    <Paradigm pdgId="1127816" Lemma="анія´кі" Tag="SAN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">анія´кі</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">анія´кага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">анія´каму</Form>
@@ -164,7 +152,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">анія´кімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">анія´кіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127812" Lemma="ваш" Tag="SASX">
+    <Paradigm pdgId="1127812" Lemma="ваш" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ваш</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва´шага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва´шаму</Form>
@@ -207,7 +195,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">ва´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">вас</Form>
     </Paradigm>
-    <Paradigm pdgId="1127813" Lemma="гэ´ны" Tag="SADX">
+    <Paradigm pdgId="1127813" Lemma="гэ´ны" Tag="SAD0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´ны</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´нага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´наму</Form>
@@ -237,7 +225,7 @@
         <Form Tag="XIP">гэ´нымі</Form>
         <Form Tag="XLP">гэ´ных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127814" Lemma="гэ´такі" Tag="SADX">
+    <Paradigm pdgId="1127814" Lemma="гэ´такі" Tag="SAD0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´такі</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´такага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´такаму</Form>
@@ -267,7 +255,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">гэ´такімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">гэ´такіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127815" Lemma="гэ´ткі" Tag="SADX">
+    <Paradigm pdgId="1127815" Lemma="гэ´ткі" Tag="SAD0">
         <Form Tag="MNS">гэ´ткі</Form>
         <Form Tag="MGS">гэ´ткага</Form>
         <Form Tag="MDS">гэ´ткаму</Form>
@@ -297,7 +285,7 @@
         <Form Tag="XIP">гэ´ткімі</Form>
         <Form Tag="XLP">гэ´ткіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127867" Lemma="гэ´тулькі" Tag="SADX">
+    <Paradigm pdgId="1127867" Lemma="гэ´тулькі" Tag="SMD0">
         <Form Tag="XNP" Slouniki="prym2009" pravapis="A1957">гэ´тулькі</Form>
         <Form Tag="XGP" Slouniki="prym2009" pravapis="A1957">гэ´тулькіх</Form>
         <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957">гэ´тулькім</Form>
@@ -306,12 +294,13 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">гэ´тулькімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">гэ´тулькіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127810" Lemma="гэ´ты" Tag="SADX">
+<Paradigm pdgId="1127810" Lemma="гэ´ты" Tag="SADX">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´ты</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´таму</Form>
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">гэ´ты</Form>
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">гэ´тага</Form>
+        <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">гэ´тым</Form>
         <Form Tag="MLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тым</Form>
         <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957,A2008">гэ´та</Form>
         <Form Tag="FNS" Slouniki="" Type="nonstandard">гэ´тая</Form>
@@ -339,7 +328,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">гэ´тымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">гэ´тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1160156" Lemma="да´дзены" Tag="SADX">
+    <Paradigm pdgId="1160156" Lemma="да´дзены" Tag="SAD0">
         <Form Tag="MNS">да´дзены</Form>
         <Form Tag="MGS">да´дзенага</Form>
         <Form Tag="MDS">да´дзенаму</Form>
@@ -351,7 +340,6 @@
         <Form Tag="FGS">да´дзенай</Form>
         <Form Tag="FGS">да´дзенае</Form>
         <Form Tag="FDS">да´дзенай</Form>
-        <Form Tag="FDS">да´дзенае</Form>
         <Form Tag="FAS">да´дзеную</Form>
         <Form Tag="FIS">да´дзенай</Form>
         <Form Tag="FLS">да´дзенай</Form>
@@ -369,7 +357,7 @@
         <Form Tag="XIP">да´дзенымі</Form>
         <Form Tag="XLP">да´дзеных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127845" Lemma="другі´" Tag="SAFX">
+    <Paradigm pdgId="1127845" Lemma="другі´" Tag="SAE0">
         <Form Tag="MNS">другі´</Form>
         <Form Tag="MGS">друго´га</Form>
         <Form Tag="MDS">друго´му</Form>
@@ -405,7 +393,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">ім</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">ім</Form>
     </Paradigm>
-    <Paradigm pdgId="1127850" Lemma="іна´кшы" Tag="SAEX">
+    <Paradigm pdgId="1127850" Lemma="іна´кшы" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">іна´кшы</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">іна´кшага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">іна´кшаму</Form>
@@ -432,10 +420,10 @@
         <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957">іна´кшым</Form>
         <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957">іна´кшых</Form>
         <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957">іна´кшыя</Form>
-        <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">іна´кшымы</Form>
+        <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">іна´кшымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">іна´кшых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127623" Lemma="і´ншы" Tag="SAEX">
+    <Paradigm pdgId="1127623" Lemma="і´ншы" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і´ншы</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і´ншага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і´ншаму</Form>
@@ -462,10 +450,10 @@
         <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957,A2008">і´ншым</Form>
         <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957,A2008">і´ншых</Form>
         <Form Tag="XAP" Slouniki="prym2009" pravapis="A1957,A2008">і´ншыя</Form>
-        <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">і´ншымы</Form>
+        <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">і´ншымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">і´ншых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127624" Lemma="і´хні" Tag="SASX">
+    <Paradigm pdgId="1127624" Lemma="і´хні" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і´хні</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і´хняга</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і´хняму</Form>
@@ -494,7 +482,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">і´хнімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">і´хніх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127625" Lemma="і´хны" Tag="SASX">
+    <Paradigm pdgId="1127625" Lemma="і´хны" Tag="SAS0">
         <Form Tag="MNS">і´хны</Form>
         <Form Tag="MGS">і´хнага</Form>
         <Form Tag="MDS">і´хнаму</Form>
@@ -523,7 +511,7 @@
         <Form Tag="XIP">і´хнымі</Form>
         <Form Tag="XLP">і´хных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127626" Lemma="като´ры" Tag="SALX">
+    <Paradigm pdgId="1127626" Lemma="като´ры" Tag="SAL0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">като´ры</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">като´рага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">като´раму</Form>
@@ -553,7 +541,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">като´рымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">каторых</Form>
     </Paradigm>
-    <Paradigm pdgId="1138971" Lemma="като´ры-не´будзь" Tag="SAFX">
+    <Paradigm pdgId="1138971" Lemma="като´ры-не´будзь" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">като´ры-не´будзь</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">като´рага-не´будзь</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">като´раму-не´будзь</Form>
@@ -583,7 +571,7 @@
         <Form Tag="XIP">като´рымі-не´будзь</Form>
         <Form Tag="XLP">като´рых-не´будзь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127864" Lemma="ко´жны" Tag="SAEX">
+    <Paradigm pdgId="1127864" Lemma="ко´жны" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´жны</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´жнага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">ко´жнаму</Form>
@@ -613,7 +601,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">ко´жнымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">ко´жных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127865" Lemma="ко´лькі" Tag="SALX">
+    <Paradigm pdgId="1127865" Lemma="ко´лькі" Tag="SML0">
         <Form Tag="XNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´лькі</Form>
         <Form Tag="XGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´лькіх</Form>
         <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957,A2008">ко´лькім</Form>
@@ -622,7 +610,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">ко´лькімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">ко´лькіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127866" Lemma="ко´лькі-не´будзь" Tag="SAFX">
+        <Paradigm pdgId="1127866" Lemma="ко´лькі-не´будзь" Tag="SMF0">
         <Form Tag="XNP">ко´лькі-не´будзь</Form>
         <Form Tag="XGP">ко´лькіх-не´будзь</Form>
         <Form Tag="XDP">ко´лькім-не´будзь</Form>
@@ -631,10 +619,7 @@
         <Form Tag="XIP">ко´лькімі-не´будзь</Form>
         <Form Tag="XLP">ко´лькіх-не´будзь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127617" Lemma="куды-не´будзь" Tag="SAFX">
-        <Form Tag="XXX">куды´-не´будзь</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127838" Lemma="любы´" Tag="SAEX">
+    <Paradigm pdgId="1127838" Lemma="любы´" Tag="SAE0">
         <Form Tag="MNS">любы´</Form>
         <Form Tag="MGS">любо´га</Form>
         <Form Tag="MDS">любо´му</Form>
@@ -662,7 +647,7 @@
         <Form Tag="XIP">любы´мі</Form>
         <Form Tag="XLP">любы´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127870" Lemma="мой" Tag="SASX">
+    <Paradigm pdgId="1127870" Lemma="мой" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">мой</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">майго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">майму´</Form>
@@ -698,7 +683,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">на´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">нас</Form>
     </Paradigm>
-    <Paradigm pdgId="1127840" Lemma="наш" Tag="SASX">
+    <Paradigm pdgId="1127840" Lemma="наш" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">наш</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на´шага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на´шаму</Form>
@@ -734,10 +719,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">на´шымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">на´шых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127614" Lemma="недзе" Tag="SAFX">
-        <Form Tag="XXX">не´дзе</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127841" Lemma="не´йкі" Tag="SAFX">
+    <Paradigm pdgId="1127841" Lemma="не´йкі" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´йкі</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´йкага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´йкаму</Form>
@@ -767,7 +749,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">не´йкімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">не´йкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1138964" Lemma="не´йчы" Tag="SAFX">
+    <Paradigm pdgId="1138964" Lemma="не´йчы" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´йчы</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´йчага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´йчаму</Form>
@@ -797,18 +779,15 @@
         <Form Tag="XIP">не´йчымі</Form>
         <Form Tag="XLP">не´йчых</Form>
     </Paradigm>
-    <Paradigm pdgId="1138968" Lemma="не´кага" Tag="SANX">
+    <Paradigm pdgId="1138968" Lemma="не´кага" Tag="SNN0">
         <Form Tag="MNS"></Form>
         <Form Tag="MGS">не´кага</Form>
         <Form Tag="MDS">не´каму</Form>
         <Form Tag="MAS">не´кага</Form>
         <Form Tag="MIS">не´кім</Form>
-        <Form Tag="MLS">не аб кім</Form>
+        <Form Tag="MLS">не´ аб кім</Form>
     </Paradigm>
-    <Paradigm pdgId="1127615" Lemma="не´калі" Tag="SAFX">
-        <Form Tag="XXX">не´калі</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127842" Lemma="не´калькі" Tag="SAFX">
+    <Paradigm pdgId="1127842" Lemma="не´калькі" Tag="SMF0">
         <Form Tag="XNP" Slouniki="prym2009" pravapis="A1957">не´калькі</Form>
         <Form Tag="XGP" Slouniki="prym2009" pravapis="A1957">не´калькіх</Form>
         <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957">не´калькім</Form>
@@ -817,7 +796,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">не´калькімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">не´калькіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127629" Lemma="некато´ры" Tag="SAFX">
+    <Paradigm pdgId="1127629" Lemma="некато´ры" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">некато´ры</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">некато´рага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">некато´раму</Form>
@@ -847,7 +826,7 @@
         <Form Tag="XIP">некато´рымі</Form>
         <Form Tag="XLP">некато´рых</Form>
     </Paradigm>
-    <Paradigm pdgId="1186565" Lemma="не´кі" Tag="SAFX">
+    <Paradigm pdgId="1186565" Lemma="не´кі" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´кі</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´кага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´каму</Form>
@@ -877,10 +856,7 @@
         <Form Tag="XIP">не´кімі</Form>
         <Form Tag="XLP">не´кіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127616" Lemma="не´куды" Tag="SAFX">
-        <Form Tag="XXX">не´куды</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127832" Lemma="не´хта" Tag="SAFX">
+    <Paradigm pdgId="1127832" Lemma="не´хта" Tag="SNF0">
         <Form Tag="XNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´хта</Form>
         <Form Tag="XGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´кага</Form>
         <Form Tag="XDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´каму</Form>
@@ -888,7 +864,7 @@
         <Form Tag="XIS" Slouniki="prym2009" pravapis="A1957,A2008">не´кім</Form>
         <Form Tag="XLS" Slouniki="prym2009" pravapis="A1957,A2008">не´кім</Form>
     </Paradigm>
-    <Paradigm pdgId="1138969" Lemma="не´чага" Tag="SANX">
+    <Paradigm pdgId="1138969" Lemma="не´чага" Tag="SNN0">
         <Form Tag="MNS"></Form>
         <Form Tag="MGS">не´чага</Form>
         <Form Tag="MDS">не´чаму</Form>
@@ -896,7 +872,7 @@
         <Form Tag="MIS">не´чым</Form>
         <Form Tag="MLS">не аб чым</Form>
     </Paradigm>
-    <Paradigm pdgId="1127871" Lemma="не´чы" Tag="SAFX">
+    <Paradigm pdgId="1127871" Lemma="не´чы" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´чы</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´чага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´чаму</Form>
@@ -926,7 +902,7 @@
         <Form Tag="XIP">не´чымі</Form>
         <Form Tag="XLP">не´чых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127834" Lemma="не´шта" Tag="SAFX">
+    <Paradigm pdgId="1127834" Lemma="не´шта" Tag="SNF0">
         <Form Tag="XNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´шта</Form>
         <Form Tag="XGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не´чага</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957,A2008">не´чаму</Form>
@@ -934,10 +910,7 @@
         <Form Tag="XIS" Slouniki="prym2009" pravapis="A1957,A2008">не´чым</Form>
         <Form Tag="XLS" Slouniki="prym2009" pravapis="A1957,A2008">не´чым</Form>
     </Paradigm>
-    <Paradigm pdgId="1127613" Lemma="ніадку´ль" Tag="SANX">
-        <Form Tag="XXX">ніадку´ль</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127811" Lemma="ніво´дзін" Tag="SANX">
+    <Paradigm pdgId="1127811" Lemma="ніво´дзін" Tag="SAN0">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">ніво´дзін</Form>
         <Form Tag="MGS" Slouniki="sbm2012" pravapis="A2008">ніво´днага</Form>
         <Form Tag="MDS" Slouniki="sbm2012" pravapis="A2008">ніво´днаму</Form>
@@ -965,7 +938,7 @@
         <Form Tag="XIP">ніво´днымі</Form>
         <Form Tag="XLP">ніво´дных</Form>
     </Paradigm>
-    <Paradigm pdgId="1138970" Lemma="ніво´дны" Tag="SANX">
+    <Paradigm pdgId="1138970" Lemma="ніво´дны" Tag="SAN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ніво´дны</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ніво´днага</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">ніво´днаму</Form>
@@ -994,16 +967,7 @@
         <Form Tag="XIP">ніво´днымі</Form>
         <Form Tag="XLP">ніво´дных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127609" Lemma="нідзе´" Tag="SANX">
-        <Form Tag="XXX">нідзе´</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127612" Lemma="ніко´лі" Tag="SANX">
-        <Form Tag="XXX">ніко´лі</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127610" Lemma="ніку´ды" Tag="SANX">
-        <Form Tag="XXX">ніку´ды</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127831" Lemma="ніхто´" Tag="SANX">
+    <Paradigm pdgId="1127831" Lemma="ніхто´" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ніхто´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ніко´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">ніко´му</Form>
@@ -1011,7 +975,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">нікі´м</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">нікі´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1127627" Lemma="нічы´й" Tag="SANX">
+    <Paradigm pdgId="1127627" Lemma="нічы´й" Tag="SAN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нічы´й</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нічыйго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нічыйму´</Form>
@@ -1040,7 +1004,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">нічыі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">нічыі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127628" Lemma="нічы´йны" Tag="SANX">
+    <Paradigm pdgId="1127628" Lemma="нічы´йны" Tag="SAN0">
         <Form Tag="MNS">нічы´йны</Form>
         <Form Tag="MGS">нічы´йнага</Form>
         <Form Tag="MDS">нічы´йнаму</Form>
@@ -1059,7 +1023,7 @@
         <Form Tag="NDS">нічы´йнаму</Form>
         <Form Tag="NAS">нічы´йнае</Form>
         <Form Tag="NIS">нічы´йным</Form>
-        <Form Tag="NLS">нічы´йнм</Form>
+        <Form Tag="NLS">нічы´йным</Form>
         <Form Tag="XNP">нічы´йныя</Form>
         <Form Tag="XGP">нічы´йных</Form>
         <Form Tag="XDP">нічы´йным</Form>
@@ -1068,7 +1032,7 @@
         <Form Tag="XIP">нічы´йнымі</Form>
         <Form Tag="XLP">нічы´йных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127833" Lemma="нішто´" Tag="SANX">
+    <Paradigm pdgId="1127833" Lemma="нішто´" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нішто´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нічо´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">нічо´му</Form>
@@ -1076,10 +1040,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">нічы´м</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">нічы´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1127611" Lemma="нія´к" Tag="SANX">
-        <Form Tag="XXX">нія´к</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127817" Lemma="нія´кі" Tag="SANX">
+    <Paradigm pdgId="1127817" Lemma="нія´кі" Tag="SAN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нія´кі</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нія´кага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нія´каму</Form>
@@ -1109,7 +1070,7 @@
         <Form Tag="XIP">нія´кімі</Form>
         <Form Tag="XLP">нія´кіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127839" Lemma="сам" Tag="SAEX">
+    <Paradigm pdgId="1127839" Lemma="сам" Tag="SNE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сам</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">само´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">само´му</Form>
@@ -1137,7 +1098,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">самі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">самі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127818" Lemma="са´мы" Tag="SAEX">
+    <Paradigm pdgId="1127818" Lemma="са´мы" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">са´мы</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">са´мага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">са´маму</Form>
@@ -1167,7 +1128,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">са´мымі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">са´мых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127835" Lemma="свой" Tag="SASX">
+    <Paradigm pdgId="1127835" Lemma="свой" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">свой</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">свайго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">свайму´</Form>
@@ -1196,7 +1157,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">сваі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">сваі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127846" Lemma="сёй-той" Tag="SAFX">
+    <Paradigm pdgId="1127846" Lemma="сёй-той" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">сёй-той</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сяго´-таго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сяму´-таму´</Form>
@@ -1225,7 +1186,7 @@
         <Form Tag="XIP">сі´мі-ты´мі</Form>
         <Form Tag="XLP">сіх-тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127869" Lemma="сто´лечкі" Tag="SADX">
+    <Paradigm pdgId="1127869" Lemma="сто´лечкі" Tag="SMD0">
         <Form Tag="XNP">сто´лечкі</Form>
         <Form Tag="XGP">сто´лечкіх</Form>
         <Form Tag="XDP">сто´лечкім</Form>
@@ -1234,7 +1195,7 @@
         <Form Tag="XIP">сто´лечкімі</Form>
         <Form Tag="XLP">сто´лечкіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127868" Lemma="сто´лькі" Tag="SADX">
+    <Paradigm pdgId="1127868" Lemma="сто´лькі" Tag="SMD0">
         <Form Tag="XNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто´лькі</Form>
         <Form Tag="XGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто´лькіх</Form>
         <Form Tag="XDP" Slouniki="prym2009" pravapis="A1957,A2008">сто´лькім</Form>
@@ -1243,10 +1204,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">сто´лькімі</Form>
         <Form Tag="XLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто´лькіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127604" Lemma="сюды´" Tag="SADX">
-        <Form Tag="XXX">сюды´</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127806" Lemma="сябе´" Tag="SARX">
+    <Paradigm pdgId="1127806" Lemma="сябе´" Tag="SNR0">
         <Form Tag="XNX"></Form>
         <Form Tag="XGX" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сябе´</Form>
         <Form Tag="XDX" Slouniki="prym2009" pravapis="A1957">сабе´</Form>
@@ -1255,10 +1213,7 @@
         <Form Tag="XIX" Slouniki="prym2009" pravapis="A1957">сабо´ю</Form>
         <Form Tag="XLX" Slouniki="prym2009" pravapis="A1957">сабе´</Form>
     </Paradigm>
-    <Paradigm pdgId="1127607" Lemma="сяк" Tag="SADX">
-        <Form Tag="XXX">сяк</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127837" Lemma="сякі´-такі´" Tag="SAFX">
+    <Paradigm pdgId="1127837" Lemma="сякі´-такі´" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сякі´-такі´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сяко´га-тако´га</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сяко´му-тако´му</Form>
@@ -1288,10 +1243,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">сякі´мі-такі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">сякі´х-такі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127606" Lemma="так" Tag="SADX">
-        <Form Tag="XXX">так</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127836" Lemma="такі´" Tag="SADX">
+    <Paradigm pdgId="1127836" Lemma="такі´" Tag="SAD0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">такі´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тако´га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">тако´му</Form>
@@ -1320,7 +1272,7 @@
         <Form Tag="XIP">такі´мі</Form>
         <Form Tag="XLP">такі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1186566" Lemma="такі´-сякі´" Tag="SAFX">
+    <Paradigm pdgId="1186566" Lemma="такі´-сякі´" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">такі´-сякі´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тако´га-сяко´га</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тако´му-сяко´му</Form>
@@ -1333,9 +1285,9 @@
         <Form Tag="FGS">тако´е-сяко´е</Form>
         <Form Tag="FDS">тако´й-сяко´й</Form>
         <Form Tag="FAS">таку´ю-сяку´ю</Form>
-        <Form Tag="FIS">тако´й-сякой</Form>
+        <Form Tag="FIS">тако´й-сяко´й</Form>
         <Form Tag="FIS">тако´ю-сяко´ю</Form>
-        <Form Tag="FLS">такой-сяко´й</Form>
+        <Form Tag="FLS">тако´й-сяко´й</Form>
         <Form Tag="NNS">тако´е-сяко´е</Form>
         <Form Tag="NGS">тако´га-сяко´га</Form>
         <Form Tag="NDS" Slouniki="sbm2012" pravapis="A2008">тако´му-сяко´му</Form>
@@ -1350,10 +1302,7 @@
         <Form Tag="XIP">такі´мі-сякі´мі</Form>
         <Form Tag="XLP">такі´х-сякі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127602" Lemma="там" Tag="SADX">
-        <Form Tag="XXX">там</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127847" Lemma="твой" Tag="SASX">
+    <Paradigm pdgId="1127847" Lemma="твой" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">твой</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">твайго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">твайму´</Form>
@@ -1378,10 +1327,11 @@
         <Form Tag="XGP">тваі´х</Form>
         <Form Tag="XDP">тваі´м</Form>
         <Form Tag="XAP">тваі´х</Form>
+		<Form Tag="XAP">твае´</Form>
         <Form Tag="XIP">тваі´мі</Form>
         <Form Tag="XLP">тваі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127843" Lemma="той" Tag="SADX">
+    <Paradigm pdgId="1127843" Lemma="той" Tag="SAD0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">той</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">таго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">таму´</Form>
@@ -1410,7 +1360,7 @@
         <Form Tag="XIP">ты´мі</Form>
         <Form Tag="XLP">тых</Form>
     </Paradigm>
-    <Paradigm pdgId="1138972" Lemma="той-сёй" Tag="SAFX">
+    <Paradigm pdgId="1138972" Lemma="той-сёй" Tag="SAF0">
         <Form Tag="MNS">той-сёй</Form>
         <Form Tag="MGS">таго´-сяго´</Form>
         <Form Tag="MDS">таму´-сяму´</Form>
@@ -1438,7 +1388,7 @@
         <Form Tag="XIP">ты´мі-сі´мі</Form>
         <Form Tag="XLP">тых-сіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1138973" Lemma="трэ´ці" Tag="SAFX">
+    <Paradigm pdgId="1138973" Lemma="трэ´ці" Tag="SAF0">
         <Form Tag="MNS">трэ´ці</Form>
         <Form Tag="MGS">трэ´цяга</Form>
         <Form Tag="MDS">трэ´цяму</Form>
@@ -1455,7 +1405,7 @@
         <Form Tag="NNS">трэ´цяе</Form>
         <Form Tag="NGS">трэ´цяга</Form>
         <Form Tag="NDS">трэ´цяму</Form>
-        <Form Tag="NAS">трэ´цяга</Form>
+        <Form Tag="NAS">трэ´цяе</Form>
         <Form Tag="NIS">трэ´цім</Form>
         <Form Tag="NLS">трэ´цім</Form>
         <Form Tag="XNP">трэ´ція</Form>
@@ -1466,12 +1416,6 @@
         <Form Tag="XIP">трэ´цімі</Form>
         <Form Tag="XLP">трэ´ціх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127603" Lemma="туды´" Tag="SADX">
-        <Form Tag="XXX">туды´</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127601" Lemma="тут" Tag="SADX">
-        <Form Tag="XXX">тут</Form>
-    </Paradigm>
     <Paradigm pdgId="1127808" Lemma="ты" Tag="SNP2">
         <Form Tag="XNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ты</Form>
         <Form Tag="XGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">цябе´</Form>
@@ -1481,7 +1425,7 @@
         <Form Tag="XIS" Slouniki="prym2009" pravapis="A1957,A2008">табо´ю</Form>
         <Form Tag="XLS" Slouniki="prym2009" pravapis="A1957,A2008">табе´</Form>
     </Paradigm>
-    <Paradigm pdgId="1127848" Lemma="уве´сь" Tag="SAEX">
+    <Paradigm pdgId="1127848" Lemma="уве´сь" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">уве´сь</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">усяго´</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">усяму´</Form>
@@ -1511,7 +1455,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">усі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">усі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127849" Lemma="уся´кі" Tag="SAEX">
+    <Paradigm pdgId="1127849" Lemma="уся´кі" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">уся´кі</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">уся´кага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">уся´каму</Form>
@@ -1541,7 +1485,7 @@
         <Form Tag="XIP">уся´кімі</Form>
         <Form Tag="XLP">уся´кіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127851" Lemma="усяля´кі" Tag="SAEX">
+    <Paradigm pdgId="1127851" Lemma="усяля´кі" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">усяля´кі</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">усяля´кага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">усяля´каму</Form>
@@ -1571,7 +1515,7 @@
         <Form Tag="XIP">усяля´кімі</Form>
         <Form Tag="XLP">усяля´кіх</Form>
     </Paradigm>
-    <Paradigm pdgId="1127820" Lemma="хто" Tag="SALX">
+    <Paradigm pdgId="1127820" Lemma="хто" Tag="SNL0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хто</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каго´</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">каму´</Form>
@@ -1579,7 +1523,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кім</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кім</Form>
     </Paradigm>
-    <Paradigm pdgId="1186567" Lemma="хто-колечы" Tag="SAFX">
+    <Paradigm pdgId="1186567" Lemma="хто-колечы" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хто-ко´лечы</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каго´-ко´лечы</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">каму´-ко´лечы</Form>
@@ -1587,7 +1531,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кім-ко´лечы</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кім-ко´лечы</Form>
     </Paradigm>
-    <Paradigm pdgId="1127823" Lemma="хто-не´будзь" Tag="SAFX">
+    <Paradigm pdgId="1127823" Lemma="хто-не´будзь" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хто-не´будзь</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каго´-не´будзь</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">каму´-не´будзь</Form>
@@ -1595,7 +1539,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кім-не´будзь</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кім-не´будзь</Form>
     </Paradigm>
-    <Paradigm pdgId="1138965" Lemma="хто-ніхто" Tag="SAFX">
+    <Paradigm pdgId="1138965" Lemma="хто-ніхто´" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хто-ніхто´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каго´-нікаго´</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">каму´-нікаму´</Form>
@@ -1603,7 +1547,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кім-нікі´м</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кім-нікі´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1127822" Lemma="хтось" Tag="SAFX">
+    <Paradigm pdgId="1127822" Lemma="хтось" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хтось</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каго´сь</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">каму´сь</Form>
@@ -1611,7 +1555,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кімсь</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кімсь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127821" Lemma="хто´сьці" Tag="SAFX">
+    <Paradigm pdgId="1127821" Lemma="хто´сьці" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хто´сьці</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каго´сьці</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">каму´сьці</Form>
@@ -1619,7 +1563,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кі´мсьці</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кі´мсьці</Form>
     </Paradigm>
-    <Paradigm pdgId="1127852" Lemma="чый" Tag="SALX">
+    <Paradigm pdgId="1127852" Lemma="чый" Tag="SAL0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чый</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чыйго´</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">чыйму´</Form>
@@ -1630,7 +1574,7 @@
         <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957,A2008">чыя´</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">чыёй</Form>
         <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">чыёй</Form>
-        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957,A2008">чыя´</Form>
+        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957,A2008">чыю´</Form>
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">чыёй</Form>
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">чыёю</Form>
         <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">чыёй</Form>
@@ -1648,7 +1592,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">чыі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">чыі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127853" Lemma="чый-не´будзь" Tag="SAFX">
+    <Paradigm pdgId="1127853" Lemma="чый-не´будзь" Tag="SAF0">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">чый-не´будзь</Form>
         <Form Tag="MGS" Slouniki="sbm2012" pravapis="A2008">чыйго´-не´будзь</Form>
         <Form Tag="MDS" Slouniki="sbm2012" pravapis="A2008">чыйму´-не´будзь</Form>
@@ -1676,7 +1620,7 @@
         <Form Tag="XIP">чыі´мі-не´будзь</Form>
         <Form Tag="XLP">чыі´х-не´будзь</Form>
     </Paradigm>
-    <Paradigm pdgId="1186568" Lemma="чый-нічы´й" Tag="SAFX">
+    <Paradigm pdgId="1186568" Lemma="чый-нічы´й" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чый-нічы´й</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">чыйго-нічыйго´</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">чыйму-нічыйму´</Form>
@@ -1705,7 +1649,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">чыімі-нічыі´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">чыіх-нічыі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127856" Lemma="чыйсь" Tag="SAFX">
+    <Paradigm pdgId="1127856" Lemma="чыйсь" Tag="SAF0">
         <Form Tag="MNS">чыйсь</Form>
         <Form Tag="MGS">чыйго´сь</Form>
         <Form Tag="MDS">чыйму´сь</Form>
@@ -1733,7 +1677,7 @@
         <Form Tag="XIP">чыі´місь</Form>
         <Form Tag="XLP">чыі´хсь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127855" Lemma="чы´йсьці" Tag="SAFX">
+    <Paradigm pdgId="1127855" Lemma="чы´йсьці" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чы´йсьці</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чыйго´сьці</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чыйму´сьці</Form>
@@ -1761,7 +1705,7 @@
         <Form Tag="XIP">чыі´місьці</Form>
         <Form Tag="XLP">чыі´хсьці</Form>
     </Paradigm>
-    <Paradigm pdgId="1127857" Lemma="чы´йся" Tag="SAFX">
+    <Paradigm pdgId="1127857" Lemma="чы´йся" Tag="SAF0">
         <Form Tag="MNS">чы´йся</Form>
         <Form Tag="MGS">чыйго´ся</Form>
         <Form Tag="MDS">чыйму´ся</Form>
@@ -1776,10 +1720,10 @@
         <Form Tag="FIS">чыёйся</Form>
         <Form Tag="FLS">чыёйся</Form>
     </Paradigm>
-    <Paradigm pdgId="1127622" Lemma="чы´мсі" Tag="SAFX">
+    <Paradigm pdgId="1127622" Lemma="чы´мсі" Tag="SNF0">
         <Form Tag="XXX">чы´мсі</Form>
     </Paradigm>
-    <Paradigm pdgId="1127827" Lemma="што" Tag="SALX">
+    <Paradigm pdgId="1127827" Lemma="што" Tag="SNL0">
         <Form Tag="XNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што</Form>
         <Form Tag="XGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чаго´</Form>
         <Form Tag="XDS" Slouniki="prym2009" pravapis="A1957,A2008">чаму´</Form>
@@ -1787,13 +1731,23 @@
         <Form Tag="XIS" Slouniki="prym2009" pravapis="A1957,A2008">чым</Form>
         <Form Tag="XLS" Slouniki="prym2009" pravapis="A1957,A2008">чым</Form>
     </Paradigm>
-    <Paradigm pdgId="1127621" Lemma="што-ко´лечы" Tag="SAFX">
-        <Form Tag="XXX" Slouniki="sbm2012" pravapis="A2008">што-ко´лечы</Form>
+    <Paradigm pdgId="1127621" Lemma="што-ко´лечы" Tag="SNF0">
+        <Form Tag="XNS" Slouniki="sbm2012" pravapis="A2008">што-ко´лечы</Form>
+		<Form Tag="XGS" >чаго´-ко´лечы</Form>
+        <Form Tag="XDS" >чаму´-ко´лечы</Form>
+        <Form Tag="XAS" >што-ко´лечы</Form>
+        <Form Tag="XIS" >чым-ко´лечы</Form>
+        <Form Tag="XLS" >чым-ко´лечы</Form>
     </Paradigm>
-    <Paradigm pdgId="1127620" Lemma="што-ко´львечы" Tag="SAFX">
-        <Form Tag="XXX">што-ко´львечы</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127826" Lemma="што-не´будзь" Tag="SAFX">
+    <Paradigm pdgId="1127620" Lemma="што-ко´львечы" Tag="SNF0">
+       <Form Tag="XNS" >што-ко´львечы</Form>
+		<Form Tag="XGS" >чаго´-ко´львечы</Form>
+        <Form Tag="XDS" >чаму´-ко´львечы</Form>
+        <Form Tag="XAS" >што-ко´львечы</Form>
+        <Form Tag="XIS" >чым-ко´львечы</Form>
+        <Form Tag="XLS" >чым-ко´львечы</Form>
+	</Paradigm>
+    <Paradigm pdgId="1127826" Lemma="што-не´будзь" Tag="SNF0">
         <Form Tag="XNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што-не´будзь</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957,A2008">чаго´-не´будзь</Form>
         <Form Tag="XDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чаму´-не´будзь</Form>
@@ -1801,15 +1755,15 @@
         <Form Tag="XIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чым-не´будзь</Form>
         <Form Tag="XLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чым-не´будзь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127828" Lemma="што-нішто´´" Tag="SAFX">
-        <Form Tag="XNS">што-нішто</Form>
+    <Paradigm pdgId="1127828" Lemma="што-нішто´" Tag="SNF0">
+        <Form Tag="XNS">што-нішто´</Form>
         <Form Tag="XGS">чаго´-нічаго´</Form>
         <Form Tag="XDS">чаму´-нічаму´</Form>
         <Form Tag="XAS">што-нішто´</Form>
         <Form Tag="XIS">чым-нічы´м</Form>
         <Form Tag="XLS">чым-нічы´м</Form>
     </Paradigm>
-    <Paradigm pdgId="1127829" Lemma="штось" Tag="SAFX">
+    <Paradigm pdgId="1127829" Lemma="штось" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штось</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">чаго´сь</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">чаму´сь</Form>
@@ -1817,7 +1771,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">чымсь</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">чымсь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127830" Lemma="што´сьці" Tag="SAFX">
+    <Paradigm pdgId="1127830" Lemma="што´сьці" Tag="SNF0">
         <Form Tag="XNS" Slouniki="sbm2012" pravapis="A2008">што´сьці</Form>
         <Form Tag="XGS" Slouniki="sbm2012" pravapis="A2008">чаго´сьці</Form>
         <Form Tag="XDS">чаму´сьці</Form>
@@ -1834,7 +1788,7 @@
         <Form Tag="XIS" Slouniki="prym2009" pravapis="A1957,A2008">мно´ю</Form>
         <Form Tag="XLS" Slouniki="prym2009" pravapis="A1957,A2008">мне</Form>
     </Paradigm>
-    <Paradigm pdgId="1145616" Lemma="яго´ны" Tag="SASX">
+    <Paradigm pdgId="1145616" Lemma="яго´ны" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яго´ны</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яго´нага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яго´наму</Form>
@@ -1846,7 +1800,6 @@
         <Form Tag="FGS">яго´най</Form>
         <Form Tag="FGS">яго´нае</Form>
         <Form Tag="FDS">яго´най</Form>
-        <Form Tag="FDS">яго´нае</Form>
         <Form Tag="FAS">яго´ную</Form>
         <Form Tag="FIS">яго´най</Form>
         <Form Tag="FIS">яго´наю</Form>
@@ -1865,7 +1818,7 @@
         <Form Tag="XIP">яго´нымі</Form>
         <Form Tag="XLP">яго´ных</Form>
     </Paradigm>
-    <Paradigm pdgId="1127858" Lemma="які´" Tag="SALX">
+    <Paradigm pdgId="1127858" Lemma="які´" Tag="SAL0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">які´</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´га</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´му</Form>
@@ -1895,7 +1848,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">які´мі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">які´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127860" Lemma="які´-не´будзь" Tag="SAFX">
+    <Paradigm pdgId="1127860" Lemma="які´-не´будзь" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">які-не´будзь</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´га-не´будзь</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´му-не´будзь</Form>
@@ -1924,7 +1877,7 @@
         <Form Tag="XIP">які´мі-не´будзь</Form>
         <Form Tag="XLP">які´х-не´будзь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127859" Lemma="які´-ніякі´" Tag="SAFX">
+    <Paradigm pdgId="1127859" Lemma="які´-ніякі´" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">які´-ніякі´</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">яко´га-ніяко´га</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´му-ніяко´му</Form>
@@ -1953,7 +1906,7 @@
         <Form Tag="XIP">які´мі-ніякі´мі</Form>
         <Form Tag="XLP">які´х-ніякі´х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127863" Lemma="які´сь" Tag="SAFX">
+    <Paradigm pdgId="1127863" Lemma="які´сь" Tag="SAF0">
         <Form Tag="MNS">які´сь</Form>
         <Form Tag="MGS">яко´гась</Form>
         <Form Tag="MDS">яко´мусь</Form>
@@ -1981,7 +1934,7 @@
         <Form Tag="XIP">які´місь</Form>
         <Form Tag="XLP">які´хсь</Form>
     </Paradigm>
-    <Paradigm pdgId="1127862" Lemma="які´сьці" Tag="SAFX">
+    <Paradigm pdgId="1127862" Lemma="які´сьці" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">які´сьці</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´гасьці</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яко´мусьці</Form>

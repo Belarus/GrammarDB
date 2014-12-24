@@ -294,7 +294,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957">гэ´тулькімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957">гэ´тулькіх</Form>
     </Paradigm>
-<Paradigm pdgId="1127810" Lemma="гэ´ты" Tag="SADX">
+    <Paradigm pdgId="1127810" Lemma="гэ´ты" Tag="SADX">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´ты</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´таму</Form>
@@ -303,7 +303,7 @@
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">гэ´тым</Form>
         <Form Tag="MLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тым</Form>
         <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957,A2008">гэ´та</Form>
-        <Form Tag="FNS" Slouniki="" Type="nonstandard">гэ´тая</Form>
+        <Form Tag="FNS" Type="nonstandard" Slouniki="">гэ´тая</Form>
         <Form Tag="FGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тай</Form>
         <Form Tag="FGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тае</Form>
         <Form Tag="FDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тай</Form>
@@ -313,11 +313,11 @@
         <Form Tag="FIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´таю</Form>
         <Form Tag="FLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тай</Form>
         <Form Tag="NNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´та</Form>
-        <Form Tag="NNS" Slouniki="" Type="nonstandard">гэ´тае</Form>
+        <Form Tag="NNS" Type="nonstandard" Slouniki="">гэ´тае</Form>
         <Form Tag="NGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´тага</Form>
         <Form Tag="NDS" Slouniki="sbm2012,sbm2012" pravapis="A1957,A2008">гэ´таму</Form>
         <Form Tag="NAS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ´та</Form>
-        <Form Tag="NAS" Slouniki="" Type="nonstandard">гэ´тае</Form>
+        <Form Tag="NAS" Type="nonstandard" Slouniki="">гэ´тае</Form>
         <Form Tag="NIS" Slouniki="sbm2012,sbm2012" pravapis="A1957,A2008">гэ´тым</Form>
         <Form Tag="NLS" Slouniki="sbm2012,sbm2012" pravapis="A1957,A2008">гэ´тым</Form>
         <Form Tag="XNP" Slouniki="prym2009" pravapis="A1957,A2008">гэ´тыя</Form>
@@ -610,7 +610,7 @@
         <Form Tag="XIP" Slouniki="prym2009" pravapis="A1957,A2008">ко´лькімі</Form>
         <Form Tag="XLP" Slouniki="prym2009" pravapis="A1957,A2008">ко´лькіх</Form>
     </Paradigm>
-        <Paradigm pdgId="1127866" Lemma="ко´лькі-не´будзь" Tag="SMF0">
+    <Paradigm pdgId="1127866" Lemma="ко´лькі-не´будзь" Tag="SMF0">
         <Form Tag="XNP">ко´лькі-не´будзь</Form>
         <Form Tag="XGP">ко´лькіх-не´будзь</Form>
         <Form Tag="XDP">ко´лькім-не´будзь</Form>
@@ -1327,7 +1327,7 @@
         <Form Tag="XGP">тваі´х</Form>
         <Form Tag="XDP">тваі´м</Form>
         <Form Tag="XAP">тваі´х</Form>
-		<Form Tag="XAP">твае´</Form>
+        <Form Tag="XAP">твае´</Form>
         <Form Tag="XIP">тваі´мі</Form>
         <Form Tag="XLP">тваі´х</Form>
     </Paradigm>
@@ -1733,20 +1733,20 @@
     </Paradigm>
     <Paradigm pdgId="1127621" Lemma="што-ко´лечы" Tag="SNF0">
         <Form Tag="XNS" Slouniki="sbm2012" pravapis="A2008">што-ко´лечы</Form>
-		<Form Tag="XGS" >чаго´-ко´лечы</Form>
-        <Form Tag="XDS" >чаму´-ко´лечы</Form>
-        <Form Tag="XAS" >што-ко´лечы</Form>
-        <Form Tag="XIS" >чым-ко´лечы</Form>
-        <Form Tag="XLS" >чым-ко´лечы</Form>
+        <Form Tag="XGS">чаго´-ко´лечы</Form>
+        <Form Tag="XDS">чаму´-ко´лечы</Form>
+        <Form Tag="XAS">што-ко´лечы</Form>
+        <Form Tag="XIS">чым-ко´лечы</Form>
+        <Form Tag="XLS">чым-ко´лечы</Form>
     </Paradigm>
     <Paradigm pdgId="1127620" Lemma="што-ко´львечы" Tag="SNF0">
-       <Form Tag="XNS" >што-ко´львечы</Form>
-		<Form Tag="XGS" >чаго´-ко´львечы</Form>
-        <Form Tag="XDS" >чаму´-ко´львечы</Form>
-        <Form Tag="XAS" >што-ко´львечы</Form>
-        <Form Tag="XIS" >чым-ко´львечы</Form>
-        <Form Tag="XLS" >чым-ко´львечы</Form>
-	</Paradigm>
+        <Form Tag="XNS">што-ко´львечы</Form>
+        <Form Tag="XGS">чаго´-ко´львечы</Form>
+        <Form Tag="XDS">чаму´-ко´львечы</Form>
+        <Form Tag="XAS">што-ко´львечы</Form>
+        <Form Tag="XIS">чым-ко´львечы</Form>
+        <Form Tag="XLS">чым-ко´львечы</Form>
+    </Paradigm>
     <Paradigm pdgId="1127826" Lemma="што-не´будзь" Tag="SNF0">
         <Form Tag="XNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што-не´будзь</Form>
         <Form Tag="XGS" Slouniki="prym2009" pravapis="A1957,A2008">чаго´-не´будзь</Form>

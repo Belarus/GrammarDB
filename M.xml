@@ -826,6 +826,26 @@
         <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957,A2008">дзевяціста´мі</Form>
         <Form Tag="PLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзевяціста´х</Form>
     </Paradigm>
+    <Paradigm pdgId="1127440" Lemma="дзеся´цера" Tag="MNKS">
+        <Form Tag="PNP" Slouniki="prym2009" pravapis="A1957">дзяся´цера</Form>
+        <Form Tag="PNP">дзеся´цера</Form>
+        <Form Tag="PGP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´х</Form>
+        <Form Tag="PDP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´м</Form>
+        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">дзяся´цера</Form>
+        <Form Tag="PAP">дзеся´цера</Form>
+        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´х</Form>
+        <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´мі</Form>
+        <Form Tag="PIP">дзесяцяры´ма</Form>
+        <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´х</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127441" Lemma="дзе´сяць" Tag="MNCS">
+        <Form Tag="PNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзе´сяць</Form>
+        <Form Tag="PGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяці´</Form>
+        <Form Tag="PDP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяці´</Form>
+        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957,A2008">дзе´сяць</Form>
+        <Form Tag="PIP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяццю´</Form>
+        <Form Tag="PLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяці´</Form>
+    </Paradigm>
     <Paradigm pdgId="1127439" Lemma="дзяся´ты" Tag="MAOS">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">дзяся´ты</Form>
         <Form Tag="MNS">дзеся´ты</Form>
@@ -879,26 +899,6 @@
         <Form Tag="PIP">дзеся´тымі</Form>
         <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">дзяся´тых</Form>
         <Form Tag="PLP">дзеся´тых</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127440" Lemma="дзеся´цера" Tag="MNKS">
-        <Form Tag="PNP" Slouniki="prym2009" pravapis="A1957">дзяся´цера</Form>
-        <Form Tag="PNP">дзеся´цера</Form>
-        <Form Tag="PGP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´х</Form>
-        <Form Tag="PDP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´м</Form>
-        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">дзяся´цера</Form>
-        <Form Tag="PAP">дзеся´цера</Form>
-        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´х</Form>
-        <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´мі</Form>
-        <Form Tag="PIP">дзесяцяры´ма</Form>
-        <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">дзесяцяры´х</Form>
-    </Paradigm>
-    <Paradigm pdgId="1127441" Lemma="дзе´сяць" Tag="MNCS">
-        <Form Tag="PNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзе´сяць</Form>
-        <Form Tag="PGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяці´</Form>
-        <Form Tag="PDP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяці´</Form>
-        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957,A2008">дзе´сяць</Form>
-        <Form Tag="PIP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяццю´</Form>
-        <Form Tag="PLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзесяці´</Form>
     </Paradigm>
     <Paradigm pdgId="1127442" Lemma="другі´" Tag="MAOS">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">другі´</Form>
@@ -1116,6 +1116,9 @@
         <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957,A2008">паўтара´ста</Form>
         <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957,A2008">паўтара´ста</Form>
         <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957,A2008">паўтара´ста</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="паўтраця´" Tag="MXCS">
+        <Form Tag="XXX" Slouniki="sbm2012" pravapis="A2008">паўтраця´</Form>
     </Paradigm>
     <Paradigm pdgId="1127967" Lemma="паўты´сячы" Tag="MNCS">
         <Form Tag="FNS" Slouniki="sbm2012" pravapis="A2008">паўты´сячы</Form>
@@ -1436,60 +1439,6 @@
         <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957">сямюдзесяццю</Form>
         <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">сямідзесяці</Form>
     </Paradigm>
-    <Paradigm pdgId="1127466" Lemma="сямна´ццаты" Tag="MAOS">
-        <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">сямна´ццаты</Form>
-        <Form Tag="MNS">семна´ццаты</Form>
-        <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">сямна´ццатага</Form>
-        <Form Tag="MGS">семна´ццатага</Form>
-        <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">сямна´ццатаму</Form>
-        <Form Tag="MDS">семна´ццатаму</Form>
-        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">сямна´ццатага</Form>
-        <Form Tag="MAS">семна´ццатага</Form>
-        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">сямна´ццаты</Form>
-        <Form Tag="MAS">семна´ццаты</Form>
-        <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
-        <Form Tag="MIS">семна´ццатым</Form>
-        <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
-        <Form Tag="MLS">семна´ццатым</Form>
-        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957">сямна´ццатая</Form>
-        <Form Tag="FNS">семна´ццатая</Form>
-        <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
-        <Form Tag="FGS">семна´ццатай</Form>
-        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
-        <Form Tag="FDS">семна´ццатай</Form>
-        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957">сямна´ццатую</Form>
-        <Form Tag="FAS">семна´ццатую</Form>
-        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
-        <Form Tag="FIS">семна´ццатай</Form>
-        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
-        <Form Tag="FLS">семна´ццатай</Form>
-        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957">сямна´ццатае</Form>
-        <Form Tag="NNS">семна´ццатае</Form>
-        <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957">сямна´ццатага</Form>
-        <Form Tag="NGS">семна´ццатага</Form>
-        <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957">сямна´ццатаму</Form>
-        <Form Tag="NDS">семна´ццатаму</Form>
-        <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957">сямна´ццатае</Form>
-        <Form Tag="NAS">семна´ццатае</Form>
-        <Form Tag="NIS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
-        <Form Tag="NIS">семна´ццатым</Form>
-        <Form Tag="NLS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
-        <Form Tag="NLS">семна´ццатым</Form>
-        <Form Tag="PNP" Slouniki="prym2009" pravapis="A1957">сямна´ццатыя</Form>
-        <Form Tag="PNP">семна´ццатыя</Form>
-        <Form Tag="PGP" Slouniki="prym2009" pravapis="A1957">сямна´ццатых</Form>
-        <Form Tag="PGP">семна´ццатых</Form>
-        <Form Tag="PDP" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
-        <Form Tag="PDP">семна´ццатым</Form>
-        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">сямна´ццатых</Form>
-        <Form Tag="PAP">семна´ццатых</Form>
-        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">сямна´ццатыя</Form>
-        <Form Tag="PAP">семна´ццатыя</Form>
-        <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957">сямна´ццатымі</Form>
-        <Form Tag="PIP">семна´ццатымі</Form>
-        <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">сямна´ццатых</Form>
-        <Form Tag="PLP">семна´ццатых</Form>
-    </Paradigm>
     <Paradigm pdgId="1127468" Lemma="семсо´т" Tag="MNCC">
         <Form Tag="PNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">семсо´т</Form>
         <Form Tag="PGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сямісо´т</Form>
@@ -1772,6 +1721,60 @@
         <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">сяміты´сячныя</Form>
         <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957">сяміты´сячнымі</Form>
         <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">сяміты´сячных</Form>
+    </Paradigm>
+    <Paradigm pdgId="1127466" Lemma="сямна´ццаты" Tag="MAOS">
+        <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">сямна´ццаты</Form>
+        <Form Tag="MNS">семна´ццаты</Form>
+        <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957">сямна´ццатага</Form>
+        <Form Tag="MGS">семна´ццатага</Form>
+        <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957">сямна´ццатаму</Form>
+        <Form Tag="MDS">семна´ццатаму</Form>
+        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">сямна´ццатага</Form>
+        <Form Tag="MAS">семна´ццатага</Form>
+        <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957">сямна´ццаты</Form>
+        <Form Tag="MAS">семна´ццаты</Form>
+        <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
+        <Form Tag="MIS">семна´ццатым</Form>
+        <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
+        <Form Tag="MLS">семна´ццатым</Form>
+        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957">сямна´ццатая</Form>
+        <Form Tag="FNS">семна´ццатая</Form>
+        <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
+        <Form Tag="FGS">семна´ццатай</Form>
+        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
+        <Form Tag="FDS">семна´ццатай</Form>
+        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957">сямна´ццатую</Form>
+        <Form Tag="FAS">семна´ццатую</Form>
+        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
+        <Form Tag="FIS">семна´ццатай</Form>
+        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957">сямна´ццатай</Form>
+        <Form Tag="FLS">семна´ццатай</Form>
+        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957">сямна´ццатае</Form>
+        <Form Tag="NNS">семна´ццатае</Form>
+        <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957">сямна´ццатага</Form>
+        <Form Tag="NGS">семна´ццатага</Form>
+        <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957">сямна´ццатаму</Form>
+        <Form Tag="NDS">семна´ццатаму</Form>
+        <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957">сямна´ццатае</Form>
+        <Form Tag="NAS">семна´ццатае</Form>
+        <Form Tag="NIS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
+        <Form Tag="NIS">семна´ццатым</Form>
+        <Form Tag="NLS" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
+        <Form Tag="NLS">семна´ццатым</Form>
+        <Form Tag="PNP" Slouniki="prym2009" pravapis="A1957">сямна´ццатыя</Form>
+        <Form Tag="PNP">семна´ццатыя</Form>
+        <Form Tag="PGP" Slouniki="prym2009" pravapis="A1957">сямна´ццатых</Form>
+        <Form Tag="PGP">семна´ццатых</Form>
+        <Form Tag="PDP" Slouniki="prym2009" pravapis="A1957">сямна´ццатым</Form>
+        <Form Tag="PDP">семна´ццатым</Form>
+        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">сямна´ццатых</Form>
+        <Form Tag="PAP">семна´ццатых</Form>
+        <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">сямна´ццатыя</Form>
+        <Form Tag="PAP">семна´ццатыя</Form>
+        <Form Tag="PIP" Slouniki="prym2009" pravapis="A1957">сямна´ццатымі</Form>
+        <Form Tag="PIP">семна´ццатымі</Form>
+        <Form Tag="PLP" Slouniki="prym2009" pravapis="A1957">сямна´ццатых</Form>
+        <Form Tag="PLP">семна´ццатых</Form>
     </Paradigm>
     <Paradigm pdgId="1127467" Lemma="сямна´ццаць" Tag="MNCS">
         <Form Tag="PNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сямна´ццаць</Form>

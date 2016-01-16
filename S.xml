@@ -113,6 +113,44 @@
         <Form Tag="PIP">адны´мі</Form>
         <Form Tag="PLP">адны´х</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="аніво´дзін" Tag="SANX">
+        <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">аніво´дзін</Form>
+        <Form Tag="MGS" pravapis="A2008">аніво´днага</Form>
+        <Form Tag="MDS" pravapis="A2008">аніво´днаму</Form>
+        <Form Tag="MAS" pravapis="A2008">аніво´дзін</Form>
+        <Form Tag="MAS" pravapis="A2008">аніво´днага</Form>
+        <Form Tag="MIS" pravapis="A2008">аніво´дным</Form>
+        <Form Tag="MLS" pravapis="A2008">аніво´дным</Form>
+        <Form Tag="FNS" pravapis="A2008">аніво´дная</Form>
+        <Form Tag="FGS" pravapis="A2008">аніво´днай</Form>
+        <Form Tag="FGS" pravapis="A2008">аніво´днае</Form>
+        <Form Tag="FDS" pravapis="A2008">аніво´днай</Form>
+        <Form Tag="FAS" pravapis="A2008">аніво´дную</Form>
+        <Form Tag="FIS" pravapis="A2008">аніво´днай</Form>
+        <Form Tag="FLS" pravapis="A2008">аніво´днай</Form>
+        <Form Tag="NNS" pravapis="A2008">аніво´днае</Form>
+        <Form Tag="NGS" pravapis="A2008">аніво´днага</Form>
+        <Form Tag="NDS" pravapis="A2008">аніво´днаму</Form>
+        <Form Tag="NAS" pravapis="A2008">аніво´днае</Form>
+        <Form Tag="NIS" pravapis="A2008">аніво´дным</Form>
+        <Form Tag="NLS" pravapis="A2008">аніво´дным</Form>
+        <Form Tag="XNP" pravapis="A2008">аніво´дныя</Form>
+        <Form Tag="XGP" pravapis="A2008">аніво´дных</Form>
+        <Form Tag="XDP" pravapis="A2008">аніво´дным</Form>
+        <Form Tag="XAP" pravapis="A2008">аніво´дныя</Form>
+        <Form Tag="XAP" pravapis="A2008">аніво´дных</Form>
+        <Form Tag="XIP" pravapis="A2008">аніво´днымі</Form>
+        <Form Tag="XLP" pravapis="A2008">аніво´дных</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="аніхто´" Tag="SNNX">
+        <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">аніхто´</Form>
+        <Form Tag="MGS" pravapis="A2008">аніко´га</Form>
+        <Form Tag="MDS" pravapis="A2008">аніко´му</Form>
+        <Form Tag="MAS" pravapis="A2008">аніко´га</Form>
+        <Form Tag="MIS" pravapis="A2008">анікі´м</Form>
+        <Form Tag="MLS" pravapis="A2008">анікі´м</Form>
+        <Form Tag="MLS" pravapis="A2008">ані аб кі´м</Form>
+    </Paradigm>
     <Paradigm pdgId="1138967" Lemma="анішто´" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">анішто´</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">анічо´га</Form>
@@ -985,6 +1023,9 @@
         <Form Tag="PAP">ніво´дныя</Form>
         <Form Tag="PIP">ніво´днымі</Form>
         <Form Tag="PLP">ніво´дных</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="нікагу´сенькі" Tag="SNN0">
+        <Form Tag="XXX" Slouniki="sbm2012" pravapis="A2008">нікагу´сенькі</Form>
     </Paradigm>
     <Paradigm pdgId="1127831" Lemma="ніхто´" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ніхто´</Form>

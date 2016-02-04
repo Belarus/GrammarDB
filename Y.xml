@@ -48,6 +48,9 @@
     <Paradigm pdgId="0" Lemma="бабу´х" Tag="Y">
         <Form Tag="" pravapis="A2008">бабу´х</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="баба´х" Tag="Y">
+        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="A2008">баба´х</Form>
+    </Paradigm>
     <Paradigm pdgId="1126836" Lemma="барані бог" Tag="Y">
         <Form Tag="">барані бог</Form>
     </Paradigm>
@@ -309,14 +312,26 @@
     <Paradigm pdgId="0" Lemma="лясь" Tag="Y">
         <Form Tag="" pravapis="A2008">лясь</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="ма´мачкі" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">ма´мачкі</Form>
+    </Paradigm>
     <Paradigm pdgId="1126868" Lemma="марш" Tag="Y">
         <Form Tag="">марш</Form>
     </Paradigm>
     <Paradigm pdgId="1126869" Lemma="матухны" Tag="Y">
         <Form Tag="">матухны</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="мац" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">мац</Form>
+    </Paradigm>
     <Paradigm pdgId="0" Lemma="мірг" Tag="Y">
         <Form Tag="" pravapis="A2008">мірг</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="му" Tag="Y">
+        <Form Tag="" Slouniki="tsbm2016" pravapis="2008">му</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="мяў" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">мяў</Form>
     </Paradigm>
     <Paradigm pdgId="1126870" Lemma="на табе" Tag="Y">
         <Form Tag="">на табе</Form>
@@ -387,6 +402,9 @@
     </Paradigm>
     <Paradigm pdgId="1126887" Lemma="стоп" Tag="Y">
         <Form Tag="">стоп</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="стой" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957, A2008">стой</Form>
     </Paradigm>
     <Paradigm pdgId="1140016" Lemma="та-та" Tag="Y">
         <Form Tag="">та-та</Form>
@@ -466,6 +484,9 @@
     <Paradigm pdgId="0" Lemma="хі-хі-хі" Tag="Y">
         <Form Tag="" pravapis="A2008">хі-хі-хі</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="хны" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">хны</Form>
+    </Paradigm>
     <Paradigm pdgId="1140031" Lemma="хоп" Tag="Y">
         <Form Tag="">хоп</Form>
     </Paradigm>
@@ -498,6 +519,9 @@
     </Paradigm>
     <Paradigm pdgId="0" Lemma="цяп-ля´п" Tag="Y">
         <Form Tag="" pravapis="A2008">цяп-ля´п</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="цяў" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">цяў</Form>
     </Paradigm>
     <Paradigm pdgId="1140037" Lemma="чых" Tag="Y">
         <Form Tag="">чых</Form>

@@ -57,6 +57,15 @@
     <Paradigm pdgId="1000023" Lemma="бы" Tag="E">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">бы</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="было´" Tag="E">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">быў</Form>
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">была´</Form>
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">было´</Form>
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">былі´</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="быва´ла" Tag="E">
+        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="A2008">быва´ла</Form>
+    </Paradigm>
     <Paradigm pdgId="1000024" Lemma="быццам" Tag="E">
         <Form Tag="">быццам</Form>
     </Paradigm>
@@ -98,6 +107,9 @@
     </Paradigm>
     <Paradigm pdgId="1000035" Lemma="дай" Tag="E">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">дай</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="дапу´сцім" Tag="E">
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="дапу´сцім">дай</Form>
     </Paradigm>
     <Paradigm pdgId="1127952" Lemma="дарма" Tag="E">
         <Form Tag="">дарма</Form>

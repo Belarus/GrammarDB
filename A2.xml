@@ -936,34 +936,6 @@
         <Form Tag="PIP" pravapis="A2008">алігацэ´навымі</Form>
         <Form Tag="PLP" pravapis="A2008">алігацэ´навых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="алітарацы´йны" Tag="ARP">
-        <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">алітарацы´йны</Form>
-        <Form Tag="MGS" pravapis="A2008">алітарацы´йнага</Form>
-        <Form Tag="MDS" pravapis="A2008">алітарацы´йнаму</Form>
-        <Form Tag="MAS" pravapis="A2008">алітарацы´йны</Form>
-        <Form Tag="MIS" pravapis="A2008">алітарацы´йным</Form>
-        <Form Tag="MLS" pravapis="A2008">алітарацы´йным</Form>
-        <Form Tag="NNS" pravapis="A2008">алітарацы´йнае</Form>
-        <Form Tag="NGS" pravapis="A2008">алітарацы´йнага</Form>
-        <Form Tag="NDS" pravapis="A2008">алітарацы´йнаму</Form>
-        <Form Tag="NAS" pravapis="A2008">алітарацы´йнае</Form>
-        <Form Tag="NIS" pravapis="A2008">алітарацы´йным</Form>
-        <Form Tag="NLS" pravapis="A2008">алітарацы´йным</Form>
-        <Form Tag="FNS" pravapis="A2008">алітарацы´йная</Form>
-        <Form Tag="FGS" pravapis="A2008">алітарацы´йнай</Form>
-        <Form Tag="FGS" pravapis="A2008">алітарацы´йнае</Form>
-        <Form Tag="FDS" pravapis="A2008">алітарацы´йнай</Form>
-        <Form Tag="FAS" pravapis="A2008">алітарацы´йную</Form>
-        <Form Tag="FIS" pravapis="A2008">алітарацы´йнай</Form>
-        <Form Tag="FIS" pravapis="A2008">алітарацы´йнаю</Form>
-        <Form Tag="FLS" pravapis="A2008">алітарацы´йнай</Form>
-        <Form Tag="PNP" pravapis="A2008">алітарацы´йныя</Form>
-        <Form Tag="PGP" pravapis="A2008">алітарацы´йных</Form>
-        <Form Tag="PDP" pravapis="A2008">алітарацы´йным</Form>
-        <Form Tag="PAP" pravapis="A2008">алітарацы´йныя</Form>
-        <Form Tag="PIP" pravapis="A2008">алітарацы´йнымі</Form>
-        <Form Tag="PLP" pravapis="A2008">алітарацы´йных</Form>
-    </Paradigm>
     <Paradigm pdgId="0" Lemma="альбіго´йскі" Tag="AXP">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">альбіго´йскі</Form>
         <Form Tag="MGS" pravapis="A2008">альбіго´йскага</Form>
@@ -16671,32 +16643,61 @@
     </Paradigm>
     <Paradigm pdgId="0" Lemma="нарка´маўскі" Tag="AXP">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">нарка´маўскі</Form>
+        <Form Tag="MNS" Slouniki="tsbm1984" pravapis="A1957">нарко´маўскі</Form>
         <Form Tag="MGS" pravapis="A2008">нарка´маўскага</Form>
+        <Form Tag="MGS" pravapis="A1957">нарко´маўскага</Form>
         <Form Tag="MDS" pravapis="A2008">нарка´маўскаму</Form>
-        <Form Tag="MAS" pravapis="A2008">нарка´маўскі</Form>
+        <Form Tag="MDS" pravapis="A1957">нарко´маўскаму</Form>
         <Form Tag="MAS" pravapis="A2008">нарка´маўскага</Form>
+        <Form Tag="MAS" pravapis="A1957">нарко´маўскага</Form>
+        <Form Tag="MAS" pravapis="A2008">нарка´маўскі</Form>
+        <Form Tag="MAS" pravapis="A1957">нарко´маўскі</Form>
         <Form Tag="MIS" pravapis="A2008">нарка´маўскім</Form>
+        <Form Tag="MIS" pravapis="A1957">нарко´маўскім</Form>
         <Form Tag="MLS" pravapis="A2008">нарка´маўскім</Form>
+        <Form Tag="MLS" pravapis="A1957">нарко´маўскім</Form>
         <Form Tag="NNS" pravapis="A2008">нарка´маўскае</Form>
+        <Form Tag="NNS" pravapis="A1957">нарко´маўскае</Form>
         <Form Tag="NGS" pravapis="A2008">нарка´маўскага</Form>
+        <Form Tag="NGS" pravapis="A1957">нарко´маўскага</Form>
         <Form Tag="NDS" pravapis="A2008">нарка´маўскаму</Form>
+        <Form Tag="NDS" pravapis="A1957">нарко´маўскаму</Form>
         <Form Tag="NAS" pravapis="A2008">нарка´маўскае</Form>
+        <Form Tag="NAS" pravapis="A1957">нарко´маўскае</Form>
         <Form Tag="NIS" pravapis="A2008">нарка´маўскім</Form>
+        <Form Tag="NIS" pravapis="A1957">нарко´маўскім</Form>
         <Form Tag="NLS" pravapis="A2008">нарка´маўскім</Form>
+        <Form Tag="NLS" pravapis="A1957">нарко´маўскім</Form>
         <Form Tag="FNS" pravapis="A2008">нарка´маўская</Form>
+        <Form Tag="FNS" pravapis="A1957">нарко´маўская</Form>
         <Form Tag="FGS" pravapis="A2008">нарка´маўскай</Form>
+        <Form Tag="FGS" pravapis="A1957">нарко´маўскай</Form>
         <Form Tag="FGS" pravapis="A2008">нарка´маўскае</Form>
+        <Form Tag="FGS" pravapis="A1957">нарко´маўскае</Form>
         <Form Tag="FDS" pravapis="A2008">нарка´маўскай</Form>
+        <Form Tag="FDS" pravapis="A1957">нарко´маўскай</Form>
         <Form Tag="FAS" pravapis="A2008">нарка´маўскую</Form>
+        <Form Tag="FAS" pravapis="A1957">нарко´маўскую</Form>
         <Form Tag="FIS" pravapis="A2008">нарка´маўскай</Form>
+        <Form Tag="FIS" pravapis="A1957">нарко´маўскай</Form>
         <Form Tag="FIS" pravapis="A2008">нарка´маўскаю</Form>
+        <Form Tag="FIS" pravapis="A1957">нарко´маўскаю</Form>
         <Form Tag="FLS" pravapis="A2008">нарка´маўскай</Form>
+        <Form Tag="FLS" pravapis="A1957">нарко´маўскай</Form>
         <Form Tag="PNP" pravapis="A2008">нарка´маўскія</Form>
+        <Form Tag="PNP" pravapis="A1957">нарко´маўскія</Form>
         <Form Tag="PGP" pravapis="A2008">нарка´маўскіх</Form>
+        <Form Tag="PGP" pravapis="A1957">нарко´маўскіх</Form>
         <Form Tag="PDP" pravapis="A2008">нарка´маўскім</Form>
+        <Form Tag="PDP" pravapis="A1957">нарко´маўскім</Form>
+        <Form Tag="PAP" pravapis="A2008">нарка´маўскіх</Form>
+        <Form Tag="PAP" pravapis="A1957">нарко´маўскіх</Form>
         <Form Tag="PAP" pravapis="A2008">нарка´маўскія</Form>
+        <Form Tag="PAP" pravapis="A1957">нарко´маўскія</Form>
         <Form Tag="PIP" pravapis="A2008">нарка´маўскімі</Form>
+        <Form Tag="PIP" pravapis="A1957">нарко´маўскімі</Form>
         <Form Tag="PLP" pravapis="A2008">нарка´маўскіх</Form>
+        <Form Tag="PLP" pravapis="A1957">нарко´маўскіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="насагло´ткавы" Tag="AXP">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">насагло´ткавы</Form>

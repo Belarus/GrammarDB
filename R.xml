@@ -5507,7 +5507,7 @@
         <Form Tag="P">вытлумачальна</Form>
     </Paradigm>
     <Paradigm pdgId="1008632" Lemma="вы´трымана" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957">вы´трымана</Form>
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A1957,A2008">вы´трымана</Form>
     </Paradigm>
     <Paradigm pdgId="1139103" Lemma="выхва´льна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">выхва´льна</Form>
@@ -6014,7 +6014,7 @@
     </Paradigm>
     <Paradigm pdgId="1104389" Lemma="гу´чна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">гу´чна</Form>
-        <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957">гучне´й</Form>
+        <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">гучне´й</Form>
         <Form Tag="S">найгучней</Form>
     </Paradigm>
     <Paradigm pdgId="1104390" Lemma="гэ´так" Tag="RX">
@@ -21844,8 +21844,8 @@
     </Paradigm>
     <Paradigm pdgId="1192664" Lemma="па-чарке´ску" Tag="RX">
         <Form Tag="P" Slouniki="prym2009" pravapis="A2008">па-чарке´ску</Form>
-         <Form Tag="P" Slouniki="prym2009" pravapis="A1957">па-чэрке´ску</Form>
-   </Paradigm>
+        <Form Tag="P" Slouniki="prym2009" pravapis="A1957">па-чэрке´ску</Form>
+    </Paradigm>
     <Paradigm pdgId="0" Lemma="па-чарнавіцку" Tag="RA" Govern="">
         <Form Tag="P">па-чарнавіцку</Form>
     </Paradigm>

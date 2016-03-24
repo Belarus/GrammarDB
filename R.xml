@@ -34,7 +34,6 @@
     </Paradigm>
     <Paradigm pdgId="1045235" Lemma="абараназдо´льна" Tag="RA" Govern="">
         <Form Tag="P">абараназдо´льна</Form>
-        <Form Tag="P">абаро´наздо´льна</Form>
     </Paradigm>
     <Paradigm pdgId="1139028" Lemma="абара´нкам" Tag="RN">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">абара´нкам</Form>
@@ -101,7 +100,7 @@
         <Form Tag="P">абмя´кла</Form>
     </Paradigm>
     <Paradigm pdgId="1045718" Lemma="абнадзе´ена" Tag="RA" Govern="">
-        <Form Tag="P">абнадз´еена</Form>
+        <Form Tag="P">абнадзе´ена</Form>
     </Paradigm>
     <Paradigm pdgId="1045721" Lemma="абнадзе´йліва" Tag="RA" Govern="">
         <Form Tag="P">абнадзе´йліва</Form>
@@ -332,11 +331,13 @@
     </Paradigm>
     <Paradigm pdgId="1046478" Lemma="ад'екты´ўна" Tag="RA" Govern="">
         <Form Tag="P">ад'екты´ўна</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="па-ад'екты´ўнаму" Tag="RX" Govern="">
         <Form Tag="P">па-ад'екты´ўнаму</Form>
     </Paradigm>
     <Paradigm pdgId="1192225" Lemma="ада´жыа" Tag="RX">
         <Form Tag="P" Slouniki="prym2009, sbm2012" pravapis="A2008">ада´жыа</Form>
-        <Form Tag="P" Slouniki="" pravapis="A1957">ада´жыо´</Form>
+        <Form Tag="P" Slouniki="" pravapis="A1957">ада´жыо</Form>
     </Paradigm>
     <Paradigm pdgId="1046522" Lemma="адаптацы´йна" Tag="RA" Govern="">
         <Form Tag="P">адаптацы´йна</Form>
@@ -791,8 +792,8 @@
     <Paradigm pdgId="1047646" Lemma="азнаямля´льна" Tag="RA" Govern="">
         <Form Tag="P">азнаямля´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1047658" Lemma="азо´наразбура´льна" Tag="RA" Govern="">
-        <Form Tag="P">азо´наразбура´льна</Form>
+    <Paradigm pdgId="1047658" Lemma="азонаразбура´льна" Tag="RA" Govern="">
+        <Form Tag="P">азонаразбура´льна</Form>
     </Paradigm>
     <Paradigm pdgId="1047664" Lemma="азо´рана" Tag="RA" Govern="">
         <Form Tag="P">азо´рана</Form>
@@ -1751,8 +1752,8 @@
     <Paradigm pdgId="1049630" Lemma="аргаты´чна" Tag="RA" Govern="">
         <Form Tag="P">аргаты´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1049645" Lemma="арго´накісларо´дна" Tag="RA" Govern="">
-        <Form Tag="P">арго´накісларо´дна</Form>
+    <Paradigm pdgId="1049645" Lemma="аргонакісларо´дна" Tag="RA" Govern="">
+        <Form Tag="P">аргонакісларо´дна</Form>
     </Paradigm>
     <Paradigm pdgId="1049648" Lemma="арго´нна" Tag="RA" Govern="">
         <Form Tag="P">арго´нна</Form>
@@ -1796,7 +1797,7 @@
     </Paradigm>
     <Paradigm pdgId="1192245" Lemma="арпе´джыа" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A2008">арпе´джыа</Form>
-        <Form Tag="P" Slouniki="" pravapis="A1957">арпе´джыо´</Form>
+        <Form Tag="P" Slouniki="" pravapis="A1957">арпе´джыо</Form>
     </Paradigm>
     <Paradigm pdgId="1049724" Lemma="арсена´льна" Tag="RA" Govern="">
         <Form Tag="P">арсена´льна</Form>
@@ -3165,9 +3166,6 @@
     <Paradigm pdgId="1192264" Lemma="безува´жліва" Tag="RA">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">безува´жліва</Form>
     </Paradigm>
-    <Paradigm pdgId="1052120" Lemma="безува´жліва" Tag="RA" Govern="">
-        <Form Tag="P">безува´жліва</Form>
-    </Paradigm>
     <Paradigm pdgId="1052123" Lemma="безува´жна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">безува´жна</Form>
         <Form Tag="C">безуважней</Form>
@@ -3836,36 +3834,36 @@
         <Form Tag="P">блякла</Form>
         <Form Tag="C">бляклей</Form>
     </Paradigm>
-    <Paradigm pdgId="1052902" Lemma="бо´бападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">бо´бападо´бна</Form>
+    <Paradigm pdgId="1052902" Lemma="бобападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">бобападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1192259" Lemma="бо´брыкам" Tag="RN">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">бо´брыкам</Form>
     </Paradigm>
-    <Paradigm pdgId="1052911" Lemma="бо´габаязна" Tag="RA" Govern="">
-        <Form Tag="P">бо´габаязна</Form>
+    <Paradigm pdgId="1052911" Lemma="богабая´зна" Tag="RA" Govern="">
+        <Form Tag="P">богабая´зна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052915" Lemma="бо´гавыратава´льна" Tag="RA" Govern="">
-        <Form Tag="P">бо´гавыратава´льна</Form>
+    <Paradigm pdgId="1052915" Lemma="богавыратава´льна" Tag="RA" Govern="">
+        <Form Tag="P">богавыратава´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052918" Lemma="бо´гадаго´дна" Tag="RA" Govern="">
-        <Form Tag="P">бо´гадаго´дна</Form>
+    <Paradigm pdgId="1052918" Lemma="богадаго´дна" Tag="RA" Govern="">
+        <Form Tag="P">богадаго´дна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052921" Lemma="бо´газневажа´льна" Tag="RA" Govern="">
-        <Form Tag="P">бо´газневажа´льна</Form>
+    <Paradigm pdgId="1052921" Lemma="богазневажа´льна" Tag="RA" Govern="">
+        <Form Tag="P">богазневажа´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052924" Lemma="бо´ганенавісна" Tag="RA" Govern="">
-        <Form Tag="P">бо´ганенавісна</Form>
-        <Form Tag="C">бо´ганенавісней</Form>
+    <Paradigm pdgId="1052924" Lemma="боганенавісна" Tag="RA" Govern="">
+        <Form Tag="P">боганенавісна</Form>
+        <Form Tag="C">боганенавісней</Form>
     </Paradigm>
-    <Paradigm pdgId="1052927" Lemma="бо´гападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">бо´гападо´бна</Form>
+    <Paradigm pdgId="1052927" Lemma="богападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">богападо´бна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052930" Lemma="бо´гаслужбо´ва" Tag="RA" Govern="">
-        <Form Tag="P">бо´гаслужбо´ва</Form>
+    <Paradigm pdgId="1052930" Lemma="богаслужбо´ва" Tag="RA" Govern="">
+        <Form Tag="P">богаслужбо´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1052933" Lemma="бо´гасцеражо´на" Tag="RA" Govern="">
-        <Form Tag="P">бо´гасцеражо´на</Form>
+    <Paradigm pdgId="1052933" Lemma="богасцеражо´на" Tag="RA" Govern="">
+        <Form Tag="P">богасцеражо´на</Form>
     </Paradigm>
     <Paradigm pdgId="1052940" Lemma="бо´йка" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">бо´йка</Form>
@@ -3874,8 +3872,8 @@
     <Paradigm pdgId="1139076" Lemma="бо´кам" Tag="RN">
         <Form Tag="P">бо´кам</Form>
     </Paradigm>
-    <Paradigm pdgId="1052944" Lemma="бо´лесуціша´льна" Tag="RA" Govern="">
-        <Form Tag="P">бо´лесуціша´льна</Form>
+    <Paradigm pdgId="1052944" Lemma="болесуціша´льна" Tag="RA" Govern="">
+        <Form Tag="P">болесуціша´льна</Form>
     </Paradigm>
     <Paradigm pdgId="1104369" Lemma="бо´льш-менш" Tag="RX">
         <Form Tag="P">бо´льш-менш</Form>
@@ -3883,8 +3881,8 @@
     <Paradigm pdgId="1052951" Lemma="бо´нусна" Tag="RA" Govern="">
         <Form Tag="P">бо´нусна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052954" Lemma="бо´раргані´чна" Tag="RA" Govern="">
-        <Form Tag="P">бо´раргані´чна</Form>
+    <Paradigm pdgId="1052954" Lemma="бораргані´чна" Tag="RA" Govern="">
+        <Form Tag="P">бораргані´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1052960" Lemma="бо´рза" Tag="RA" Govern="">
         <Form Tag="P">бо´рза</Form>
@@ -3899,8 +3897,8 @@
     <Paradigm pdgId="1052969" Lemma="бо´рнакісла" Tag="RA" Govern="">
         <Form Tag="P">бо´рнакісла</Form>
     </Paradigm>
-    <Paradigm pdgId="1052972" Lemma="бо´ртазагіна´льна" Tag="RA" Govern="">
-        <Form Tag="P">бо´ртазагіна´льна</Form>
+    <Paradigm pdgId="1052972" Lemma="бортазагіна´льна" Tag="RA" Govern="">
+        <Form Tag="P">бортазагіна´льна</Form>
     </Paradigm>
     <Paradigm pdgId="1052975" Lemma="бо´рыста" Tag="RA" Govern="">
         <Form Tag="P">бо´рыста</Form>
@@ -3908,8 +3906,8 @@
     <Paradigm pdgId="1052978" Lemma="бо´са" Tag="RA" Govern="">
         <Form Tag="P">бо´са</Form>
     </Paradigm>
-    <Paradigm pdgId="1052996" Lemma="бо´чкападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">бо´чкападо´бна</Form>
+    <Paradigm pdgId="1052996" Lemma="бочкападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">бочкападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1104370" Lemma="бо´язна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">бо´язна</Form>
@@ -3963,11 +3961,11 @@
     <Paradigm pdgId="1053098" Lemma="бро´йлерна" Tag="RA" Govern="">
         <Form Tag="P">бро´йлерна</Form>
     </Paradigm>
-    <Paradigm pdgId="1053114" Lemma="бро´мвытво´рна" Tag="RA" Govern="">
-        <Form Tag="P">бро´мвытво´рна</Form>
+    <Paradigm pdgId="1053114" Lemma="бромвытво´рна" Tag="RA" Govern="">
+        <Form Tag="P">бромвытво´рна</Form>
     </Paradigm>
-    <Paradigm pdgId="1053110" Lemma="бро´містакісла" Tag="RA" Govern="">
-        <Form Tag="P">бро´містакісла</Form>
+    <Paradigm pdgId="1053110" Lemma="бромістакісла" Tag="RA" Govern="">
+        <Form Tag="P">бромістакісла</Form>
     </Paradigm>
     <Paradigm pdgId="1053117" Lemma="бро´нзава" Tag="RA" Govern="">
         <Form Tag="P">бро´нзава</Form>
@@ -4789,9 +4787,9 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">велікаду´шна</Form>
         <Form Tag="C">велікадушней</Form>
     </Paradigm>
-    <Paradigm pdgId="1054980" Lemma="ве´лі´чна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ве´лі´чна</Form>
-        <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">ве´лі´чней</Form>
+    <Paradigm pdgId="1054980" Lemma="ве´лічна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ве´лічна</Form>
+        <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">ве´лічней</Form>
     </Paradigm>
     <Paradigm pdgId="1054983" Lemma="велічэзна" Tag="RA" Govern="">
         <Form Tag="P">велічэзна</Form>
@@ -5073,8 +5071,8 @@
     <Paradigm pdgId="1139089" Lemma="во´бземлю" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">во´бземлю</Form>
     </Paradigm>
-    <Paradigm pdgId="1055239" Lemma="во´блакападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">во´блакападо´бна</Form>
+    <Paradigm pdgId="1055239" Lemma="воблакападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">воблакападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1139090" Lemma="во´блачна" Tag="RA">
         <Form Tag="P">во´блачна</Form>
@@ -5102,17 +5100,17 @@
     <Paradigm pdgId="1055254" Lemma="вогненебяспе´чна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">вогненебяспе´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1055257" Lemma="во´гнетрывала" Tag="RA" Govern="">
-        <Form Tag="P">во´гнетрывала</Form>
+    <Paradigm pdgId="1055257" Lemma="вогнетрывала" Tag="RA" Govern="">
+        <Form Tag="P">вогнетрывала</Form>
     </Paradigm>
     <Paradigm pdgId="1055248" Lemma="вогнеўсто´йліва" Tag="RA" Govern="">
         <Form Tag="P">вогнеўсто´йліва</Form>
     </Paradigm>
     <Paradigm pdgId="1055288" Lemma="воданепраніка´льна" Tag="RA" Govern="">
-        <Form Tag="P">во´данепраніка´льна</Form>
+        <Form Tag="P">воданепраніка´льна</Form>
     </Paradigm>
     <Paradigm pdgId="1055294" Lemma="водапраніка´льна" Tag="RA" Govern="">
-        <Form Tag="P">во´дапраніка´льна</Form>
+        <Form Tag="P">водапраніка´льна</Form>
     </Paradigm>
     <Paradigm pdgId="1055303" Lemma="во´дарна" Tag="RA" Govern="">
         <Form Tag="P">во´дарна</Form>
@@ -5132,8 +5130,8 @@
     <Paradigm pdgId="1139094" Lemma="во´кала" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">во´кала</Form>
     </Paradigm>
-    <Paradigm pdgId="1055340" Lemma="во´камгне´нна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">во´камгне´нна</Form>
+    <Paradigm pdgId="1055340" Lemma="вокамгне´нна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">вокамгне´нна</Form>
     </Paradigm>
     <Paradigm pdgId="1139095" Lemma="во´лакам" Tag="RN">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">во´лакам</Form>
@@ -5538,6 +5536,8 @@
     </Paradigm>
     <Paradigm pdgId="1057163" Lemma="вясёлкава" Tag="RA" Govern="">
         <Form Tag="P">вясёлкава</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="па-вясёлкаваму" Tag="RX" Govern="">
         <Form Tag="P">па-вясёлкаваму</Form>
     </Paradigm>
     <Paradigm pdgId="1139106" Lemma="вясно´й" Tag="RN">
@@ -6476,7 +6476,7 @@
     </Paradigm>
     <Paradigm pdgId="1139155" Lemma="дзе´шава" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дзе´шава</Form>
-        <Form Tag="С" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">дзешаве´й</Form>
+        <Form Tag="C" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">дзешаве´й</Form>
     </Paradigm>
     <Paradigm pdgId="1060727" Lemma="дзеяздо´льна" Tag="RA" Govern="">
         <Form Tag="P">дзеяздо´льна</Form>
@@ -6553,39 +6553,40 @@
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">до´бра</Form>
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">ле´пей</Form>
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">лепш</Form>
+        <Form Tag="C" Slouniki="krapivabr2012" pravapis="A1957,A2008">ляпе´й</Form>
         <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найле´пей</Form>
         <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найле´пш</Form>
     </Paradigm>
-    <Paradigm pdgId="1060844" Lemma="до´браахво´тна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´браахво´тна</Form>
-        <Form Tag="C">до´браахво´тней</Form>
+    <Paradigm pdgId="1060844" Lemma="добраахво´тна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">добраахво´тна</Form>
+        <Form Tag="C">добраахво´тней</Form>
     </Paradigm>
-    <Paradigm pdgId="1060850" Lemma="до´бразычлі´ва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´бразычлі´ва</Form>
-        <Form Tag="C">до´бразычлівей</Form>
+    <Paradigm pdgId="1060850" Lemma="добразычлі´ва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">добразычлі´ва</Form>
+        <Form Tag="C">добразычлі´вей</Form>
     </Paradigm>
-    <Paradigm pdgId="1060853" Lemma="до´бранадзе´йна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´бранадзе´йна</Form>
+    <Paradigm pdgId="1060853" Lemma="добранадзе´йна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">добранадзе´йна</Form>
     </Paradigm>
-    <Paradigm pdgId="1060856" Lemma="до´бранаме´рна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´бранаме´рна</Form>
+    <Paradigm pdgId="1060856" Lemma="добранаме´рна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">добранаме´рна</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="до´бранька" Tag="RX">
         <Form Tag="P" Slouniki="sbm2012" pravapis="A2008">до´бранька</Form>
     </Paradigm>
-    <Paradigm pdgId="1060862" Lemma="до´брапрысто´йна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´брапрысто´йна</Form>
+    <Paradigm pdgId="1060862" Lemma="добрапрысто´йна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">добрапрысто´йна</Form>
     </Paradigm>
-    <Paradigm pdgId="1060865" Lemma="до´брасардэчна" Tag="RA" Govern="">
-        <Form Tag="P">до´брасардэчна</Form>
-        <Form Tag="C">до´брасардэчней</Form>
+    <Paradigm pdgId="1060865" Lemma="добрасардэ´чна" Tag="RA" Govern="">
+        <Form Tag="P">добрасардэ´чна</Form>
+        <Form Tag="C">добрасардэ´чней</Form>
     </Paradigm>
-    <Paradigm pdgId="1060868" Lemma="до´брасумле´нна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´брасумле´нна</Form>
-        <Form Tag="C">до´брасумленней</Form>
+    <Paradigm pdgId="1060868" Lemma="добрасумле´нна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">добрасумле´нна</Form>
+        <Form Tag="C">добрасумленней</Form>
     </Paradigm>
-    <Paradigm pdgId="1060841" Lemma="до´браўпара´дкавана" Tag="RA" Govern="">
-        <Form Tag="P">до´браўпара´дкавана</Form>
+    <Paradigm pdgId="1060841" Lemma="добраўпара´дкавана" Tag="RA" Govern="">
+        <Form Tag="P">добраўпара´дкавана</Form>
     </Paradigm>
     <Paradigm pdgId="1060878" Lemma="до´казна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">до´казна</Form>
@@ -6630,11 +6631,11 @@
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">даўжэ´й</Form>
         <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найдаўжэ´й</Form>
     </Paradigm>
-    <Paradigm pdgId="1060826" Lemma="до´ўгачакана" Tag="RA" Govern="">
-        <Form Tag="P">до´ўгачакана</Form>
+    <Paradigm pdgId="1060826" Lemma="доўгачака´на" Tag="RA" Govern="">
+        <Form Tag="P">доўгачака´на</Form>
     </Paradigm>
-    <Paradigm pdgId="1060829" Lemma="до´ўгачасо´ва" Tag="RA" Govern="">
-        <Form Tag="P">до´ўгачасо´ва</Form>
+    <Paradigm pdgId="1060829" Lemma="доўгачасо´ва" Tag="RA" Govern="">
+        <Form Tag="P">доўгачасо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1060935" Lemma="до´хла" Tag="RA" Govern="">
         <Form Tag="P">до´хла</Form>
@@ -6667,17 +6668,17 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">дро´бна</Form>
         <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">драбне´й</Form>
     </Paradigm>
-    <Paradigm pdgId="1061056" Lemma="дро´бнамаштабна" Tag="RA" Govern="">
-        <Form Tag="P">дро´бнамаштабна</Form>
+    <Paradigm pdgId="1061056" Lemma="дробнамаштабна" Tag="RA" Govern="">
+        <Form Tag="P">дробнамаштабна</Form>
     </Paradigm>
-    <Paradigm pdgId="1061062" Lemma="дро´бнамярэжыста" Tag="RA" Govern="">
-        <Form Tag="P">дро´бнамярэжыста</Form>
+    <Paradigm pdgId="1061062" Lemma="дробнамярэжыста" Tag="RA" Govern="">
+        <Form Tag="P">дробнамярэжыста</Form>
     </Paradigm>
-    <Paradigm pdgId="1061065" Lemma="дро´бнао´птава" Tag="RA" Govern="">
-        <Form Tag="P">дро´бнао´птава</Form>
+    <Paradigm pdgId="1061065" Lemma="дробнао´птава" Tag="RA" Govern="">
+        <Form Tag="P">дробнао´птава</Form>
     </Paradigm>
-    <Paradigm pdgId="1061074" Lemma="дро´бнаро´зні´чна" Tag="RA" Govern="">
-        <Form Tag="P">дро´бнаро´зні´чна</Form>
+    <Paradigm pdgId="1061074" Lemma="дробнаро´знічна" Tag="RA" Govern="">
+        <Form Tag="P">дробнаро´знічна</Form>
     </Paradigm>
     <Paradigm pdgId="1061092" Lemma="дро´бненька" Tag="RA" Govern="">
         <Form Tag="P">дро´бненька</Form>
@@ -6784,7 +6785,7 @@
     </Paradigm>
     <Paradigm pdgId="0" Lemma="дурне´й" Tag="RA" Govern="">
         <Form Tag="P"></Form>
-        <Form Tag="С" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">дурне´й</Form>
+        <Form Tag="C" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">дурне´й</Form>
     </Paradigm>
     <Paradigm pdgId="1061299" Lemma="духмя´на" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">духмя´на</Form>
@@ -8201,8 +8202,8 @@
     <Paradigm pdgId="0" Lemma="зво´ддаля" Tag="RX">
         <Form Tag="P" pravapis="A2008">зво´ддаля</Form>
     </Paradigm>
-    <Paradigm pdgId="1064633" Lemma="зво´нападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">зво´нападо´бна</Form>
+    <Paradigm pdgId="1064633" Lemma="звонападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">звонападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1064636" Lemma="зво´нка" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">зво´нка</Form>
@@ -8767,8 +8768,8 @@
     <Paradigm pdgId="1065546" Lemma="знішча´льна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">знішча´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1065617" Lemma="зно´саўсто´йліва" Tag="RA" Govern="">
-        <Form Tag="P">зно´саўсто´йліва</Form>
+    <Paradigm pdgId="1065617" Lemma="зносаўсто´йліва" Tag="RA" Govern="">
+        <Form Tag="P">зносаўсто´йліва</Form>
     </Paradigm>
     <Paradigm pdgId="1104430" Lemma="зно´ў" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">зно´ў</Form>
@@ -8821,8 +8822,8 @@
     <Paradigm pdgId="1065676" Lemma="зо´ркава" Tag="RA" Govern="">
         <Form Tag="P">зо´ркава</Form>
     </Paradigm>
-    <Paradigm pdgId="1065679" Lemma="зо´ркападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">зо´ркападо´бна</Form>
+    <Paradigm pdgId="1065679" Lemma="зоркападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">зоркападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1065682" Lemma="зо´рна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">зо´рна</Form>
@@ -8928,8 +8929,8 @@
     <Paradigm pdgId="1065802" Lemma="зы´чна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">зы´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1192373" Lemma="зы´чне´й" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">зы´чне´й</Form>
+    <Paradigm pdgId="1192373" Lemma="зычне´й" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">зычне´й</Form>
     </Paradigm>
     <Paradigm pdgId="1139237" Lemma="зя´бка" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">зя´бка</Form>
@@ -8948,8 +8949,8 @@
         <Form Tag="P">зярніста</Form>
         <Form Tag="C">зярнісцей</Form>
     </Paradigm>
-    <Paradigm pdgId="1043871" Lemma="іго´лкападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">іго´лкападо´бна</Form>
+    <Paradigm pdgId="1043871" Lemma="іголкападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">іголкападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1192374" Lemma="ідылі´чна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ідылі´чна</Form>
@@ -8992,8 +8993,8 @@
     <Paradigm pdgId="1104348" Lemma="ізно´ў" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ізно´ў</Form>
     </Paradigm>
-    <Paradigm pdgId="1044028" Lemma="іко´награфі´чна" Tag="RA" Govern="">
-        <Form Tag="P">іко´награфі´чна</Form>
+    <Paradigm pdgId="1044028" Lemma="іконаграфі´чна" Tag="RA" Govern="">
+        <Form Tag="P">іконаграфі´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1044031" Lemma="ілжы´ва" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ілжы´ва</Form>
@@ -9620,8 +9621,8 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каро´тка</Form>
         <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">караце´й</Form>
     </Paradigm>
-    <Paradigm pdgId="1067313" Lemma="каро´ткачасо´ва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">каро´ткачасо´ва</Form>
+    <Paradigm pdgId="1067313" Lemma="кароткачасо´ва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">кароткачасо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1067322" Lemma="карпараты´ўна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">карпараты´ўна</Form>
@@ -9906,8 +9907,8 @@
     <Paradigm pdgId="1139248" Lemma="ко´лка" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´лка</Form>
     </Paradigm>
-    <Paradigm pdgId="1068076" Lemma="ко´лцападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">ко´лцападо´бна</Form>
+    <Paradigm pdgId="1068076" Lemma="колцападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">колцападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1068079" Lemma="ко´лькасна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´лькасна</Form>
@@ -9921,30 +9922,30 @@
     <Paradigm pdgId="1192398" Lemma="ко´нна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´нна</Form>
     </Paradigm>
-    <Paradigm pdgId="1068111" Lemma="ко´нтрпрадукты´ўна" Tag="RA" Govern="">
-        <Form Tag="P">ко´нтрпрадукты´ўна</Form>
+    <Paradigm pdgId="1068111" Lemma="контрпрадукты´ўна" Tag="RA" Govern="">
+        <Form Tag="P">контрпрадукты´ўна</Form>
     </Paradigm>
     <Paradigm pdgId="1068114" Lemma="ко´нтррэвалюцыйна" Tag="RA" Govern="">
         <Form Tag="P">ко´нтррэвалюцыйна</Form>
     </Paradigm>
-    <Paradigm pdgId="1068117" Lemma="ко´нтртэрарысты´чна" Tag="RA" Govern="">
-        <Form Tag="P">ко´нтртэрарысты´чна</Form>
+    <Paradigm pdgId="1068117" Lemma="контртэрарысты´чна" Tag="RA" Govern="">
+        <Form Tag="P">контртэрарысты´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1068120" Lemma="ко´нтрфакты´чна" Tag="RA" Govern="">
-        <Form Tag="P">ко´нтрфакты´чна</Form>
+    <Paradigm pdgId="1068120" Lemma="контрфакты´чна" Tag="RA" Govern="">
+        <Form Tag="P">контрфакты´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1068123" Lemma="ко´нтрфо´рсна" Tag="RA" Govern="">
-        <Form Tag="P">ко´нтрфо´рсна</Form>
+    <Paradigm pdgId="1068123" Lemma="контрфо´рсна" Tag="RA" Govern="">
+        <Form Tag="P">контрфо´рсна</Form>
     </Paradigm>
     <Paradigm pdgId="1068126" Lemma="ко´нтурна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´нтурна</Form>
         <Form Tag="C">ко´нтурней</Form>
     </Paradigm>
-    <Paradigm pdgId="1068129" Lemma="ко´нусападо´бна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´нусападо´бна</Form>
+    <Paradigm pdgId="1068129" Lemma="конусападо´бна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">конусападо´бна</Form>
     </Paradigm>
-    <Paradigm pdgId="1068138" Lemma="ко´ранепадо´бна" Tag="RA" Govern="">
-        <Form Tag="P">ко´ранепадо´бна</Form>
+    <Paradigm pdgId="1068138" Lemma="коранепадо´бна" Tag="RA" Govern="">
+        <Form Tag="P">коранепадо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1139250" Lemma="ко´ратка" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´ратка</Form>
@@ -9955,8 +9956,8 @@
     <Paradigm pdgId="1068153" Lemma="ко´са" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´са</Form>
     </Paradigm>
-    <Paradigm pdgId="1068159" Lemma="ко´сасіметры´чна" Tag="RA" Govern="">
-        <Form Tag="P">ко´сасіметры´чна</Form>
+    <Paradigm pdgId="1068159" Lemma="косасіметры´чна" Tag="RA" Govern="">
+        <Form Tag="P">косасіметры´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1192400" Lemma="ко´сна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ко´сна</Form>
@@ -10012,8 +10013,8 @@
     <Paradigm pdgId="1068329" Lemma="кро´пкава" Tag="RA" Govern="">
         <Form Tag="P">кро´пкава</Form>
     </Paradigm>
-    <Paradigm pdgId="1068335" Lemma="кро´плепадо´бна" Tag="RA" Govern="">
-        <Form Tag="P">кро´плепадо´бна</Form>
+    <Paradigm pdgId="1068335" Lemma="кроплепадо´бна" Tag="RA" Govern="">
+        <Form Tag="P">кроплепадо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1192404" Lemma="кро´ўна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">кро´ўна</Form>
@@ -10229,8 +10230,10 @@
     </Paradigm>
     <Paradigm pdgId="1068694" Lemma="культу´рна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">культу´рна</Form>
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">па-культу´рнаму</Form>
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">культу´рней</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="па-культу´рнаму" Tag="RX" Govern="">
+        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">па-культу´рнаму</Form>
     </Paradigm>
     <Paradigm pdgId="1068700" Lemma="культуртэхні´чна" Tag="RA" Govern="">
         <Form Tag="P">культуртэхні´чна</Form>
@@ -11466,8 +11469,8 @@
     <Paradigm pdgId="1071884" Lemma="мно´гапакутна" Tag="RA" Govern="">
         <Form Tag="P">мно´гапакутна</Form>
     </Paradigm>
-    <Paradigm pdgId="1192429" Lemma="мно´гаразо´ва" Tag="RA">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">мно´гаразо´ва</Form>
+    <Paradigm pdgId="1192429" Lemma="многаразо´ва" Tag="RA">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">многаразо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1071917" Lemma="мо´дна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">мо´дна</Form>
@@ -11490,11 +11493,11 @@
     <Paradigm pdgId="1192431" Lemma="мо´лем" Tag="RN">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">мо´лем</Form>
     </Paradigm>
-    <Paradigm pdgId="1071950" Lemma="мо´нафані´чна" Tag="RA" Govern="">
-        <Form Tag="P">мо´нафані´чна</Form>
+    <Paradigm pdgId="1071950" Lemma="монафані´чна" Tag="RA" Govern="">
+        <Form Tag="P">монафані´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1071966" Lemma="мо´рфагенеты´чна" Tag="RA" Govern="">
-        <Form Tag="P">мо´рфагенеты´чна</Form>
+    <Paradigm pdgId="1071966" Lemma="морфагенеты´чна" Tag="RA" Govern="">
+        <Form Tag="P">морфагенеты´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1071973" Lemma="мо´ташна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">мо´ташна</Form>
@@ -11657,6 +11660,8 @@
     </Paradigm>
     <Paradigm pdgId="1072672" Lemma="навако´льна" Tag="RA" Govern="">
         <Form Tag="P">навако´льна</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="па-навако´льнаму" Tag="RX" Govern="">
         <Form Tag="P">па-навако´льнаму</Form>
     </Paradigm>
     <Paradigm pdgId="1139300" Lemma="нава´лам" Tag="RX">
@@ -13350,8 +13355,8 @@
     <Paradigm pdgId="1075445" Lemma="недзяржаўна" Tag="RA" Govern="">
         <Form Tag="P">недзяржаўна</Form>
     </Paradigm>
-    <Paradigm pdgId="1075448" Lemma="недо´ўгачасо´ва" Tag="RA" Govern="">
-        <Form Tag="P">недо´ўгачасо´ва</Form>
+    <Paradigm pdgId="1075448" Lemma="недоўгачасо´ва" Tag="RA" Govern="">
+        <Form Tag="P">недоўгачасо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1075451" Lemma="недружалю´бна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">недружалю´бна</Form>
@@ -14519,8 +14524,8 @@
     <Paradigm pdgId="1192535" Lemma="несвабо´дна" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">несвабо´дна</Form>
     </Paradigm>
-    <Paradigm pdgId="1076969" Lemma="несво´ечасо´ва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">несво´ечасо´ва</Form>
+    <Paradigm pdgId="1076969" Lemma="несвоечасо´ва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">несвоечасо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1076972" Lemma="несвядо´ма" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">несвядо´ма</Form>
@@ -15370,24 +15375,24 @@
     <Paradigm pdgId="1077911" Lemma="нядо´бра" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядо´бра</Form>
     </Paradigm>
-    <Paradigm pdgId="1077917" Lemma="нядо´бразычлі´ва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядо´бразычлі´ва</Form>
-        <Form Tag="C">нядо´бразычлівей</Form>
+    <Paradigm pdgId="1077917" Lemma="нядобразычлі´ва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядобразычлі´ва</Form>
+        <Form Tag="C">нядобразычлівей</Form>
     </Paradigm>
     <Paradigm pdgId="1077920" Lemma="нядо´бранадзейна" Tag="RA" Govern="">
         <Form Tag="P">нядо´бранадзейна</Form>
         <Form Tag="C">нядо´бранадзейней</Form>
     </Paradigm>
-    <Paradigm pdgId="1077923" Lemma="нядо´брапрысто´йна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядо´брапрысто´йна</Form>
-        <Form Tag="C">нядо´брапрысто´йней</Form>
+    <Paradigm pdgId="1077923" Lemma="нядобрапрысто´йна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядобрапрысто´йна</Form>
+        <Form Tag="C">нядобрапрысто´йней</Form>
     </Paradigm>
-    <Paradigm pdgId="1077926" Lemma="нядо´брасумле´нна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядо´брасумле´нна</Form>
-        <Form Tag="C">нядо´брасумленней</Form>
+    <Paradigm pdgId="1077926" Lemma="нядобрасумле´нна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нядобрасумле´нна</Form>
+        <Form Tag="C">нядобрасумленней</Form>
     </Paradigm>
-    <Paradigm pdgId="1077914" Lemma="нядо´браўпарадкава´на" Tag="RA" Govern="">
-        <Form Tag="P">нядо´браўпарадкава´на</Form>
+    <Paradigm pdgId="1077914" Lemma="нядобраўпарадкава´на" Tag="RA" Govern="">
+        <Form Tag="P">нядобраўпарадкава´на</Form>
     </Paradigm>
     <Paradigm pdgId="1077929" Lemma="нядо´казна" Tag="RA" Govern="">
         <Form Tag="P">нядо´казна</Form>
@@ -15705,8 +15710,8 @@
         <Form Tag="P">нясвежа</Form>
         <Form Tag="C">несвяжэй</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="нясво´ечасо´ва" Tag="RA">
-        <Form Tag="P" Slouniki="sbm2012" pravapis="A2008">нясво´ечасо´ва</Form>
+    <Paradigm pdgId="0" Lemma="нясвоечасо´ва" Tag="RA">
+        <Form Tag="P" Slouniki="sbm2012" pravapis="A2008">нясвоечасо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1078213" Lemma="няскла´дна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">няскла´дна</Form>
@@ -16042,8 +16047,8 @@
     <Paradigm pdgId="1078351" Lemma="няяўна" Tag="RA" Govern="">
         <Form Tag="P">няяўна</Form>
     </Paradigm>
-    <Paradigm pdgId="1078372" Lemma="о´нталагі´чна" Tag="RA" Govern="">
-        <Form Tag="P">о´нталагі´чна</Form>
+    <Paradigm pdgId="1078372" Lemma="онталагі´чна" Tag="RA" Govern="">
+        <Form Tag="P">онталагі´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1078380" Lemma="о´птава" Tag="RA" Govern="">
         <Form Tag="P">о´птава</Form>
@@ -16782,8 +16787,8 @@
     <Paradigm pdgId="0" Lemma="па-вайско´ваму" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">па-вайско´ваму</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="па-вако´лі´чнаму" Tag="RA" Govern="">
-        <Form Tag="P">па-вако´лі´чнаму</Form>
+    <Paradigm pdgId="0" Lemma="па-вако´лічнаму" Tag="RA" Govern="">
+        <Form Tag="P">па-вако´лічнаму</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-валаго´цку" Tag="RA" Govern="">
         <Form Tag="P">па-валаго´цку</Form>
@@ -16871,7 +16876,6 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">па-ва´шаму</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-вашынгто´нску" Tag="RA" Govern="">
-        <Form Tag="P">вашынгто´нска-</Form>
         <Form Tag="P">па-вашынгто´нску</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-ваяцку" Tag="RA" Govern="">
@@ -16953,7 +16957,6 @@
         <Form Tag="P">па-віктарыянску</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-вілейску" Tag="RA" Govern="">
-        <Form Tag="P">вілейска-</Form>
         <Form Tag="P">па-вілейску</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-віленску" Tag="RA" Govern="">
@@ -17370,7 +17373,7 @@
         <Form Tag="P">па-даво´ску</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-дагестанску" Tag="RA" Govern="">
-        <Form Tag="P">дагестанска-</Form>
+        <Form Tag="P">па-дагестанску</Form>
     </Paradigm>
     <Paradigm pdgId="1009014" Lemma="падагульняюча" Tag="RA" Govern="">
         <Form Tag="P">падагульняюча</Form>
@@ -17552,8 +17555,8 @@
     <Paradigm pdgId="1079556" Lemma="падкантро´льна" Tag="RA" Govern="">
         <Form Tag="P">падкантро´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1079577" Lemma="падко´вападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">падко´вападо´бна</Form>
+    <Paradigm pdgId="1079577" Lemma="падковападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">падковападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1079580" Lemma="падко´ркава" Tag="RA" Govern="">
         <Form Tag="P">падко´ркава</Form>
@@ -18142,7 +18145,7 @@
         <Form Tag="P">па-іберыйску</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-іванаўску" Tag="RA" Govern="">
-        <Form Tag="P">іванаўска-</Form>
+        <Form Tag="P">па-іванаўску</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-івацэвіцку" Tag="RA" Govern="">
         <Form Tag="P">па-івацэвіцку</Form>
@@ -20183,8 +20186,8 @@
     <Paradigm pdgId="0" Lemma="па-расісцку" Tag="RA" Govern="">
         <Form Tag="P">па-расісцку</Form>
     </Paradigm>
-    <Paradigm pdgId="1081441" Lemma="парасо´нападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">парасо´нападо´бна</Form>
+    <Paradigm pdgId="1081441" Lemma="парасонападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">парасонападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1081435" Lemma="парасо´ніста" Tag="RA" Govern="">
         <Form Tag="P">парасо´ніста</Form>
@@ -21863,8 +21866,8 @@
     <Paradigm pdgId="1101684" Lemma="па-чмялінаму" Tag="RA" Govern="">
         <Form Tag="P">па-чмялінаму</Form>
     </Paradigm>
-    <Paradigm pdgId="1101706" Lemma="па-чо´рнарабо´чаму" Tag="RA" Govern="">
-        <Form Tag="P">па-чо´рнарабо´чаму</Form>
+    <Paradigm pdgId="1101706" Lemma="па-чорнарабо´чаму" Tag="RA" Govern="">
+        <Form Tag="P">па-чорнарабо´чаму</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-чува´шску" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">па-чува´шску</Form>
@@ -22560,20 +22563,20 @@
     <Paradigm pdgId="1083665" Lemma="по´ліканфесійна" Tag="RA" Govern="">
         <Form Tag="P">по´ліканфесійна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083668" Lemma="по´ліканфесіяна´льна" Tag="RA" Govern="">
-        <Form Tag="P">по´ліканфесіяна´льна</Form>
+    <Paradigm pdgId="1083668" Lemma="поліканфесіяна´льна" Tag="RA" Govern="">
+        <Form Tag="P">поліканфесіяна´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083674" Lemma="по´лікультурна" Tag="RA" Govern="">
-        <Form Tag="P">по´лікультурна</Form>
+    <Paradigm pdgId="1083674" Lemma="полікультурна" Tag="RA" Govern="">
+        <Form Tag="P">полікультурна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083695" Lemma="по´лісеманты´чна" Tag="RA" Govern="">
-        <Form Tag="P">по´лісеманты´чна</Form>
+    <Paradigm pdgId="1083695" Lemma="полісеманты´чна" Tag="RA" Govern="">
+        <Form Tag="P">полісеманты´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083705" Lemma="по´ліфані´чна" Tag="RA" Govern="">
-        <Form Tag="P">по´ліфані´чна</Form>
+    <Paradigm pdgId="1083705" Lemma="поліфані´чна" Tag="RA" Govern="">
+        <Form Tag="P">поліфані´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083711" Lemma="по´ліцэнтры´чна" Tag="RA" Govern="">
-        <Form Tag="P">по´ліцэнтры´чна</Form>
+    <Paradigm pdgId="1083711" Lemma="поліцэнтры´чна" Tag="RA" Govern="">
+        <Form Tag="P">поліцэнтры´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1192692" Lemma="по´меж" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">по´меж</Form>
@@ -22634,33 +22637,33 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">по´ўна</Form>
         <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">паўне´й</Form>
     </Paradigm>
-    <Paradigm pdgId="1083594" Lemma="по´ўнагало´сна" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнагало´сна</Form>
+    <Paradigm pdgId="1083594" Lemma="поўнагало´сна" Tag="RA" Govern="">
+        <Form Tag="P">поўнагало´сна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083600" Lemma="по´ўнадыяпазо´нна" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнадыяпазо´нна</Form>
+    <Paradigm pdgId="1083600" Lemma="поўнадыяпазо´нна" Tag="RA" Govern="">
+        <Form Tag="P">поўнадыяпазо´нна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083603" Lemma="по´ўнакаляро´ва" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнакаляро´ва</Form>
+    <Paradigm pdgId="1083603" Lemma="поўнакаляро´ва" Tag="RA" Govern="">
+        <Form Tag="P">поўнакаляро´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1083606" Lemma="по´ўнамаштабна" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнамаштабна</Form>
-        <Form Tag="C">по´ўнамаштабней</Form>
+    <Paradigm pdgId="1083606" Lemma="поўнамаштабна" Tag="RA" Govern="">
+        <Form Tag="P">поўнамаштабна</Form>
+        <Form Tag="C">поўнамаштабней</Form>
     </Paradigm>
-    <Paradigm pdgId="1083609" Lemma="по´ўнапаме´рна" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнапаме´рна</Form>
+    <Paradigm pdgId="1083609" Lemma="поўнапаме´рна" Tag="RA" Govern="">
+        <Form Tag="P">поўнапаме´рна</Form>
     </Paradigm>
     <Paradigm pdgId="1139665" Lemma="по´ўнасцю" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">по´ўнасцю</Form>
     </Paradigm>
-    <Paradigm pdgId="1083591" Lemma="по´ўнаўла´дна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">по´ўнаўла´дна</Form>
+    <Paradigm pdgId="1083591" Lemma="поўнаўла´дна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">поўнаўла´дна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083618" Lemma="по´ўнафункцыяна´льна" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнафункцыяна´льна</Form>
+    <Paradigm pdgId="1083618" Lemma="поўнафункцыяна´льна" Tag="RA" Govern="">
+        <Form Tag="P">поўнафункцыяна´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1083633" Lemma="по´ўнаэкранна" Tag="RA" Govern="">
-        <Form Tag="P">по´ўнаэкранна</Form>
+    <Paradigm pdgId="1083633" Lemma="поўнаэкранна" Tag="RA" Govern="">
+        <Form Tag="P">поўнаэкранна</Form>
     </Paradigm>
     <Paradigm pdgId="1192702" Lemma="по´хапкам" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">по´хапкам</Form>
@@ -23009,8 +23012,8 @@
         <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">прасце´й</Form>
         <Form Tag="S" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">найпрасце´й</Form>
     </Paradigm>
-    <Paradigm pdgId="1192713" Lemma="про´сталіне´йна" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">про´сталіне´йна</Form>
+    <Paradigm pdgId="1192713" Lemma="просталіне´йна" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">просталіне´йна</Form>
     </Paradigm>
     <Paradigm pdgId="1084998" Lemma="про´фільна" Tag="RA" Govern="">
         <Form Tag="P">про´фільна</Form>
@@ -23018,35 +23021,35 @@
     <Paradigm pdgId="1192714" Lemma="про´ці" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">про´ці</Form>
     </Paradigm>
-    <Paradigm pdgId="1085004" Lemma="про´цівірусна" Tag="RA" Govern="">
-        <Form Tag="P">про´цівірусна</Form>
+    <Paradigm pdgId="1085004" Lemma="процівірусна" Tag="RA" Govern="">
+        <Form Tag="P">процівірусна</Form>
     </Paradigm>
-    <Paradigm pdgId="1085007" Lemma="про´ціглістава" Tag="RA" Govern="">
-        <Form Tag="P">про´ціглістава</Form>
+    <Paradigm pdgId="1085007" Lemma="проціглістава" Tag="RA" Govern="">
+        <Form Tag="P">проціглістава</Form>
     </Paradigm>
-    <Paradigm pdgId="1085010" Lemma="про´цігніласна" Tag="RA" Govern="">
-        <Form Tag="P">про´цігніласна</Form>
+    <Paradigm pdgId="1085010" Lemma="процігніласна" Tag="RA" Govern="">
+        <Form Tag="P">процігніласна</Form>
     </Paradigm>
-    <Paradigm pdgId="1085013" Lemma="про´цігрыбко´ва" Tag="RA" Govern="">
-        <Form Tag="P">про´цігрыбко´ва</Form>
+    <Paradigm pdgId="1085013" Lemma="процігрыбко´ва" Tag="RA" Govern="">
+        <Form Tag="P">процігрыбко´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1085016" Lemma="про´цігрыпо´зна" Tag="RA" Govern="">
-        <Form Tag="P">про´цігрыпо´зна</Form>
+    <Paradigm pdgId="1085016" Lemma="процігрыпо´зна" Tag="RA" Govern="">
+        <Form Tag="P">процігрыпо´зна</Form>
     </Paradigm>
-    <Paradigm pdgId="1085019" Lemma="про´цідзейна" Tag="RA" Govern="">
-        <Form Tag="P">про´цідзейна</Form>
+    <Paradigm pdgId="1085019" Lemma="процідзейна" Tag="RA" Govern="">
+        <Form Tag="P">процідзейна</Form>
     </Paradigm>
-    <Paradigm pdgId="1085022" Lemma="про´цідзяржаўна" Tag="RA" Govern="">
-        <Form Tag="P">про´цідзяржаўна</Form>
+    <Paradigm pdgId="1085022" Lemma="процідзяржаўна" Tag="RA" Govern="">
+        <Form Tag="P">процідзяржаўна</Form>
     </Paradigm>
-    <Paradigm pdgId="1085025" Lemma="про´цізако´нна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">про´цізако´нна</Form>
+    <Paradigm pdgId="1085025" Lemma="процізако´нна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">процізако´нна</Form>
     </Paradigm>
-    <Paradigm pdgId="1085028" Lemma="про´ціле´гла" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">про´ціле´гла</Form>
+    <Paradigm pdgId="1085028" Lemma="проціле´гла" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">проціле´гла</Form>
     </Paradigm>
-    <Paradigm pdgId="1085034" Lemma="про´ціпаветрана" Tag="RA" Govern="">
-        <Form Tag="P">про´ціпаветрана</Form>
+    <Paradigm pdgId="1085034" Lemma="проціпаветрана" Tag="RA" Govern="">
+        <Form Tag="P">проціпаветрана</Form>
     </Paradigm>
     <Paradigm pdgId="1139672" Lemma="про´ціў" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">про´ціў</Form>
@@ -24099,8 +24102,8 @@
     <Paradigm pdgId="1192742" Lemma="ро´блена" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ро´блена</Form>
     </Paradigm>
-    <Paradigm pdgId="1087850" Lemma="ро´гападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">ро´гападо´бна</Form>
+    <Paradigm pdgId="1087850" Lemma="рогападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">рогападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1087857" Lemma="ро´дна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ро´дна</Form>
@@ -24115,41 +24118,38 @@
     <Paradigm pdgId="1087866" Lemma="ро´зна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ро´зна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087881" Lemma="ро´знабако´ва" Tag="RA" Govern="">
-        <Form Tag="P">ро´знабако´ва</Form>
+    <Paradigm pdgId="1087881" Lemma="рознабако´ва" Tag="RA" Govern="">
+        <Form Tag="P">рознабако´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1087878" Lemma="ро´знаіменна" Tag="RA" Govern="">
         <Form Tag="P">ро´знаіменна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087884" Lemma="ро´знакаляро´ва" Tag="RA" Govern="">
-        <Form Tag="P">ро´знакаляро´ва</Form>
+    <Paradigm pdgId="1087884" Lemma="рознакаляро´ва" Tag="RA" Govern="">
+        <Form Tag="P">рознакаляро´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1087890" Lemma="ро´знапланава" Tag="RA" Govern="">
-        <Form Tag="P">ро´знапланава</Form>
+    <Paradigm pdgId="1087890" Lemma="рознапланава" Tag="RA" Govern="">
+        <Form Tag="P">рознапланава</Form>
     </Paradigm>
     <Paradigm pdgId="1087902" Lemma="ро´знасна" Tag="RA" Govern="">
         <Form Tag="P">ро´знасна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087908" Lemma="ро´знастылёва" Tag="RA" Govern="">
-        <Form Tag="P">ро´знастылёва</Form>
+    <Paradigm pdgId="1087908" Lemma="рознастылёва" Tag="RA" Govern="">
+        <Form Tag="P">рознастылёва</Form>
     </Paradigm>
-    <Paradigm pdgId="1087911" Lemma="ро´знастылява" Tag="RA" Govern="">
-        <Form Tag="P">ро´знастылёва</Form>
+    <Paradigm pdgId="1087875" Lemma="рознаўзро´става" Tag="RA" Govern="">
+        <Form Tag="P">рознаўзро´става</Form>
     </Paradigm>
-    <Paradigm pdgId="1087875" Lemma="ро´знаўзро´става" Tag="RA" Govern="">
-        <Form Tag="P">ро´знаўзро´става</Form>
+    <Paradigm pdgId="1087872" Lemma="рознаўзро´ўнева" Tag="RA" Govern="">
+        <Form Tag="P">рознаўзро´ўнева</Form>
     </Paradigm>
-    <Paradigm pdgId="1087872" Lemma="ро´знаўзро´ўнева" Tag="RA" Govern="">
-        <Form Tag="P">ро´знаўзро´ўнева</Form>
+    <Paradigm pdgId="1087917" Lemma="рознахуткасна" Tag="RA" Govern="">
+        <Form Tag="P">рознахуткасна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087917" Lemma="ро´знахуткасна" Tag="RA" Govern="">
-        <Form Tag="P">ро´знахуткасна</Form>
+    <Paradigm pdgId="1087869" Lemma="ро´знічна" Tag="RA" Govern="">
+        <Form Tag="P">ро´знічна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087869" Lemma="ро´зні´чна" Tag="RA" Govern="">
-        <Form Tag="P">ро´зні´чна</Form>
-    </Paradigm>
-    <Paradigm pdgId="1087925" Lemma="ро´мбападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">ро´мбападо´бна</Form>
+    <Paradigm pdgId="1087925" Lemma="ромбападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">ромбападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1087933" Lemma="ро´сна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ро´сна</Form>
@@ -24166,41 +24166,41 @@
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">раўне´й</Form>
         <Form Tag="S">найраўней</Form>
     </Paradigm>
-    <Paradigm pdgId="1087809" Lemma="ро´ўнабако´ва" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнабако´ва</Form>
+    <Paradigm pdgId="1087809" Lemma="роўнабако´ва" Tag="RA" Govern="">
+        <Form Tag="P">роўнабако´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1087812" Lemma="ро´ўнавераго´дна" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнавераго´дна</Form>
+    <Paradigm pdgId="1087812" Lemma="роўнавераго´дна" Tag="RA" Govern="">
+        <Form Tag="P">роўнавераго´дна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087818" Lemma="ро´ўнавяліка" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнавяліка</Form>
+    <Paradigm pdgId="1087818" Lemma="роўнавяліка" Tag="RA" Govern="">
+        <Form Tag="P">роўнавяліка</Form>
     </Paradigm>
-    <Paradigm pdgId="1087803" Lemma="ро´ўнаімаве´рнасна" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнаімаве´рнасна</Form>
+    <Paradigm pdgId="1087803" Lemma="роўнаімаве´рнасна" Tag="RA" Govern="">
+        <Form Tag="P">роўнаімаве´рнасна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087821" Lemma="ро´ўнамагутна" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнамагутна</Form>
+    <Paradigm pdgId="1087821" Lemma="роўнамагутна" Tag="RA" Govern="">
+        <Form Tag="P">роўнамагутна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087824" Lemma="ро´ўнападалена" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнападалена</Form>
+    <Paradigm pdgId="1087824" Lemma="роўнападалена" Tag="RA" Govern="">
+        <Form Tag="P">роўнападалена</Form>
     </Paradigm>
-    <Paradigm pdgId="1087828" Lemma="ро´ўнапаско´рана" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнапаско´рана</Form>
+    <Paradigm pdgId="1087828" Lemma="роўнапаско´рана" Tag="RA" Govern="">
+        <Form Tag="P">роўнапаско´рана</Form>
     </Paradigm>
-    <Paradigm pdgId="1087831" Lemma="ро´ўнапераменна" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнапераменна</Form>
+    <Paradigm pdgId="1087831" Lemma="роўнапераменна" Tag="RA" Govern="">
+        <Form Tag="P">роўнапераменна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087834" Lemma="ро´ўнаразмешчана" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнаразмешчана</Form>
+    <Paradigm pdgId="1087834" Lemma="роўнаразмешчана" Tag="RA" Govern="">
+        <Form Tag="P">роўнаразмешчана</Form>
     </Paradigm>
-    <Paradigm pdgId="1087837" Lemma="ро´ўнасігна´льна" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнасігна´льна</Form>
+    <Paradigm pdgId="1087837" Lemma="роўнасігна´льна" Tag="RA" Govern="">
+        <Form Tag="P">роўнасігна´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1087840" Lemma="ро´ўнаскладана" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнаскладана</Form>
+    <Paradigm pdgId="1087840" Lemma="роўнаскладана" Tag="RA" Govern="">
+        <Form Tag="P">роўнаскладана</Form>
     </Paradigm>
-    <Paradigm pdgId="1087844" Lemma="ро´ўнаступенна" Tag="RA" Govern="">
-        <Form Tag="P">ро´ўнаступенна</Form>
+    <Paradigm pdgId="1087844" Lemma="роўнаступенна" Tag="RA" Govern="">
+        <Form Tag="P">роўнаступенна</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ро´ўненька" Tag="RA">
         <Form Tag="P" Slouniki="sbm2012" pravapis="A2008">ро´ўненька</Form>
@@ -24225,11 +24225,11 @@
         <Form Tag="P">ружо´ва</Form>
         <Form Tag="C">ружо´вей</Form>
     </Paradigm>
-    <Paradigm pdgId="1088007" Lemma="ружо´ватвара" Tag="RA" Govern="">
-        <Form Tag="P">ружо´ватвара</Form>
+    <Paradigm pdgId="1088007" Lemma="ружоватвара" Tag="RA" Govern="">
+        <Form Tag="P">ружоватвара</Form>
     </Paradigm>
-    <Paradigm pdgId="1088010" Lemma="ружо´вашчо´ка" Tag="RA" Govern="">
-        <Form Tag="P">ружо´вашчо´ка</Form>
+    <Paradigm pdgId="1088010" Lemma="ружовашчо´ка" Tag="RA" Govern="">
+        <Form Tag="P">ружовашчо´ка</Form>
     </Paradigm>
     <Paradigm pdgId="1088014" Lemma="рукапісна" Tag="RA" Govern="">
         <Form Tag="P">рукапісна</Form>
@@ -25062,8 +25062,8 @@
     <Paradigm pdgId="1090298" Lemma="свабо´днамалекулярна" Tag="RA" Govern="">
         <Form Tag="P">свабо´днамалекулярна</Form>
     </Paradigm>
-    <Paradigm pdgId="1090307" Lemma="свабо´днапато´чна" Tag="RA" Govern="">
-        <Form Tag="P">свабо´днапато´чна</Form>
+    <Paradigm pdgId="1090307" Lemma="свабоднапато´чна" Tag="RA" Govern="">
+        <Form Tag="P">свабоднапато´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1192758" Lemma="свабо´дней" Tag="RX">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">свабо´дней</Form>
@@ -25121,18 +25121,18 @@
     <Paradigm pdgId="1090253" Lemma="свіняча" Tag="RA" Govern="">
         <Form Tag="P">свіняча</Form>
     </Paradigm>
-    <Paradigm pdgId="1090447" Lemma="сво´еасаблі´ва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сво´еасаблі´ва</Form>
-        <Form Tag="C">сво´еасаблівей</Form>
+    <Paradigm pdgId="1090447" Lemma="своеасаблі´ва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">своеасаблі´ва</Form>
+        <Form Tag="C">своеасаблівей</Form>
     </Paradigm>
-    <Paradigm pdgId="1090450" Lemma="сво´екарысліва" Tag="RA" Govern="">
-        <Form Tag="P">сво´екарысліва</Form>
+    <Paradigm pdgId="1090450" Lemma="своекарысліва" Tag="RA" Govern="">
+        <Form Tag="P">своекарысліва</Form>
     </Paradigm>
-    <Paradigm pdgId="1090444" Lemma="сво´еўладна" Tag="RA" Govern="">
-        <Form Tag="P">сво´еўладна</Form>
+    <Paradigm pdgId="1090444" Lemma="своеўладна" Tag="RA" Govern="">
+        <Form Tag="P">своеўладна</Form>
     </Paradigm>
-    <Paradigm pdgId="1090453" Lemma="сво´ечасо´ва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сво´ечасо´ва</Form>
+    <Paradigm pdgId="1090453" Lemma="своечасо´ва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">своечасо´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1090456" Lemma="сво´йска" Tag="RA" Govern="">
         <Form Tag="P">сво´йска</Form>
@@ -25159,19 +25159,19 @@
     <Paradigm pdgId="1090480" Lemma="святліва" Tag="RA" Govern="">
         <Form Tag="P">святліва</Form>
     </Paradigm>
-    <Paradigm pdgId="1090513" Lemma="святло´адчува´льна" Tag="RA" Govern="">
-        <Form Tag="P">святло´адчува´льна</Form>
-        <Form Tag="C">святло´адчува´льней</Form>
+    <Paradigm pdgId="1090513" Lemma="святлоадчува´льна" Tag="RA" Govern="">
+        <Form Tag="P">святлоадчува´льна</Form>
+        <Form Tag="C">святлоадчува´льней</Form>
     </Paradigm>
-    <Paradigm pdgId="1090516" Lemma="святло´ахо´ўна" Tag="RA" Govern="">
-        <Form Tag="P">святло´ахо´ўна</Form>
+    <Paradigm pdgId="1090516" Lemma="святлоахо´ўна" Tag="RA" Govern="">
+        <Form Tag="P">святлоахо´ўна</Form>
     </Paradigm>
-    <Paradigm pdgId="1090552" Lemma="святло´непраніка´льна" Tag="RA" Govern="">
-        <Form Tag="P">святло´непраніка´льна</Form>
+    <Paradigm pdgId="1090552" Lemma="святлонепраніка´льна" Tag="RA" Govern="">
+        <Form Tag="P">святлонепраніка´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1090558" Lemma="святло´праніка´льна" Tag="RA" Govern="">
-        <Form Tag="P">святло´праніка´льна</Form>
-        <Form Tag="C">святло´праніка´льней</Form>
+    <Paradigm pdgId="1090558" Lemma="святлопраніка´льна" Tag="RA" Govern="">
+        <Form Tag="P">святлопраніка´льна</Form>
+        <Form Tag="C">святлопраніка´льней</Form>
     </Paradigm>
     <Paradigm pdgId="1192759" Lemma="святлю´тка" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">святлю´тка</Form>
@@ -25773,8 +25773,8 @@
         <Form Tag="P">смірна</Form>
         <Form Tag="C">смірней</Form>
     </Paradigm>
-    <Paradigm pdgId="1091497" Lemma="смо´ўжападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">смо´ўжападо´бна</Form>
+    <Paradigm pdgId="1091497" Lemma="смоўжападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">смоўжападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1091507" Lemma="смугла" Tag="RA" Govern="">
         <Form Tag="P">смугла</Form>
@@ -25838,9 +25838,9 @@
     <Paradigm pdgId="1091583" Lemma="со´нна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">со´нна</Form>
     </Paradigm>
-    <Paradigm pdgId="1091589" Lemma="со´нцападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">со´нцападо´бна</Form>
-        <Form Tag="C">со´нцападо´бней</Form>
+    <Paradigm pdgId="1091589" Lemma="сонцападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">сонцападо´бна</Form>
+        <Form Tag="C">сонцападо´бней</Form>
     </Paradigm>
     <Paradigm pdgId="1091595" Lemma="со´рамна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">со´рамна</Form>
@@ -25851,8 +25851,8 @@
     <Paradigm pdgId="1139727" Lemma="со´смеху" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">со´смеху</Form>
     </Paradigm>
-    <Paradigm pdgId="1091604" Lemma="со´тападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">со´тападо´бна</Form>
+    <Paradigm pdgId="1091604" Lemma="сотападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">сотападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1192774" Lemma="со´тнямі" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">со´тнямі</Form>
@@ -26247,8 +26247,8 @@
     <Paradigm pdgId="1092363" Lemma="ствараюча" Tag="RA" Govern="">
         <Form Tag="P">ствараюча</Form>
     </Paradigm>
-    <Paradigm pdgId="1092382" Lemma="сто´адсо´ткава" Tag="RA" Govern="">
-        <Form Tag="P">сто´адсо´ткава</Form>
+    <Paradigm pdgId="1092382" Lemma="стоадсо´ткава" Tag="RA" Govern="">
+        <Form Tag="P">стоадсо´ткава</Form>
     </Paradigm>
     <Paradigm pdgId="1139749" Lemma="сто´ена" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто´ена</Form>
@@ -26259,8 +26259,8 @@
     <Paradigm pdgId="1192786" Lemma="сто´йма" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто´йма</Form>
     </Paradigm>
-    <Paradigm pdgId="1092400" Lemma="сто´лападо´бна" Tag="RA" Govern="">
-        <Form Tag="P">сто´лападо´бна</Form>
+    <Paradigm pdgId="1092400" Lemma="столападо´бна" Tag="RA" Govern="">
+        <Form Tag="P">столападо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1104533" Lemma="сто´лькі" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто´лькі</Form>
@@ -26597,8 +26597,8 @@
     <Paradigm pdgId="1093010" Lemma="супо´льна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">супо´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1093013" Lemma="супо´льнаасяро´дкава" Tag="RA" Govern="">
-        <Form Tag="P">супо´льнаасяро´дкава</Form>
+    <Paradigm pdgId="1093013" Lemma="супольнаасяро´дкава" Tag="RA" Govern="">
+        <Form Tag="P">супольнаасяро´дкава</Form>
     </Paradigm>
     <Paradigm pdgId="1104537" Lemma="су´праць" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">су´праць</Form>
@@ -26628,7 +26628,6 @@
     </Paradigm>
     <Paradigm pdgId="1093191" Lemma="сур'ёзна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сур'ёзна</Form>
-        <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">па-сур'ёзнаму</Form>
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">сур'ёзней</Form>
     </Paradigm>
     <Paradigm pdgId="1139759" Lemma="суразме´рна" Tag="RX">
@@ -27192,32 +27191,32 @@
     <Paradigm pdgId="1139784" Lemma="тро´йчы" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тро´йчы</Form>
     </Paradigm>
-    <Paradigm pdgId="1095317" Lemma="тро´хбако´ва" Tag="RA" Govern="">
-        <Form Tag="P">тро´хбако´ва</Form>
+    <Paradigm pdgId="1095317" Lemma="трохбако´ва" Tag="RA" Govern="">
+        <Form Tag="P">трохбако´ва</Form>
     </Paradigm>
     <Paradigm pdgId="1104547" Lemma="тро´хі" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тро´хі</Form>
     </Paradigm>
-    <Paradigm pdgId="1095405" Lemma="тро´хкра´тна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тро´хкра´тна</Form>
+    <Paradigm pdgId="1095405" Lemma="трохкра´тна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">трохкра´тна</Form>
     </Paradigm>
-    <Paradigm pdgId="1095490" Lemma="тро´хразо´ва" Tag="RA" Govern="">
-        <Form Tag="P">тро´хразо´ва</Form>
+    <Paradigm pdgId="1095490" Lemma="трохразо´ва" Tag="RA" Govern="">
+        <Form Tag="P">трохразо´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1095517" Lemma="тро´хстадыйна" Tag="RA" Govern="">
-        <Form Tag="P">тро´хстадыйна</Form>
+    <Paradigm pdgId="1095517" Lemma="трохстадыйна" Tag="RA" Govern="">
+        <Form Tag="P">трохстадыйна</Form>
     </Paradigm>
-    <Paradigm pdgId="1095532" Lemma="тро´хступенна" Tag="RA" Govern="">
-        <Form Tag="P">тро´хступенна</Form>
+    <Paradigm pdgId="1095532" Lemma="трохступенна" Tag="RA" Govern="">
+        <Form Tag="P">трохступенна</Form>
     </Paradigm>
     <Paradigm pdgId="1192801" Lemma="тро´ху" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">тро´ху</Form>
     </Paradigm>
-    <Paradigm pdgId="1095553" Lemma="тро´хфазна" Tag="RA" Govern="">
-        <Form Tag="P">тро´хфазна</Form>
+    <Paradigm pdgId="1095553" Lemma="трохфазна" Tag="RA" Govern="">
+        <Form Tag="P">трохфазна</Form>
     </Paradigm>
-    <Paradigm pdgId="1095568" Lemma="тро´хэтапна" Tag="RA" Govern="">
-        <Form Tag="P">тро´хэтапна</Form>
+    <Paradigm pdgId="1095568" Lemma="трохэтапна" Tag="RA" Govern="">
+        <Form Tag="P">трохэтапна</Form>
     </Paradigm>
     <Paradigm pdgId="1192802" Lemma="тро´шачкі" Tag="RX">
         <Form Tag="P" Slouniki="prym2009" pravapis="A1957,A2008">тро´шачкі</Form>
@@ -27873,9 +27872,9 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">узо´рна</Form>
         <Form Tag="C">узо´рней</Form>
     </Paradigm>
-    <Paradigm pdgId="1096992" Lemma="узо´рнапаказа´льна" Tag="RA" Govern="">
-        <Form Tag="P">узо´рнапаказа´льна</Form>
-        <Form Tag="C">узо´рнапаказа´льней</Form>
+    <Paradigm pdgId="1096992" Lemma="узорнапаказа´льна" Tag="RA" Govern="">
+        <Form Tag="P">узорнапаказа´льна</Form>
+        <Form Tag="C">узорнапаказа´льней</Form>
     </Paradigm>
     <Paradigm pdgId="1096995" Lemma="узо´рыста" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">узо´рыста</Form>
@@ -28056,8 +28055,8 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">умо´ўна</Form>
         <Form Tag="C">умо´ўней</Form>
     </Paradigm>
-    <Paradigm pdgId="1097298" Lemma="умо´ўнарэфлекто´рна" Tag="RA" Govern="">
-        <Form Tag="P">умо´ўнарэфлекто´рна</Form>
+    <Paradigm pdgId="1097298" Lemma="умоўнарэфлекто´рна" Tag="RA" Govern="">
+        <Form Tag="P">умоўнарэфлекто´рна</Form>
     </Paradigm>
     <Paradigm pdgId="1139851" Lemma="унаём" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">унаём</Form>
@@ -29070,26 +29069,26 @@
     <Paradigm pdgId="0" Lemma="фо´ліа" Tag="RX">
         <Form Tag="P" Slouniki="sbm2012" pravapis="A2008">фо´ліа</Form>
     </Paradigm>
-    <Paradigm pdgId="1099409" Lemma="фо´награфі´чна" Tag="RA" Govern="">
-        <Form Tag="P">фо´награфі´чна</Form>
+    <Paradigm pdgId="1099409" Lemma="фонаграфі´чна" Tag="RA" Govern="">
+        <Form Tag="P">фонаграфі´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1099421" Lemma="фо´рмаўсто´йліва" Tag="RA" Govern="">
-        <Form Tag="P">фо´рмаўсто´йліва</Form>
-        <Form Tag="C">фо´рмаўсто´йлівей</Form>
+    <Paradigm pdgId="1099421" Lemma="формаўсто´йліва" Tag="RA" Govern="">
+        <Form Tag="P">формаўсто´йліва</Form>
+        <Form Tag="C">формаўсто´йлівей</Form>
     </Paradigm>
-    <Paradigm pdgId="1099436" Lemma="фо´рсмажо´рна" Tag="RA" Govern="">
-        <Form Tag="P">фо´рсмажо´рна</Form>
+    <Paradigm pdgId="1099436" Lemma="форсмажо´рна" Tag="RA" Govern="">
+        <Form Tag="P">форсмажо´рна</Form>
     </Paradigm>
     <Paradigm pdgId="1139933" Lemma="фо´ртэ" Tag="RX">
         <Form Tag="P" Slouniki="sbm2012" pravapis="A1957,A2008">фо´ртэ</Form>
     </Paradigm>
-    <Paradigm pdgId="1099459" Lemma="фо´таадчува´льна" Tag="RA" Govern="">
-        <Form Tag="P">фо´таадчува´льна</Form>
-        <Form Tag="C">фо´таадчува´льней</Form>
+    <Paradigm pdgId="1099459" Lemma="фотаадчува´льна" Tag="RA" Govern="">
+        <Form Tag="P">фотаадчува´льна</Form>
+        <Form Tag="C">фотаадчува´льней</Form>
     </Paradigm>
-    <Paradigm pdgId="1099462" Lemma="фо´таакты´ўна" Tag="RA" Govern="">
-        <Form Tag="P">фо´таакты´ўна</Form>
-        <Form Tag="C">фо´таакты´ўней</Form>
+    <Paradigm pdgId="1099462" Lemma="фотаакты´ўна" Tag="RA" Govern="">
+        <Form Tag="P">фотаакты´ўна</Form>
+        <Form Tag="C">фотаакты´ўней</Form>
     </Paradigm>
     <Paradigm pdgId="1099474" Lemma="фотагені´чна" Tag="RA" Govern="">
         <Form Tag="P">фотагені´чна</Form>
@@ -29130,7 +29129,7 @@
     <Paradigm pdgId="1099535" Lemma="фотатэхні´чна" Tag="RA" Govern="">
         <Form Tag="P">фотатэхні´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1099550" Lemma="фо´таэлектры´чна" Tag="RA" Govern="">
+    <Paradigm pdgId="1099550" Lemma="фотаэлектры´чна" Tag="RA" Govern="">
         <Form Tag="P">фотаэлектры´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1099559" Lemma="фрагмента´рна" Tag="RA" Govern="">
@@ -29326,11 +29325,11 @@
     <Paradigm pdgId="1100229" Lemma="храні´чна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">храні´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1100247" Lemma="хро´наметры´чна" Tag="RA" Govern="">
-        <Form Tag="P">хро´наметры´чна</Form>
+    <Paradigm pdgId="1100247" Lemma="хронаметры´чна" Tag="RA" Govern="">
+        <Form Tag="P">хронаметры´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1100250" Lemma="хро´наскапі´чна" Tag="RA" Govern="">
-        <Form Tag="P">хро´наскапі´чна</Form>
+    <Paradigm pdgId="1100250" Lemma="хронаскапі´чна" Tag="RA" Govern="">
+        <Form Tag="P">хронаскапі´чна</Form>
     </Paradigm>
     <Paradigm pdgId="1100256" Lemma="хрумстка" Tag="RA" Govern="">
         <Form Tag="P">хрумстка</Form>
@@ -29944,11 +29943,11 @@
     <Paradigm pdgId="1102239" Lemma="шква´льна" Tag="RA" Govern="">
         <Form Tag="P">шква´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1102246" Lemma="шкло´графі´чна" Tag="RA" Govern="">
-        <Form Tag="P">шкло´графі´чна</Form>
+    <Paradigm pdgId="1102246" Lemma="шклографі´чна" Tag="RA" Govern="">
+        <Form Tag="P">шклографі´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1102249" Lemma="шкло´падо´бна" Tag="RA" Govern="">
-        <Form Tag="P">шкло´падо´бна</Form>
+    <Paradigm pdgId="1102249" Lemma="шклопадо´бна" Tag="RA" Govern="">
+        <Form Tag="P">шклопадо´бна</Form>
     </Paradigm>
     <Paradigm pdgId="1192875" Lemma="шко´да" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шко´да</Form>
@@ -30033,84 +30032,84 @@
     <Paradigm pdgId="1102733" Lemma="штатна" Tag="RA" Govern="">
         <Form Tag="P">штатна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139955" Lemma="што´ве´чар" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ве´чар</Form>
+    <Paradigm pdgId="1139955" Lemma="штове´чар" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штове´чар</Form>
     </Paradigm>
-    <Paradigm pdgId="1102736" Lemma="што´вечаро´ва" Tag="RA" Govern="">
-        <Form Tag="P">што´вечаро´ва</Form>
+    <Paradigm pdgId="1102736" Lemma="штовечаро´ва" Tag="RA" Govern="">
+        <Form Tag="P">штовечаро´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1102739" Lemma="што´вячэрне" Tag="RA" Govern="">
-        <Form Tag="P">што´вячэрне</Form>
+    <Paradigm pdgId="1102739" Lemma="штовячэрне" Tag="RA" Govern="">
+        <Form Tag="P">штовячэрне</Form>
     </Paradigm>
-    <Paradigm pdgId="1102742" Lemma="што´гадзі´нна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´гадзі´нна</Form>
+    <Paradigm pdgId="1102742" Lemma="штогадзі´нна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штогадзі´нна</Form>
     </Paradigm>
-    <Paradigm pdgId="1192876" Lemma="што´гадзі´ны" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´гадзі´ны</Form>
+    <Paradigm pdgId="1192876" Lemma="штогадзі´ны" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штогадзі´ны</Form>
     </Paradigm>
-    <Paradigm pdgId="1102745" Lemma="што´гадо´ва" Tag="RA" Govern="">
-        <Form Tag="P">што´гадо´ва</Form>
+    <Paradigm pdgId="1102745" Lemma="штогадо´ва" Tag="RA" Govern="">
+        <Form Tag="P">штогадо´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1139956" Lemma="што´го´д" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´го´д</Form>
+    <Paradigm pdgId="1139956" Lemma="штого´д" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штого´д</Form>
     </Paradigm>
-    <Paradigm pdgId="1139957" Lemma="што´го´ду" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´го´ду</Form>
+    <Paradigm pdgId="1139957" Lemma="штого´ду" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штого´ду</Form>
     </Paradigm>
-    <Paradigm pdgId="1102748" Lemma="што´дзённа" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´дзённа</Form>
-        <Form Tag="C">што´дзённей</Form>
+    <Paradigm pdgId="1102748" Lemma="штодзённа" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штодзённа</Form>
+        <Form Tag="C">штодзённей</Form>
     </Paradigm>
-    <Paradigm pdgId="1139958" Lemma="што´дзе´нь" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´дзе´нь</Form>
+    <Paradigm pdgId="1139958" Lemma="штодзе´нь" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штодзе´нь</Form>
     </Paradigm>
-    <Paradigm pdgId="1139959" Lemma="што´дня´" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´дня´</Form>
+    <Paradigm pdgId="1139959" Lemma="штодня´" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штодня´</Form>
     </Paradigm>
-    <Paradigm pdgId="1102751" Lemma="што´дэка´дна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´дэка´дна</Form>
+    <Paradigm pdgId="1102751" Lemma="штодэка´дна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штодэка´дна</Form>
     </Paradigm>
-    <Paradigm pdgId="1102754" Lemma="што´кварта´льна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´кварта´льна</Form>
+    <Paradigm pdgId="1102754" Lemma="штокварта´льна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штокварта´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139960" Lemma="што´ле´та" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ле´та</Form>
+    <Paradigm pdgId="1139960" Lemma="штоле´та" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штоле´та</Form>
     </Paradigm>
-    <Paradigm pdgId="1139961" Lemma="што´ме´сяц" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ме´сяц</Form>
+    <Paradigm pdgId="1139961" Lemma="штоме´сяц" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штоме´сяц</Form>
     </Paradigm>
-    <Paradigm pdgId="1102757" Lemma="што´месяцо´ва" Tag="RA" Govern="">
-        <Form Tag="P">што´месяцо´ва</Form>
+    <Paradigm pdgId="1102757" Lemma="штомесяцо´ва" Tag="RA" Govern="">
+        <Form Tag="P">штомесяцо´ва</Form>
     </Paradigm>
-    <Paradigm pdgId="1102760" Lemma="што´ме´сячна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ме´сячна</Form>
+    <Paradigm pdgId="1102760" Lemma="штоме´сячна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штоме´сячна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139962" Lemma="што´но´ч" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´но´ч</Form>
+    <Paradigm pdgId="1139962" Lemma="штоно´ч" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штоно´ч</Form>
     </Paradigm>
-    <Paradigm pdgId="1102763" Lemma="што´но´чна" Tag="RA" Govern="">
-        <Form Tag="P">што´но´чна</Form>
+    <Paradigm pdgId="1102763" Lemma="штоно´чна" Tag="RA" Govern="">
+        <Form Tag="P">штоно´чна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139963" Lemma="што´но´чы" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´но´чы</Form>
+    <Paradigm pdgId="1139963" Lemma="штоно´чы" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штоно´чы</Form>
     </Paradigm>
     <Paradigm pdgId="1139964" Lemma="што´парам" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´парам</Form>
     </Paradigm>
-    <Paradigm pdgId="1139965" Lemma="што´ра´з" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ра´з</Form>
+    <Paradigm pdgId="1139965" Lemma="штора´з" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штора´з</Form>
     </Paradigm>
-    <Paradigm pdgId="1139966" Lemma="што´ра´ніцы" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ра´ніцы</Form>
+    <Paradigm pdgId="1139966" Lemma="штора´ніцы" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штора´ніцы</Form>
     </Paradigm>
-    <Paradigm pdgId="1102766" Lemma="што´секундна" Tag="RA" Govern="">
-        <Form Tag="P">што´секундна</Form>
+    <Paradigm pdgId="1102766" Lemma="штосекундна" Tag="RA" Govern="">
+        <Form Tag="P">штосекундна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139969" Lemma="што´сі´лы" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´сі´лы</Form>
+    <Paradigm pdgId="1139969" Lemma="штосі´лы" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штосі´лы</Form>
     </Paradigm>
-    <Paradigm pdgId="1102769" Lemma="што´су´тачна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´су´тачна</Form>
+    <Paradigm pdgId="1102769" Lemma="штосу´тачна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штосу´тачна</Form>
     </Paradigm>
     <Paradigm pdgId="1139967" Lemma="што´сь" Tag="RX">
         <Form Tag="P">што´сь</Form>
@@ -30118,17 +30117,17 @@
     <Paradigm pdgId="1139968" Lemma="што´сьці" Tag="RX">
         <Form Tag="P">што´сьці</Form>
     </Paradigm>
-    <Paradigm pdgId="1139970" Lemma="што´ты´дзень" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´ты´дзень</Form>
+    <Paradigm pdgId="1139970" Lemma="штоты´дзень" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штоты´дзень</Form>
     </Paradigm>
-    <Paradigm pdgId="1102772" Lemma="што´тыднёва" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´тыднёва</Form>
+    <Paradigm pdgId="1102772" Lemma="штотыднёва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штотыднёва</Form>
     </Paradigm>
-    <Paradigm pdgId="1102775" Lemma="што´хвілі´нна" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´хвілі´нна</Form>
+    <Paradigm pdgId="1102775" Lemma="штохвілі´нна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штохвілі´нна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139971" Lemma="што´хвілі´ны" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">што´хвілі´ны</Form>
+    <Paradigm pdgId="1139971" Lemma="штохвілі´ны" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">штохвілі´ны</Form>
     </Paradigm>
     <Paradigm pdgId="1102802" Lemma="штучна" Tag="RA" Govern="">
         <Form Tag="P">штучна</Form>
@@ -30237,33 +30236,33 @@
         <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">шырэ´й</Form>
         <Form Tag="C" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">шырачэ´й</Form>
     </Paradigm>
-    <Paradigm pdgId="1192884" Lemma="шыро´кавяшча´льна" Tag="RX">
-        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шыро´кавяшча´льна</Form>
+    <Paradigm pdgId="1192884" Lemma="шырокавяшча´льна" Tag="RX">
+        <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шырокавяшча´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1103006" Lemma="шыро´кадаступна" Tag="RA" Govern="">
+    <Paradigm pdgId="1103006" Lemma="шырокадаступна" Tag="RA" Govern="">
         <Form Tag="P">шыро´кадаступна</Form>
     </Paradigm>
-    <Paradigm pdgId="1103009" Lemma="шыро´кадасяжна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´кадасяжна</Form>
+    <Paradigm pdgId="1103009" Lemma="шырокадасяжна" Tag="RA" Govern="">
+        <Form Tag="P">шырокадасяжна</Form>
     </Paradigm>
-    <Paradigm pdgId="1103021" Lemma="шыро´камаштабна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´камаштабна</Form>
-        <Form Tag="C">шыро´камаштабней</Form>
+    <Paradigm pdgId="1103021" Lemma="шырокамаштабна" Tag="RA" Govern="">
+        <Form Tag="P">шырокамаштабна</Form>
+        <Form Tag="C">шырокамаштабней</Form>
     </Paradigm>
-    <Paradigm pdgId="1103027" Lemma="шыро´капало´сна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´капало´сна</Form>
+    <Paradigm pdgId="1103027" Lemma="шырокапало´сна" Tag="RA" Govern="">
+        <Form Tag="P">шырокапало´сна</Form>
     </Paradigm>
-    <Paradigm pdgId="1103030" Lemma="шыро´капро´фільна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´капро´фільна</Form>
+    <Paradigm pdgId="1103030" Lemma="шырокапро´фільна" Tag="RA" Govern="">
+        <Form Tag="P">шырокапро´фільна</Form>
     </Paradigm>
-    <Paradigm pdgId="1102988" Lemma="шыро´каўжыва´льна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´каўжыва´льна</Form>
+    <Paradigm pdgId="1102988" Lemma="шырокаўжыва´льна" Tag="RA" Govern="">
+        <Form Tag="P">шырокаўжыва´льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1103036" Lemma="шыро´кафарматна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´кафарматна</Form>
+    <Paradigm pdgId="1103036" Lemma="шырокафарматна" Tag="RA" Govern="">
+        <Form Tag="P">шырокафарматна</Form>
     </Paradigm>
-    <Paradigm pdgId="1103039" Lemma="шыро´каэкранна" Tag="RA" Govern="">
-        <Form Tag="P">шыро´каэкранна</Form>
+    <Paradigm pdgId="1103039" Lemma="шырокаэкранна" Tag="RA" Govern="">
+        <Form Tag="P">шырокаэкранна</Form>
     </Paradigm>
     <Paradigm pdgId="1015115" Lemma="шыта" Tag="RA" Govern="">
         <Form Tag="P">шыта</Form>

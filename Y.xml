@@ -313,6 +313,9 @@
     <Paradigm pdgId="0" Lemma="лоп" Tag="Y">
         <Form Tag="" pravapis="A2008">лоп</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="лю´ленькі" Tag="Y">
+        <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">лю´ленькі</Form>
+    </Paradigm>
     <Paradigm pdgId="0" Lemma="лясь" Tag="Y">
         <Form Tag="" pravapis="A2008">лясь</Form>
     </Paradigm>
@@ -332,7 +335,10 @@
         <Form Tag="" pravapis="A2008">мірг</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="му" Tag="Y">
-        <Form Tag="" Slouniki="tsbm2016" pravapis="2008">му</Form>
+        <Form Tag="" Slouniki="tsbm2016" pravapis="A2008">му</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="мур-мур" Tag="Y">
+        <Form Tag="" Slouniki="tsbm2016,krapivabr2012" pravapis="A2008">мур-мур</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="мяў" Tag="Y">
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">мяў</Form>
@@ -532,7 +538,7 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">чых</Form>
     </Paradigm>
     <Paradigm pdgId="1126897" Lemma="ша" Tag="Y">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">ша</Form>
+        <Form Tag="" Slouniki="" pravapis="A1957,A2008">ша</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="шморг" Tag="Y">
         <Form Tag="" pravapis="A2008">шморг</Form>
@@ -544,13 +550,13 @@
         <Form Tag="" pravapis="A2008">шмяк</Form>
     </Paradigm>
     <Paradigm pdgId="1126898" Lemma="што за лі´ха" Tag="Y">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">што за лі´ха</Form>
+        <Form Tag="" Slouniki="" pravapis="A1957,A2008">што за лі´ха</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="штурх" Tag="Y">
         <Form Tag="" pravapis="A2008">штурх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ш-ш" Tag="Y">
-        <Form Tag="" pravapis="A2008">ш-ш</Form>
+        <Form Tag="" Slouniki="tsbm1984" pravapis="A1957,A2008">ш-ш</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="эге-ге´" Tag="Y">
         <Form Tag="" pravapis="A2008">эге-ге´</Form>

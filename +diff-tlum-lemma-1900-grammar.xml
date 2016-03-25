@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="0" Lemma="ко´шачка" Tag="NCAINF2">
-        <Form Tag="NS">ко´шачка</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">ко´шачка</Form>
         <Form Tag="GS">ко´шачкі</Form>
         <Form Tag="DS">ко´шачцы</Form>
         <Form Tag="AS">ко´шачку</Form>
@@ -16,7 +16,7 @@
         <Form Tag="LP">ко´шачках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ко´шыкавы" Tag="ARP">
-        <Form Tag="MNS">ко´шыкавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ко´шыкавы</Form>
         <Form Tag="MGS">ко´шыкавага</Form>
         <Form Tag="MDS">ко´шыкаваму</Form>
         <Form Tag="MAS">ко´шыкавы</Form>
@@ -46,7 +46,7 @@
         <Form Tag="PLP">ко´шыкавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="контрразве´дчыца" Tag="NCAPNF2">
-        <Form Tag="NS">контрразве´дчыца</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">контрразве´дчыца</Form>
         <Form Tag="GS">контрразве´дчыцы</Form>
         <Form Tag="DS">контрразве´дчыцы</Form>
         <Form Tag="AS">контрразве´дчыцу</Form>
@@ -63,7 +63,7 @@
         <Form Tag="LP">контрразве´дчыцах</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="коп'епадо´бнасць" Tag="NCIINF3">
-        <Form Tag="NS">коп'епадо´бнасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">коп'епадо´бнасць</Form>
         <Form Tag="GS">коп'епадо´бнасці</Form>
         <Form Tag="DS">коп'епадо´бнасці</Form>
         <Form Tag="AS">коп'епадо´бнасць</Form>
@@ -71,7 +71,7 @@
         <Form Tag="LS">коп'епадо´бнасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кпі´нны" Tag="ARP">
-        <Form Tag="MNS">кпі´нны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кпі´нны</Form>
         <Form Tag="MGS">кпі´ннага</Form>
         <Form Tag="MDS">кпі´ннаму</Form>
         <Form Tag="MAS">кпі´нны</Form>
@@ -101,7 +101,7 @@
         <Form Tag="PLP">кпі´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кра´мніцкі" Tag="ARP">
-        <Form Tag="MNS">кра´мніцкі</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кра´мніцкі</Form>
         <Form Tag="MGS">кра´мніцкага</Form>
         <Form Tag="MDS">кра´мніцкаму</Form>
         <Form Tag="MAS">кра´мніцкі</Form>
@@ -131,7 +131,7 @@
         <Form Tag="PLP">кра´мніцкіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кра´нны" Tag="ARP">
-        <Form Tag="MNS">кра´нны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кра´нны</Form>
         <Form Tag="MGS">кра´ннага</Form>
         <Form Tag="MDS">кра´ннаму</Form>
         <Form Tag="MAS">кра´нны</Form>
@@ -161,7 +161,7 @@
         <Form Tag="PLP">кра´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кра´сачны" Tag="ARP">
-        <Form Tag="MNS">кра´сачны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кра´сачны</Form>
         <Form Tag="MGS">кра´сачнага</Form>
         <Form Tag="MDS">кра´сачнаму</Form>
         <Form Tag="MAS">кра´сачны</Form>
@@ -191,7 +191,7 @@
         <Form Tag="PLP">кра´сачных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кра´тавы" Tag="ARP">
-        <Form Tag="MNS">кра´тавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кра´тавы</Form>
         <Form Tag="MGS">кра´тавага</Form>
         <Form Tag="MDS">кра´таваму</Form>
         <Form Tag="MAS">кра´тавы</Form>
@@ -221,7 +221,7 @@
         <Form Tag="PLP">кра´тавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="краваха´рканне" Tag="NCIINN1">
-        <Form Tag="NS">краваха´рканне</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">краваха´рканне</Form>
         <Form Tag="GS">краваха´ркання</Form>
         <Form Tag="DS">краваха´рканню</Form>
         <Form Tag="AS">краваха´рканне</Form>
@@ -235,7 +235,7 @@
         <Form Tag="LP">краваха´рканнях</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="краваха´ркаць" Tag="VIMN1">
-        <Form Tag="0">краваха´ркаць</Form>
+        <Form Tag="0" Slouniki="tsbm1984">краваха´ркаць</Form>
         <Form Tag="R1S">краваха´ркаю</Form>
         <Form Tag="R2S">краваха´ркаеш</Form>
         <Form Tag="R3S">краваха´ркае</Form>
@@ -251,7 +251,7 @@
         <Form Tag="RG">краваха´ркаючы</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крае´нне" Tag="NCIINN1">
-        <Form Tag="NS">крае´нне</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">крае´нне</Form>
         <Form Tag="GS">крае´ння</Form>
         <Form Tag="DS">крае´нню</Form>
         <Form Tag="AS">крае´нне</Form>
@@ -259,7 +259,7 @@
         <Form Tag="LS">крае´нні</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крако´савы" Tag="ARP">
-        <Form Tag="MNS">крако´савы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крако´савы</Form>
         <Form Tag="MGS">крако´савага</Form>
         <Form Tag="MDS">крако´саваму</Form>
         <Form Tag="MAS">крако´савы</Form>
@@ -289,7 +289,7 @@
         <Form Tag="PLP">крако´савых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крана´льнасць" Tag="NCIINF3">
-        <Form Tag="NS">крана´льнасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">крана´льнасць</Form>
         <Form Tag="GS">крана´льнасці</Form>
         <Form Tag="DS">крана´льнасці</Form>
         <Form Tag="AS">крана´льнасць</Form>
@@ -304,7 +304,7 @@
         <Form Tag="LP">крана´льнасцях</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кранаўшчы´цкі" Tag="ARP">
-        <Form Tag="MNS">кранаўшчы´цкі</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кранаўшчы´цкі</Form>
         <Form Tag="MGS">кранаўшчы´цкага</Form>
         <Form Tag="MDS">кранаўшчы´цкаму</Form>
         <Form Tag="MAS">кранаўшчы´цкі</Form>
@@ -334,7 +334,7 @@
         <Form Tag="PLP">кранаўшчы´цкіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крапі´віна" Tag="NCIINF2">
-        <Form Tag="NS">крапі´віна</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">крапі´віна</Form>
         <Form Tag="GS">крапі´віны</Form>
         <Form Tag="DS">крапі´віне</Form>
         <Form Tag="AS">крапі´віну</Form>
@@ -350,7 +350,7 @@
         <Form Tag="LP">крапі´вінах</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="красво´рдны" Tag="ARP">
-        <Form Tag="MNS">красво´рдны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">красво´рдны</Form>
         <Form Tag="MGS">красво´рднага</Form>
         <Form Tag="MDS">красво´рднаму</Form>
         <Form Tag="MAS">красво´рдны</Form>
@@ -380,7 +380,7 @@
         <Form Tag="PLP">красво´рдных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="красну´шны" Tag="ARP">
-        <Form Tag="MNS">красну´шны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">красну´шны</Form>
         <Form Tag="MGS">красну´шнага</Form>
         <Form Tag="MDS">красну´шнаму</Form>
         <Form Tag="MAS">красну´шны</Form>
@@ -410,7 +410,7 @@
         <Form Tag="PLP">красну´шных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="красо´вачны" Tag="ARP">
-        <Form Tag="MNS">красо´вачны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">красо´вачны</Form>
         <Form Tag="MGS">красо´вачнага</Form>
         <Form Tag="MDS">красо´вачнаму</Form>
         <Form Tag="MAS">красо´вачны</Form>
@@ -440,7 +440,7 @@
         <Form Tag="PLP">красо´вачных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кро´ўнасць" Tag="NCIINF3">
-        <Form Tag="NS">кро´ўнасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кро´ўнасць</Form>
         <Form Tag="GS">кро´ўнасці</Form>
         <Form Tag="DS">кро´ўнасці</Form>
         <Form Tag="AS">кро´ўнасць</Form>
@@ -448,7 +448,7 @@
         <Form Tag="LS">кро´ўнасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кро´шачка" Tag="NCIINF2">
-        <Form Tag="NS">кро´шачка</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кро´шачка</Form>
         <Form Tag="GS">кро´шачкі</Form>
         <Form Tag="DS">кро´шачцы</Form>
         <Form Tag="AS">кро´шачку</Form>
@@ -463,7 +463,7 @@
         <Form Tag="LP">кро´шачках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кровапралі´тнасць" Tag="NCIINF3">
-        <Form Tag="NS">кровапралі´тнасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кровапралі´тнасць</Form>
         <Form Tag="GS">кровапралі´тнасці</Form>
         <Form Tag="DS">кровапралі´тнасці</Form>
         <Form Tag="AS">кровапралі´тнасць</Form>
@@ -471,7 +471,7 @@
         <Form Tag="LS">кровапралі´тнасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кровапраліццё´" Tag="NCIINN1">
-        <Form Tag="NS">кровапраліццё´</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кровапраліццё´</Form>
         <Form Tag="GS">кровапраліцця´</Form>
         <Form Tag="DS">кровапраліццю´</Form>
         <Form Tag="AS">кровапраліццё´</Form>
@@ -479,7 +479,7 @@
         <Form Tag="LS">кровапраліцці´</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крокаме´рны" Tag="ARP">
-        <Form Tag="MNS">крокаме´рны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крокаме´рны</Form>
         <Form Tag="MGS">крокаме´рнага</Form>
         <Form Tag="MDS">крокаме´рнаму</Form>
         <Form Tag="MAS">крокаме´рны</Form>
@@ -509,7 +509,7 @@
         <Form Tag="PLP">крокаме´рных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кругападо´бнасць" Tag="NCIINF3">
-        <Form Tag="NS">кругападо´бнасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кругападо´бнасць</Form>
         <Form Tag="GS">кругападо´бнасці</Form>
         <Form Tag="DS">кругападо´бнасці</Form>
         <Form Tag="AS">кругападо´бнасць</Form>
@@ -517,7 +517,7 @@
         <Form Tag="LS">кругападо´бнасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кругладо´нны" Tag="ARP">
-        <Form Tag="MNS">кругладо´нны</Form>
+        <Form Tag="MNS" Slouniki="tsbm1984">кругладо´нны</Form>
         <Form Tag="MGS">кругладо´ннага</Form>
         <Form Tag="MDS">кругладо´ннаму</Form>
         <Form Tag="MAS">кругладо´нны</Form>
@@ -547,7 +547,7 @@
         <Form Tag="PLP">кругладо´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="круглалі´кі" Tag="ARP">
-        <Form Tag="MNS">круглалі´кі</Form>
+        <Form Tag="MNS" Slouniki="tsbm1984">круглалі´кі</Form>
         <Form Tag="MGS">круглалі´кага</Form>
         <Form Tag="MDS">круглалі´каму</Form>
         <Form Tag="MAS">круглалі´кі</Form>
@@ -577,7 +577,7 @@
         <Form Tag="PLP">круглалі´кіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="круглатва´расць" Tag="NCIINF3">
-        <Form Tag="NS">круглатва´расць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">круглатва´расць</Form>
         <Form Tag="GS">круглатва´расці</Form>
         <Form Tag="DS">круглатва´расці</Form>
         <Form Tag="AS">круглатва´расць</Form>
@@ -585,7 +585,7 @@
         <Form Tag="LS">круглатва´расці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крумкачо´вы" Tag="ARP">
-        <Form Tag="MNS">крумкачо´вы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крумкачо´вы</Form>
         <Form Tag="MGS">крумкачо´вага</Form>
         <Form Tag="MDS">крумкачо´ваму</Form>
         <Form Tag="MAS">крумкачо´вы</Form>
@@ -615,7 +615,7 @@
         <Form Tag="PLP">крумкачо´вых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="круцё´лачны" Tag="ARP">
-        <Form Tag="MNS">круцё´лачны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">круцё´лачны</Form>
         <Form Tag="MGS">круцё´лачнага</Form>
         <Form Tag="MDS">круцё´лачнаму</Form>
         <Form Tag="MAS">круцё´лачны</Form>
@@ -645,7 +645,7 @@
         <Form Tag="PLP">круцё´лачных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кручкатво´рка" Tag="NCAPNF2">
-        <Form Tag="NS">кручкатво´рка</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кручкатво´рка</Form>
         <Form Tag="GS">кручкатво´ркі</Form>
         <Form Tag="DS">кручкатво´рцы</Form>
         <Form Tag="AS">кручкатво´рку</Form>
@@ -660,7 +660,7 @@
         <Form Tag="LP">кручкатво´рках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кручкатво´рскі" Tag="ARP">
-        <Form Tag="MNS">кручкатво´рскі</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кручкатво´рскі</Form>
         <Form Tag="MGS">кручкатво´рскага</Form>
         <Form Tag="MDS">кручкатво´рскаму</Form>
         <Form Tag="MAS">кручкатво´рскага</Form>
@@ -690,7 +690,7 @@
         <Form Tag="PLP">кручкатво´рскіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кручо´чны" Tag="ARP">
-        <Form Tag="MNS">кручо´чны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кручо´чны</Form>
         <Form Tag="MGS">кручо´чнага</Form>
         <Form Tag="MDS">кручо´чнаму</Form>
         <Form Tag="MAS">кручо´чны</Form>
@@ -720,7 +720,7 @@
         <Form Tag="PLP">кручо´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крушо´нны" Tag="ARP">
-        <Form Tag="MNS">крушо´нны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крушо´нны</Form>
         <Form Tag="MGS">крушо´ннага</Form>
         <Form Tag="MDS">крушо´ннаму</Form>
         <Form Tag="MAS">крушо´нны</Form>
@@ -750,7 +750,7 @@
         <Form Tag="PLP">крушо´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кры´лавы" Tag="ARP">
-        <Form Tag="MNS">кры´лавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кры´лавы</Form>
         <Form Tag="MGS">кры´лавага</Form>
         <Form Tag="MDS">кры´лаваму</Form>
         <Form Tag="MAS">кры´лавы</Form>
@@ -780,7 +780,7 @@
         <Form Tag="PLP">кры´лавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кры´ллевы" Tag="ARP">
-        <Form Tag="MNS">кры´ллевы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кры´ллевы</Form>
         <Form Tag="MGS">кры´ллевага</Form>
         <Form Tag="MDS">кры´ллеваму</Form>
         <Form Tag="MAS">кры´ллевы</Form>
@@ -810,7 +810,7 @@
         <Form Tag="PLP">кры´ллевых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыва´васць" Tag="NCIINF3">
-        <Form Tag="NS">крыва´васць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">крыва´васць</Form>
         <Form Tag="GS">крыва´васці</Form>
         <Form Tag="DS">крыва´васці</Form>
         <Form Tag="AS">крыва´васць</Form>
@@ -818,7 +818,7 @@
         <Form Tag="LS">крыва´васці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыва´ўнікавы" Tag="ARP">
-        <Form Tag="MNS">крыва´ўнікавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыва´ўнікавы</Form>
         <Form Tag="MGS">крыва´ўнікавага</Form>
         <Form Tag="MDS">крыва´ўнікаваму</Form>
         <Form Tag="MAS">крыва´ўнікавы</Form>
@@ -848,7 +848,7 @@
         <Form Tag="PLP">крыва´ўнікавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крываду´шніцкі" Tag="ARP">
-        <Form Tag="MNS">крываду´шніцкі</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крываду´шніцкі</Form>
         <Form Tag="MGS">крываду´шніцкага</Form>
         <Form Tag="MDS">крываду´шніцкаму</Form>
         <Form Tag="MAS">крываду´шніцкі</Form>
@@ -878,7 +878,7 @@
         <Form Tag="PLP">крываду´шніцкіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крываду´шнічанне" Tag="NCIINN1">
-        <Form Tag="NS">крываду´шнічанне</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">крываду´шнічанне</Form>
         <Form Tag="GS">крываду´шнічання</Form>
         <Form Tag="DS">крываду´шнічанню</Form>
         <Form Tag="AS">крываду´шнічанне</Form>
@@ -886,7 +886,7 @@
         <Form Tag="LS">крываду´шнічанні</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крываду´шша" Tag="NCIINN1">
-        <Form Tag="NS">крываду´шша</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">крываду´шша</Form>
         <Form Tag="GS">крываду´шша</Form>
         <Form Tag="DS">крываду´шшу</Form>
         <Form Tag="AS">крываду´шша</Form>
@@ -894,7 +894,7 @@
         <Form Tag="LS">крываду´шшы</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыжа´нкавы" Tag="ARP">
-        <Form Tag="MNS">крыжа´нкавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыжа´нкавы</Form>
         <Form Tag="MGS">крыжа´нкавага</Form>
         <Form Tag="MDS">крыжа´нкаваму</Form>
         <Form Tag="MAS">крыжа´нкавы</Form>
@@ -924,7 +924,7 @@
         <Form Tag="PLP">крыжа´нкавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыжава´начны" Tag="ARP">
-        <Form Tag="MNS">крыжава´начны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыжава´начны</Form>
         <Form Tag="MGS">крыжава´начнага</Form>
         <Form Tag="MDS">крыжава´начнаму</Form>
         <Form Tag="MAS">крыжава´начны</Form>
@@ -954,7 +954,7 @@
         <Form Tag="PLP">крыжава´начных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыжадзю´бавы" Tag="ARP">
-        <Form Tag="MNS">крыжадзю´бавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыжадзю´бавы</Form>
         <Form Tag="MGS">крыжадзю´бавага</Form>
         <Form Tag="MDS">крыжадзю´баваму</Form>
         <Form Tag="MAS">крыжадзю´бавы</Form>
@@ -984,7 +984,7 @@
         <Form Tag="PLP">крыжадзю´бавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыжападо´бнасць" Tag="NCIINF3">
-        <Form Tag="NS">крыжападо´бнасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">крыжападо´бнасць</Form>
         <Form Tag="GS">крыжападо´бнасці</Form>
         <Form Tag="DS">крыжападо´бнасці</Form>
         <Form Tag="AS">крыжападо´бнасць</Form>
@@ -992,7 +992,7 @@
         <Form Tag="LS">крыжападо´бнасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыла´тасць" Tag="NCIINF3">
-        <Form Tag="NS">крыла´тасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">крыла´тасць</Form>
         <Form Tag="GS">крыла´тасці</Form>
         <Form Tag="DS">крыла´тасці</Form>
         <Form Tag="AS">крыла´тасць</Form>
@@ -1000,7 +1000,7 @@
         <Form Tag="LS">крыла´тасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыналі´навы" Tag="ARP">
-        <Form Tag="MNS">крыналі´навы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыналі´навы</Form>
         <Form Tag="MGS">крыналі´навага</Form>
         <Form Tag="MDS">крыналі´наваму</Form>
         <Form Tag="MAS">крыналі´навы</Form>
@@ -1030,7 +1030,7 @@
         <Form Tag="PLP">крыналі´навых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыналі´нны" Tag="ARP">
-        <Form Tag="MNS">крыналі´нны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыналі´нны</Form>
         <Form Tag="MGS">крыналі´ннага</Form>
         <Form Tag="MDS">крыналі´ннаму</Form>
         <Form Tag="MAS">крыналі´нны</Form>
@@ -1060,7 +1060,7 @@
         <Form Tag="PLP">крыналі´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыпто´навы" Tag="ARP">
-        <Form Tag="MNS">крыпто´навы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крыпто´навы</Form>
         <Form Tag="MGS">крыпто´навага</Form>
         <Form Tag="MDS">крыпто´наваму</Form>
         <Form Tag="MAS">крыпто´навы</Form>
@@ -1090,7 +1090,7 @@
         <Form Tag="PLP">крыпто´навых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крышталагідра´т" Tag="NCIINM1">
-        <Form Tag="NS">крышталагідра´т</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">крышталагідра´т</Form>
         <Form Tag="GS">крышталагідра´ту</Form>
         <Form Tag="DS">крышталагідра´ту</Form>
         <Form Tag="AS">крышталагідра´т</Form>
@@ -1098,7 +1098,7 @@
         <Form Tag="LS">крышталагідра´це</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крышталагра´фія" Tag="NCIINF2">
-        <Form Tag="NS">крышталагра´фія</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">крышталагра´фія</Form>
         <Form Tag="GS">крышталагра´фіі</Form>
         <Form Tag="DS">крышталагра´фіі</Form>
         <Form Tag="AS">крышталагра´фію</Form>
@@ -1113,7 +1113,7 @@
         <Form Tag="LP">крышталагра´фіях</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крышталаграфі´чны" Tag="ARP">
-        <Form Tag="MNS">крышталаграфі´чны</Form>
+        <Form Tag="MNS" Slouniki="tsbm1984">крышталаграфі´чны</Form>
         <Form Tag="MGS">крышталаграфі´чнага</Form>
         <Form Tag="MDS">крышталаграфі´чнаму</Form>
         <Form Tag="MAS">крышталаграфі´чны</Form>
@@ -1143,7 +1143,7 @@
         <Form Tag="PLP">крышталаграфі´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крыштало´граф" Tag="NCAPNM1">
-        <Form Tag="NS">крыштало´граф</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">крыштало´граф</Form>
         <Form Tag="GS">крыштало´графа</Form>
         <Form Tag="DS">крыштало´графу</Form>
         <Form Tag="AS">крыштало´графа</Form>
@@ -1157,7 +1157,7 @@
         <Form Tag="LP">крыштало´графах</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэ´керны" Tag="ARP">
-        <Form Tag="MNS">крэ´керны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крэ´керны</Form>
         <Form Tag="MGS">крэ´кернага</Form>
         <Form Tag="MDS">крэ´кернаму</Form>
         <Form Tag="MAS">крэ´керны</Form>
@@ -1187,7 +1187,7 @@
         <Form Tag="PLP">крэ´керных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэ´кнуць" Tag="VIPN1">
-        <Form Tag="0">крэ´кнуць</Form>
+        <Form Tag="0" Slouniki="tsbm1984">крэ´кнуць</Form>
         <Form Tag="F1S">крэ´кну</Form>
         <Form Tag="F2S">крэ´кнеш</Form>
         <Form Tag="F3S">крэ´кне</Form>
@@ -1203,7 +1203,7 @@
         <Form Tag="PG">крэ´кнуўшы</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэ´сельца" Tag="NCIINN1">
-        <Form Tag="NS">крэ´сельца</Form>
+        <Form Tag="NS" Slouniki="tsblm1996,tsbm1984">крэ´сельца</Form>
         <Form Tag="GS">крэ´сельца</Form>
         <Form Tag="DS">крэ´сельцу</Form>
         <Form Tag="AS">крэ´сельца</Form>
@@ -1217,7 +1217,7 @@
         <Form Tag="LP">крэ´сельцах</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэ´сы" Tag="NCIINP7">
-        <Form Tag="NP">крэ´сы</Form>
+        <Form Tag="NP" Slouniki="tsbm1984">крэ´сы</Form>
         <Form Tag="GP">крэ´саў</Form>
         <Form Tag="DP">крэ´сам</Form>
         <Form Tag="AP">крэ´сы</Form>
@@ -1225,7 +1225,7 @@
         <Form Tag="LP">крэ´сах</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэ´чатавы" Tag="ARP">
-        <Form Tag="MNS">крэ´чатавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крэ´чатавы</Form>
         <Form Tag="MGS">крэ´чатавага</Form>
         <Form Tag="MDS">крэ´чатаваму</Form>
         <Form Tag="MAS">крэ´чатавы</Form>
@@ -1255,7 +1255,7 @@
         <Form Tag="PLP">крэ´чатавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэве´ткавы" Tag="ARP">
-        <Form Tag="MNS">крэве´ткавы</Form>
+        <Form Tag="MNS" Slouniki="tsbm1984">крэве´ткавы</Form>
         <Form Tag="MGS">крэве´ткавага</Form>
         <Form Tag="MDS">крэве´ткаваму</Form>
         <Form Tag="MAS">крэве´ткавы</Form>
@@ -1285,7 +1285,7 @@
         <Form Tag="PLP">крэве´ткавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэмато´рны" Tag="ARP">
-        <Form Tag="MNS">крэмато´рны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крэмато´рны</Form>
         <Form Tag="MGS">крэмато´рнага</Form>
         <Form Tag="MDS">крэмато´рнаму</Form>
         <Form Tag="MAS">крэмато´рны</Form>
@@ -1315,7 +1315,7 @@
         <Form Tag="PLP">крэмато´рных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэмі´раваць" Tag="VTMN1">
-        <Form Tag="0">крэмі´раваць</Form>
+        <Form Tag="0" Slouniki="tsblm1996">крэмі´раваць</Form>
         <Form Tag="R1S">крэмі´рую</Form>
         <Form Tag="R2S">крэмі´руеш</Form>
         <Form Tag="R3S">крэмі´руе</Form>
@@ -1331,7 +1331,7 @@
         <Form Tag="RG">крэмі´руючы</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэмі´раваць" Tag="VTPN1">
-        <Form Tag="0">крэмі´раваць</Form>
+        <Form Tag="0" Slouniki="tsblm1996">крэмі´раваць</Form>
         <Form Tag="F1S">крэмі´рую</Form>
         <Form Tag="F2S">крэмі´руеш</Form>
         <Form Tag="F3S">крэмі´руе</Form>
@@ -1347,7 +1347,7 @@
         <Form Tag="PG">крэмі´раваўшы</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэці´нскі" Tag="ARP">
-        <Form Tag="MNS">крэці´нскі</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крэці´нскі</Form>
         <Form Tag="MGS">крэці´нскага</Form>
         <Form Tag="MDS">крэці´нскаму</Form>
         <Form Tag="MAS">крэці´нскі</Form>
@@ -1377,7 +1377,7 @@
         <Form Tag="PLP">крэці´нскіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="крэціні´чны" Tag="ARP">
-        <Form Tag="MNS">крэціні´чны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">крэціні´чны</Form>
         <Form Tag="MGS">крэціні´чнага</Form>
         <Form Tag="MDS">крэціні´чнаму</Form>
         <Form Tag="MAS">крэціні´чны</Form>
@@ -1407,7 +1407,7 @@
         <Form Tag="PLP">крэціні´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ксе´раксны" Tag="ARP">
-        <Form Tag="MNS">ксе´раксны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ксе´раксны</Form>
         <Form Tag="MGS">ксе´ракснага</Form>
         <Form Tag="MDS">ксе´ракснаму</Form>
         <Form Tag="MAS">ксе´раксны</Form>
@@ -1437,7 +1437,7 @@
         <Form Tag="PLP">ксе´раксных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ксераграфі´чны" Tag="ARP">
-        <Form Tag="MNS">ксераграфі´чны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ксераграфі´чны</Form>
         <Form Tag="MGS">ксераграфі´чнага</Form>
         <Form Tag="MDS">ксераграфі´чнаму</Form>
         <Form Tag="MAS">ксераграфі´чны</Form>
@@ -1467,7 +1467,7 @@
         <Form Tag="PLP">ксераграфі´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ксерафо´рмны" Tag="ARP">
-        <Form Tag="MNS">ксерафо´рмны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ксерафо´рмны</Form>
         <Form Tag="MGS">ксерафо´рмнага</Form>
         <Form Tag="MDS">ксерафо´рмнаму</Form>
         <Form Tag="MAS">ксерафо´рмны</Form>
@@ -1497,7 +1497,7 @@
         <Form Tag="PLP">ксерафо´рмных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ксілафо´нны" Tag="ARP">
-        <Form Tag="MNS">ксілафо´нны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ксілафо´нны</Form>
         <Form Tag="MGS">ксілафо´ннага</Form>
         <Form Tag="MDS">ксілафо´ннаму</Form>
         <Form Tag="MAS">ксілафо´нны</Form>
@@ -1527,7 +1527,7 @@
         <Form Tag="PLP">ксілафо´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ксці´цца" Tag="VIMR2">
-        <Form Tag="0">ксці´цца</Form>
+        <Form Tag="0" Slouniki="tsbm1984">ксці´цца</Form>
         <Form Tag="R1S">кшчу´ся</Form>
         <Form Tag="R2S">ксці´шся</Form>
         <Form Tag="R3S">ксці´цца</Form>
@@ -1543,7 +1543,7 @@
         <Form Tag="RG" Type="potential">ксця´чыся</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ксці´ць" Tag="VTMN2">
-        <Form Tag="0">ксці´ць</Form>
+        <Form Tag="0" Slouniki="tsbm1984">ксці´ць</Form>
         <Form Tag="R1S">кшчу´</Form>
         <Form Tag="R2S">ксці´ш</Form>
         <Form Tag="R3S">ксці´ць</Form>
@@ -1559,7 +1559,7 @@
         <Form Tag="RG" Type="potential">ксця´чы</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´бельны" Tag="ARP">
-        <Form Tag="MNS">ку´бельны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ку´бельны</Form>
         <Form Tag="MGS">ку´бельнага</Form>
         <Form Tag="MDS">ку´бельнаму</Form>
         <Form Tag="MAS">ку´бельны</Form>
@@ -1589,7 +1589,7 @@
         <Form Tag="PLP">ку´бельных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´зіка" Tag="NCIINF2">
-        <Form Tag="NS">ку´зіка</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">ку´зіка</Form>
         <Form Tag="GS">ку´зікі</Form>
         <Form Tag="DS">ку´зіцы</Form>
         <Form Tag="AS">ку´зіку</Form>
@@ -1605,7 +1605,7 @@
         <Form Tag="LP">ку´зіках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´зневы" Tag="ARP">
-        <Form Tag="MNS">ку´зневы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ку´зневы</Form>
         <Form Tag="MGS">ку´зневага</Form>
         <Form Tag="MDS">ку´зневаму</Form>
         <Form Tag="MAS">ку´зневы</Form>
@@ -1635,7 +1635,7 @@
         <Form Tag="PLP">ку´зневых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´пчы" Tag="ARP">
-        <Form Tag="MNS">ку´пчы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ку´пчы</Form>
         <Form Tag="MGS">ку´пчага</Form>
         <Form Tag="MDS">ку´пчаму</Form>
         <Form Tag="MAS">ку´пчы</Form>
@@ -1663,7 +1663,7 @@
         <Form Tag="PLP">ку´пчых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´рачка" Tag="NCAINF2">
-        <Form Tag="NS">ку´рачка</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">ку´рачка</Form>
         <Form Tag="GS">ку´рачкі</Form>
         <Form Tag="DS">ку´рачцы</Form>
         <Form Tag="AS">ку´рачку</Form>
@@ -1678,7 +1678,7 @@
         <Form Tag="LP">ку´рачках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´ханны" Tag="ARP">
-        <Form Tag="MNS">ку´ханны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">ку´ханны</Form>
         <Form Tag="MGS">ку´ханнага</Form>
         <Form Tag="MDS">ку´ханнаму</Form>
         <Form Tag="MAS">ку´ханны</Form>
@@ -1708,7 +1708,7 @@
         <Form Tag="PLP">ку´ханных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ку´ханька" Tag="NCIINF2">
-        <Form Tag="NS">ку´ханька</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">ку´ханька</Form>
         <Form Tag="GS">ку´ханькі</Form>
         <Form Tag="DS">ку´ханьцы</Form>
         <Form Tag="AS">ку´ханьку</Form>
@@ -1723,7 +1723,7 @@
         <Form Tag="LP">ку´ханьках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кубату´рны" Tag="ARP">
-        <Form Tag="MNS">кубату´рны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кубату´рны</Form>
         <Form Tag="MGS">кубату´рнага</Form>
         <Form Tag="MDS">кубату´рнаму</Form>
         <Form Tag="MAS">кубату´рны</Form>
@@ -1753,7 +1753,7 @@
         <Form Tag="PLP">кубату´рных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кубе´лечны" Tag="ARP">
-        <Form Tag="MNS">кубе´лечны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кубе´лечны</Form>
         <Form Tag="MGS">кубе´лечнага</Form>
         <Form Tag="MDS">кубе´лечнаму</Form>
         <Form Tag="MAS">кубе´лечны</Form>
@@ -1783,7 +1783,7 @@
         <Form Tag="PLP">кубе´лечных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кузу´рачка" Tag="NCAINF2">
-        <Form Tag="NS">кузу´рачка</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">кузу´рачка</Form>
         <Form Tag="GS">кузу´рачкі</Form>
         <Form Tag="DS">кузу´рачцы</Form>
         <Form Tag="AS">кузу´рачку</Form>
@@ -1798,7 +1798,7 @@
         <Form Tag="LP">кузу´рачках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кука´рдавы" Tag="ARP">
-        <Form Tag="MNS">кука´рдавы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кука´рдавы</Form>
         <Form Tag="MGS">кука´рдавага</Form>
         <Form Tag="MDS">кука´рдаваму</Form>
         <Form Tag="MAS">кука´рдавы</Form>
@@ -1828,7 +1828,7 @@
         <Form Tag="PLP">кука´рдавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кука´рдны" Tag="ARP">
-        <Form Tag="MNS">кука´рдны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кука´рдны</Form>
         <Form Tag="MGS">кука´рднага</Form>
         <Form Tag="MDS">кука´рднаму</Form>
         <Form Tag="MAS">кука´рдны</Form>
@@ -1858,7 +1858,7 @@
         <Form Tag="PLP">кука´рдных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="куклукскла´наўка" Tag="NCAPNF2">
-        <Form Tag="NS">куклукскла´наўка</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">куклукскла´наўка</Form>
         <Form Tag="GS">куклукскла´наўкі</Form>
         <Form Tag="DS">куклукскла´наўцы</Form>
         <Form Tag="AS">куклукскла´наўку</Form>
@@ -1873,7 +1873,7 @@
         <Form Tag="LP">куклукскла´наўках</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кулі´чны" Tag="ARP">
-        <Form Tag="MNS">кулі´чны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кулі´чны</Form>
         <Form Tag="MGS">кулі´чнага</Form>
         <Form Tag="MDS">кулі´чнаму</Form>
         <Form Tag="MAS">кулі´чны</Form>
@@ -1903,7 +1903,7 @@
         <Form Tag="PLP">кулі´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="куло´нны" Tag="ARP">
-        <Form Tag="MNS">куло´нны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">куло´нны</Form>
         <Form Tag="MGS">куло´ннага</Form>
         <Form Tag="MDS">куло´ннаму</Form>
         <Form Tag="MAS">куло´нны</Form>
@@ -1933,7 +1933,7 @@
         <Form Tag="PLP">куло´нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кулько´вы" Tag="ARP">
-        <Form Tag="MNS">кулько´вы</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кулько´вы</Form>
         <Form Tag="MGS">кулько´вага</Form>
         <Form Tag="MDS">кулько´ваму</Form>
         <Form Tag="MAS">кулько´вы</Form>
@@ -1963,7 +1963,7 @@
         <Form Tag="PLP">кулько´вых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="культтава´рны" Tag="ARP">
-        <Form Tag="MNS">культтава´рны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">культтава´рны</Form>
         <Form Tag="MGS">культтава´рнага</Form>
         <Form Tag="MDS">культтава´рнаму</Form>
         <Form Tag="MAS">культтава´рны</Form>
@@ -1993,7 +1993,7 @@
         <Form Tag="PLP">культтава´рных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кулябя´чны" Tag="ARP">
-        <Form Tag="MNS">кулябя´чны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">кулябя´чны</Form>
         <Form Tag="MGS">кулябя´чнага</Form>
         <Form Tag="MDS">кулябя´чнаму</Form>
         <Form Tag="MAS">кулябя´чнага</Form>
@@ -2023,7 +2023,7 @@
         <Form Tag="PLP">кулябя´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="кумга´н" Tag="NCIINM1">
-        <Form Tag="NS">кумга´н</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">кумга´н</Form>
         <Form Tag="GS">кумга´на</Form>
         <Form Tag="DS">кумга´ну</Form>
         <Form Tag="AS">кумга´н</Form>
@@ -2037,7 +2037,7 @@
         <Form Tag="LP">кумга´нах</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="куп'і´стасць" Tag="NCIINF3">
-        <Form Tag="NS">куп'і´стасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">куп'і´стасць</Form>
         <Form Tag="GS">куп'і´стасці</Form>
         <Form Tag="DS">куп'і´стасці</Form>
         <Form Tag="AS">куп'і´стасць</Form>
@@ -2045,7 +2045,7 @@
         <Form Tag="LS">куп'і´стасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="купе´льны" Tag="ARP">
-        <Form Tag="MNS">купе´льны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">купе´льны</Form>
         <Form Tag="MGS">купе´льнага</Form>
         <Form Tag="MDS">купе´льнаму</Form>
         <Form Tag="MAS">купе´льны</Form>
@@ -2075,7 +2075,7 @@
         <Form Tag="PLP">купе´льных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="купча´стасць" Tag="NCIINF3">
-        <Form Tag="NS">купча´стасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">купча´стасць</Form>
         <Form Tag="GS">купча´стасці</Form>
         <Form Tag="DS">купча´стасці</Form>
         <Form Tag="AS">купча´стасць</Form>
@@ -2083,7 +2083,7 @@
         <Form Tag="LS">купча´стасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="купю´рны" Tag="ARP">
-        <Form Tag="MNS">купю´рны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">купю´рны</Form>
         <Form Tag="MGS">купю´рнага</Form>
         <Form Tag="MDS">купю´рнаму</Form>
         <Form Tag="MAS">купю´рны</Form>
@@ -2113,7 +2113,7 @@
         <Form Tag="PLP">купю´рных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="курарталагі´чны" Tag="ARP">
-        <Form Tag="MNS">курарталагі´чны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">курарталагі´чны</Form>
         <Form Tag="MGS">курарталагі´чнага</Form>
         <Form Tag="MDS">курарталагі´чнаму</Form>
         <Form Tag="MAS">курарталагі´чны</Form>
@@ -2143,7 +2143,7 @@
         <Form Tag="PLP">курарталагі´чных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="курасле´пны" Tag="ARP">
-        <Form Tag="MNS">курасле´пны</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996">курасле´пны</Form>
         <Form Tag="MGS">курасле´пнага</Form>
         <Form Tag="MDS">курасле´пнаму</Form>
         <Form Tag="MAS">курасле´пны</Form>
@@ -2173,7 +2173,7 @@
         <Form Tag="PLP">курасле´пных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="курно´сасць" Tag="NCIINF3">
-        <Form Tag="NS">курно´сасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">курно´сасць</Form>
         <Form Tag="GS">курно´сасці</Form>
         <Form Tag="DS">курно´сасці</Form>
         <Form Tag="AS">курно´сасць</Form>
@@ -2181,7 +2181,7 @@
         <Form Tag="LS">курно´сасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="курта´тасць" Tag="NCIINF3">
-        <Form Tag="NS">курта´тасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">курта´тасць</Form>
         <Form Tag="GS">курта´тасці</Form>
         <Form Tag="DS">курта´тасці</Form>
         <Form Tag="AS">курта´тасць</Form>
@@ -2189,7 +2189,7 @@
         <Form Tag="LS">курта´тасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="куса´ннік" Tag="NCIINM1">
-        <Form Tag="NS">куса´ннік</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">куса´ннік</Form>
         <Form Tag="GS">куса´нніка</Form>
         <Form Tag="DS">куса´нніку</Form>
         <Form Tag="AS">куса´ннік</Form>

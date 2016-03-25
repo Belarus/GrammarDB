@@ -79,7 +79,7 @@
         <Form Tag="PLP">непа´льскіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="непага´снасць" Tag="NCIINF3">
-        <Form Tag="NS">непага´снасць</Form>
+        <Form Tag="NS" Slouniki="tsblm1996">непага´снасць</Form>
         <Form Tag="GS">непага´снасці</Form>
         <Form Tag="DS">непага´снасці</Form>
         <Form Tag="AS">непага´снасць</Form>
@@ -815,7 +815,7 @@
         <Form Tag="LS">няўро´чнасці</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="нечленараздзе´льнасць" Tag="NCIINF3">
-        <Form Tag="NS">нечленараздзе´льнасць</Form>
+        <Form Tag="NS" Slouniki="krapivabr2012,sbm2012,nazounik2008">нечленараздзе´льнасць</Form>
         <Form Tag="NS">нячленараздзе´льнасць</Form>
         <Form Tag="GS">нечленараздзе´льнасці</Form>
         <Form Tag="GS">нячленараздзе´льнасці</Form>
@@ -827,7 +827,19 @@
         <Form Tag="IS">нячленараздзе´льнасцю</Form>
         <Form Tag="LS">нечленараздзе´льнасці</Form>
         <Form Tag="LS">нячленараздзе´льнасці</Form>
-    </Paradigm>
+        <Form Tag="NS" Slouniki="tsblm1996" Type="nonstandard">нечленараздзе´льнасць</Form>
+        <Form Tag="NS" Type="nonstandard">нячленараздзе´льнасць</Form>
+        <Form Tag="GS" Type="nonstandard">нечленараздзе´льнасці</Form>
+        <Form Tag="GS" Type="nonstandard">нячленараздзе´льнасці</Form>
+        <Form Tag="DS" Type="nonstandard">нечленараздзе´льнасці</Form>
+        <Form Tag="DS" Type="nonstandard">нячленараздзе´льнасці</Form>
+        <Form Tag="AS" Type="nonstandard">нечленараздзе´льнасць</Form>
+        <Form Tag="AS" Type="nonstandard">нячленараздзе´льнасць</Form>
+        <Form Tag="IS" Type="nonstandard">нечленараздзе´льнасцю</Form>
+        <Form Tag="IS" Type="nonstandard">нячленараздзе´льнасцю</Form>
+        <Form Tag="LS" Type="nonstandard">нечленараздзе´льнасці</Form>
+        <Form Tag="LS" Type="nonstandard">нячленараздзе´льнасці</Form>
+	</Paradigm>
     <Paradigm pdgId="0" Lemma="нячу´тнасць" Tag="NCIINF3">
         <Form Tag="NS" Slouniki="tsblm1996">нячу´тнасць</Form>
         <Form Tag="GS">нячу´тнасці</Form>

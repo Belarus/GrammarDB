@@ -151,20 +151,6 @@
         <Form Tag="PIP">зыра´нскімі</Form>
         <Form Tag="PLP">зыра´нскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="зэ´" Tag="NCIINN0">
-        <Form Tag="NS">зэ´</Form>
-        <Form Tag="GS">зэ´</Form>
-        <Form Tag="DS">зэ´</Form>
-        <Form Tag="AS">зэ´</Form>
-        <Form Tag="IS">зэ´</Form>
-        <Form Tag="LS">зэ´</Form>
-        <Form Tag="NP">зэ´</Form>
-        <Form Tag="GP">зэ´</Form>
-        <Form Tag="DP">зэ´</Form>
-        <Form Tag="AP">зэ´</Form>
-        <Form Tag="IP">зэ´</Form>
-        <Form Tag="LP">зэ´</Form>
-    </Paradigm>
     <Paradigm pdgId="0" Lemma="зяха´нне" Tag="NCIINN1">
         <Form Tag="NS" Slouniki="tsblm1996">зяха´нне</Form>
         <Form Tag="GS">зяха´ння</Form>
@@ -2251,13 +2237,13 @@
         <Form Tag="PLP">калама´жачных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ізм" Tag="NCIINM1">
-        <Form Tag="NS">ізм</Form>
+        <Form Tag="NS" Slouniki="tsbm1984">ізм</Form>
         <Form Tag="GS">і´зму</Form>
         <Form Tag="DS">і´зму</Form>
         <Form Tag="AS">ізм</Form>
         <Form Tag="IS">і´змам</Form>
         <Form Tag="LS">і´зме</Form>
-        <Form Tag="NP">і´змы</Form>
+        <Form Tag="NP" Slouniki="tsbm1984,tsbm2016">і´змы</Form>
         <Form Tag="GP">і´змаў</Form>
         <Form Tag="DP">і´змам</Form>
         <Form Tag="AP">і´змы</Form>

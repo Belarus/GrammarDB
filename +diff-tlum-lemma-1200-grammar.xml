@@ -1597,8 +1597,8 @@
         <Form Tag="PIP">жо´лабнымі</Form>
         <Form Tag="PLP">жо´лабных</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="жо´х" Tag="NCAPNM1">
-        <Form Tag="NS">жо´х</Form>
+    <Paradigm pdgId="0" Lemma="жох" Tag="NCAPNM1">
+        <Form Tag="NS" Slouniki="tsblm1996">жох</Form>
         <Form Tag="GS">жо´ха</Form>
         <Form Tag="DS">жо´ху</Form>
         <Form Tag="AS">жо´ха</Form>
@@ -2160,20 +2160,6 @@
         <Form Tag="AS">жыццесцвярджа´льнасць</Form>
         <Form Tag="IS">жыццесцвярджа´льнасцю</Form>
         <Form Tag="LS">жыццесцвярджа´льнасці</Form>
-    </Paradigm>
-    <Paradigm pdgId="0" Lemma="жэ´" Tag="NCIINN0">
-        <Form Tag="NS">жэ´</Form>
-        <Form Tag="GS">жэ´</Form>
-        <Form Tag="DS">жэ´</Form>
-        <Form Tag="AS">жэ´</Form>
-        <Form Tag="IS">жэ´</Form>
-        <Form Tag="LS">жэ´</Form>
-        <Form Tag="NP">жэ´</Form>
-        <Form Tag="GP">жэ´</Form>
-        <Form Tag="DP">жэ´</Form>
-        <Form Tag="AP">жэ´</Form>
-        <Form Tag="IP">жэ´</Form>
-        <Form Tag="LP">жэ´</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="жэрдзь" Tag="NCIINF3">
         <Form Tag="NS" Slouniki="tsbm1984">жэрдзь</Form>

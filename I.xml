@@ -5,14 +5,14 @@
     </Paradigm>
     <Paradigm pdgId="1104207" Lemma="аб" Tag="I" Govern="+A, +L">
         <Form Tag="" Slouniki="krapivabr2012,sbm2012,tsbm2016" pravapis="A1957,A2008">аб</Form>
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012,tsbm2016" pravapis="A1957,A2008">а*ба</Form>
+        <Form Tag="" Slouniki="krapivabr2012,sbm2012,tsbm2016" pravapis="A1957,A2008">аба</Form>
     </Paradigm>
     <Paradigm pdgId="1104208" Lemma="аба*пал" Tag="I" Govern="+G">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">аба*пал</Form>
     </Paradigm>
     <Paradigm pdgId="1104209" Lemma="ад" Tag="I" Govern="+G">
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">ад</Form>
-        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">а*да</Form>
+        <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">ада</Form>
     </Paradigm>
     <Paradigm pdgId="1160071" Lemma="ад імя*" Tag="I" Govern="+G">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ад імя*</Form>
@@ -94,7 +94,8 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">бліжэ*й пры</Form>
     </Paradigm>
     <Paradigm pdgId="1160016" Lemma="блізу*" Tag="I" Govern="+G">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">блізу*</Form>
+        <Form Tag="" Slouniki="tsbm2016" pravapis="A1957,A2008">блізу*</Form>
+        <Form Tag="" Slouniki="tsbm1984,tsbm2016" pravapis="A1957,A2008">блі*зу</Form>
     </Paradigm>
     <Paradigm pdgId="1138991" Lemma="ва" Tag="I" Govern="+G, +A, +L">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">ва</Form>
@@ -272,8 +273,8 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">зні*зу</Form>
     </Paradigm>
     <Paradigm pdgId="1104241" Lemma="з-пад" Tag="I" Govern="+G">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">з-пад</Form>
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">з-па*да</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A1957,A2008">з-пад</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A1957,A2008">з-па*да</Form>
     </Paradigm>
     <Paradigm pdgId="1104239" Lemma="з-па*-за" Tag="I" Govern="+G">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">з-па*-за</Form>
@@ -399,7 +400,7 @@
     </Paradigm>
     <Paradigm pdgId="1104268" Lemma="над" Tag="I" Govern="+A, +I">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">над</Form>
-        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="A2008" Govern="+I">на*да</Form>
+        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="A2008" Govern="+I">нада</Form>
     </Paradigm>
     <Paradigm pdgId="1159974" Lemma="наза*д" Tag="I" Govern="+A">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">наза*д</Form>
@@ -606,7 +607,8 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">наўкру*г</Form>
     </Paradigm>
     <Paradigm pdgId="1159941" Lemma="наўкру*га" Tag="I" Govern="+G">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">наўкру*га</Form>
+        <Form Tag="" Slouniki="tsbm2016" pravapis="A1957, A2008">наўкру*га</Form>
+        <Form Tag="" Slouniki="tsbm1984,tsbm2016" pravapis="A1957, A2008">наўкруга*</Form>
     </Paradigm>
     <Paradigm pdgId="1160043" Lemma="наўпро*ць" Tag="I" Govern="+D">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">наўпро*ць</Form>

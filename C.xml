@@ -194,6 +194,9 @@
     <Paradigm pdgId="1160169" Lemma="такса*ма" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">такса*ма</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="такса*ма" Tag="CKX">
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">так-што</Form>
+    </Paradigm>
     <Paradigm pdgId="1160168" Lemma="таму*" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">таму*</Form>
     </Paradigm>
@@ -202,6 +205,9 @@
     </Paradigm>
     <Paradigm pdgId="1126954" Lemma="то" Tag="CSX" Marked="?">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">то</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="то*-бок" Tag="CSX" Marked="?">
+        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">то*-бок</Form>
     </Paradigm>
     <Paradigm pdgId="1127139" Lemma="то...то" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">то...то</Form>

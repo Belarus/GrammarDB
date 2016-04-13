@@ -1375,15 +1375,19 @@
         <Form Tag="PLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">пяці*</Form>
     </Paradigm>
     <Paradigm pdgId="1127460" Lemma="пяцьдзяся*т" Tag="MNCC">
-        <Form Tag="PNP" Slouniki="prym2009" pravapis="A2008-">пяцьдзяся*т</Form>
-        <Form Tag="PNP" pravapis="A1957">пя*цьдзесят</Form>
-        <Form Tag="PGP" Slouniki="prym2009" pravapis="A2008-">пяці*дзесяці</Form>
-        <Form Tag="PDP" Slouniki="prym2009" pravapis="A2008-">пяці*дзесяці</Form>
-        <Form Tag="PAP" Slouniki="prym2009" pravapis="A2008-">пяцьдзяся*т</Form>
-        <Form Tag="PAP" pravapis="A1957">пя*цьдзесят</Form>
-        <Form Tag="PIP" Slouniki="prym2009" pravapis="A2008-">пяццюдзесяццю*</Form>
-        <Form Tag="PLP" Slouniki="prym2009" pravapis="A2008-">пяцідзесяці*</Form>
-    </Paradigm>
+        <Form Tag="PNP" Slouniki="prym2009" pravapis="A2008">пяцьдзяся*т</Form>
+        <Form Tag="PGP" Slouniki="prym2009" pravapis="A2008">пяці*дзесяці</Form>
+        <Form Tag="PDP" Slouniki="prym2009" pravapis="A2008">пяці*дзесяці</Form>
+        <Form Tag="PAP" Slouniki="prym2009" pravapis="A2008">пяцьдзяся*т</Form>
+        <Form Tag="PIP" Slouniki="prym2009" pravapis="A2008">пяццюдзесяццю*</Form>
+        <Form Tag="PLP" Slouniki="prym2009" pravapis="A2008">пяцідзесяці*</Form>
+        <Form Tag="PNP" Slouniki="tsbm1984" pravapis="A1957">пяцьдзеся*т</Form>
+        <Form Tag="PGP" Slouniki="" pravapis="A1957">пяці*дзесяці</Form>
+        <Form Tag="PDP" Slouniki="" pravapis="A1957">пяці*дзесяці</Form>
+        <Form Tag="PAP" Slouniki="" pravapis="A1957">пяцьдзеся*т</Form>
+        <Form Tag="PIP" Slouniki="" pravapis="A1957">пяццюдзесяццю*</Form>
+        <Form Tag="PLP" Slouniki="" pravapis="A1957">пяці*дзесяці</Form>
+	</Paradigm>
     <Paradigm pdgId="1127461" Lemma="пяцьсо*т" Tag="MNCC">
         <Form Tag="PNP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">пяцьсо*т</Form>
         <Form Tag="PGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">пяцісо*т</Form>

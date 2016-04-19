@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1126904" Lemma="а" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">а</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A1957, A2008">а</Form>
     </Paradigm>
     <Paradigm pdgId="1126905" Lemma="або*" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">або*</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">або*</Form>
     </Paradigm>
     <Paradigm pdgId="1126906" Lemma="абы*" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">абы*</Form>
+        <Form Tag="" Slouniki="tsblm1996,krapivabr2012" pravapis="A1957, A2008">абы*</Form>
     </Paradigm>
     <Paradigm pdgId="1126908" Lemma="адна*к" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">адна*к</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">адна*к</Form>
     </Paradigm>
     <Paradigm pdgId="1127126" Lemma="адно*" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">адно*</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957, A2008">адно*</Form>
     </Paradigm>
     <Paradigm pdgId="1126909" Lemma="ад таго*, што" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ад таго*, што</Form>
     </Paradigm>
     <Paradigm pdgId="1126910" Lemma="аж" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">аж</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">аж</Form>
     </Paradigm>
     <Paradigm pdgId="1127142" Lemma="аж" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">аж</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">аж</Form>
     </Paradigm>
     <Paradigm pdgId="1126911" Lemma="ажно*" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">ажно*</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">ажно*</Form>
     </Paradigm>
     <Paradigm pdgId="1126912" Lemma="але*" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">але*</Form>
+        <Form Tag="" Slouniki="tsblm1996,krapivabr2012" pravapis="A1957, A2008">але*</Form>
     </Paradigm>
     <Paradigm pdgId="1126913" Lemma="альбо*" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">альбо*</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">альбо*</Form>
     </Paradigm>
     <Paradigm pdgId="1127137" Lemma="альбо*...альбо*" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">альбо*...альбо*</Form>
@@ -40,16 +40,16 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">а то</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="балазе*" Tag="CSX" comment="другі тэг удакладніць">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">балазе*</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">балазе*</Form>
     </Paradigm>
     <Paradigm pdgId="1126914" Lemma="бо" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">бо</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">бо</Form>
     </Paradigm>
     <Paradigm pdgId="1126915" Lemma="бы" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">бы</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A2008">бы</Form>
     </Paradigm>
     <Paradigm pdgId="1126916" Lemma="бы*ццам" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">бы*ццам</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">бы*ццам</Form>
     </Paradigm>
     <Paradigm pdgId="1140039" Lemma="дарма*, што" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">дарма*, што</Form>
@@ -62,7 +62,7 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">для таго*, што</Form>
     </Paradigm>
     <Paradigm pdgId="1126920" Lemma="ды" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">ды</Form>
+        <Form Tag="" Slouniki="tsblm1996,krapivabr2012" pravapis="A1957, A2008">ды</Form>
     </Paradigm>
     <Paradigm pdgId="1127129" Lemma="ды і" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ды і</Form>
@@ -71,20 +71,20 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ды і то</Form>
     </Paradigm>
     <Paradigm pdgId="1126921" Lemma="дый" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">дый</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957, A2008">дый</Form>
     </Paradigm>
     <Paradigm pdgId="1127128" Lemma="дый то" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">дый то</Form>
     </Paradigm>
     <Paradigm pdgId="1126922" Lemma="дык" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">дык</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957, A2008">дык</Form>
     </Paradigm>
     <Paradigm pdgId="1126923" Lemma="ж" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ж</Form>
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">жа</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996" pravapis="A1957, A2008">ж</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996" pravapis="A1957, A2008">жа</Form>
     </Paradigm>
     <Paradigm pdgId="1126928" Lemma="зато*е" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">зато*е</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">зато*е</Form>
     </Paradigm>
     <Paradigm pdgId="1126930" Lemma="заты*м, што" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">заты*м, што</Form>
@@ -93,37 +93,37 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">з прычы*ны таго*, што</Form>
     </Paradigm>
     <Paradigm pdgId="1140040" Lemma="зрэ*шты" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">зрэ*шты</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">зрэ*шты</Form>
     </Paradigm>
     <Paradigm pdgId="1126927" Lemma="з тым каб" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">з тым каб</Form>
     </Paradigm>
     <Paradigm pdgId="1126931" Lemma="і" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">і</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996" pravapis="A2008">і</Form>
     </Paradigm>
     <Paradigm pdgId="1127124" Lemma="іна*кш" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">іна*кш</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">іна*кш</Form>
     </Paradigm>
     <Paradigm pdgId="1140038" Lemma="іна*чай" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">іна*чай</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">іна*чай</Form>
     </Paradigm>
     <Paradigm pdgId="1126932" Lemma="й" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">й</Form>
+        <Form Tag="" Slouniki="tsbm1984,sbm2012" pravapis="A1957, A2008">й</Form>
     </Paradigm>
     <Paradigm pdgId="1126933" Lemma="каб" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">каб</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A2008">каб</Form>
     </Paradigm>
     <Paradigm pdgId="1126934" Lemma="калі*" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">калі*</Form>
+        <Form Tag="" Slouniki="tsblm1996,sbm2012,krapivabr2012" pravapis="A1957, A2008">калі*</Form>
     </Paradigm>
     <Paradigm pdgId="1126935" Lemma="калі* б" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">калі* б</Form>
     </Paradigm>
     <Paradigm pdgId="1126939" Lemma="на*ват" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">на*ват</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">на*ват</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="нат" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">нат</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A2008">нат</Form>
     </Paradigm>
     <Paradigm pdgId="1127140" Lemma="не то...не то" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">не то...не то</Form>
@@ -153,40 +153,40 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ні...ні</Form>
     </Paradigm>
     <Paradigm pdgId="1126942" Lemma="нібы*" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">нібы*</Form>
+        <Form Tag="" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957, A2008">нібы*</Form>
     </Paradigm>
     <Paradigm pdgId="1126943" Lemma="нібы*та" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">нібы*та</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957, A2008">нібы*та</Form>
     </Paradigm>
     <Paradigm pdgId="1126944" Lemma="нягле*дзячы на то*е што" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">нягле*дзячы на то*е што</Form>
     </Paradigm>
     <Paradigm pdgId="1126945" Lemma="няха*й" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">няха*й</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">няха*й</Form>
     </Paradigm>
     <Paradigm pdgId="1126946" Lemma="пако*лькі" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">пако*лькі</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">пако*лькі</Form>
     </Paradigm>
     <Paradigm pdgId="1126947" Lemma="паку*ль" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">паку*ль</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">паку*ль</Form>
     </Paradigm>
     <Paradigm pdgId="1126948" Lemma="пасля* таго*, як" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">пасля* таго*, як</Form>
     </Paradigm>
     <Paradigm pdgId="1140041" Lemma="пасто*лькі" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">пасто*лькі</Form>
+        <Form Tag="" Slouniki="sbm2012,krapivabr2012" pravapis="A1957, A2008">пасто*лькі</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="по*кі" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">по*кі</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984,krapivabr2012" pravapis="A2008">по*кі</Form>
     </Paradigm>
     <Paradigm pdgId="1140042" Lemma="прыты*м" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">прыты*м</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">прыты*м</Form>
     </Paradigm>
     <Paradigm pdgId="1140043" Lemma="прычы*м" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">прычы*м</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">прычы*м</Form>
     </Paradigm>
     <Paradigm pdgId="1126949" Lemma="раз" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">раз</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A2008">раз</Form>
     </Paradigm>
     <Paradigm pdgId="1126951" Lemma="тады*, як" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">тады*, як</Form>
@@ -195,79 +195,79 @@
         <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">так-што</Form>
     </Paradigm>
     <Paradigm pdgId="1160169" Lemma="такса*ма" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">такса*ма</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">такса*ма</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="та*к-што" Tag="CSX">
         <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">та*к-што</Form>
     </Paradigm>
     <Paradigm pdgId="1160168" Lemma="таму*" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">таму*</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">таму*</Form>
     </Paradigm>
     <Paradigm pdgId="1126953" Lemma="таму*, што" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">таму*, што</Form>
     </Paradigm>
     <Paradigm pdgId="1126954" Lemma="то" Tag="CSX" Marked="?">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">то</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">то</Form>
     </Paradigm>
     <Paradigm pdgId="1127139" Lemma="то...то" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">то...то</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="то*-бок" Tag="CSX" Marked="?">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">то*-бок</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A2008">то*-бок</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="то-бок" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">то*-бок</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A1957,A2008">то*-бок</Form>
     </Paradigm>
     <Paradigm pdgId="1126955" Lemma="то*лькі" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">то*лькі</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">то*лькі</Form>
     </Paradigm>
     <Paradigm pdgId="1127148" Lemma="то*лькі" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">то*лькі</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">то*лькі</Form>
     </Paradigm>
     <Paradigm pdgId="1126956" Lemma="тым ча*сам, як" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">тым ча*сам, як</Form>
     </Paradigm>
     <Paradigm pdgId="1140048" Lemma="усё-такі" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">усё-такі</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">усё-такі</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="усё-ткі" Tag="CSX" comment="другі тэг удакладніць">
-        <Form Tag="" pravapis="A2008">усё-ткі</Form>
+        <Form Tag="" Slouniki="tsbm1984" pravapis="A2008">усё-ткі</Form>
     </Paradigm>
     <Paradigm pdgId="1126957" Lemma="у той час, як" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">у той час, як</Form>
     </Paradigm>
     <Paradigm pdgId="1126958" Lemma="хай" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">хай</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">хай</Form>
     </Paradigm>
     <Paradigm pdgId="1126960" Lemma="хіба*" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">хіба*</Form>
+        <Form Tag="" Slouniki="tsblm1996,sbm2012" pravapis="A1957, A2008">хіба*</Form>
     </Paradigm>
     <Paradigm pdgId="1126961" Lemma="хоць" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">хоць</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">хоць</Form>
     </Paradigm>
     <Paradigm pdgId="1126962" Lemma="хоць бы" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">хоць бы</Form>
     </Paradigm>
     <Paradigm pdgId="1126963" Lemma="ці" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">ці</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">ці</Form>
     </Paradigm>
     <Paradigm pdgId="1127138" Lemma="ці...ці" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ці...ці</Form>
     </Paradigm>
     <Paradigm pdgId="1127123" Lemma="чаму*" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">чаму*</Form>
+        <Form Tag="" Slouniki="tsblm1996,sbm2012,krapivabr2012" pravapis="A1957, A2008">чаму*</Form>
     </Paradigm>
     <Paradigm pdgId="1126966" Lemma="чым" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">чым</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A2008">чым</Form>
     </Paradigm>
     <Paradigm pdgId="1146206" Lemma="чы*мся" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">чы*мся</Form>
+        <Form Tag="" Slouniki="tsblm1996,sbm2012" pravapis="A1957, A2008">чы*мся</Form>
     </Paradigm>
     <Paradigm pdgId="1126967" Lemma="што" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">што</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A2008">што</Form>
     </Paradigm>
     <Paradigm pdgId="1126964" Lemma="як" Tag="CSX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">як</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">як</Form>
     </Paradigm>
     <Paradigm pdgId="1127118" Lemma="як...так і" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">як...так і</Form>
@@ -282,6 +282,6 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">як то*лькі</Form>
     </Paradigm>
     <Paradigm pdgId="1126971" Lemma="яшчэ*" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">яшчэ*</Form>
+        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">яшчэ*</Form>
     </Paradigm>
 </Wordlist>

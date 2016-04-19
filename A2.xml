@@ -2906,6 +2906,7 @@
         <Form Tag="PLP" pravapis="A2008">біяпатаге*нных</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="біярытмі*чны" Tag="AXP">
+	    <Note>СБМ памылкова "біярытмічны""</Note>
         <Form Tag="MNS" pravapis="A2008">біярытмі*чны</Form>
         <Form Tag="MGS" pravapis="A2008">біярытмі*чнага</Form>
         <Form Tag="MDS" pravapis="A2008">біярытмі*чнаму</Form>
@@ -7505,6 +7506,7 @@
         <Form Tag="PLP" pravapis="A2008">дыстрыб'ю*тарскіх</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="дэзынфармацы*йны" Tag="AXP">
+        <Note>СБМ памылкова "дызынфармацы*йны""</Note>
         <Form Tag="MNS" Slouniki="tsbm2016" pravapis="A2008">дэзынфармацы*йны</Form>
         <Form Tag="MGS" pravapis="A2008">дэзынфармацы*йнага</Form>
         <Form Tag="MDS" pravapis="A2008">дэзынфармацы*йнаму</Form>
@@ -18724,6 +18726,32 @@
         <Form Tag="PAP" pravapis="A2008">ніякава*тыя</Form>
         <Form Tag="PIP" pravapis="A2008">ніякава*тымі</Form>
         <Form Tag="PLP" pravapis="A2008">ніякава*тых</Form>
+		<Form Tag="MNS" Slouniki="tsbm1984" pravapis="A2008">нія*каваты</Form>
+        <Form Tag="MGS" pravapis="A2008">нія*каватага</Form>
+        <Form Tag="MDS" pravapis="A2008">нія*каватаму</Form>
+        <Form Tag="MAS" pravapis="A2008">нія*каваты</Form>
+        <Form Tag="MAS" pravapis="A2008">нія*каватага</Form>
+        <Form Tag="MIS" pravapis="A2008">нія*каватым</Form>
+        <Form Tag="MLS" pravapis="A2008">нія*каватым</Form>
+        <Form Tag="NNS" pravapis="A2008">нія*каватае</Form>
+        <Form Tag="NGS" pravapis="A2008">нія*каватага</Form>
+        <Form Tag="NDS" pravapis="A2008">нія*каватаму</Form>
+        <Form Tag="NAS" pravapis="A2008">нія*каватае</Form>
+        <Form Tag="NIS" pravapis="A2008">нія*каватым</Form>
+        <Form Tag="NLS" pravapis="A2008">нія*каватым</Form>
+        <Form Tag="FNS" pravapis="A2008">нія*каватая</Form>
+        <Form Tag="FGS" pravapis="A2008">нія*каватай</Form>
+        <Form Tag="FDS" pravapis="A2008">нія*каватай</Form>
+        <Form Tag="FAS" pravapis="A2008">нія*каватую</Form>
+        <Form Tag="FIS" pravapis="A2008">нія*каватай</Form>
+        <Form Tag="FIS" pravapis="A2008">нія*каватаю</Form>
+        <Form Tag="FLS" pravapis="A2008">нія*каватай</Form>
+        <Form Tag="PNP" pravapis="A2008">нія*каватыя</Form>
+        <Form Tag="PGP" pravapis="A2008">нія*каватых</Form>
+        <Form Tag="PDP" pravapis="A2008">нія*каватым</Form>
+        <Form Tag="PAP" pravapis="A2008">нія*каватыя</Form>
+        <Form Tag="PIP" pravapis="A2008">нія*каватымі</Form>
+        <Form Tag="PLP" pravapis="A2008">нія*каватых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="новаасу*шаны" Tag="AXP">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">новаасу*шаны</Form>
@@ -31469,33 +31497,6 @@
         <Form Tag="PIP" pravapis="A2008">тапалё*вымі</Form>
         <Form Tag="PLP" pravapis="A2008">тапалё*вых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="тары*старны" Tag="AXP">
-        <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">тары*старны</Form>
-        <Form Tag="MGS" pravapis="A2008">тары*старнага</Form>
-        <Form Tag="MDS" pravapis="A2008">тары*старнаму</Form>
-        <Form Tag="MAS" pravapis="A2008">тары*старны</Form>
-        <Form Tag="MIS" pravapis="A2008">тары*старным</Form>
-        <Form Tag="MLS" pravapis="A2008">тары*старным</Form>
-        <Form Tag="NNS" pravapis="A2008">тары*старнае</Form>
-        <Form Tag="NGS" pravapis="A2008">тары*старнага</Form>
-        <Form Tag="NDS" pravapis="A2008">тары*старнаму</Form>
-        <Form Tag="NAS" pravapis="A2008">тары*старнае</Form>
-        <Form Tag="NIS" pravapis="A2008">тары*старным</Form>
-        <Form Tag="NLS" pravapis="A2008">тары*старным</Form>
-        <Form Tag="FNS" pravapis="A2008">тары*старная</Form>
-        <Form Tag="FGS" pravapis="A2008">тары*старнай</Form>
-        <Form Tag="FDS" pravapis="A2008">тары*старнай</Form>
-        <Form Tag="FAS" pravapis="A2008">тары*старную</Form>
-        <Form Tag="FIS" pravapis="A2008">тары*старнай</Form>
-        <Form Tag="FIS" pravapis="A2008">тары*старнаю</Form>
-        <Form Tag="FLS" pravapis="A2008">тары*старнай</Form>
-        <Form Tag="PNP" pravapis="A2008">тары*старныя</Form>
-        <Form Tag="PGP" pravapis="A2008">тары*старных</Form>
-        <Form Tag="PDP" pravapis="A2008">тары*старным</Form>
-        <Form Tag="PAP" pravapis="A2008">тары*старныя</Form>
-        <Form Tag="PIP" pravapis="A2008">тары*старнымі</Form>
-        <Form Tag="PLP" pravapis="A2008">тары*старных</Form>
-    </Paradigm>
     <Paradigm pdgId="0" Lemma="то*рмазны" Tag="ARP">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">то*рмазны</Form>
         <Form Tag="MGS" pravapis="A2008">то*рмазнага</Form>
@@ -33856,6 +33857,31 @@
         <Form Tag="PAP" pravapis="A2008">шаба*савыя</Form>
         <Form Tag="PIP" pravapis="A2008">шаба*савымі</Form>
         <Form Tag="PLP" pravapis="A2008">шаба*савых</Form>
+		<Form Tag="MNS" Slouniki="tsbm1984" pravapis="A2008">ша*басавы</Form>
+        <Form Tag="MGS" pravapis="A2008">ша*басавага</Form>
+        <Form Tag="MDS" pravapis="A2008">ша*басаваму</Form>
+        <Form Tag="MAS" pravapis="A2008">ша*басавы</Form>
+        <Form Tag="MIS" pravapis="A2008">ша*басавым</Form>
+        <Form Tag="MLS" pravapis="A2008">ша*басавым</Form>
+        <Form Tag="NNS" pravapis="A2008">ша*басавае</Form>
+        <Form Tag="NGS" pravapis="A2008">ша*басавага</Form>
+        <Form Tag="NDS" pravapis="A2008">ша*басаваму</Form>
+        <Form Tag="NAS" pravapis="A2008">ша*басавае</Form>
+        <Form Tag="NIS" pravapis="A2008">ша*басавым</Form>
+        <Form Tag="NLS" pravapis="A2008">ша*басавым</Form>
+        <Form Tag="FNS" pravapis="A2008">ша*басавая</Form>
+        <Form Tag="FGS" pravapis="A2008">ша*басавай</Form>
+        <Form Tag="FDS" pravapis="A2008">ша*басавай</Form>
+        <Form Tag="FAS" pravapis="A2008">ша*басавую</Form>
+        <Form Tag="FIS" pravapis="A2008">ша*басавай</Form>
+        <Form Tag="FIS" pravapis="A2008">ша*басаваю</Form>
+        <Form Tag="FLS" pravapis="A2008">ша*басавай</Form>
+        <Form Tag="PNP" pravapis="A2008">ша*басавыя</Form>
+        <Form Tag="PGP" pravapis="A2008">ша*басавых</Form>
+        <Form Tag="PDP" pravapis="A2008">ша*басавым</Form>
+        <Form Tag="PAP" pravapis="A2008">ша*басавыя</Form>
+        <Form Tag="PIP" pravapis="A2008">ша*басавымі</Form>
+        <Form Tag="PLP" pravapis="A2008">ша*басавых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="шалё*ваны" Tag="AXP">
         <Form Tag="MNS" pravapis="A2008">шалё*ваны</Form>

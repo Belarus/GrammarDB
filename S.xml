@@ -741,6 +741,36 @@
         <Form Tag="0IP" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">на*мі</Form>
         <Form Tag="0LP" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">нас</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="на*скі" Tag="SAS0">
+        <Form Tag="MNS" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="">на*скі</Form>
+        <Form Tag="MGS" Slouniki="" pravapis="">на*скага</Form>
+        <Form Tag="MDS" Slouniki="" pravapis="">на*скаму</Form>
+        <Form Tag="MAS" Slouniki="" pravapis="">на*скага</Form>
+        <Form Tag="MAS" Slouniki="" pravapis="">на*скі</Form>
+        <Form Tag="MIS" Slouniki="" pravapis="">на*скім</Form>
+        <Form Tag="MLS" Slouniki="" pravapis="">на*скім</Form>
+        <Form Tag="FNS" Slouniki="" pravapis="">на*ская</Form>
+        <Form Tag="FGS" Slouniki="" pravapis="">на*скай</Form>
+        <Form Tag="FGS" Slouniki="" pravapis="">на*скае</Form>
+        <Form Tag="FDS" Slouniki="" pravapis="">на*скай</Form>
+        <Form Tag="FAS" Slouniki="" pravapis="">на*скую</Form>
+        <Form Tag="FIS" Slouniki="" pravapis="">на*скай</Form>
+        <Form Tag="FIS" Slouniki="" pravapis="">на*скаю</Form>
+        <Form Tag="FLS" Slouniki="" pravapis="">на*скай</Form>
+        <Form Tag="NNS" Slouniki="" pravapis="">на*скае</Form>
+        <Form Tag="NGS" Slouniki="" pravapis="">на*скага</Form>
+        <Form Tag="NDS" Slouniki="" pravapis="">на*скаму</Form>
+        <Form Tag="NAS" Slouniki="" pravapis="">на*скае</Form>
+        <Form Tag="NIS" Slouniki="" pravapis="">на*скім</Form>
+        <Form Tag="NLS" Slouniki="" pravapis="">на*скім</Form>
+        <Form Tag="0NP" Slouniki="" pravapis="">на*скія</Form>
+        <Form Tag="0GP" Slouniki="" pravapis="">на*скіх</Form>
+        <Form Tag="0DP" Slouniki="" pravapis="">на*скім</Form>
+        <Form Tag="0AP" Slouniki="" pravapis="">на*скіх</Form>
+        <Form Tag="0AP" Slouniki="" pravapis="">на*скія</Form>
+        <Form Tag="0IP" Slouniki="" pravapis="">на*скімі</Form>
+        <Form Tag="0LP" Slouniki="" pravapis="">на*скіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1127840" Lemma="наш" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">наш</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на*шага</Form>
@@ -776,36 +806,6 @@
         <Form Tag="0AP">на*шыя</Form>
         <Form Tag="0IP" Slouniki="prym2009" pravapis="A1957,A2008">на*шымі</Form>
         <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">на*шых</Form>
-    </Paradigm>
-    <Paradigm pdgId="0" Lemma="на*скі" Tag="SAS0">
-        <Form Tag="MNS" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="">на*скі</Form>
-        <Form Tag="MGS" Slouniki="" pravapis="">на*скага</Form>
-        <Form Tag="MDS" Slouniki="" pravapis="">на*скаму</Form>
-        <Form Tag="MAS" Slouniki="" pravapis="">на*скага</Form>
-        <Form Tag="MAS" Slouniki="" pravapis="">на*скі</Form>
-        <Form Tag="MIS" Slouniki="" pravapis="">на*скім</Form>
-        <Form Tag="MLS" Slouniki="" pravapis="">на*скім</Form>
-        <Form Tag="FNS" Slouniki="" pravapis="">на*ская</Form>
-        <Form Tag="FGS" Slouniki="" pravapis="">на*скай</Form>
-        <Form Tag="FGS" Slouniki="" pravapis="">на*скае</Form>
-        <Form Tag="FDS" Slouniki="" pravapis="">на*скай</Form>
-        <Form Tag="FAS" Slouniki="" pravapis="">на*скую</Form>
-        <Form Tag="FIS" Slouniki="" pravapis="">на*скай</Form>
-        <Form Tag="FIS" Slouniki="" pravapis="">на*скаю</Form>
-        <Form Tag="FLS" Slouniki="" pravapis="">на*скай</Form>
-        <Form Tag="NNS" Slouniki="" pravapis="">на*скае</Form>
-        <Form Tag="NGS" Slouniki="" pravapis="">на*скага</Form>
-        <Form Tag="NDS" Slouniki="" pravapis="">на*скаму</Form>
-        <Form Tag="NAS" Slouniki="" pravapis="">на*скае</Form>
-        <Form Tag="NIS" Slouniki="" pravapis="">на*скім</Form>
-        <Form Tag="NLS" Slouniki="" pravapis="">на*скім</Form>
-        <Form Tag="0NP" Slouniki="" pravapis="">на*скія</Form>
-        <Form Tag="0GP" Slouniki="" pravapis="">на*скіх</Form>
-        <Form Tag="0DP" Slouniki="" pravapis="">на*скім</Form>
-        <Form Tag="0AP" Slouniki="" pravapis="">на*скіх</Form>
-        <Form Tag="0AP" Slouniki="" pravapis="">на*скія</Form>
-        <Form Tag="0IP" Slouniki="" pravapis="">на*скімі</Form>
-        <Form Tag="0LP" Slouniki="" pravapis="">на*скіх</Form>
     </Paradigm>
     <Paradigm pdgId="1127841" Lemma="не*йкі" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не*йкі</Form>
@@ -998,6 +998,10 @@
         <Form Tag="0IS" Slouniki="prym2009" pravapis="A1957,A2008">не*чым</Form>
         <Form Tag="0LS" Slouniki="prym2009" pravapis="A1957,A2008">не*чым</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="не*штачка" Tag="SNF0">
+        <Form Tag="0NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">не*штачка</Form>
+        <Form Tag="0AS" pravapis="A1957,A2008">не*штачка</Form>
+    </Paradigm>
     <Paradigm pdgId="1127811" Lemma="ніво*дзін" Tag="SAN0">
         <Form Tag="MNS" Slouniki="sbm2012" pravapis="A2008">ніво*дзін</Form>
         <Form Tag="MGS" Slouniki="sbm2012" pravapis="A2008">ніво*днага</Form>
@@ -1189,6 +1193,36 @@
         <Form Tag="0IP" Slouniki="prym2009" pravapis="A1957,A2008">самі*мі</Form>
         <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">самі*х</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="са*менькі" Tag="SAE0">
+        <Form Tag="MNS" Slouniki="tsbm1984" pravapis="A1957,A2008">са*менькі</Form>
+        <Form Tag="MGS" pravapis="A1957,A2008">са*менькага</Form>
+        <Form Tag="MDS" pravapis="A1957,A2008">са*менькаму</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">са*менькага</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">са*менькі</Form>
+        <Form Tag="MIS" pravapis="A1957,A2008">са*менькім</Form>
+        <Form Tag="MLS" pravapis="A1957,A2008">са*менькім</Form>
+        <Form Tag="FNS" pravapis="A1957,A2008">са*менькая</Form>
+        <Form Tag="FGS" pravapis="A1957,A2008">са*менькай</Form>
+        <Form Tag="FGS" pravapis="A1957,A2008">са*менькае</Form>
+        <Form Tag="FDS" pravapis="A1957,A2008">са*менькай</Form>
+        <Form Tag="FAS" pravapis="A1957,A2008">са*менькую</Form>
+        <Form Tag="FIS" pravapis="A1957,A2008">са*менькай</Form>
+        <Form Tag="FIS" pravapis="A1957,A2008">са*менькаю</Form>
+        <Form Tag="FLS" pravapis="A1957,A2008">са*менькай</Form>
+        <Form Tag="NNS" pravapis="A1957,A2008">са*менькае</Form>
+        <Form Tag="NGS" pravapis="A1957,A2008">са*менькага</Form>
+        <Form Tag="NDS" pravapis="A1957,A2008">са*менькаму</Form>
+        <Form Tag="NAS" pravapis="A1957,A2008">са*менькае</Form>
+        <Form Tag="NIS" pravapis="A1957,A2008">са*менькім</Form>
+        <Form Tag="NLS" pravapis="A1957,A2008">са*менькім</Form>
+        <Form Tag="0NP" pravapis="A1957,A2008">са*менькія</Form>
+        <Form Tag="0GP" pravapis="A1957,A2008">са*менькіх</Form>
+        <Form Tag="0DP" pravapis="A1957,A2008">са*менькім</Form>
+        <Form Tag="0AP" pravapis="A1957,A2008">са*менькіх</Form>
+        <Form Tag="0AP" pravapis="A1957,A2008">са*менькія</Form>
+        <Form Tag="0IP" pravapis="A1957,A2008">са*менькімі</Form>
+        <Form Tag="0LP" pravapis="A1957,A2008">са*менькіх</Form>
+    </Paradigm>
     <Paradigm pdgId="1127818" Lemma="са*мы" Tag="SAE0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">са*мы</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">са*мага</Form>
@@ -1247,6 +1281,36 @@
         <Form Tag="0AP" Slouniki="prym2009" pravapis="A1957,A2008">свае*</Form>
         <Form Tag="0IP" Slouniki="prym2009" pravapis="A1957,A2008">сваі*мі</Form>
         <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">сваі*х</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="сёй" Tag="SAF3">
+        <Form Tag="MNS" Slouniki="krapivabr2012" pravapis="A1957,A2008">сёй</Form>
+        <Form Tag="MGS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
+        <Form Tag="MDS" Slouniki="" pravapis="A1957,A2008">сяму*</Form>
+        <Form Tag="MAS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
+        <Form Tag="MAS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
+        <Form Tag="MIS" Slouniki="" pravapis="A1957,A2008">сім</Form>
+        <Form Tag="MLS" Slouniki="" pravapis="A1957,A2008">сім</Form>
+        <Form Tag="NNS" Slouniki="tsbm2016" pravapis="A1957,A2008">сё*е</Form>
+        <Form Tag="NGS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
+        <Form Tag="NDS" Slouniki="" pravapis="A1957,A2008">сяму*</Form>
+        <Form Tag="NAS" Slouniki="" pravapis="A1957,A2008">сё*е</Form>
+        <Form Tag="NAS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
+        <Form Tag="NIS" Slouniki="" pravapis="A1957,A2008">сім</Form>
+        <Form Tag="NLS" Slouniki="" pravapis="A1957,A2008">сім</Form>
+        <Form Tag="FNS" Slouniki="" pravapis="A1957,A2008">ся*я</Form>
+        <Form Tag="FGS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
+        <Form Tag="FDS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
+        <Form Tag="FAS" Slouniki="" pravapis="A1957,A2008">сю*ю</Form>
+        <Form Tag="FIS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
+        <Form Tag="FIS" Slouniki="" pravapis="A1957,A2008">сё*ю</Form>
+        <Form Tag="FLS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
+        <Form Tag="0NP" Slouniki="" pravapis="A1957,A2008">сі*я</Form>
+        <Form Tag="0GP" Slouniki="" pravapis="A1957,A2008">сіх</Form>
+        <Form Tag="0DP" Slouniki="" pravapis="A1957,A2008">сім</Form>
+        <Form Tag="0AP" Slouniki="" pravapis="A1957,A2008">сіх</Form>
+        <Form Tag="0AP" Slouniki="" pravapis="A1957,A2008">сі*я</Form>
+        <Form Tag="0IP" Slouniki="" pravapis="A1957,A2008">сі*мі</Form>
+        <Form Tag="0LP" Slouniki="" pravapis="A1957,A2008">сіх</Form>
     </Paradigm>
     <Paradigm pdgId="1127846" Lemma="сёй-той" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957">сёй-той</Form>
@@ -1392,6 +1456,36 @@
         <Form Tag="0AP">такі*я-сякі*я</Form>
         <Form Tag="0IP">такі*мі-сякі*мі</Form>
         <Form Tag="0LP">такі*х-сякі*х</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="такі*-та" Tag="SMF3">
+        <Form Tag="MNS" Slouniki="krapivabr2012" pravapis="A1957,A2008">такі*-та</Form>
+        <Form Tag="MGS" pravapis="A1957,A2008">тако*га-та</Form>
+        <Form Tag="MDS" pravapis="A1957,A2008">тако*му-та</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">тако*га-та</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">такі*-та</Form>
+        <Form Tag="MIS" pravapis="A1957,A2008">такі*м-та</Form>
+        <Form Tag="MLS" pravapis="A1957,A2008">такі*м-та</Form>
+        <Form Tag="FNS" pravapis="A1957,A2008">така*я-та</Form>
+        <Form Tag="FGS" pravapis="A1957,A2008">тако*й-та</Form>
+        <Form Tag="FGS" pravapis="A1957,A2008">тако*е-та</Form>
+        <Form Tag="FDS" pravapis="A1957,A2008">тако*й-та</Form>
+        <Form Tag="FAS" pravapis="A1957,A2008">таку*ю-та</Form>
+        <Form Tag="FIS" pravapis="A1957,A2008">тако*й-та</Form>
+        <Form Tag="FIS" pravapis="A1957,A2008">тако*ю-та</Form>
+        <Form Tag="FLS" pravapis="A1957,A2008">тако*й-та</Form>
+        <Form Tag="NNS" pravapis="A1957,A2008">тако*е-та</Form>
+        <Form Tag="NGS" pravapis="A1957,A2008">тако*га-та</Form>
+        <Form Tag="NDS" pravapis="A1957,A2008">тако*му-та</Form>
+        <Form Tag="NAS" pravapis="A1957,A2008">тако*е-та</Form>
+        <Form Tag="NIS" pravapis="A1957,A2008">такі*м-та</Form>
+        <Form Tag="NLS" pravapis="A1957,A2008">такі*м-та</Form>
+        <Form Tag="0NP" pravapis="A1957,A2008">такі*я-та</Form>
+        <Form Tag="0GP" pravapis="A1957,A2008">такі*х-та</Form>
+        <Form Tag="0DP" pravapis="A1957,A2008">такі*м-та</Form>
+        <Form Tag="0AP" pravapis="A1957,A2008">такі*х-та</Form>
+        <Form Tag="0AP" pravapis="A1957,A2008">такі*я-та</Form>
+        <Form Tag="0IP" pravapis="A1957,A2008">такі*мі-та</Form>
+        <Form Tag="0LP" pravapis="A1957,A2008">такі*х-та</Form>
     </Paradigm>
     <Paradigm pdgId="1127847" Lemma="твой" Tag="SAS0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">твой</Form>
@@ -1621,6 +1715,14 @@
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">каго*-ко*лечы</Form>
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">кім-ко*лечы</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">кім-ко*лечы</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="хто-ко*львек" Tag="SNF0">
+        <Form Tag="MNS" Slouniki="tsbm1984" pravapis="A1957,A2008">хто-ко*львек</Form>
+        <Form Tag="MGS" pravapis="A1957,A2008">каго*-ко*львек</Form>
+        <Form Tag="MDS" pravapis="A1957,A2008">каму*-ко*львек</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">каго*-ко*львек</Form>
+        <Form Tag="MIS" pravapis="A1957,A2008">кім-ко*львек</Form>
+        <Form Tag="MLS" pravapis="A1957,A2008">кім-ко*львек</Form>
     </Paradigm>
     <Paradigm pdgId="1127823" Lemma="хто-не*будзь" Tag="SNF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">хто-не*будзь</Form>
@@ -2081,35 +2183,5 @@
         <Form Tag="0AP">які*ясьці</Form>
         <Form Tag="0IP">які*місьці</Form>
         <Form Tag="0LP">які*хсьці</Form>
-    </Paradigm>
-    <Paradigm pdgId="0" Lemma="сёй" Tag="SAF3">
-        <Form Tag="MNS" Slouniki="krapivabr2012" pravapis="A1957,A2008">сёй</Form>
-        <Form Tag="MGS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
-        <Form Tag="MDS" Slouniki="" pravapis="A1957,A2008">сяму*</Form>
-        <Form Tag="MAS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
-        <Form Tag="MAS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
-        <Form Tag="MIS" Slouniki="" pravapis="A1957,A2008">сім</Form>
-        <Form Tag="MLS" Slouniki="" pravapis="A1957,A2008">сім</Form>
-        <Form Tag="NNS" Slouniki="tsbm2016" pravapis="A1957,A2008">сё*е</Form>
-        <Form Tag="NGS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
-        <Form Tag="NDS" Slouniki="" pravapis="A1957,A2008">сяму*</Form>
-        <Form Tag="NAS" Slouniki="" pravapis="A1957,A2008">сё*е</Form>
-        <Form Tag="NAS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
-        <Form Tag="NIS" Slouniki="" pravapis="A1957,A2008">сім</Form>
-        <Form Tag="NLS" Slouniki="" pravapis="A1957,A2008">сім</Form>
-        <Form Tag="FNS" Slouniki="" pravapis="A1957,A2008">ся*я</Form>
-        <Form Tag="FGS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
-        <Form Tag="FDS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
-        <Form Tag="FAS" Slouniki="" pravapis="A1957,A2008">сю*ю</Form>
-        <Form Tag="FIS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
-        <Form Tag="FIS" Slouniki="" pravapis="A1957,A2008">сё*ю</Form>
-        <Form Tag="FLS" Slouniki="" pravapis="A1957,A2008">сёй</Form>
-        <Form Tag="0NP" Slouniki="" pravapis="A1957,A2008">сі*я</Form>
-        <Form Tag="0GP" Slouniki="" pravapis="A1957,A2008">сіх</Form>
-        <Form Tag="0DP" Slouniki="" pravapis="A1957,A2008">сім</Form>
-        <Form Tag="0AP" Slouniki="" pravapis="A1957,A2008">сіх</Form>
-        <Form Tag="0AP" Slouniki="" pravapis="A1957,A2008">сі*я</Form>
-        <Form Tag="0IP" Slouniki="" pravapis="A1957,A2008">сі*мі</Form>
-        <Form Tag="0LP" Slouniki="" pravapis="A1957,A2008">сіх</Form>
     </Paradigm>
 </Wordlist>

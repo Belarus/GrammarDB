@@ -55,11 +55,11 @@
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">дарма*, што</Form>
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">да*рма, што</Form>
     </Paradigm>
-    <Paradigm pdgId="1126919" Lemma="для таго*, што" Tag="CSX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">для таго*, што</Form>
-    </Paradigm>
     <Paradigm pdgId="1126918" Lemma="для таго*, каб" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">для таго*, каб</Form>
+    </Paradigm>
+    <Paradigm pdgId="1126919" Lemma="для таго*, што" Tag="CSX">
+        <Form Tag="" Slouniki="" pravapis="A1957, A2008">для таго*, што</Form>
     </Paradigm>
     <Paradigm pdgId="1126920" Lemma="ды" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ды</Form>
@@ -191,11 +191,14 @@
     <Paradigm pdgId="1126951" Lemma="тады*, як" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">тады*, як</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="такса*ма" Tag="CKX">
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">так-што</Form>
+    </Paradigm>
     <Paradigm pdgId="1160169" Lemma="такса*ма" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">такса*ма</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="такса*ма" Tag="CKX">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">так-што</Form>
+    <Paradigm pdgId="0" Lemma="та*к-што" Tag="CSX">
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">та*к-што</Form>
     </Paradigm>
     <Paradigm pdgId="1160168" Lemma="таму*" Tag="CKX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">таму*</Form>
@@ -206,11 +209,14 @@
     <Paradigm pdgId="1126954" Lemma="то" Tag="CSX" Marked="?">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">то</Form>
     </Paradigm>
+    <Paradigm pdgId="1127139" Lemma="то...то" Tag="CKX">
+        <Form Tag="" Slouniki="" pravapis="A1957, A2008">то...то</Form>
+    </Paradigm>
     <Paradigm pdgId="0" Lemma="то*-бок" Tag="CSX" Marked="?">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">то*-бок</Form>
     </Paradigm>
-    <Paradigm pdgId="1127139" Lemma="то...то" Tag="CKX">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">то...то</Form>
+    <Paradigm pdgId="0" Lemma="то-бок" Tag="CSX">
+        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">то*-бок</Form>
     </Paradigm>
     <Paradigm pdgId="1126955" Lemma="то*лькі" Tag="CSX">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">то*лькі</Form>

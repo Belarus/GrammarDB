@@ -33,6 +33,9 @@
     <Paradigm pdgId="1000015" Lemma="ама*ль" Tag="E">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ама*ль</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="амі*н" Tag="E">
+        <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">амі*н</Form>
+    </Paradigm>
     <Paradigm pdgId="1000016" Lemma="ані*" Tag="E">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ані*</Form>
     </Paradigm>
@@ -57,14 +60,14 @@
     <Paradigm pdgId="1000023" Lemma="бы" Tag="E">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">бы</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="быва*ла" Tag="E">
+        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="A2008">быва*ла</Form>
+    </Paradigm>
     <Paradigm pdgId="0" Lemma="было*" Tag="E">
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">быў</Form>
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">была*</Form>
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">было*</Form>
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">былі*</Form>
-    </Paradigm>
-    <Paradigm pdgId="0" Lemma="быва*ла" Tag="E">
-        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016" pravapis="A2008">быва*ла</Form>
     </Paradigm>
     <Paradigm pdgId="1000024" Lemma="бы*ццам" Tag="E">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">бы*ццам</Form>
@@ -263,11 +266,11 @@
     <Paradigm pdgId="1000067" Lemma="сабе" Tag="E">
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957, A2008">сабе</Form>
     </Paradigm>
-    <Paradigm pdgId="1000068" Lemma="сапраўды*" Tag="E">
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">сапраўды*</Form>
-    </Paradigm>
     <Paradigm pdgId="0" Lemma="са*ма" Tag="E">
         <Form Tag="" Slouniki="tsbm1984,tsblm1996" pravapis="A1957, A2008">са*ма</Form>
+    </Paradigm>
+    <Paradigm pdgId="1000068" Lemma="сапраўды*" Tag="E">
+        <Form Tag="" Slouniki="" pravapis="A1957, A2008">сапраўды*</Form>
     </Paradigm>
     <Paradigm pdgId="1000069" Lemma="так" Tag="E">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">так</Form>
@@ -277,6 +280,9 @@
     </Paradigm>
     <Paradigm pdgId="1000070" Lemma="такса*ма" Tag="E">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">такса*ма</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="та*к-такі" Tag="E">
+        <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">та*к-такі</Form>
     </Paradigm>
     <Paradigm pdgId="1000071" Lemma="там" Tag="E">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">там</Form>
@@ -330,6 +336,9 @@
     </Paradigm>
     <Paradigm pdgId="1000085" Lemma="што за" Tag="E">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">што за</Form>
+    </Paradigm>
+    <Paradigm pdgId="0" Lemma="эйш" Tag="E">
+        <Form Tag="" Slouniki="tsbm1984" pravapis="A1957,A2008">эйш</Form>
     </Paradigm>
     <Paradigm pdgId="1000000" Lemma="як" Tag="E">
         <Form Tag="" Slouniki="sbm2012" pravapis="A2008">як</Form>

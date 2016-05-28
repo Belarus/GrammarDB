@@ -34,7 +34,7 @@
         <Form Tag="MAS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008" options="inanim">адзі*н</Form>
         <Form Tag="MIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">адны*м</Form>
         <Form Tag="MLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">адны*м</Form>
-        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957,A2008">адна*</Form>
+        <Form Tag="FNS" Slouniki="prym2009,tsbm1984,tsbm2016" pravapis="A1957,A2008">адна*</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">адно*й</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">аднае*</Form>
         <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">адно*й</Form>
@@ -1096,12 +1096,12 @@
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">паўтара*</Form>
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">паўтара*</Form>
         <Form Tag="MLS" Slouniki="prym2009" pravapis="A1957,A2008">паўтара*</Form>
-        <Form Tag="FNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">паўтары</Form>
-        <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары</Form>
-        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары</Form>
-        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары</Form>
-        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары</Form>
-        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары</Form>
+        <Form Tag="FNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">паўтары*</Form>
+        <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары*</Form>
+        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары*</Form>
+        <Form Tag="FAS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары*</Form>
+        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары*</Form>
+        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">паўтары*</Form>
         <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957,A2008">паўтара*</Form>
         <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957,A2008">паўтара*</Form>
         <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957,A2008">паўтара*</Form>
@@ -2309,7 +2309,7 @@
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяй</Form>
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяю</Form>
         <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяй</Form>
-        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяе</Form>
+        <Form Tag="NNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">трэ*цяе</Form>
         <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяга</Form>
         <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяму</Form>
         <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957,A2008">трэ*цяе</Form>
@@ -2762,13 +2762,18 @@
     </Paradigm>
     <Paradigm pdgId="1127504" Lemma="шэсцьдзяся*т" Tag="MNCC">
         <Form Tag="PNP" Slouniki="prym2009,krapivabr2012" pravapis="A2008-">шэсцьдзяся*т</Form>
-        <Form Tag="PNP" pravapis="A1957">шэсцьдзесят</Form>
         <Form Tag="PGP" Slouniki="prym2009" pravapis="A2008-">шасцідзесяці*</Form>
         <Form Tag="PDP" Slouniki="prym2009" pravapis="A2008-">шасцідзесяці*</Form>
         <Form Tag="PAP" Slouniki="prym2009" pravapis="A2008-">шэсцьдзяся*т</Form>
-        <Form Tag="PAP" pravapis="A1957">шэсцьдзесят</Form>
         <Form Tag="PIP" Slouniki="prym2009" pravapis="A2008-">шасцюдзесяццю*</Form>
         <Form Tag="PLP" Slouniki="prym2009" pravapis="A2008-">шасцідзесяці*</Form>
+
+		<Form Tag="PNP" Slouniki="tsbm1984" pravapis="A1957">шэ*сцьдзесят</Form>
+        <Form Tag="PGP" Slouniki="" pravapis="A1957">шасцідзесяці*</Form>
+        <Form Tag="PDP" Slouniki="" pravapis="A1957">шасцідзесяці*</Form>
+        <Form Tag="PAP" Slouniki="" pravapis="A1957">шэ*сцьдзесят</Form>
+        <Form Tag="PIP" Slouniki="" pravapis="A1957">шасцюдзесяццю*</Form>
+        <Form Tag="PLP" Slouniki="" pravapis="A1957">шасцідзесяці*</Form>
     </Paradigm>
     <Paradigm pdgId="1127505" Lemma="шэсцьсо*т" Tag="MNCC">
         <Form Tag="PNP" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">шэсцьсо*т</Form>

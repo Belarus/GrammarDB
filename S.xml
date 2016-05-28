@@ -433,11 +433,11 @@
         <Form Tag="MLS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">ім</Form>
         <Form Tag="FNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">яна*</Form>
         <Form Tag="FGS" Slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016" pravapis="A1957,A2008">яе*</Form>
-        <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">ёй</Form>
+        <Form Tag="FDS" Slouniki="prym2009,tsbm2016,tsbm1984" pravapis="A1957,A2008">ёй</Form>
         <Form Tag="FAS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">яе*</Form>
-        <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">ёй</Form>
+        <Form Tag="FIS" Slouniki="prym2009,tsbm1984,tsbm2016" pravapis="A1957,A2008">ёй</Form>
         <Form Tag="FIS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">ёю</Form>
-        <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">ёй</Form>
+        <Form Tag="FLS" Slouniki="prym2009,tsbm1984,tsbm2016" pravapis="A1957,A2008">ёй</Form>
         <Form Tag="NNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">яно*</Form>
         <Form Tag="NGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">яго*</Form>
         <Form Tag="NDS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">яму*</Form>
@@ -489,7 +489,7 @@
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншы</Form>
         <Form Tag="MIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*ншым</Form>
         <Form Tag="MLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*ншым</Form>
-        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншая</Form>
+        <Form Tag="FNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">і*ншая</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншай</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншае</Form>
         <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншай</Form>
@@ -497,13 +497,13 @@
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншай</Form>
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншаю</Form>
         <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншай</Form>
-        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншае</Form>
+        <Form Tag="NNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">і*ншае</Form>
         <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншага</Form>
         <Form Tag="NDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*ншаму</Form>
         <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957,A2008">і*ншае</Form>
         <Form Tag="NIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*ншым</Form>
         <Form Tag="NLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*ншым</Form>
-        <Form Tag="0NP" Slouniki="prym2009" pravapis="A1957,A2008">і*ншыя</Form>
+        <Form Tag="0NP" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">і*ншыя</Form>
         <Form Tag="0GP" Slouniki="prym2009" pravapis="A1957,A2008">і*ншых</Form>
         <Form Tag="0DP" Slouniki="prym2009" pravapis="A1957,A2008">і*ншым</Form>
         <Form Tag="0AP" Slouniki="prym2009" pravapis="A1957,A2008">і*ншых</Form>
@@ -519,7 +519,7 @@
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняга</Form>
         <Form Tag="MIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*хнім</Form>
         <Form Tag="MLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*хнім</Form>
-        <Form Tag="FNS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняя</Form>
+        <Form Tag="FNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">і*хняя</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняй</Form>
         <Form Tag="FGS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняе</Form>
         <Form Tag="FDS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняй</Form>
@@ -527,13 +527,13 @@
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняй</Form>
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняю</Form>
         <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняй</Form>
-        <Form Tag="NNS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняе</Form>
+        <Form Tag="NNS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">і*хняе</Form>
         <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняга</Form>
         <Form Tag="NDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*хняму</Form>
         <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957,A2008">і*хняе</Form>
         <Form Tag="NIS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*хнім</Form>
         <Form Tag="NLS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">і*хнім</Form>
-        <Form Tag="0NP" Slouniki="prym2009" pravapis="A1957,A2008">і*хнія</Form>
+        <Form Tag="0NP" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">і*хнія</Form>
         <Form Tag="0GP" Slouniki="prym2009" pravapis="A1957,A2008">і*хніх</Form>
         <Form Tag="0DP" Slouniki="prym2009" pravapis="A1957,A2008">і*хнім</Form>
         <Form Tag="0AP" Slouniki="prym2009" pravapis="A1957,A2008">і*хнія</Form>
@@ -645,7 +645,7 @@
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">ко*жнай</Form>
         <Form Tag="FIS" Slouniki="prym2009" pravapis="A1957,A2008">ко*жнаю</Form>
         <Form Tag="FLS" Slouniki="prym2009" pravapis="A1957,A2008">ко*жнай</Form>
-        <Form Tag="NNS" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">ко*жнае</Form>
+        <Form Tag="NNS" Slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016" pravapis="A1957,A2008">ко*жнае</Form>
         <Form Tag="NGS" Slouniki="prym2009" pravapis="A1957,A2008">ко*жнага</Form>
         <Form Tag="NDS" Slouniki="prym2009" pravapis="A1957,A2008">ко*жнаму</Form>
         <Form Tag="NAS" Slouniki="prym2009" pravapis="A1957,A2008">ко*жнае</Form>
@@ -916,7 +916,7 @@
     </Paradigm>
     <Paradigm pdgId="1186565" Lemma="не*кі" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsbm1984" pravapis="A1957,A2008">не*кі</Form>
-        <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не*кага</Form>
+        <Form Tag="MGS" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">не*кага</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не*каму</Form>
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">не*кага</Form>
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">не*кі</Form>
@@ -946,7 +946,7 @@
     </Paradigm>
     <Paradigm pdgId="1127832" Lemma="не*хта" Tag="SNF0">
         <Form Tag="0NS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">не*хта</Form>
-        <Form Tag="0GS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не*кага</Form>
+        <Form Tag="0GS" Slouniki="prym2009,sbm2012,tsbm1984,tsbm2016" pravapis="A1957,A2008">не*кага</Form>
         <Form Tag="0DS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не*каму</Form>
         <Form Tag="0AS" Slouniki="prym2009" pravapis="A1957,A2008">не*кага</Form>
         <Form Tag="0IS" Slouniki="prym2009" pravapis="A1957,A2008">не*кім</Form>
@@ -1064,7 +1064,7 @@
     </Paradigm>
     <Paradigm pdgId="1127831" Lemma="ніхто*" Tag="SNN0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">ніхто*</Form>
-        <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ніко*га</Form>
+        <Form Tag="MGS" Slouniki="prym2009,sbm2012,tsbm1984,tsbm2016" pravapis="A1957,A2008">ніко*га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">ніко*му</Form>
         <Form Tag="MAS" Slouniki="prym2009" pravapis="A1957,A2008">ніко*га</Form>
         <Form Tag="MIS" Slouniki="prym2009" pravapis="A1957,A2008">нікі*м</Form>

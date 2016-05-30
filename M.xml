@@ -2753,7 +2753,7 @@
         <Form Tag="PLP">шо*стых</Form>
     </Paradigm>
     <Paradigm pdgId="1127503" Lemma="шэсць" Tag="MNCS">
-        <Form Tag="PNP" Slouniki="prym2009,tsblm1996,tsbm1984" pravapis="A1957">шэсць</Form>
+        <Form Tag="PNP" Slouniki="prym2009,tsblm1996,tsbm1984,sbm2012" pravapis="A1957">шэсць</Form>
         <Form Tag="PGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці*</Form>
         <Form Tag="PDP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці*</Form>
         <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">шэсць</Form>
@@ -2767,8 +2767,7 @@
         <Form Tag="PAP" Slouniki="prym2009" pravapis="A2008-">шэсцьдзяся*т</Form>
         <Form Tag="PIP" Slouniki="prym2009" pravapis="A2008-">шасцюдзесяццю*</Form>
         <Form Tag="PLP" Slouniki="prym2009" pravapis="A2008-">шасцідзесяці*</Form>
-
-		<Form Tag="PNP" Slouniki="tsbm1984" pravapis="A1957">шэсцьдзеся*т</Form>
+        <Form Tag="PNP" Slouniki="tsbm1984" pravapis="A1957">шэсцьдзеся*т</Form>
         <Form Tag="PGP" Slouniki="" pravapis="A1957">шасцідзесяці*</Form>
         <Form Tag="PDP" Slouniki="" pravapis="A1957">шасцідзесяці*</Form>
         <Form Tag="PAP" Slouniki="" pravapis="A1957">шэсцьдзеся*т</Form>

@@ -206,7 +206,7 @@
         <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A1957,A2008">гугу*</Form>
     </Paradigm>
     <Paradigm pdgId="1139996" Lemma="гу-гу*" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">гу-гу*</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A1957,A2008">гу-гу*</Form>
     </Paradigm>
     <Paradigm pdgId="1126850" Lemma="гы*ля" Tag="Y">
         <Form Tag="" Slouniki="" pravapis="A1957,A2008">гы*ля</Form>
@@ -227,7 +227,7 @@
         <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A2008">дабры*дзень</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="дадушы*" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A2008">дадушы*</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984" pravapis="A2008">дадушы*</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="далібо*г" Tag="Y">
         <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A2008">далібо*г</Form>
@@ -254,7 +254,7 @@
         <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">дзын</Form>
     </Paradigm>
     <Paradigm pdgId="1140001" Lemma="дзын-дзын" Tag="Y">
-        <Form Tag="" Slouniki="tsbm1984,sbm2012" pravapis="A1957, A2008">дзын-дзын</Form>
+        <Form Tag="" Slouniki="tsbm1984,sbm2012,tsblm1996" pravapis="A1957, A2008">дзын-дзын</Form>
     </Paradigm>
     <Paradigm pdgId="1126856" Lemma="дзя*куй" Tag="Y">
         <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">дзя*куй</Form>
@@ -348,13 +348,13 @@
     </Paradigm>
     <Paradigm pdgId="1140009" Lemma="ку-ка-рэ*-ку" Tag="Y">
         <Form Tag="" Slouniki="sbm2012,krapivabr2012" pravapis="A1957, A2008">ку-ка-рэ*-ку</Form>
-        <Form Tag="" Slouniki="sbm2012,krapivabr2012" pravapis="A1957, A2008">ку-ка-рэ-ку*</Form>
+        <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm1984" pravapis="A1957, A2008">ку-ка-рэ-ку*</Form>
     </Paradigm>
     <Paradigm pdgId="1140012" Lemma="ку*ку" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957, A2008">ку*ку</Form>
     </Paradigm>
     <Paradigm pdgId="1140010" Lemma="ку-ку*" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ку-ку*</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984,krapivabr2012" pravapis="A1957, A2008">ку-ку*</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="куле*ць" Tag="Y">
         <Form Tag="" Slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">куле*ць</Form>
@@ -378,7 +378,7 @@
         <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">лу*ск</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="лусь" Tag="Y">
-        <Form Tag="" Slouniki="krapivabr2012,tsblm1996" pravapis="A1957,A2008">лусь</Form>
+        <Form Tag="" Slouniki="krapivabr2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">лусь</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="лып" Tag="Y">
         <Form Tag="" Slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">лып</Form>
@@ -405,7 +405,7 @@
         <Form Tag="" Slouniki="tsblm1996,sbm2012,krapivabr2012" pravapis="A1957, A2008">марш</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ма*йна" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957,A2008">ма*йна</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A1957,A2008">ма*йна</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="марш-марш" Tag="Y">
         <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">марш-марш</Form>
@@ -547,7 +547,7 @@
         <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">сту*к-сту*к</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="тарара*х" Tag="Y">
-        <Form Tag="" Slouniki="tsbm1984" pravapis="A1957, A2008">тарара*х</Form>
+        <Form Tag="" Slouniki="tsbm1984,tsblm1996,krapivabr2012" pravapis="A1957, A2008">тарара*х</Form>
     </Paradigm>
     <Paradigm pdgId="1140016" Lemma="та-та*" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957, A2008">та-та*</Form>
@@ -640,7 +640,7 @@
         <Form Tag="" Slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">хап</Form>
     </Paradigm>
     <Paradigm pdgId="1140029" Lemma="ха-ха*" Tag="Y">
-        <Form Tag="" Slouniki="tsbm1984" pravapis="A1957, A2008">ха-ха*</Form>
+        <Form Tag="" Slouniki="tsbm1984,tsblm1996,krapivabr2012" pravapis="A1957, A2008">ха-ха*</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ха-ха-ха*" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957,A2008">ха-ха-ха*</Form>
@@ -655,7 +655,7 @@
         <Form Tag="" Slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">хе</Form>
     </Paradigm>
     <Paradigm pdgId="1140030" Lemma="хе-хе*" Tag="Y">
-        <Form Tag="" Slouniki="tsbm1984" pravapis="A1957, A2008">хе-хе*</Form>
+        <Form Tag="" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957, A2008">хе-хе*</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="хе-хе-хе*" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957,A2008">хе-хе-хе*</Form>
@@ -665,7 +665,7 @@
         <Form Tag="" Slouniki="tsblm1996,sbm2012" pravapis="A1957, A2008">хіба*</Form>
     </Paradigm>
     <Paradigm pdgId="1140028" Lemma="хі-хі*" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012,tsbm1984" pravapis="A1957, A2008">хі-хі*</Form>
+        <Form Tag="" Slouniki="sbm2012,tsbm1984,krapivabr2012" pravapis="A1957, A2008">хі-хі*</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="хі-хі-хі*" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984" pravapis="A2008">хі-хі-хі*</Form>
@@ -725,10 +725,10 @@
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957,A2008">цік-цік-ці*к</Form>
     </Paradigm>
     <Paradigm pdgId="1140033" Lemma="ціп-ці*п" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ціп-ці*п</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984" pravapis="A1957, A2008">ціп-ці*п</Form>
     </Paradigm>
     <Paradigm pdgId="1140032" Lemma="ціў-ці*ў" Tag="Y">
-        <Form Tag="" Slouniki="sbm2012" pravapis="A1957, A2008">ціў-ці*ў</Form>
+        <Form Tag="" Slouniki="sbm2012,tsblm1996,tsbm1984" pravapis="A1957, A2008">ціў-ці*ў</Form>
     </Paradigm>
     <Paradigm pdgId="1126896" Lemma="ціш" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984" pravapis="">ціш</Form>
@@ -848,7 +848,7 @@
         <Form Tag="" Slouniki="tsbm1984" pravapis="A1957,A2008">шух</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="ш-ш" Tag="Y">
-        <Form Tag="" Slouniki="tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">ш-ш</Form>
+        <Form Tag="" Slouniki="tsbm1984,sbm2012,krapivabr2012,tsblm1996" pravapis="A1957,A2008">ш-ш</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="эге*" Tag="Y">
         <Form Tag="" Slouniki="krapivabr2012,tsblm1996" pravapis="A1957,A2008">эге*</Form>

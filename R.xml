@@ -3804,8 +3804,8 @@
     <Paradigm pdgId="1002462" Lemma="блаславёна" Tag="RA" Govern="">
         <Form Tag="P">блаславёна</Form>
     </Paradigm>
-    <Paradigm pdgId="1052857" Lemma="бледна" Tag="RA" Govern="">
-        <Form Tag="P">бледна</Form>
+    <Paradigm pdgId="1052857" Lemma="бле*дна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">бле*дна</Form>
     </Paradigm>
     <Paradigm pdgId="1052860" Lemma="бледнава*та" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">бледнава*та</Form>
@@ -3865,8 +3865,8 @@
         <Form Tag="P" Slouniki="sbm2012,krapivabr2012" pravapis="A2008">блы*тана</Form>
         <Form Tag="C">блы*таней</Form>
     </Paradigm>
-    <Paradigm pdgId="1002471" Lemma="блякла" Tag="RA" Govern="">
-        <Form Tag="P">блякла</Form>
+    <Paradigm pdgId="1002471" Lemma="бля*кла" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">бля*кла</Form>
         <Form Tag="C">бляклей</Form>
     </Paradigm>
     <Paradigm pdgId="1052902" Lemma="бобападо*бна" Tag="RA" Govern="">
@@ -4152,7 +4152,7 @@
     </Paradigm>
     <Paradigm pdgId="0" Lemma="бы*стра" Tag="RA">
         <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">бы*стра</Form>
-        <Form Tag="C" pravapis="A1957,A2008">быстрэ*й</Form>
+        <Form Tag="C" Slouniki="krapivabr2012" pravapis="A1957,A2008">быстрэ*й</Form>
     </Paradigm>
     <Paradigm pdgId="1053469" Lemma="бэжава" Tag="RA" Govern="">
         <Form Tag="P">бэжава</Form>
@@ -6646,9 +6646,9 @@
         <Form Tag="P" Slouniki="prym2009,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">до*бра</Form>
         <Form Tag="C" Slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">ле*пей</Form>
         <Form Tag="C" Slouniki="prym2009,tsbm2016,sbm2012" pravapis="A1957,A2008">лепш</Form>
-        <Form Tag="C" Slouniki="krapivabr2012" pravapis="A1957,A2008">ляпе*й</Form>
-        <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найле*пей</Form>
-        <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найле*пш</Form>
+        <Form Tag="C" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">ляпе*й</Form>
+        <Form Tag="S" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">найле*пей</Form>
+        <Form Tag="S" Slouniki="prym2009,tsbm2016" pravapis="A1957,A2008">найле*пш</Form>
     </Paradigm>
     <Paradigm pdgId="1060844" Lemma="добраахво*тна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">добраахво*тна</Form>
@@ -7849,8 +7849,8 @@
     <Paradigm pdgId="1063450" Lemma="замкнёна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="sbm2012,krapivabr2012" pravapis="A2008">замкнёна</Form>
     </Paradigm>
-    <Paradigm pdgId="1063453" Lemma="замкнута" Tag="RA" Govern="">
-        <Form Tag="P">замкнута</Form>
+    <Paradigm pdgId="1063453" Lemma="замкну*та" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">замкну*та</Form>
     </Paradigm>
     <Paradigm pdgId="1139195" Lemma="замно*га" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">замно*га</Form>
@@ -9505,7 +9505,7 @@
         <Form Tag="P">камато*зна</Form>
     </Paradigm>
     <Paradigm pdgId="1066497" Lemma="камбінава*на" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="sbm2012">камбінава*на</Form>
+        <Form Tag="P" Slouniki="sbm2012,krapivabr2012" pravapis="A1957,A2008">камбінава*на</Form>
     </Paradigm>
     <Paradigm pdgId="1066500" Lemma="камбінато*рна" Tag="RA" Govern="">
         <Form Tag="P">камбінато*рна</Form>
@@ -10898,8 +10898,8 @@
         <Form Tag="P" Slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">ма*ла</Form>
         <Form Tag="C" Slouniki="prym2009,tsbm2016,sbm2012" pravapis="A1957,A2008">менш</Form>
         <Form Tag="C" Slouniki="prym2009,tsbm2016,sbm2012" pravapis="A1957,A2008">ме*ней</Form>
-        <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найме*нш</Form>
-        <Form Tag="S" Slouniki="prym2009" pravapis="A1957,A2008">найме*ней</Form>
+        <Form Tag="S" Slouniki="prym2009,tsbm2016" pravapis="A1957,A2008">найме*нш</Form>
+        <Form Tag="S" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">найме*ней</Form>
     </Paradigm>
     <Paradigm pdgId="1070709" Lemma="малаабгрунтава*на" Tag="RA" Govern="">
         <Form Tag="P">малаабгрунтава*на</Form>
@@ -11512,9 +11512,9 @@
         <Form Tag="P" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">мілагу*чна</Form>
         <Form Tag="C" Slouniki="prym2009" pravapis="A1957,A2008">мілагу*чней</Form>
     </Paradigm>
-    <Paradigm pdgId="1070285" Lemma="міласліва" Tag="RA" Govern="">
-        <Form Tag="P">міласліва</Form>
-        <Form Tag="C">міласлівей</Form>
+    <Paradigm pdgId="1070285" Lemma="мі*ласліва" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">мі*ласліва</Form>
+        <Form Tag="C">мі*ласлівей</Form>
     </Paradigm>
     <Paradigm pdgId="1070288" Lemma="мі*ласціва" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">мі*ласціва</Form>
@@ -12264,6 +12264,9 @@
     <Paradigm pdgId="1139350" Lemma="налётам" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">налётам</Form>
     </Paradigm>
+    <Paradigm pdgId="0" Lemma="на*ліха" Tag="RX">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">на*ліха</Form>
+    </Paradigm>
     <Paradigm pdgId="1192456" Lemma="налі*ха" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">налі*ха</Form>
     </Paradigm>
@@ -12781,9 +12784,9 @@
     <Paradigm pdgId="1074199" Lemma="нату*жліва" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="sbm2012,krapivabr2012" pravapis="A2008">нату*жліва</Form>
     </Paradigm>
-    <Paradigm pdgId="1074202" Lemma="натужна" Tag="RA" Govern="">
-        <Form Tag="P">натужна</Form>
-        <Form Tag="C">натужней</Form>
+    <Paradigm pdgId="1074202" Lemma="нату*жна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">нату*жна</Form>
+        <Form Tag="C">нату*жней</Form>
     </Paradigm>
     <Paradigm pdgId="1074211" Lemma="натуралісты*чна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">натуралісты*чна</Form>
@@ -14270,8 +14273,8 @@
     <Paradigm pdgId="1076346" Lemma="непараўна*льна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="tsbm1984,sbm2012,krapivabr2012">непараўна*льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1139458" Lemma="непараўнана" Tag="RX">
-        <Form Tag="P">непараўнана</Form>
+    <Paradigm pdgId="1139458" Lemma="непараўна*на" Tag="RX">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">непараўна*на</Form>
     </Paradigm>
     <Paradigm pdgId="1076359" Lemma="непаро*жне" Tag="RA" Govern="">
         <Form Tag="P">непаро*жне</Form>
@@ -16865,6 +16868,7 @@
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-бла*зенску" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">па-бла*зенску</Form>
+        <Form Tag="P" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">па-блазе*нску</Form>
     </Paradigm>
     <Paradigm pdgId="1139601" Lemma="паблі*зу" Tag="RX">
         <Form Tag="P" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">паблі*зу</Form>
@@ -18124,6 +18128,7 @@
     </Paradigm>
     <Paradigm pdgId="1080085" Lemma="пажадлі*ва" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">пажадлі*ва</Form>
+        <Form Tag="P" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">пажа*дліва</Form>
         <Form Tag="C">пажадлівей</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-жамо*йцку" Tag="RA" Govern="">
@@ -19423,8 +19428,8 @@
     <Paradigm pdgId="0" Lemma="па-мардо*ўску" Tag="RA" Govern="">
         <Form Tag="P">па-мардо*ўску</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="па-марксісцку" Tag="RA" Govern="">
-        <Form Tag="P">па-марксісцку</Form>
+    <Paradigm pdgId="0" Lemma="па-марксі*сцку" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">па-марксі*сцку</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="па-марсіянску" Tag="RA" Govern="">
         <Form Tag="P">па-марсіянску</Form>
@@ -23066,6 +23071,7 @@
     <Paradigm pdgId="1083925" Lemma="пра*вільна" Tag="RA" Govern="">
         <Form Tag="P" Slouniki="prym2009,sbm2012,tsbm1984,krapivabr2012" pravapis="A1957,A2008">пра*вільна</Form>
         <Form Tag="C" Slouniki="prym2009,krapivabr2012,tsbm2016,sbm2012" pravapis="A1957,A2008">пра*вільней</Form>
+        <Form Tag="C" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">правільне*й</Form>
     </Paradigm>
     <Paradigm pdgId="1083928" Lemma="правінцыйна" Tag="RA" Govern="">
         <Form Tag="P">правінцыйна</Form>
@@ -23478,7 +23484,7 @@
         <Form Tag="P">прыдумана</Form>
     </Paradigm>
     <Paradigm pdgId="1085269" Lemma="прыдуркава*та" Tag="RA" Govern="">
-        <Form Tag="P" Slouniki="sbm2012">прыдуркава*та</Form>
+        <Form Tag="P" Slouniki="sbm2012,krapivabr2012" pravapis="A1957,A2008">прыдуркава*та</Form>
         <Form Tag="C">прыдуркава*цей</Form>
     </Paradigm>
     <Paradigm pdgId="1085276" Lemma="прые*мна" Tag="RA" Govern="">
@@ -27787,8 +27793,8 @@
     <Paradigm pdgId="1104551" Lemma="тэатра*льна" Tag="RA">
         <Form Tag="P" Slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">тэатра*льна</Form>
     </Paradigm>
-    <Paradigm pdgId="1096189" Lemma="тэзісна" Tag="RA" Govern="">
-        <Form Tag="P">тэзісна</Form>
+    <Paradigm pdgId="1096189" Lemma="тэ*зісна" Tag="RA" Govern="">
+        <Form Tag="P" Slouniki="krapivabr2012" pravapis="A1957,A2008">тэ*зісна</Form>
     </Paradigm>
     <Paradigm pdgId="1096207" Lemma="тэкстава" Tag="RA" Govern="">
         <Form Tag="P">тэкстава</Form>

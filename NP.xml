@@ -9292,8 +9292,7 @@
         <Form Tag="AP">Дняпры*</Form>
         <Form Tag="IP">Дняпра*мі</Form>
         <Form Tag="LP">Дняпра*х</Form>
-
-		<Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Днепр</Form>
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Днепр</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Дняпра*</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Дняпру*</Form>
         <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Днепр</Form>
@@ -25458,7 +25457,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-	<Paradigm pdgId="1022839" Lemma="Сві*слач" Tag="NPIINF3" Theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы; Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+    <Paradigm pdgId="1022839" Lemma="Сві*слач" Tag="NPIINF3" Theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы; Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS" Slouniki="" pravapis="A1957,A2008">Сві*слач</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Сві*слачы</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Сві*слачы</Form>
@@ -28096,8 +28095,7 @@
         <Form Tag="AS" Slouniki="" pravapis="A2008">Токіа</Form>
         <Form Tag="IS" Slouniki="" pravapis="A2008">Токіа</Form>
         <Form Tag="LS" Slouniki="" pravapis="A2008">Токіа</Form>
-
-		<Form Tag="NS" Slouniki="" pravapis="A1957">Токіо</Form>
+        <Form Tag="NS" Slouniki="" pravapis="A1957">Токіо</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957">Токіо</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957">Токіо</Form>
         <Form Tag="AS" Slouniki="" pravapis="A1957">Токіо</Form>
@@ -29006,18 +29004,18 @@
         <Form Tag="LP">Тэхасах</Form>
     </Paradigm>
     <Paradigm pdgId="1127993" Lemma="ТЮГ" Tag="NPIIBM1">
-        <Form Tag="NS" Slouniki="krapivabr2012">ТЮГ</Form>
-        <Form Tag="GS">ТЮГа</Form>
-        <Form Tag="DS">ТЮГу</Form>
-        <Form Tag="AS">ТЮГ</Form>
-        <Form Tag="IS">ТЮГам</Form>
-        <Form Tag="LS">ТЮГу</Form>
-        <Form Tag="NP">ТЮГі</Form>
-        <Form Tag="GP">ТЮГаў</Form>
-        <Form Tag="DP">ТЮГам</Form>
-        <Form Tag="AP">ТЮГі</Form>
-        <Form Tag="IP">ТЮГамі</Form>
-        <Form Tag="LP">ТЮГах</Form>
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">ТЮГ</Form>
+        <Form Tag="GS" pravapis="A1957,A2008">ТЮГа</Form>
+        <Form Tag="DS" pravapis="A1957,A2008">ТЮГу</Form>
+        <Form Tag="AS" pravapis="A1957,A2008">ТЮГ</Form>
+        <Form Tag="IS" pravapis="A1957,A2008">ТЮГам</Form>
+        <Form Tag="LS" pravapis="A1957,A2008">ТЮГу</Form>
+        <Form Tag="NP" pravapis="A1957,A2008">ТЮГі</Form>
+        <Form Tag="GP" pravapis="A1957,A2008">ТЮГаў</Form>
+        <Form Tag="DP" pravapis="A1957,A2008">ТЮГам</Form>
+        <Form Tag="AP" pravapis="A1957,A2008">ТЮГі</Form>
+        <Form Tag="IP" pravapis="A1957,A2008">ТЮГамі</Form>
+        <Form Tag="LP" pravapis="A1957,A2008">ТЮГах</Form>
     </Paradigm>
     <Paradigm pdgId="1023988" Lemma="Уганда" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS" Slouniki="" pravapis="A1957">Уганда</Form>
@@ -31391,18 +31389,18 @@
         <Form Tag="LP"></Form>
     </Paradigm>
     <Paradigm pdgId="1024805" Lemma="Церахоўка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS" Slouniki="krapivabr2012">Церахоўка</Form>
-        <Form Tag="GS">Церахоўкі</Form>
-        <Form Tag="DS">Церахоўцы</Form>
-        <Form Tag="AS">Церахоўку</Form>
-        <Form Tag="IS">Церахоўкай</Form>
-        <Form Tag="LS">Церахоўцы</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Церахоўка</Form>
+        <Form Tag="GS" pravapis="A1957,A2008">Церахоўкі</Form>
+        <Form Tag="DS" pravapis="A1957,A2008">Церахоўцы</Form>
+        <Form Tag="AS" pravapis="A1957,A2008">Церахоўку</Form>
+        <Form Tag="IS" pravapis="A1957,A2008">Церахоўкай</Form>
+        <Form Tag="LS" pravapis="A1957,A2008">Церахоўцы</Form>
+        <Form Tag="NP" pravapis="A1957,A2008"></Form>
+        <Form Tag="GP" pravapis="A1957,A2008"></Form>
+        <Form Tag="DP" pravapis="A1957,A2008"></Form>
+        <Form Tag="AP" pravapis="A1957,A2008"></Form>
+        <Form Tag="IP" pravapis="A1957,A2008"></Form>
+        <Form Tag="LP" pravapis="A1957,A2008"></Form>
     </Paradigm>
     <Paradigm pdgId="1039044" Lemma="Цімафеевіч" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імя па бацьку">
         <Form Tag="NS">Цімафеевіч</Form>

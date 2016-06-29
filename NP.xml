@@ -12686,6 +12686,12 @@
         <Form Tag="AP" Slouniki="" pravapis="A1957,A2008">Каля*ды</Form>
         <Form Tag="IP" Slouniki="" pravapis="A1957,A2008">Каля*дамі</Form>
         <Form Tag="LP" Slouniki="" pravapis="A1957,A2008">Каля*дах</Form>
+        <Form Tag="NP" Slouniki="tsblm1996,tsbm1984,tsbm2016" pravapis="A1957,A2008">Ко*ляды</Form>
+        <Form Tag="GP" Slouniki="" pravapis="A1957,A2008">Ко*лядаў</Form>
+        <Form Tag="DP" Slouniki="" pravapis="A1957,A2008">Ко*лядам</Form>
+        <Form Tag="AP" Slouniki="" pravapis="A1957,A2008">Ко*ляды</Form>
+        <Form Tag="IP" Slouniki="" pravapis="A1957,A2008">Ко*лядамі</Form>
+        <Form Tag="LP" Slouniki="" pravapis="A1957,A2008">Ко*лядах</Form>
     </Paradigm>
     <Paradigm pdgId="1038144" Lemma="Камаз" Tag="NPIIBM1" Theme="Імёны ўласныя/Таксаномія/арганізацыі">
         <Form Tag="NS">Камаз</Form>
@@ -31388,13 +31394,13 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1024805" Lemma="Церахоўка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Церахоўка</Form>
-        <Form Tag="GS" pravapis="A1957,A2008">Церахоўкі</Form>
-        <Form Tag="DS" pravapis="A1957,A2008">Церахоўцы</Form>
-        <Form Tag="AS" pravapis="A1957,A2008">Церахоўку</Form>
-        <Form Tag="IS" pravapis="A1957,A2008">Церахоўкай</Form>
-        <Form Tag="LS" pravapis="A1957,A2008">Церахоўцы</Form>
+    <Paradigm pdgId="1024805" Lemma="Церахо*ўка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Церахо*ўка</Form>
+        <Form Tag="GS" pravapis="A1957,A2008">Церахо*ўкі</Form>
+        <Form Tag="DS" pravapis="A1957,A2008">Церахо*ўцы</Form>
+        <Form Tag="AS" pravapis="A1957,A2008">Церахо*ўку</Form>
+        <Form Tag="IS" pravapis="A1957,A2008">Церахо*ўкай</Form>
+        <Form Tag="LS" pravapis="A1957,A2008">Церахо*ўцы</Form>
         <Form Tag="NP" pravapis="A1957,A2008"></Form>
         <Form Tag="GP" pravapis="A1957,A2008"></Form>
         <Form Tag="DP" pravapis="A1957,A2008"></Form>

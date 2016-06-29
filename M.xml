@@ -2130,33 +2130,60 @@
         <Form Tag="PIP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">трыма*</Form>
         <Form Tag="PLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">трох</Form>
     </Paradigm>
-    <Paradigm pdgId="1127481" Lemma="трыдзевя*ты" Tag="MAOC">
-        <Form Tag="MNS" Slouniki="tsblm1996,tsbm1984" pravapis="A1957,A2008">трыдзевя*ты</Form>
-        <Form Tag="MGS" pravapis="A1957,A2008">трыдзевя*тага</Form>
-        <Form Tag="MDS" pravapis="A1957,A2008">трыдзевя*таму</Form>
-        <Form Tag="MAS" pravapis="A1957,A2008">трыдзевя*тага</Form>
-        <Form Tag="MAS" pravapis="A1957,A2008">трыдзевя*ты</Form>
-        <Form Tag="MIS" pravapis="A1957,A2008">трыдзевя*тым</Form>
-        <Form Tag="MLS" pravapis="A1957,A2008">трыдзевя*тым</Form>
-        <Form Tag="FNS" pravapis="A1957,A2008">трыдзевя*тая</Form>
-        <Form Tag="FGS" pravapis="A1957,A2008">трыдзевя*тай</Form>
-        <Form Tag="FDS" pravapis="A1957,A2008">трыдзевя*тай</Form>
-        <Form Tag="FAS" pravapis="A1957,A2008">трыдзевя*тую</Form>
-        <Form Tag="FIS" pravapis="A1957,A2008">трыдзевя*тай</Form>
-        <Form Tag="FLS" pravapis="A1957,A2008">трыдзевя*тай</Form>
-        <Form Tag="NNS" pravapis="A1957,A2008">трыдзевя*тае</Form>
-        <Form Tag="NGS" pravapis="A1957,A2008">трыдзевя*тага</Form>
-        <Form Tag="NDS" pravapis="A1957,A2008">трыдзевя*таму</Form>
-        <Form Tag="NAS" pravapis="A1957,A2008">трыдзевя*тае</Form>
-        <Form Tag="NIS" pravapis="A1957,A2008">трыдзевя*тым</Form>
-        <Form Tag="NLS" pravapis="A1957,A2008">трыдзевя*тым</Form>
-        <Form Tag="PNP" pravapis="A1957,A2008">трыдзевя*тыя</Form>
-        <Form Tag="PGP" pravapis="A1957,A2008">трыдзевя*тых</Form>
-        <Form Tag="PDP" pravapis="A1957,A2008">трыдзевя*тым</Form>
-        <Form Tag="PAP" pravapis="A1957,A2008">трыдзевя*тых</Form>
-        <Form Tag="PAP" pravapis="A1957,A2008">трыдзевя*тыя</Form>
-        <Form Tag="PIP" pravapis="A1957,A2008">трыдзевя*тымі</Form>
-        <Form Tag="PLP" pravapis="A1957,A2008">трыдзевя*тых</Form>
+    <Paradigm pdgId="1127481" Lemma="трыдзявя*ты" Tag="MAOC">
+		<Form Tag="MNS" Slouniki="tsbm2016" pravapis="A1957,A2008">трыдзявя*ты</Form>
+        <Form Tag="MGS" pravapis="A1957,A2008">трыдзявя*тага</Form>
+        <Form Tag="MDS" pravapis="A1957,A2008">трыдзявя*таму</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">трыдзявя*тага</Form>
+        <Form Tag="MAS" pravapis="A1957,A2008">трыдзявя*ты</Form>
+        <Form Tag="MIS" pravapis="A1957,A2008">трыдзявя*тым</Form>
+        <Form Tag="MLS" pravapis="A1957,A2008">трыдзявя*тым</Form>
+        <Form Tag="FNS" pravapis="A1957,A2008">трыдзявя*тая</Form>
+        <Form Tag="FGS" pravapis="A1957,A2008">трыдзявя*тай</Form>
+        <Form Tag="FDS" pravapis="A1957,A2008">трыдзявя*тай</Form>
+        <Form Tag="FAS" pravapis="A1957,A2008">трыдзявя*тую</Form>
+        <Form Tag="FIS" pravapis="A1957,A2008">трыдзявя*тай</Form>
+        <Form Tag="FLS" pravapis="A1957,A2008">трыдзявя*тай</Form>
+        <Form Tag="NNS" pravapis="A1957,A2008">трыдзявя*тае</Form>
+        <Form Tag="NGS" pravapis="A1957,A2008">трыдзявя*тага</Form>
+        <Form Tag="NDS" pravapis="A1957,A2008">трыдзявя*таму</Form>
+        <Form Tag="NAS" pravapis="A1957,A2008">трыдзявя*тае</Form>
+        <Form Tag="NIS" pravapis="A1957,A2008">трыдзявя*тым</Form>
+        <Form Tag="NLS" pravapis="A1957,A2008">трыдзявя*тым</Form>
+        <Form Tag="PNP" pravapis="A1957,A2008">трыдзявя*тыя</Form>
+        <Form Tag="PGP" pravapis="A1957,A2008">трыдзявя*тых</Form>
+        <Form Tag="PDP" pravapis="A1957,A2008">трыдзявя*тым</Form>
+        <Form Tag="PAP" pravapis="A1957,A2008">трыдзявя*тых</Form>
+        <Form Tag="PAP" pravapis="A1957,A2008">трыдзявя*тыя</Form>
+        <Form Tag="PIP" pravapis="A1957,A2008">трыдзявя*тымі</Form>
+        <Form Tag="PLP" pravapis="A1957,A2008">трыдзявя*тых</Form>
+
+		<Form Tag="MNS" Slouniki="tsblm1996,tsbm1984" pravapis="A1957">трыдзевя*ты</Form>
+        <Form Tag="MGS" pravapis="A1957">трыдзевя*тага</Form>
+        <Form Tag="MDS" pravapis="A1957">трыдзевя*таму</Form>
+        <Form Tag="MAS" pravapis="A1957">трыдзевя*тага</Form>
+        <Form Tag="MAS" pravapis="A1957">трыдзевя*ты</Form>
+        <Form Tag="MIS" pravapis="A1957">трыдзевя*тым</Form>
+        <Form Tag="MLS" pravapis="A1957">трыдзевя*тым</Form>
+        <Form Tag="FNS" pravapis="A1957">трыдзевя*тая</Form>
+        <Form Tag="FGS" pravapis="A1957">трыдзевя*тай</Form>
+        <Form Tag="FDS" pravapis="A1957">трыдзевя*тай</Form>
+        <Form Tag="FAS" pravapis="A1957">трыдзевя*тую</Form>
+        <Form Tag="FIS" pravapis="A1957">трыдзевя*тай</Form>
+        <Form Tag="FLS" pravapis="A1957">трыдзевя*тай</Form>
+        <Form Tag="NNS" pravapis="A1957">трыдзевя*тае</Form>
+        <Form Tag="NGS" pravapis="A1957">трыдзевя*тага</Form>
+        <Form Tag="NDS" pravapis="A1957">трыдзевя*таму</Form>
+        <Form Tag="NAS" pravapis="A1957">трыдзевя*тае</Form>
+        <Form Tag="NIS" pravapis="A1957">трыдзевя*тым</Form>
+        <Form Tag="NLS" pravapis="A1957">трыдзевя*тым</Form>
+        <Form Tag="PNP" pravapis="A1957">трыдзевя*тыя</Form>
+        <Form Tag="PGP" pravapis="A1957">трыдзевя*тых</Form>
+        <Form Tag="PDP" pravapis="A1957">трыдзевя*тым</Form>
+        <Form Tag="PAP" pravapis="A1957">трыдзевя*тых</Form>
+        <Form Tag="PAP" pravapis="A1957">трыдзевя*тыя</Form>
+        <Form Tag="PIP" pravapis="A1957">трыдзевя*тымі</Form>
+        <Form Tag="PLP" pravapis="A1957">трыдзевя*тых</Form>
     </Paradigm>
     <Paradigm pdgId="0" Lemma="тры*дзевяць" Tag="MNCC">
         <Form Tag="PNP" Slouniki="tsblm1996" pravapis="A1957,A2008">тры*дзевяць</Form>

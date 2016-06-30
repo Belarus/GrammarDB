@@ -2131,7 +2131,7 @@
         <Form Tag="PLP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">трох</Form>
     </Paradigm>
     <Paradigm pdgId="1127481" Lemma="трыдзявя*ты" Tag="MAOC">
-		<Form Tag="MNS" Slouniki="tsbm2016" pravapis="A1957,A2008">трыдзявя*ты</Form>
+        <Form Tag="MNS" Slouniki="tsbm2016,sbm2012,krapivabr2012" pravapis="A1957,A2008">трыдзявя*ты</Form>
         <Form Tag="MGS" pravapis="A1957,A2008">трыдзявя*тага</Form>
         <Form Tag="MDS" pravapis="A1957,A2008">трыдзявя*таму</Form>
         <Form Tag="MAS" pravapis="A1957,A2008">трыдзявя*тага</Form>
@@ -2157,8 +2157,7 @@
         <Form Tag="PAP" pravapis="A1957,A2008">трыдзявя*тыя</Form>
         <Form Tag="PIP" pravapis="A1957,A2008">трыдзявя*тымі</Form>
         <Form Tag="PLP" pravapis="A1957,A2008">трыдзявя*тых</Form>
-
-		<Form Tag="MNS" Slouniki="tsblm1996,tsbm1984" pravapis="A1957">трыдзевя*ты</Form>
+        <Form Tag="MNS" Slouniki="tsblm1996,tsbm1984" pravapis="A1957">трыдзевя*ты</Form>
         <Form Tag="MGS" pravapis="A1957">трыдзевя*тага</Form>
         <Form Tag="MDS" pravapis="A1957">трыдзевя*таму</Form>
         <Form Tag="MAS" pravapis="A1957">трыдзевя*тага</Form>
@@ -2780,7 +2779,7 @@
         <Form Tag="PLP">шо*стых</Form>
     </Paradigm>
     <Paradigm pdgId="1127503" Lemma="шэсць" Tag="MNCS">
-        <Form Tag="PNP" Slouniki="prym2009,tsblm1996,tsbm1984,sbm2012" pravapis="A1957">шэсць</Form>
+        <Form Tag="PNP" Slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957">шэсць</Form>
         <Form Tag="PGP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці*</Form>
         <Form Tag="PDP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці*</Form>
         <Form Tag="PAP" Slouniki="prym2009" pravapis="A1957">шэсць</Form>

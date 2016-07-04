@@ -1343,13 +1343,13 @@
         <Form Tag="0LP">сіх-тых</Form>
     </Paradigm>
     <Paradigm pdgId="1127869" Lemma="сто*лечкі" Tag="SAD0">
-        <Form Tag="0NP">сто*лечкі</Form>
-        <Form Tag="0GP">сто*лечкіх</Form>
-        <Form Tag="0DP">сто*лечкім</Form>
-        <Form Tag="0AP">сто*лечкіх</Form>
-        <Form Tag="0AP">сто*лечкі</Form>
-        <Form Tag="0IP">сто*лечкімі</Form>
-        <Form Tag="0LP">сто*лечкіх</Form>
+        <Form Tag="0NP" Slouniki="" pravapis="A1957,A2008">сто*лечкі</Form>
+        <Form Tag="0GP" Slouniki="" pravapis="A1957,A2008">сто*лечкіх</Form>
+        <Form Tag="0DP" Slouniki="" pravapis="A1957,A2008">сто*лечкім</Form>
+        <Form Tag="0AP" Slouniki="" pravapis="A1957,A2008">сто*лечкіх</Form>
+        <Form Tag="0AP" Slouniki="" pravapis="A1957,A2008">сто*лечкі</Form>
+        <Form Tag="0IP" Slouniki="" pravapis="A1957,A2008">сто*лечкімі</Form>
+        <Form Tag="0LP" Slouniki="" pravapis="A1957,A2008">сто*лечкіх</Form>
     </Paradigm>
     <Paradigm pdgId="1127868" Lemma="сто*лькі" Tag="SAD0">
         <Form Tag="0NP" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">сто*лькі</Form>
@@ -1361,13 +1361,13 @@
         <Form Tag="0LP" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сто*лькіх</Form>
     </Paradigm>
     <Paradigm pdgId="1127806" Lemma="сябе*" Tag="SNR0">
-        <Form Tag="0NS" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">сябе*</Form>
+        <Form Tag="0NS" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">сябе*</Form>
         <Form Tag="0GS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сябе*</Form>
-        <Form Tag="0DS" Slouniki="prym2009,sbm2012,tsbm2016,sbm2012" pravapis="A1957">сабе*</Form>
-        <Form Tag="0AS" Slouniki="prym2009" pravapis="A1957">сябе*</Form>
-        <Form Tag="0IS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957">сабо*й</Form>
-        <Form Tag="0IS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957">сабо*ю</Form>
-        <Form Tag="0LS" Slouniki="prym2009" pravapis="A1957">сабе*</Form>
+        <Form Tag="0DS" Slouniki="prym2009,sbm2012,tsbm2016,sbm2012" pravapis="A1957,A2008">сабе*</Form>
+        <Form Tag="0AS" Slouniki="prym2009" pravapis="A1957,A2008">сябе*</Form>
+        <Form Tag="0IS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">сабо*й</Form>
+        <Form Tag="0IS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">сабо*ю</Form>
+        <Form Tag="0LS" Slouniki="prym2009" pravapis="A1957,A2008">сабе*</Form>
     </Paradigm>
     <Paradigm pdgId="1127837" Lemma="сякі*-такі*" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">сякі*-такі*</Form>

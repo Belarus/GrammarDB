@@ -63,7 +63,7 @@
     <Paradigm pdgId="0" Lemma="быва*ла" Tag="E">
         <Form Tag="" Slouniki="sbm2012,krapivabr2012,tsbm2016,tsblm1996,tsbm1984" pravapis="A2008">быва*ла</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="было*" Tag="E">
+    <Paradigm pdgId="0" Lemma="было*" Tag="E" todo="націск о/ё рукамі">
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">быў</Form>
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">была*</Form>
         <Form Tag="" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">было*</Form>
@@ -302,14 +302,14 @@
     <Paradigm pdgId="1000075" Lemma="угу*" Tag="E">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">угу*</Form>
     </Paradigm>
-    <Paradigm pdgId="1000076" Lemma="ужо" Tag="E">
+    <Paradigm pdgId="1000076" Lemma="ужо*" Tag="E">
         <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">ужо*</Form>
-        <Form Tag="" Slouniki="" pravapis="A1957, A2008">ўжо</Form>
+        <Form Tag="" Slouniki="" pravapis="A1957, A2008">ўжо*</Form>
     </Paradigm>
     <Paradigm pdgId="1000077" Lemma="унь" Tag="E">
         <Form Tag="" Slouniki="sbm2012,tsbm1984,krapivabr2012" pravapis="A2008">унь</Form>
     </Paradigm>
-    <Paradigm pdgId="1000078" Lemma="усё" Tag="E">
+    <Paradigm pdgId="1000078" Lemma="усё" Tag="E" todo="націск о/ё рукамі">
         <Form Tag="" Slouniki="tsblm1996,sbm2012,krapivabr2012" pravapis="A1957, A2008">усё</Form>
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">ўсё</Form>
     </Paradigm>

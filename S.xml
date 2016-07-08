@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1138966" Lemma="aніхто*" Tag="SNN0">
+    <Paradigm pdgId="1138966" Lemma="aніхто*" Tag="SNN0" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009" pravapis="A1957,A2008">aніхто*</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">aніко*га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">aніко*му</Form>
@@ -152,7 +152,7 @@
         <Form Tag="MLS" pravapis="A2008">анікі*м</Form>
         <Form Tag="MLS" pravapis="A2008">ані аб кі*м</Form>
     </Paradigm>
-    <Paradigm pdgId="1138967" Lemma="анішто*" Tag="SNN0">
+    <Paradigm pdgId="1138967" Lemma="анішто*" Tag="SNN0" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">анішто*</Form>
         <Form Tag="MGS" Slouniki="prym2009" pravapis="A1957,A2008">анічо*га</Form>
         <Form Tag="MDS" Slouniki="prym2009" pravapis="A1957,A2008">анічо*му</Form>
@@ -424,7 +424,7 @@
         <Form Tag="0IP" pravapis="A1957,A2008">другі*мі</Form>
         <Form Tag="0LP" pravapis="A1957,A2008">другі*х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127912" Lemma="ён" Tag="SNP3">
+    <Paradigm pdgId="1127912" Lemma="ён" Tag="SNP3" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">ён</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016" pravapis="A1957,A2008">яго*</Form>
         <Form Tag="MDS" Slouniki="prym2009,krapivabr2012,tsbm2016" pravapis="A1957,A2008">яму*</Form>
@@ -597,7 +597,7 @@
         <Form Tag="0AP" Slouniki="prym2009" pravapis="A1957,A2008">като*рыя</Form>
         <Form Tag="0AP" Slouniki="prym2009" pravapis="A1957,A2008">като*рых</Form>
         <Form Tag="0IP" Slouniki="prym2009" pravapis="A1957,A2008">като*рымі</Form>
-        <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">каторых</Form>
+        <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">като*рых</Form>
     </Paradigm>
     <Paradigm pdgId="1138971" Lemma="като*ры-не*будзь" Tag="SAF0">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">като*ры-не*будзь</Form>
@@ -706,7 +706,7 @@
         <Form Tag="0IP" pravapis="A1957,A2008">любы*мі</Form>
         <Form Tag="0LP" pravapis="A1957,A2008">любы*х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127870" Lemma="мой" Tag="SAS0">
+    <Paradigm pdgId="1127870" Lemma="мой" Tag="SAS0" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">мой</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">майго*</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">майму*</Form>
@@ -1254,7 +1254,7 @@
         <Form Tag="0IP" Slouniki="prym2009" pravapis="A1957,A2008">са*мымі</Form>
         <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">са*мых</Form>
     </Paradigm>
-    <Paradigm pdgId="1127835" Lemma="свой" Tag="SAS0">
+    <Paradigm pdgId="1127835" Lemma="свой" Tag="SAS0" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">свой</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">свайго*</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">свайму*</Form>
@@ -1283,7 +1283,7 @@
         <Form Tag="0IP" Slouniki="prym2009" pravapis="A1957,A2008">сваі*мі</Form>
         <Form Tag="0LP" Slouniki="prym2009" pravapis="A1957,A2008">сваі*х</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="сёй" Tag="SAF3">
+    <Paradigm pdgId="0" Lemma="сёй" Tag="SAF3" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="krapivabr2012" pravapis="A1957,A2008">сёй</Form>
         <Form Tag="MGS" Slouniki="" pravapis="A1957,A2008">сяго*</Form>
         <Form Tag="MDS" Slouniki="" pravapis="A1957,A2008">сяму*</Form>
@@ -1488,7 +1488,7 @@
         <Form Tag="0IP" pravapis="A1957,A2008">такі*мі-та</Form>
         <Form Tag="0LP" pravapis="A1957,A2008">такі*х-та</Form>
     </Paradigm>
-    <Paradigm pdgId="1127847" Lemma="твой" Tag="SAS0">
+    <Paradigm pdgId="1127847" Lemma="твой" Tag="SAS0" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">твой</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">твайго*</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">твайму*</Form>
@@ -1517,7 +1517,7 @@
         <Form Tag="0IP" Slouniki="" pravapis="A1957,A2008">тваі*мі</Form>
         <Form Tag="0LP" Slouniki="" pravapis="A1957,A2008">тваі*х</Form>
     </Paradigm>
-    <Paradigm pdgId="1127843" Lemma="той" Tag="SAD0">
+    <Paradigm pdgId="1127843" Lemma="той" Tag="SAD0" todo="націск о/ё рукамі">
         <Form Tag="MNS" Slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">той</Form>
         <Form Tag="MGS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">таго*</Form>
         <Form Tag="MDS" Slouniki="prym2009,sbm2012" pravapis="A1957,A2008">таму*</Form>

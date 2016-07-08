@@ -24,8 +24,8 @@
     <Paradigm pdgId="1139984" Lemma="акы*ш" Tag="Y">
         <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">акы*ш</Form>
     </Paradigm>
-    <Paradigm pdgId="1126831" Lemma="алё" Tag="Y">
-        <Form Tag="" Slouniki="tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">алё</Form>
+    <Paradigm pdgId="1126831" Lemma="алё*" Tag="Y">
+        <Form Tag="" Slouniki="tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">алё*</Form>
     </Paradigm>
     <Paradigm pdgId="1139985" Lemma="алілу*я" Tag="Y">
         <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">алілу*я</Form>
@@ -343,7 +343,7 @@
     <Paradigm pdgId="1140008" Lemma="круць-верць" Tag="Y">
         <Form Tag="" Slouniki="tsbm1984,sbm2012" pravapis="A1957, A2008">круць-верць</Form>
     </Paradigm>
-    <Paradigm pdgId="1126865" Lemma="крый бог" Tag="Y">
+    <Paradigm pdgId="1126865" Lemma="крый бог" Tag="Y" todo="націск о/ё рукамі">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">крый бог</Form>
     </Paradigm>
     <Paradigm pdgId="1140011" Lemma="кукарэ*ку" Tag="Y">
@@ -437,7 +437,7 @@
     <Paradigm pdgId="1126870" Lemma="на* табе" Tag="Y">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">на* табе</Form>
     </Paradigm>
-    <Paradigm pdgId="1126871" Lemma="не дай бог" Tag="Y">
+    <Paradigm pdgId="1126871" Lemma="не дай бог" Tag="Y" todo="націск о/ё рукамі">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">не дай бог</Form>
     </Paradigm>
     <Paradigm pdgId="1126872" Lemma="не дай бо*жа" Tag="Y">
@@ -615,7 +615,7 @@
     <Paradigm pdgId="1126892" Lemma="усяго добрага" Tag="Y">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">усяго* до*брага</Form>
     </Paradigm>
-    <Paradigm pdgId="1126893" Lemma="усяго найлепшага" Tag="Y">
+    <Paradigm pdgId="1126893" Lemma="усяго найлепшага" Tag="Y" todo="націск о/ё рукамі">
         <Form Tag="" Slouniki="" pravapis="A1957, A2008">усяго* найле*пшага</Form>
     </Paradigm>
     <Paradigm pdgId="1126894" Lemma="ух" Tag="Y">

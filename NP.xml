@@ -236,7 +236,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="А*зія" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+    <Paradigm pdgId="1203324" Lemma="А*зія" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">А*зія</Form>
         <Form Tag="GS" pravapis="A1957,A2008">А*зіі</Form>
         <Form Tag="DS" pravapis="A1957,A2008">А*зіі</Form>
@@ -404,20 +404,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Алесь" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS" Slouniki="" pravapis="A1957,A2008">Алеся</Form>
-        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Алесі</Form>
-        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Алесі</Form>
-        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Алесю</Form>
-        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Алесяй</Form>
-        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Алесі</Form>
-        <Form Tag="NP">Алесі</Form>
-        <Form Tag="GP">Алесяў</Form>
-        <Form Tag="DP">Алесям</Form>
-        <Form Tag="AP">Алесяў</Form>
-        <Form Tag="IP">Алесямі</Form>
-        <Form Tag="LP">Алесях</Form>
-    </Paradigm>
     <Paradigm pdgId="1026265" Lemma="Алесь" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS" Slouniki="" pravapis="A1957,A2008">Алесь</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Алеся</Form>
@@ -425,6 +411,20 @@
         <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Алеся</Form>
         <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Алесем</Form>
         <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Алесю</Form>
+        <Form Tag="NP">Алесі</Form>
+        <Form Tag="GP">Алесяў</Form>
+        <Form Tag="DP">Алесям</Form>
+        <Form Tag="AP">Алесяў</Form>
+        <Form Tag="IP">Алесямі</Form>
+        <Form Tag="LP">Алесях</Form>
+    </Paradigm>
+    <Paradigm pdgId="1203325" Lemma="Алесь" Tag="NPAPNF2" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS" Slouniki="" pravapis="A1957,A2008">Алеся</Form>
+        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Алесі</Form>
+        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Алесі</Form>
+        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Алесю</Form>
+        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Алесяй</Form>
+        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Алесі</Form>
         <Form Tag="NP">Алесі</Form>
         <Form Tag="GP">Алесяў</Form>
         <Form Tag="DP">Алесям</Form>
@@ -488,7 +488,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Алкара*н" Tag="NPIINM1">
+    <Paradigm pdgId="1203326" Lemma="Алкара*н" Tag="NPIINM1">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Алкара*н</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Алкара*на</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Алкара*ну</Form>
@@ -1185,7 +1185,7 @@
         <Form Tag="IP">Аркадзямі</Form>
         <Form Tag="LP">Аркадзях</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="А*рктыка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1203327" Lemma="А*рктыка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS" Slouniki="tsblm1996,tsbm1984" pravapis="A1957,A2008">А*рктыка</Form>
         <Form Tag="GS" pravapis="A1957,A2008">А*рктыкі</Form>
         <Form Tag="DS" pravapis="A1957,A2008">А*рктыцы</Form>
@@ -1525,7 +1525,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="А*тыка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1203328" Lemma="А*тыка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS" Slouniki="krapivabr2012,tsbm2016" pravapis="A1957,A2008">А*тыка</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">А*тыкі</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">А*тыцы</Form>
@@ -1713,7 +1713,7 @@
         <Form Tag="IP" Slouniki="" pravapis="A1957,A2008">Афінамі</Form>
         <Form Tag="LP" Slouniki="" pravapis="A1957,A2008">Афінах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="А*фрыка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1203329" Lemma="А*фрыка" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">А*фрыка</Form>
         <Form Tag="GS" pravapis="A1957,A2008">А*фрыкі</Form>
         <Form Tag="DS" pravapis="A1957,A2008">А*фрыцы</Form>
@@ -2399,6 +2399,20 @@
         <Form Tag="IP">Барысавічамі</Form>
         <Form Tag="LP">Барысавічах</Form>
     </Paradigm>
+    <Paradigm pdgId="1127750" Lemma="Бары*саў" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Бары*саў</Form>
+        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Бары*сава</Form>
+        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Бары*саву</Form>
+        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Бары*саў</Form>
+        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Бары*савам</Form>
+        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Бары*саве</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1037641" Lemma="Барысаў" Tag="NPAPNM6" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="NS">Барысаў</Form>
         <Form Tag="GS">Барысава</Form>
@@ -2407,20 +2421,6 @@
         <Form Tag="IS">Барысавым</Form>
         <Form Tag="LS">Барысаве</Form>
         <Form Tag="LS">Барысаву</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1127750" Lemma="Бары*саў" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Бары*саў</Form>
-        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Бары*сава</Form>
-        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Бары*саву</Form>
-        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Бары*саў</Form>
-        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Бары*савам</Form>
-        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Бары*саве</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -4516,7 +4516,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Вадале*й" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
+    <Paradigm pdgId="1203330" Lemma="Вадале*й" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
         <Form Tag="NS" Slouniki="krapivabr2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">Вадале*й</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Вадале*я</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Вадале*ю</Form>
@@ -4656,7 +4656,7 @@
         <Form Tag="PIP">Валадарскімі</Form>
         <Form Tag="PLP">Валадарскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Валапа*с" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
+    <Paradigm pdgId="1203331" Lemma="Валапа*с" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Валапа*с</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Валапа*су</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Валапа*су</Form>
@@ -5605,7 +5605,7 @@
         <Form Tag="PIP">Во*льскімі</Form>
         <Form Tag="PLP">Во*льскіх</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Во*ран" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
+    <Paradigm pdgId="1203332" Lemma="Во*ран" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Во*ран</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Во*рана</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Во*рану</Form>
@@ -8018,7 +8018,7 @@
         <Form Tag="IP">Давідамі</Form>
         <Form Tag="LP">Давідах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Давы*д" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+    <Paradigm pdgId="1203333" Lemma="Давы*д" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS" Slouniki="" pravapis="A1957,A2008">Давы*д</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Давы*да</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Давы*ду</Form>
@@ -9166,7 +9166,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Дзявя*тнік" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/святы">
+    <Paradigm pdgId="1203334" Lemma="Дзявя*тнік" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/святы">
         <Form Tag="NS" Slouniki="tsbm2016" pravapis="A2008">Дзявя*тнік</Form>
         <Form Tag="GS" Slouniki="" pravapis="A2008">Дзявя*тніка</Form>
         <Form Tag="DS" Slouniki="" pravapis="A2008">Дзявя*тніку</Form>
@@ -9279,32 +9279,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="1038017" Lemma="Дняпро*" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы" todo="націск о/ё рукамі">
-        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Дняпро*</Form>
-        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Дняпра*</Form>
-        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Дняпру*</Form>
-        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Дняпро*</Form>
-        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Дняпро*м</Form>
-        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Дняпры*</Form>
-        <Form Tag="NP">Дняпры*</Form>
-        <Form Tag="GP">Дняпро*ў</Form>
-        <Form Tag="DP">Дняпра*м</Form>
-        <Form Tag="AP">Дняпры*</Form>
-        <Form Tag="IP">Дняпра*мі</Form>
-        <Form Tag="LP">Дняпра*х</Form>
-        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Днепр</Form>
-        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Дняпра*</Form>
-        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Дняпру*</Form>
-        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Днепр</Form>
-        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Дняпро*м</Form>
-        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Дняпры*</Form>
-        <Form Tag="NP">Дняпры*</Form>
-        <Form Tag="GP">Дняпро*ў</Form>
-        <Form Tag="DP">Дняпра*м</Form>
-        <Form Tag="AP">Дняпры*</Form>
-        <Form Tag="IP">Дняпра*мі</Form>
-        <Form Tag="LP">Дняпра*х</Form>
-    </Paradigm>
     <Paradigm pdgId="1038018" Lemma="Днепрапятро*ўск" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Днепрапятро*ўск</Form>
         <Form Tag="GS">Днепрапятро*ўска</Form>
@@ -9332,6 +9306,32 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1038017" Lemma="Дняпро*" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы" todo="націск о/ё рукамі">
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Дняпро*</Form>
+        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Дняпра*</Form>
+        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Дняпру*</Form>
+        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Дняпро*</Form>
+        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Дняпро*м</Form>
+        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Дняпры*</Form>
+        <Form Tag="NP">Дняпры*</Form>
+        <Form Tag="GP">Дняпро*ў</Form>
+        <Form Tag="DP">Дняпра*м</Form>
+        <Form Tag="AP">Дняпры*</Form>
+        <Form Tag="IP">Дняпра*мі</Form>
+        <Form Tag="LP">Дняпра*х</Form>
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Днепр</Form>
+        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Дняпра*</Form>
+        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Дняпру*</Form>
+        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Днепр</Form>
+        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Дняпро*м</Form>
+        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Дняпры*</Form>
+        <Form Tag="NP">Дняпры*</Form>
+        <Form Tag="GP">Дняпро*ў</Form>
+        <Form Tag="DP">Дняпра*м</Form>
+        <Form Tag="AP">Дняпры*</Form>
+        <Form Tag="IP">Дняпра*мі</Form>
+        <Form Tag="LP">Дняпра*х</Form>
     </Paradigm>
     <Paradigm pdgId="1038021" Lemma="До*бруш" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">До*бруш</Form>
@@ -10404,7 +10404,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Есентукі" Tag="NPIINP7">
+    <Paradigm pdgId="1203335" Lemma="Есентукі" Tag="NPIINP7">
         <Form Tag="NS"></Form>
         <Form Tag="GS"></Form>
         <Form Tag="DS"></Form>
@@ -14996,7 +14996,7 @@
         <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Купа*ллем</Form>
         <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Купа*ллі</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Купідо*н" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/тэонімы">
+    <Paradigm pdgId="1203336" Lemma="Купідо*н" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/тэонімы">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Купідо*н</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Купідо*на</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Купідо*ну</Form>
@@ -15438,7 +15438,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Ла*зар" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+    <Paradigm pdgId="1203337" Lemma="Ла*зар" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS" Slouniki="" pravapis="A1957,A2008">Ла*зар</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Ла*зара</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Ла*зару</Form>
@@ -16162,14 +16162,6 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Лінц" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Form Tag="NS" Slouniki="krapivabr2012,tsbm2016,tsbm1984" pravapis="A2008">Лінч</Form>
-        <Form Tag="GS" Slouniki="" pravapis="A2008">Лінча</Form>
-        <Form Tag="DS" Slouniki="" pravapis="A2008">Лінчу</Form>
-        <Form Tag="AS" Slouniki="" pravapis="A2008">Лінч</Form>
-        <Form Tag="IS" Slouniki="" pravapis="A2008">Лінчам</Form>
-        <Form Tag="LS" Slouniki="" pravapis="A2008">Лінчы</Form>
-    </Paradigm>
     <Paradigm pdgId="1038271" Lemma="Лінц" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Лінц</Form>
         <Form Tag="GS">Лінца</Form>
@@ -16183,6 +16175,14 @@
         <Form Tag="AP"></Form>
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
+    </Paradigm>
+    <Paradigm pdgId="1203338" Lemma="Лінц" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Form Tag="NS" Slouniki="krapivabr2012,tsbm2016,tsbm1984" pravapis="A2008">Лінч</Form>
+        <Form Tag="GS" Slouniki="" pravapis="A2008">Лінча</Form>
+        <Form Tag="DS" Slouniki="" pravapis="A2008">Лінчу</Form>
+        <Form Tag="AS" Slouniki="" pravapis="A2008">Лінч</Form>
+        <Form Tag="IS" Slouniki="" pravapis="A2008">Лінчам</Form>
+        <Form Tag="LS" Slouniki="" pravapis="A2008">Лінчы</Form>
     </Paradigm>
     <Paradigm pdgId="1038272" Lemma="Ліпецк" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS">Ліпецк</Form>
@@ -19272,7 +19272,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Мо*рзэ" Tag="NPAPNM0">
+    <Paradigm pdgId="1203339" Lemma="Мо*рзэ" Tag="NPAPNM0">
         <Form Tag="NS" Slouniki="krapivabr2012,tsbm2016" pravapis="A2008">Мо*рзэ</Form>
         <Form Tag="NS" Slouniki="tsbm1984" pravapis="A1957">Мо*рзе</Form>
         <Form Tag="GS" Slouniki="" pravapis="A2008">Мо*рзэ</Form>
@@ -19620,20 +19620,6 @@
         <Form Tag="AS">Навакузнецк</Form>
         <Form Tag="IS">Навакузнецкам</Form>
         <Form Tag="LS">Навакузнецку</Form>
-        <Form Tag="NP"></Form>
-        <Form Tag="GP"></Form>
-        <Form Tag="DP"></Form>
-        <Form Tag="AP"></Form>
-        <Form Tag="IP"></Form>
-        <Form Tag="LP"></Form>
-    </Paradigm>
-    <Paradigm pdgId="1038486" Lemma="Новалуко*мль" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Новалуко*мль</Form>
-        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Новалуко*мля</Form>
-        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Новалуко*млю</Form>
-        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Новалуко*мль</Form>
-        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Новалуко*млем</Form>
-        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Новалуко*млі</Form>
         <Form Tag="NP"></Form>
         <Form Tag="GP"></Form>
         <Form Tag="DP"></Form>
@@ -20444,6 +20430,20 @@
         <Form Tag="IP">Но*білямі</Form>
         <Form Tag="LP">Но*білях</Form>
     </Paradigm>
+    <Paradigm pdgId="1038486" Lemma="Новалуко*мль" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Новалуко*мль</Form>
+        <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Новалуко*мля</Form>
+        <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Новалуко*млю</Form>
+        <Form Tag="AS" Slouniki="" pravapis="A1957,A2008">Новалуко*мль</Form>
+        <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Новалуко*млем</Form>
+        <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Новалуко*млі</Form>
+        <Form Tag="NP"></Form>
+        <Form Tag="GP"></Form>
+        <Form Tag="DP"></Form>
+        <Form Tag="AP"></Form>
+        <Form Tag="IP"></Form>
+        <Form Tag="LP"></Form>
+    </Paradigm>
     <Paradigm pdgId="1038512" Lemma="Но*вікаў" Tag="NPAPNM6" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="NS">Но*вікаў</Form>
         <Form Tag="GS">Но*вікава</Form>
@@ -20760,7 +20760,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="О*баль" Tag="NPIINF1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+    <Paradigm pdgId="1203340" Lemma="О*баль" Tag="NPIINF1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">О*баль</Form>
         <Form Tag="GS" pravapis="A1957,A2008">О*балі</Form>
         <Form Tag="DS" pravapis="A1957,A2008">О*балі</Form>
@@ -21595,7 +21595,7 @@
         <Form Tag="IP" Slouniki="" pravapis="A1957,A2008">Паста*вамі</Form>
         <Form Tag="LP" Slouniki="" pravapis="A1957,A2008">Паста*вах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="пасце*льнічны" Tag="NPAPNM1">
+    <Paradigm pdgId="1203341" Lemma="пасце*льнічны" Tag="NPAPNM1">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">пасце*льнічны</Form>
         <Form Tag="GS" pravapis="A1957,A2008">пасце*льнічнага</Form>
         <Form Tag="DS" pravapis="A1957,A2008">пасце*льнічнаму</Form>
@@ -22170,7 +22170,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="піўба*р" Tag="NPIIBM1">
+    <Paradigm pdgId="1203342" Lemma="піўба*р" Tag="NPIIBM1">
         <Form Tag="NS" Slouniki="sbm2012" pravapis="A2008">піўба*р</Form>
         <Form Tag="GS" Slouniki="sbm2012" pravapis="A2008">піўба*ра</Form>
         <Form Tag="DS" pravapis="A2008">піўба*ру</Form>
@@ -22623,7 +22623,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Прымо*р'е" Tag="NPIINN1">
+    <Paradigm pdgId="1203343" Lemma="Прымо*р'е" Tag="NPIINN1">
         <Form Tag="NS">Прымо*р'е</Form>
         <Form Tag="GS">Прымо*р'я</Form>
         <Form Tag="DS">Прымо*р'ю</Form>
@@ -23110,7 +23110,7 @@
         <Form Tag="IP">Раго*зінымі</Form>
         <Form Tag="LP">Раго*зіных</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Ра*даўніца" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/святы">
+    <Paradigm pdgId="1203344" Lemma="Ра*даўніца" Tag="NPIINF2" Theme="Імёны ўласныя/Таксаномія/святы">
         <Form Tag="NS" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Ра*даўніца</Form>
         <Form Tag="NS" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Ра*даўніца</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Ра*даўніцы</Form>
@@ -25009,7 +25009,7 @@
         <Form Tag="IP">Сарабандамі</Form>
         <Form Tag="LP">Сарабандах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Саракі*" Tag="NPIINP7" Theme="Імёны ўласныя/Таксаномія/святы">
+    <Paradigm pdgId="1203345" Lemma="Саракі*" Tag="NPIINP7" Theme="Імёны ўласныя/Таксаномія/святы">
         <Form Tag="NP" Slouniki="krapivabr2012" pravapis="A1957,A2008">Саракі*</Form>
         <Form Tag="GP" pravapis="A1957,A2008">Сарако*ў</Form>
         <Form Tag="DP" pravapis="A1957,A2008">Сарака*м</Form>
@@ -25171,7 +25171,7 @@
         <Form Tag="IP">Сатурнамі</Form>
         <Form Tag="LP">Сатурнах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Саўінфармбюро*" Tag="NPIIBN0">
+    <Paradigm pdgId="1203346" Lemma="Саўінфармбюро*" Tag="NPIIBN0">
         <Form Tag="NS" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Саўінфармбюро*</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Саўінфармбюро*</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Саўінфармбюро*</Form>
@@ -25193,7 +25193,7 @@
         <Form Tag="IS" Slouniki="" pravapis="A1957,A2008">Саўнарга*сам</Form>
         <Form Tag="LS" Slouniki="" pravapis="A1957,A2008">Саўнарга*се</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Саўнарка*м" Tag="NPIIBM1">
+    <Paradigm pdgId="1203347" Lemma="Саўнарка*м" Tag="NPIIBM1">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A2008">Саўнарка*м</Form>
         <Form Tag="GS" Slouniki="" pravapis="A2008">Саўнарка*ма</Form>
         <Form Tag="DS" Slouniki="" pravapis="A2008">Саўнарка*му</Form>
@@ -25445,7 +25445,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Свір" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+    <Paradigm pdgId="1203348" Lemma="Свір" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Свір</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Сві*ра</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Свіра*</Form>
@@ -25727,7 +25727,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Сеч" Tag="NPIINF3">
+    <Paradigm pdgId="1203349" Lemma="Сеч" Tag="NPIINF3">
         <Form Tag="NS" Slouniki="tsbm1984" pravapis="A1957,A2008">Сеч</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Се*чы</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Се*чы</Form>
@@ -26997,7 +26997,7 @@
         <Form Tag="IP">Стэфанамі</Form>
         <Form Tag="LP">Стэфанах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Суба*рктыка" Tag="NPIINF2">
+    <Paradigm pdgId="1203350" Lemma="Суба*рктыка" Tag="NPIINF2">
         <Form Tag="NS" Slouniki="tsbm1984" pravapis="A1957,A2008">Суба*рктыка</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Суба*рктыкі</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Суба*рктыцы</Form>
@@ -27121,7 +27121,7 @@
         <Form Tag="IP">Сусанінымі</Form>
         <Form Tag="LP">Сусаніных</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Сцы*ла" Tag="NPAINF2">
+    <Paradigm pdgId="1203351" Lemma="Сцы*ла" Tag="NPAINF2">
         <Form Tag="NS" Slouniki="tsbm1984" pravapis="A1957,A2008">Сцы*ла</Form>
         <Form Tag="GS" Type="potential">Сцы*лы</Form>
         <Form Tag="DS" Type="potential">Сцы*ле</Form>
@@ -30859,7 +30859,7 @@
         <Form Tag="IP">Харлеямі</Form>
         <Form Tag="LP">Харлеях</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Хары*бда" Tag="NPAINF2">
+    <Paradigm pdgId="1203352" Lemma="Хары*бда" Tag="NPAINF2">
         <Form Tag="NS" Slouniki="tsbm1984" pravapis="A1957,A2008">Хары*бда</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Хары*бды</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Хары*бдзе</Form>
@@ -31257,7 +31257,7 @@
         <Form Tag="IP">Хрушчо*вымі</Form>
         <Form Tag="LP">Хрушчо*вых</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Хрысто*с" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
+    <Paradigm pdgId="1203353" Lemma="Хрысто*с" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Form Tag="NS" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Хрысто*с</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Хрыста*</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Хрысту*</Form>
@@ -32185,7 +32185,7 @@
         <Form Tag="IP">Чэйевічамі</Form>
         <Form Tag="LP">Чэйевічах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Чэка*" Tag="NPIINF0">
+    <Paradigm pdgId="1203354" Lemma="Чэка*" Tag="NPIINF0">
         <Form Tag="NS" Slouniki="tsbm1984,tsblm1996,krapivabr2012" pravapis="A1957,A2008">Чэка*</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">Чэка*</Form>
         <Form Tag="DS" Slouniki="" pravapis="A1957,A2008">Чэка*</Form>
@@ -33248,7 +33248,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Элі*зіум" Tag="NPIINM1">
+    <Paradigm pdgId="1203355" Lemma="Элі*зіум" Tag="NPIINM1">
         <Form Tag="NS" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Элі*зіум</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Элі*зіума</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Элі*зіуму</Form>
@@ -33504,7 +33504,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Эпро*н" Tag="NPIIBM1">
+    <Paradigm pdgId="1203356" Lemma="Эпро*н" Tag="NPIIBM1">
         <Form Tag="NS" Slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Эпро*н</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Эпро*на</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Эпро*ну</Form>
@@ -33862,7 +33862,7 @@
         <Form Tag="IP"></Form>
         <Form Tag="LP"></Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="ЮНЕ*СКА" Tag="NPIIBN0">
+    <Paradigm pdgId="1203357" Lemma="ЮНЕ*СКА" Tag="NPIIBN0">
         <Note>у слоўніках блытаніна склонаў:  у БРС і РБС жаночага роду</Note>
         <Form Tag="NS" Slouniki="tsbm1984" pravapis="A1957,A2008">ЮНЕ*СКА</Form>
         <Form Tag="GS" Slouniki="" pravapis="A1957,A2008">ЮНЕ*СКА</Form>
@@ -33969,7 +33969,7 @@
         <Form Tag="IP">Юр'евічамі</Form>
         <Form Tag="LP">Юр'евічах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Ю*рай" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/святы">
+    <Paradigm pdgId="1203358" Lemma="Ю*рай" Tag="NPIINM1" Theme="Імёны ўласныя/Таксаномія/святы">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Ю*рай</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Ю*рая</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Ю*раю</Form>
@@ -34358,7 +34358,7 @@
         <Form Tag="IP">Янамі</Form>
         <Form Tag="LP">Янах</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Я*навічы" Tag="NPIINP7" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+    <Paradigm pdgId="1203359" Lemma="Я*навічы" Tag="NPIINP7" Theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Form Tag="NP" Slouniki="krapivabr2012" pravapis="A1957,A2008">Я*навічы</Form>
         <Form Tag="GP" pravapis="A1957,A2008">Я*навіч</Form>
         <Form Tag="GP" pravapis="A1957,A2008">Я*навічаў</Form>
@@ -34381,7 +34381,7 @@
         <Form Tag="IP">Янкамі</Form>
         <Form Tag="LP">Янках</Form>
     </Paradigm>
-    <Paradigm pdgId="0" Lemma="Я*нус" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+    <Paradigm pdgId="1203360" Lemma="Я*нус" Tag="NPAPNM1" Theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Form Tag="NS" Slouniki="krapivabr2012" pravapis="A1957,A2008">Я*нус</Form>
         <Form Tag="GS" pravapis="A1957,A2008">Я*нуса</Form>
         <Form Tag="DS" pravapis="A1957,A2008">Я*нусу</Form>

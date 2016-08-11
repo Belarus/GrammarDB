@@ -1,63 +1,103 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1161027" Lemma="адна*к" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">адна*к</Form>
+    <Paradigm pdgId="1161027" lemma="адна*к" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">адна*к</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159713" Lemma="віда*ць" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">віда*ць</Form>
+    <Paradigm pdgId="1159713" lemma="віда*ць" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">віда*ць</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160151" Lemma="зна*чыць" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,sbm2012,krapivabr2012" pravapis="A1957,A2008">зна*чыць</Form>
+    <Paradigm pdgId="1160151" lemma="зна*чыць" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,sbm2012,krapivabr2012" pravapis="A1957,A2008">зна*чыць</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1146259" Lemma="ма*быць" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">ма*быць</Form>
+    <Paradigm pdgId="1146259" lemma="ма*быць" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">ма*быць</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127927" Lemma="магчы*ма" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">магчы*ма</Form>
+    <Paradigm pdgId="1127927" lemma="магчы*ма" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">магчы*ма</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1210994" Lemma="маўчо*к" Tag="Z">
-        <Form Tag="" Slouniki="tsbm2016,krapivabr2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">маўчо*к</Form>
+    <Paradigm pdgId="1210994" lemma="маўчо*к" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsbm2016,krapivabr2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">маўчо*к</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1210995" Lemma="мо" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">мо</Form>
+    <Paradigm pdgId="1210995" lemma="мо" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">мо</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1210996" Lemma="му*сібыць" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,tsbm1984,sbm2012" pravapis="A1957,A2008">му*сібыць</Form>
+    <Paradigm pdgId="1210996" lemma="му*сібыць" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,tsbm1984,sbm2012" pravapis="A1957,A2008">му*сібыць</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127928" Lemma="му*сіць" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">му*сіць</Form>
+    <Paradigm pdgId="1127928" lemma="му*сіць" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">му*сіць</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1161028" Lemma="наадваро*т" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">наадваро*т</Form>
+    <Paradigm pdgId="1161028" lemma="наадваро*т" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">наадваро*т</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127926" Lemma="напры*клад" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">напры*клад</Form>
+    <Paradigm pdgId="1127926" lemma="напры*клад" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">напры*клад</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1210997" Lemma="нераўну*ючы" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012" pravapis="A1957,A2008">нераўну*ючы</Form>
+    <Paradigm pdgId="1210997" lemma="нераўну*ючы" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012" pravapis="A1957,A2008">нераўну*ючы</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1210998" Lemma="па-дзявя*тае" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-дзявя*тае</Form>
+    <Paradigm pdgId="1210998" lemma="па-дзявя*тае" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-дзявя*тае</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1210999" Lemma="па-дзяся*тае" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-дзяся*тае</Form>
+    <Paradigm pdgId="1210999" lemma="па-дзяся*тае" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-дзяся*тае</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1211000" Lemma="па-пя*тае" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-пя*тае</Form>
+    <Paradigm pdgId="1211000" lemma="па-пя*тае" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-пя*тае</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1211001" Lemma="па-сё*мае" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-сё*мае</Form>
+    <Paradigm pdgId="1211001" lemma="па-сё*мае" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-сё*мае</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1211002" Lemma="па-чацвё*ртае" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-чацвё*ртае</Form>
+    <Paradigm pdgId="1211002" lemma="па-чацвё*ртае" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-чацвё*ртае</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1211003" Lemma="па-шо*стае" Tag="Z">
-        <Form Tag="" Slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-шо*стае</Form>
+    <Paradigm pdgId="1211003" lemma="па-шо*стае" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="krapivabr2012,sbm2012" pravapis="A1957,A2008">па-шо*стае</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1145613" Lemma="прына*мсі" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">прына*мсі</Form>
+    <Paradigm pdgId="1145613" lemma="прына*мсі" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">прына*мсі</Form>
+        </Variant>
     </Paradigm>
-    <Paradigm pdgId="1161026" Lemma="так" Tag="Z">
-        <Form Tag="" Slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">так</Form>
+    <Paradigm pdgId="1161026" lemma="так" tag="Z">
+        <Variant>
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">так</Form>
+        </Variant>
     </Paradigm>
 </Wordlist>

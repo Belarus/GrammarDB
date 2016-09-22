@@ -1,16 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1138966" lemma="aніхто*" tag="SNN0" todo="націск о/ё рукамі">
-        <Variant>
-            <Form tag="MNS" slouniki="prym2009" pravapis="A1957,A2008">aніхто*</Form>
-            <Form tag="MGS" slouniki="prym2009" pravapis="A1957,A2008">aніко*га</Form>
-            <Form tag="MDS" slouniki="prym2009" pravapis="A1957,A2008">aніко*му</Form>
-            <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">аніко*га</Form>
-            <Form tag="MIS" slouniki="prym2009" pravapis="A1957,A2008">анікі*м</Form>
-            <Form tag="MLS" slouniki="prym2009" pravapis="A1957,A2008">анікі*м</Form>
-            <Form tag="MLS" slouniki="tsbm1984" pravapis="A1957,A2008">ані аб кім</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1127824" lemma="абы-хто*" tag="SNF0">
         <Variant>
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">абы-хто*</Form>
@@ -157,15 +146,15 @@
             <Form tag="XLP" pravapis="A2008">аніво*дных</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1205420" lemma="аніхто*" tag="SNNX">
+    <Paradigm pdgId="1138966" lemma="аніхто*" tag="SNN0" todo="націск о/ё рукамі">
         <Variant>
-            <Form tag="MNS" slouniki="sbm2012,tsblm1996,tsbm1984" pravapis="A2008">аніхто*</Form>
-            <Form tag="MGS" pravapis="A2008">аніко*га</Form>
-            <Form tag="MDS" pravapis="A2008">аніко*му</Form>
-            <Form tag="MAS" pravapis="A2008">аніко*га</Form>
-            <Form tag="MIS" pravapis="A2008">анікі*м</Form>
-            <Form tag="MLS" pravapis="A2008">анікі*м</Form>
-            <Form tag="MLS" pravapis="A2008">ані аб кі*м</Form>
+            <Form tag="MNS" slouniki="sbm2012,tsblm1996,tsbm1984,prym2009" pravapis="A1957,A2008">аніхто*</Form>
+            <Form tag="MGS" slouniki="prym2009" pravapis="A1957,A2008">аніко*га</Form>
+            <Form tag="MDS" slouniki="prym2009" pravapis="A1957,A2008">аніко*му</Form>
+            <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">аніко*га</Form>
+            <Form tag="MIS" slouniki="prym2009" pravapis="A1957,A2008">анікі*м</Form>
+            <Form tag="MLS" slouniki="prym2009" pravapis="A1957,A2008">анікі*м</Form>
+            <Form tag="MLS" slouniki="tsbm1984" pravapis="A1957,A2008">ані аб кім</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1138967" lemma="анішто*" tag="SNN0" todo="націск о/ё рукамі">

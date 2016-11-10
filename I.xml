@@ -314,7 +314,7 @@
             <Form tag="" slouniki="sbm2012,krapivabr2012,tsbm2016,tsblm1996,tsbm1984" pravapis="A1957,A2008">са</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1104242" lemma="за" tag="I" govern="+A, +I, +G">
+    <Paradigm pdgId="1104242" lemma="за" tag="I" govern="+A, +I, *G">
         <Variant>
             <Form tag="" slouniki="sbm2012,tsblm1996,krapivabr2012" pravapis="A2008">за</Form>
         </Variant>
@@ -556,12 +556,12 @@
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">ля</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1104255" lemma="між" tag="I" govern="+G, +I, +A">
+    <Paradigm pdgId="1104255" lemma="між" tag="I" govern="+G, +I, *A">
         <Variant>
             <Form tag="" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">між</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1104256" lemma="мі+ма" tag="I" govern="+G, +A">
+    <Paradigm pdgId="1104256" lemma="мі+ма" tag="I" govern="+G, *A">
         <Variant>
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957, A2008">мі+ма</Form>
         </Variant>
@@ -1415,7 +1415,7 @@
             <Form tag="" pravapis="A1957, A2008">па шляху+ да</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1104297" lemma="пе+рад" tag="I" govern="+I, +A">
+    <Paradigm pdgId="1104297" lemma="пе+рад" tag="I" govern="+I, *A">
         <Variant>
             <Form tag="" slouniki="sbm2012,tsbm2016,tsblm1996,krapivabr2012" pravapis="A1957,A2008">пе+рад</Form>
         </Variant>

@@ -482,7 +482,7 @@
             <Form tag="LP">Алесях</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1203325" lemma="Алесь" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+    <Paradigm pdgId="1203325" lemma="Алеся" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant>
             <Form tag="NS" pravapis="A1957,A2008">Алеся</Form>
             <Form tag="GS" pravapis="A1957,A2008">Алесі</Form>
@@ -3488,6 +3488,20 @@
             <Form tag="IP"></Form>
             <Form tag="LP"></Form>
         </Variant>
+        <Variant>
+            <Form tag="NS">Бярэсьце</Form>
+            <Form tag="GS">Бярэсьця</Form>
+            <Form tag="DS">Бярэсьцю</Form>
+            <Form tag="AS">Бярэсьце</Form>
+            <Form tag="IS">Бярэсьцем</Form>
+            <Form tag="LS">Бярэсьці</Form>
+            <Form tag="NP"></Form>
+            <Form tag="GP"></Form>
+            <Form tag="DP"></Form>
+            <Form tag="AP"></Form>
+            <Form tag="IP"></Form>
+            <Form tag="LP"></Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1037678" lemma="Берг" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant>
@@ -4531,12 +4545,6 @@
     </Paradigm>
     <Paradigm pdgId="1127687" lemma="Буйнічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Буйнічы</Form>
             <Form tag="GP">Буйніч</Form>
             <Form tag="DP">Буйнічам</Form>
@@ -5031,12 +5039,6 @@
     </Paradigm>
     <Paradigm pdgId="1127689" lemma="Бярмуды" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Бярмуды</Form>
             <Form tag="GP">Бярмудаў</Form>
             <Form tag="DP">Бярмудам</Form>
@@ -5053,22 +5055,6 @@
             <Form tag="AP" pravapis="A1957,A2008">Бярэ+знікі</Form>
             <Form tag="IP" pravapis="A1957,A2008">Бярэ+знікамі</Form>
             <Form tag="LP" pravapis="A1957,A2008">Бярэ+зніках</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1127637" lemma="Бярэсьце" tag="NPIINN1">
-        <Variant>
-            <Form tag="NS">Бярэсьце</Form>
-            <Form tag="GS">Бярэсьця</Form>
-            <Form tag="DS">Бярэсьцю</Form>
-            <Form tag="AS">Бярэсьце</Form>
-            <Form tag="IS">Бярэсьцем</Form>
-            <Form tag="LS">Бярэсьці</Form>
-            <Form tag="NP"></Form>
-            <Form tag="GP"></Form>
-            <Form tag="DP"></Form>
-            <Form tag="AP"></Form>
-            <Form tag="IP"></Form>
-            <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037746" lemma="Бяслан" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -5340,12 +5326,6 @@
     </Paradigm>
     <Paradigm pdgId="1127690" lemma="Валасо+вічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Валасо+вічы</Form>
             <Form tag="GP">Валасо+вічаў</Form>
             <Form tag="DP">Валасо+вічам</Form>
@@ -9574,12 +9554,6 @@
     </Paradigm>
     <Paradigm pdgId="1127693" lemma="Дарданэлы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Дарданэлы</Form>
             <Form tag="GP">Дарданэлаў</Form>
             <Form tag="DP">Дарданэлам</Form>
@@ -10770,12 +10744,6 @@
     </Paradigm>
     <Paradigm pdgId="1127695" lemma="Друскенікі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Друскенікі</Form>
             <Form tag="GP">Друскенікаў</Form>
             <Form tag="DP">Друскенікам</Form>
@@ -11886,12 +11854,6 @@
     </Paradigm>
     <Paradigm pdgId="1203335" lemma="Есентукі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Есентукі</Form>
             <Form tag="GP">Есентукоў</Form>
             <Form tag="DP">Есентукам</Form>
@@ -14707,12 +14669,6 @@
     </Paradigm>
     <Paradigm pdgId="1127700" lemma="Канары" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Канары</Form>
             <Form tag="GP">Канар</Form>
             <Form tag="DP">Канарам</Form>
@@ -14884,12 +14840,6 @@
     </Paradigm>
     <Paradigm pdgId="1127701" lemma="Каны" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Каны</Form>
             <Form tag="GP">Канаў</Form>
             <Form tag="DP">Канам</Form>
@@ -14900,12 +14850,6 @@
     </Paradigm>
     <Paradigm pdgId="1127702" lemma="Капаткевічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Капаткевічы</Form>
             <Form tag="GP">Капаткевічаў</Form>
             <Form tag="DP">Капаткевічам</Form>
@@ -15013,12 +14957,6 @@
     </Paradigm>
     <Paradigm pdgId="1160144" lemma="Каракумы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Каракумы</Form>
             <Form tag="GP">Каракумаў</Form>
             <Form tag="DP">Каракумам</Form>
@@ -16105,12 +16043,6 @@
     </Paradigm>
     <Paradigm pdgId="1127705" lemma="Кленічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Кленічы</Form>
             <Form tag="GP">Кленічаў</Form>
             <Form tag="DP">Кленічам</Form>
@@ -16137,12 +16069,6 @@
     </Paradigm>
     <Paradigm pdgId="1127706" lemma="Клеявічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Клеявічы</Form>
             <Form tag="GP">Клеявічаў</Form>
             <Form tag="DP">Клеявічам</Form>
@@ -16260,12 +16186,6 @@
     </Paradigm>
     <Paradigm pdgId="1127678" lemma="Княжыцы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Княжыцы</Form>
             <Form tag="GP">Княжыцаў</Form>
             <Form tag="DP">Княжыцам</Form>
@@ -17184,12 +17104,6 @@
     </Paradigm>
     <Paradigm pdgId="1127707" lemma="Курапаты" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP" pravapis="A1957,A2008">Курапаты</Form>
             <Form tag="GP" pravapis="A1957,A2008">Курапатаў</Form>
             <Form tag="DP" pravapis="A1957,A2008">Курапатам</Form>
@@ -17313,12 +17227,6 @@
     </Paradigm>
     <Paradigm pdgId="1127708" lemma="Кухцічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Кухцічы</Form>
             <Form tag="GP">Кухцічаў</Form>
             <Form tag="DP">Кухцічам</Form>
@@ -18479,7 +18387,7 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1203338" lemma="Лінц" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+    <Paradigm pdgId="1203338" lemma="Лінч" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant>
             <Form tag="NS" slouniki="krapivabr2012,tsbm2016,tsbm1984" pravapis="A2008">Лінч</Form>
             <Form tag="GS" pravapis="A2008">Лінча</Form>
@@ -22416,22 +22324,6 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1038487" lemma="Навапо+лацак" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant>
-            <Form tag="NS">Навапо+лацак</Form>
-            <Form tag="GS">Навапо+лацка</Form>
-            <Form tag="DS">Навапо+лацку</Form>
-            <Form tag="AS">Навапо+лацак</Form>
-            <Form tag="IS">Навапо+лацкам</Form>
-            <Form tag="LS">Навапо+лацку</Form>
-            <Form tag="NP"></Form>
-            <Form tag="GP"></Form>
-            <Form tag="DP"></Form>
-            <Form tag="AP"></Form>
-            <Form tag="IP"></Form>
-            <Form tag="LP"></Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1038488" lemma="Навапо+лацк" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant>
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Навапо+лацк</Form>
@@ -22440,6 +22332,20 @@
             <Form tag="AS" pravapis="A1957,A2008">Навапо+лацк</Form>
             <Form tag="IS" pravapis="A1957,A2008">Навапо+лацкам</Form>
             <Form tag="LS" pravapis="A1957,A2008">Навапо+лацку</Form>
+            <Form tag="NP"></Form>
+            <Form tag="GP"></Form>
+            <Form tag="DP"></Form>
+            <Form tag="AP"></Form>
+            <Form tag="IP"></Form>
+            <Form tag="LP"></Form>
+        </Variant>
+        <Variant>
+            <Form tag="NS">Навапо+лацак</Form>
+            <Form tag="GS">Навапо+лацка</Form>
+            <Form tag="DS">Навапо+лацку</Form>
+            <Form tag="AS">Навапо+лацак</Form>
+            <Form tag="IS">Навапо+лацкам</Form>
+            <Form tag="LS">Навапо+лацку</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -22466,12 +22372,6 @@
     </Paradigm>
     <Paradigm pdgId="1127710" lemma="Навасё+лкі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Навасё+лкі</Form>
             <Form tag="GP">Навасё+лак</Form>
             <Form tag="DP">Навасё+лкам</Form>
@@ -23119,12 +23019,6 @@
     </Paradigm>
     <Paradigm pdgId="1127709" lemma="Нідэрланды" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP" pravapis="A1957,A2008">Нідэрланды</Form>
             <Form tag="GP" pravapis="A1957,A2008">Нідэрландаў</Form>
             <Form tag="DP" pravapis="A1957,A2008">Нідэрландам</Form>
@@ -24238,12 +24132,6 @@
     </Paradigm>
     <Paradigm pdgId="1127711" lemma="Палыкавічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Палыкавічы</Form>
             <Form tag="GP">Палыкавічаў</Form>
             <Form tag="DP">Палыкавічам</Form>
@@ -24370,12 +24258,6 @@
     </Paradigm>
     <Paradigm pdgId="1127712" lemma="Панюшкавічы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Панюшкавічы</Form>
             <Form tag="GP">Панюшкавічаў</Form>
             <Form tag="DP">Панюшкавічам</Form>
@@ -25515,7 +25397,7 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1038601" lemma="По+лацак" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+    <Paradigm pdgId="1038601" lemma="По+лацк" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant>
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">По+лацк</Form>
             <Form tag="GS" pravapis="A1957,A2008">По+лацка</Form>
@@ -25523,6 +25405,20 @@
             <Form tag="AS" pravapis="A1957,A2008">По+лацк</Form>
             <Form tag="IS" pravapis="A1957,A2008">По+лацкам</Form>
             <Form tag="LS" pravapis="A1957,A2008">По+лацку</Form>
+            <Form tag="NP"></Form>
+            <Form tag="GP"></Form>
+            <Form tag="DP"></Form>
+            <Form tag="AP"></Form>
+            <Form tag="IP"></Form>
+            <Form tag="LP"></Form>
+        </Variant>
+        <Variant>
+            <Form tag="NS">По+лацак</Form>
+            <Form tag="GS">По+лацка</Form>
+            <Form tag="DS">По+лацку</Form>
+            <Form tag="AS">По+лацак</Form>
+            <Form tag="IS">По+лацкам</Form>
+            <Form tag="LS">По+лацку</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -27537,7 +27433,7 @@
             <Form tag="LP">Рыжанко+вых</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1042633" lemma="рыкарда" tag="NPAPNM0">
+    <Paradigm pdgId="1042633" lemma="Рыкарда" tag="NPAPNM0">
         <Variant>
             <Form tag="NS">Рыкарда</Form>
             <Form tag="GS">Рыкарда</Form>
@@ -28606,12 +28502,6 @@
     </Paradigm>
     <Paradigm pdgId="1127719" lemma="Саргасы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Саргасы</Form>
             <Form tag="GP">Саргасаў</Form>
             <Form tag="DP">Саргасам</Form>
@@ -28950,12 +28840,6 @@
     </Paradigm>
     <Paradigm pdgId="1127720" lemma="Саяны" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP" pravapis="A1957,A2008">Саяны</Form>
             <Form tag="GP" pravapis="A1957,A2008">Саян</Form>
             <Form tag="DP" pravapis="A1957,A2008">Саянам</Form>
@@ -29704,12 +29588,6 @@
     </Paradigm>
     <Paradigm pdgId="1127717" lemma="Сіракузы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Сіракузы</Form>
             <Form tag="GP">Сіракузаў</Form>
             <Form tag="DP">Сіракузам</Form>
@@ -32387,12 +32265,6 @@
     </Paradigm>
     <Paradigm pdgId="1127722" lemma="Тро+кі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Тро+кі</Form>
             <Form tag="GP">Тро+каў</Form>
             <Form tag="DP">Тро+кам</Form>
@@ -33010,12 +32882,6 @@
     </Paradigm>
     <Paradigm pdgId="1127723" lemma="Тэлеханы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Тэлеханы</Form>
             <Form tag="GP">Тэлеханаў</Form>
             <Form tag="DP">Тэлеханам</Form>
@@ -34167,12 +34033,6 @@
     </Paradigm>
     <Paradigm pdgId="1127726" lemma="Фесало+нікі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Фесало+нікі</Form>
             <Form tag="GP">Фесало+нікаў</Form>
             <Form tag="DP">Фесало+нікам</Form>
@@ -34183,12 +34043,6 @@
     </Paradigm>
     <Paradigm pdgId="1127724" lemma="Фівы" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Фівы</Form>
             <Form tag="GP">Фіваў</Form>
             <Form tag="DP">Фівам</Form>
@@ -35524,12 +35378,6 @@
     </Paradigm>
     <Paradigm pdgId="1127727" lemma="Хімкі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Хімкі</Form>
             <Form tag="GP">Хімкаў</Form>
             <Form tag="DP">Хімкам</Form>
@@ -36722,12 +36570,6 @@
     </Paradigm>
     <Paradigm pdgId="1127731" lemma="Чэбаксары" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Чэбаксары</Form>
             <Form tag="GP">Чэбаксараў</Form>
             <Form tag="DP">Чэбаксарам</Form>
@@ -36953,12 +36795,6 @@
     </Paradigm>
     <Paradigm pdgId="1127734" lemma="Шамкі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Шамкі</Form>
             <Form tag="GP">Шамкаў</Form>
             <Form tag="DP">Шамкам</Form>
@@ -37134,12 +36970,6 @@
     </Paradigm>
     <Paradigm pdgId="1127732" lemma="Шаўлі" tag="NPIINP7">
         <Variant>
-            <Form tag="NS"></Form>
-            <Form tag="GS"></Form>
-            <Form tag="DS"></Form>
-            <Form tag="AS"></Form>
-            <Form tag="IS"></Form>
-            <Form tag="LS"></Form>
             <Form tag="NP">Шаўлі</Form>
             <Form tag="GP">Шаўлёў</Form>
             <Form tag="DP">Шаўлям</Form>
@@ -38499,24 +38329,20 @@
     </Paradigm>
     <Paradigm pdgId="1025324" lemma="Эфіо+пія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant>
-            <Form tag="NS">Эфіё+пія</Form>
             <Form tag="NS" pravapis="A1957">Эфіо+пія</Form>
-            <Form tag="GS">Эфіё+піі</Form>
             <Form tag="GS" pravapis="A1957">Эфіо+піі</Form>
-            <Form tag="DS">Эфіё+піі</Form>
             <Form tag="DS" pravapis="A1957">Эфіо+піі</Form>
-            <Form tag="AS">Эфіё+пію</Form>
             <Form tag="AS" pravapis="A1957">Эфіо+пію</Form>
-            <Form tag="IS">Эфіё+піяй</Form>
             <Form tag="IS" pravapis="A1957">Эфіо+піяй</Form>
-            <Form tag="LS">Эфіё+піі</Form>
             <Form tag="LS" pravapis="A1957">Эфіо+піі</Form>
-            <Form tag="NP"></Form>
-            <Form tag="GP"></Form>
-            <Form tag="DP"></Form>
-            <Form tag="AP"></Form>
-            <Form tag="IP"></Form>
-            <Form tag="LP"></Form>
+        </Variant>
+        <Variant>
+            <Form tag="NS">Эфіё+пія</Form>
+            <Form tag="GS">Эфіё+піі</Form>
+            <Form tag="DS">Эфіё+піі</Form>
+            <Form tag="AS">Эфіё+пію</Form>
+            <Form tag="IS">Эфіё+піяй</Form>
+            <Form tag="LS">Эфіё+піі</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127878" lemma="Эфо+р" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">

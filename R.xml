@@ -458,11 +458,6 @@
             <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">агу+лам</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1046315" lemma="агу+льна" tag="RA">
-        <Variant lemma="агу+льна">
-            <Form tag="P" slouniki="prym2009,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">агу+льна</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1139039" lemma="агу+льна" tag="RA">
         <Variant lemma="агу+льна">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -19153,12 +19148,7 @@
     <Paradigm pdgId="1070184" lemma="мізэ+рна" tag="RA">
         <Variant lemma="мізэ+рна">
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">мізэ+рна</Form>
-            <Form tag="C">мізарней</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1192423" lemma="мізэ+рней" tag="RX">
-        <Variant lemma="мізэ+рней">
-            <Form tag="P" slouniki="prym2009" pravapis="A1957,A2008">мізэ+рней</Form>
+            <Form tag="C" slouniki="prym2009,tsbm2016" pravapis="A1957,A2008">мізэ+рней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1070220" lemma="мікраскапі+чна" tag="RA">
@@ -24476,9 +24466,9 @@
             <Form tag="P">непублі+чна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1076773" lemma="непуста" tag="RA">
-        <Variant lemma="непуста">
-            <Form tag="P">непуста</Form>
+    <Paradigm pdgId="1076773" lemma="няпу+ста" tag="RA">
+        <Variant lemma="няпу+ста">
+            <Form tag="P">няпу+ста</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1076785" lemma="нерадыёакты+ўна" tag="RA">
@@ -24764,9 +24754,9 @@
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">несклада+на</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1077000" lemma="неслаба" tag="RA">
-        <Variant lemma="неслаба">
-            <Form tag="P">неслаба</Form>
+    <Paradigm pdgId="1077000" lemma="нясла+ба" tag="RA">
+        <Variant lemma="нясла+ба">
+            <Form tag="P">нясла+ба</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1077009" lemma="несмяро+тна" tag="RA">
@@ -25053,9 +25043,9 @@
             <Form tag="P" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">несуча+сна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1077159" lemma="несціснута" tag="RA">
-        <Variant lemma="несціснута">
-            <Form tag="P">несціснута</Form>
+    <Paradigm pdgId="1077159" lemma="нясці+снута" tag="RA">
+        <Variant lemma="нясці+снута">
+            <Form tag="P">нясці+снута</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1077162" lemma="несціха+на" tag="RA">
@@ -32341,12 +32331,7 @@
     <Paradigm pdgId="1080808" lemma="палымя+на" tag="RA">
         <Variant lemma="палымя+на">
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">палымя+на</Form>
-            <Form tag="C">палымней</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1192621" lemma="палымя+ней" tag="RX">
-        <Variant lemma="палымя+ней">
-            <Form tag="P" slouniki="prym2009" pravapis="A1957,A2008">палымя+ней</Form>
+            <Form tag="C" slouniki="prym2009,tsbm2016" pravapis="A1957,A2008">палымя+ней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1204680" lemma="па-льво+ўску" tag="RA">
@@ -41315,10 +41300,10 @@
             <Form tag="P">рукапісна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1088033" lemma="румяна" tag="RA">
-        <Variant lemma="румяна">
-            <Form tag="P">румяна</Form>
-            <Form tag="C">румней</Form>
+    <Paradigm pdgId="1088033" lemma="румя+на" tag="RA">
+        <Variant lemma="румя+на">
+            <Form tag="P">румя+на</Form>
+            <Form tag="C">румя+ней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1088046" lemma="руплі+ва" tag="RA">
@@ -41743,7 +41728,7 @@
     <Paradigm pdgId="1088507" lemma="рэ+зка" tag="RA">
         <Variant lemma="рэ+зка">
             <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">рэ+зка</Form>
-            <Form tag="C">разчэй</Form>
+            <Form tag="C">разчэ+й</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1205350" lemma="рэзо+нна" tag="RA">
@@ -43385,12 +43370,6 @@
             <Form tag="P">сіро+ча</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1089054" lemma="сістемна" tag="RA">
-        <Variant lemma="сістемна">
-            <Form tag="P">сістемна</Form>
-            <Form tag="C">сістемней</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1089060" lemma="сістэматызава+на" tag="RA">
         <Variant lemma="сістэматызава+на">
             <Form tag="P">сістэматызава+на</Form>
@@ -43407,6 +43386,7 @@
         <Variant lemma="сістэ+мна">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="P">сістэ+мна</Form>
+            <Form tag="C">сістэ+мней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1089075" lemma="сітуаты+ўна" tag="RA">
@@ -49439,9 +49419,9 @@
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">фенамена+льна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1099222" lemma="ферментарна" tag="RA">
-        <Variant lemma="ферментарна">
-            <Form tag="P">ферментарна</Form>
+    <Paradigm pdgId="1099222" lemma="фермента+рна" tag="RA">
+        <Variant lemma="фермента+рна">
+            <Form tag="P">фермента+рна</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1139932" lemma="фешэне+бельна" tag="RX">
@@ -50918,7 +50898,7 @@
     <Paradigm pdgId="1101918" lemma="чэ+рства" tag="RA">
         <Variant lemma="чэ+рства">
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">чэ+рства</Form>
-            <Form tag="C">чарствей</Form>
+            <Form tag="C">чарсцве+й</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1139953" lemma="чэ+сна" tag="RX">

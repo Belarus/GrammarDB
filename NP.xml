@@ -2021,17 +2021,6 @@
             <Form tag="LP" pravapis="A1957,A2008">Афі+нах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160142" lemma="А+фрыка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant lemma="А+фрыка">
-            <Note>Націск выстаўлены праз web/batch</Note>
-            <Form tag="NS">А+фрыка</Form>
-            <Form tag="GS">А+фрыкі</Form>
-            <Form tag="DS">А+фрыцы</Form>
-            <Form tag="AS">А+фрыку</Form>
-            <Form tag="IS">А+фрыкай</Form>
-            <Form tag="LS">А+фрыцы</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1203329" lemma="А+фрыка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant lemma="А+фрыка">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">А+фрыка</Form>
@@ -7041,20 +7030,14 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1037328" lemma="Галіна" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant lemma="Галіна">
-            <Form tag="NS" pravapis="A1957,A2008">Галіна</Form>
-            <Form tag="GS" pravapis="A1957,A2008">Галіны</Form>
-            <Form tag="DS" pravapis="A1957,A2008">Галіне</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Галіну</Form>
-            <Form tag="IS" pravapis="A1957,A2008">Галіной</Form>
-            <Form tag="LS" pravapis="A1957,A2008">Галіне</Form>
-            <Form tag="NP">Галіны</Form>
-            <Form tag="GP">Галінаў</Form>
-            <Form tag="DP">Галінам</Form>
-            <Form tag="AP">Галіны</Form>
-            <Form tag="IP">Галінамі</Form>
-            <Form tag="LP">Галінах</Form>
+    <Paradigm pdgId="1037328" lemma="Галі+на" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Variant lemma="Галі+на">
+            <Form tag="NS" pravapis="A1957,A2008">Галі+на</Form>
+            <Form tag="GS" pravapis="A1957,A2008">Галі+ны</Form>
+            <Form tag="DS" pravapis="A1957,A2008">Галі+не</Form>
+            <Form tag="AS" pravapis="A1957,A2008">Галі+ну</Form>
+            <Form tag="IS" pravapis="A1957,A2008">Галі+най</Form>
+            <Form tag="LS" pravapis="A1957,A2008">Галі+не</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1028849" lemma="Галі+цын" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -7092,20 +7075,20 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1037853" lemma="Галіяф" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant lemma="Галіяф">
-            <Form tag="NS" pravapis="A1957,A2008">Галіяф</Form>
-            <Form tag="GS" pravapis="A1957,A2008">Галіяфа</Form>
-            <Form tag="DS" pravapis="A1957,A2008">Галіяфу</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Галіяфа</Form>
-            <Form tag="IS" pravapis="A1957,A2008">Галіяфам</Form>
-            <Form tag="LS" pravapis="A1957,A2008">Галіяфе</Form>
-            <Form tag="NP">Галіяфы</Form>
-            <Form tag="GP">Галіяфоў</Form>
-            <Form tag="DP">Галіяфам</Form>
-            <Form tag="AP">Галіяфаў</Form>
-            <Form tag="IP">Галіяфамі</Form>
-            <Form tag="LP">Галіяфах</Form>
+    <Paradigm pdgId="1037853" lemma="Галія+ф" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Variant lemma="Галія+ф">
+            <Form tag="NS" pravapis="A1957,A2008">Галія+ф</Form>
+            <Form tag="GS" pravapis="A1957,A2008">Галія+фа</Form>
+            <Form tag="DS" pravapis="A1957,A2008">Галія+фу</Form>
+            <Form tag="AS" pravapis="A1957,A2008">Галія+фа</Form>
+            <Form tag="IS" pravapis="A1957,A2008">Галія+фам</Form>
+            <Form tag="LS" pravapis="A1957,A2008">Галія+фе</Form>
+            <Form tag="NP">Галія+фы</Form>
+            <Form tag="GP">Галія+фаў</Form>
+            <Form tag="DP">Галія+фам</Form>
+            <Form tag="AP">Галія+фаў</Form>
+            <Form tag="IP">Галія+фамі</Form>
+            <Form tag="LP">Галія+фах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037856" lemma="Гало+ўчын" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -10296,14 +10279,14 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1037360" lemma="Джэбра" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant lemma="Джэбра">
-            <Form tag="NS">Джэбра</Form>
-            <Form tag="GS">Джэбры</Form>
-            <Form tag="DS">Джэбры</Form>
-            <Form tag="AS">Джэбру</Form>
-            <Form tag="IS">Джэброй</Form>
-            <Form tag="LS">Джэбры</Form>
+    <Paradigm pdgId="1037360" lemma="Джэ+бра" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+        <Variant lemma="Джэ+бра">
+            <Form tag="NS">Джэ+бра</Form>
+            <Form tag="GS">Джэ+бры</Form>
+            <Form tag="DS">Джэ+бры</Form>
+            <Form tag="AS">Джэ+бру</Form>
+            <Form tag="IS">Джэ+брай</Form>
+            <Form tag="LS">Джэ+бры</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -12205,17 +12188,6 @@
             <Form tag="AP" pravapis="A1957,A2008">Есентукі+</Form>
             <Form tag="IP" pravapis="A1957,A2008">Есентука+мі</Form>
             <Form tag="LP" pravapis="A1957,A2008">Есентука+х</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1203335" lemma="Есентукі+" tag="NPIINP7">
-        <Variant lemma="Есентукі+">
-            <Note>Націск выстаўлены праз web/batch</Note>
-            <Form tag="NP">Есентукі+</Form>
-            <Form tag="GP">Есентуко+ў</Form>
-            <Form tag="DP">Есентука+м</Form>
-            <Form tag="AP">Есентукі+</Form>
-            <Form tag="IP">Есентука+мі</Form>
-            <Form tag="LP">Есентука+х</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038054" lemma="Еўдакі+м" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -24239,37 +24211,37 @@
             <Form tag="LP">Нямцо+вых</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1038521" lemma="Няптун" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant lemma="Няптун">
-            <Form tag="NS">Няптун</Form>
-            <Form tag="GS">Няптуна</Form>
-            <Form tag="DS">Няптуну</Form>
-            <Form tag="AS">Няптуна</Form>
-            <Form tag="IS">Няптуном</Form>
-            <Form tag="LS">Няптуне</Form>
-            <Form tag="LS">Няптуну</Form>
-            <Form tag="NP">Няптуны</Form>
-            <Form tag="GP">Няптуноў</Form>
-            <Form tag="DP">Няптунам</Form>
-            <Form tag="AP">Няптуноў</Form>
-            <Form tag="IP">Няптунамі</Form>
-            <Form tag="LP">Няптунах</Form>
+    <Paradigm pdgId="1038521" lemma="Няпту+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
+        <Variant lemma="Няпту+н">
+            <Form tag="NS">Няпту+н</Form>
+            <Form tag="GS">Няпту+на</Form>
+            <Form tag="DS">Няпту+ну</Form>
+            <Form tag="AS">Няпту+на</Form>
+            <Form tag="IS">Няпту+нам</Form>
+            <Form tag="LS">Няпту+не</Form>
+            <Form tag="LS">Няпту+ну</Form>
+            <Form tag="NP">Няпту+ны</Form>
+            <Form tag="GP">Няпту+ноў</Form>
+            <Form tag="DP">Няпту+нам</Form>
+            <Form tag="AP">Няпту+ноў</Form>
+            <Form tag="IP">Няпту+намі</Form>
+            <Form tag="LP">Няпту+нах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127767" lemma="Няптун" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
-        <Variant lemma="Няптун">
-            <Form tag="NS">Няптун</Form>
-            <Form tag="GS">Няптуна</Form>
-            <Form tag="DS">Няптуну</Form>
-            <Form tag="AS">Няптун</Form>
-            <Form tag="IS">Няптуном</Form>
-            <Form tag="LS">Няптуне</Form>
-            <Form tag="NP">Няптуны</Form>
-            <Form tag="GP">Няптуноў</Form>
-            <Form tag="DP">Няптунам</Form>
-            <Form tag="AP">Няптуны</Form>
-            <Form tag="IP">Няптунамі</Form>
-            <Form tag="LP">Няптунах</Form>
+    <Paradigm pdgId="1127767" lemma="Няпту+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
+        <Variant lemma="Няпту+н">
+            <Form tag="NS">Няпту+н</Form>
+            <Form tag="GS">Няпту+на</Form>
+            <Form tag="DS">Няпту+ну</Form>
+            <Form tag="AS">Няпту+н</Form>
+            <Form tag="IS">Няпту+нам</Form>
+            <Form tag="LS">Няпту+не</Form>
+            <Form tag="NP">Няпту+ны</Form>
+            <Form tag="GP">Няпту+наў</Form>
+            <Form tag="DP">Няпту+нам</Form>
+            <Form tag="AP">Няпту+ны</Form>
+            <Form tag="IP">Няпту+намі</Form>
+            <Form tag="LP">Няпту+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1020957" lemma="Няро+пля" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/лімнонімы">
@@ -32030,12 +32002,12 @@
             <Form tag="AS" pravapis="A1957,A2008">Сержука+</Form>
             <Form tag="IS" pravapis="A1957,A2008">Сержуко+м</Form>
             <Form tag="LS" pravapis="A1957,A2008">Сержуку+</Form>
-            <Form tag="NP">Сяржукі+</Form>
-            <Form tag="GP">Сяржуко+ў</Form>
-            <Form tag="DP">Сяржука+м</Form>
-            <Form tag="AP">Сяржуко+ў</Form>
-            <Form tag="IP">Сяржука+мі</Form>
-            <Form tag="LP">Сяржука+х</Form>
+            <Form tag="NP">Сержукі+</Form>
+            <Form tag="GP">Сержуко+ў</Form>
+            <Form tag="DP">Сержука+м</Form>
+            <Form tag="AP">Сержуко+ў</Form>
+            <Form tag="IP">Сержука+мі</Form>
+            <Form tag="LP">Сержука+х</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038843" lemma="Сяро+ў" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">

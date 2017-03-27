@@ -16201,6 +16201,9 @@
         <Variant lemma="зрэ+дчас">
             <Form tag="P" slouniki="sbm2012,tsbm1984" pravapis="A2008">зрэ+дчас</Form>
         </Variant>
+        <Variant lemma="зрэ+дзьчас">
+            <Form tag="P">зрэ+дзьчас</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1065747" lemma="зрэжысава+на" tag="RA">
         <Variant lemma="зрэжысава+на">
@@ -23424,6 +23427,11 @@
         <Variant lemma="наўсто+рч">
             <Slounik name="piskunou2012" idx="108926">{b}наўсто´рч{/b} {i}прысл.{/i} /// </Slounik>
             <Form tag="P" slouniki="krapivabr2012" pravapis="A1957,A2008">наўсто+рч</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="наўсуцэ+ль" tag="RX">
+        <Variant lemma="наўсуцэ+ль">
+            <Form tag="P" slouniki="tsbm2016" pravapis="">наўсуцэ+ль</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1139436" lemma="наўсця+ж" tag="RX">

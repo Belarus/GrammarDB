@@ -1,5 +1,150 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
+    <Paradigm pdgId="0" lemma="кама+ндуючы" tag="PARM">
+        <Variant pravapis="A2008" lemma="кама+ндуючы">
+            <Slounik name="piskunou2012" idx="78375">{b}кама´ндуючы{/b}, {i}РВ{/i} -ага /// [ad1]</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="склада+емы" tag="PPRM">
+        <Variant pravapis="A2008" lemma="склада+емы">
+            <Slounik name="piskunou2012" idx="176968">{b}склада´емае{/b} {i}мат.{/i}, -ага ({i}гл.{/i} скла´днік) /// [ad1]</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="склада+ючы" tag="PARM">
+        <Variant pravapis="A2008" lemma="склада+ючы">
+            <Slounik name="piskunou2012" idx="177005">{b}склада´ючая{/b} {i}мат.{/i}, -ай /// [ad1]</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="абнайто+ўлены" tag="PPPP">
+        <Variant pravapis="A2008" lemma="абнайто+ўлены">
+            <Slounik name="piskunou2012" idx="2507">{b}абнайто´ўлены{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="адву+джаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="адву+джаны">
+            <Slounik name="piskunou2012" idx="6526">{b}адву´джаны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="вы+ганашаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="вы+ганашаны">
+            <Slounik name="piskunou2012" idx="34938">{b}вы´ганашаны{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="вы+йстраны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="вы+йстраны">
+            <Slounik name="piskunou2012" idx="35631">{b}вы´йстраны{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="даві+нчаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="даві+нчаны">
+            <Slounik name="piskunou2012" idx="48416">{b}даві´нчаны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="даво+раны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="даво+раны">
+            <Slounik name="piskunou2012" idx="48444">{b}даво´раны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="дагматызава+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="дагматызава+ны">
+            <Slounik name="piskunou2012" idx="48615">{b}дагматызава´ны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="дадо+ены" tag="PPPP">
+        <Variant pravapis="A2008" lemma="дадо+ены">
+            <Slounik name="piskunou2012" idx="48739">{b}дадо´ены{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="дазара+джаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="дазара+джаны">
+            <Slounik name="piskunou2012" idx="48868">{b}дазара´джаны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="дазая+ўлены" tag="PPPP">
+        <Variant pravapis="A2008" lemma="дазая+ўлены">
+            <Slounik name="piskunou2012" idx="48881">{b}дазая´ўлены{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="збадзя+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="збадзя+ны">
+            <Slounik name="piskunou2012" idx="68166">{b}збадзя´ны{/b}* ({i}аблаяны{/i}, {i}забруджаны{/i}) /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="збеларусізава+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="збеларусізава+ны">
+            <Slounik name="piskunou2012" idx="68283">{b}збеларусізава´ны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="збла+жаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="збла+жаны">
+            <Slounik name="piskunou2012" idx="68323">{b}збла´жаны{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="зблу+джаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="зблу+джаны">
+            <Slounik name="piskunou2012" idx="68353">{b}зблу´джаны{/b}* /// [ad1]</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="зблука+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="зблука+ны">
+            <Slounik name="piskunou2012" idx="68359">{b}зблука´ны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="зблэ+чаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="зблэ+чаны">
+            <Slounik name="piskunou2012" idx="68372">{b}зблэ´чаны{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="збо+раны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="збо+раны">
+            <Slounik name="piskunou2012" idx="68438">{b}збо´раны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="збрасня+ўлены" tag="PPPP">
+        <Variant pravapis="A2008" lemma="збрасня+ўлены">
+            <Slounik name="piskunou2012" idx="68500">{b}збрасня´ўлены{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="нагартава+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="нагартава+ны">
+            <Slounik name="piskunou2012" idx="103323">{b}нагартава´ны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="нагасцява+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="нагасцява+ны">
+            <Slounik name="piskunou2012" idx="103341">{b}нагасцява´ны{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="незгіна+ны" tag="PPPM">
+        <Variant pravapis="A2008" lemma="незгіна+ны">
+            <Slounik name="piskunou2012" idx="112396">{b}незгіна´ны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="нястра+чаны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="нястра+чаны">
+            <Slounik name="piskunou2012" idx="117802">{b}нястра´чаны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="павыгаро+джваны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="павыгаро+джваны">
+            <Slounik name="piskunou2012" idx="120473">{b}павыгаро´джваны{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="паскрыля+ны" tag="PPPP">
+        <Variant pravapis="A2008" lemma="паскрыля+ны">
+            <Slounik name="piskunou2012" idx="134323">{b}паскрыля´ны{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="прыпла+ўлены" tag="PPPP">
+        <Variant pravapis="A2008" lemma="прыпла+ўлены">
+            <Slounik name="piskunou2012" idx="155505">{b}прыпла´ўлены{/b} /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="скарэ+лены" tag="PPPP">
+        <Variant pravapis="A2008" lemma="скарэ+лены">
+            <Slounik name="piskunou2012" idx="176644">{b}скарэ´лены{/b}* /// ad1</Slounik>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="0" lemma="аб'е+ханы" tag="PPPP">
         <Variant pravapis="A2008" lemma="аб'е+ханы">
             <Slounik name="piskunou2012" idx="1239">{b}аб’е´ханы{/b} /// ad1</Slounik>

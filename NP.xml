@@ -10958,6 +10958,8 @@
             <Form tag="AP">Дняпры+</Form>
             <Form tag="IP">Дняпра+мі</Form>
             <Form tag="LP">Дняпра+х</Form>
+        </Variant>
+        <Variant lemma="Днепр">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Днепр</Form>
             <Form tag="GS" pravapis="A1957,A2008">Дняпра+</Form>
             <Form tag="DS" pravapis="A1957,A2008">Дняпру+</Form>
@@ -27185,17 +27187,11 @@
         <Variant lemma="Ра+даўніца">
             <Slounik name="piskunou2012" idx="160112">{b}Ра´даўніца{/b} {i}рэл.{/i}, -ы /// f6{sup}1{/sup}</Slounik>
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Ра+даўніца</Form>
-            <Form tag="NS" slouniki="tsbm1984,krapivabr2012" pravapis="A1957,A2008">Ра+даўніца</Form>
-            <Form tag="GS" pravapis="A1957,A2008">Ра+даўніцы</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ра+даўніцы</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ра+даўніцы</Form>
-            <Form tag="DS" pravapis="A1957,A2008">ра+даўніцы</Form>
             <Form tag="AS" pravapis="A1957,A2008">Ра+даўніцу</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Ра+даўніцу</Form>
-            <Form tag="IS" pravapis="A1957,A2008">Ра+даўніцай</Form>
             <Form tag="IS" pravapis="A1957,A2008">Ра+даўніцай</Form>
             <Form tag="LS" pravapis="A1957,A2008">Ра+даўніцы</Form>
-            <Form tag="LS" pravapis="A1957,A2008">ра+даўніцы</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038638" lemma="Радзіві+л" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">

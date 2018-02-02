@@ -3,13 +3,13 @@
     <Paradigm pdgId="1127403" lemma="абе+дзве" tag="MNKS">
         <Variant lemma="абе+дзве">
             <Slounik name="piskunou2012" idx="1070">{b}абе´дзве{/b} {i}ліч.{/i} ({i}з назоўнікамі ж. р.{/i}) {i}РМ{/i} абе´дзвюх, {i}Д{/i} абе´ дзвюм, {i}Т{/i} абе´дзвюма /// </Slounik>
-            <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">абе+дзве</Form>
-            <Form tag="PGP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюх</Form>
-            <Form tag="PDP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюм</Form>
-            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзве</Form>
-            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюх</Form>
-            <Form tag="PIP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюма</Form>
-            <Form tag="PLP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюх</Form>
+            <Form tag="FNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">абе+дзве</Form>
+            <Form tag="FGP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюх</Form>
+            <Form tag="FDP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюм</Form>
+            <Form tag="FAP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзве</Form>
+            <Form tag="FAP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюх</Form>
+            <Form tag="FIP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюма</Form>
+            <Form tag="FLP" slouniki="prym2009" pravapis="A1957,A2008">абе+дзвюх</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127404" lemma="або+два" tag="MNKS">
@@ -22,6 +22,18 @@
             <Form tag="MAP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008" options="anim">або+двух</Form>
             <Form tag="MIP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">або+двума</Form>
             <Form tag="MLP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">або+двух</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="або+два" tag="MNKS">
+        <Variant lemma="або+два">
+            <Slounik name="piskunou2012" idx="2636">{b}або´два{/b} {i}ліч.{/i}({i}з назоўнікамі м.і н. р.{/i}) {i}РМ{/i} -двух, {i}Д{/i} -двум, {i}Т{/i} -двума /// </Slounik>
+            <Form tag="NNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">або+два</Form>
+            <Form tag="NGP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">або+двух</Form>
+            <Form tag="NDP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">або+двум</Form>
+            <Form tag="NAP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008" options="inanim">або+два</Form>
+            <Form tag="NAP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008" options="anim">або+двух</Form>
+            <Form tag="NIP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">або+двума</Form>
+            <Form tag="NLP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">або+двух</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1192894" lemma="або+е" tag="MAKS">

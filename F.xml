@@ -3468,12 +3468,7 @@
             <Form tag="">...зна+ўства</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="...зна+ўца" tag="FS">
-        <Variant id="a" lemma="...зна+ўца">
-            <Form tag="">...зна+ўца</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="0" lemma="...капе+ечны" tag="FS">
+     <Paradigm pdgId="0" lemma="...капе+ечны" tag="FS">
         <Variant id="a" lemma="...капе+ечны">
             <Form tag="">...капе+ечны</Form>
         </Variant>
@@ -3488,12 +3483,12 @@
             <Form tag="">...кок</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="...ком " tag="FS">
+    <Paradigm pdgId="0" lemma="...ком " tag="FS" meaning="ад камісар">
         <Variant id="a" lemma="...ком ">
             <Form tag="">...ком </Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="...ком " tag="FS">
+    <Paradigm pdgId="0" lemma="...ком " tag="FS" meaning="ад камітэт">
         <Variant id="a" lemma="...ком ">
             <Form tag="">...ком </Form>
         </Variant>

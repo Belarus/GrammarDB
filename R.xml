@@ -2766,16 +2766,14 @@
             <Form tag="C">апаты+чней</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1139054" lemma="апаўдні+" tag="RX">
-        <Variant id="a" lemma="апаўдні+">
-            <Slounik name="piskunou2012" idx="14964">{b}апаўдні´{/b} {i}прысл.{/i} /// </Slounik>
-            <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">апаўдні+</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1203885" lemma="апаўдня+" tag="RX">
         <Variant id="a" lemma="апаўдня+">
             <Slounik name="piskunou2012" idx="14965">{b}апаўдня´{/b} {i}прысл.{/i} /// </Slounik>
             <Form tag="P" slouniki="krapivabr2012,tsbm1984" pravapis="A1957,A2008">апаўдня+</Form>
+        </Variant>
+		<Variant id="a" lemma="апаўдні+">
+            <Slounik name="piskunou2012" idx="14964">{b}апаўдні´{/b} {i}прысл.{/i} /// </Slounik>
+            <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984" pravapis="A1957,A2008">апаўдні+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1139055" lemma="апаўно+чы" tag="RX">

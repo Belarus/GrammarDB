@@ -613,7 +613,7 @@
             <Form tag="PNP" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">два+ццаць</Form>
             <Form tag="PGP" slouniki="sbm2012" pravapis="A2008">дваццаці+</Form>
             <Form tag="PDP" slouniki="sbm2012" pravapis="A2008">дваццаці+</Form>
-            <Form tag="PAP">два+ццаць</Form>
+            <Form tag="PAP" slouniki="sbm2012" pravapis="A2008">два+ццаць</Form>
             <Form tag="PIP" slouniki="sbm2012" pravapis="A2008">дваццаццю+</Form>
             <Form tag="PLP" slouniki="sbm2012" pravapis="A2008">дваццаці+</Form>
         </Variant>

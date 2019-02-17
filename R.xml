@@ -33579,11 +33579,6 @@
             <Form tag="P" slouniki="sbm2012,krapivabr2012" pravapis="A2008">па-зве+рску</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1204458" lemma="па-зверску" tag="RA">
-        <Variant id="a" lemma="па-зверску">
-            <Form tag="P">па-зверску</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1204459" lemma="па-зво+дніцку" tag="RA">
         <Variant id="a" lemma="па-зво+дніцку">
             <Form tag="P">па-зво+дніцку</Form>
@@ -37622,11 +37617,6 @@
             <Form tag="P" slouniki="sbm2012,krapivabr2012" pravapis="A2008">па-ры+царску</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1204979" lemma="па-рыцарску" tag="RA">
-        <Variant id="a" lemma="па-рыцарску">
-            <Form tag="P">па-рыцарску</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1204980" lemma="па-рыэлтарску" tag="RA">
         <Variant id="a" lemma="па-рыэлтарску">
             <Form tag="P" slouniki="tsbm2016">па-рыэлтарску</Form>
@@ -39940,12 +39930,7 @@
     <Paradigm pdgId="1205207" lemma="па-францу+зску" tag="RA">
         <Variant id="a" lemma="па-францу+зску">
             <Slounik name="piskunou2012" idx="137190">{b}па-францу´зску{/b} {i}прысл.{/i} /// </Slounik>
-            <Form tag="P" slouniki="sbm2012" pravapis="A2008">па-францу+зску</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1205208" lemma="па-французску" tag="RA">
-        <Variant id="a" lemma="па-французску">
-            <Form tag="P" slouniki="tsbm2016">па-французску</Form>
+            <Form tag="P" slouniki="sbm2012,tsbm2016" pravapis="A2008">па-францу+зску</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1205209" lemma="па-фрыгійску" tag="RA">

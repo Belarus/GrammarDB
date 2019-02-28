@@ -31707,12 +31707,7 @@
     <Paradigm pdgId="1204280" lemma="па-вучнё+ўску" tag="RA">
         <Variant id="a" lemma="па-вучнё+ўску">
             <Slounik name="piskunou2012" idx="120390">{b}па-вучнёўску{/b} {i}прысл.{/i} /// </Slounik>
-            <Form tag="P" slouniki="sbm2012" pravapis="A2008">па-вучнё+ўску</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1204281" lemma="па-вучнёўску" tag="RA">
-        <Variant id="a" lemma="па-вучнёўску">
-            <Form tag="P" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">па-вучнёўску</Form>
+            <Form tag="P" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">па-вучнё+ўску</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1192578" lemma="па ву+шы" tag="RX">
@@ -33764,12 +33759,7 @@
     <Paradigm pdgId="1204477" lemma="па-ідыё+цку" tag="RA">
         <Variant id="a" lemma="па-ідыё+цку">
             <Slounik name="piskunou2012" idx="127270">{b}па-ідыёцку{/b}* {i}прысл.{/i} /// </Slounik>
-            <Form tag="P" slouniki="sbm2012,krapivabr2012" pravapis="A2008">па-ідыё+цку</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1204478" lemma="па-ідыёцку" tag="RA">
-        <Variant id="a" lemma="па-ідыёцку">
-            <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">па-ідыёцку</Form>
+            <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">па-ідыё+цку</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1204479" lemma="па-іезуіцку" tag="RA">
@@ -49562,12 +49552,7 @@
     <Paradigm pdgId="1205380" lemma="сюд-ту+д" tag="RX">
         <Variant id="a" lemma="сюд-ту+д">
             <Slounik name="piskunou2012" idx="187022">{b}сюд-ту´д{/b}* {i}прысл.{/i} /// </Slounik>
-            <Form tag="P" slouniki="tsbm1984" pravapis="A1957,A2008">сюд-ту+д</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1104538" lemma="сюд-туд" tag="RX">
-        <Variant id="a" lemma="сюд-туд">
-            <Form tag="P" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сюд-туд</Form>
+            <Form tag="P" slouniki="prym2009,sbm2012,tsbm1984" pravapis="A1957,A2008">сюд-ту+д</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1104540" lemma="сюды+" tag="RX">

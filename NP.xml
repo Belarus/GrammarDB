@@ -14940,8 +14940,11 @@
             <Form tag="AP" pravapis="A1957,A2008">Каля+ды</Form>
             <Form tag="IP" pravapis="A1957,A2008">Каля+дамі</Form>
             <Form tag="LP" pravapis="A1957,A2008">Каля+дах</Form>
+        </Variant>
+        <Variant id="b" lemma="Ко+ляды">
+            <Slounik name="piskunou2012" idx="78255">{b}Каля´ды{/b}, -д {i}і{/i} -даў ({i}свята{/i}) /// [f1]</Slounik>
             <Form tag="NP" slouniki="tsblm1996,tsbm1984,tsbm2016,krapivabr2012" pravapis="A1957,A2008">Ко+ляды</Form>
-            <Form tag="GP" pravapis="A1957,A2008">Ко+лядаў</Form>
+            <Form tag="GP" pravapis="A1957,A2008">Ко+ляд</Form>
             <Form tag="DP" pravapis="A1957,A2008">Ко+лядам</Form>
             <Form tag="AP" pravapis="A1957,A2008">Ко+ляды</Form>
             <Form tag="IP" pravapis="A1957,A2008">Ко+лядамі</Form>

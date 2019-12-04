@@ -3238,16 +3238,16 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1160141" lemma="Белару+сь" tag="NPIINF3" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Белару+сь">
+        <Variant id="a" pravapis="A1957,A2008" lemma="Белару+сь">
             <Slounik name="piskunou2012" idx="23656">{b}Белару´сь{/b}, {i}Т{/i} -ссю /// f5{sup}2{/sup}</Slounik>
-            <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Белару+сь</Form>
-            <Form tag="GS" pravapis="A1957,A2008">Белару+сі</Form>
-            <Form tag="DS" pravapis="A1957,A2008">Белару+сі</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Белару+сь</Form>
-            <Form tag="IS" pravapis="A1957,A2008">Белару+ссю</Form>
+            <Form tag="NS" slouniki="krapivabr2012">Белару+сь</Form>
+            <Form tag="GS">Белару+сі</Form>
+            <Form tag="DS">Белару+сі</Form>
+            <Form tag="AS">Белару+сь</Form>
+            <Form tag="IS">Белару+ссю</Form>
             <Form tag="IS" type="nonstandard">Белару+сяй</Form>
             <Form tag="IS" type="nonstandard">Белару+сяю</Form>
-            <Form tag="LS" pravapis="A1957,A2008">Белару+сі</Form>
+            <Form tag="LS">Белару+сі</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037659" lemma="Беларуськалій" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
@@ -31884,13 +31884,13 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203351" lemma="Сцы+ла" tag="NPAINF2">
-        <Variant id="a" lemma="Сцы+ла">
-            <Form tag="NS" slouniki="tsbm1984" pravapis="A1957,A2008">Сцы+ла</Form>
+        <Variant id="a" pravapis="A1957,A2008" lemma="Сцы+ла">
+            <Form tag="NS" slouniki="tsbm1984">Сцы+ла</Form>
             <Form tag="GS" type="potential">Сцы+лы</Form>
             <Form tag="DS" type="potential">Сцы+ле</Form>
             <Form tag="AS" type="potential">Сцы+лу</Form>
-            <Form tag="IS" pravapis="A1957,A2008">Сцы+лай</Form>
-            <Form tag="IS" pravapis="A1957,A2008">Сцы+лаю</Form>
+            <Form tag="IS">Сцы+лай</Form>
+            <Form tag="IS">Сцы+лаю</Form>
             <Form tag="LS" type="potential">Сцы+ле</Form>
         </Variant>
     </Paradigm>

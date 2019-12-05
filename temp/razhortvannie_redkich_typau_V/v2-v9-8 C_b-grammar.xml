@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1223853" lemma="паня+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="паня+цца">
+            <Slounik name="piskunou2012" idx="130604">{b}паня´цца{/b}* {i}зак.{/i}, пайму´ся, по´ймецца; {i}ПЧ{/i} паня´ўся, -яла´ся, -яло´ся, -ялі´ся; {i}ЗЛ{/i} паймі´ся ({i}уступіць у шлюб; уразумець{/i}) /// v9{sup}8{/sup} C/b</Slounik>
+            <Form tag="0">паня+цца</Form>
+            <Form tag="F1S">пайму+ся</Form>
+            <Form tag="F2S">по+ймешся</Form>
+            <Form tag="F3S">по+ймецца</Form>
+            <Form tag="F1P">по+ймемся</Form>
+            <Form tag="F2P">по+ймецеся</Form>
+            <Form tag="F3P">по+ймуцца</Form>
+            <Form tag="PMS">паня+ўся</Form>
+            <Form tag="PFS">паняла+ся</Form>
+            <Form tag="PNS">паняло+ся</Form>
+            <Form tag="PXP">панялі+ся</Form>
+            <Form tag="I2S">паймі+ся</Form>
+            <Form tag="I2P">паймі+цеся</Form>
+            <Form tag="PG">паня+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1224832" lemma="перазаня+ць" tag="VTPNX">
+        <Variant id="a" pravapis="A2008" lemma="перазаня+ць">
+            <Slounik name="piskunou2012" idx="140385">{b}перазаня´ць{/b} {i}зак.{/i}, -займу´, -зо´йме; {i}ПЧ{/i} -заня´ў , -заняла´, -заняло´, -занялі´; {i}ЗЛ{/i} -займі´ /// v9{sup}8{/sup} C/b</Slounik>
+            <Form tag="0">перазаня+ць</Form>
+            <Form tag="F1S">перазайму+</Form>
+            <Form tag="F2S">перазо+ймеш</Form>
+            <Form tag="F3S">перазо+йме</Form>
+            <Form tag="F1P">перазо+ймем</Form>
+            <Form tag="F2P">перазо+ймеце</Form>
+            <Form tag="F3P">перазо+ймуць</Form>
+            <Form tag="PMS">перазаня+ў</Form>
+            <Form tag="PFS">перазаняла+</Form>
+            <Form tag="PNS">перазаняло+</Form>
+            <Form tag="PXP">перазанялі+</Form>
+            <Form tag="I2S">перазаймі+</Form>
+            <Form tag="I2P">перазаймі+це</Form>
+            <Form tag="PG">перазаня+ўшы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

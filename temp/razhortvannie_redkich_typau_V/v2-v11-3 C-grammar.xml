@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1215059" lemma="агна+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="агна+цца">
+            <Slounik name="piskunou2012" idx="5436">{b}агна´цца{/b} {i}зак.{/i}, аганю´ся, аго´ніцца /// v11{sup}3{/sup} C/</Slounik>
+            <Form tag="0">агна+цца</Form>
+            <Form tag="F1S">аганю+ся</Form>
+            <Form tag="F2S">аго+нішся</Form>
+            <Form tag="F3S">аго+ніцца</Form>
+            <Form tag="F1P">аго+німся</Form>
+            <Form tag="F2P">аго+ніцеся</Form>
+            <Form tag="F3P">аго+няцца</Form>
+            <Form tag="PMS">агна+ўся</Form>
+            <Form tag="PFS">агна+лася</Form>
+            <Form tag="PNS">агна+лася</Form>
+            <Form tag="PXP">агна+ліся</Form>
+            <Form tag="I2S">агані+ся</Form>
+            <Form tag="I2P">агані+цеся</Form>
+            <Form tag="PG">агна+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1220038" lemma="згна+ць" tag="VTPNX">
+        <Variant id="a" pravapis="A2008" lemma="згна+ць">
+            <Slounik name="piskunou2012" idx="69884">{b}згнаць{/b} {i}зак.{/i}, зганю´, зго´ніць /// v11{sup}3{/sup} C/</Slounik>
+            <Form tag="0">згна+ць</Form>
+            <Form tag="F1S">зганю+</Form>
+            <Form tag="F2S">зго+ніш</Form>
+            <Form tag="F3S">зго+ніць</Form>
+            <Form tag="F1P">зго+нім</Form>
+            <Form tag="F2P">зго+ніце</Form>
+            <Form tag="F3P">зго+няць</Form>
+            <Form tag="PMS">згна+ў</Form>
+            <Form tag="PFS">згна+ла</Form>
+            <Form tag="PNS">згна+ла</Form>
+            <Form tag="PXP">згна+лі</Form>
+            <Form tag="I2S">згані+</Form>
+            <Form tag="I2P">згані+це</Form>
+            <Form tag="PG">згна+ўшы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

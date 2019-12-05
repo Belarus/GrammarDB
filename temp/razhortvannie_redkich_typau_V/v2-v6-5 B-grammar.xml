@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1221834" lemma="наме+рціся" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="наме+рціся">
+            <Slounik name="piskunou2012" idx="105965">{b}наме´рціся{/b} {i}зак.{/i}, -мру´цца /// v6{sup}5{/sup} B/</Slounik>
+            <Form tag="0">наме+рціся</Form>
+            <Form tag="F1S">намру+ся</Form>
+            <Form tag="F2S">намрэ+шся</Form>
+            <Form tag="F3S">намрэ+цца</Form>
+            <Form tag="F1P">намро+мся</Form>
+            <Form tag="F2P">намраце+ся</Form>
+            <Form tag="F3P">намру+цца</Form>
+            <Form tag="PMS">намё+рся</Form>
+            <Form tag="PFS">наме+рлася</Form>
+            <Form tag="PNS">наме+рлася</Form>
+            <Form tag="PXP">наме+рліся</Form>
+            <Form tag="I2S">намры+ся</Form>
+            <Form tag="I2P">намры+цеся</Form>
+            <Form tag="PG">намё+ршыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1228868" lemma="уме+рці" tag="VIPNX">
+        <Variant id="a" pravapis="A2008" lemma="уме+рці">
+            <Slounik name="piskunou2012" idx="196703">{b}уме´рці{/b}* {i}зак.{/i}, умру´, умрэ´, умраце´; {i}ПЧ{/i} умёр, уме´рла; {i}ЗЛ{/i} (не) умры´ /// v6{sup}5{/sup} B/</Slounik>
+            <Form tag="0">уме+рці</Form>
+            <Form tag="F1S">умру+</Form>
+            <Form tag="F2S">умрэ+ш</Form>
+            <Form tag="F3S">умрэ+</Form>
+            <Form tag="F1P">умро+м</Form>
+            <Form tag="F2P">умраце+</Form>
+            <Form tag="F3P">умру+ць</Form>
+            <Form tag="PMS">умё+р</Form>
+            <Form tag="PFS">уме+рла</Form>
+            <Form tag="PNS">уме+рла</Form>
+            <Form tag="PXP">уме+рлі</Form>
+            <Form tag="I2S">умры+</Form>
+            <Form tag="I2P">умры+це</Form>
+            <Form tag="PG">умё+ршы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

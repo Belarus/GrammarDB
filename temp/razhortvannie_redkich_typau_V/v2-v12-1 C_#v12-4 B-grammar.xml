@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1214598" lemma="абмякчы+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="абмякчы+цца">
+            <Slounik name="piskunou2012" idx="2439">{b}абмякчы´цца{/b}* {i}зак.{/i}, абмякчу´ся, -мя´кчыцца {i}і{/i} абмякчу´ся, -чы´цца, -чыце´ся /// v12{sup}1{/sup} C/#v12{sup}4{/sup} B/</Slounik>
+            <Form tag="0">абмякчы+цца</Form>
+            <Form tag="F1S">абмякчу+ся</Form>
+            <Form tag="F2S">абмя+кчышся</Form>
+            <Form tag="F3S">абмя+кчыцца</Form>
+            <Form tag="F1P">абмя+кчымся</Form>
+            <Form tag="F2P">абмя+кчыцеся</Form>
+            <Form tag="F3P">абмя+кчацца</Form>
+            <Form tag="PMS">абмякчы+ўся</Form>
+            <Form tag="PFS">абмякчы+лася</Form>
+            <Form tag="PNS">абмякчы+лася</Form>
+            <Form tag="PXP">абмякчы+ліся</Form>
+            <Form tag="I2S">абмякчы+ся</Form>
+            <Form tag="I2P">абмякчы+цеся</Form>
+            <Form tag="PG">абмякчы+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1221373" lemma="мякчы+ць" tag="VTMNX" meaning="змякчыць, памякчыць каго-небудзь, што-небудзь">
+        <Variant id="a" pravapis="A2008" lemma="мякчы+ць">
+            <Slounik name="piskunou2012" idx="101911">{b}мякчы´ць{/b} {i}незак.{/i}, мякчу´, мя´кчыць {i}і{/i} мякчу´, -чы´ць, -чыце´ /// v12{sup}1{/sup} C/#v12{sup}4{/sup} B/</Slounik>
+            <Form tag="0">мякчы+ць</Form>
+            <Form tag="R1S">мякчу+</Form>
+            <Form tag="R2S">мя+кчыш</Form>
+            <Form tag="R3S">мя+кчыць</Form>
+            <Form tag="R1P">мя+кчым</Form>
+            <Form tag="R2P">мя+кчыце</Form>
+            <Form tag="R3P">мя+кчаць</Form>
+            <Form tag="PMS">мякчы+ў</Form>
+            <Form tag="PFS">мякчы+ла</Form>
+            <Form tag="PNS">мякчы+ла</Form>
+            <Form tag="PXP">мякчы+лі</Form>
+            <Form tag="I2S">мякчы+</Form>
+            <Form tag="I2P">мякчы+це</Form>
+            <Form tag="RG">мя+кчачы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1216116" lemma="аця+ць" tag="VTPNX" meaning="ахапіць каго-небудзь, што-небудзь (страх ацяў душу); абсекчы што-небудзь (ацяць сучча)">
+        <Variant id="a" pravapis="A2008" lemma="аця+ць">
+            <Slounik name="piskunou2012" idx="20089">{b}аця´ць{/b}* {i}зак.{/i}, атну´, атне´, атняце´; {i}ПЧ{/i} аця´ў, ацяла´, -ло´; {i}ЗЛ{/i} атні´ /// v9{sup}14{/sup} B/b</Slounik>
+            <Form tag="0">аця+ць</Form>
+            <Form tag="F1S">атну+</Form>
+            <Form tag="F2S">атне+ш</Form>
+            <Form tag="F3S">атне+</Form>
+            <Form tag="F1P">атнё+м</Form>
+            <Form tag="F2P">атняце+</Form>
+            <Form tag="F3P">атну+ць</Form>
+            <Form tag="PMS">аця+ў</Form>
+            <Form tag="PFS">аця+ла</Form>
+            <Form tag="PNS">аця+ла</Form>
+            <Form tag="PXP">аця+лі</Form>
+            <Form tag="I2S">атні+</Form>
+            <Form tag="I2P">атні+це</Form>
+            <Form tag="PG">аця+ўшы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1222191" lemma="наця+ць" tag="VTPNX">
+        <Variant id="a" pravapis="A2008" lemma="наця+ць">
+            <Slounik name="piskunou2012" idx="109538">{b}наця´ць{/b} {i}зак.{/i}, натну´, -не´, -няце´; {i}ПЧ{/i} наця´ў, -яла´, -ло´; {i}ЗЛ{/i} натні´ ({i}надсячы{/i}) /// v9{sup}14{/sup} B/b</Slounik>
+            <Form tag="0">наця+ць</Form>
+            <Form tag="F1S">натну+</Form>
+            <Form tag="F2S">натне+ш</Form>
+            <Form tag="F3S">натне+</Form>
+            <Form tag="F1P">натнё+м</Form>
+            <Form tag="F2P">натняце+</Form>
+            <Form tag="F3P">натну+ць</Form>
+            <Form tag="PMS">наця+ў</Form>
+            <Form tag="PFS">наця+ла</Form>
+            <Form tag="PNS">наця+ла</Form>
+            <Form tag="PXP">наця+лі</Form>
+            <Form tag="I2S">натні+</Form>
+            <Form tag="I2P">натні+це</Form>
+            <Form tag="PG">наця+ўшы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1217946" lemma="даўця+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="даўця+цца">
+            <Slounik name="piskunou2012" idx="51107">{b}даўця´цца{/b} {i}зак.{/i}, даўтну´ся, -не´цца, -няце´ся; {i}ПЧ{/i} даўця´ўся, даўцяла´ся, -ло´ся /// v9{sup}14{/sup} B/b</Slounik>
+            <Form tag="0">даўця+цца</Form>
+            <Form tag="F1S">даўтну+ся</Form>
+            <Form tag="F2S">даўтне+шся</Form>
+            <Form tag="F3S">даўтне+цца</Form>
+            <Form tag="F1P">даўтнё+мся</Form>
+            <Form tag="F2P">даўтняце+ся</Form>
+            <Form tag="F3P">даўтну+цца</Form>
+            <Form tag="PMS">даўця+ўся</Form>
+            <Form tag="PFS">даўця+лася</Form>
+            <Form tag="PNS">даўця+лася</Form>
+            <Form tag="PXP">даўця+ліся</Form>
+            <Form tag="I2S">даўтні+ся</Form>
+            <Form tag="I2P">даўтні+цеся</Form>
+            <Form tag="PG">даўця+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1222190" lemma="наця+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="наця+цца">
+            <Slounik name="piskunou2012" idx="109537">{b}наця´цца{/b}* {i}зак.{/i}, натну´ся, -не´цца, -няце´ся; {i}ПЧ{/i} наця´ўся, -яла´ся, -ло´ся; {i}ЗЛ{/i} натні´ся /// v9{sup}14{/sup} B/b</Slounik>
+            <Form tag="0">наця+цца</Form>
+            <Form tag="F1S">натну+ся</Form>
+            <Form tag="F2S">натне+шся</Form>
+            <Form tag="F3S">натне+цца</Form>
+            <Form tag="F1P">натнё+мся</Form>
+            <Form tag="F2P">натняце+ся</Form>
+            <Form tag="F3P">натну+цца</Form>
+            <Form tag="PMS">наця+ўся</Form>
+            <Form tag="PFS">наця+лася</Form>
+            <Form tag="PNS">наця+лася</Form>
+            <Form tag="PXP">наця+ліся</Form>
+            <Form tag="I2S">натні+ся</Form>
+            <Form tag="I2P">натні+цеся</Form>
+            <Form tag="PG">наця+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

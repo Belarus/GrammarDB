@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1219489" lemma="заўзя+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="заўзя+цца">
+            <Slounik name="piskunou2012" idx="66718">{b}заўзя´цца{/b}* {i}зак.{/i} ({i}формы цяперашняга часу не ўжываюцца{/i}); {i}ПЧ{/i} заўзя´ўся, -ла´ся, -ло´ся ({i}стаць незгаворлівым{/i}, {i}ганарыстым; уз’есціся{/i}) /// v9{sup}7{/sup} C/b</Slounik>
+            <Form tag="0">заўзя+цца</Form>
+            <Form tag="PMS">заўзя+ўся</Form>
+            <Form tag="PFS">заўзяла+ся</Form>
+            <Form tag="PNS">заўзяло+ся</Form>
+            <Form tag="PXP">заўзялі+ся</Form>
+            <Form tag="I2S">заўзьмі+ся</Form>
+            <Form tag="I2P">заўзьмі+цеся</Form>
+            <Form tag="PG">заўзя+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1224383" lemma="паўзя+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="паўзя+цца">
+            <Slounik name="piskunou2012" idx="136253">{b}паўзя´цца{/b}* {i}зак.{/i}, {i}ПЧ{/i} паўзя´ўся, паўзяла´ся, -ло´ся ({i}узяцца{/i}, {i}прыняцца за што-н.{/i}) /// v9{sup}7{/sup} C/b</Slounik>
+            <Form tag="0">паўзя+цца</Form>
+            <Form tag="PMS">паўзя+ўся</Form>
+            <Form tag="PFS">паўзяла+ся</Form>
+            <Form tag="PNS">паўзяло+ся</Form>
+            <Form tag="PXP">паўзялі+ся</Form>
+            <Form tag="I2S">паўзьмі+ся</Form>
+            <Form tag="I2P">паўзьмі+цеся</Form>
+            <Form tag="PG">паўзя+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1224384" lemma="паўзя+ць" tag="VDPNX" meaning="узяць што-небудзь (паўзяць ідэю); узяцца (паўзялі заснаваць арганізацыю)">
+        <Variant id="a" pravapis="A2008" lemma="паўзя+ць">
+            <Slounik name="piskunou2012" idx="136255">{b}паўзя´ць{/b}* {i}зак.{/i}, {i}ПЧ{/i} паўзя´ў, паўзяла´, -ло´ ({i}узяць{/i}, {i}набраць – пра ахвоту{/i}, {i}смеласць і пад.{/i}) /// v9{sup}7{/sup} C/b</Slounik>
+            <Form tag="0">паўзя+ць</Form>
+            <Form tag="PMS">паўзя+ў</Form>
+            <Form tag="PFS">паўзяла+</Form>
+            <Form tag="PNS">паўзяло+</Form>
+            <Form tag="PXP">паўзялі+</Form>
+            <Form tag="I2S">паўзьмі+</Form>
+            <Form tag="I2P">паўзьмі+це</Form>
+            <Form tag="PG">паўзя+ўшы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

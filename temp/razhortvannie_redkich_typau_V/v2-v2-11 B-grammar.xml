@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1214454" lemma="абі+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="абі+цца">
+            <Slounik name="piskunou2012" idx="1409">{b}абі´цца{/b} {i}зак.{/i}, аб’ю´ся, аб’е´цца, аб’яце´ся /// v2{sup}11{/sup} B/</Slounik>
+            <Form tag="0">абі+цца</Form>
+            <Form tag="F1S">аб'ю+ся</Form>
+            <Form tag="F2S">аб'е+шся</Form>
+            <Form tag="F3S">аб'е+цца</Form>
+            <Form tag="F1P">аб'ё+мся</Form>
+            <Form tag="F2P">аб'яце+ся</Form>
+            <Form tag="F3P">аб'ю+цца</Form>
+            <Form tag="PMS">абі+ўся</Form>
+            <Form tag="PFS">абі+лася</Form>
+            <Form tag="PNS">абі+лася</Form>
+            <Form tag="PXP">абі+ліся</Form>
+            <Form tag="I2S">абі+ся</Form>
+            <Form tag="I2P">абі+цеся</Form>
+            <Form tag="PG">абі+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1214455" lemma="абі+ць" tag="VTPNX">
+        <Variant id="a" pravapis="A2008" lemma="абі+ць">
+            <Slounik name="piskunou2012" idx="1411">{b}абі´ць{/b} {i}зак.{/i}, аб’ю´, аб’е´, аб’яце´ /// v2{sup}11{/sup} B/</Slounik>
+            <Form tag="0">абі+ць</Form>
+            <Form tag="F1S">аб'ю+</Form>
+            <Form tag="F2S">аб'е+ш</Form>
+            <Form tag="F3S">аб'е+</Form>
+            <Form tag="F1P">аб'ё+м</Form>
+            <Form tag="F2P">аб'яце+</Form>
+            <Form tag="F3P">аб'ю+ць</Form>
+            <Form tag="PMS">абі+ў</Form>
+            <Form tag="PFS">абі+ла</Form>
+            <Form tag="PNS">абі+ла</Form>
+            <Form tag="PXP">абі+лі</Form>
+            <Form tag="I2S">абі+</Form>
+            <Form tag="I2P">абі+це</Form>
+            <Form tag="PG">абі+ўшы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

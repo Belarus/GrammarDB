@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1217035" lemma="вы+пяцца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="вы+пяцца">
+            <Slounik name="piskunou2012" idx="37389">{b}вы´пяцца{/b}* {i}зак.{/i}, -пнуся, -пнецца /// v9{sup}11{/sup}</Slounik>
+            <Form tag="0">вы+пяцца</Form>
+            <Form tag="F1S">вы+пнуся</Form>
+            <Form tag="F2S">вы+пнешся</Form>
+            <Form tag="F3S">вы+пнецца</Form>
+            <Form tag="F1P">вы+пнемся</Form>
+            <Form tag="F2P">вы+пнецеся</Form>
+            <Form tag="F3P">вы+пнуцца</Form>
+            <Form tag="PMS">вы+пяўся</Form>
+            <Form tag="PFS">вы+пялася</Form>
+            <Form tag="PNS">вы+пялася</Form>
+            <Form tag="PXP">вы+пяліся</Form>
+            <Form tag="I2S">вы+пніся</Form>
+            <Form tag="I2P">вы+пніцеся</Form>
+            <Form tag="PG">вы+пяўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1217036" lemma="вы+пяць" tag="VTPNX" meaning="выпнуць, выпучыць, вытарашчыць што-небудзь">
+        <Variant id="a" pravapis="A2008" lemma="вы+пяць">
+            <Slounik name="piskunou2012" idx="37390">{b}вы´пяць{/b}* {i}зак.{/i}, -пну, -пне /// v9{sup}11{/sup}</Slounik>
+            <Form tag="0">вы+пяць</Form>
+            <Form tag="F1S">вы+пну</Form>
+            <Form tag="F2S">вы+пнеш</Form>
+            <Form tag="F3S">вы+пне</Form>
+            <Form tag="F1P">вы+пнем</Form>
+            <Form tag="F2P">вы+пнеце</Form>
+            <Form tag="F3P">вы+пнуць</Form>
+            <Form tag="PMS">вы+пяў</Form>
+            <Form tag="PFS">вы+пяла</Form>
+            <Form tag="PNS">вы+пяла</Form>
+            <Form tag="PXP">вы+пялі</Form>
+            <Form tag="I2S">вы+пні</Form>
+            <Form tag="I2P">вы+пніце</Form>
+            <Form tag="PG">вы+пяўшы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

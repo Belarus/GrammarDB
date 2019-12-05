@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Wordlist>
+    <Paradigm pdgId="1216003" lemma="асцягну+цца" tag="VIPRX">
+        <Variant id="a" pravapis="A2008" lemma="асцягну+цца">
+            <Slounik name="piskunou2012" idx="18130">{b}асцягну´цца{/b}* {i}зак.{/i}, -ягну´ся, -я´гнецца /// v9{sup}1{/sup} C/</Slounik>
+            <Form tag="0">асцягну+цца</Form>
+            <Form tag="F1S">асцягну+ся</Form>
+            <Form tag="F2S">асця+гнешся</Form>
+            <Form tag="F3S">асця+гнецца</Form>
+            <Form tag="F1P">асця+гнемся</Form>
+            <Form tag="F2P">асця+гнецеся</Form>
+            <Form tag="F3P">асця+гнуцца</Form>
+            <Form tag="PMS">асцягну+ўся</Form>
+            <Form tag="PFS">асцягну+лася</Form>
+            <Form tag="PNS">асцягну+лася</Form>
+            <Form tag="PXP">асцягну+ліся</Form>
+            <Form tag="I2S">асцягні+ся</Form>
+            <Form tag="I2P">асцягні+цеся</Form>
+            <Form tag="PG">асцягну+ўшыся</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1225628" lemma="прасцягну+ць" tag="VTPNX" meaning="працягнуць што-небудзь">
+        <Variant id="a" pravapis="A2008" lemma="прасцягну+ць">
+            <Slounik name="piskunou2012" idx="151351">{b}прасцягну´ць{/b}* {i}зак.{/i}, -ягну´, -я´гне /// v9{sup}1{/sup} C/</Slounik>
+            <Form tag="0">прасцягну+ць</Form>
+            <Form tag="F1S">прасцягну+</Form>
+            <Form tag="F2S">прасця+гнеш</Form>
+            <Form tag="F3S">прасця+гне</Form>
+            <Form tag="F1P">прасця+гнем</Form>
+            <Form tag="F2P">прасця+гнеце</Form>
+            <Form tag="F3P">прасця+гнуць</Form>
+            <Form tag="PMS">прасцягну+ў</Form>
+            <Form tag="PFS">прасцягну+ла</Form>
+            <Form tag="PNS">прасцягну+ла</Form>
+            <Form tag="PXP">прасцягну+лі</Form>
+            <Form tag="I2S">прасцягні+</Form>
+            <Form tag="I2P">прасцягні+це</Form>
+            <Form tag="PG">прасцягну+ўшы</Form>
+        </Variant>
+    </Paradigm>
+</Wordlist>

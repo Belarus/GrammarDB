@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1226959" lemma="распу+кнуцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="распу+кнуцца">
+        <Variant id="a" pravapis="A2008" lemma="распу+кнуцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="165075">{b}распу´кну´цца{/b} {i}зак.{/i}, распу´кнецца {i}і{/i} распукне´цца /// v9{sup}1{/sup}#v9{sup}1{/sup} B/</Slounik>
             <Form tag="0">распу+кнуцца</Form>
             <Form tag="F1S">распукну+ся</Form>
@@ -23,7 +23,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1226960" lemma="распу+кнуць" tag="VIPNX" meaning="набухнуць, набрыняць">
-        <Variant id="a" pravapis="A2008" lemma="распу+кнуць">
+        <Variant id="a" pravapis="A2008" lemma="распу+кнуць" type="nonstandard">
             <Slounik name="piskunou2012" idx="165076">{b}распу´кну´ць{/b} {i}зак.{/i}, распу´кне {i}і{/i} распукне´ /// v9{sup}1{/sup}#v9{sup}1{/sup} B/</Slounik>
             <Form tag="0">распу+кнуць</Form>
             <Form tag="F1S">распукну+</Form>

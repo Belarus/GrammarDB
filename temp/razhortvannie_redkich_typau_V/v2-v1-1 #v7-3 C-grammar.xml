@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1219144" lemma="запеляска+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="запеляска+цца">
+        <Variant id="a" pravapis="A2008" lemma="запеляска+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="64412">{b}запеляска´цца{/b}* {i}зак.{/i}, -а´юся, -а´ецца {i}і{/i} запеляшчу´ся, -пяле´шчацца /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">запеляска+цца</Form>
             <Form tag="F1S">запеляска+юся</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1219145" lemma="запеляска+ць" tag="VTPNX" meaning="прапаласкаць што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="запеляска+ць">
+        <Variant id="a" pravapis="A2008" lemma="запеляска+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="64413">{b}запеляска´ць{/b}* {i}зак.{/i}, запеляска´ю, -а´е {i}і{/i} запеляшчу´, -пяле´шча /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">запеляска+ць</Form>
             <Form tag="F1S">запеляска+ю</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1223958" lemma="папеляска+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="папеляска+цца">
+        <Variant id="a" pravapis="A2008" lemma="папеляска+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="131215">{b}папеляска´цца{/b}* {i}зак.{/i}, папеляска´юся, -а´ецца {i}і{/i} папеляшчу´ся, -пяле´шчацца /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">папеляска+цца</Form>
             <Form tag="F1S">папеляска+юся</Form>
@@ -58,7 +58,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1223959" lemma="папеляска+ць" tag="VTPNX" meaning="папаласкаць што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="папеляска+ць">
+        <Variant id="a" pravapis="A2008" lemma="папеляска+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="131216">{b}папеляска´ць{/b}* {i}зак.{/i}, папеляска´ю, -а´е {i}і{/i} папеляшчу´, -пяле´шча /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">папеляска+ць</Form>
             <Form tag="F1S">папеляска+ю</Form>
@@ -77,7 +77,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224648" lemma="пеляска+цца" tag="VIMRX">
-        <Variant id="a" pravapis="A2008" lemma="пеляска+цца">
+        <Variant id="a" pravapis="A2008" lemma="пеляска+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="138666">{b}пеляска´цца{/b}* {i}незак.{/i}, пеляска´юся, -а´ецца {i}і{/i} пеляшчу´ся, пяле´шчацца /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">пеляска+цца</Form>
             <Form tag="R1S">пеляска+юся</Form>
@@ -96,7 +96,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1226909" lemma="распеляска+ць" tag="VTMNX">
-        <Variant id="a" pravapis="A2008" lemma="распеляска+ць">
+        <Variant id="a" pravapis="A2008" lemma="распеляска+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="164729">{b}распеляска´ць{/b}* {i}незак.{/i}, распеляска´ю, -а´е {i}і{/i} распеляшчу´, -пяле´шча /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">распеляска+ць</Form>
             <Form tag="F1S">распеляска+ю</Form>
@@ -115,7 +115,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229153" lemma="успеляска+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="успеляска+цца">
+        <Variant id="a" pravapis="A2008" lemma="успеляска+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="198770">{b}успеляска´цца{/b}* {i}зак.{/i}, успеляска´юся, -а´ецца {i}і{/i} успеляшчу´ся, -пяле´шчацца ({i}усхвалявацца{/i}) /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">успеляска+цца</Form>
             <Form tag="F1S">успеляска+юся</Form>
@@ -134,7 +134,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229154" lemma="успеляска+ць" tag="VTPNX" meaning="спаласнуць, апаласкаць каго-небудзь, што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="успеляска+ць">
+        <Variant id="a" pravapis="A2008" lemma="успеляска+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="198771">{b}успеляска´ць{/b}* {i}зак.{/i}, успеляска´ю, -а´е {i}і{/i} успеляшчу´, -пяле´шча /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">успеляска+ць</Form>
             <Form tag="F1S">успеляска+ю</Form>
@@ -153,7 +153,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224649" lemma="пеляска+ць" tag="VDMNX" meaning="пеляскаць што-небудзь і без прамога дапаўнення">
-        <Variant id="a" pravapis="A2008" lemma="пеляска+ць">
+        <Variant id="a" pravapis="A2008" lemma="пеляска+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="138667">{b}пеляска´ць{/b}* {i}незак.{/i}, пеляска´ю, -а´е {i}і{/i} пеляшчу´, пяле´шча ({i}плюхаць{/i}, {i}пырскаць{/i}) /// v1{sup}1{/sup}#v7{sup}3{/sup} C/</Slounik>
             <Form tag="0">пеляска+ць</Form>
             <Form tag="R1S">пеляска+ю</Form>

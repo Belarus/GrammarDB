@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1216227" lemma="багаці+ць" tag="VTMNX" meaning="узбагачаць каго-небудзь, што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="багаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="багаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="21013">{b}багаці´ць{/b} {i}незак.{/i}, багачу´, -а´ціць {i}і{/i} багачу´, -аці´ць, -аціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">багаці+ць</Form>
             <Form tag="R1S">багачу+</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1217673" lemma="гусці+ць" tag="VTMNX" meaning="рабіць што-небудзь гусцейшым">
-        <Variant id="a" pravapis="A2008" lemma="гусці+ць">
+        <Variant id="a" pravapis="A2008" lemma="гусці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="47770">{b}гусці´ць{/b} {i}незак.{/i}, гушчу´, гу´сціць {i}і{/i} гушчу´, -ці´ць, -ціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">гусці+ць</Form>
             <Form tag="R1S">гушчу+</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1218357" lemma="забагаці+ць" tag="VTPNX" meaning="зрабіць каго-небудзь, што-небудзь багацейшым">
-        <Variant id="a" pravapis="A2008" lemma="забагаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="забагаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="59176">{b}забагаці´ць{/b}* {i}зак.{/i}, забагачу´, -а´ціць {i}і{/i} забагачу´, -аці´ць, -аціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">забагаці+ць</Form>
             <Form tag="F1S">забагачу+</Form>
@@ -58,7 +58,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1219771" lemma="збагаці+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="збагаці+цца">
+        <Variant id="a" pravapis="A2008" lemma="збагаці+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="68162">{b}збагаці´цца{/b}* {i}зак.{/i}, збагачу´ся, -а´ціцца {i}і{/i} збагачу´ся, -аці´цца, -аціце´ся /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">збагаці+цца</Form>
             <Form tag="F1S">збагачу+ся</Form>
@@ -77,7 +77,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1219772" lemma="збагаці+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="збагаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="збагаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="68163">{b}збагаці´ць{/b}* {i}зак.{/i}, збагачу´, -а´ціць {i}і{/i} збагачу´, -аці´ць, -аціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">збагаці+ць</Form>
             <Form tag="F1S">збагачу+</Form>
@@ -96,7 +96,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222558" lemma="пабагаці+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="пабагаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="пабагаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="119480">{b}пабагаці´ць{/b}* {i}зак.{/i}, пабагачу´, -га´ціць {i}і{/i} пабагачу´, -аці´ць, -аціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">пабагаці+ць</Form>
             <Form tag="F1S">пабагачу+</Form>
@@ -115,7 +115,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222920" lemma="падгусці+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="падгусці+цца">
+        <Variant id="a" pravapis="A2008" lemma="падгусці+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="122627">{b}падгусці´цца{/b} {i}зак.{/i}, падгу´сціцца {i}і{/i} падгусці´цца /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">падгусці+цца</Form>
             <Form tag="F1S">падгушчу+ся</Form>
@@ -134,7 +134,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222921" lemma="падгусці+ць" tag="VTPNX" meaning="зрабіць што-небудзь густым, гусцейшым">
-        <Variant id="a" pravapis="A2008" lemma="падгусці+ць">
+        <Variant id="a" pravapis="A2008" lemma="падгусці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="122628">{b}падгусці´ць{/b} {i}зак.{/i}, падгушчу´, -у´сціць {i}і{/i} падгушчу´, -ці´ць, -ціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">падгусці+ць</Form>
             <Form tag="F1S">падгушчу+</Form>
@@ -153,7 +153,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224776" lemma="перагусці+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="перагусці+цца">
+        <Variant id="a" pravapis="A2008" lemma="перагусці+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="139885">{b}перагусці´цца{/b} {i}зак.{/i}, перагу´сціцца {i}і{/i} перагусці´цца /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">перагусці+цца</Form>
             <Form tag="F1S">перагушчу+ся</Form>
@@ -172,7 +172,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1226198" lemma="прыснасці+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="прыснасці+цца">
+        <Variant id="a" pravapis="A2008" lemma="прыснасці+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="156125">{b}прыснасці´цца{/b}* {i}зак.{/i}, прыснашчу´ся, -а´сціцца {i}і{/i} прыснашчу´ся, -асці´цца, -асціце´ся /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">прыснасці+цца</Form>
             <Form tag="F1S">прыснашчу+ся</Form>
@@ -191,7 +191,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1227009" lemma="расснасці+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="расснасці+ць">
+        <Variant id="a" pravapis="A2008" lemma="расснасці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="165365">{b}расснасці´ць{/b} {i}зак.{/i},расснашчу´, -а´сціць {i}і{/i} расснашчу´, -асці´ць, -асціце´ /// v10{sup}1{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">расснасці+ць</Form>
             <Form tag="F1S">расснашчу+</Form>

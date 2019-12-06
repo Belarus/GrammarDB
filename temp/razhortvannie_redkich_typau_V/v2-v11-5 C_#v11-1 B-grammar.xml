@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1226153" lemma="прырадні+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="прырадні+цца">
+        <Variant id="a" pravapis="A2008" lemma="прырадні+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="155725">{b}прырадні´цца{/b}* {i}зак.{/i}, прырадню´ся, -ро´дніцца {i}і{/i} прырадню´ся, -ні´цца, -ніце´ся ({i}прырасці{/i}, {i}адчуць роднасць{/i}) /// v11{sup}5{/sup} C/#v11{sup}1{/sup} B/</Slounik>
             <Form tag="0">прырадні+цца</Form>
             <Form tag="F1S">прырадню+ся</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228524" lemma="ужыццяві+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="ужыццяві+цца">
+        <Variant id="a" pravapis="A2008" lemma="ужыццяві+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="194603">{b}ужыццяві´цца{/b} {i}зак.{/i}, ужыццёвіцца {i}і{/i} ужыццяві´цца /// v11{sup}5{/sup} C/#v11{sup}1{/sup} B/</Slounik>
             <Form tag="0">ужыццяві+цца</Form>
             <Form tag="F1S">ужыццяўлю+ся</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228525" lemma="ужыццяві+ць" tag="VTPNX" meaning="ажыццявіць што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="ужыццяві+ць">
+        <Variant id="a" pravapis="A2008" lemma="ужыццяві+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="194604">{b}ужыццяві´ць{/b} {i}зак.{/i}, ужыццяўлю´, -цёвіць {i}і{/i} ужыццяўлю´, -цяві´ць, -цевіце´ /// v11{sup}5{/sup} C/#v11{sup}1{/sup} B/</Slounik>
             <Form tag="0">ужыццяві+ць</Form>
             <Form tag="F1S">ужыццяўлю+</Form>

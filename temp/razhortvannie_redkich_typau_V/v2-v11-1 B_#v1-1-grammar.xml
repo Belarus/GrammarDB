@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1214738" lemma="абсмыле+ць" tag="VIPNX" meaning="пакрыцца ранамі, сінякамі">
-        <Variant id="a" pravapis="A2008" lemma="абсмыле+ць">
+        <Variant id="a" pravapis="A2008" lemma="абсмыле+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="3375">{b}абсмыле´ць{/b} {i}зак.{/i}, абсмылі´ць {i}і{/i} абсмыле´е /// v11{sup}1{/sup} B/#v1{sup}1{/sup}</Slounik>
             <Form tag="0">абсмыле+ць</Form>
             <Form tag="F1S">абсмылю+</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1215464" lemma="адсмыле+ць" tag="VIPNX">
-        <Variant id="a" pravapis="A2008" lemma="адсмыле+ць">
+        <Variant id="a" pravapis="A2008" lemma="адсмыле+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="9453">{b}адсмыле´ць{/b} {i}зак.{/i}, адсмылі´ць {i}і{/i} адсмыле´е /// v11{sup}1{/sup} B/#v1{sup}1{/sup}</Slounik>
             <Form tag="0">адсмыле+ць</Form>
             <Form tag="F1S">адсмылю+</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224261" lemma="пасмыле+ць" tag="VIPNX" meaning="пабалець, патрывожыць, памучыць (ногі пасмылелі і перасталі); пагарэць без полымя (корч пасмылеў)">
-        <Variant id="a" pravapis="A2008" lemma="пасмыле+ць">
+        <Variant id="a" pravapis="A2008" lemma="пасмыле+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="134604">{b}пасмыле´ць{/b}* {i}зак.{/i}, пасмылі´ць {i}і{/i} пасмыле´е /// v11{sup}1{/sup} B/#v1{sup}1{/sup}</Slounik>
             <Form tag="0">пасмыле+ць</Form>
             <Form tag="F1S">пасмылю+</Form>

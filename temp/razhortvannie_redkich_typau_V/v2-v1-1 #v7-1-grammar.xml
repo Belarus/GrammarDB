@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1216954" lemma="вы+пелескацца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="вы+пелескацца">
+        <Variant id="a" pravapis="A2008" lemma="вы+пелескацца" type="nonstandard">
             <Slounik name="piskunou2012" idx="36922">{b}вы´пелескацца{/b}* {i}зак.{/i}, вы´пелескаецца {i}і{/i} вы´пелешчацца /// v1{sup}1{/sup}#v7{sup}1{/sup}</Slounik>
             <Form tag="0">вы+пелескацца</Form>
             <Form tag="F1S">вы+пелескаюся</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1216955" lemma="вы+пелескаць" tag="VTPNX" meaning="выпаласкаць што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="вы+пелескаць">
+        <Variant id="a" pravapis="A2008" lemma="вы+пелескаць" type="nonstandard">
             <Slounik name="piskunou2012" idx="36923">{b}вы´пелескаць{/b}* {i}зак.{/i}, вы´пелескаю, -ае {i}і{/i} вы´пелешчу, -шча /// v1{sup}1{/sup}#v7{sup}1{/sup}</Slounik>
             <Form tag="0">вы+пелескаць</Form>
             <Form tag="F1S">вы+пелескаю</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1217161" lemma="вы+сукацца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="вы+сукацца">
+        <Variant id="a" pravapis="A2008" lemma="вы+сукацца" type="nonstandard">
             <Slounik name="piskunou2012" idx="38461">{b}вы´сукацца{/b} {i}зак.{/i}, высукаецца {i}і{/i} высучацца /// v1{sup}1{/sup}#v7{sup}1{/sup}</Slounik>
             <Form tag="0">вы+сукацца</Form>
             <Form tag="F1S">вы+сукаюся</Form>

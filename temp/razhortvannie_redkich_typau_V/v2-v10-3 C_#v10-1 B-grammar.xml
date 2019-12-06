@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1215058" lemma="аглядзе+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="аглядзе+ць">
+        <Variant id="a" pravapis="A2008" lemma="аглядзе+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="5418">{b}аглядзе´ць{/b} {i}зак.{/i}, агляджу´, -ле´дзі´ць {i}і{/i} агляджу´, -лядзі´ць, -ледзіце´ /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">аглядзе+ць</Form>
             <Form tag="F1S">агляджу+</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1220037" lemma="зглядзе+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="зглядзе+ць">
+        <Variant id="a" pravapis="A2008" lemma="зглядзе+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="69880">{b}зглядзе´ць{/b}* {i}зак.{/i}, згляджу´, -ле´дзі´ць {i}і{/i} згляджу´, -лядзі´ць, -ледзіце´ /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">зглядзе+ць</Form>
             <Form tag="F1S">згляджу+</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1220515" lemma="зрашаці+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="зрашаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="зрашаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="73262">{b}зрашаці´ць{/b} {i}зак.{/i}, зрашачу´, -шэ´ціць {i}і{/i} зрашачу´, -аці´ць, -аціце´ /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">зрашаці+ць</Form>
             <Form tag="F1S">зрашачу+</Form>
@@ -58,7 +58,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224480" lemma="пацверазі+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="пацверазі+цца">
+        <Variant id="a" pravapis="A2008" lemma="пацверазі+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="137516">{b}пацверазі´цца{/b}* {i}зак.{/i}, пацверажу´ся, -вярэ´зіцца {i}і{/i} пацверажу´ся, -азі´цца, -азіце´ся /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">пацверазі+цца</Form>
             <Form tag="F1S">пацверажу+ся</Form>
@@ -77,7 +77,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224481" lemma="пацверазі+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="пацверазі+ць">
+        <Variant id="a" pravapis="A2008" lemma="пацверазі+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="137517">{b}пацверазі´ць{/b}* {i}зак.{/i}, пацверажу´, -вярэ´зіць {i}і{/i} пацверажу´, -азі´ць, -азіце´ /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">пацверазі+ць</Form>
             <Form tag="F1S">пацверажу+</Form>
@@ -96,7 +96,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1227159" lemma="рашаці+цца" tag="VIMRX">
-        <Variant id="a" pravapis="A2008" lemma="рашаці+цца">
+        <Variant id="a" pravapis="A2008" lemma="рашаці+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="166840">{b}рашаці´цца{/b} {i}незак.{/i}, рашэ´ціцца {i}і{/i} рашаці´цца /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">рашаці+цца</Form>
             <Form tag="R1S">рашачу+ся</Form>
@@ -115,7 +115,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1227160" lemma="рашаці+ць" tag="VTXNX">
-        <Variant id="a" pravapis="A2008" lemma="рашаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="рашаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="166841">{b}рашаці´ць{/b}, рашачу´, -шэ´ціць {i}і{/i} рашачу´, -аці´ць, -аціце´ /// v10{sup}3{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">рашаці+ць</Form>
             <Form tag="R1S">рашачу+</Form>

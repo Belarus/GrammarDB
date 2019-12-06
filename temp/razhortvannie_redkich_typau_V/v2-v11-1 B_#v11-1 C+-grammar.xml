@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1215954" lemma="аскладні+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="аскладні+цца">
+        <Variant id="a" pravapis="A2008" lemma="аскладні+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="17379">{b}аскладні´цца{/b} {i}зак.{/i}, аскладні´цца {i}і{/i} аскла´дніцца /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">аскладні+цца</Form>
             <Form tag="F1S">аскладню+ся</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1216418" lemma="буйні+ць" tag="VTMNX" meaning="павялічваць, рабіць каго-небудзь, што-небудзь буйнейшым">
-        <Variant id="a" pravapis="A2008" lemma="буйні+ць">
+        <Variant id="a" pravapis="A2008" lemma="буйні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="27215">{b}буйні´ць{/b} {i}незак.{/i}, буйню´, -ні´ць, -ніце´ {i}і{/i} буйню´, бу´йніць /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">буйні+ць</Form>
             <Form tag="R1S">буйню+</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1230098" lemma="ясні+ць" tag="VTMNX">
-        <Variant id="a" pravapis="A2008" lemma="ясні+ць">
+        <Variant id="a" pravapis="A2008" lemma="ясні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="218027">{b}ясні´ць{/b}* {i}незак.{/i}, ясню´, ясні´ць, ясніце´ {i}і{/i} ясню´, я´сніць ({i}ярка асвятляць{/i}) /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">ясні+ць</Form>
             <Form tag="R1S">ясню+</Form>
@@ -58,7 +58,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1218325" lemma="з'ясні+ць" tag="VTPNX" meaning="патлумачыць, зрабіць што-небудзь зразумелым">
-        <Variant id="a" pravapis="A2008" lemma="з'ясні+ць">
+        <Variant id="a" pravapis="A2008" lemma="з'ясні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="73978">{b}з’ясні´ць{/b} {i}зак.{/i}, з’ясню´, -ні´ць, -ніце´ {i}і{/i} з’ясню´, -з’я´сні´ць /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">з'ясні+ць</Form>
             <Form tag="F1S">з'ясню+</Form>
@@ -77,7 +77,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1215232" lemma="аддымі+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="аддымі+цца">
+        <Variant id="a" pravapis="A2008" lemma="аддымі+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="6946">{b}аддымі´цца{/b} {i}зак.{/i}, аддымі´цца {i}і{/i} адды´міцца /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">аддымі+цца</Form>
             <Form tag="F1S">аддымлю+ся</Form>
@@ -96,7 +96,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1221644" lemma="надымі+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="надымі+цца">
+        <Variant id="a" pravapis="A2008" lemma="надымі+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="104337">{b}надымі´цца{/b}* {i}зак.{/i}, надымлю´ся, -мі´цца, -міце´ся {i}і{/i} надымлю´ся, -ы´міцца /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">надымі+цца</Form>
             <Form tag="F1S">надымлю+ся</Form>
@@ -115,7 +115,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222848" lemma="пад'ясні+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="пад'ясні+цца">
+        <Variant id="a" pravapis="A2008" lemma="пад'ясні+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="125897">{b}пад’ясні´цца{/b} {i}зак.{/i}, пад’ясні´цца {i}і{/i} пад’я´сніцца; {i}ПЧ{/i} -і´лася /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">пад'ясні+цца</Form>
             <Form tag="F1S">пад'ясню+ся</Form>
@@ -134,7 +134,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224711" lemma="перабуйні+ць" tag="VTPNX" meaning="зрабіць што-небудзь буйнейшым за належнае (перабуйніць клёцкі)">
-        <Variant id="a" pravapis="A2008" lemma="перабуйні+ць">
+        <Variant id="a" pravapis="A2008" lemma="перабуйні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="139300">{b}перабуйні´ць{/b}* {i}зак.{/i}, перабуйню´, -ні´ць, -ніце´ {i}і{/i} перабуйню´, -бу´йніць /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">перабуйні+ць</Form>
             <Form tag="F1S">перабуйню+</Form>
@@ -153,7 +153,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1225103" lemma="пераўскладні+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="пераўскладні+цца">
+        <Variant id="a" pravapis="A2008" lemma="пераўскладні+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="143047">{b}пераўскладні´цца{/b} {i}зак.{/i}, -складні´цца {i}і{/i} -скла´дніцца /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">пераўскладні+цца</Form>
             <Form tag="F1S">пераўскладню+ся</Form>
@@ -172,7 +172,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1225104" lemma="пераўскладні+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="пераўскладні+ць">
+        <Variant id="a" pravapis="A2008" lemma="пераўскладні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="143048">{b}пераўскладні´ць{/b} {i}зак.{/i}, -складню´, -ні´ць, -ніце´ {i}і{/i} -складню´, -скла´дніць /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">пераўскладні+ць</Form>
             <Form tag="F1S">пераўскладню+</Form>
@@ -191,7 +191,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1226511" lemma="раз'ясні+ць" tag="VTPNX" meaning="патлумачыць што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="раз'ясні+ць">
+        <Variant id="a" pravapis="A2008" lemma="раз'ясні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="163296">{b}раз’ясні´ць{/b} {i}зак.{/i}, раз’ясню´, -ні´ць, -ніце´ {i}і{/i} раз’ясню´, -я´сніць /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">раз'ясні+ць</Form>
             <Form tag="F1S">раз'ясню+</Form>
@@ -210,7 +210,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228370" lemma="убуйні+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="убуйні+цца">
+        <Variant id="a" pravapis="A2008" lemma="убуйні+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="193552">{b}убуйні´цца{/b} {i}зак.{/i}, убуйні´цца {i}і{/i} убу´йніцца /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">убуйні+цца</Form>
             <Form tag="F1S">убуйню+ся</Form>
@@ -229,7 +229,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228371" lemma="убуйні+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="убуйні+ць">
+        <Variant id="a" pravapis="A2008" lemma="убуйні+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="193553">{b}убуйні´ць{/b} {i}зак.{/i}, убуйню´, -ні´ць, -ніце´ {i}і{/i} убуйню´, убу´йніць /// v11{sup}1{/sup} B/#v11{sup}1{/sup} C/</Slounik>
             <Form tag="0">убуйні+ць</Form>
             <Form tag="F1S">убуйню+</Form>

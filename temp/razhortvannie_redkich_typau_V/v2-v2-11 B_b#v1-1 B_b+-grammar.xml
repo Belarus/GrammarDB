@@ -4,12 +4,12 @@
         <Variant id="a" pravapis="A2008" lemma="недалі+цца">
             <Slounik name="piskunou2012" idx="111515">{b}недалі´цца{/b} {i}зак.{/i}, недалье´цца {i}і{/i} недаліе´цца; {i}ПЧ{/i} -лі´ўся, -ліла´ся, -ліло´ся /// v2{sup}11{/sup} B/b#v1{sup}1{/sup} B/b</Slounik>
             <Form tag="0">недалі+цца</Form>
-            <Form tag="F1S">недалію+ся</Form>
-            <Form tag="F2S">недаліе+шся</Form>
+            <Form tag="F1S" type="potential">недалію+ся</Form>
+            <Form tag="F2S" type="potential">недаліе+шся</Form>
             <Form tag="F3S">недаліе+цца</Form>
-            <Form tag="F1P">недаліё+мся</Form>
+            <Form tag="F1P" type="potential">недаліё+мся</Form>
             <Form tag="F1P" type="nonstandard">недаліе+мся</Form>
-            <Form tag="F2P">недаліяце+ся</Form>
+            <Form tag="F2P" type="potential">недаліяце+ся</Form>
             <Form tag="F2P" type="nonstandard">недаліе+цеся</Form>
             <Form tag="F3P">недалію+цца</Form>
             <Form tag="PMS">недалі+ўся</Form>

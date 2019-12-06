@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1222946" lemma="падзалаці+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="падзалаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="падзалаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="122802">{b}падзалаці´ць{/b} {i}зак.{/i}, падзалачу´, -ло´ціць {i}і{/i} падзалачу´, -лаці´ць, -лаціце´ /// v10{sup}2{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">падзалаці+ць</Form>
             <Form tag="F1S">падзалачу+</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228542" lemma="узалаці+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="узалаці+цца">
+        <Variant id="a" pravapis="A2008" lemma="узалаці+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="194730">{b}узалаці´цца{/b}* {i}зак.{/i}, узалачу´ся, -ло´ціцца {i}і{/i} узалачу´ся, -лаці´цца, -лаціце´ся /// v10{sup}2{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">узалаці+цца</Form>
             <Form tag="F1S">узалачу+ся</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228543" lemma="узалаці+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="узалаці+ць">
+        <Variant id="a" pravapis="A2008" lemma="узалаці+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="194731">{b}узалаці´ць{/b}* {i}зак.{/i}, узалачу´, -ло´ціць {i}і{/i} узалачу´, -лаці´ць, -лаціце´ /// v10{sup}2{/sup} C/#v10{sup}1{/sup} B/</Slounik>
             <Form tag="0">узалаці+ць</Form>
             <Form tag="F1S">узалачу+</Form>

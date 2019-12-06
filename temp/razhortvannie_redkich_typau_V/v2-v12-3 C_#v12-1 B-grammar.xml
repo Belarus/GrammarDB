@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1215074" lemma="аграшы+ць" tag="VIPNX">
-        <Variant id="a" pravapis="A2008" lemma="аграшы+ць">
+        <Variant id="a" pravapis="A2008" lemma="аграшы+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="5673">{b}аграшы´ць{/b}* {i}зак.{/i}, аграшу´, -рэ´шыць і аграшу´, -шы´ць, -шыце´ /// v12{sup}3{/sup} C/#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">аграшы+ць</Form>
             <Form tag="F1S">аграшу+</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1215936" lemma="асерабры+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="асерабры+ць">
+        <Variant id="a" pravapis="A2008" lemma="асерабры+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="17190">{b}асерабры´ць{/b} {i}зак.{/i}, асерабру´, асярэ´брыць {i}і{/i} асерабру´, -ры´ць, -рыце´ /// v12{sup}3{/sup} C/#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">асерабры+ць</Form>
             <Form tag="F1S">асерабру+</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222294" lemma="недавяршы+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="недавяршы+ць">
+        <Variant id="a" pravapis="A2008" lemma="недавяршы+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="111333">{b}недавяршы´ць{/b} {i}зак.{/i}, недавяршу´, -ве´ршыць {i}і{/i} недавяршу´, -вяршы´ць, -вершыце´ /// v12{sup}3{/sup} C/#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">недавяршы+ць</Form>
             <Form tag="F1S">недавяршу+</Form>
@@ -58,7 +58,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222770" lemma="павяршы+ць" tag="VTPNX" meaning="закончыць, завяршыць што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="павяршы+ць">
+        <Variant id="a" pravapis="A2008" lemma="павяршы+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="121047">{b}павяршы´ць{/b}* {i}зак.{/i}, павяршу´, -ве´ршыць {i}і{/i} павяршу´, -вяршы´ць, -вершыце´ /// v12{sup}3{/sup} C/#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">павяршы+ць</Form>
             <Form tag="F1S">павяршу+</Form>
@@ -77,7 +77,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222824" lemma="паграшы+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="паграшы+цца">
+        <Variant id="a" pravapis="A2008" lemma="паграшы+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="121482">{b}паграшы´цца{/b} {i}зак.{/i}, паграшу´ся, -рэ´шыцца {i}і{/i} паграшу´ся, -шы´цца, -шыце´ся /// v12{sup}3{/sup} C/#v12{sup}1{/sup} B</Slounik>
             <Form tag="0">паграшы+цца</Form>
             <Form tag="F1S">паграшу+ся</Form>

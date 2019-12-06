@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1217810" lemma="далаўчы+цца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="далаўчы+цца">
+        <Variant id="a" pravapis="A2008" lemma="далаўчы+цца" type="nonstandard">
             <Slounik name="piskunou2012" idx="49351">{b}далаўчы´цца{/b}* {i}зак.{/i}, -лаўчу´ся, -чы´цца, -чыце´ся {i}і{/i} -лаўчу´ся, -ло´ўчыцца /// v12{sup}1{/sup} B/#v12{sup}2{/sup} C/</Slounik>
             <Form tag="0">далаўчы+цца</Form>
             <Form tag="F1S">далаўчу+ся</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229250" lemma="утанчы+ць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="утанчы+ць">
+        <Variant id="a" pravapis="A2008" lemma="утанчы+ць" type="nonstandard">
             <Slounik name="piskunou2012" idx="199370">{b}утанчы´ць{/b} {i}зак.{/i}, утанчу´, -чы´ць, -чыце´ {i}і{/i} утанчу´, уто´нчыць /// v12{sup}1{/sup} B/#v12{sup}2{/sup} C/</Slounik>
             <Form tag="0">утанчы+ць</Form>
             <Form tag="F1S">утанчу+</Form>

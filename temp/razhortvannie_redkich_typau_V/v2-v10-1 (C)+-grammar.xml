@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1215072" lemma="аграма+дзіцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="аграма+дзіцца">
+        <Variant id="a" pravapis="A2008" lemma="аграма+дзіцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="5587">{b}аграма´дзі´цца{/b} {i}зак.{/i}, аграма´дзіцца /// v10{sup}1{/sup} (C)</Slounik>
             <Form tag="0">аграма+дзіцца</Form>
             <Form tag="F1S">аграма+джуся</Form>
@@ -23,7 +23,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1220057" lemma="зграма+дзіцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="зграма+дзіцца">
+        <Variant id="a" pravapis="A2008" lemma="зграма+дзіцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="70001">{b}зграма´дзі´цца{/b} {i}зак.{/i}, -а´дзіцца /// v10{sup}1{/sup} (C)</Slounik>
             <Form tag="0">зграма+дзіцца</Form>
             <Form tag="F1S">зграма+джуся</Form>
@@ -45,7 +45,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1217607" lemma="грама+дзіцца" tag="VIMRX">
-        <Variant id="a" pravapis="A2008" lemma="грама+дзіцца">
+        <Variant id="a" pravapis="A2008" lemma="грама+дзіцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="46152">{b}грама´дзі´цца{/b}* {i}незак.{/i}, -а´дзіцца /// v10{sup}1{/sup} (C)</Slounik>
             <Form tag="0">грама+дзіцца</Form>
             <Form tag="R1S">грама+джуся</Form>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1222193" lemma="нача+дзіць" tag="VIPNX">
-        <Variant id="a" pravapis="A2008" lemma="нача+дзіць">
+        <Variant id="a" pravapis="A2008" lemma="нача+дзіць" type="nonstandard">
             <Slounik name="piskunou2012" idx="109543">{b}нача´дзі´ць{/b} {i}зак.{/i}, начаджу´, -ча´дзіць {i}і{/i} нача´джу, -дзіць /// v10{sup}1{/sup} C/#v10{sup}1{/sup}</Slounik>
             <Form tag="0">нача+дзіць</Form>
             <Form tag="F1S">нача+джу</Form>
@@ -23,7 +23,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229361" lemma="уча+дзіцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="уча+дзіцца">
+        <Variant id="a" pravapis="A2008" lemma="уча+дзіцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="199977">{b}уча´дзі´цца{/b} {i}зак.{/i}, учаджу´ся, уча´дзіцца {i}і{/i} уча´джуся, -дзіцца /// v10{sup}1{/sup} C/#v10{sup}1{/sup}</Slounik>
             <Form tag="0">уча+дзіцца</Form>
             <Form tag="F1S">уча+джуся</Form>
@@ -45,7 +45,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229362" lemma="уча+дзіць" tag="VTPNX" meaning="напоўніць, пакрыць дымам што-небудзь">
-        <Variant id="a" pravapis="A2008" lemma="уча+дзіць">
+        <Variant id="a" pravapis="A2008" lemma="уча+дзіць" type="nonstandard">
             <Slounik name="piskunou2012" idx="199978">{b}уча´дзі´ць{/b} {i}зак.{/i}, учаджу´, уча´дзіць {i}і{/i} уча´джу, -дзіць /// v10{sup}1{/sup} C/#v10{sup}1{/sup}</Slounik>
             <Form tag="0">уча+дзіць</Form>
             <Form tag="F1S">уча+джу</Form>
@@ -67,7 +67,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229705" lemma="ча+дзіць" tag="VIMNX" meaning="куродымець, курэць, вылучаць пры гарэнні чад">
-        <Variant id="a" pravapis="A2008" lemma="ча+дзіць">
+        <Variant id="a" pravapis="A2008" lemma="ча+дзіць" type="nonstandard">
             <Slounik name="piskunou2012" idx="208662">{b}ча´дзі´ць{/b} {i}незак.{/i}, чаджу´, ча´дзіць {i}і{/i} чаджу´, -дзіць /// v10{sup}1{/sup} C/#v10{sup}1{/sup}</Slounik>
             <Form tag="0">ча+дзіць</Form>
             <Form tag="R1S">ча+джу</Form>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1215308" lemma="адкра+сціся" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="адкра+сціся">
+        <Variant id="a" pravapis="A2008" lemma="адкра+сціся" type="nonstandard">
             <Slounik name="piskunou2012" idx="7552">{b}адкра´сціся{/b}* {i}зак.{/i}, адкраду´ся, -адзе´шся, -адзяце´ся, -аду´цца {i}і{/i} адкра´дуся, -а´дзецца, -а´дуцца ({i}цішком адлучыцца ад кампаніі і пад.{/i}) /// v9{sup}25{/sup} B/#v9{sup}25{/sup}</Slounik>
             <Form tag="0">адкра+сціся</Form>
-            <Form tag="F1S">адкра+дуся</Form>
-            <Form tag="F2S">адкра+дзешся</Form>
-            <Form tag="F3S">адкра+дзецца</Form>
-            <Form tag="F1P">адкра+дзёмся</Form>
-            <Form tag="F2P">адкра+дзяцеся</Form>
-            <Form tag="F3P">адкра+дуцца</Form>
+            <Form tag="F1S">адкраду+ся</Form>
+            <Form tag="F2S">адкрадзе+шся</Form>
+            <Form tag="F3S">адкрадзе+цца</Form>
+            <Form tag="F1P">адкрадзё+мся</Form>
+            <Form tag="F2P">адкрадзяце+ся</Form>
+            <Form tag="F3P">адкраду+цца</Form>
             <Form tag="PMS">адкра+ўся</Form>
             <Form tag="PFS">адкра+лася</Form>
             <Form tag="PNS">адкра+лася</Form>
@@ -20,7 +20,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1215743" lemma="акра+сці" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="акра+сці">
+        <Variant id="a" pravapis="A2008" lemma="акра+сці" type="nonstandard">
             <Slounik name="piskunou2012" idx="11721">{b}акра´сці{/b}* {i}зак.{/i}, акраду´, -адзе´, -адзяце´, -аду´ць {i}і{/i} акра´ду, -а´дзе, -а´дуць ({i}абакрасці{/i}) /// v9{sup}25{/sup} B/#v9{sup}25{/sup}</Slounik>
             <Form tag="0">акра+сці</Form>
             <Form tag="F1S">акраду+</Form>
@@ -39,7 +39,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1225958" lemma="прыкра+сці" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="прыкра+сці">
+        <Variant id="a" pravapis="A2008" lemma="прыкра+сці" type="nonstandard">
             <Slounik name="piskunou2012" idx="154451">{b}прыкра´сці{/b} {i}зак.{/i}, прыкраду´, -адзе´, -адзяце´, -аду´ць {i}і{/i} прыкра´ду, -а´дзе, -а´дуць /// v9{sup}25{/sup} B/#v9{sup}25{/sup}</Slounik>
             <Form tag="0">прыкра+сці</Form>
             <Form tag="F1S">прыкраду+</Form>

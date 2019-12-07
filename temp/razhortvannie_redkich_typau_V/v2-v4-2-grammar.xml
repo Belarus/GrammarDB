@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
-            <Form tag="0">анкерава+ць</Form>
-            <Form tag="R1S">анкеру+ю</Form>
-            <Form tag="R2S">анкеру+еш</Form>
-            <Form tag="R3S">анкеру+е</Form>
-            <Form tag="R1P">анкеру+ем</Form>
-            <Form tag="R2P">анкеру+еце</Form>
-            <Form tag="R3P">анкеру+юць</Form>
-            <Form tag="PMS">анкерава+ў</Form>
-            <Form tag="PFS">анкерава+ла</Form>
-            <Form tag="PNS">анкерава+ла</Form>
-            <Form tag="PXP">анкерава+лі</Form>
-            <Form tag="I2S">анкеру+й</Form>
-            <Form tag="I2P">анкеру+йце</Form>
-            <Form tag="RG">анкеру+ючы</Form>
+    <Paradigm pdgId="1215821" lemma="анкерава+ць" tag="VTPNX" meaning="накладваць анафему на каго-небудзь">
+        <Variant id="a" lemma="анкерава+ць">
+            <Slounik name="piskunou2012" idx="13968">{b}анкерава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, -ру´ю, -ру´е /// v4{sup}2{/sup}</Slounik>
+            <Form tag="0">анкерава+ць</FoFm>
+            <Form tag="F1S">анкеру+ю</FoFm>
+            <Form tag="F2S">анкеру+еш</FoFm>
+            <Form tag="F3S">анкеру+е</FoFm>
+            <Form tag="F1P">анкеру+ем</FoFm>
+            <Form tag="F2P">анкеру+еце</FoFm>
+            <Form tag="F3P">анкеру+юць</FoFm>
+            <Form tag="PMS">анкерава+ў</FoFm>
+            <Form tag="PFS">анкерава+ла</FoFm>
+            <Form tag="PNS">анкерава+ла</FoFm>
+            <Form tag="PXP">анкерава+лі</FoFm>
+            <Form tag="I2S">анкеру+й</FoFm>
+            <Form tag="I2P">анкеру+йце</FoFm>
+            <Form tag="FG">анкерава+ўшы</FoFm>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1215821" lemma="анкерава+ць" tag="VTPNX" meaning="замацаваць (замацоўваць) канструкцыю пэўным чынам">
+    <Paradigm pdgId="1313116" lemma="анкерава+ць" tag="VTMNX" meaning="замацаваць (замацоўваць) канструкцыю пэўным чынам">
         <Variant id="a" pravapis="A2008" lemma="анкерава+ць">
             <Slounik name="piskunou2012" idx="13968">{b}анкерава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, -ру´ю, -ру´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">анкерава+ць</Form>
@@ -56,8 +57,9 @@
             <Form tag="PG">атаксава+ўшы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313193" lemma="дэзынфектава+ць" tag="VTMNX">
+        <Variant id="a" lemma="дэзынфектава+ць">
+            <Slounik name="piskunou2012" idx="56249">{b}дэзынфектава´ць{/b} {i}зак.{/i} {i}і{/i} {i}незак.{/i}, {i}неал.{/i}, -ту´ю, -ту´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">дэзынфектава+ць</Form>
             <Form tag="R1S">дэзынфекту+ю</Form>
             <Form tag="R2S">дэзынфекту+еш</Form>
@@ -245,24 +247,6 @@
             <Form tag="PG">набанкетава+ўшы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
-            <Form tag="0">недаінвестава+ць</Form>
-            <Form tag="F1S">недаінвесту+ю</Form>
-            <Form tag="F2S">недаінвесту+еш</Form>
-            <Form tag="F3S">недаінвесту+е</Form>
-            <Form tag="F1P">недаінвесту+ем</Form>
-            <Form tag="F2P">недаінвесту+еце</Form>
-            <Form tag="F3P">недаінвесту+юць</Form>
-            <Form tag="PMS">недаінвестава+ў</Form>
-            <Form tag="PFS">недаінвестава+ла</Form>
-            <Form tag="PNS">недаінвестава+ла</Form>
-            <Form tag="PXP">недаінвестава+лі</Form>
-            <Form tag="I2S">недаінвесту+й</Form>
-            <Form tag="I2P">недаінвесту+йце</Form>
-            <Form tag="PG">недаінвестава+ўшы</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1222312" lemma="недаінвестава+ць" tag="VTPNX">
         <Variant id="a" pravapis="A2008" lemma="недаінвестава+ць">
             <Slounik name="piskunou2012" idx="111430">{b}недаінвестава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, -ту´ю, -ту´е /// v4{sup}2{/sup}</Slounik>
@@ -280,24 +264,6 @@
             <Form tag="I2S">недаінвесту+й</Form>
             <Form tag="I2P">недаінвесту+йце</Form>
             <Form tag="PG">недаінвестава+ўшы</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
-            <Form tag="0">недаінвестава+ць</Form>
-            <Form tag="R1S">недаінвесту+ю</Form>
-            <Form tag="R2S">недаінвесту+еш</Form>
-            <Form tag="R3S">недаінвесту+е</Form>
-            <Form tag="R1P">недаінвесту+ем</Form>
-            <Form tag="R2P">недаінвесту+еце</Form>
-            <Form tag="R3P">недаінвесту+юць</Form>
-            <Form tag="PMS">недаінвестава+ў</Form>
-            <Form tag="PFS">недаінвестава+ла</Form>
-            <Form tag="PNS">недаінвестава+ла</Form>
-            <Form tag="PXP">недаінвестава+лі</Form>
-            <Form tag="I2S">недаінвесту+й</Form>
-            <Form tag="I2P">недаінвесту+йце</Form>
-            <Form tag="RG">недаінвесту+ючы</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222405" lemma="нікелява+ць" tag="VTMNX" meaning="пакрываць паверхню чаго-небудзь нікелем">
@@ -376,8 +342,9 @@
             <Form tag="RG">пасеру+ючыся</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313350" lemma="пасерава+ць" tag="VTMNX" meaning="падвергнуць (падвяргаць) што-небудзь цеплавой апрацоўцы">
+        <Variant id="a" lemma="пасерава+ць">
+            <Slounik name="piskunou2012" idx="134124">{b}пасерава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, {i}кул.{/i}, -серу´ю, -серу´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">пасерава+ць</Form>
             <Form tag="R1S">пасеру+ю</Form>
             <Form tag="R2S">пасеру+еш</Form>
@@ -489,8 +456,9 @@
             <Form tag="PG">прашпегава+ўшы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313395" lemma="рэканвертава+ць" tag="VTMNX">
+        <Variant id="a" lemma="рэканвертава+ць">
+            <Slounik name="piskunou2012" idx="169248">{b}рэканвертава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, -ту´ю, -ту´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">рэканвертава+ць</Form>
             <Form tag="R1S">рэканверту+ю</Form>
             <Form tag="R2S">рэканверту+еш</Form>
@@ -545,8 +513,9 @@
             <Form tag="RG">рэферу+ючыся</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313412" lemma="рэферава+ць" tag="VTMNX">
+        <Variant id="a" lemma="рэферава+ць">
+            <Slounik name="piskunou2012" idx="169972">{b}рэферава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, -ру´ю, -ру´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">рэферава+ць</Form>
             <Form tag="R1S">рэферу+ю</Form>
             <Form tag="R2S">рэферу+еш</Form>
@@ -601,8 +570,9 @@
             <Form tag="PG">рэінфектава+ўшы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313392" lemma="рэінфектава+ць" tag="VTMNX">
+        <Variant id="a" lemma="рэінфектава+ць">
+            <Slounik name="piskunou2012" idx="169145">{b}рэінфектава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, {i}неал.{/i}, -ту´ю, -ту´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">рэінфектава+ць</Form>
             <Form tag="R1S">рэінфекту+ю</Form>
             <Form tag="R2S">рэінфекту+еш</Form>
@@ -657,8 +627,9 @@
             <Form tag="PG">спрэзентава+ўшы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313442" lemma="суспензава+ць" tag="VTMNX" meaning="прывесці (прыводзіць) цвёрдыя рэчывы ў завіслы стан">
+        <Variant id="a" lemma="суспензава+ць">
+            <Slounik name="piskunou2012" idx="185521">{b}суспензава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, -зу´ю, -зу´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">суспензава+ць</Form>
             <Form tag="R1S">суспензу+ю</Form>
             <Form tag="R2S">суспензу+еш</Form>
@@ -789,8 +760,9 @@
             <Form tag="RG">шулеру+ючы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313247" lemma="інверсава+ць" tag="VTMNX">
+        <Variant id="a" lemma="інверсава+ць">
+            <Slounik name="piskunou2012" idx="75209">{b}інверсава´ць{/b} {i}зак.{/i} і {i}незак.{/i}, {i}лінгв.{/i}, -су´ю, -су´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">інверсава+ць</Form>
             <Form tag="R1S">інверсу+ю</Form>
             <Form tag="R2S">інверсу+еш</Form>
@@ -845,8 +817,9 @@
             <Form tag="PG">інфектава+ўшы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="0" lemma="а..." tag="FF">
-        <Variant id="a" lemma="а...">
+    <Paradigm pdgId="1313258" lemma="інфектава+ць" tag="VTMNX">
+        <Variant id="a" lemma="інфектава+ць">
+            <Slounik name="piskunou2012" idx="76224">{b}інфектава´ць{/b} {i}зак.{/i} {i}і{/i} {i}незак.{/i}, {i}неал.{/i}, -ту´ю, -ту´е /// v4{sup}2{/sup}</Slounik>
             <Form tag="0">інфектава+ць</Form>
             <Form tag="R1S">інфекту+ю</Form>
             <Form tag="R2S">інфекту+еш</Form>

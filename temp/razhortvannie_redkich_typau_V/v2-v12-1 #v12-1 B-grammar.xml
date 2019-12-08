@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1219747" lemma="заю+рыцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="заю+рыцца">
+        <Variant id="a" pravapis="A2008" lemma="заю+рыцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="68072">{b}заю´ры´цца{/b}* {i}зак.{/i}, заю´руся, -рыцца {i}і{/i} заюру´ся, -ры´цца, -рыце´ся ({i}страсна ўзяцца за што-н.; прыйсці ў моцны рух{/i}) /// v12{sup}1{/sup}#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">заю+рыцца</Form>
             <Form tag="F1S">заю+руся</Form>
@@ -17,9 +17,6 @@
             <Form tag="I2S">заю+рся</Form>
             <Form tag="I2P">заю+рцеся</Form>
             <Form tag="PG">заю+рыўшыся</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="заюры+цца">
-            <Slounik name="piskunou2012" idx="68072">{b}заю´ры´цца{/b}* {i}зак.{/i}, заю´руся, -рыцца {i}і{/i} заюру´ся, -ры´цца, -рыце´ся ({i}страсна ўзяцца за што-н.; прыйсці ў моцны рух{/i}) /// v12{sup}1{/sup}#v12{sup}1{/sup} B/</Slounik>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1219748" lemma="заю+рыць" tag="VIPNX" meaning="страсна ўзяцца за што-небудзь, прыйсці ў моцны рух">
@@ -45,7 +42,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1226510" lemma="раз'ю+рыцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="раз'ю+рыцца">
+        <Variant id="a" pravapis="A2008" lemma="раз'ю+рыцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="163249">{b}раз’ю´ры´цца{/b}* {i}зак.{/i}, раз’ю´руся, -рыцца {i}і{/i} раз’юру´ся, -ры´цца, -рыце´ся /// v12{sup}1{/sup}#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">раз'ю+рыцца</Form>
             <Form tag="F1S">раз'ю+руся</Form>
@@ -61,9 +58,6 @@
             <Form tag="I2S">раз'ю+рся</Form>
             <Form tag="I2P">раз'ю+рцеся</Form>
             <Form tag="PG">раз'ю+рыўшыся</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="раз'юры+цца">
-            <Slounik name="piskunou2012" idx="163249">{b}раз’ю´ры´цца{/b}* {i}зак.{/i}, раз’ю´руся, -рыцца {i}і{/i} раз’юру´ся, -ры´цца, -рыце´ся /// v12{sup}1{/sup}#v12{sup}1{/sup} B/</Slounik>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1227944" lemma="стра+шыцца" tag="VIMRX">
@@ -89,7 +83,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1228530" lemma="уз'ю+рыцца" tag="VIPRX">
-        <Variant id="a" pravapis="A2008" lemma="уз'ю+рыцца">
+        <Variant id="a" pravapis="A2008" lemma="уз'ю+рыцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="195741">{b}уз’ю´ры´цца{/b}* {i}зак.{/i}, уз’ю´руся, -рыцца {i}і{/i} уз’юру´ся, -ры´цца, -рыце´ся /// v12{sup}1{/sup}#v12{sup}1{/sup} B/</Slounik>
             <Form tag="0">уз'ю+рыцца</Form>
             <Form tag="F1S">уз'ю+руся</Form>
@@ -105,9 +99,6 @@
             <Form tag="I2S">уз'ю+рся</Form>
             <Form tag="I2P">уз'ю+рцеся</Form>
             <Form tag="PG">уз'ю+рыўшыся</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="уз'юры+цца">
-            <Slounik name="piskunou2012" idx="195741">{b}уз’ю´ры´цца{/b}* {i}зак.{/i}, уз’ю´руся, -рыцца {i}і{/i} уз’юру´ся, -ры´цца, -рыце´ся /// v12{sup}1{/sup}#v12{sup}1{/sup} B/</Slounik>
         </Variant>
     </Paradigm>
 </Wordlist>

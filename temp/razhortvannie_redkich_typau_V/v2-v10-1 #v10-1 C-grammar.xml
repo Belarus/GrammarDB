@@ -40,9 +40,6 @@
             <Form tag="I2P">зану+дзьце</Form>
             <Form tag="PG">зану+дзіўшы</Form>
         </Variant>
-        <Variant id="b" pravapis="A2008" lemma="занудзі+ць">
-            <Slounik name="piskunou2012" idx="63918">{b}зану´дзі´ць{/b} {i}зак.{/i}, {i}з{/i}ану´джу, -дзіць {i}і{/i} зануджу´, -у´дзіць ({i}засмуціць{/i}; {i}безас.{/i}: {i}выклікаць млоснасць{/i}) /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
-        </Variant>
     </Paradigm>
     <Paradigm pdgId="1220443" lemma="зну+дзіцца" tag="VIPRX">
         <Variant id="a" pravapis="A2008" lemma="зну+дзіцца" type="nonstandard">
@@ -66,28 +63,6 @@
             <Slounik name="piskunou2012" idx="72829">{b}зну´дзі´цца{/b} {i}зак.{/i}, зну´джуся, -дзіцца {i}і{/i} знуджу´ся, -у´дзіцца /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1220444" lemma="зну+дзіць" tag="VTPNX">
-        <Variant id="a" pravapis="A2008" lemma="зну+дзіць" type="nonstandard">
-            <Slounik name="piskunou2012" idx="72830">{b}зну´дзі´ць{/b} {i}зак.{/i}, {i}з{/i}ну´джу, -дзіць {i}і{/i} знуджу´, -у´дзіць ({i}змаркоціць; занядбаць{/i}; {i}безас.{/i}: {i}званітаваць{/i}) /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
-            <Form tag="0">зну+дзіць</Form>
-            <Form tag="F1S">зну+джу</Form>
-            <Form tag="F2S">зну+дзіш</Form>
-            <Form tag="F3S">зну+дзіць</Form>
-            <Form tag="F1P">зну+дзім</Form>
-            <Form tag="F2P">зну+дзіце</Form>
-            <Form tag="F3P">зну+дзяць</Form>
-            <Form tag="PMS">зну+дзіў</Form>
-            <Form tag="PFS">зну+дзіла</Form>
-            <Form tag="PNS">зну+дзіла</Form>
-            <Form tag="PXP">зну+дзілі</Form>
-            <Form tag="I2S">зну+дзь</Form>
-            <Form tag="I2P">зну+дзьце</Form>
-            <Form tag="PG">зну+дзіўшы</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="знудзі+ць">
-            <Slounik name="piskunou2012" idx="72830">{b}зну´дзі´ць{/b} {i}зак.{/i}, {i}з{/i}ну´джу, -дзіць {i}і{/i} знуджу´, -у´дзіць ({i}змаркоціць; занядбаць{/i}; {i}безас.{/i}: {i}званітаваць{/i}) /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1221859" lemma="нану+дзіцца" tag="VIPRX">
         <Variant id="a" pravapis="A2008" lemma="нану+дзіцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="106240">{b}нану´дзі´цца{/b} {i}зак.{/i}, нану´джуся, -дзіцца {i}і{/i} нануджу´ся, ну´дзіцца /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
@@ -105,9 +80,6 @@
             <Form tag="I2S">нану+дзься</Form>
             <Form tag="I2P">нану+дзьцеся</Form>
             <Form tag="PG">нану+дзіўшыся</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="нанудзі+цца">
-            <Slounik name="piskunou2012" idx="106240">{b}нану´дзі´цца{/b} {i}зак.{/i}, нану´джуся, -дзіцца {i}і{/i} нануджу´ся, ну´дзіцца /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1222418" lemma="ну+дзіць" tag="VDMNX" meaning="нудзіць каго-небудзь (мяне нудзіць) і без прамога дапаўнення (ён нудзіць)">
@@ -154,28 +126,6 @@
             <Slounik name="piskunou2012" idx="130482">{b}пану´дзі´цца{/b} {i}зак.{/i}, пану´джуся, -дзіцца {i}і{/i} пануджу´ся, -у´дзіцца /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1223836" lemma="пану+дзіць" tag="VIPNX">
-        <Variant id="a" pravapis="A2008" lemma="пану+дзіць" type="nonstandard">
-            <Slounik name="piskunou2012" idx="130483">{b}пану´дзі´ць{/b} {i}зак.{/i}, пану´джу, -дзіць {i}і{/i} пануджу´, -у´дзіць ({i}пасумаваць; пабыць у нудзе; безас.{/i}: {i}пра стан млоснасці{/i}) /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
-            <Form tag="0">пану+дзіць</Form>
-            <Form tag="F1S">пану+джу</Form>
-            <Form tag="F2S">пану+дзіш</Form>
-            <Form tag="F3S">пану+дзіць</Form>
-            <Form tag="F1P">пану+дзім</Form>
-            <Form tag="F2P">пану+дзіце</Form>
-            <Form tag="F3P">пану+дзяць</Form>
-            <Form tag="PMS">пану+дзіў</Form>
-            <Form tag="PFS">пану+дзіла</Form>
-            <Form tag="PNS">пану+дзіла</Form>
-            <Form tag="PXP">пану+дзілі</Form>
-            <Form tag="I2S">пану+дзь</Form>
-            <Form tag="I2P">пану+дзьце</Form>
-            <Form tag="PG">пану+дзіўшы</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="панудзі+ць">
-            <Slounik name="piskunou2012" idx="130483">{b}пану´дзі´ць{/b} {i}зак.{/i}, пану´джу, -дзіць {i}і{/i} пануджу´, -у´дзіць ({i}пасумаваць; пабыць у нудзе; безас.{/i}: {i}пра стан млоснасці{/i}) /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1224959" lemma="перану+дзіцца" tag="VIPRX">
         <Variant id="a" pravapis="A2008" lemma="перану+дзіцца" type="nonstandard">
             <Slounik name="piskunou2012" idx="141643">{b}перану´дзі´цца{/b}* {i}зак.{/i}, перану´джуся, -дзіцца {i}і{/i} перануджу´ся, -у´дзіцца /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
@@ -192,10 +142,7 @@
             <Form tag="PXP">перану+дзіліся</Form>
             <Form tag="I2S">перану+дзься</Form>
             <Form tag="I2P">перану+дзьцеся</Form>
-            <Form tag="PG">перану+дзіўшыся</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="перанудзі+цца">
-            <Slounik name="piskunou2012" idx="141643">{b}перану´дзі´цца{/b}* {i}зак.{/i}, перану´джуся, -дзіцца {i}і{/i} перануджу´ся, -у´дзіцца /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
+            <Form tag="PG">перанудзі+ўшыся</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1224960" lemma="перану+дзіць" tag="VDPNX" meaning="перацярпець што-небудзь (перанудзіць зіму) і без прамога дапаўнення">
@@ -215,9 +162,6 @@
             <Form tag="I2S">перану+дзь</Form>
             <Form tag="I2P">перану+дзьце</Form>
             <Form tag="PG">перану+дзіўшы</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="перанудзі+ць">
-            <Slounik name="piskunou2012" idx="141644">{b}перану´дзі´ць{/b}* {i}зак.{/i}, перану´джу, -дзіць {i}і{/i} перануджу´, -у´дзіць /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1225538" lemma="прану+дзіцца" tag="VIPRX">
@@ -260,9 +204,6 @@
             <Form tag="I2P">прану+дзьце</Form>
             <Form tag="PG">прану+дзіўшы</Form>
         </Variant>
-        <Variant id="b" pravapis="A2008" lemma="пранудзі+ць">
-            <Slounik name="piskunou2012" idx="150231">{b}прану´дзі´ць{/b}* {i}зак.{/i}, прану´джу, -дзіць {i}і{/i} прануджу´, -у´дзіць /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
-        </Variant>
     </Paradigm>
     <Paradigm pdgId="1226069" lemma="прыну+дзіцца" tag="VIPRX">
         <Variant id="a" pravapis="A2008" lemma="прыну+дзіцца" type="nonstandard">
@@ -281,9 +222,6 @@
             <Form tag="I2S">прыну+дзься</Form>
             <Form tag="I2P">прыну+дзьцеся</Form>
             <Form tag="PG">прыну+дзіўшыся</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="прынудзі+цца">
-            <Slounik name="piskunou2012" idx="155231">{b}прыну´дзі´цца{/b}* {i}зак.{/i}, прыну´джуся, -дзіцца {i}і{/i} прынуджу´ся, -у´дзіцца ({i}стаць нудным{/i}) /// v10{sup}1{/sup}#v10{sup}1{/sup} C/</Slounik>
         </Variant>
     </Paradigm>
 </Wordlist>

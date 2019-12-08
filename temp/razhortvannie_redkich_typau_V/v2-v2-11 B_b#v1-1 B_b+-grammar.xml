@@ -16,8 +16,8 @@
             <Form tag="PFS">недалі+лася</Form>
             <Form tag="PNS">недалі+лася</Form>
             <Form tag="PXP">недалі+ліся</Form>
-            <Form tag="I2S">недалі+ся</Form>
-            <Form tag="I2P">недалі+цеся</Form>
+            <Form tag="I2S" type="potential">недалі+ся</Form>
+            <Form tag="I2P" type="potential">недалі+цеся</Form>
             <Form tag="PG">недалі+ўшыся</Form>
         </Variant>
     </Paradigm>

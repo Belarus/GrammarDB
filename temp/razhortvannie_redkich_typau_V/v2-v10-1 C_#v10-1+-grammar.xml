@@ -40,9 +40,6 @@
             <Form tag="I2P">уча+дзьцеся</Form>
             <Form tag="PG">уча+дзіўшыся</Form>
         </Variant>
-        <Variant id="b" pravapis="A2008" lemma="учадзі+цца">
-            <Slounik name="piskunou2012" idx="199977">{b}уча´дзі´цца{/b} {i}зак.{/i}, учаджу´ся, уча´дзіцца {i}і{/i} уча´джуся, -дзіцца /// v10{sup}1{/sup} C/#v10{sup}1{/sup}</Slounik>
-        </Variant>
     </Paradigm>
     <Paradigm pdgId="1229362" lemma="уча+дзіць" tag="VTPNX" meaning="напоўніць, пакрыць дымам што-небудзь">
         <Variant id="a" pravapis="A2008" lemma="уча+дзіць" type="nonstandard">
@@ -61,9 +58,6 @@
             <Form tag="I2S">уча+дзь</Form>
             <Form tag="I2P">уча+дзьце</Form>
             <Form tag="PG">уча+дзіўшы</Form>
-        </Variant>
-        <Variant id="b" pravapis="A2008" lemma="учадзі+ць">
-            <Slounik name="piskunou2012" idx="199978">{b}уча´дзі´ць{/b} {i}зак.{/i}, учаджу´, уча´дзіць {i}і{/i} уча´джу, -дзіць /// v10{sup}1{/sup} C/#v10{sup}1{/sup}</Slounik>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1229705" lemma="ча+дзіць" tag="VIMNX" meaning="куродымець, курэць, вылучаць пры гарэнні чад">

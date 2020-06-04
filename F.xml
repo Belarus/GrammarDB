@@ -140,7 +140,22 @@
             <Form tag="" slouniki="tsbm1984">аэра...</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1312404" lemma="аўта..." tag="FF">
+    <Paradigm pdgId="1312404" lemma="аўта..." tag="FF" meaning="аўтамабільны">
+        <Variant id="a" lemma="аўта..." pravapis="A1957,A2008">
+            <Form tag="" slouniki="tsbm1984">аўта...</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="аўта..." tag="FF" meaning="аўтаматычны">
+        <Variant id="a" lemma="аўта..." pravapis="A1957,A2008">
+            <Form tag="" slouniki="tsbm1984">аўта...</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="аўта..." tag="FF" meaning="самаходны">
+        <Variant id="a" lemma="аўта..." pravapis="A1957,A2008">
+            <Form tag="" slouniki="tsbm1984">аўта...</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="0" lemma="аўта..." tag="FF" meaning="свой, уласны">
         <Variant id="a" lemma="аўта..." pravapis="A1957,A2008">
             <Form tag="" slouniki="tsbm1984">аўта...</Form>
         </Variant>

@@ -37701,6 +37701,12 @@
             <Form tag="P" slouniki="krapivabr2012,sbm2012">па-саба+чаму</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1214251" lemma="па-кашэ+чы" tag="RA">
+        <Variant id="a" lemma="па-кашэ+чы" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="127586">{b}па-кашэ´чы{/b} /// ad1</Slounik>
+            <Form tag="P">па-кашэ+чы</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1204997" lemma="па-саба+чы" tag="RX">
         <Variant id="a" lemma="па-саба+чы" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="133919">{b}па-саба´чы{/b}* {i}прысл.{/i} /// </Slounik>
@@ -53384,7 +53390,11 @@
     </Paradigm>
     <Paradigm pdgId="1139929" lemma="ушы+ркі" tag="RX">
         <Variant id="a" lemma="ушы+ркі" pravapis="A1957">
+            <Slounik name="piskunou2012" idx="200245">{b}ушы´ркі´{/b} {i}прысл.{/i} /// </Slounik>
             <Form tag="P" slouniki="prym2009,tsbm1984">ушы+ркі</Form>
+        </Variant>
+        <Variant id="b" lemma="ушыркі+" pravapis="A1957">
+            <Slounik name="piskunou2012" idx="200245">{b}ушы´ркі´{/b} {i}прысл.{/i} /// </Slounik>
             <Form tag="P" slouniki="tsblm1996,sbm2012,krapivabr2012">ушыркі+</Form>
         </Variant>
     </Paradigm>
@@ -54572,7 +54582,12 @@
     </Paradigm>
     <Paradigm pdgId="1192860" lemma="ці+хенечка" tag="RX">
         <Variant id="a" lemma="ці+хенечка" pravapis="A1957,A2008">
+            <Slounik name="piskunou2012" idx="206988">{b}ці´хе´нечка{/b}* {i}прысл.{/i} /// </Slounik>
             <Form tag="P" slouniki="prym2009,krapivabr2012">ці+хенечка</Form>
+        </Variant>
+        <Variant id="b" lemma="ціхе+нечка" pravapis="A1957,A2008">
+            <Slounik name="piskunou2012" idx="206988">{b}ці´хе´нечка{/b}* {i}прысл.{/i} /// </Slounik>
+            <Form tag="P">ціхе+нечка</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1100483" lemma="ці+хенька" tag="RA">

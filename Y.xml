@@ -327,7 +327,11 @@
     </Paradigm>
     <Paradigm pdgId="1126847" lemma="га+йда" tag="Y">
         <Variant id="a" lemma="га+йда" pravapis="A1957, A2008">
+            <Slounik name="piskunou2012" idx="40678">{b}га´йда´{/b}* {i}выкл.{/i} /// </Slounik>
             <Form tag="" slouniki="sbm2012,krapivabr2012">га+йда</Form>
+        </Variant>
+        <Variant id="b" lemma="гайда+" pravapis="A1957, A2008">
+            <Slounik name="piskunou2012" idx="40678">{b}га´йда´{/b}* {i}выкл.{/i} /// </Slounik>
             <Form tag="" slouniki="tsblm1996,tsbm1984,krapivabr2012">гайда+</Form>
         </Variant>
     </Paradigm>

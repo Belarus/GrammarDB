@@ -16,6 +16,12 @@
             <Form tag="" slouniki="tsblm1996,krapivabr2012">абы+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1211018" lemma="абы+леб" tag="CSX">
+        <Variant id="a" lemma="абы+леб" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="4262">{b}абы´леб{/b}* {i}злучн.{/i} ({i}абы-хоць{/i}) /// </Slounik>
+            <Form tag="">абы+леб</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1126908" lemma="адна+к" tag="CKX">
         <Variant id="a" lemma="адна+к" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">адна+к</Form>
@@ -46,6 +52,24 @@
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">ажно+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1211019" lemma="ажну+ль" tag="CKX">
+        <Variant id="a" lemma="ажну+ль" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="10695">{b}ажну´ль{/b}* {i}злучн.{/i} /// </Slounik>
+            <Form tag="">ажну+ль</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211020" lemma="ажну+ць" tag="CKX">
+        <Variant id="a" lemma="ажну+ць" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="10696">{b}ажну´ць{/b}* {i}злучн.{/i} /// </Slounik>
+            <Form tag="">ажну+ць</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211021" lemma="ажны+" tag="CKX">
+        <Variant id="a" lemma="ажны+" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="10697">{b}ажны´{/b}* {i}злучн.{/i} /// </Slounik>
+            <Form tag="">ажны+</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1126912" lemma="але+" tag="CKX">
         <Variant id="a" lemma="але+" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,krapivabr2012">але+</Form>
@@ -62,9 +86,21 @@
             <Form tag="">альбо+...альбо+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1211022" lemma="ано+ж" tag="CKX">
+        <Variant id="a" lemma="ано+ж" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="14002">{b}ано´ж{/b}*{i}злучн.{/i} /// </Slounik>
+            <Form tag="">ано+ж</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1127120" lemma="а то" tag="CKX">
         <Variant id="a" lemma="а то" pravapis="A1957, A2008">
             <Form tag="">а то</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211023" lemma="а+чай" tag="CSX">
+        <Variant id="a" lemma="а+чай" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="20096">{b}а´чай{/b}* {i}злучн.{/i} ({i}хіба{/i}, {i}хоць{/i}) /// </Slounik>
+            <Form tag="">а+чай</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1198080" lemma="балазе+" tag="CSX" comment="другі тэг удакладніць">
@@ -307,6 +343,12 @@
             <Form tag="" slouniki="sbm2012,tsbm1984,krapivabr2012">по+кі</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1211024" lemma="про+шта" tag="CSX">
+        <Variant id="a" lemma="про+шта" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="152918">{b}про´шта{/b}* {i}злучн.{/i} ({i}як быццам{/i}, {i}нібы{/i}) /// </Slounik>
+            <Form tag="">про+шта</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1140042" lemma="прыты+м" tag="CKX">
         <Variant id="a" lemma="прыты+м" pravapis="A1957, A2008">
             <Slounik name="piskunou2012" idx="156706">{b}прыты´м{/b} {i}злучн.{/i} /// </Slounik>
@@ -365,14 +407,20 @@
             <Form tag="" slouniki="sbm2012,tsbm1984">то+-бок</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1127148" lemma="то+лькі" tag="CKX">
+        <Variant id="a" lemma="то+лькі" pravapis="A1957, A2008">
+            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">то+лькі</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1126955" lemma="то+лькі" tag="CSX">
         <Variant id="a" lemma="то+лькі" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">то+лькі</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127148" lemma="то+лькі" tag="CKX">
-        <Variant id="a" lemma="то+лькі" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">то+лькі</Form>
+    <Paradigm pdgId="1211025" lemma="ты+м" tag="CSX">
+        <Variant id="a" lemma="ты+м" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="192058">{b}тым{/b} {i}злучн.{/i} /// </Slounik>
+            <Form tag="">ты+м</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1126956" lemma="тым ча+сам, як" tag="CSX">
@@ -413,6 +461,12 @@
     <Paradigm pdgId="1126962" lemma="хоць бы" tag="CSX">
         <Variant id="a" lemma="хоць бы" pravapis="A1957, A2008">
             <Form tag="">хоць бы</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1211026" lemma="хо+цькі" tag="CSX">
+        <Variant id="a" lemma="хо+цькі" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="205488">{b}хо´цькі{/b}* {i}злучн.{/i} /// </Slounik>
+            <Form tag="">хо+цькі</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1126963" lemma="ці" tag="CKX">

@@ -168,6 +168,18 @@
             <Form tag="MLP" slouniki="prym2009">більё+нах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1230181" lemma="васемнаццацё+ра" tag="MAKS" type="nonstandard">
+        <Variant id="a" lemma="васемнаццацё+ра" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="30548">{b}васемнаццацёра{/b} {i}ліч.{/i}, {i}РМ{/i} васемнаццацяры´х, {i}Д{/i} -ы´м, {i}Т{/i} -ы´мі /// </Slounik>
+            <Form tag="PNP">васемнаццацё+ра</Form>
+            <Form tag="PGP">васемнаццацяры+х</Form>
+            <Form tag="PDP">васемнаццацяры+м</Form>
+            <Form tag="PAP">васемнаццацё+ра</Form>
+            <Form tag="PAP">васемнаццацяры+х</Form>
+            <Form tag="PIP">васемнаццацяры+мі</Form>
+            <Form tag="PLP">васемнаццацяры+х</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1127416" lemma="васьмёра" tag="MNKS" todo="націск о/ё рукамі">
         <Variant id="a" lemma="васьмёра" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="30650">{b}васьмёра{/b} {i}ліч.{/i}, {i}РМ{/i} -мяры´х, {i}Т{/i} -мяры´мі /// </Slounik>
@@ -1333,7 +1345,7 @@
         <Variant id="a" lemma="паўтара+-два+" pravapis="A2008">
             <Slounik name="piskunou2012" idx="136965">{b}паўтара´-два´{/b} {i}ліч.{/i}, паўтара´-дву´х ({i}для ж. роду –{/i} паўтары´-дзве´) /// </Slounik>
             <Slounik name="piskunou2012" idx="136991">{b}паўтары´-дзве´{/b} {i}ліч.{/i}, паўтары´-дзвю´х ({i}для м.{/i}, {i}н. родаў –{/i} паўтара´-два´) /// </Slounik>
-            <Form tag="MNS" >паўтара+-два+</Form>
+            <Form tag="MNS">паўтара+-два+</Form>
             <Form tag="MGS">паўтара+-дву+х</Form>
             <Form tag="MDS">паўтара+-дву+м</Form>
             <Form tag="MAS">паўтара+-два</Form>
@@ -1458,6 +1470,38 @@
             <Form tag="PAP" slouniki="prym2009">пятна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">пятна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">пятна+ццатых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1230190" lemma="пятнаццаціты+сячны" tag="MAOC">
+        <Variant id="a" lemma="пятнаццаціты+сячны" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="159581">{b}пятнаццаціты´сячны{/b} {i}ліч.{/i} /// </Slounik>
+            <Form tag="MNS">пятнаццаціты+сячны</Form>
+            <Form tag="MGS">пятнаццаціты+сячнага</Form>
+            <Form tag="MDS">пятнаццаціты+сячнаму</Form>
+            <Form tag="MAS">пятнаццаціты+сячнага</Form>
+            <Form tag="MAS">пятнаццаціты+сячны</Form>
+            <Form tag="MIS">пятнаццаціты+сячным</Form>
+            <Form tag="MLS">пятнаццаціты+сячным</Form>
+            <Form tag="FNS">пятнаццаціты+сячная</Form>
+            <Form tag="FGS">пятнаццаціты+сячнай</Form>
+            <Form tag="FDS">пятнаццаціты+сячнае</Form>
+            <Form tag="FAS">пятнаццаціты+сячную</Form>
+            <Form tag="FIS">пятнаццаціты+сячнай</Form>
+            <Form tag="FIS">пятнаццаціты+сячнаю</Form>
+            <Form tag="FLS">пятнаццаціты+сячнай</Form>
+            <Form tag="NNS">пятнаццаціты+сячнае</Form>
+            <Form tag="NGS">пятнаццаціты+сячнага</Form>
+            <Form tag="NDS">пятнаццаціты+сячнаму</Form>
+            <Form tag="NAS">пятнаццаціты+сячнае</Form>
+            <Form tag="NIS">пятнаццаціты+сячным</Form>
+            <Form tag="NLS">пятнаццаціты+сячным</Form>
+            <Form tag="PNP">пятнаццаціты+сячныя</Form>
+            <Form tag="PGP">пятнаццаціты+сячных</Form>
+            <Form tag="PDP">пятнаццаціты+сячным</Form>
+            <Form tag="PAP">пятнаццаціты+сячных</Form>
+            <Form tag="PAP">пятнаццаціты+сячныя</Form>
+            <Form tag="PIP">пятнаццаціты+сячнымі</Form>
+            <Form tag="PLP">пятнаццаціты+сячных</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127454" lemma="пятна+ццаць" tag="MNCS">
@@ -2685,6 +2729,31 @@
             <Form tag="PLP" slouniki="prym2009,sbm2012">трыццаці+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1230191" lemma="тры+-чаты+ры" tag="MNCS">
+        <Variant id="a" lemma="тры+-чаты+ры" pravapis="A2008">
+            <Slounik name="piskunou2012" idx="191240">{b}тры´-чаты´ры{/b} {i}ліч.{/i}, {i}РМ{/i} тро´х-чатыро´х /// </Slounik>
+            <Form tag="PNP">тры+-чаты+ры</Form>
+            <Form tag="PGP">тро+х-чатыро+х</Form>
+            <Form tag="PDP">тро+м-чатыро+м</Form>
+            <Form tag="PAP">тры+-чаты+ры</Form>
+            <Form tag="PAP">тро+х-чатыро+х</Form>
+            <Form tag="PIP">трыма+-чатырма+</Form>
+            <Form tag="PLP">тро+х-чатыро+х</Form>
+            <Form tag="NNP">тры+-чаты+ры</Form>
+            <Form tag="NGP">тро+х-чатыро+х</Form>
+            <Form tag="NDP">тро+м-чатыро+м</Form>
+            <Form tag="NAP">тро+х-чатыро+х</Form>
+            <Form tag="NIP">трыма+-чатырма+</Form>
+            <Form tag="NLP">тро+х-чатыро+х</Form>
+            <Form tag="FNP">тры+-чаты+ры</Form>
+            <Form tag="FGP">тро+х-чатыро+х</Form>
+            <Form tag="FDP">тро+м-чатыро+м</Form>
+            <Form tag="FAP">тро+х-чатыро+х</Form>
+            <Form tag="FAP">тры+-чаты+ры</Form>
+            <Form tag="FIP">трыма+-чатырма+</Form>
+            <Form tag="FLP">тро+х-чатыро+х</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1127488" lemma="трэ+ці" tag="MAOS">
         <Variant id="a" lemma="трэ+ці" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="191365">{b}трэ´ці{/b} /// ad3</Slounik>
@@ -3197,75 +3266,6 @@
             <Form tag="PAP" slouniki="prym2009" pravapis="A1957">шэсць</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасцю+</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці+</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1230190" lemma="пятнаццаціты+сячны" tag="MAOC">
-        <Variant id="a" lemma="пятнаццаціты+сячны" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="159581">{b}пятнаццаціты´сячны{/b} {i}ліч.{/i} /// </Slounik>
-            <Form tag="MNS">пятнаццаціты+сячны</Form>
-            <Form tag="MGS">пятнаццаціты+сячнага</Form>
-            <Form tag="MDS">пятнаццаціты+сячнаму</Form>
-            <Form tag="MAS">пятнаццаціты+сячнага</Form>
-            <Form tag="MAS">пятнаццаціты+сячны</Form>
-            <Form tag="MIS">пятнаццаціты+сячным</Form>
-            <Form tag="MLS">пятнаццаціты+сячным</Form>
-            <Form tag="FNS">пятнаццаціты+сячная</Form>
-            <Form tag="FGS">пятнаццаціты+сячнай</Form>
-            <Form tag="FDS">пятнаццаціты+сячнае</Form>
-            <Form tag="FAS">пятнаццаціты+сячную</Form>
-            <Form tag="FIS">пятнаццаціты+сячнай</Form>
-            <Form tag="FIS">пятнаццаціты+сячнаю</Form>
-            <Form tag="FLS">пятнаццаціты+сячнай</Form>
-            <Form tag="NNS">пятнаццаціты+сячнае</Form>
-            <Form tag="NGS">пятнаццаціты+сячнага</Form>
-            <Form tag="NDS">пятнаццаціты+сячнаму</Form>
-            <Form tag="NAS">пятнаццаціты+сячнае</Form>
-            <Form tag="NIS">пятнаццаціты+сячным</Form>
-            <Form tag="NLS">пятнаццаціты+сячным</Form>
-            <Form tag="PNP">пятнаццаціты+сячныя</Form>
-            <Form tag="PGP">пятнаццаціты+сячных</Form>
-            <Form tag="PDP">пятнаццаціты+сячным</Form>
-            <Form tag="PAP">пятнаццаціты+сячных</Form>
-            <Form tag="PAP">пятнаццаціты+сячныя</Form>
-            <Form tag="PIP">пятнаццаціты+сячнымі</Form>
-            <Form tag="PLP">пятнаццаціты+сячных</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1230191" lemma="тры+-чаты+ры" tag="MNCS">
-        <Variant id="a" lemma="тры+-чаты+ры" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="191240">{b}тры´-чаты´ры{/b} {i}ліч.{/i}, {i}РМ{/i} тро´х-чатыро´х /// </Slounik>
-            <Form tag="PNP">тры+-чаты+ры</Form>
-            <Form tag="PGP">тро+х-чатыро+х</Form>
-            <Form tag="PDP">тро+м-чатыро+м</Form>
-            <Form tag="PAP">тры+-чаты+ры</Form>
-            <Form tag="PAP">тро+х-чатыро+х</Form>
-            <Form tag="PIP">трыма+-чатырма+</Form>
-            <Form tag="PLP">тро+х-чатыро+х</Form>
-            <Form tag="NNP">тры+-чаты+ры</Form>
-            <Form tag="NGP">тро+х-чатыро+х</Form>
-            <Form tag="NDP">тро+м-чатыро+м</Form>
-            <Form tag="NAP">тро+х-чатыро+х</Form>
-            <Form tag="NIP">трыма+-чатырма+</Form>
-            <Form tag="NLP">тро+х-чатыро+х</Form>
-            <Form tag="FNP">тры+-чаты+ры</Form>
-            <Form tag="FGP">тро+х-чатыро+х</Form>
-            <Form tag="FDP">тро+м-чатыро+м</Form>
-            <Form tag="FAP">тро+х-чатыро+х</Form>
-            <Form tag="FAP">тры+-чаты+ры</Form>
-            <Form tag="FIP">трыма+-чатырма+</Form>
-            <Form tag="FLP">тро+х-чатыро+х</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1230181" lemma="васемнаццацё+ра" tag="MAKS" type="nonstandard">
-        <Variant id="a" lemma="васемнаццацё+ра" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="30548">{b}васемнаццацёра{/b} {i}ліч.{/i}, {i}РМ{/i} васемнаццацяры´х, {i}Д{/i} -ы´м, {i}Т{/i} -ы´мі /// </Slounik>
-            <Form tag="PNP">васемнаццацё+ра</Form>
-            <Form tag="PGP">васемнаццацяры+х</Form>
-            <Form tag="PDP">васемнаццацяры+м</Form>
-            <Form tag="PAP">васемнаццацё+ра</Form>
-            <Form tag="PAP">васемнаццацяры+х</Form>
-            <Form tag="PIP">васемнаццацяры+мі</Form>
-            <Form tag="PLP">васемнаццацяры+х</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127504" lemma="шэсцьдзяся+т" tag="MNCC">

@@ -752,8 +752,7 @@
         </Variant>
         <Variant id="b" lemma="ко+жын" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="85261">{b}ко´жын{/b}* {i}займ.{/i}, {i}м.{/i} ({i}гл.{/i} ко´жны) /// </Slounik>
-            <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ко+жны</Form>
-            <Form tag="MNS" slouniki="krapivabr2012,tsbm2016">ко+жын</Form>
+            <Form tag="MNS" slouniki="krapivabr2012">ко+жын</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">ко+жнага</Form>
             <Form tag="MDS" slouniki="prym2009">ко+жнаму</Form>
             <Form tag="MAS" slouniki="prym2009">ко+жнага</Form>
@@ -1985,65 +1984,66 @@
             <Form tag="0LP">тваі+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127843" lemma="той" tag="SAD0" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="той" pravapis="A1957,A2008">
-            <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">той</Form>
+    <Paradigm pdgId="1127843" lemma="то+й" tag="SAD0" todo="націск о/ё рукамі">
+        <e>Няправільны націск у форме т+ым: Націск не на галосную</e>
+        <Variant id="a" lemma="то+й" pravapis="A1957,A2008">
+            <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">то+й</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">таго+</Form>
             <Form tag="MDS" slouniki="prym2009,sbm2012">таму+</Form>
             <Form tag="MAS" slouniki="prym2009">таго+</Form>
-            <Form tag="MAS" slouniki="prym2009">той</Form>
-            <Form tag="MIS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">тым</Form>
-            <Form tag="MLS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">тым</Form>
+            <Form tag="MAS" slouniki="prym2009">то+й</Form>
+            <Form tag="MIS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
+            <Form tag="MLS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
             <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">та+я</Form>
-            <Form tag="FGS" slouniki="prym2009">той</Form>
-            <Form tag="FDS" slouniki="prym2009">той</Form>
+            <Form tag="FGS" slouniki="prym2009">то+й</Form>
+            <Form tag="FDS" slouniki="prym2009">то+й</Form>
             <Form tag="FAS" slouniki="prym2009">ту+ю</Form>
-            <Form tag="FIS" slouniki="prym2009">той</Form>
+            <Form tag="FIS" slouniki="prym2009">то+й</Form>
             <Form tag="FIS" slouniki="prym2009">то+ю</Form>
-            <Form tag="FLS" slouniki="prym2009">той</Form>
+            <Form tag="FLS" slouniki="prym2009">то+й</Form>
             <Form tag="NNS" slouniki="prym2009,tsbm2016,sbm2012">то+е</Form>
             <Form tag="NGS" slouniki="prym2009">таго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">таму+</Form>
             <Form tag="NAS" slouniki="prym2009">то+е</Form>
-            <Form tag="NIS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">тым</Form>
-            <Form tag="NLS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">тым</Form>
+            <Form tag="NIS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
+            <Form tag="NLS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
             <Form tag="0NP" slouniki="sbm2012,tsbm2016">ты+я</Form>
-            <Form tag="0GP">тых</Form>
-            <Form tag="0DP" slouniki="krapivabr2012,tsbm2016">тым</Form>
-            <Form tag="0AP">тых</Form>
+            <Form tag="0GP">ты+х</Form>
+            <Form tag="0DP" slouniki="krapivabr2012,tsbm2016">ты+м</Form>
+            <Form tag="0AP">ты+х</Form>
             <Form tag="0AP">ты+я</Form>
             <Form tag="0IP">ты+мі</Form>
-            <Form tag="0LP">тых</Form>
+            <Form tag="0LP">ты+х</Form>
         </Variant>
-        <Variant id="b" lemma="той" pravapis="A1957,A2008">
+        <Variant id="b" lemma="тэ+й" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="192464">{b}тэй{/b}* {i}займ.{/i}, {i}м.{/i} ({i}гл.{/i} той) /// </Slounik>
-            <Form tag="MNS">тэй</Form>
+            <Form tag="MNS">тэ+й</Form>
             <Form tag="MGS">таго+</Form>
             <Form tag="MDS">таму+</Form>
             <Form tag="MAS">таго+</Form>
-            <Form tag="MAS">тэй</Form>
-            <Form tag="MIS">тым</Form>
-            <Form tag="MLS">тым</Form>
+            <Form tag="MAS">тэ+й</Form>
+            <Form tag="MIS">ты+м</Form>
+            <Form tag="MLS">ты+м</Form>
             <Form tag="FNS">та+я</Form>
-            <Form tag="FGS">той</Form>
-            <Form tag="FDS">той</Form>
+            <Form tag="FGS">то+й</Form>
+            <Form tag="FDS">то+й</Form>
             <Form tag="FAS">ту+ю</Form>
-            <Form tag="FIS">той</Form>
+            <Form tag="FIS">то+й</Form>
             <Form tag="FIS">то+ю</Form>
-            <Form tag="FLS">той</Form>
+            <Form tag="FLS">то+й</Form>
             <Form tag="NNS">то+е</Form>
             <Form tag="NGS">таго+</Form>
             <Form tag="NDS">таму+</Form>
             <Form tag="NAS">то+е</Form>
-            <Form tag="NIS">тым</Form>
-            <Form tag="NLS">тым</Form>
+            <Form tag="NIS">ты+м</Form>
+            <Form tag="NLS">ты+м</Form>
             <Form tag="0NP">ты+я</Form>
-            <Form tag="0GP">тых</Form>
-            <Form tag="0DP">тым</Form>
-            <Form tag="0AP">тых</Form>
+            <Form tag="0GP">ты+х</Form>
+            <Form tag="0DP">ты+м</Form>
+            <Form tag="0AP">ты+х</Form>
             <Form tag="0AP">ты+я</Form>
             <Form tag="0IP">ты+мі</Form>
-            <Form tag="0LP">тых</Form>
+            <Form tag="0LP">ты+х</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1138972" lemma="той-сёй" tag="SAF0">
@@ -2562,12 +2562,12 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127828" lemma="што+-нішто+" tag="SNF0">
-        <Variant id="a" lemma="што-нішто+" pravapis="A1957,A2008">
+        <Variant id="a" lemma="што+-нішто+" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="213142">{b}што´-нішто´{/b} {i}займ.{/i}, {i}Р{/i} чаго´-нічаго´, {i}Д{/i} чаму´-нічаму´, {i}ТМ{/i} чым-нічы´м /// </Slounik>
             <Form tag="0NS" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">што+-нішто+</Form>
             <Form tag="0GS">чаго+-нічаго+</Form>
             <Form tag="0DS">чаму+-нічаму+</Form>
-            <Form tag="0AS">што-нішто+</Form>
+            <Form tag="0AS">што+-нішто+</Form>
             <Form tag="0IS">чы+м-нічы+м</Form>
             <Form tag="0LS">чы+м-нічы+м</Form>
         </Variant>

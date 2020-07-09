@@ -270,12 +270,11 @@
         <Variant id="a" lemma="Азі+д">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="NS">Азі+д</Form>
-            <Form tag="GS">Азі+ду</Form>
+            <Form tag="GS">Азі+да</Form>
             <Form tag="DS">Азі+ду</Form>
-            <Form tag="AS">Азі+д</Form>
+            <Form tag="AS">Азі+да</Form>
             <Form tag="IS">Азі+дам</Form>
             <Form tag="LS">Азі+дзе</Form>
-            <Form tag="LS">Азі+ду</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -354,9 +353,9 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Алабар">
             <Form tag="NS">Алабар</Form>
-            <Form tag="GS">Алабару</Form>
+            <Form tag="GS">Алабара</Form>
             <Form tag="DS">Алабару</Form>
-            <Form tag="AS">Алабар</Form>
+            <Form tag="AS">Алабара</Form>
             <Form tag="IS">Алабарам</Form>
             <Form tag="LS">Алабару</Form>
             <Form tag="NP"></Form>
@@ -921,14 +920,13 @@
             <Form tag="NS">Амі+н</Form>
             <Form tag="GS">Амі+на</Form>
             <Form tag="DS">Амі+ну</Form>
-            <Form tag="AS">Амі+н</Form>
+            <Form tag="AS">Амі+на</Form>
             <Form tag="IS">Амі+нам</Form>
             <Form tag="LS">Амі+не</Form>
-            <Form tag="LS">Амі+ну</Form>
             <Form tag="NP">Амі+ны</Form>
             <Form tag="GP">Амі+наў</Form>
             <Form tag="DP">Амі+нам</Form>
-            <Form tag="AP">Амі+ны</Form>
+            <Form tag="AP">Амі+наў</Form>
             <Form tag="IP">Амі+намі</Form>
             <Form tag="LP">Амі+нах</Form>
         </Variant>
@@ -1283,7 +1281,7 @@
             <Form tag="NS">Антэлій</Form>
             <Form tag="GS">Антэлія</Form>
             <Form tag="DS">Антэлію</Form>
-            <Form tag="AS">Антэлій</Form>
+            <Form tag="AS">Антэлія</Form>
             <Form tag="IS">Антэліем</Form>
             <Form tag="LS">Антэлію</Form>
             <Form tag="NP"></Form>
@@ -1349,12 +1347,11 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Аралкіл">
             <Form tag="NS">Аралкіл</Form>
-            <Form tag="GS">Аралкілу</Form>
+            <Form tag="GS">Аралкіла</Form>
             <Form tag="DS">Аралкілу</Form>
-            <Form tag="AS">Аралкіл</Form>
+            <Form tag="AS">Аралкіла</Form>
             <Form tag="IS">Аралкілам</Form>
             <Form tag="LS">Аралкіле</Form>
-            <Form tag="LS">Аралкілу</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -1683,12 +1680,11 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Аскафен">
             <Form tag="NS">Аскафен</Form>
-            <Form tag="GS">Аскафену</Form>
+            <Form tag="GS">Аскафена</Form>
             <Form tag="DS">Аскафену</Form>
             <Form tag="AS">Аскафен</Form>
             <Form tag="IS">Аскафенам</Form>
             <Form tag="LS">Аскафене</Form>
-            <Form tag="LS">Аскафену</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -2018,7 +2014,7 @@
             <Form tag="NS">Афелій</Form>
             <Form tag="GS">Афелія</Form>
             <Form tag="DS">Афелію</Form>
-            <Form tag="AS">Афелій</Form>
+            <Form tag="AS">Афелія</Form>
             <Form tag="IS">Афеліем</Form>
             <Form tag="LS">Афелію</Form>
             <Form tag="NP"></Form>
@@ -2326,13 +2322,13 @@
             <Form tag="NS" pravapis="A1957,A2008">Базыль</Form>
             <Form tag="GS" pravapis="A1957,A2008">Базыля</Form>
             <Form tag="DS" pravapis="A1957,A2008">Базылю</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Базыль</Form>
+            <Form tag="AS" pravapis="A1957,A2008">Базыля</Form>
             <Form tag="IS" pravapis="A1957,A2008">Базылём</Form>
             <Form tag="LS" pravapis="A1957,A2008">Базылю</Form>
             <Form tag="NP">Базылі</Form>
             <Form tag="GP">Базылёў</Form>
             <Form tag="DP">Базылям</Form>
-            <Form tag="AP">Базылі</Form>
+            <Form tag="AP">Базылёў</Form>
             <Form tag="IP">Базылямі</Form>
             <Form tag="LP">Базылях</Form>
         </Variant>
@@ -3039,7 +3035,7 @@
             <Form tag="NS">Ба+хус</Form>
             <Form tag="GS">Ба+хуса</Form>
             <Form tag="DS">Ба+хусу</Form>
-            <Form tag="AS">Ба+хус</Form>
+            <Form tag="AS">Ба+хуса</Form>
             <Form tag="IS">Ба+хусам</Form>
             <Form tag="LS">Ба+хусе</Form>
             <Form tag="NP"></Form>
@@ -3515,7 +3511,7 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Бензель">
             <Form tag="NS">Бензель</Form>
-            <Form tag="GS">Бензелю</Form>
+            <Form tag="GS">Бензеля</Form>
             <Form tag="DS">Бензелю</Form>
             <Form tag="AS">Бензель</Form>
             <Form tag="IS">Бензелем</Form>
@@ -3973,10 +3969,9 @@
             <Form tag="NS">Блумс</Form>
             <Form tag="GS">Блумса</Form>
             <Form tag="DS">Блумсу</Form>
-            <Form tag="AS">Блумс</Form>
+            <Form tag="AS">Блумса</Form>
             <Form tag="IS">Блумсам</Form>
             <Form tag="LS">Блумсе</Form>
-            <Form tag="LS">Блумсу</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -4038,12 +4033,11 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Блюм">
             <Form tag="NS">Блюм</Form>
-            <Form tag="GS">Блюму</Form>
+            <Form tag="GS">Блюма</Form>
             <Form tag="DS">Блюму</Form>
-            <Form tag="AS">Блюм</Form>
+            <Form tag="AS">Блюма</Form>
             <Form tag="IS">Блюмам</Form>
             <Form tag="LS">Блюме</Form>
-            <Form tag="LS">Блюму</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -4075,13 +4069,13 @@
             <Form tag="NS">Блюшчык</Form>
             <Form tag="GS">Блюшчыка</Form>
             <Form tag="DS">Блюшчыку</Form>
-            <Form tag="AS">Блюшчык</Form>
+            <Form tag="AS">Блюшчыка</Form>
             <Form tag="IS">Блюшчыкам</Form>
             <Form tag="LS">Блюшчыку</Form>
             <Form tag="NP">Блюшчыкі</Form>
             <Form tag="GP">Блюшчыкаў</Form>
             <Form tag="DP">Блюшчыкам</Form>
-            <Form tag="AP">Блюшчыкі</Form>
+            <Form tag="AP">Блюшчыкаў</Form>
             <Form tag="IP">Блюшчыкамі</Form>
             <Form tag="LP">Блюшчыках</Form>
         </Variant>
@@ -4191,10 +4185,9 @@
             <Form tag="NS">Борн</Form>
             <Form tag="GS">Бо+рна</Form>
             <Form tag="DS">Бо+рну</Form>
-            <Form tag="AS">Борн</Form>
+            <Form tag="AS">Борна</Form>
             <Form tag="IS">Бо+рнам</Form>
             <Form tag="LS">Бо+рне</Form>
-            <Form tag="LS">Бо+рну</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -4468,13 +4461,13 @@
             <Form tag="NS">Брыль</Form>
             <Form tag="GS">Брыля</Form>
             <Form tag="DS">Брылю</Form>
-            <Form tag="AS">Брыль</Form>
+            <Form tag="AS">Брыля</Form>
             <Form tag="IS">Брылём</Form>
             <Form tag="LS">Брылю</Form>
             <Form tag="NP">Брылі</Form>
             <Form tag="GP">Брылёў</Form>
             <Form tag="DP">Брылям</Form>
-            <Form tag="AP">Брылі</Form>
+            <Form tag="AP">Брылёў</Form>
             <Form tag="IP">Брылямі</Form>
             <Form tag="LP">Брылях</Form>
         </Variant>
@@ -5134,10 +5127,9 @@
             <Form tag="NS">Бязу+еў</Form>
             <Form tag="GS">Бязу+ева</Form>
             <Form tag="DS">Бязу+еву</Form>
-            <Form tag="AS">Бязу+еў</Form>
+            <Form tag="AS">Бязу+ева</Form>
             <Form tag="IS">Бязу+евым</Form>
             <Form tag="LS">Бязу+еве</Form>
-            <Form tag="LS">Бязу+еву</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -5725,15 +5717,15 @@
         <Variant id="a" lemma="Ва+льтар">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="NS">Ва+льтар</Form>
-            <Form tag="GS">Ва+льтару</Form>
+            <Form tag="GS">Ва+льтара</Form>
             <Form tag="DS">Ва+льтару</Form>
-            <Form tag="AS">Ва+льтар</Form>
+            <Form tag="AS">Ва+льтара</Form>
             <Form tag="IS">Ва+льтарам</Form>
             <Form tag="LS">Ва+льтару</Form>
             <Form tag="NP">Ва+льтары</Form>
             <Form tag="GP">Ва+льтараў</Form>
             <Form tag="DP">Ва+льтарам</Form>
-            <Form tag="AP">Ва+льтары</Form>
+            <Form tag="AP">Ва+льтараў</Form>
             <Form tag="IP">Ва+льтарамі</Form>
             <Form tag="LP">Ва+льтарах</Form>
         </Variant>
@@ -5778,9 +5770,9 @@
         <Variant id="a" lemma="Валяр'я+н">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="NS">Валяр'я+н</Form>
-            <Form tag="GS">Валяр'я+ну</Form>
+            <Form tag="GS">Валяр'я+на</Form>
             <Form tag="DS">Валяр'я+ну</Form>
-            <Form tag="AS">Валяр'я+н</Form>
+            <Form tag="AS">Валяр'я+на</Form>
             <Form tag="IS">Валяр'я+нам</Form>
             <Form tag="LS">Валяр'я+не</Form>
             <Form tag="LS">Валяр'я+ну</Form>
@@ -6338,13 +6330,13 @@
             <Form tag="NS">Вільчак</Form>
             <Form tag="GS">Вільчака</Form>
             <Form tag="DS">Вільчаку</Form>
-            <Form tag="AS">Вільчак</Form>
+            <Form tag="AS">Вільчака</Form>
             <Form tag="IS">Вільчаком</Form>
             <Form tag="LS">Вільчаку</Form>
             <Form tag="NP">Вільчакі</Form>
             <Form tag="GP">Вільчакоў</Form>
             <Form tag="DP">Вільчакам</Form>
-            <Form tag="AP">Вільчакі</Form>
+            <Form tag="AP">Вільчакоў</Form>
             <Form tag="IP">Вільчакамі</Form>
             <Form tag="LP">Вільчаках</Form>
         </Variant>
@@ -6666,13 +6658,13 @@
             <Form tag="NS">Во+рчык</Form>
             <Form tag="GS">Во+рчыка</Form>
             <Form tag="DS">Во+рчыку</Form>
-            <Form tag="AS">Во+рчык</Form>
+            <Form tag="AS">Во+рчыка</Form>
             <Form tag="IS">Во+рчыкам</Form>
             <Form tag="LS">Во+рчыку</Form>
             <Form tag="NP">Во+рчыкі</Form>
             <Form tag="GP">Во+рчыкаў</Form>
             <Form tag="DP">Во+рчыкам</Form>
-            <Form tag="AP">Во+рчыкі</Form>
+            <Form tag="AP">Во+рчыкаў</Form>
             <Form tag="IP">Во+рчыкамі</Form>
             <Form tag="LP">Во+рчыках</Form>
         </Variant>
@@ -7032,10 +7024,9 @@
             <Form tag="NS">Галат</Form>
             <Form tag="GS">Галата</Form>
             <Form tag="DS">Галату</Form>
-            <Form tag="AS">Галат</Form>
+            <Form tag="AS">Галата</Form>
             <Form tag="IS">Галатам</Form>
             <Form tag="LS">Галаце</Form>
-            <Form tag="LS">Галату</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -7163,10 +7154,9 @@
             <Form tag="NS">Гало+ўчын</Form>
             <Form tag="GS">Гало+ўчына</Form>
             <Form tag="DS">Гало+ўчыну</Form>
-            <Form tag="AS">Гало+ўчын</Form>
+            <Form tag="AS">Гало+ўчына</Form>
             <Form tag="IS">Гало+ўчыным</Form>
             <Form tag="LS">Гало+ўчыне</Form>
-            <Form tag="LS">Гало+ўчыну</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -7604,13 +7594,13 @@
             <Form tag="NS">Гарнушак</Form>
             <Form tag="GS">Гарнушка</Form>
             <Form tag="DS">Гарнушку</Form>
-            <Form tag="AS">Гарнушак</Form>
+            <Form tag="AS">Гарнушка</Form>
             <Form tag="IS">Гарнушкам</Form>
             <Form tag="LS">Гарнушку</Form>
             <Form tag="NP">Гарнушкі</Form>
-            <Form tag="GP">Гарнушкаў</Form>
+            <Form tag="GP">Гарнушак</Form>
             <Form tag="DP">Гарнушкам</Form>
-            <Form tag="AP">Гарнушкі</Form>
+            <Form tag="AP">Гарнушак</Form>
             <Form tag="IP">Гарнушкамі</Form>
             <Form tag="LP">Гарнушках</Form>
         </Variant>
@@ -7635,15 +7625,15 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Гартлінг">
             <Form tag="NS">Гартлінг</Form>
-            <Form tag="GS">Гартлінгу</Form>
+            <Form tag="GS">Гартлінга</Form>
             <Form tag="DS">Гартлінгу</Form>
-            <Form tag="AS">Гартлінг</Form>
+            <Form tag="AS">Гартлінга</Form>
             <Form tag="IS">Гартлінгам</Form>
             <Form tag="LS">Гартлінгу</Form>
             <Form tag="NP">Гартлінгі</Form>
             <Form tag="GP">Гартлінгаў</Form>
             <Form tag="DP">Гартлінгам</Form>
-            <Form tag="AP">Гартлінгі</Form>
+            <Form tag="AP">Гартлінгаў</Form>
             <Form tag="IP">Гартлінгамі</Form>
             <Form tag="LP">Гартлінгах</Form>
         </Variant>
@@ -7837,12 +7827,11 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Гафт">
             <Form tag="NS">Гафт</Form>
-            <Form tag="GS">Гафту</Form>
+            <Form tag="GS">Гафта</Form>
             <Form tag="DS">Гафту</Form>
-            <Form tag="AS">Гафт</Form>
+            <Form tag="AS">Гафта</Form>
             <Form tag="IS">Гафтам</Form>
             <Form tag="LS">Гафце</Form>
-            <Form tag="LS">Гафту</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -7926,7 +7915,7 @@
             <Form tag="DS">Гева+ру</Form>
             <Form tag="AS">Гева+ру</Form>
             <Form tag="IS">Гева+рам</Form>
-            <Form tag="LS">Гева+ры</Form>
+            <Form tag="LS">Гева+ру</Form>
             <Form tag="NP">Гева+ры</Form>
             <Form tag="GP">Гева+раў</Form>
             <Form tag="DP">Гева+рам</Form>
@@ -8644,10 +8633,9 @@
             <Form tag="NS">Глы+баў</Form>
             <Form tag="GS">Глы+бава</Form>
             <Form tag="DS">Глы+баву</Form>
-            <Form tag="AS">Глы+баў</Form>
+            <Form tag="AS">Глы+бава</Form>
             <Form tag="IS">Глы+бавым</Form>
             <Form tag="LS">Глы+баве</Form>
-            <Form tag="LS">Глы+баву</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -8845,14 +8833,13 @@
             <Form tag="NS">Го+ран</Form>
             <Form tag="GS">Го+рана</Form>
             <Form tag="DS">Го+рану</Form>
-            <Form tag="AS">Го+ран</Form>
+            <Form tag="AS">Го+рана</Form>
             <Form tag="IS">Го+ранам</Form>
             <Form tag="LS">Го+ране</Form>
-            <Form tag="LS">Го+рану</Form>
             <Form tag="NP">Го+раны</Form>
             <Form tag="GP">Го+ранаў</Form>
             <Form tag="DP">Го+ранам</Form>
-            <Form tag="AP">Го+раны</Form>
+            <Form tag="AP">Го+ранаў</Form>
             <Form tag="IP">Го+ранамі</Form>
             <Form tag="LP">Го+ранах</Form>
         </Variant>
@@ -8894,16 +8881,15 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Гоф">
             <Form tag="NS">Гоф</Form>
-            <Form tag="GS">Го+фу</Form>
+            <Form tag="GS">Го+фа</Form>
             <Form tag="DS">Го+фу</Form>
-            <Form tag="AS">Гоф</Form>
+            <Form tag="AS">Го+фа</Form>
             <Form tag="IS">Го+фам</Form>
             <Form tag="LS">Го+фе</Form>
-            <Form tag="LS">Го+фу</Form>
             <Form tag="NP">Го+фы</Form>
             <Form tag="GP">Го+фаў</Form>
             <Form tag="DP">Го+фам</Form>
-            <Form tag="AP">Го+фы</Form>
+            <Form tag="AP">Го+фаў</Form>
             <Form tag="IP">Го+фамі</Form>
             <Form tag="LP">Го+фах</Form>
         </Variant>
@@ -9351,7 +9337,7 @@
             <Form tag="NS" pravapis="A1957,A2008">Гутэнберг</Form>
             <Form tag="GS" pravapis="A1957,A2008">Гутэнберга</Form>
             <Form tag="DS" pravapis="A1957,A2008">Гутэнбергу</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Гутэнберг</Form>
+            <Form tag="AS" pravapis="A1957,A2008">Гутэнберга</Form>
             <Form tag="IS" pravapis="A1957,A2008">Гутэнбергам</Form>
             <Form tag="LS" pravapis="A1957,A2008">Гутэнбергу</Form>
             <Form tag="NP"></Form>
@@ -9457,8 +9443,8 @@
             <Form tag="GS">Дабры+ні</Form>
             <Form tag="DS">Дабры+ні</Form>
             <Form tag="AS">Дабры+ню</Form>
-            <Form tag="IS">Дабры+няй</Form>
-            <Form tag="LS">Дабры+ні</Form>
+            <Form tag="IS">Дабры+нем</Form>
+            <Form tag="LS">Дабры+ню</Form>
             <Form tag="NP">Дабры+ні</Form>
             <Form tag="GP">Дабры+няў</Form>
             <Form tag="DP">Дабры+ням</Form>
@@ -10313,14 +10299,13 @@
             <Form tag="NS">Джыгурсан</Form>
             <Form tag="GS">Джыгурсана</Form>
             <Form tag="DS">Джыгурсану</Form>
-            <Form tag="AS">Джыгурсан</Form>
+            <Form tag="AS">Джыгурсана</Form>
             <Form tag="IS">Джыгурсанам</Form>
             <Form tag="LS">Джыгурсане</Form>
-            <Form tag="LS">Джыгурсану</Form>
             <Form tag="NP">Джыгурсаны</Form>
             <Form tag="GP">Джыгурсанаў</Form>
             <Form tag="DP">Джыгурсанам</Form>
-            <Form tag="AP">Джыгурсаны</Form>
+            <Form tag="AP">Джыгурсанаў</Form>
             <Form tag="IP">Джыгурсанамі</Form>
             <Form tag="LP">Джыгурсанах</Form>
         </Variant>
@@ -10364,10 +10349,9 @@
             <Form tag="NS">Джын</Form>
             <Form tag="GS">Джына</Form>
             <Form tag="DS">Джыну</Form>
-            <Form tag="AS">Джын</Form>
+            <Form tag="AS">Джына</Form>
             <Form tag="IS">Джынам</Form>
             <Form tag="LS">Джыне</Form>
-            <Form tag="LS">Джыну</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -10836,15 +10820,17 @@
             <Form tag="NS" slouniki="tsbm2016" pravapis="A2008">Дзявя+тнік</Form>
             <Form tag="GS" pravapis="A2008">Дзявя+тніка</Form>
             <Form tag="DS" pravapis="A2008">Дзявя+тніку</Form>
-            <Form tag="AS" pravapis="A2008">Дзявя+тнік</Form>
+            <Form tag="AS" pravapis="A2008">Дзявя+тніка</Form>
             <Form tag="IS" pravapis="A2008">Дзявя+тнікам</Form>
             <Form tag="LS" pravapis="A2008">Дзявя+тніку</Form>
             <Form tag="NP" pravapis="A2008">Дзявя+тнікі</Form>
             <Form tag="GP" pravapis="A2008">Дзявя+тнікаў</Form>
             <Form tag="DP" pravapis="A2008">Дзявя+тнікам</Form>
-            <Form tag="AP" pravapis="A2008">Дзявя+тнікі</Form>
+            <Form tag="AP" pravapis="A2008">Дзявя+тнікаў</Form>
             <Form tag="IP" pravapis="A2008">Дзявя+тнікамі</Form>
             <Form tag="LP" pravapis="A2008">Дзявя+тніках</Form>
+        </Variant>
+        <Variant id="b" lemma="Дзевя+тнік">
             <Form tag="NS" slouniki="tsbm1984" pravapis="A1957">Дзевя+тнік</Form>
             <Form tag="GS" pravapis="A1957">Дзевя+тніка</Form>
             <Form tag="DS" pravapis="A1957">Дзевя+тніку</Form>
@@ -11292,13 +11278,13 @@
             <Form tag="NS">Ду+бчык</Form>
             <Form tag="GS">Ду+бчыка</Form>
             <Form tag="DS">Ду+бчыку</Form>
-            <Form tag="AS">Ду+бчык</Form>
+            <Form tag="AS">Ду+бчыка</Form>
             <Form tag="IS">Ду+бчыкам</Form>
             <Form tag="LS">Ду+бчыку</Form>
             <Form tag="NP">Ду+бчыкі</Form>
             <Form tag="GP">Ду+бчыкаў</Form>
             <Form tag="DP">Ду+бчыкам</Form>
-            <Form tag="AP">Ду+бчыкі</Form>
+            <Form tag="AP">Ду+бчыкаў</Form>
             <Form tag="IP">Ду+бчыкамі</Form>
             <Form tag="LP">Ду+бчыках</Form>
         </Variant>
@@ -11478,9 +11464,9 @@
         <e>Несупадаюць AS/GS</e>
         <Variant id="a" lemma="Дысней">
             <Form tag="NS">Дысней</Form>
-            <Form tag="GS">Дыснею</Form>
+            <Form tag="GS">Дыснея</Form>
             <Form tag="DS">Дыснею</Form>
-            <Form tag="AS">Дысней</Form>
+            <Form tag="AS">Дыснея</Form>
             <Form tag="IS">Дыснеем</Form>
             <Form tag="LS">Дыснею</Form>
             <Form tag="NP"></Form>
@@ -11567,12 +11553,11 @@
             <Note>Націск выстаўлены праз web/batch</Note>
             <Slounik name="piskunou2012" idx="56057">{b}Дэ´віс{/b}, {i}РВ{/i} -а: Ку´бак Дэ´віса /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Дэ+віс</Form>
-            <Form tag="GS">Дэ+вісу</Form>
+            <Form tag="GS">Дэ+віса</Form>
             <Form tag="DS">Дэ+вісу</Form>
-            <Form tag="AS">Дэ+віс</Form>
+            <Form tag="AS">Дэ+віса</Form>
             <Form tag="IS">Дэ+вісам</Form>
             <Form tag="LS">Дэ+вісе</Form>
-            <Form tag="LS">Дэ+вісу</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -13114,7 +13099,7 @@
             <Form tag="NS">Зальцбах</Form>
             <Form tag="GS">Зальцбаха</Form>
             <Form tag="DS">Зальцбаху</Form>
-            <Form tag="AS">Зальцбаха</Form>
+            <Form tag="AS">Зальцбах</Form>
             <Form tag="IS">Зальцбахам</Form>
             <Form tag="LS">Зальцбаху</Form>
             <Form tag="NP"></Form>
@@ -13196,7 +13181,7 @@
             <Form tag="DS">Зарату+стры</Form>
             <Form tag="AS">Зарату+стру</Form>
             <Form tag="IS">Зарату+страм</Form>
-            <Form tag="LS">Зарату+стры</Form>
+            <Form tag="LS">Зарату+стру</Form>
             <Form tag="NP">Зарату+стры</Form>
             <Form tag="GP">Зарату+страў</Form>
             <Form tag="DP">Зарату+страм</Form>
@@ -13509,7 +13494,7 @@
             <Form tag="NP">Зо+і</Form>
             <Form tag="GP">Зо+й</Form>
             <Form tag="DP">Зо+ям</Form>
-            <Form tag="AP">Зо+і</Form>
+            <Form tag="AP">Зо+й</Form>
             <Form tag="IP">Зо+ямі</Form>
             <Form tag="LP">Зо+ях</Form>
         </Variant>
@@ -14349,7 +14334,7 @@
             <Form tag="NP">Іры+ны</Form>
             <Form tag="GP">Іры+н</Form>
             <Form tag="DP">Іры+нам</Form>
-            <Form tag="AP">Іры+ны</Form>
+            <Form tag="AP">Іры+н</Form>
             <Form tag="IP">Іры+намі</Form>
             <Form tag="LP">Іры+нах</Form>
         </Variant>
@@ -15386,7 +15371,7 @@
             <Form tag="NP">Канты</Form>
             <Form tag="GP">Кантоў</Form>
             <Form tag="DP">Кантам</Form>
-            <Form tag="AP">Канты</Form>
+            <Form tag="AP">Кантаў</Form>
             <Form tag="IP">Кантамі</Form>
             <Form tag="LP">Кантах</Form>
         </Variant>
@@ -15397,13 +15382,13 @@
             <Form tag="NS">Канчук</Form>
             <Form tag="GS">Канчука</Form>
             <Form tag="DS">Канчуку</Form>
-            <Form tag="AS">Канчук</Form>
+            <Form tag="AS">Канчука</Form>
             <Form tag="IS">Канчуком</Form>
             <Form tag="LS">Канчуку</Form>
             <Form tag="NP">Канчукі</Form>
             <Form tag="GP">Канчукоў</Form>
             <Form tag="DP">Канчукам</Form>
-            <Form tag="AP">Канчукі</Form>
+            <Form tag="AP">Канчукоў</Form>
             <Form tag="IP">Канчукамі</Form>
             <Form tag="LP">Канчуках</Form>
         </Variant>
@@ -15679,10 +15664,9 @@
             <Form tag="NS">Карлштэйн</Form>
             <Form tag="GS">Карлштэйна</Form>
             <Form tag="DS">Карлштэйну</Form>
-            <Form tag="AS">Карлштэйн</Form>
+            <Form tag="AS">Карлштэйна</Form>
             <Form tag="IS">Карлштэйнам</Form>
             <Form tag="LS">Карлштэйне</Form>
-            <Form tag="LS">Карлштэйну</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -16005,7 +15989,7 @@
             <Form tag="NP">Касцю+шкі</Form>
             <Form tag="GP">Касцю+шак</Form>
             <Form tag="DP">Касцю+шкам</Form>
-            <Form tag="AP">Касцю+шкі</Form>
+            <Form tag="AP">Касцю+шак</Form>
             <Form tag="IP">Касцю+шкамі</Form>
             <Form tag="LP">Касцю+шках</Form>
         </Variant>
@@ -16193,7 +16177,7 @@
             <Form tag="NP">Кацяры+ны</Form>
             <Form tag="GP">Кацяры+н</Form>
             <Form tag="DP">Кацяры+нам</Form>
-            <Form tag="AP">Кацяры+ны</Form>
+            <Form tag="AP">Кацяры+н</Form>
             <Form tag="IP">Кацяры+намі</Form>
             <Form tag="LP">Кацяры+нах</Form>
         </Variant>
@@ -17308,7 +17292,7 @@
             <Form tag="NS">Крэй</Form>
             <Form tag="GS">Крэя</Form>
             <Form tag="DS">Крэю</Form>
-            <Form tag="AS">Крэй</Form>
+            <Form tag="AS">Крэя</Form>
             <Form tag="IS">Крэем</Form>
             <Form tag="LS">Крэю</Form>
             <Form tag="NP"></Form>
@@ -17686,7 +17670,7 @@
             <Form tag="DS">Купа+ле</Form>
             <Form tag="AS">Купа+лу</Form>
             <Form tag="IS">Купа+лам</Form>
-            <Form tag="LS">Купа+лу</Form>
+            <Form tag="LS">Купа+ле</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -17708,7 +17692,7 @@
             <Form tag="NP">Купа+лкі</Form>
             <Form tag="GP">Купа+лак</Form>
             <Form tag="DP">Купа+лкам</Form>
-            <Form tag="AP">Купа+лкі</Form>
+            <Form tag="AP">Купа+лак</Form>
             <Form tag="IP">Купа+лкамі</Form>
             <Form tag="LP">Купа+лках</Form>
         </Variant>
@@ -18088,15 +18072,15 @@
             <Form tag="NS">Лабрадо+р</Form>
             <Form tag="GS">Лабрадо+ра</Form>
             <Form tag="DS">Лабрадо+ру</Form>
-            <Form tag="AS">Лабрадо+ра</Form>
+            <Form tag="AS">Лабрадо+р</Form>
             <Form tag="IS">Лабрадо+рам</Form>
             <Form tag="LS">Лабрадо+ры</Form>
-            <Form tag="NP">Лабрадо+ры</Form>
-            <Form tag="GP">Лабрадо+раў</Form>
-            <Form tag="DP">Лабрадо+рам</Form>
-            <Form tag="AP">Лабрадо+раў</Form>
-            <Form tag="IP">Лабрадо+рамі</Form>
-            <Form tag="LP">Лабрадо+рах</Form>
+            <Form tag="NP" type="potential">Лабрадо+ры</Form>
+            <Form tag="GP" type="potential">Лабрадо+раў</Form>
+            <Form tag="DP" type="potential">Лабрадо+рам</Form>
+            <Form tag="AP" type="potential">Лабрадо+раў</Form>
+            <Form tag="IP" type="potential">Лабрадо+рамі</Form>
+            <Form tag="LP" type="potential">Лабрадо+рах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038281" lemma="Лаганец" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -18105,13 +18089,13 @@
             <Form tag="NS">Лаганец</Form>
             <Form tag="GS">Лаганца</Form>
             <Form tag="DS">Лаганцу</Form>
-            <Form tag="AS">Лаганец</Form>
+            <Form tag="AS">Лаганца</Form>
             <Form tag="IS">Лаганцом</Form>
             <Form tag="LS">Лаганцу</Form>
             <Form tag="NP">Лаганцы</Form>
             <Form tag="GP">Лаганцоў</Form>
             <Form tag="DP">Лаганцам</Form>
-            <Form tag="AP">Лаганцы</Form>
+            <Form tag="AP">Лаганцоў</Form>
             <Form tag="IP">Лаганцамі</Form>
             <Form tag="LP">Лаганцах</Form>
         </Variant>
@@ -18156,13 +18140,13 @@
             <Form tag="NS">Лагуне+ц</Form>
             <Form tag="GS">Лагунца+</Form>
             <Form tag="DS">Лагунцу+</Form>
-            <Form tag="AS">Лагуне+ц</Form>
+            <Form tag="AS">Лагунца+</Form>
             <Form tag="IS">Лагунцо+м</Form>
             <Form tag="LS">Лагунцу+</Form>
             <Form tag="NP">Лагунцы+</Form>
             <Form tag="GP">Лагунцо+ў</Form>
             <Form tag="DP">Лагунца+м</Form>
-            <Form tag="AP">Лагунцы+</Form>
+            <Form tag="AP">Лагунцо+ў</Form>
             <Form tag="IP">Лагунца+мі</Form>
             <Form tag="LP">Лагунца+х</Form>
         </Variant>
@@ -18601,9 +18585,9 @@
             <Form tag="IS">Ле+най</Form>
             <Form tag="LS">Ле+не</Form>
             <Form tag="NP">Ле+ны</Form>
-            <Form tag="GP">Ле+наў</Form>
+            <Form tag="GP">Ле+н</Form>
             <Form tag="DP">Ле+нам</Form>
-            <Form tag="AP">Ле+наў</Form>
+            <Form tag="AP">Ле+ны</Form>
             <Form tag="IP">Ле+намі</Form>
             <Form tag="LP">Ле+нах</Form>
         </Variant>
@@ -18683,15 +18667,15 @@
             <Form tag="NS">Лео+н</Form>
             <Form tag="GS">Лео+на</Form>
             <Form tag="DS">Лео+ну</Form>
-            <Form tag="AS">Лео+на</Form>
+            <Form tag="AS">Лео+н</Form>
             <Form tag="IS">Лео+нам</Form>
             <Form tag="LS">Лео+не</Form>
-            <Form tag="NP">Лео+ны</Form>
-            <Form tag="GP">Лео+наў</Form>
-            <Form tag="DP">Лео+нам</Form>
-            <Form tag="AP">Лео+наў</Form>
-            <Form tag="IP">Лео+намі</Form>
-            <Form tag="LP">Лео+нах</Form>
+            <Form tag="NP" type="potential">Лео+ны</Form>
+            <Form tag="GP" type="potential">Лео+наў</Form>
+            <Form tag="DP" type="potential">Лео+нам</Form>
+            <Form tag="AP" type="potential">Лео+ны</Form>
+            <Form tag="IP" type="potential">Лео+намі</Form>
+            <Form tag="LP" type="potential">Лео+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038302" lemma="Ле+пель" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -18925,7 +18909,7 @@
             <Form tag="NP">Лі+дзіі</Form>
             <Form tag="GP">Лі+дзій</Form>
             <Form tag="DP">Лі+дзіям</Form>
-            <Form tag="AP">Лі+дзіі</Form>
+            <Form tag="AP">Лі+дзій</Form>
             <Form tag="IP">Лі+дзіямі</Form>
             <Form tag="LP">Лі+дзіях</Form>
         </Variant>
@@ -19024,9 +19008,9 @@
             <Form tag="IS">Ліной</Form>
             <Form tag="LS">Ліне</Form>
             <Form tag="NP">Ліны</Form>
-            <Form tag="GP">Лінаў</Form>
+            <Form tag="GP">Лін</Form>
             <Form tag="DP">Лінам</Form>
-            <Form tag="AP">Ліны</Form>
+            <Form tag="AP">Лін</Form>
             <Form tag="IP">Лінамі</Form>
             <Form tag="LP">Лінах</Form>
         </Variant>
@@ -19123,9 +19107,9 @@
             <Form tag="NS" slouniki="krapivabr2012,tsbm2016,tsbm1984">Лінч</Form>
             <Form tag="GS">Лінча</Form>
             <Form tag="DS">Лінчу</Form>
-            <Form tag="AS">Лінч</Form>
+            <Form tag="AS">Лінча</Form>
             <Form tag="IS">Лінчам</Form>
-            <Form tag="LS">Лінчы</Form>
+            <Form tag="LS">Лінчу</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038272" lemma="Лі+пецк" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -19283,7 +19267,7 @@
             <Form tag="NS" pravapis="A1957,A2008">Ліхтэнштэ+йн</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ліхтэнштэ+йна</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ліхтэнштэ+йну</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Ліхтэнштэ+йна</Form>
+            <Form tag="AS" pravapis="A1957,A2008">Ліхтэнштэ+йн</Form>
             <Form tag="IS" pravapis="A1957,A2008">Ліхтэнштэ+йнам</Form>
             <Form tag="LS" pravapis="A1957,A2008">Ліхтэнштэ+йне</Form>
             <Form tag="NP"></Form>
@@ -19505,9 +19489,9 @@
             <Form tag="IS">Лукашэ+нкам</Form>
             <Form tag="LS">Лукашэ+нку</Form>
             <Form tag="NP">Лукашэ+нкі</Form>
-            <Form tag="GP">Лукашэ+нкаў</Form>
+            <Form tag="GP">Лукашэ+нак</Form>
             <Form tag="DP">Лукашэ+нкам</Form>
-            <Form tag="AP">Лукашэ+нкаў</Form>
+            <Form tag="AP">Лукашэ+нак</Form>
             <Form tag="IP">Лукашэ+нкамі</Form>
             <Form tag="LP">Лукашэ+нках</Form>
         </Variant>
@@ -19584,13 +19568,13 @@
             <Form tag="NS">Лучак</Form>
             <Form tag="GS">Лучака</Form>
             <Form tag="DS">Лучаку</Form>
-            <Form tag="AS">Лучак</Form>
+            <Form tag="AS">Лучака</Form>
             <Form tag="IS">Лучакам</Form>
             <Form tag="LS">Лучаку</Form>
             <Form tag="NP">Лучакі</Form>
             <Form tag="GP">Лучакаў</Form>
             <Form tag="DP">Лучакам</Form>
-            <Form tag="AP">Лучакі</Form>
+            <Form tag="AP">Лучакаў</Form>
             <Form tag="IP">Лучакамі</Form>
             <Form tag="LP">Лучаках</Form>
         </Variant>
@@ -19601,7 +19585,7 @@
             <Form tag="NS">Лушчак</Form>
             <Form tag="GS">Лушчака</Form>
             <Form tag="DS">Лушчаку</Form>
-            <Form tag="AS">Лушчак</Form>
+            <Form tag="AS">Лушчака</Form>
             <Form tag="IS">Лушчаком</Form>
             <Form tag="LS">Лушчаку</Form>
             <Form tag="NP"></Form>
@@ -19823,7 +19807,7 @@
             <Form tag="NP">Людмі+лы</Form>
             <Form tag="GP">Людмі+л</Form>
             <Form tag="DP">Людмі+лам</Form>
-            <Form tag="AP">Людмі+лы</Form>
+            <Form tag="AP">Людмі+л</Form>
             <Form tag="IP">Людмі+ламі</Form>
             <Form tag="LP">Людмі+лах</Form>
         </Variant>
@@ -20406,14 +20390,14 @@
             <Form tag="NS">Макдо+нальдс</Form>
             <Form tag="GS">Макдо+нальдса</Form>
             <Form tag="DS">Макдо+нальдсу</Form>
-            <Form tag="AS">Макдо+нальдс</Form>
+            <Form tag="AS">Макдо+нальдса</Form>
             <Form tag="IS">Макдо+нальдсам</Form>
             <Form tag="LS">Макдо+нальдсе</Form>
             <Form tag="LS">Макдо+нальдсу</Form>
             <Form tag="NP">Макдо+нальдсы</Form>
             <Form tag="GP">Макдо+нальдсаў</Form>
             <Form tag="DP">Макдо+нальдсам</Form>
-            <Form tag="AP">Макдо+нальдсы</Form>
+            <Form tag="AP">Макдо+нальдсаў</Form>
             <Form tag="IP">Макдо+нальдсамі</Form>
             <Form tag="LP">Макдо+нальдсах</Form>
         </Variant>
@@ -20868,9 +20852,9 @@
             <Form tag="IS">Маню+шкам</Form>
             <Form tag="LS">Маню+шку</Form>
             <Form tag="NP">Маню+шкі</Form>
-            <Form tag="GP">Маню+шкаў</Form>
+            <Form tag="GP">Маню+шак</Form>
             <Form tag="DP">Маню+шкам</Form>
-            <Form tag="AP">Маню+шкаў</Form>
+            <Form tag="AP">Маню+шак</Form>
             <Form tag="IP">Маню+шкамі</Form>
             <Form tag="LP">Маню+шках</Form>
         </Variant>
@@ -20974,7 +20958,7 @@
             <Form tag="NP">Маргары+ты</Form>
             <Form tag="GP">Маргары+т</Form>
             <Form tag="DP">Маргары+там</Form>
-            <Form tag="AP">Маргары+ты</Form>
+            <Form tag="AP">Маргары+т</Form>
             <Form tag="IP">Маргары+тамі</Form>
             <Form tag="LP">Маргары+тах</Form>
         </Variant>
@@ -21137,13 +21121,13 @@
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Марс</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ма+рса</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ма+рсу</Form>
-            <Form tag="AS" pravapis="A1957,A2008">Марс</Form>
+            <Form tag="AS" pravapis="A1957,A2008">Марса</Form>
             <Form tag="IS" pravapis="A1957,A2008">Ма+рсам</Form>
             <Form tag="LS" pravapis="A1957,A2008">Ма+рсе</Form>
             <Form tag="NP">Марсы</Form>
             <Form tag="GP">Марсаў</Form>
             <Form tag="DP">Марсам</Form>
-            <Form tag="AP">Марсы</Form>
+            <Form tag="AP">Марсаў</Form>
             <Form tag="IP">Марсамі</Form>
             <Form tag="LP">Марсах</Form>
         </Variant>
@@ -21346,10 +21330,9 @@
             <Form tag="NS">Марыньян</Form>
             <Form tag="GS">Марыньяна</Form>
             <Form tag="DS">Марыньяну</Form>
-            <Form tag="AS">Марыньян</Form>
+            <Form tag="AS">Марыньяна</Form>
             <Form tag="IS">Марыньянам</Form>
             <Form tag="LS">Марыньяне</Form>
-            <Form tag="LS">Марыньяну</Form>
             <Form tag="NP"></Form>
             <Form tag="GP"></Form>
             <Form tag="DP"></Form>
@@ -21389,7 +21372,7 @@
             <Form tag="NP">Мары+і</Form>
             <Form tag="GP">Мары+й</Form>
             <Form tag="DP">Мары+ям</Form>
-            <Form tag="AP">Мары+і</Form>
+            <Form tag="AP">Мары+й</Form>
             <Form tag="IP">Мары+ямі</Form>
             <Form tag="LP">Мары+ях</Form>
         </Variant>
@@ -21773,7 +21756,7 @@
             <Form tag="NS">Мелет</Form>
             <Form tag="GS">Мелета</Form>
             <Form tag="DS">Мелету</Form>
-            <Form tag="AS">Мелета</Form>
+            <Form tag="AS">Мелет</Form>
             <Form tag="IS">Мелетам</Form>
             <Form tag="LS">Мелеце</Form>
             <Form tag="NP"></Form>

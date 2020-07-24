@@ -75,6 +75,7 @@ public class DbUtilUI {
         public void execute() throws Exception {
             System.out.println("Чытаем граматычную базу...");
             try {
+                new CheckGrammarDB().validateXMLs(".");
                 String dir = backup();
                 GrammarDB2 db = GrammarDB2.initializeFromDir(dir);
                 new CheckGrammarDB().removeErrors(db);

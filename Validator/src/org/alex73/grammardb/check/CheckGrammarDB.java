@@ -23,8 +23,6 @@
 package org.alex73.grammardb.check;
 
 import java.io.File;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -58,32 +56,21 @@ import org.alex73.korpus.utils.StressUtils;
 
 /**
  * Правярае граматычную базу, і запісвае вынікі ў каталёг vyniki/.
+ *
+ * Выключэнні правілаў:
+ * exLemma1Form: Лема ў варыянце несупадае з першай стандартнай формай
+ * exFormsCount: Нестандартная колькасць формаў
+ * exFormsEquals: Непадобныя формы
+ * exFormLSEnd: LS канчаецца на зычны
+ * 
  */
 public class CheckGrammarDB {
 
      Map<String, List<Paradigm>> paradigmsByErrors = new TreeMap<>();
      GrammarDB2 gr;
-     Map<String, Set<String>> skips = new TreeMap<>();
 
      public void check(String dir) throws Exception {
          paradigmsByErrors.clear();
-
-         String part = null;
-         for (String s : Files.readAllLines(Paths.get("vyklucenni.txt"))) {
-             s = s.trim();
-             if (s.isEmpty()) {
-                 continue;
-             }
-             if (s.startsWith("==")) {
-                 part = s.replaceAll("^=+", "").trim();
-             } else {
-                 Set<String> pskip = skips.get(part);
-                 if (pskip == null) {
-                     skips.put(part, pskip = new HashSet<>());
-                 }
-                 pskip.add(s);
-             }
-         }
 
             System.out.println("Чытаем файлы...");
             gr = GrammarDB2.initializeFromDir(dir);
@@ -166,13 +153,8 @@ public class CheckGrammarDB {
 //        }
     }
 
-    boolean needSkip(String part, Paradigm p, Variant v) {
-        Set<String> pskip = skips.get(part);
-        if (pskip == null) {
-            return false;
-        }
-        String key = v.getLemma() + '/' + p.getPdgId() + v.getId();
-        return pskip.contains(key);
+    boolean needSkip(String rule, Paradigm p, Variant v) {
+        return SetUtils.hasTag(v.getRules(), rule);
     }
 
     public void removeErrors(GrammarDB2 db) {
@@ -218,7 +200,7 @@ public class CheckGrammarDB {
      * колькасць форм STANDARD - звычайна 1
      */
     void checkNFormsCount(Paradigm p, Variant v) {
-        if (needSkip("Нестандартная колькасць формаў", p, v)) {
+        if (needSkip("exFormsCount", p, v)) {
             return;
         }
         if (v.getForm().isEmpty()) {
@@ -545,7 +527,7 @@ public class CheckGrammarDB {
           усё гэта для STANDARD,NONSTANDARD,POTENTIAL
      */
     void checkNA(Paradigm p, Variant v) {
-        if (needSkip("Нестандартная колькасць формаў", p, v) || needSkip("Непадобныя формы", p, v)) {
+        if (needSkip("exFormsCount", p, v) || needSkip("exFormsEquals", p, v)) {
             return;
         }
         if (v.getLemma().contains("-")) {
@@ -732,7 +714,7 @@ public class CheckGrammarDB {
            неасабовыя: аснова на -ж, -ш, -ч, -дж, -ц, -р: канчатак -ы
      */
     void checkNasabovyja(Paradigm p, Variant va) {
-        if (needSkip("LS канчаецца на зычны", p, va)) {
+        if (needSkip("exFormLSEnd", p, va)) {
             return;
         }
         String vTag = SetUtils.tag(p, va);
@@ -815,11 +797,12 @@ public class CheckGrammarDB {
         if (p.getTag() != null && p.getTag().isEmpty()) {
             throw new KnownError("5_lemmy", "Пусты тэг");
         }
-        for(Variant v:p.getVariant()) {
-            if (!v.getForm().isEmpty()) {
-                if (!v.getLemma().equals(v.getForm().get(0).getValue())) {
-                    throw new KnownError("5_lemmy", "Лема ў варыянце несупадае з першай формай");
-                }
+        for (Variant v : p.getVariant()) {
+            if (needSkip("exLemma1Form", p, v) || v.getForm().isEmpty()) {
+                continue;
+            }
+            if (!v.getLemma().equals(v.getForm().get(0).getValue())) {
+                throw new KnownError("5_lemmy", "Лема ў варыянце несупадае з першай формай");
             }
         }
     }

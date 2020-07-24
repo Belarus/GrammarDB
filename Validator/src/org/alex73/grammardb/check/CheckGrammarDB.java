@@ -63,7 +63,6 @@ import org.alex73.korpus.utils.StressUtils;
  * exFormsCountGP: Нестандартная колькасць формаў GP
  * exFormsEquals: Непадобныя формы
  * exFormLSEnd: LS канчаецца на зычны
- * 
  */
 public class CheckGrammarDB {
 
@@ -373,17 +372,25 @@ public class CheckGrammarDB {
                     if (c != 2) {
                         throw new KnownError("7_kolkasc_formau_GP", "Колькасць 'GP' : " + c);
                     }
-                    Form[] fs = v.getForm().stream().filter(f -> f.getType() == null && f.getTag().equals("GP"))
-                            .sorted((a, b) -> GrammarDBSaver.BEL.compare(a.getValue(), b.getValue()))
-                            .toArray(Form[]::new);
-                    char lemmaLast=v.getLemma().charAt(v.getLemma().length()-1);
-                    if (lemmaLast!='ф' && lemmaLast!='ч' && lemmaLast!='м' && lemmaLast!='б' && lemmaLast!='п' && !v.getLemma().endsWith("ь")) {
-                        // не мусіць быць -ь калі -ф -ч -м -б -п: ве+рф
-                        throw new KnownError("7_kolkasc_formau_GP_F3", "Праверка колькасці 'GP' : лема не на -ь");
+                    String[] fs = v.getForm().stream().filter(f -> f.getType() == null && f.getTag().equals("GP"))
+                            .map(f -> StressUtils.unstress(f.getValue()))
+                            .sorted((a, b) -> GrammarDBSaver.BEL.compare(a, b)).toArray(String[]::new);
+                    String lemmaNoStress = StressUtils.unstress(v.getLemma());
+                    char lemmaLast = lemmaNoStress.charAt(lemmaNoStress.length() - 1);
+                    String base;
+                    if (lemmaLast == 'ь') {
+                        base = lemmaNoStress.substring(0, lemmaNoStress.length() - 1);
+                    } else {
+                        if (lemmaLast != 'ф' && lemmaLast != 'ч' && lemmaLast != 'м' && lemmaLast != 'б'
+                                && lemmaLast != 'п') {
+                            // не мусіць быць -ь калі -ф -ч -м -б -п: ве+рф
+                            throw new KnownError("7_kolkasc_formau_GP_F3", "Праверка колькасці 'GP' : лема не на -ь");
+                        }
+                        base = lemmaNoStress;
                     }
-                    String base = v.getLemma().substring(0, v.getLemma().length() - 1);
-                    if (!fs[0].getValue().equals(base + "ей") || !fs[1].getValue().equals(base + "яў")) {
-                        throw new KnownError("7_kolkasc_formau_GP_F3_eja", "Праверка колькасці 'GP' : формы не на -ей, -яў");
+                    if (!fs[0].equals(base + "ей") || !fs[1].equals(base + "яў")) {
+                        throw new KnownError("7_kolkasc_formau_GP_F3_eja",
+                                "Праверка колькасці 'GP' : формы не на -ей, -яў");
                     }
                 } else if (rod == 'N' && sklaniennie == '1') {
                     if (c != douhikarotkiCount(v.getLemma())) {
@@ -443,7 +450,7 @@ public class CheckGrammarDB {
             base=le.substring(0,le.length()-1);
             end0=le.substring(le.length()-1);
         }else {
-            throw new KnownError("7_kolkasc_formau_GP_N1h","Не на галосную");
+            throw new KnownError("7_kolkasc_formau_GP_N1h","Не на галосную для N1");
         }
 
         // бярэм апошнюю і перадапошнюю літару асновы

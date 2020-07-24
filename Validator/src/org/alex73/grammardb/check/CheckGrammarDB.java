@@ -60,6 +60,7 @@ import org.alex73.korpus.utils.StressUtils;
  * Выключэнні правілаў:
  * exLemma1Form: Лема ў варыянце несупадае з першай стандартнай формай
  * exFormsCount: Нестандартная колькасць формаў
+ * exFormsCountGP: Нестандартная колькасць формаў GP
  * exFormsEquals: Непадобныя формы
  * exFormLSEnd: LS канчаецца на зычны
  * 
@@ -365,7 +366,7 @@ public class CheckGrammarDB {
                     throw new KnownError("7_kolkasc_formau_NP", "Колькасць 'NP' : " + c);
                 }
             }
-            {
+            if (!needSkip("exFormsCountGP", p, v)) {
                 int c = standardFormsCount(v, "GP");
                 if (rod == 'F' && sklaniennie == '3') {
                     // для F3 - мусіць быць 2 стандартныя формы, якія канчаюцца на ()-ей, ()-яў і лема ()-ь
@@ -375,7 +376,9 @@ public class CheckGrammarDB {
                     Form[] fs = v.getForm().stream().filter(f -> f.getType() == null && f.getTag().equals("GP"))
                             .sorted((a, b) -> GrammarDBSaver.BEL.compare(a.getValue(), b.getValue()))
                             .toArray(Form[]::new);
-                    if (!v.getLemma().endsWith("ь")) {
+                    char lemmaLast=v.getLemma().charAt(v.getLemma().length()-1);
+                    if (lemmaLast!='ф' && lemmaLast!='ч' && lemmaLast!='м' && lemmaLast!='б' && lemmaLast!='п' && !v.getLemma().endsWith("ь")) {
+                        // не мусіць быць -ь калі -ф -ч -м -б -п: ве+рф
                         throw new KnownError("7_kolkasc_formau_GP_F3", "Праверка колькасці 'GP' : лема не на -ь");
                     }
                     String base = v.getLemma().substring(0, v.getLemma().length() - 1);

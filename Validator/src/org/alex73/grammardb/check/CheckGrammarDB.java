@@ -123,8 +123,8 @@ public class CheckGrammarDB {
                                 5) пашукаць Капылову абалонку навучання
                                 6) аднаразова: ID замест 0
                                 */
-                                checkNA(p,v);
                                 checkNFormsCount(p,v);
+                                checkNA(p,v);
                                 checkNasabovyja(p,v);
                             }
                         }

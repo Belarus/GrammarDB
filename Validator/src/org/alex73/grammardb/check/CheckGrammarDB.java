@@ -60,7 +60,12 @@ import org.alex73.korpus.utils.StressUtils;
  * Выключэнні правілаў:
  * exLemma1Form: Лема ў варыянце несупадае з першай стандартнай формай
  * exFormsCount: Нестандартная колькасць формаў
+ * exFormsCountGS: Нестандартная колькасць формаў GS
+ * exFormsCountIS
+ * exFormsCountLS: Нестандартная колькасць формаў LS
+ * exFormsCountGPAP: Нестандартная колькасць формаў GP і AP
  * exFormsCountGP: Нестандартная колькасць формаў GP
+ * exFormsCountIP: Нестандартная колькасць формаў IP
  * exFormsEquals: Непадобныя формы
  * exFormLSEnd: LS канчаецца на зычны
  */
@@ -286,7 +291,7 @@ public class CheckGrammarDB {
                     throw new KnownError("7_kolkasc_formau_NS", "Колькасць 'NS' : " + c);
                 }
             }
-            {
+            if (!needSkip("exFormsCountGS", p, v)) {
                 int c = standardFormsCount(v, "GS");
                 if (c != 1) {
                     throw new KnownError("7_kolkasc_formau_GS", "Колькасць 'GS' : " + c);
@@ -304,39 +309,56 @@ public class CheckGrammarDB {
                     throw new KnownError("7_kolkasc_formau_AS", "Колькасць 'AS' : " + c);
                 }
             }
-            {
+            if (!needSkip("exFormsCountIS", p, v)) {
                 int c = standardFormsCount(v, "IS");
-                switch (rod) {
-                case 'M':
-                case 'N':
-                    if (c != 1) {
-                        throw new KnownError("7_kolkasc_formau_IS", "Колькасць 'IS' у M : " + c);
-                    }
-                    break;
-                case 'F':
-                    if (sklaniennie == '3' && c == 1) {
-                        // TODO 1 ?
-                        break;
-                    } else if (c != 2) {
-                        throw new KnownError("7_kolkasc_formau_IS", "Колькасць 'IS' у F: " + c);
-                    }
+
+                String unstressedLemma=StressUtils.unstress(v.getLemma());
+                if ((rod == 'F' && sklaniennie == '2') || (rod == 'M' && sklaniennie == '2'
+                        && (unstressedLemma.endsWith("а") || unstressedLemma.endsWith("я")))) {
                     // IS: калі жаночы род адзіночны лік, калі канчатак -ай, -яй, мусіць быць такая самая стандартная
                     // форма -аю, -яю
                     Form[] fs = v.getForm().stream().filter(f -> f.getType() == null && f.getTag().equals("IS"))
                             .sorted((a, b) -> GrammarDBSaver.BEL.compare(a.getValue(), b.getValue()))
                             .toArray(Form[]::new);
-                    if (fs[0].getValue().endsWith("ай") && !fs[1].getValue().endsWith("аю")) {
-                        throw new KnownError("7_kolkasc_formau_IS", "Формы ў 'IS' не -ай/-аю");
+                    if (rod == 'M' && fs.length == 1
+                            && (fs[0].getValue().endsWith("ам") || fs[0].getValue().endsWith("ем"))) {
+                        // ok
+                    } else {
+                        if (c != 2) {
+                            throw new KnownError("7_kolkasc_formau_IS", "Колькасць 'IS': " + c);
+                        }
+                        if (fs[0].getValue().endsWith("ай") && !fs[1].getValue().endsWith("аю")) {
+                            throw new KnownError("7_kolkasc_formau_IS", "Формы ў 'IS' не -ай/-аю");
+                        }
+                        if (fs[0].getValue().endsWith("яй") && !fs[1].getValue().endsWith("яю")) {
+                            throw new KnownError("7_kolkasc_formau_IS", "Формы ў 'IS' не -ай/-аю");
+                        }
                     }
-                    if (fs[0].getValue().endsWith("яй") && !fs[1].getValue().endsWith("яю")) {
-                        throw new KnownError("7_kolkasc_formau_IS", "Формы ў 'IS' не -ай/-аю");
+                } else {
+                    if (c != 1) {
+                        throw new KnownError("7_kolkasc_formau_ISother", "Колькасць 'IS': " + c);
                     }
-                    break;
-                default:
-                    throw new KnownError("7_kolkasc_formau_IS", "Невядомы род: " + rod);
+                    /* switch (rod) {
+                    case 'M':
+                    case 'N':
+                        if (c != 1) {
+                            throw new KnownError("7_kolkasc_formau_IS", "Колькасць 'IS' у M/N : " + c);
+                        }
+                        break;
+                    case 'F':
+                        if (sklaniennie == '3' && c == 1) {
+                            // TODO 1 ?
+                            break;
+                        } else if (c != 2) {
+                            throw new KnownError("7_kolkasc_formau_IS", "Колькасць 'IS' у F: " + c);
+                        }
+                        break;
+                    default:
+                        throw new KnownError("7_kolkasc_formau_IS", "Невядомы род: " + rod);
+                    }*/
                 }
             }
-            {
+            if (!needSkip("exFormsCountLS", p, v)) {
                 int c = standardFormsCount(v, "LS");
                 if (c != 1) {
                     throw new KnownError("7_kolkasc_formau_LS", "Колькасць 'LS' : " + c);
@@ -365,7 +387,7 @@ public class CheckGrammarDB {
                     throw new KnownError("7_kolkasc_formau_NP", "Колькасць 'NP' : " + c);
                 }
             }
-            if (!needSkip("exFormsCountGP", p, v)) {
+            if (!needSkip("exFormsCountGP", p, v) && !needSkip("exFormsCountGPAP", p, v)) {
                 int c = standardFormsCount(v, "GP");
                 if (rod == 'F' && sklaniennie == '3') {
                     // для F3 - мусіць быць 2 стандартныя формы, якія канчаюцца на ()-ей, ()-яў і лема ()-ь
@@ -406,18 +428,22 @@ public class CheckGrammarDB {
                     throw new KnownError("7_kolkasc_formau_DP", "Колькасць 'DP' : " + c);
                 }
             }
-            {
+            if (!needSkip("exFormsCountAP", p, v) && !needSkip("exFormsCountGPAP", p, v)){
                 int c = standardFormsCount(v, "AP");
                 if (adu == 'A' && rod == 'F' && sklaniennie == '3') {
                     // для F3 - мусіць быць 2 стандартныя формы, якія канчаюцца на ()-ей, ()-яў і лема ()-ь
                     if (c != 2) {
                         throw new KnownError("7_kolkasc_formau_AP", "Колькасць 'AP' : " + c);
                     }
+                } else if (adu == 'A' && rod == 'N' && sklaniennie == '1') {
+                    if (c != douhikarotkiCount(v.getLemma())) {
+                        throw new KnownError("7_kolkasc_formau_AP_N1", "Колькасць 'AP' : " + c);
+                    }
                 } else if (c != 1) {
                     throw new KnownError("7_kolkasc_formau_AP", "Колькасць 'AP' : " + c);
                 }
             }
-            {
+            if (!needSkip("exFormsCountIP", p, v)) {
                 int c = standardFormsCount(v, "IP");
                 if (c != 1) {
                     throw new KnownError("7_kolkasc_formau_IP", "Колькасць 'IP' : " + c);
@@ -1074,13 +1100,14 @@ public class CheckGrammarDB {
             throw new KnownError("5_sprazenni", "Невядомае трыванне");
         }
 
-            if (v.getForm().isEmpty()) {
-                return;
-            }
-            Form r3p = getForm(v, tag);
-            if (r3p == null) {
-                throw new KnownError("5_sprazenni", "Няма " + tag);
-            }
+        if (v.getForm().isEmpty()) {
+            return;
+        }
+        Form r3p = getForm(v, tag);
+        if (r3p == null && !needSkip("exFormsCount", p, v)) {
+            throw new KnownError("5_sprazenni", "Няма " + tag);
+        }
+        if (r3p != null) {
             char sp = BelarusianTags.getInstance().getValueOfGroup(vTag, "Спражэнне");
             char spp;
             String w = StressUtils.unstress(r3p.getValue());
@@ -1096,6 +1123,7 @@ public class CheckGrammarDB {
                     throw new KnownError("5_sprazenni", "Спражэньне няправільна пазначана");
                 }
             }
+        }
     }
 
     /**

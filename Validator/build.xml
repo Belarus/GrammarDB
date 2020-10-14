@@ -23,8 +23,7 @@
 			<manifest>
 				<attribute name="Main-Class" value="org.alex73.grammardb.check.DbUtilUI" />
 			</manifest>
-			<zipfileset src="lib/RunUI.jar" />
-			<zipfileset src="lib/Korpus-Common.jar" />
+			<zipgroupfileset dir="lib/" includes="*.jar" />
 		</jar>
 	</target>
 </project>

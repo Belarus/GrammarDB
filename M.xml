@@ -420,15 +420,23 @@
             <Form tag="PLP" slouniki="prym2009,sbm2012">васьмі+</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127418" lemma="во+семдзесят" tag="MNCC" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="во+семдзесят" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127418" lemma="во+семдзясят" tag="MNCC" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="во+семдзясят" pravapis="A2008">
+            <Form tag="PNP" slouniki="prym2013">во+семдзясят</Form>
+            <Form tag="PGP" slouniki="prym2013">васьмі+дзесяці</Form>
+            <Form tag="PDP" slouniki="prym2013">васьмі+дзесяці</Form>
+            <Form tag="PAP" slouniki="prym2013">во+семдзясят</Form>
+            <Form tag="PIP" slouniki="prym2013">васьмю+дзесяццю</Form>
+            <Form tag="PLP" slouniki="prym2013">васьмі+дзесяці</Form>
+        </Variant>
+        <Variant id="b" lemma="во+семдзесят" pravapis="A1957">
             <Slounik name="piskunou2012" idx="33615">{b}во´семдзесят{/b} {i}ліч.{/i}, {i}РДМ{/i} васьмі´дзесяці, {i}Т{/i} васьмю´дзесяццю /// </Slounik>
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">во+семдзесят</Form>
-            <Form tag="PGP" slouniki="prym2009">васьмідзесяці</Form>
-            <Form tag="PDP" slouniki="prym2009">васьмідзесяці</Form>
+            <Form tag="PGP" slouniki="prym2009">васьмі+дзесяці</Form>
+            <Form tag="PDP" slouniki="prym2009">васьмі+дзесяці</Form>
             <Form tag="PAP" slouniki="prym2009">во+семдзесят</Form>
-            <Form tag="PIP" slouniki="prym2009">васьмюдзесяццю</Form>
-            <Form tag="PLP" slouniki="prym2009">васьмідзесяці</Form>
+            <Form tag="PIP" slouniki="prym2009">васьмю+дзесяццю</Form>
+            <Form tag="PLP" slouniki="prym2009">васьмі+дзесяці</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127413" lemma="восемсо+т" tag="MNCC">
@@ -2965,13 +2973,13 @@
             <Form tag="PLP" slouniki="sbm2012" pravapis="A2008">чатырохста+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127495" lemma="чацвёра" tag="MNKS" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="чацвёра" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127495" lemma="чацвё+ра" tag="MNKS" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="чацвё+ра" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="209526">{b}чацвёра{/b} {i}ліч.{/i}, {i}РМ{/i} чацвяры´х, {i}Д{/i} -ры´м, {i}Т{/i} -ры´мі /// </Slounik>
-            <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">чацвёра</Form>
+            <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">чацвё+ра</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">чацвяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">чацвяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">чацвёра</Form>
+            <Form tag="PAP" slouniki="prym2009">чацвё+ра</Form>
             <Form tag="PAP" slouniki="prym2009">чацвяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">чацвяры+мі</Form>
             <Form tag="PIP" type="nonstandard">чацвяры+ма</Form>
@@ -3227,9 +3235,9 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127502" lemma="шо+сты" tag="MAOS">
-        <Variant id="a" lemma="шо+сты">
+        <Variant id="a" lemma="шо+сты" pravapis="A2008">
             <Slounik name="piskunou2012" idx="212634">{b}шо´сты{/b} /// [ad1]</Slounik>
-            <Form tag="MNS" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">шо+сты</Form>
+            <Form tag="MNS" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012">шо+сты</Form>
             <Form tag="MGS">шо+стага</Form>
             <Form tag="MDS">шо+стаму</Form>
             <Form tag="MAS">шо+стага</Form>
@@ -3258,12 +3266,12 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127503" lemma="шэсць" tag="MNCS">
-        <Variant id="a" lemma="шэсць">
+        <Variant id="a" lemma="шэсць" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="214561">{b}шэсць{/b} {i}ліч.{/i}, {i}РДМ{/i} шасці´, {i}Т{/i} шасцю´; ({i}у{/i} {i}спалучэнні з адушаўлёнымі назоўнікамі зрэдку{/i}) {i}РВМ{/i} шасцёх, {i}Д{/i} шасцём, {i}Т{/i} шасцьма´ /// </Slounik>
-            <Form tag="PNP" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957">шэсць</Form>
+            <Form tag="PNP" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012" pravapis="A1957,A2008">шэсць</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці+</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці+</Form>
-            <Form tag="PAP" slouniki="prym2009" pravapis="A1957">шэсць</Form>
+            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008">шэсць</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасцю+</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">шасці+</Form>
         </Variant>

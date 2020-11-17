@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1312376" lemma="а..." tag="FF">
+    <Paradigm pdgId="1312376" lemma="а..." tag="FF" meaning="аб..., аб'..., аба...">
+        <Variant id="a" lemma="а..." pravapis="A1957,A2008">
+            <Form tag="" slouniki="tsbm1984">а...</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313725" lemma="а..." tag="FF" meaning="ан...">
         <Variant id="a" lemma="а..." pravapis="A1957,A2008">
             <Form tag="" slouniki="tsbm1984">а...</Form>
         </Variant>

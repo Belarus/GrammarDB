@@ -860,7 +860,7 @@ public class CheckGrammarDB {
             }
     }
 
-    static final Set<String> KNOWN_SLOUNIKI = new HashSet<>(Arrays.asList("sbm2012", "prym2009", "dzsl2007", "dzsl2013",
+    static final Set<String> KNOWN_SLOUNIKI = new HashSet<>(Arrays.asList("sbm2012", "prym2009", "prym2013", "dzsl2007", "dzsl2013",
             "nazounik2008", "nazounik2013", "tsbm1984", "tsblm1996", "tsbm2016", "krapivabr2012", "krapivarb2012",
             "biryla1987", "bulykasis1999", "paronimy1994", "epitety1998", "klyskassbs1993", "paciupatrb",
             "sankorbp1991", "lastouskirb1924", "bulykarb2001", "niekrasevicbajkourb1928", "hsbm1982", "stblks1997",
@@ -870,9 +870,8 @@ public class CheckGrammarDB {
             "bijalterm1998", "farmakrb1995", "fizijalrb1993", "miedtermrbbr2001", "linhtermrb1988",
             "zvieras1924", "polbiel2004", "amparpolisiem2004", "samabslov1994", "stankievic1989",
             "bulykabr2001", "bajkouniekrasevicbr1925", "piskunou2012"));
-    static final Set<String> KNOWN_PRAVAPIS = new HashSet<>(Arrays.asList("A1933", "A1957","A1957-", "A2008", "A2008-", "T1929",
-            "K2005", "H","А1933", "А1957", "А2008", "Т1929",
-            "К2005", "Н"));
+    static final Set<String> KNOWN_PRAVAPIS = new HashSet<>(Arrays.asList("A1933", "A1957", "A1957-", "A2008", "A2008-",
+            "T1929", "K2005"));
 
     void checkSlounikPravapis(Paradigm p, Variant v) {
             if (v.getPravapis() != null && v.getPravapis().length() > 0

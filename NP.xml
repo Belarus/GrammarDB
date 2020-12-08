@@ -27,6 +27,16 @@
             <Form tag="LP">Ааро+нах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313838" lemma="ААЭ+" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="ААЭ+" pravapis="A1957,A2008">
+            <Form tag="NP" type="potential">ААЭ+</Form>
+            <Form tag="GP" type="potential">ААЭ+</Form>
+            <Form tag="DP" type="potential">ААЭ+</Form>
+            <Form tag="AP" type="potential">ААЭ+</Form>
+            <Form tag="IP" type="potential">ААЭ+</Form>
+            <Form tag="LP" type="potential">ААЭ+</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037503" lemma="Абака+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Абака+н" pravapis="A1957,A2008">
             <Form tag="NS">Абака+н</Form>
@@ -530,6 +540,23 @@
             <Form tag="AP" type="potential">Ала+хаў</Form>
             <Form tag="IP" type="potential">Ала+хамі</Form>
             <Form tag="LP" type="potential">Ала+хах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313839" lemma="Алба+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Алба+нія" pravapis="A1957,A2008">
+            <Form tag="NS">Алба+нія</Form>
+            <Form tag="GS">Алба+ніі</Form>
+            <Form tag="DS">Алба+ніі</Form>
+            <Form tag="AS">Алба+нію</Form>
+            <Form tag="IS">Алба+ніяй</Form>
+            <Form tag="IS">Алба+ніяю</Form>
+            <Form tag="LS">Алба+ніі</Form>
+            <Form tag="NP" type="potential">Алба+ніі</Form>
+            <Form tag="GP" type="potential">Алба+ній</Form>
+            <Form tag="DP" type="potential">Алба+ніям</Form>
+            <Form tag="AP" type="potential">Алба+ніі</Form>
+            <Form tag="IP" type="potential">Алба+ніямі</Form>
+            <Form tag="LP" type="potential">Алба+ніях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037524" lemma="Але+г" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -1394,6 +1421,57 @@
             <Form tag="LP">Ангелі+нах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313843" lemma="Ангі+лья" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ангі+лья" pravapis="A1957,A2008">
+            <Form tag="NS">Ангі+лья</Form>
+            <Form tag="GS">Ангі+льі</Form>
+            <Form tag="DS">Ангі+льі</Form>
+            <Form tag="AS">Ангі+лью</Form>
+            <Form tag="IS">Ангі+льяй</Form>
+            <Form tag="IS">Ангі+льяю</Form>
+            <Form tag="LS">Ангі+льі</Form>
+            <Form tag="NP" type="potential">Ангі+льі</Form>
+            <Form tag="GP" type="potential">Ангі+льяў</Form>
+            <Form tag="DP" type="potential">Ангі+льям</Form>
+            <Form tag="AP" type="potential">Ангі+льі</Form>
+            <Form tag="IP" type="potential">Ангі+льямі</Form>
+            <Form tag="LP" type="potential">Ангі+льях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313841" lemma="А+нглія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="А+нглія" pravapis="A1957,A2008">
+            <Form tag="NS">А+нглія</Form>
+            <Form tag="GS">А+нгліі</Form>
+            <Form tag="DS">А+нгліі</Form>
+            <Form tag="AS">А+нглію</Form>
+            <Form tag="IS">А+нгліяй</Form>
+            <Form tag="IS">А+нгліяю</Form>
+            <Form tag="LS">А+нгліі</Form>
+            <Form tag="NP" type="potential">А+нгліі</Form>
+            <Form tag="GP" type="potential">А+нглій</Form>
+            <Form tag="DP" type="potential">А+нгліям</Form>
+            <Form tag="AP" type="potential">А+нгліі</Form>
+            <Form tag="IP" type="potential">А+нгліямі</Form>
+            <Form tag="LP" type="potential">А+нгліях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313842" lemma="Анго+ла" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Анго+ла" pravapis="A1957,A2008">
+            <Form tag="NS">Анго+ла</Form>
+            <Form tag="GS">Анго+лы</Form>
+            <Form tag="DS">Анго+ле</Form>
+            <Form tag="AS">Анго+лу</Form>
+            <Form tag="IS">Анго+лай</Form>
+            <Form tag="IS">Анго+лаю</Form>
+            <Form tag="LS">Анго+ле</Form>
+            <Form tag="NP" type="potential">Анго+лы</Form>
+            <Form tag="GP" type="potential">Анго+л</Form>
+            <Form tag="DP" type="potential">Анго+лам</Form>
+            <Form tag="AP" type="potential">Анго+лы</Form>
+            <Form tag="IP" type="potential">Анго+ламі</Form>
+            <Form tag="LP" type="potential">Анго+лах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037557" lemma="А+нджэй" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant id="a" lemma="А+нджэй" pravapis="A1957,A2008">
             <Form tag="NS">А+нджэй</Form>
@@ -1408,6 +1486,23 @@
             <Form tag="AP">А+нджэяў</Form>
             <Form tag="IP">А+нджэямі</Form>
             <Form tag="LP">А+нджэях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313844" lemma="Андо+ра" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Андо+ра" pravapis="A1957,A2008">
+            <Form tag="NS">Андо+ра</Form>
+            <Form tag="GS">Андо+ры</Form>
+            <Form tag="DS">Андо+ры</Form>
+            <Form tag="AS">Андо+ру</Form>
+            <Form tag="IS">Андо+рай</Form>
+            <Form tag="IS">Андо+раю</Form>
+            <Form tag="LS">Андо+ры</Form>
+            <Form tag="NP" type="potential">Андо+ры</Form>
+            <Form tag="GP" type="potential">Андо+р</Form>
+            <Form tag="DP" type="potential">Андо+рам</Form>
+            <Form tag="AP" type="potential">Андо+ры</Form>
+            <Form tag="IP" type="potential">Андо+рамі</Form>
+            <Form tag="LP" type="potential">Андо+рах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037558" lemma="Андро+паў" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -1686,6 +1781,22 @@
             <Form tag="LP">Антуа+нах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313845" lemma="Анты+гуа" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Анты+гуа" pravapis="A1957,A2008">
+            <Form tag="NS">Анты+гуа</Form>
+            <Form tag="GS">Анты+гуа</Form>
+            <Form tag="DS">Анты+гуа</Form>
+            <Form tag="AS">Анты+гуа</Form>
+            <Form tag="IS">Анты+гуа</Form>
+            <Form tag="LS">Анты+гуа</Form>
+            <Form tag="NP" type="potential">Анты+гуа</Form>
+            <Form tag="GP" type="potential">Анты+гуа</Form>
+            <Form tag="DP" type="potential">Анты+гуа</Form>
+            <Form tag="AP" type="potential">Анты+гуа</Form>
+            <Form tag="IP" type="potential">Анты+гуа</Form>
+            <Form tag="LP" type="potential">Анты+гуа</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037570" lemma="Антэ+лій" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant id="a" lemma="Антэ+лій" pravapis="A1957,A2008">
             <Form tag="NS">Антэ+лій</Form>
@@ -1767,6 +1878,23 @@
             <Form tag="AP">Апало+наў</Form>
             <Form tag="IP">Апало+намі</Form>
             <Form tag="LP">Апало+нах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313902" lemma="Ара+вія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ара+вія" pravapis="A1957,A2008">
+            <Form tag="NS">Ара+вія</Form>
+            <Form tag="GS">Ара+віі</Form>
+            <Form tag="DS">Ара+віі</Form>
+            <Form tag="AS">Ара+вію</Form>
+            <Form tag="IS">Ара+віяй</Form>
+            <Form tag="IS">Ара+віяю</Form>
+            <Form tag="LS">Ара+віі</Form>
+            <Form tag="NP" type="potential">Ара+віі</Form>
+            <Form tag="GP" type="potential">Ара+вій</Form>
+            <Form tag="DP" type="potential">Ара+віям</Form>
+            <Form tag="AP" type="potential">Ара+віі</Form>
+            <Form tag="IP" type="potential">Ара+віямі</Form>
+            <Form tag="LP" type="potential">Ара+віях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037575" lemma="Арафа+т" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -1873,6 +2001,23 @@
             <Form tag="LP">Арло+вых</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313847" lemma="Арме+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Арме+нія" pravapis="A1957,A2008">
+            <Form tag="NS">Арме+нія</Form>
+            <Form tag="GS">Арме+ніі</Form>
+            <Form tag="DS">Арме+ніі</Form>
+            <Form tag="AS">Арме+нію</Form>
+            <Form tag="IS">Арме+ніяй</Form>
+            <Form tag="IS">Арме+ніяю</Form>
+            <Form tag="LS">Арме+ніі</Form>
+            <Form tag="NP" type="potential">Арме+ніі</Form>
+            <Form tag="GP" type="potential">Арме+ній</Form>
+            <Form tag="DP" type="potential">Арме+ніям</Form>
+            <Form tag="AP" type="potential">Арме+ніі</Form>
+            <Form tag="IP" type="potential">Арме+ніямі</Form>
+            <Form tag="LP" type="potential">Арме+ніях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037580" lemma="Арно+льд" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant id="a" lemma="Арно+льд" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Арно+льд</Form>
@@ -1952,6 +2097,23 @@
             <Form tag="AP">Арту+раў</Form>
             <Form tag="IP">Арту+рамі</Form>
             <Form tag="LP">Арту+рах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313848" lemma="Ару+ба" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ару+ба" pravapis="A1957,A2008">
+            <Form tag="NS">Ару+ба</Form>
+            <Form tag="GS">Ару+бы</Form>
+            <Form tag="DS">Ару+бе</Form>
+            <Form tag="AS">Ару+бу</Form>
+            <Form tag="IS">Ару+бай</Form>
+            <Form tag="IS">Ару+баю</Form>
+            <Form tag="LS">Ару+бе</Form>
+            <Form tag="NP" type="potential">Ару+бы</Form>
+            <Form tag="GP" type="potential">Ару+б</Form>
+            <Form tag="DP" type="potential">Ару+бам</Form>
+            <Form tag="AP" type="potential">Ару+бы</Form>
+            <Form tag="IP" type="potential">Ару+бамі</Form>
+            <Form tag="LP" type="potential">Ару+бах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037583" lemma="Арха+нгельск" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -2476,6 +2638,40 @@
             <Form tag="AP" type="potential">Аўрэ+ліяў</Form>
             <Form tag="IP" type="potential">Аўрэ+ліямі</Form>
             <Form tag="LP" type="potential">Аўрэ+ліях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313849" lemma="Аўстра+лія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Аўстра+лія" pravapis="A1957,A2008">
+            <Form tag="NS">Аўстра+лія</Form>
+            <Form tag="GS">Аўстра+ліі</Form>
+            <Form tag="DS">Аўстра+ліі</Form>
+            <Form tag="AS">Аўстра+лію</Form>
+            <Form tag="IS">Аўстра+ліяй</Form>
+            <Form tag="IS">Аўстра+ліяю</Form>
+            <Form tag="LS">Аўстра+ліі</Form>
+            <Form tag="NP" type="potential">Аўстра+ліі</Form>
+            <Form tag="GP" type="potential">Аўстра+лій</Form>
+            <Form tag="DP" type="potential">Аўстра+ліям</Form>
+            <Form tag="AP" type="potential">Аўстра+ліі</Form>
+            <Form tag="IP" type="potential">Аўстра+ліямі</Form>
+            <Form tag="LP" type="potential">Аўстра+ліях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313837" lemma="А+ўстрыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="А+ўстрыя" pravapis="A1957,A2008">
+            <Form tag="NS">А+ўстрыя</Form>
+            <Form tag="GS">А+ўстрыі</Form>
+            <Form tag="DS">А+ўстрыі</Form>
+            <Form tag="AS">А+ўстрыю</Form>
+            <Form tag="IS">А+ўстрыяй</Form>
+            <Form tag="IS">А+ўстрыяю</Form>
+            <Form tag="LS">А+ўстрыі</Form>
+            <Form tag="NP" type="potential">А+ўстрыі</Form>
+            <Form tag="GP" type="potential">А+ўстрый</Form>
+            <Form tag="DP" type="potential">А+ўстрыям</Form>
+            <Form tag="AP" type="potential">А+ўстрыі</Form>
+            <Form tag="IP" type="potential">А+ўстрыямі</Form>
+            <Form tag="LP" type="potential">А+ўстрыях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037501" lemma="А+ўстэрліц" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -3004,6 +3200,23 @@
             <Form tag="LP">Баку+ніных</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313850" lemma="Балга+рыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Балга+рыя" pravapis="A1957,A2008">
+            <Form tag="NS">Балга+рыя</Form>
+            <Form tag="GS">Балга+рыі</Form>
+            <Form tag="DS">Балга+рыі</Form>
+            <Form tag="AS">Балга+рыю</Form>
+            <Form tag="IS">Балга+рыяй</Form>
+            <Form tag="IS">Балга+рыяю</Form>
+            <Form tag="LS">Балга+рыі</Form>
+            <Form tag="NP" type="potential">Балга+рыі</Form>
+            <Form tag="GP" type="potential">Балга+рый</Form>
+            <Form tag="DP" type="potential">Балга+рыям</Form>
+            <Form tag="AP" type="potential">Балга+рыі</Form>
+            <Form tag="IP" type="potential">Балга+рыямі</Form>
+            <Form tag="LP" type="potential">Балга+рыях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1027203" lemma="Балду+к" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/лімнонімы">
         <Variant id="a" lemma="Балду+к" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Балду+к</Form>
@@ -3265,6 +3478,23 @@
             <Form tag="LP" type="potential">Барба+дасах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313846" lemma="Барбу+да" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Барбу+да" pravapis="A1957,A2008">
+            <Form tag="NS">Барбу+да</Form>
+            <Form tag="GS">Барбу+ды</Form>
+            <Form tag="DS">Барбу+дзе</Form>
+            <Form tag="AS">Барбу+ду</Form>
+            <Form tag="IS">Барбу+дай</Form>
+            <Form tag="IS">Барбу+даю</Form>
+            <Form tag="LS">Барбу+дзе</Form>
+            <Form tag="NP" type="potential">Барбу+ды</Form>
+            <Form tag="GP" type="potential">Барбу+д</Form>
+            <Form tag="DP" type="potential">Барбу+дам</Form>
+            <Form tag="AP" type="potential">Барбу+ды</Form>
+            <Form tag="IP" type="potential">Барбу+дамі</Form>
+            <Form tag="LP" type="potential">Барбу+дах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037637" lemma="Барзо+ў" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Барзо+ў">
             <Form tag="NS">Барзо+ў</Form>
@@ -3516,6 +3746,23 @@
             <Form tag="AP">Бато+рыяў</Form>
             <Form tag="IP">Бато+рыямі</Form>
             <Form tag="LP">Бато+рыях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313851" lemma="Батсва+на" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Батсва+на" pravapis="A1957,A2008">
+            <Form tag="NS">Батсва+на</Form>
+            <Form tag="GS">Батсва+ны</Form>
+            <Form tag="DS">Батсва+не</Form>
+            <Form tag="AS">Батсва+ну</Form>
+            <Form tag="IS">Батсва+най</Form>
+            <Form tag="IS">Батсва+наю</Form>
+            <Form tag="LS">Батсва+не</Form>
+            <Form tag="NP" type="potential">Батсва+ны</Form>
+            <Form tag="GP" type="potential">Батсва+н</Form>
+            <Form tag="DP" type="potential">Батсва+нам</Form>
+            <Form tag="AP" type="potential">Батсва+ны</Form>
+            <Form tag="IP" type="potential">Батсва+намі</Form>
+            <Form tag="LP" type="potential">Батсва+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1027348" lemma="Баты+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -3936,6 +4183,22 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313853" lemma="Белі+з" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Белі+з" pravapis="A1957,A2008">
+            <Form tag="NS">Белі+з</Form>
+            <Form tag="GS">Белі+за</Form>
+            <Form tag="DS">Белі+зу</Form>
+            <Form tag="AS">Белі+з</Form>
+            <Form tag="IS">Белі+зам</Form>
+            <Form tag="LS">Белі+зе</Form>
+            <Form tag="NP" type="potential">Белі+зы</Form>
+            <Form tag="GP" type="potential">Белі+заў</Form>
+            <Form tag="DP" type="potential">Белі+зам</Form>
+            <Form tag="AP" type="potential">Белі+зы</Form>
+            <Form tag="IP" type="potential">Белі+замі</Form>
+            <Form tag="LP" type="potential">Белі+зах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037668" lemma="Белкамунгас" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
         <Variant id="a" lemma="Белкамунгас">
             <Form tag="NS">Белкамунгас</Form>
@@ -4018,6 +4281,23 @@
             <Form tag="LP" type="potential">Бе+лфастах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313852" lemma="Бе+льгія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Бе+льгія" pravapis="A1957,A2008">
+            <Form tag="NS">Бе+льгія</Form>
+            <Form tag="GS">Бе+льгіі</Form>
+            <Form tag="DS">Бе+льгіі</Form>
+            <Form tag="AS">Бе+льгію</Form>
+            <Form tag="IS">Бе+льгіяй</Form>
+            <Form tag="IS">Бе+льгіяю</Form>
+            <Form tag="LS">Бе+льгіі</Form>
+            <Form tag="NP" type="potential">Бе+льгіі</Form>
+            <Form tag="GP" type="potential">Бе+льгій</Form>
+            <Form tag="DP" type="potential">Бе+льгіям</Form>
+            <Form tag="AP" type="potential">Бе+льгіі</Form>
+            <Form tag="IP" type="potential">Бе+льгіямі</Form>
+            <Form tag="LP" type="potential">Бе+льгіях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037675" lemma="Бе+нджамін" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant id="a" lemma="Бе+нджамін" pravapis="A1957,A2008">
             <Form tag="NS">Бе+нджамін</Form>
@@ -4080,6 +4360,22 @@
             <Form tag="AP" type="potential">Бенілю+ксы</Form>
             <Form tag="IP" type="potential">Бенілю+ксамі</Form>
             <Form tag="LP" type="potential">Бенілю+ксах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313854" lemma="Бені+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Бені+н" pravapis="A1957,A2008">
+            <Form tag="NS">Бені+н</Form>
+            <Form tag="GS">Бені+на</Form>
+            <Form tag="DS">Бені+ну</Form>
+            <Form tag="AS">Бені+н</Form>
+            <Form tag="IS">Бені+нам</Form>
+            <Form tag="LS">Бені+не</Form>
+            <Form tag="NP" type="potential">Бені+ны</Form>
+            <Form tag="GP" type="potential">Бені+наў</Form>
+            <Form tag="DP" type="potential">Бені+нам</Form>
+            <Form tag="AP" type="potential">Бені+ны</Form>
+            <Form tag="IP" type="potential">Бені+намі</Form>
+            <Form tag="LP" type="potential">Бені+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1027447" lemma="Беннафтахім" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
@@ -4746,6 +5042,23 @@
             <Form tag="LP" type="potential">Бо+рхавах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313855" lemma="Бо+снія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Бо+снія" pravapis="A1957,A2008">
+            <Form tag="NS">Бо+снія</Form>
+            <Form tag="GS">Бо+сніі</Form>
+            <Form tag="DS">Бо+сніі</Form>
+            <Form tag="AS">Бо+снію</Form>
+            <Form tag="IS">Бо+сніяй</Form>
+            <Form tag="IS">Бо+сніяю</Form>
+            <Form tag="LS">Бо+сніі</Form>
+            <Form tag="NP" type="potential">Бо+сніі</Form>
+            <Form tag="GP" type="potential">Бо+сній</Form>
+            <Form tag="DP" type="potential">Бо+сніям</Form>
+            <Form tag="AP" type="potential">Бо+сніі</Form>
+            <Form tag="IP" type="potential">Бо+сніямі</Form>
+            <Form tag="LP" type="potential">Бо+сніях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037701" lemma="Бо+стан" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Бо+стан" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Бо+стан</Form>
@@ -4776,6 +5089,23 @@
             <Form tag="AP" type="potential">Бра+гіны</Form>
             <Form tag="IP" type="potential">Бра+гінамі</Form>
             <Form tag="LP" type="potential">Бра+гінах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313856" lemma="Бразі+лія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Бразі+лія" pravapis="A1957,A2008">
+            <Form tag="NS">Бразі+лія</Form>
+            <Form tag="GS">Бразі+ліі</Form>
+            <Form tag="DS">Бразі+ліі</Form>
+            <Form tag="AS">Бразі+лію</Form>
+            <Form tag="IS">Бразі+ліяй</Form>
+            <Form tag="IS">Бразі+ліяю</Form>
+            <Form tag="LS">Бразі+ліі</Form>
+            <Form tag="NP" type="potential">Бразі+ліі</Form>
+            <Form tag="GP" type="potential">Бразі+лій</Form>
+            <Form tag="DP" type="potential">Бразі+ліям</Form>
+            <Form tag="AP" type="potential">Бразі+ліі</Form>
+            <Form tag="IP" type="potential">Бразі+ліямі</Form>
+            <Form tag="LP" type="potential">Бразі+ліях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037704" lemma="Бра+ндэнбург" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -4925,9 +5255,22 @@
             <Form tag="PLP">Бро+дскіх</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1037710" lemma="Брунэ+й" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Брунэ+й" pravapis="A1957,A2008">
-            <Note>Націск выстаўлены праз web/batch</Note>
+    <Paradigm pdgId="1037710" lemma="Бруне+й" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Бруне+й" pravapis="A2008">
+            <Form tag="NS">Бруне+й</Form>
+            <Form tag="GS">Бруне+я</Form>
+            <Form tag="DS">Бруне+ю</Form>
+            <Form tag="AS">Бруне+й</Form>
+            <Form tag="IS">Бруне+ем</Form>
+            <Form tag="LS">Бруне+і</Form>
+            <Form tag="NP" type="potential">Бруне+і</Form>
+            <Form tag="GP" type="potential">Бруне+яў</Form>
+            <Form tag="DP" type="potential">Бруне+ям</Form>
+            <Form tag="AP" type="potential">Бруне+і</Form>
+            <Form tag="IP" type="potential">Бруне+ямі</Form>
+            <Form tag="LP" type="potential">Бруне+ях</Form>
+        </Variant>
+        <Variant id="b" lemma="Брунэ+й" type="nonstandard">
             <Form tag="NS">Брунэ+й</Form>
             <Form tag="GS">Брунэ+я</Form>
             <Form tag="DS">Брунэ+ю</Form>
@@ -5383,6 +5726,38 @@
             <Form tag="AP" type="potential">Бу+ргенланды</Form>
             <Form tag="IP" type="potential">Бу+ргенландамі</Form>
             <Form tag="LP" type="potential">Бу+ргенландах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313857" lemma="Буркіна+-Фасо+" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Буркіна+-Фасо+" pravapis="A1957,A2008">
+            <Form tag="NS">Буркіна+-Фасо+</Form>
+            <Form tag="GS">Буркіна+-Фасо+</Form>
+            <Form tag="DS">Буркіна+-Фасо+</Form>
+            <Form tag="AS">Буркіна+-Фасо+</Form>
+            <Form tag="IS">Буркіна+-Фасо+</Form>
+            <Form tag="LS">Буркіна+-Фасо+</Form>
+            <Form tag="NP" type="potential">Буркіна+-Фасо+</Form>
+            <Form tag="GP" type="potential">Буркіна+-Фасо+</Form>
+            <Form tag="DP" type="potential">Буркіна+-Фасо+</Form>
+            <Form tag="AP" type="potential">Буркіна+-Фасо+</Form>
+            <Form tag="IP" type="potential">Буркіна+-Фасо+</Form>
+            <Form tag="LP" type="potential">Буркіна+-Фасо+</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313859" lemma="Буру+ндзі" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Буру+ндзі" pravapis="A1957,A2008">
+            <Form tag="NS">Буру+ндзі</Form>
+            <Form tag="GS">Буру+ндзі</Form>
+            <Form tag="DS">Буру+ндзі</Form>
+            <Form tag="AS">Буру+ндзі</Form>
+            <Form tag="IS">Буру+ндзі</Form>
+            <Form tag="LS">Буру+ндзі</Form>
+            <Form tag="NP" type="potential">Буру+ндзі</Form>
+            <Form tag="GP" type="potential">Буру+ндзі</Form>
+            <Form tag="DP" type="potential">Буру+ндзі</Form>
+            <Form tag="AP" type="potential">Буру+ндзі</Form>
+            <Form tag="IP" type="potential">Буру+ндзі</Form>
+            <Form tag="LP" type="potential">Буру+ндзі</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037730" lemma="Бухарэ+ст" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -6348,6 +6723,22 @@
             <Form tag="LP" type="potential">Ванку+верах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313858" lemma="Вануа+ту" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Вануа+ту" pravapis="A1957,A2008">
+            <Form tag="NS">Вануа+ту</Form>
+            <Form tag="GS">Вануа+ту</Form>
+            <Form tag="DS">Вануа+ту</Form>
+            <Form tag="AS">Вануа+ту</Form>
+            <Form tag="IS">Вануа+ту</Form>
+            <Form tag="LS">Вануа+ту</Form>
+            <Form tag="NP" type="potential">Вануа+ту</Form>
+            <Form tag="GP" type="potential">Вануа+ту</Form>
+            <Form tag="DP" type="potential">Вануа+ту</Form>
+            <Form tag="AP" type="potential">Вануа+ту</Form>
+            <Form tag="IP" type="potential">Вануа+ту</Form>
+            <Form tag="LP" type="potential">Вануа+ту</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037796" lemma="Ванько+віч" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Ванько+віч">
             <Form tag="NS">Ванько+віч</Form>
@@ -6733,6 +7124,40 @@
             <Form tag="AP" type="potential">Вельзеву+лаў</Form>
             <Form tag="IP" type="potential">Вельзеву+ламі</Form>
             <Form tag="LP" type="potential">Вельзеву+лах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313860" lemma="Ве+нгрыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ве+нгрыя" pravapis="A1957,A2008">
+            <Form tag="NS">Ве+нгрыя</Form>
+            <Form tag="GS">Ве+нгрыі</Form>
+            <Form tag="DS">Ве+нгрыі</Form>
+            <Form tag="AS">Ве+нгрыю</Form>
+            <Form tag="IS">Ве+нгрыяй</Form>
+            <Form tag="IS">Ве+нгрыяю</Form>
+            <Form tag="LS">Ве+нгрыі</Form>
+            <Form tag="NP" type="potential">Ве+нгрыі</Form>
+            <Form tag="GP" type="potential">Ве+нгрый</Form>
+            <Form tag="DP" type="potential">Ве+нгрыям</Form>
+            <Form tag="AP" type="potential">Ве+нгрыі</Form>
+            <Form tag="IP" type="potential">Ве+нгрыямі</Form>
+            <Form tag="LP" type="potential">Ве+нгрыях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313861" lemma="Венесуэ+ла" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Венесуэ+ла" pravapis="A1957,A2008">
+            <Form tag="NS">Венесуэ+ла</Form>
+            <Form tag="GS">Венесуэ+лы</Form>
+            <Form tag="DS">Венесуэ+ле</Form>
+            <Form tag="AS">Венесуэ+лу</Form>
+            <Form tag="IS">Венесуэ+лай</Form>
+            <Form tag="IS">Венесуэ+лаю</Form>
+            <Form tag="LS">Венесуэ+ле</Form>
+            <Form tag="NP" type="potential">Венесуэ+лы</Form>
+            <Form tag="GP" type="potential">Венесуэ+л</Form>
+            <Form tag="DP" type="potential">Венесуэ+лам</Form>
+            <Form tag="AP" type="potential">Венесуэ+лы</Form>
+            <Form tag="IP" type="potential">Венесуэ+ламі</Form>
+            <Form tag="LP" type="potential">Венесуэ+лах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1313766" lemma="Верані+ка" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -7498,6 +7923,23 @@
             <Form tag="LP" type="potential">Вяле+сах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313862" lemma="Вялікабрыта+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Вялікабрыта+нія" pravapis="A1957,A2008">
+            <Form tag="NS">Вялікабрыта+нія</Form>
+            <Form tag="GS">Вялікабрыта+ніі</Form>
+            <Form tag="DS">Вялікабрыта+ніі</Form>
+            <Form tag="AS">Вялікабрыта+нію</Form>
+            <Form tag="IS">Вялікабрыта+ніяй</Form>
+            <Form tag="IS">Вялікабрыта+ніяю</Form>
+            <Form tag="LS">Вялікабрыта+ніі</Form>
+            <Form tag="NP" type="potential">Вялікабрыта+ніі</Form>
+            <Form tag="GP" type="potential">Вялікабрыта+ній</Form>
+            <Form tag="DP" type="potential">Вялікабрыта+ніям</Form>
+            <Form tag="AP" type="potential">Вялікабрыта+ніі</Form>
+            <Form tag="IP" type="potential">Вялікабрыта+ніямі</Form>
+            <Form tag="LP" type="potential">Вялікабрыта+ніях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037829" lemma="Вяліко+мір" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Вяліко+мір" pravapis="A1957,A2008">
             <Form tag="NS">Вяліко+мір</Form>
@@ -7529,6 +7971,22 @@
             <Form tag="AP">Вячасла+ваў</Form>
             <Form tag="IP">Вячасла+вамі</Form>
             <Form tag="LP">Вячасла+вах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313864" lemma="Габо+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Габо+н" pravapis="A1957,A2008">
+            <Form tag="NS">Габо+н</Form>
+            <Form tag="GS">Габо+на</Form>
+            <Form tag="DS">Габо+ну</Form>
+            <Form tag="AS">Габо+н</Form>
+            <Form tag="IS">Габо+нам</Form>
+            <Form tag="LS">Габо+не</Form>
+            <Form tag="NP" type="potential">Габо+ны</Form>
+            <Form tag="GP" type="potential">Габо+наў</Form>
+            <Form tag="DP" type="potential">Габо+нам</Form>
+            <Form tag="AP" type="potential">Габо+ны</Form>
+            <Form tag="IP" type="potential">Габо+намі</Form>
+            <Form tag="LP" type="potential">Габо+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037843" lemma="Габрыі+л" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -7899,6 +8357,23 @@
             <Form tag="AP" type="potential">Гальфстры+мы</Form>
             <Form tag="IP" type="potential">Гальфстры+мамі</Form>
             <Form tag="LP" type="potential">Гальфстры+мах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313863" lemma="Га+мбія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Га+мбія" pravapis="A1957,A2008">
+            <Form tag="NS">Га+мбія</Form>
+            <Form tag="GS">Га+мбіі</Form>
+            <Form tag="DS">Га+мбіі</Form>
+            <Form tag="AS">Га+мбію</Form>
+            <Form tag="IS">Га+мбіяй</Form>
+            <Form tag="IS">Га+мбіяю</Form>
+            <Form tag="LS">Га+мбіі</Form>
+            <Form tag="NP" type="potential">Га+мбіі</Form>
+            <Form tag="GP" type="potential">Га+мбій</Form>
+            <Form tag="DP" type="potential">Га+мбіям</Form>
+            <Form tag="AP" type="potential">Га+мбіі</Form>
+            <Form tag="IP" type="potential">Га+мбіямі</Form>
+            <Form tag="LP" type="potential">Га+мбіях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037861" lemma="Га+мбург" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -8574,6 +9049,40 @@
             <Form tag="LP" type="potential">Га+цькаўшчынах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313865" lemma="Гая+на" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Гая+на" pravapis="A1957,A2008">
+            <Form tag="NS">Гая+на</Form>
+            <Form tag="GS">Гая+ны</Form>
+            <Form tag="DS">Гая+не</Form>
+            <Form tag="AS">Гая+ну</Form>
+            <Form tag="IS">Гая+най</Form>
+            <Form tag="IS">Гая+наю</Form>
+            <Form tag="LS">Гая+не</Form>
+            <Form tag="NP" type="potential">Гая+ны</Form>
+            <Form tag="GP" type="potential">Гая+н</Form>
+            <Form tag="DP" type="potential">Гая+нам</Form>
+            <Form tag="AP" type="potential">Гая+ны</Form>
+            <Form tag="IP" type="potential">Гая+намі</Form>
+            <Form tag="LP" type="potential">Гая+нах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313869" lemma="Гвадэлу+па" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Гвадэлу+па" pravapis="A1957,A2008">
+            <Form tag="NS">Гвадэлу+па</Form>
+            <Form tag="GS">Гвадэлу+пы</Form>
+            <Form tag="DS">Гвадэлу+пе</Form>
+            <Form tag="AS">Гвадэлу+пу</Form>
+            <Form tag="IS">Гвадэлу+пай</Form>
+            <Form tag="IS">Гвадэлу+паю</Form>
+            <Form tag="LS">Гвадэлу+пе</Form>
+            <Form tag="NP" type="potential">Гвадэлу+пы</Form>
+            <Form tag="GP" type="potential">Гвадэлу+п</Form>
+            <Form tag="DP" type="potential">Гвадэлу+пам</Form>
+            <Form tag="AP" type="potential">Гвадэлу+пы</Form>
+            <Form tag="IP" type="potential">Гвадэлу+памі</Form>
+            <Form tag="LP" type="potential">Гвадэлу+пах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037337" lemma="Гватэма+ла" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Гватэма+ла" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -8590,6 +9099,40 @@
             <Form tag="AP" type="potential">Гватэма+лы</Form>
             <Form tag="IP" type="potential">Гватэма+ламі</Form>
             <Form tag="LP" type="potential">Гватэма+лах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313870" lemma="Гвіне+я" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Гвіне+я" pravapis="A1957,A2008">
+            <Form tag="NS">Гвіне+я</Form>
+            <Form tag="GS">Гвіне+і</Form>
+            <Form tag="DS">Гвіне+і</Form>
+            <Form tag="AS">Гвіне+ю</Form>
+            <Form tag="IS">Гвіне+яй</Form>
+            <Form tag="IS">Гвіне+яю</Form>
+            <Form tag="LS">Гвіне+і</Form>
+            <Form tag="NP" type="potential">Гвіне+і</Form>
+            <Form tag="GP" type="potential">Гвіне+й</Form>
+            <Form tag="DP" type="potential">Гвіне+ям</Form>
+            <Form tag="AP" type="potential">Гвіне+і</Form>
+            <Form tag="IP" type="potential">Гвіне+ямі</Form>
+            <Form tag="LP" type="potential">Гвіне+ях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313871" lemma="Гвія+на" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Гвія+на" pravapis="A1957,A2008">
+            <Form tag="NS">Гвія+на</Form>
+            <Form tag="GS">Гвія+ны</Form>
+            <Form tag="DS">Гвія+не</Form>
+            <Form tag="AS">Гвія+ну</Form>
+            <Form tag="IS">Гвія+най</Form>
+            <Form tag="IS">Гвія+наю</Form>
+            <Form tag="LS">Гвія+не</Form>
+            <Form tag="NP" type="potential">Гвія+ны</Form>
+            <Form tag="GP" type="potential">Гвія+н</Form>
+            <Form tag="DP" type="potential">Гвія+нам</Form>
+            <Form tag="AP" type="potential">Гвія+ны</Form>
+            <Form tag="IP" type="potential">Гвія+намі</Form>
+            <Form tag="LP" type="potential">Гвія+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037884" lemma="Гда+ньск" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -9068,8 +9611,23 @@
             <Form tag="LP">Ге+рхардах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1037340" lemma="Герцэгаві+на" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Герцэгаві+на" pravapis="A1957,A2008">
+    <Paradigm pdgId="1037340" lemma="Герцагаві+на" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Герцагаві+на" pravapis="A2008">
+            <Form tag="NS">Герцагаві+на</Form>
+            <Form tag="GS">Герцагаві+ны</Form>
+            <Form tag="DS">Герцагаві+не</Form>
+            <Form tag="AS">Герцагаві+ну</Form>
+            <Form tag="IS">Герцагаві+най</Form>
+            <Form tag="IS">Герцагаві+наю</Form>
+            <Form tag="LS">Герцагаві+не</Form>
+            <Form tag="NP" type="potential">Герцагаві+ны</Form>
+            <Form tag="GP" type="potential">Герцагаві+н</Form>
+            <Form tag="DP" type="potential">Герцагаві+нам</Form>
+            <Form tag="AP" type="potential">Герцагаві+ны</Form>
+            <Form tag="IP" type="potential">Герцагаві+намі</Form>
+            <Form tag="LP" type="potential">Герцагаві+нах</Form>
+        </Variant>
+        <Variant id="b" lemma="Герцэгаві+на" pravapis="A1957">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="NS">Герцэгаві+на</Form>
             <Form tag="GS">Герцэгаві+ны</Form>
@@ -9807,6 +10365,33 @@
             <Form tag="LP">Грэ+гары</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313868" lemma="Грэна+да" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Грэна+да" pravapis="A1957,A2008">
+            <Form tag="NS">Грэна+да</Form>
+            <Form tag="GS">Грэна+ды</Form>
+            <Form tag="DS">Грэна+дзе</Form>
+            <Form tag="AS">Грэна+ду</Form>
+            <Form tag="IS">Грэна+дай</Form>
+            <Form tag="IS">Грэна+даю</Form>
+            <Form tag="LS">Грэна+дзе</Form>
+            <Form tag="NP" type="potential">Грэна+ды</Form>
+            <Form tag="GP" type="potential">Грэна+д</Form>
+            <Form tag="DP" type="potential">Грэна+дам</Form>
+            <Form tag="AP" type="potential">Грэна+ды</Form>
+            <Form tag="IP" type="potential">Грэна+дамі</Form>
+            <Form tag="LP" type="potential">Грэна+дах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313904" lemma="Грэнадзі+ны" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Грэнадзі+ны" pravapis="A1957,A2008">
+            <Form tag="NP" type="potential">Грэнадзі+ны</Form>
+            <Form tag="GP" type="potential">Грэнадзі+наў</Form>
+            <Form tag="DP" type="potential">Грэнадзі+нам</Form>
+            <Form tag="AP" type="potential">Грэнадзі+ны</Form>
+            <Form tag="IP" type="potential">Грэнадзі+намі</Form>
+            <Form tag="LP" type="potential">Грэнадзі+нах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037348" lemma="Грэнла+ндыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Грэнла+ндыя" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -9859,6 +10444,22 @@
             <Form tag="AP" type="potential">Грэ+цыі</Form>
             <Form tag="IP" type="potential">Грэ+цыямі</Form>
             <Form tag="LP" type="potential">Грэ+цых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313872" lemma="Гуа+м" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Гуа+м" pravapis="A1957,A2008">
+            <Form tag="NS">Гуа+м</Form>
+            <Form tag="GS">Гуа+ма</Form>
+            <Form tag="DS">Гуа+му</Form>
+            <Form tag="AS">Гуа+м</Form>
+            <Form tag="IS">Гуа+мам</Form>
+            <Form tag="LS">Гуа+ме</Form>
+            <Form tag="NP" type="potential">Гуа+мы</Form>
+            <Form tag="GP" type="potential">Гуа+маў</Form>
+            <Form tag="DP" type="potential">Гуа+мам</Form>
+            <Form tag="AP" type="potential">Гуа+мы</Form>
+            <Form tag="IP" type="potential">Гуа+мамі</Form>
+            <Form tag="LP" type="potential">Гуа+мах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037934" lemma="Гуангдо+нг" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
@@ -11030,6 +11631,22 @@
             <Form tag="AP">Джулье+т</Form>
             <Form tag="IP">Джулье+тамі</Form>
             <Form tag="LP">Джулье+тах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313873" lemma="Джыбу+ці" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Джыбу+ці" pravapis="A1957,A2008">
+            <Form tag="NS">Джыбу+ці</Form>
+            <Form tag="GS">Джыбу+ці</Form>
+            <Form tag="DS">Джыбу+ці</Form>
+            <Form tag="AS">Джыбу+ці</Form>
+            <Form tag="IS">Джыбу+ці</Form>
+            <Form tag="LS">Джыбу+ці</Form>
+            <Form tag="NP" type="potential">Джыбу+ці</Form>
+            <Form tag="GP" type="potential">Джыбу+ці</Form>
+            <Form tag="DP" type="potential">Джыбу+ці</Form>
+            <Form tag="AP" type="potential">Джыбу+ці</Form>
+            <Form tag="IP" type="potential">Джыбу+ці</Form>
+            <Form tag="LP" type="potential">Джыбу+ці</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037988" lemma="Джыгарханя+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -13990,6 +14607,23 @@
             <Form tag="LP">Замаруевых</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313876" lemma="За+мбія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="За+мбія" pravapis="A1957,A2008">
+            <Form tag="NS">За+мбія</Form>
+            <Form tag="GS">За+мбіі</Form>
+            <Form tag="DS">За+мбіі</Form>
+            <Form tag="AS">За+мбію</Form>
+            <Form tag="IS">За+мбіяй</Form>
+            <Form tag="IS">За+мбіяю</Form>
+            <Form tag="LS">За+мбіі</Form>
+            <Form tag="NP" type="potential">За+мбіі</Form>
+            <Form tag="GP" type="potential">За+мбій</Form>
+            <Form tag="DP" type="potential">За+мбіям</Form>
+            <Form tag="AP" type="potential">За+мбіі</Form>
+            <Form tag="IP" type="potential">За+мбіямі</Form>
+            <Form tag="LP" type="potential">За+мбіях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1127647" lemma="Запаля+р'е" tag="NPIINN1">
         <Variant id="a" lemma="Запаля+р'е" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="64219">{b}Запаля´р’е{/b}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
@@ -14379,6 +15013,16 @@
             <Form tag="AP">Зо+й</Form>
             <Form tag="IP">Зо+ямі</Form>
             <Form tag="LP">Зо+ях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313875" lemma="ЗША+" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="ЗША+" pravapis="A1957,A2008">
+            <Form tag="NP" type="potential">ЗША+</Form>
+            <Form tag="GP" type="potential">ЗША+</Form>
+            <Form tag="DP" type="potential">ЗША+</Form>
+            <Form tag="AP" type="potential">ЗША+</Form>
+            <Form tag="IP" type="potential">ЗША+</Form>
+            <Form tag="LP" type="potential">ЗША+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038124" lemma="Зяно+віч" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -14954,9 +15598,24 @@
             <Form tag="LP" type="potential">Інгушэ+ціях</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1037403" lemma="Інданэ+зія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Інданэ+зія" pravapis="nonstandard">
-            <Note>Націск выстаўлены праз web/batch</Note>
+    <Paradigm pdgId="1037403" lemma="Індане+зія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Індане+зія" pravapis="A1957,A2008">
+            <Form tag="NS">Індане+зія</Form>
+            <Form tag="GS">Індане+зіі</Form>
+            <Form tag="DS">Індане+зіі</Form>
+            <Form tag="AS">Індане+зію</Form>
+            <Form tag="IS">Індане+зіяй</Form>
+            <Form tag="IS">Індане+зіяю</Form>
+            <Form tag="LS">Індане+зіі</Form>
+            <Form tag="NP" type="potential">Індане+зіі</Form>
+            <Form tag="GP" type="potential">Індане+зій</Form>
+            <Form tag="GP" type="potential">Індане+зіяў</Form>
+            <Form tag="DP" type="potential">Індане+зіям</Form>
+            <Form tag="AP" type="potential">Індане+зіі</Form>
+            <Form tag="IP" type="potential">Індане+зіямі</Form>
+            <Form tag="LP" type="potential">Індане+зіях</Form>
+        </Variant>
+        <Variant id="b" lemma="Інданэ+зія" type="nonstandard">
             <Form tag="NS">Інданэ+зія</Form>
             <Form tag="GS">Інданэ+зіі</Form>
             <Form tag="DS">Інданэ+зіі</Form>
@@ -15551,6 +16210,37 @@
             <Form tag="IP" type="potential">Іярда+ніямі</Form>
             <Form tag="LP" type="potential">Іярда+ніях</Form>
         </Variant>
+        <Variant id="b" lemma="Іарда+нія" type="nonstandard">
+            <Form tag="NS">Іарда+нія</Form>
+            <Form tag="GS">Іарда+ніі</Form>
+            <Form tag="DS">Іарда+ніі</Form>
+            <Form tag="AS">Іарда+нію</Form>
+            <Form tag="IS">Іарда+ніяй</Form>
+            <Form tag="IS">Іарда+ніяю</Form>
+            <Form tag="LS">Іарда+ніі</Form>
+            <Form tag="NP" type="potential">Іарда+ніі</Form>
+            <Form tag="GP" type="potential">Іарда+ній</Form>
+            <Form tag="DP" type="potential">Іарда+ніям</Form>
+            <Form tag="AP" type="potential">Іарда+ніі</Form>
+            <Form tag="IP" type="potential">Іарда+ніямі</Form>
+            <Form tag="LP" type="potential">Іарда+ніях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313878" lemma="Каба-Ве+рдэ" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Каба-Ве+рдэ" pravapis="A1957,A2008">
+            <Form tag="NS">Каба-Ве+рдэ</Form>
+            <Form tag="GS">Каба-Ве+рдэ</Form>
+            <Form tag="DS">Каба-Ве+рдэ</Form>
+            <Form tag="AS">Каба-Ве+рдэ</Form>
+            <Form tag="IS">Каба-Ве+рдэ</Form>
+            <Form tag="LS">Каба-Ве+рдэ</Form>
+            <Form tag="NP" type="potential">Каба-Ве+рдэ</Form>
+            <Form tag="GP" type="potential">Каба-Ве+рдэ</Form>
+            <Form tag="DP" type="potential">Каба-Ве+рдэ</Form>
+            <Form tag="AP" type="potential">Каба-Ве+рдэ</Form>
+            <Form tag="IP" type="potential">Каба-Ве+рдэ</Form>
+            <Form tag="LP" type="potential">Каба-Ве+рдэ</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1037414" lemma="Кавалё+ва" tag="NPAPNF6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Кавалё+ва">
@@ -15771,6 +16461,23 @@
             <Form tag="AP">Кала+шнікавых</Form>
             <Form tag="IP">Кала+шнікавымі</Form>
             <Form tag="LP">Кала+шнікавых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313879" lemma="Каледо+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Каледо+нія" pravapis="A1957,A2008">
+            <Form tag="NS">Каледо+нія</Form>
+            <Form tag="GS">Каледо+ніі</Form>
+            <Form tag="DS">Каледо+ніі</Form>
+            <Form tag="AS">Каледо+нію</Form>
+            <Form tag="IS">Каледо+ніяй</Form>
+            <Form tag="IS">Каледо+ніяю</Form>
+            <Form tag="LS">Каледо+ніі</Form>
+            <Form tag="NP" type="potential">Каледо+ніі</Form>
+            <Form tag="GP" type="potential">Каледо+ній</Form>
+            <Form tag="DP" type="potential">Каледо+ніям</Form>
+            <Form tag="AP" type="potential">Каледо+ніі</Form>
+            <Form tag="IP" type="potential">Каледо+ніямі</Form>
+            <Form tag="LP" type="potential">Каледо+ніях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038138" lemma="Кале+снік" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -17522,6 +18229,22 @@
             <Form tag="LP" type="potential">Кі+евах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313882" lemma="Кі+пр" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Кі+пр" pravapis="A1957,A2008">
+            <Form tag="NS">Кі+пр</Form>
+            <Form tag="GS">Кі+пра</Form>
+            <Form tag="DS">Кі+пру</Form>
+            <Form tag="AS">Кі+пр</Form>
+            <Form tag="IS">Кі+прам</Form>
+            <Form tag="LS">Кі+пру</Form>
+            <Form tag="NP" type="potential">Кі+пры</Form>
+            <Form tag="GP" type="potential">Кі+праў</Form>
+            <Form tag="DP" type="potential">Кі+прам</Form>
+            <Form tag="AP" type="potential">Кі+пры</Form>
+            <Form tag="IP" type="potential">Кі+прамі</Form>
+            <Form tag="LP" type="potential">Кі+прах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1313788" lemma="Кі+ра" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant id="a" lemma="Кі+ра" pravapis="A1957,A2008">
             <Form tag="NS">Кі+ра</Form>
@@ -17555,6 +18278,22 @@
             <Form tag="AP" type="potential">Кіргі+зіі</Form>
             <Form tag="IP" type="potential">Кіргі+зіямі</Form>
             <Form tag="LP" type="potential">Кіргі+зіях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313874" lemma="Кірыба+ці" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Кірыба+ці" pravapis="A1957,A2008">
+            <Form tag="NS">Кірыба+ці</Form>
+            <Form tag="GS">Кірыба+ці</Form>
+            <Form tag="DS">Кірыба+ці</Form>
+            <Form tag="AS">Кірыба+ці</Form>
+            <Form tag="IS">Кірыба+ці</Form>
+            <Form tag="LS">Кірыба+ці</Form>
+            <Form tag="NP" type="potential">Кірыба+ці</Form>
+            <Form tag="GP" type="potential">Кірыба+ці</Form>
+            <Form tag="DP" type="potential">Кірыба+ці</Form>
+            <Form tag="AP" type="potential">Кірыба+ці</Form>
+            <Form tag="IP" type="potential">Кірыба+ці</Form>
+            <Form tag="LP" type="potential">Кірыба+ці</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1313789" lemma="Кіры+л" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -17893,6 +18632,16 @@
             <Form tag="PLP">Ключэўскіх</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313877" lemma="КНДР" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="КНДР" pravapis="A1957,A2008">
+            <Form tag="NS">КНДР</Form>
+            <Form tag="GS">КНДР</Form>
+            <Form tag="DS">КНДР</Form>
+            <Form tag="AS">КНДР</Form>
+            <Form tag="IS">КНДР</Form>
+            <Form tag="LS">КНДР</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038212" lemma="Кнышэ+віч" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Кнышэ+віч">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -18005,6 +18754,22 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313866" lemma="Ко+нга" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ко+нга" pravapis="A1957,A2008">
+            <Form tag="NS">Ко+нга</Form>
+            <Form tag="GS">Ко+нга</Form>
+            <Form tag="DS">Ко+нга</Form>
+            <Form tag="AS">Ко+нга</Form>
+            <Form tag="IS">Ко+нга</Form>
+            <Form tag="LS">Ко+нга</Form>
+            <Form tag="NP" type="potential">Ко+нга</Form>
+            <Form tag="GP" type="potential">Ко+нга</Form>
+            <Form tag="DP" type="potential">Ко+нга</Form>
+            <Form tag="AP" type="potential">Ко+нга</Form>
+            <Form tag="IP" type="potential">Ко+нга</Form>
+            <Form tag="LP" type="potential">Ко+нга</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038217" lemma="Ко+нрад" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны;Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Ко+нрад" pravapis="A1957,A2008">
             <Form tag="NS">Ко+нрад</Form>
@@ -18035,6 +18800,23 @@
             <Form tag="AP" type="potential">Ко+савы</Form>
             <Form tag="IP" type="potential">Ко+савамі</Form>
             <Form tag="LP" type="potential">Ко+савах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313867" lemma="Коста-Ры+ка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Коста-Ры+ка" pravapis="A1957,A2008">
+            <Form tag="NS">Коста-Ры+ка</Form>
+            <Form tag="GS">Коста-Ры+кі</Form>
+            <Form tag="DS">Коста-Ры+цы</Form>
+            <Form tag="AS">Коста-Ры+ку</Form>
+            <Form tag="IS">Коста-Ры+кай</Form>
+            <Form tag="IS">Коста-Ры+каю</Form>
+            <Form tag="LS">Коста-Ры+цы</Form>
+            <Form tag="NP" type="potential">Коста-Ры+кі</Form>
+            <Form tag="GP" type="potential">Коста-Ры+к</Form>
+            <Form tag="DP" type="potential">Коста-Ры+кам</Form>
+            <Form tag="AP" type="potential">Коста-Ры+к</Form>
+            <Form tag="IP" type="potential">Коста-Ры+камі</Form>
+            <Form tag="LP" type="potential">Коста-Ры+ках</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127674" lemma="Ко+ўна" tag="NPIINN1">
@@ -19074,6 +19856,22 @@
             <Form tag="LP" type="potential">Кызы+лах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313880" lemma="Кыргызста+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Кыргызста+н" pravapis="A1957,A2008">
+            <Form tag="NS">Кыргызста+н</Form>
+            <Form tag="GS">Кыргызста+на</Form>
+            <Form tag="DS">Кыргызста+ну</Form>
+            <Form tag="AS">Кыргызста+н</Form>
+            <Form tag="IS">Кыргызста+нам</Form>
+            <Form tag="LS">Кыргызста+не</Form>
+            <Form tag="NP" type="potential">Кыргызста+ны</Form>
+            <Form tag="GP" type="potential">Кыргызста+наў</Form>
+            <Form tag="DP" type="potential">Кыргызста+нам</Form>
+            <Form tag="AP" type="potential">Кыргызста+ны</Form>
+            <Form tag="IP" type="potential">Кыргызста+намі</Form>
+            <Form tag="LP" type="potential">Кыргызста+нах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038259" lemma="Кыргызта+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Кыргызта+н" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -19156,6 +19954,22 @@
             <Form tag="AP"></Form>
             <Form tag="IP"></Form>
             <Form tag="LP"></Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313881" lemma="Кюраса+а" tag="NPIINN0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Кюраса+а" pravapis="A1957,A2008">
+            <Form tag="NS">Кюраса+а</Form>
+            <Form tag="GS">Кюраса+а</Form>
+            <Form tag="DS">Кюраса+а</Form>
+            <Form tag="AS">Кюраса+а</Form>
+            <Form tag="IS">Кюраса+а</Form>
+            <Form tag="LS">Кюраса+а</Form>
+            <Form tag="NP" type="potential">Кюраса+а</Form>
+            <Form tag="GP" type="potential">Кюраса+а</Form>
+            <Form tag="DP" type="potential">Кюраса+а</Form>
+            <Form tag="AP" type="potential">Кюраса+а</Form>
+            <Form tag="IP" type="potential">Кюраса+а</Form>
+            <Form tag="LP" type="potential">Кюраса+а</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019522" lemma="Лаба+" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы">
@@ -19442,6 +20256,22 @@
             <Form tag="AP" type="potential">Ламба+рдыі</Form>
             <Form tag="IP" type="potential">Ламба+рдыямі</Form>
             <Form tag="LP" type="potential">Ламба+рдыях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313883" lemma="Лао+с" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Лао+с" pravapis="A1957,A2008">
+            <Form tag="NS">Лао+с</Form>
+            <Form tag="GS">Лао+са</Form>
+            <Form tag="DS">Лао+су</Form>
+            <Form tag="AS">Лао+с</Form>
+            <Form tag="IS">Лао+сам</Form>
+            <Form tag="LS">Лао+се</Form>
+            <Form tag="NP" type="potential">Лао+сы</Form>
+            <Form tag="GP" type="potential">Лао+саў</Form>
+            <Form tag="DP" type="potential">Лао+сам</Form>
+            <Form tag="AP" type="potential">Лао+сы</Form>
+            <Form tag="IP" type="potential">Лао+самі</Form>
+            <Form tag="LP" type="potential">Лао+сах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019563" lemma="Лапла+ндыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
@@ -19933,6 +20763,23 @@
             <Form tag="LP" type="potential">Лжэдзмі+трыях</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313884" lemma="Лібе+рыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Лібе+рыя" pravapis="A1957,A2008">
+            <Form tag="NS">Лібе+рыя</Form>
+            <Form tag="GS">Лібе+рыі</Form>
+            <Form tag="DS">Лібе+рыі</Form>
+            <Form tag="AS">Лібе+рыю</Form>
+            <Form tag="IS">Лібе+рыяй</Form>
+            <Form tag="IS">Лібе+рыяю</Form>
+            <Form tag="LS">Лібе+рыі</Form>
+            <Form tag="NP" type="potential">Лібе+рыі</Form>
+            <Form tag="GP" type="potential">Лібе+рый</Form>
+            <Form tag="DP" type="potential">Лібе+рыям</Form>
+            <Form tag="AP" type="potential">Лібе+рыі</Form>
+            <Form tag="IP" type="potential">Лібе+рыямі</Form>
+            <Form tag="LP" type="potential">Лібе+рыях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038265" lemma="Лібкнехт" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Лібкнехт">
             <Form tag="NS">Лібкнехт</Form>
@@ -19948,6 +20795,22 @@
             <Form tag="AP">Лібкнехтаў</Form>
             <Form tag="IP">Лібкнехтамі</Form>
             <Form tag="LP">Лібкнехтах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313885" lemma="Ліва+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ліва+н" pravapis="A1957,A2008">
+            <Form tag="NS">Ліва+н</Form>
+            <Form tag="GS">Ліва+на</Form>
+            <Form tag="DS">Ліва+ну</Form>
+            <Form tag="AS">Ліва+н</Form>
+            <Form tag="IS">Ліва+нам</Form>
+            <Form tag="LS">Ліва+не</Form>
+            <Form tag="NP" type="potential">Ліва+ны</Form>
+            <Form tag="GP" type="potential">Ліва+наў</Form>
+            <Form tag="DP" type="potential">Ліва+нам</Form>
+            <Form tag="AP" type="potential">Ліва+ны</Form>
+            <Form tag="IP" type="potential">Ліва+намі</Form>
+            <Form tag="LP" type="potential">Ліва+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038266" lemma="Ліверпу+ль" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -21258,6 +22121,23 @@
             <Form tag="PLP">Ляшчы+нскіх</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313886" lemma="М'я+нма" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="М'я+нма" pravapis="A1957,A2008">
+            <Form tag="NS">М'я+нма</Form>
+            <Form tag="GS">М'я+нмы</Form>
+            <Form tag="DS">М'я+нме</Form>
+            <Form tag="AS">М'я+нму</Form>
+            <Form tag="IS">М'я+нмай</Form>
+            <Form tag="IS">М'я+нмаю</Form>
+            <Form tag="LS">М'я+нме</Form>
+            <Form tag="NP" type="potential">М'я+нмы</Form>
+            <Form tag="GP" type="potential">М'я+нм</Form>
+            <Form tag="DP" type="potential">М'я+нмам</Form>
+            <Form tag="AP" type="potential">М'я+нмы</Form>
+            <Form tag="IP" type="potential">М'я+нмамі</Form>
+            <Form tag="LP" type="potential">М'я+нмах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038377" lemma="Маа+с" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы">
         <Variant id="a" lemma="Маа+с" pravapis="A1957,A2008">
             <Form tag="NS">Маа+с</Form>
@@ -21441,6 +22321,22 @@
             <Form tag="LP" type="potential">Магнітаго+рсках</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313887" lemma="Мадагаска+р" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Мадагаска+р" pravapis="A1957,A2008">
+            <Form tag="NS">Мадагаска+р</Form>
+            <Form tag="GS">Мадагаска+ра</Form>
+            <Form tag="DS">Мадагаска+ру</Form>
+            <Form tag="AS">Мадагаска+р</Form>
+            <Form tag="IS">Мадагаска+рам</Form>
+            <Form tag="LS">Мадагаска+ру</Form>
+            <Form tag="NP" type="potential">Мадагаска+ры</Form>
+            <Form tag="GP" type="potential">Мадагаска+раў</Form>
+            <Form tag="DP" type="potential">Мадагаска+рам</Form>
+            <Form tag="AP" type="potential">Мадагаска+ры</Form>
+            <Form tag="IP" type="potential">Мадагаска+рамі</Form>
+            <Form tag="LP" type="potential">Мадагаска+рах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038385" lemma="Мадры+д" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Мадры+д" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -21456,6 +22352,22 @@
             <Form tag="AP" type="potential">Мадры+ды</Form>
             <Form tag="IP" type="potential">Мадры+дамі</Form>
             <Form tag="LP" type="potential">Мадры+дах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313919" lemma="Маё+та" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Маё+та" pravapis="A1957,A2008">
+            <Form tag="NS">Маё+та</Form>
+            <Form tag="GS">Маё+ты</Form>
+            <Form tag="DS">Маё+це</Form>
+            <Form tag="AS">Маё+ту</Form>
+            <Form tag="IS">Маё+тай</Form>
+            <Form tag="LS">Маё+це</Form>
+            <Form tag="NP" type="potential">Маё+ты</Form>
+            <Form tag="GP" type="potential">Маё+таў</Form>
+            <Form tag="DP" type="potential">Маё+там</Form>
+            <Form tag="AP" type="potential">Маё+ты</Form>
+            <Form tag="IP" type="potential">Маё+тамі</Form>
+            <Form tag="LP" type="potential">Маё+тах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038386" lemma="Мажа+йск" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -21506,6 +22418,22 @@
             <Form tag="AP">Мазалавых</Form>
             <Form tag="IP">Мазалавымі</Form>
             <Form tag="LP">Мазалавых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313888" lemma="Мазамбі+к" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Мазамбі+к" pravapis="A1957,A2008">
+            <Form tag="NS">Мазамбі+к</Form>
+            <Form tag="GS">Мазамбі+ка</Form>
+            <Form tag="DS">Мазамбі+ку</Form>
+            <Form tag="AS">Мазамбі+к</Form>
+            <Form tag="IS">Мазамбі+кам</Form>
+            <Form tag="LS">Мазамбі+ку</Form>
+            <Form tag="NP" type="potential">Мазамбі+кі</Form>
+            <Form tag="GP" type="potential">Мазамбі+каў</Form>
+            <Form tag="DP" type="potential">Мазамбі+кам</Form>
+            <Form tag="AP" type="potential">Мазамбі+кі</Form>
+            <Form tag="IP" type="potential">Мазамбі+камі</Form>
+            <Form tag="LP" type="potential">Мазамбі+ках</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019822" lemma="Ма+зда" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/гатункі, фірмы">
@@ -21920,6 +22848,16 @@
             <Form tag="LP" type="potential">Ма+льбарках</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313889" lemma="Мальды+вы" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Мальды+вы" pravapis="A1957,A2008">
+            <Form tag="NP" type="potential">Мальды+вы</Form>
+            <Form tag="GP" type="potential">Мальды+ў</Form>
+            <Form tag="DP" type="potential">Мальды+вам</Form>
+            <Form tag="AP" type="potential">Мальды+вы</Form>
+            <Form tag="IP" type="potential">Мальды+вамі</Form>
+            <Form tag="LP" type="potential">Мальды+вах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1019882" lemma="Мальё+рка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Мальё+рка" pravapis="A1957,A2008">
             <Form tag="NS">Мальё+рка</Form>
@@ -22041,6 +22979,22 @@
             <Form tag="AP" type="potential">Манрэа+лі</Form>
             <Form tag="IP" type="potential">Манрэа+лямі</Form>
             <Form tag="LP" type="potential">Манрэа+лях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313918" lemma="Мантсера+т" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Мантсера+т" pravapis="A1957,A2008">
+            <Form tag="NS">Мантсера+т</Form>
+            <Form tag="GS">Мантсера+та</Form>
+            <Form tag="DS">Мантсера+ту</Form>
+            <Form tag="AS">Мантсера+т</Form>
+            <Form tag="IS">Мантсера+там</Form>
+            <Form tag="LS">Мантсера+це</Form>
+            <Form tag="NP" type="potential">Мантсера+ты</Form>
+            <Form tag="GP" type="potential">Мантсера+таў</Form>
+            <Form tag="DP" type="potential">Мантсера+там</Form>
+            <Form tag="AP" type="potential">Мантсера+ты</Form>
+            <Form tag="IP" type="potential">Мантсера+тамі</Form>
+            <Form tag="LP" type="potential">Мантсера+тах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038407" lemma="Мануцый" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -22543,6 +23497,23 @@
             <Form tag="LP">Ма+рцінах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313917" lemma="Марціні+ка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Марціні+ка" pravapis="A1957,A2008">
+            <Form tag="NS">Марціні+ка</Form>
+            <Form tag="GS">Марціні+кі</Form>
+            <Form tag="DS">Марціні+цы</Form>
+            <Form tag="AS">Марціні+ку</Form>
+            <Form tag="IS">Марціні+кай</Form>
+            <Form tag="IS">Марціні+каю</Form>
+            <Form tag="LS">Марціні+цы</Form>
+            <Form tag="NP" type="potential">Марціні+кі</Form>
+            <Form tag="GP" type="potential">Марціні+каў</Form>
+            <Form tag="DP" type="potential">Марціні+кам</Form>
+            <Form tag="AP" type="potential">Марціні+кі</Form>
+            <Form tag="IP" type="potential">Марціні+камі</Form>
+            <Form tag="LP" type="potential">Марціні+ках</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038424" lemma="Марцінке+віч" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Марцінке+віч">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -22816,6 +23787,23 @@
             <Form tag="AP" type="potential">Маўры+кіі</Form>
             <Form tag="IP" type="potential">Маўры+кіямі</Form>
             <Form tag="LP" type="potential">Маўры+кіях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313890" lemma="Маўрыта+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Маўрыта+нія" pravapis="A1957,A2008">
+            <Form tag="NS">Маўрыта+нія</Form>
+            <Form tag="GS">Маўрыта+ніі</Form>
+            <Form tag="DS">Маўрыта+ніі</Form>
+            <Form tag="AS">Маўрыта+нію</Form>
+            <Form tag="IS">Маўрыта+ніяй</Form>
+            <Form tag="IS">Маўрыта+ніяю</Form>
+            <Form tag="LS">Маўрыта+ніі</Form>
+            <Form tag="NP" type="potential">Маўрыта+ніі</Form>
+            <Form tag="GP" type="potential">Маўрыта+ній</Form>
+            <Form tag="DP" type="potential">Маўрыта+ніям</Form>
+            <Form tag="AP" type="potential">Маўрыта+ніі</Form>
+            <Form tag="IP" type="potential">Маўрыта+ніямі</Form>
+            <Form tag="LP" type="potential">Маўрыта+ніях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038373" lemma="Ма+ўс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/міфонімы">
@@ -23489,6 +24477,24 @@
             <Form tag="AP">Міко+лаў</Form>
             <Form tag="IP">Міко+ламі</Form>
             <Form tag="LP">Міко+лах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313891" lemma="Мікране+зія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Мікране+зія" pravapis="A1957,A2008">
+            <Form tag="NS">Мікране+зія</Form>
+            <Form tag="GS">Мікране+зіі</Form>
+            <Form tag="DS">Мікране+зіі</Form>
+            <Form tag="AS">Мікране+зію</Form>
+            <Form tag="IS">Мікране+зіяй</Form>
+            <Form tag="IS">Мікране+зіяю</Form>
+            <Form tag="LS">Мікране+зіі</Form>
+            <Form tag="NP" type="potential">Мікране+зіі</Form>
+            <Form tag="GP" type="potential">Мікране+зій</Form>
+            <Form tag="GP" type="potential">Мікране+зіяў</Form>
+            <Form tag="DP" type="potential">Мікране+зіям</Form>
+            <Form tag="AP" type="potential">Мікране+зіі</Form>
+            <Form tag="IP" type="potential">Мікране+зіямі</Form>
+            <Form tag="LP" type="potential">Мікране+зіях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019722" lemma="Мікранэ+зія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
@@ -25122,6 +26128,22 @@
             <Form tag="LP">Ната+шах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313892" lemma="Нау+ру" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Нау+ру" pravapis="A1957,A2008">
+            <Form tag="NS">Нау+ру</Form>
+            <Form tag="GS">Нау+ру</Form>
+            <Form tag="DS">Нау+ру</Form>
+            <Form tag="AS">Нау+ру</Form>
+            <Form tag="IS">Нау+ру</Form>
+            <Form tag="LS">Нау+ру</Form>
+            <Form tag="NP" type="potential">Нау+ру</Form>
+            <Form tag="GP" type="potential">Нау+ру</Form>
+            <Form tag="DP" type="potential">Нау+ру</Form>
+            <Form tag="AP" type="potential">Нау+ру</Form>
+            <Form tag="IP" type="potential">Нау+ру</Form>
+            <Form tag="LP" type="potential">Нау+ру</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038499" lemma="Нафта+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/арганізацыі;Імёны ўласныя/Таксаномія/арганізацыі">
         <Variant id="a" lemma="Нафта+н">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -25208,6 +26230,22 @@
             <Form tag="AP" type="potential">Нева+ды</Form>
             <Form tag="IP" type="potential">Нева+дамі</Form>
             <Form tag="LP" type="potential">Нева+дах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313905" lemma="Не+віс" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Не+віс" pravapis="A1957,A2008">
+            <Form tag="NS">Не+віс</Form>
+            <Form tag="GS">Не+віса</Form>
+            <Form tag="DS">Не+вісу</Form>
+            <Form tag="AS">Не+віс</Form>
+            <Form tag="IS">Не+вісам</Form>
+            <Form tag="LS">Не+вісе</Form>
+            <Form tag="NP" type="potential">Не+вісы</Form>
+            <Form tag="GP" type="potential">Не+вісаў</Form>
+            <Form tag="DP" type="potential">Не+вісам</Form>
+            <Form tag="AP" type="potential">Не+вісы</Form>
+            <Form tag="IP" type="potential">Не+вісамі</Form>
+            <Form tag="LP" type="potential">Не+вісах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038503" lemma="Не+джэф" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -25363,6 +26401,22 @@
             <Form tag="LP" type="potential">Неферці+ці</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313893" lemma="Ні+гер" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ні+гер" pravapis="A1957,A2008">
+            <Form tag="NS">Ні+гер</Form>
+            <Form tag="GS">Ні+гера</Form>
+            <Form tag="DS">Ні+геру</Form>
+            <Form tag="AS">Ні+гер</Form>
+            <Form tag="IS">Ні+герам</Form>
+            <Form tag="LS">Ні+геру</Form>
+            <Form tag="NP" type="potential">Ні+геры</Form>
+            <Form tag="GP" type="potential">Ні+гераў</Form>
+            <Form tag="DP" type="potential">Ні+герам</Form>
+            <Form tag="AP" type="potential">Ні+геры</Form>
+            <Form tag="IP" type="potential">Ні+герамі</Form>
+            <Form tag="LP" type="potential">Ні+герах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1020218" lemma="Ніге+рыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Ніге+рыя" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -25442,6 +26496,22 @@
             <Form tag="AP">Ні+калсанаў</Form>
             <Form tag="IP">Ні+калсанамі</Form>
             <Form tag="LP">Ні+калсанах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313894" lemma="Нікара+гуа" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Нікара+гуа" pravapis="A1957,A2008">
+            <Form tag="NS">Нікара+гуа</Form>
+            <Form tag="GS">Нікара+гуа</Form>
+            <Form tag="DS">Нікара+гуа</Form>
+            <Form tag="AS">Нікара+гуа</Form>
+            <Form tag="IS">Нікара+гуа</Form>
+            <Form tag="LS">Нікара+гуа</Form>
+            <Form tag="NP" type="potential">Нікара+гуа</Form>
+            <Form tag="GP" type="potential">Нікара+гуа</Form>
+            <Form tag="DP" type="potential">Нікара+гуа</Form>
+            <Form tag="AP" type="potential">Нікара+гуа</Form>
+            <Form tag="IP" type="potential">Нікара+гуа</Form>
+            <Form tag="LP" type="potential">Нікара+гуа</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038479" lemma="Ні+ксан" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
@@ -25526,6 +26596,22 @@
             <Form tag="AP">Нісаны</Form>
             <Form tag="IP">Нісанамі</Form>
             <Form tag="LP">Нісанах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313895" lemma="Ніу+э" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Ніу+э" pravapis="A1957,A2008">
+            <Form tag="NS">Ніу+э</Form>
+            <Form tag="GS">Ніу+э</Form>
+            <Form tag="DS">Ніу+э</Form>
+            <Form tag="AS">Ніу+э</Form>
+            <Form tag="IS">Ніу+э</Form>
+            <Form tag="LS">Ніу+э</Form>
+            <Form tag="NP" type="potential">Ніу+э</Form>
+            <Form tag="GP" type="potential">Ніу+э</Form>
+            <Form tag="DP" type="potential">Ніу+э</Form>
+            <Form tag="AP" type="potential">Ніу+э</Form>
+            <Form tag="IP" type="potential">Ніу+э</Form>
+            <Form tag="LP" type="potential">Ніу+э</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1020228" lemma="Ні+ца" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -26449,6 +27535,22 @@
             <Form tag="LP">Пакро+вах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313896" lemma="Пала+у" tag="NPIINN0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Пала+у" pravapis="A1957,A2008">
+            <Form tag="NS">Пала+у</Form>
+            <Form tag="GS">Пала+у</Form>
+            <Form tag="DS">Пала+у</Form>
+            <Form tag="AS">Пала+у</Form>
+            <Form tag="IS">Пала+у</Form>
+            <Form tag="LS">Пала+у</Form>
+            <Form tag="NP" type="potential">Пала+у</Form>
+            <Form tag="GP" type="potential">Пала+у</Form>
+            <Form tag="DP" type="potential">Пала+у</Form>
+            <Form tag="AP" type="potential">Пала+у</Form>
+            <Form tag="IP" type="potential">Пала+у</Form>
+            <Form tag="LP" type="potential">Пала+у</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1021287" lemma="Пале+нсія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Пале+нсія" pravapis="A1957,A2008">
             <Form tag="NS">Пале+нсія</Form>
@@ -26532,6 +27634,24 @@
             <Form tag="AP">Палі+н</Form>
             <Form tag="IP">Палі+намі</Form>
             <Form tag="LP">Палі+нах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313897" lemma="Паліне+зія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Паліне+зія" pravapis="A1957,A2008">
+            <Form tag="NS">Паліне+зія</Form>
+            <Form tag="GS">Паліне+зіі</Form>
+            <Form tag="DS">Паліне+зіі</Form>
+            <Form tag="AS">Паліне+зію</Form>
+            <Form tag="IS">Паліне+зіяй</Form>
+            <Form tag="IS">Паліне+зіяю</Form>
+            <Form tag="LS">Паліне+зіі</Form>
+            <Form tag="NP" type="potential">Паліне+зіі</Form>
+            <Form tag="GP" type="potential">Паліне+зій</Form>
+            <Form tag="GP" type="potential">Паліне+зіяў</Form>
+            <Form tag="DP" type="potential">Паліне+зіям</Form>
+            <Form tag="AP" type="potential">Паліне+зіі</Form>
+            <Form tag="IP" type="potential">Паліне+зіямі</Form>
+            <Form tag="LP" type="potential">Паліне+зіях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1021299" lemma="Палта+ва" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -27658,6 +28778,22 @@
             <Form tag="LP">Пірсанах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313899" lemma="Пі+ткэрн" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Пі+ткэрн" pravapis="A1957,A2008">
+            <Form tag="NS">Пі+ткэрн</Form>
+            <Form tag="GS">Пі+ткэрна</Form>
+            <Form tag="DS">Пі+ткэрну</Form>
+            <Form tag="AS">Пі+ткэрн</Form>
+            <Form tag="IS">Пі+ткэрнам</Form>
+            <Form tag="LS">Пі+ткэрне</Form>
+            <Form tag="NP" type="potential">Пі+ткэрны</Form>
+            <Form tag="GP" type="potential">Пі+ткэрнаў</Form>
+            <Form tag="DP" type="potential">Пі+ткэрнам</Form>
+            <Form tag="AP" type="potential">Пі+ткэрны</Form>
+            <Form tag="IP" type="potential">Пі+ткэрнамі</Form>
+            <Form tag="LP" type="potential">Пі+ткэрнах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038544" lemma="Пі+тсбург" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Пі+тсбург" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -28467,6 +29603,22 @@
             <Form tag="AP">Пу+шкіных</Form>
             <Form tag="IP">Пу+шкінымі</Form>
             <Form tag="LP">Пу+шкіных</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313898" lemma="Пуэрта-Ры+ка" tag="NPIINN0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Пуэрта-Ры+ка" pravapis="A1957,A2008">
+            <Form tag="NS">Пуэрта-Ры+ка</Form>
+            <Form tag="GS">Пуэрта-Ры+ка</Form>
+            <Form tag="DS">Пуэрта-Ры+ка</Form>
+            <Form tag="AS">Пуэрта-Ры+ка</Form>
+            <Form tag="IS">Пуэрта-Ры+ка</Form>
+            <Form tag="LS">Пуэрта-Ры+ка</Form>
+            <Form tag="NP" type="potential">Пуэрта-Ры+ка</Form>
+            <Form tag="GP" type="potential">Пуэрта-Ры+ка</Form>
+            <Form tag="DP" type="potential">Пуэрта-Ры+ка</Form>
+            <Form tag="AP" type="potential">Пуэрта-Ры+ка</Form>
+            <Form tag="IP" type="potential">Пуэрта-Ры+ка</Form>
+            <Form tag="LP" type="potential">Пуэрта-Ры+ка</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038624" lemma="Пхенья+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -29906,6 +31058,16 @@
             <Form tag="LS" pravapis="A1957,A2008">Русі+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313900" lemma="РФ" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="РФ" pravapis="A1957,A2008">
+            <Form tag="NS">РФ</Form>
+            <Form tag="GS">РФ</Form>
+            <Form tag="DS">РФ</Form>
+            <Form tag="AS">РФ</Form>
+            <Form tag="IS">РФ</Form>
+            <Form tag="LS">РФ</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038686" lemma="Рыбако+ў" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Рыбако+ў">
             <Form tag="NS">Рыбако+ў</Form>
@@ -30394,6 +31556,22 @@
             <Form tag="AP" type="potential">Рэ+чыцы</Form>
             <Form tag="IP" type="potential">Рэ+чыцамі</Form>
             <Form tag="LP" type="potential">Рэ+чыцах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313901" lemma="Рэюньё+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Рэюньё+н" pravapis="A1957,A2008">
+            <Form tag="NS">Рэюньё+н</Form>
+            <Form tag="GS">Рэюньё+ну</Form>
+            <Form tag="DS">Рэюньё+ну</Form>
+            <Form tag="AS">Рэюньё+н</Form>
+            <Form tag="IS">Рэюньё+нам</Form>
+            <Form tag="LS">Рэюньё+не</Form>
+            <Form tag="NP" type="potential">Рэюньё+ны</Form>
+            <Form tag="GP" type="potential">Рэюньё+наў</Form>
+            <Form tag="DP" type="potential">Рэюньё+нам</Form>
+            <Form tag="AP" type="potential">Рэюньё+ны</Form>
+            <Form tag="IP" type="potential">Рэюньё+намі</Form>
+            <Form tag="LP" type="potential">Рэюньё+нах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127791" lemma="Са+арэмаа" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
@@ -31882,6 +33060,71 @@
             <Form tag="LP" type="potential">Сё+мухах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313903" lemma="Сенега+л" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сенега+л" pravapis="A1957,A2008">
+            <Form tag="NS">Сенега+л</Form>
+            <Form tag="GS">Сенега+ла</Form>
+            <Form tag="DS">Сенега+лу</Form>
+            <Form tag="AS">Сенега+л</Form>
+            <Form tag="IS">Сенега+лам</Form>
+            <Form tag="LS">Сенега+ле</Form>
+            <Form tag="NP" type="potential">Сенега+лы</Form>
+            <Form tag="GP" type="potential">Сенега+лаў</Form>
+            <Form tag="DP" type="potential">Сенега+лам</Form>
+            <Form tag="AP" type="potential">Сенега+лы</Form>
+            <Form tag="IP" type="potential">Сенега+ламі</Form>
+            <Form tag="LP" type="potential">Сенега+лах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313911" lemma="Сент-Ві+нсент" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сент-Ві+нсент" pravapis="A1957,A2008">
+            <Form tag="NS">Сент-Ві+нсент</Form>
+            <Form tag="GS">Сент-Ві+нсента</Form>
+            <Form tag="DS">Сент-Ві+нсенту</Form>
+            <Form tag="AS">Сент-Ві+нсент</Form>
+            <Form tag="IS">Сент-Ві+нсентам</Form>
+            <Form tag="LS">Сент-Ві+нсенце</Form>
+            <Form tag="NP" type="potential">Сент-Ві+нсенты</Form>
+            <Form tag="GP" type="potential">Сент-Ві+нсентаў</Form>
+            <Form tag="DP" type="potential">Сент-Ві+нсентам</Form>
+            <Form tag="AP" type="potential">Сент-Ві+нсенты</Form>
+            <Form tag="IP" type="potential">Сент-Ві+нсентамі</Form>
+            <Form tag="LP" type="potential">Сент-Ві+нсентах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313912" lemma="Сент-Кі+тс" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сент-Кі+тс" pravapis="A1957,A2008">
+            <Form tag="NS">Сент-Кі+тс</Form>
+            <Form tag="GS">Сент-Кі+тса</Form>
+            <Form tag="DS">Сент-Кі+тсу</Form>
+            <Form tag="AS">Сент-Кі+тс</Form>
+            <Form tag="IS">Сент-Кі+тсам</Form>
+            <Form tag="LS">Сент-Кі+тсе</Form>
+            <Form tag="NP" type="potential">Сент-Кі+тсы</Form>
+            <Form tag="GP" type="potential">Сент-Кі+тсаў</Form>
+            <Form tag="DP" type="potential">Сент-Кі+тсам</Form>
+            <Form tag="AP" type="potential">Сент-Кі+тсы</Form>
+            <Form tag="IP" type="potential">Сент-Кі+тсамі</Form>
+            <Form tag="LP" type="potential">Сент-Кі+тсах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313914" lemma="Сент-Люсі+я" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сент-Люсі+я" pravapis="A1957,A2008">
+            <Form tag="NS">Сент-Люсі+я</Form>
+            <Form tag="GS">Сент-Люсі+і</Form>
+            <Form tag="DS">Сент-Люсі+і</Form>
+            <Form tag="AS">Сент-Люсі+ю</Form>
+            <Form tag="IS">Сент-Люсі+яй</Form>
+            <Form tag="IS">Сент-Люсі+яю</Form>
+            <Form tag="LS">Сент-Люсі+і</Form>
+            <Form tag="NP" type="potential">Сент-Люсі+і</Form>
+            <Form tag="GP" type="potential">Сент-Люсі+й</Form>
+            <Form tag="DP" type="potential">Сент-Люсі+іям</Form>
+            <Form tag="AP" type="potential">Сент-Люсі+і</Form>
+            <Form tag="IP" type="potential">Сент-Люсі+іямі</Form>
+            <Form tag="LP" type="potential">Сент-Люсі+іях</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1022933" lemma="Серабра+нка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
         <Variant id="a" lemma="Серабра+нка" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -32332,6 +33575,22 @@
             <Form tag="AP" type="potential">Сінгапу+ры</Form>
             <Form tag="IP" type="potential">Сінгапу+рамі</Form>
             <Form tag="LP" type="potential">Сінгапу+рах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313913" lemma="Сінт-Ма+ртэн" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сінт-Ма+ртэн" pravapis="A1957,A2008">
+            <Form tag="NS">Сінт-Ма+ртэн</Form>
+            <Form tag="GS">Сінт-Ма+ртэна</Form>
+            <Form tag="DS">Сінт-Ма+ртэну</Form>
+            <Form tag="AS">Сінт-Ма+ртэн</Form>
+            <Form tag="IS">Сінт-Ма+ртэнам</Form>
+            <Form tag="LS">Сінт-Ма+ртэне</Form>
+            <Form tag="NP" type="potential">Сінт-Ма+ртэны</Form>
+            <Form tag="GP" type="potential">Сінт-Ма+ртэнаў</Form>
+            <Form tag="DP" type="potential">Сінт-Ма+ртэнам</Form>
+            <Form tag="AP" type="potential">Сінт-Ма+ртэны</Form>
+            <Form tag="IP" type="potential">Сінт-Ма+ртэнамі</Form>
+            <Form tag="LP" type="potential">Сінт-Ма+ртэнах</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038723" lemma="Сіньцзя+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
@@ -33653,6 +34912,22 @@
             <Form tag="LP" type="potential">Сургу+тах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313906" lemma="Сурына+м" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сурына+м" pravapis="A1957,A2008">
+            <Form tag="NS">Сурына+м</Form>
+            <Form tag="GS">Сурына+ма</Form>
+            <Form tag="DS">Сурына+му</Form>
+            <Form tag="AS">Сурына+м</Form>
+            <Form tag="IS">Сурына+мам</Form>
+            <Form tag="LS">Сурына+ме</Form>
+            <Form tag="NP" type="potential">Сурына+мы</Form>
+            <Form tag="GP" type="potential">Сурына+маў</Form>
+            <Form tag="DP" type="potential">Сурына+мам</Form>
+            <Form tag="AP" type="potential">Сурына+мы</Form>
+            <Form tag="IP" type="potential">Сурына+мамі</Form>
+            <Form tag="LP" type="potential">Сурына+мах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1038828" lemma="Суса+нін" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Суса+нін">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -33806,6 +35081,22 @@
             <Form tag="AP" type="potential">Сы+рдар'і</Form>
             <Form tag="IP" type="potential">Сы+рдар'ямі</Form>
             <Form tag="LP" type="potential">Сы+рдар'ях</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313916" lemma="Сье+ра-Лео+нэ" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Сье+ра-Лео+нэ" pravapis="A1957,A2008">
+            <Form tag="NS">Сье+ра-Лео+нэ</Form>
+            <Form tag="GS">Сье+ра-Лео+нэ</Form>
+            <Form tag="DS">Сье+ра-Лео+нэ</Form>
+            <Form tag="AS">Сье+ра-Лео+нэ</Form>
+            <Form tag="IS">Сье+ра-Лео+нэ</Form>
+            <Form tag="LS">Сье+ра-Лео+нэ</Form>
+            <Form tag="NP" type="potential">Сье+ра-Лео+нэ</Form>
+            <Form tag="GP" type="potential">Сье+ра-Лео+нэ</Form>
+            <Form tag="DP" type="potential">Сье+ра-Лео+нэ</Form>
+            <Form tag="AP" type="potential">Сье+ра-Лео+нэ</Form>
+            <Form tag="IP" type="potential">Сье+ра-Лео+нэ</Form>
+            <Form tag="LP" type="potential">Сье+ра-Лео+нэ</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038833" lemma="Сэ+м" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
@@ -33988,6 +35279,22 @@
             <Form tag="AP">Сяро+вых</Form>
             <Form tag="IP">Сяро+вымі</Form>
             <Form tag="LP">Сяро+вых</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313907" lemma="Таба+га" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Таба+га" pravapis="A1957,A2008">
+            <Form tag="NS">Таба+га</Form>
+            <Form tag="GS">Таба+га</Form>
+            <Form tag="DS">Таба+га</Form>
+            <Form tag="AS">Таба+га</Form>
+            <Form tag="IS">Таба+га</Form>
+            <Form tag="LS">Таба+га</Form>
+            <Form tag="NP" type="potential">Таба+га</Form>
+            <Form tag="GP" type="potential">Таба+га</Form>
+            <Form tag="DP" type="potential">Таба+га</Form>
+            <Form tag="AP" type="potential">Таба+га</Form>
+            <Form tag="IP" type="potential">Таба+га</Form>
+            <Form tag="LP" type="potential">Таба+га</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038846" lemma="Табо+льск" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -34205,6 +35512,22 @@
             <Form tag="AP" type="potential"></Form>
             <Form tag="IP" type="potential"></Form>
             <Form tag="LP" type="potential"></Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313909" lemma="Такела+у" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Такела+у" pravapis="A1957,A2008">
+            <Form tag="NS">Такела+у</Form>
+            <Form tag="GS">Такела+у</Form>
+            <Form tag="DS">Такела+у</Form>
+            <Form tag="AS">Такела+у</Form>
+            <Form tag="IS">Такела+у</Form>
+            <Form tag="LS">Такела+у</Form>
+            <Form tag="NP" type="potential">Такела+у</Form>
+            <Form tag="GP" type="potential">Такела+у</Form>
+            <Form tag="DP" type="potential">Такела+у</Form>
+            <Form tag="AP" type="potential">Такела+у</Form>
+            <Form tag="IP" type="potential">Такела+у</Form>
+            <Form tag="LP" type="potential">Такела+у</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038857" lemma="Талачы+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -35326,6 +36649,22 @@
             <Form tag="LP" type="potential">Трые+стах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313908" lemma="Трыніда+д" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Трыніда+д" pravapis="A1957,A2008">
+            <Form tag="NS">Трыніда+д</Form>
+            <Form tag="GS">Трыніда+да</Form>
+            <Form tag="DS">Трыніда+ду</Form>
+            <Form tag="AS">Трыніда+д</Form>
+            <Form tag="IS">Трыніда+дам</Form>
+            <Form tag="LS">Трыніда+дзе</Form>
+            <Form tag="NP" type="potential">Трыніда+ды</Form>
+            <Form tag="GP" type="potential">Трыніда+даў</Form>
+            <Form tag="DP" type="potential">Трыніда+дам</Form>
+            <Form tag="AP" type="potential">Трыніда+ды</Form>
+            <Form tag="IP" type="potential">Трыніда+дамі</Form>
+            <Form tag="LP" type="potential">Трыніда+дах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1023713" lemma="Трыпаліта+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Трыпаліта+нія" pravapis="A1957,A2008">
             <Form tag="NS">Трыпаліта+нія</Form>
@@ -35756,6 +37095,22 @@
             <Form tag="AP" type="potential">Тымо+ры</Form>
             <Form tag="IP" type="potential">Тымо+рамі</Form>
             <Form tag="LP" type="potential">Тымо+рах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313920" lemma="Тымо+р-Ле+шці" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Тымо+р-Ле+шці" pravapis="A1957,A2008">
+            <Form tag="NS">Тымо+р-Ле+шці</Form>
+            <Form tag="GS">Тымо+ра-Ле+шці</Form>
+            <Form tag="DS">Тымо+ру-Ле+шці</Form>
+            <Form tag="AS">Тымо+р-Ле+шці</Form>
+            <Form tag="IS">Тымо+рам-Ле+шці</Form>
+            <Form tag="LS">Тымо+ру-Ле+шці</Form>
+            <Form tag="NP" type="potential">Тымо+ры-Ле+шці</Form>
+            <Form tag="GP" type="potential">Тымо+раў-Ле+шці</Form>
+            <Form tag="DP" type="potential">Тымо+рам-Ле+шці</Form>
+            <Form tag="AP" type="potential">Тымо+ры-Ле+шці</Form>
+            <Form tag="IP" type="potential">Тымо+рамі-Ле+шці</Form>
+            <Form tag="LP" type="potential">Тымо+рах-Ле+шці</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023802" lemma="Ты+нда" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -40490,6 +41845,23 @@
             <Form tag="LP"></Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313915" lemma="Шры-Ла+нка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Шры-Ла+нка" pravapis="A1957,A2008">
+            <Form tag="NS">Шры-Ла+нка</Form>
+            <Form tag="GS">Шры-Ла+нкі</Form>
+            <Form tag="DS">Шры-Ла+нцы</Form>
+            <Form tag="AS">Шры-Ла+нку</Form>
+            <Form tag="IS">Шры-Ла+нкай</Form>
+            <Form tag="IS">Шры-Ла+нкаю</Form>
+            <Form tag="LS">Шры-Ла+нцы</Form>
+            <Form tag="NP" type="potential">Шры-Ла+нкі</Form>
+            <Form tag="GP" type="potential">Шры-Ла+нак</Form>
+            <Form tag="DP" type="potential">Шры-Ла+нкам</Form>
+            <Form tag="AP" type="potential">Шры-Ла+нкі</Form>
+            <Form tag="IP" type="potential">Шры-Ла+нкамі</Form>
+            <Form tag="LP" type="potential">Шры-Ла+нках</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1039108" lemma="Штра+ус" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Штра+ус">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -41393,6 +42765,16 @@
             <Form tag="LP">Эмілье+нах</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1313840" lemma="Эміра+ты" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Эміра+ты" pravapis="A1957,A2008">
+            <Form tag="NP" type="potential">Эміра+ты</Form>
+            <Form tag="GP" type="potential">Эміра+таў</Form>
+            <Form tag="DP" type="potential">Эміра+там</Form>
+            <Form tag="AP" type="potential">Эміра+ты</Form>
+            <Form tag="IP" type="potential">Эміра+тамі</Form>
+            <Form tag="LP" type="potential">Эміра+тах</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1039146" lemma="Э+нгельс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
         <Variant id="a" lemma="Э+нгельс">
             <Note>Націск выстаўлены праз web/batch</Note>
@@ -41685,6 +43067,23 @@
             <Form tag="AP">Э+рыксанаў</Form>
             <Form tag="IP">Э+рыксанамі</Form>
             <Form tag="LP">Э+рыксанах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1313910" lemma="Эрытрэ+я" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+        <Variant id="a" lemma="Эрытрэ+я" pravapis="A1957,A2008">
+            <Form tag="NS">Эрытрэ+я</Form>
+            <Form tag="GS">Эрытрэ+і</Form>
+            <Form tag="DS">Эрытрэ+і</Form>
+            <Form tag="AS">Эрытрэ+ю</Form>
+            <Form tag="IS">Эрытрэ+яй</Form>
+            <Form tag="IS">Эрытрэ+яю</Form>
+            <Form tag="LS">Эрытрэ+і</Form>
+            <Form tag="NP" type="potential">Эрытрэ+і</Form>
+            <Form tag="GP" type="potential">Эрытрэ+й</Form>
+            <Form tag="DP" type="potential">Эрытрэ+ям</Form>
+            <Form tag="AP" type="potential">Эрытрэ+і</Form>
+            <Form tag="IP" type="potential">Эрытрэ+ямі</Form>
+            <Form tag="LP" type="potential">Эрытрэ+ях</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039160" lemma="Эскін" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">

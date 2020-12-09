@@ -22393,7 +22393,7 @@
             <Form tag="GS">Ма+залава</Form>
             <Form tag="DS">Ма+залаву</Form>
             <Form tag="AS">Ма+залаў</Form>
-            <Form tag="IS">Ма+залавым</Form>
+            <Form tag="IS">Ма+залавам</Form>
             <Form tag="LS">Ма+залаве</Form>
             <Form tag="NP" type="potential">Ма+залавы</Form>
             <Form tag="GP" type="potential">Ма+залавых</Form>
@@ -26498,7 +26498,7 @@
             <Form tag="LP">Ні+калсанах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1313894" lemma="Нікара+гуа" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1313894" lemma="Нікара+гуа" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Нікара+гуа" pravapis="A1957,A2008">
             <Form tag="NS">Нікара+гуа</Form>
             <Form tag="GS">Нікара+гуа</Form>
@@ -31561,7 +31561,7 @@
     <Paradigm pdgId="1313901" lemma="Рэюньё+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Рэюньё+н" pravapis="A1957,A2008">
             <Form tag="NS">Рэюньё+н</Form>
-            <Form tag="GS">Рэюньё+ну</Form>
+            <Form tag="GS">Рэюньё+на</Form>
             <Form tag="DS">Рэюньё+ну</Form>
             <Form tag="AS">Рэюньё+н</Form>
             <Form tag="IS">Рэюньё+нам</Form>
@@ -36717,7 +36717,7 @@
             <Form tag="LP" type="potential">Ту+вах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127736" lemma="Тува+лу" tag="NPIINF0">
+    <Paradigm pdgId="1127736" lemma="Тува+лу" tag="NPIINF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Тува+лу" pravapis="A1957,A2008">
             <Form tag="NP">Тува+лу</Form>
             <Form tag="GP">Тува+лу</Form>
@@ -37235,13 +37235,13 @@
     </Paradigm>
     <Paradigm pdgId="1023838" lemma="Тэгусіга+льпа" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Тэгусіга+льпа" pravapis="A1957,A2008">
-            <Form tag="NS" pravapis="A1957">Тэгусіга+льпа</Form>
-            <Form tag="GS" pravapis="A1957">Тэгусіга+льпы</Form>
-            <Form tag="DS" pravapis="A1957">Тэгусіга+льпе</Form>
-            <Form tag="AS" pravapis="A1957">Тэгусіга+льпу</Form>
-            <Form tag="IS" pravapis="A1957">Тэгусіга+льпай</Form>
-            <Form tag="IS" pravapis="A1957">Тэгусіга+льпаю</Form>
-            <Form tag="LS" pravapis="A1957">Тэгусіга+льпе</Form>
+            <Form tag="NS">Тэгусіга+льпа</Form>
+            <Form tag="GS">Тэгусіга+льпы</Form>
+            <Form tag="DS">Тэгусіга+льпе</Form>
+            <Form tag="AS">Тэгусіга+льпу</Form>
+            <Form tag="IS">Тэгусіга+льпай</Form>
+            <Form tag="IS">Тэгусіга+льпаю</Form>
+            <Form tag="LS">Тэгусіга+льпе</Form>
             <Form tag="NP" type="potential">Тэгусіга+льпы</Form>
             <Form tag="GP" type="potential">Тэгусіга+льп</Form>
             <Form tag="GP" type="potential">Тэгусіга+льпаў</Form>

@@ -58,6 +58,8 @@ import org.alex73.korpus.utils.StressUtils;
  * Правярае граматычную базу, і запісвае вынікі ў каталёг vyniki/.
  *
  * Выключэнні правілаў:
+ * exSyllCount - не правяраць на колькасць складаў
+ * exStress - не правяраць націск
  * exLemma1Form: Лема ў варыянце несупадае з першай стандартнай формай
  * exFormsCount: Нестандартная колькасць формаў
  * exFormsCountGS: Нестандартная колькасць формаў GS
@@ -940,11 +942,7 @@ public class CheckGrammarDB {
                 }
         }
 
-        try {
-            StressUtils.checkStress(p.getLemma());
-        } catch (Exception ex) {
-            throw new KnownError("3_niapravilny_nacisk","Няправільны націск у леме"+": "+ex.getMessage());
-        }
+        if (!needSkip("exStress", p, v)) {
             try {
                 StressUtils.checkStress(v.getLemma());
             } catch (Exception ex) {
@@ -958,19 +956,22 @@ public class CheckGrammarDB {
                             "Няправільны націск у форме " + f.getValue() + ": " + ex.getMessage());
                 }
             }
+        }
 
-        if (cascinaMovy != 'E' && cascinaMovy != 'I' && cascinaMovy != 'C' && cascinaMovy != 'K' && cascinaMovy != 'Y'
-                && cascinaMovy != 'F' && (cascinaMovy != 'N' || p.getLemma().length() != 1)) {
-            if (!isAllUpper(p.getLemma()) && StressUtils.syllCount(p.getLemma()) < 1) {
-                throw new KnownError("3_niama_halosnych", "Няма галосных у леме");
-            }
-            for (Form f : v.getForm()) {
-                if (!f.getValue().isEmpty() && !isAllUpper(f.getValue())
-                        && StressUtils.syllCount(f.getValue()) < 1) {
-                    throw new KnownError("3_niama_halosnych", "Няма галосных у форме " + f.getValue());
+            if (cascinaMovy != 'E' && cascinaMovy != 'I' && cascinaMovy != 'C' && cascinaMovy != 'K'
+                    && cascinaMovy != 'Y' && cascinaMovy != 'F') {
+                if (!needSkip("exSyllCount", p, v)) {
+                    if (!isAllUpper(v.getLemma()) && StressUtils.syllCount(v.getLemma()) < 1) {
+                        throw new KnownError("3_niama_halosnych", "Няма галосных у леме");
+                    }
+                    for (Form f : v.getForm()) {
+                        if (!f.getValue().isEmpty() && !isAllUpper(f.getValue())
+                                && StressUtils.syllCount(f.getValue()) < 1) {
+                            throw new KnownError("3_niama_halosnych", "Няма галосных у форме " + f.getValue());
+                        }
+                    }
                 }
             }
-        }
     }
 
     void check4(Paradigm p, Variant v) {

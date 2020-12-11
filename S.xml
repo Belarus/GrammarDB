@@ -230,8 +230,8 @@
             <Form tag="0LP" slouniki="prym2009">анія+кіх</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127812" lemma="ваш" tag="SAS0">
-        <Variant id="a" lemma="ваш">
+    <Paradigm pdgId="1127812" lemma="ва+ш" tag="SAS0">
+        <Variant id="a" lemma="ва+ш">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A1957,A2008">ва+ш</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шага</Form>
             <Form tag="MDS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шаму</Form>
@@ -267,8 +267,8 @@
             <Form tag="0LP" slouniki="prym2009" pravapis="A1957,A2008">ва+шых</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160154" lemma="вы" tag="SNP2">
-        <Variant id="a" lemma="вы" pravapis="A1957,A2008">
+    <Paradigm pdgId="1160154" lemma="вы+" tag="SNP2">
+        <Variant id="a" lemma="вы+" pravapis="A1957,A2008">
             <Form tag="0NP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">вы+</Form>
             <Form tag="0GP" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ва+с</Form>
             <Form tag="0DP" slouniki="prym2009,krapivabr2012,tsbm2016">ва+м</Form>
@@ -488,8 +488,8 @@
             <Form tag="0LP">другі+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127912" lemma="ён" tag="SNP3" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="ён" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127912" lemma="ё+н" tag="SNP3" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="ё+н" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ё+н</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">яго+</Form>
             <Form tag="MDS" slouniki="prym2009,krapivabr2012,tsbm2016">яму+</Form>
@@ -835,8 +835,8 @@
             <Form tag="0LP">любы+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127870" lemma="мой" tag="SAS0" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="мой" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127870" lemma="мо+й" tag="SAS0" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="мо+й" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">мо+й</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">майго+</Form>
             <Form tag="MDS" slouniki="prym2009,sbm2012">майму+</Form>
@@ -865,8 +865,8 @@
             <Form tag="0LP" slouniki="prym2009">маі+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160153" lemma="мы" tag="SNP1">
-        <Variant id="a" lemma="мы" pravapis="A1957,A2008">
+    <Paradigm pdgId="1160153" lemma="мы+" tag="SNP1">
+        <Variant id="a" lemma="мы+" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="101552">{b}мы{/b} {i}займ.{/i}, {i}РВМ{/i} нас, {i}Д{/i} нам, {i}Т{/i} на´мі /// </Slounik>
             <Form tag="0NP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">мы+</Form>
             <Form tag="0GP" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">на+с</Form>
@@ -940,8 +940,8 @@
             <Form tag="0LP">на+ськіх</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127840" lemma="наш" tag="SAS0">
-        <Variant id="a" lemma="наш">
+    <Paradigm pdgId="1127840" lemma="на+ш" tag="SAS0">
+        <Variant id="a" lemma="на+ш">
             <Slounik name="piskunou2012" idx="109696">{b}наш{/b} {i}займ.{/i}, {i}м.{/i}, {i}Р{/i} на´шага, {i}Д{/i} на´шаму, {i}В{/i} наш ({i}неадуш.{/i}) {i}і{/i} на´шага ({i}адуш.{/i}), {i}ТМ{/i} на´шым /// </Slounik>
             <Slounik name="piskunou2012" idx="109697">{b}на´ша{/b}{sup}1{/sup} {i}займ.{/i}, {i}ж.{/i}, {i}Р{/i} на´шай {i}і{/i} на´шае, {i}ДМ{/i} на´шай, {i}В{/i} на´шу, {i}Т{/i} на´шай {i}і{/i} на´шаю /// </Slounik>
             <Slounik name="piskunou2012" idx="109698">{b}на´ша{/b}{sup}2{/sup} {i}займ.{/i}, {i}н.{/i}, {i}Р{/i} на´шага, {i}Д{/i} на´шаму, {i}В{/i} на´ша, {i}ТМ{/i} на´шым /// </Slounik>
@@ -1530,8 +1530,8 @@
             <Form tag="0LP" pravapis="A1957,A2008">нія+кіх</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127839" lemma="сам" tag="SNE0">
-        <Variant id="a" lemma="сам" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127839" lemma="са+м" tag="SNE0">
+        <Variant id="a" lemma="са+м" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">са+м</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">само+га</Form>
             <Form tag="MDS" slouniki="prym2009">само+му</Form>
@@ -1626,8 +1626,8 @@
             <Form tag="0LP" slouniki="prym2009">са+мых</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127835" lemma="свой" tag="SAS0" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="свой" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127835" lemma="сво+й" tag="SAS0" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="сво+й" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">сво+й</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">свайго+</Form>
             <Form tag="MDS" slouniki="prym2009,sbm2012">свайму+</Form>
@@ -1690,8 +1690,8 @@
             <Form tag="0LP">сво+мых</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1205425" lemma="сёй" tag="SAF3" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="сёй" pravapis="A1957,A2008">
+    <Paradigm pdgId="1205425" lemma="сё+й" tag="SAF3" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="сё+й" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="krapivabr2012">сё+й</Form>
             <Form tag="MGS">сяго+</Form>
             <Form tag="MDS">сяму+</Form>
@@ -1953,8 +1953,8 @@
             <Form tag="0LP">такі+х-та</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127847" lemma="твой" tag="SAS0" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="твой" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127847" lemma="тво+й" tag="SAS0" todo="націск о/ё рукамі">
+        <Variant id="a" lemma="тво+й" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">тво+й</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">твайго+</Form>
             <Form tag="MDS" slouniki="prym2009,sbm2012">твайму+</Form>
@@ -2107,8 +2107,8 @@
             <Form tag="0LP">трэ+ціх</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127808" lemma="ты" tag="SNP2">
-        <Variant id="a" lemma="ты" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127808" lemma="ты+" tag="SNP2">
+        <Variant id="a" lemma="ты+" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="191995">{b}ты{/b} {i}займ.{/i}, {i}РВ{/i} цябе´, {i}ДМ{/i} табе´, {i}Т{/i} табо´й {i}і{/i} табо´ю /// </Slounik>
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ты+</Form>
             <Form tag="0GS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">цябе+</Form>
@@ -2223,8 +2223,8 @@
             <Form tag="0LP">усяля+кіх</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127820" lemma="хто" tag="SNL0">
-        <Variant id="a" lemma="хто" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127820" lemma="хто+" tag="SNL0">
+        <Variant id="a" lemma="хто+" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="205863">{b}хто{/b} {i}займ.{/i}, {i}РВ{/i} каго´, {i}Д{/i} каму´, {i}ТМ{/i} кім /// </Slounik>
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">хто+</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">каго+</Form>
@@ -2278,8 +2278,8 @@
             <Form tag="MLS" slouniki="prym2009">кім-нікі+м</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127822" lemma="хтось" tag="SNF0">
-        <Variant id="a" lemma="хтось" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127822" lemma="хто+сь" tag="SNF0">
+        <Variant id="a" lemma="хто+сь" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="205869">{b}хтось{/b}* {i}займ.{/i} {i}РВ{/i} каго´сь, {i}Д{/i} каму´сь, {i}ТМ{/i} кімсь /// </Slounik>
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsbm1984,krapivabr2012">хто+сь</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">каго+сь</Form>
@@ -2300,8 +2300,8 @@
             <Form tag="MLS" slouniki="prym2009">кі+мсьці</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127852" lemma="чый" tag="SAL0">
-        <Variant id="a" lemma="чый" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127852" lemma="чы+й" tag="SAL0">
+        <Variant id="a" lemma="чы+й" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,krapivabr2012">чы+й</Form>
             <Form tag="MGS" slouniki="prym2009,sbm2012">чыйго+</Form>
             <Form tag="MDS" slouniki="prym2009">чыйму+</Form>
@@ -2423,8 +2423,8 @@
             <Form tag="0LP" slouniki="prym2009">чыі+х-нічыі+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127856" lemma="чыйсь" tag="SAF0">
-        <Variant id="a" lemma="чыйсь">
+    <Paradigm pdgId="1127856" lemma="чы+йсь" tag="SAF0">
+        <Variant id="a" lemma="чы+йсь">
             <Form tag="MNS">чы+йсь</Form>
             <Form tag="MGS">чыйго+сь</Form>
             <Form tag="MDS">чыйму+сь</Form>
@@ -2505,8 +2505,8 @@
             <Form tag="1">чы+мсі</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127827" lemma="што" tag="SNL0">
-        <Variant id="a" lemma="што" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127827" lemma="што+" tag="SNL0">
+        <Variant id="a" lemma="што+" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="213075">{b}што{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} чаго´, {i}Д{/i} чаму´, {i}В{/i} што, {i}ТМ{/i} чым /// </Slounik>
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,krapivabr2012">што+</Form>
             <Form tag="0GS" slouniki="prym2009,sbm2012">чаго+</Form>
@@ -2571,8 +2571,8 @@
             <Form tag="0LS">чы+м-нічы+м</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127829" lemma="штось" tag="SNF0">
-        <Variant id="a" lemma="штось" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127829" lemma="што+сь" tag="SNF0">
+        <Variant id="a" lemma="што+сь" pravapis="A1957,A2008">
             <Slounik name="piskunou2012" idx="213183">{b}штось{/b}{sup}1{/sup} {i}займ.{/i}, {i}Р{/i} чаго´сь, {i}В{/i} штось, {i}Д{/i} чаму´сь, {i}ТМ{/i} чымсь /// </Slounik>
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,krapivabr2012">што+сь</Form>
             <Form tag="MGS" slouniki="prym2009,tsbm2016">чаго+сь</Form>
@@ -2593,8 +2593,8 @@
             <Form tag="0LS" slouniki="krapivabr2012,tsbm2016">чы+мсьці</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127807" lemma="я" tag="SNP1">
-        <Variant id="a" lemma="я" pravapis="A1957,A2008">
+    <Paradigm pdgId="1127807" lemma="я+" tag="SNP1">
+        <Variant id="a" lemma="я+" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,krapivabr2012">я+</Form>
             <Form tag="0GS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">мяне+</Form>
             <Form tag="0DS" slouniki="prym2009,krapivabr2012,tsbm2016">мне+</Form>

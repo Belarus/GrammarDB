@@ -48,9 +48,9 @@ import org.alex73.corpus.paradigm.FormType;
 import org.alex73.corpus.paradigm.Paradigm;
 import org.alex73.corpus.paradigm.Variant;
 import org.alex73.corpus.paradigm.VariantType;
-import org.alex73.korpus.base.BelarusianTags;
 import org.alex73.korpus.base.GrammarDB2;
 import org.alex73.korpus.base.GrammarDBSaver;
+import org.alex73.korpus.belarusian.BelarusianTags;
 import org.alex73.korpus.utils.SetUtils;
 import org.alex73.korpus.utils.StressUtils;
 

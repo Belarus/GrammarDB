@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
     <Paradigm pdgId="1127981" lemma="АА+Н" tag="NPIIBF0">
-        <Variant id="a" lemma="АА+Н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="15">{b}АА´Н{/b} [аа´н], {i}нескл.{/i}, {i}ж.{/i} ({i}скар.:{/i} Арганізацыя Аб’яднаных Нацый) /// </Slounik>
+        <Variant id="a" lemma="АА+Н" slouniki="piskunou2012:15" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">АА+Н</Form>
             <Form tag="GS">АА+Н</Form>
             <Form tag="DS">АА+Н</Form>
@@ -212,8 +211,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037508" lemma="А+вель" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="А+вель" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="4823">{b}А´вель{/b} {i}бібл.{/i}, {i}РВ{/i} -я, {i}ДМ{/i} -ю: Ка´ін і А´вель /// m4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="А+вель" slouniki="piskunou2012:4823" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">А+вель</Form>
             <Form tag="GS" pravapis="A1957,A2008">А+веля</Form>
             <Form tag="DS" pravapis="A1957,A2008">А+велю</Form>
@@ -261,8 +259,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037510" lemma="Ада+м" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Ада+м" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="5994">{b}Ада´м{/b}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Ада+м" slouniki="piskunou2012:5994" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Ада+м</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ада+ма</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ада+му</Form>
@@ -343,9 +340,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037512" lemma="Адысе+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Адысе+й" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Адысе+й" slouniki="piskunou2012:10569" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="10569">{b}Адысе´й{/b} {i}міф.{/i}, {i}РВ{/i} -е´я, {i}ДМ{/i} -е´ю /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Адысе+й</Form>
             <Form tag="GS" pravapis="A1957,A2008">Адысе+я</Form>
             <Form tag="DS" pravapis="A1957,A2008">Адысе+ю</Form>
@@ -1021,8 +1017,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203326" lemma="Алкара+н" tag="NPIINM1">
-        <Variant id="a" lemma="Алкара+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="12608">{b}Алкара´н{/b}, -а ({i}саст. да{/i} Кара´н) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Алкара+н" slouniki="piskunou2012:12608" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">Алкара+н</Form>
             <Form tag="GS">Алкара+на</Form>
             <Form tag="DS">Алкара+ну</Form>
@@ -1148,8 +1143,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037532" lemma="Альбіё+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Альбіё+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="12684">{b}Альбіён{/b}, -а ({i}Брытанскія астравы{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Альбіё+н" slouniki="piskunou2012:12684" pravapis="A1957,A2008">
             <Form tag="NS">Альбіё+н</Form>
             <Form tag="GS">Альбіё+на</Form>
             <Form tag="DS">Альбіё+ну</Form>
@@ -1198,8 +1192,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037537" lemma="Альге+рд" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Альге+рд" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="12713">{b}Альге´рд{/b}, {i}РВ{/i} -а, {i}М{/i} -дзе ({i}гіст. асоба{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Альге+рд" slouniki="piskunou2012:12713" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Альге+рд</Form>
             <Form tag="GS" pravapis="A1957,A2008">Альге+рда</Form>
             <Form tag="DS" pravapis="A1957,A2008">Альге+рду</Form>
@@ -1276,9 +1269,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037540" lemma="Альцге+ймер" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Альцге+ймер">
+        <Variant id="a" lemma="Альцге+ймер" slouniki="piskunou2012:12833">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="12833">{b}Альцге´ймер{/b}, {i}РВ{/i} -а, {i}ДМ{/i} -у: хваро´ба Альцге´ймера /// m3{sup}1{/sup}</Slounik>
             <Form tag="NS">Альцге+ймер</Form>
             <Form tag="GS">Альцге+ймера</Form>
             <Form tag="DS">Альцге+ймеру</Form>
@@ -2233,8 +2225,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037573" lemma="Апало+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Апало+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="14784">{b}Апало´н{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Апало+н" slouniki="piskunou2012:14784" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Апало+н</Form>
             <Form tag="GS" pravapis="A1957,A2008">Апало+на</Form>
             <Form tag="DS" pravapis="A1957,A2008">Апало+ну</Form>
@@ -2395,8 +2386,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203327" lemma="А+рктыка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="А+рктыка" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="16265">{b}А´рктыка{/b}, -і, {i}ДМ{/i} -ыцы /// f4{sup}2{/sup}</Slounik>
+        <Variant id="a" lemma="А+рктыка" slouniki="piskunou2012:16265" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsblm1996,tsbm1984" pravapis="A1957,A2008">А+рктыка</Form>
             <Form tag="GS" pravapis="A1957,A2008">А+рктыкі</Form>
             <Form tag="DS" pravapis="A1957,A2008">А+рктыцы</Form>
@@ -3382,9 +3372,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037601" lemma="Ахіле+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Ахіле+с" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Ахіле+с" slouniki="piskunou2012:19741" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="19741">{b}Ахіле´с{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Ахіле+с</Form>
             <Form tag="GS">Ахіле+са</Form>
             <Form tag="DS">Ахіле+су</Form>
@@ -3546,9 +3535,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037608" lemma="Ая+кс" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Ая+кс">
+        <Variant id="a" lemma="Ая+кс" slouniki="piskunou2012:20716">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="20716">{b}Ая´кс{/b} {i}міф.{/i}, {i}РВ{/i} -а: два Ая´ксы /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Ая+кс</Form>
             <Form tag="GS">Ая+кса</Form>
             <Form tag="DS">Ая+ксу</Form>
@@ -4387,9 +4375,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1027291" lemma="Бармале+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Variant id="a" lemma="Бармале+й" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Бармале+й" slouniki="piskunou2012:22380" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="22380">{b}Бармале´й{/b}, {i}РВ{/i} -е´я, {i}ДМ{/i} -е´ю ({i}казачны персанаж{/i}) /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS">Бармале+й</Form>
             <Form tag="GS">Бармале+я</Form>
             <Form tag="DS">Бармале+ю</Form>
@@ -4722,9 +4709,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037650" lemma="Ба+хус" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Ба+хус" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Ба+хус" slouniki="piskunou2012:22794" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="22794">{b}Ба´хус{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Ба+хус</Form>
             <Form tag="GS">Ба+хуса</Form>
             <Form tag="DS">Ба+хусу</Form>
@@ -4890,8 +4876,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037656" lemma="БелА+З" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="БелА+З" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="23545">{b}БелА´З{/b}, -а ({i}скар.:{/i} Беларускі аўтамабільны завод) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="БелА+З" slouniki="piskunou2012:23545" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,tsbm2016,krapivabr2012">БелА+З</Form>
             <Form tag="GS">БелА+За</Form>
             <Form tag="DS">БелА+Зу</Form>
@@ -4940,8 +4925,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1160141" lemma="Белару+сь" tag="NPIINF3" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Белару+сь" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="23656">{b}Белару´сь{/b}, {i}Т{/i} -ссю /// f5{sup}2{/sup}</Slounik>
+        <Variant id="a" lemma="Белару+сь" slouniki="piskunou2012:23656" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">Белару+сь</Form>
             <Form tag="GS">Белару+сі</Form>
             <Form tag="DS">Белару+сі</Form>
@@ -4975,8 +4959,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037660" lemma="Беларусьфільм" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Беларусьфільм">
-            <Slounik name="piskunou2012" idx="23657">{b}Беларусьфі´льм{/b}, -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Беларусьфільм" slouniki="piskunou2012:23657">
             <Form tag="NS" pravapis="A1957,A2008">Беларусьфільм</Form>
             <Form tag="GS" pravapis="A1957,A2008">Беларусьфільма</Form>
             <Form tag="DS" pravapis="A1957,A2008">Беларусьфільму</Form>
@@ -5058,8 +5041,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037666" lemma="Белдзяржпраект" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Белдзяржпраект">
-            <Slounik name="piskunou2012" idx="23708">{b}Белдзяржпрае´кт{/b}, -а, {i}М{/i} -кце /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Белдзяржпраект" slouniki="piskunou2012:23708">
             <Form tag="NS">Белдзяржпраект</Form>
             <Form tag="GS">Белдзяржпраекта</Form>
             <Form tag="DS">Белдзяржпраекту</Form>
@@ -5123,8 +5105,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037669" lemma="Белсаюздрук" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Белсаюздрук">
-            <Slounik name="piskunou2012" idx="23740">{b}Белсаюздру´к{/b}, -а /// m2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Белсаюздрук" slouniki="piskunou2012:23740">
             <Form tag="NS">Белсаюздрук</Form>
             <Form tag="GS">Белсаюздруку</Form>
             <Form tag="DS">Белсаюздруку</Form>
@@ -5140,8 +5121,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037670" lemma="Белтрансгаз" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Белтрансгаз">
-            <Slounik name="piskunou2012" idx="23744">{b}Белтрансга´з{/b}, -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Белтрансгаз" slouniki="piskunou2012:23744">
             <Form tag="NS">Белтрансгаз</Form>
             <Form tag="GS">Белтрансгаза</Form>
             <Form tag="DS">Белтрансгазу</Form>
@@ -5268,9 +5248,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037674" lemma="Бенілю+кс" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Бенілю+кс" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Бенілю+кс" slouniki="piskunou2012:23859" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="23859">{b}Бенілю´кс{/b}, -а (краі´ны Бенілю´кса) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Бенілю+кс</Form>
             <Form tag="GS">Бенілю+кса</Form>
             <Form tag="DS">Бенілю+ксу</Form>
@@ -5705,8 +5684,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1136661" lemma="Благаве+шчанне" tag="NPIINN1" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Благаве+шчанне" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="25150">{b}Благаве´шчанне{/b} {i}рэл.{/i}, {i}М{/i} -і ({i}і{/i} Дабраве´шчанне, Звестава´нне) /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Благаве+шчанне" slouniki="piskunou2012:25150" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,tsblm1996">Благаве+шчанне</Form>
             <Form tag="GS">Благаве+шчання</Form>
             <Form tag="DS">Благаве+шчанню</Form>
@@ -7540,8 +7518,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039957" lemma="Вадо+хрышча" tag="NPIINN1" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Вадо+хрышча" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="29360">{b}Вадо´хрышча{/b} {i}рэл.{/i}, {i}М{/i} -ы /// n2{sup}1+{/sup}</Slounik>
+        <Variant id="a" lemma="Вадо+хрышча" slouniki="piskunou2012:29360" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Вадо+хрышча</Form>
             <Form tag="GS" pravapis="A1957,A2008">Вадо+хрышча</Form>
             <Form tag="DS" pravapis="A1957,A2008">Вадо+хрышчу</Form>
@@ -7655,8 +7632,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203331" lemma="Валапа+с" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
-        <Variant id="a" lemma="Валапа+с" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="29761">{b}Валапа´с{/b} {i}астр.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Валапа+с" slouniki="piskunou2012:29761" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">Валапа+с</Form>
             <Form tag="GS">Валапа+са</Form>
             <Form tag="DS">Валапа+су</Form>
@@ -8478,9 +8454,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037814" lemma="Вельзеву+л" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Variant id="a" lemma="Вельзеву+л" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Вельзеву+л" slouniki="piskunou2012:31205" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="31205">{b}Вельзеву´л{/b}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Вельзеву+л</Form>
             <Form tag="GS" pravapis="A1957,A2008">Вельзеву+ла</Form>
             <Form tag="DS" pravapis="A1957,A2008">Вельзеву+лу</Form>
@@ -8582,8 +8557,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127974" lemma="Ве+рбніца" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Ве+рбніца" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="31443">{b}Ве´рбніца{/b} {i}рэл.{/i}, -ы ({i}Вербная{/i}, {i}Пальмавая нядзеля{/i}) /// f6{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Ве+рбніца" slouniki="piskunou2012:31443" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Ве+рбніца</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ве+рбніцы</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ве+рбніцы</Form>
@@ -9092,9 +9066,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037762" lemma="Ві+таўт" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Ві+таўт" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Ві+таўт" slouniki="piskunou2012:32840" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="32840">{b}Ві´таўт{/b}, {i}РВ{/i} -а, {i}М{/i} -ўце ({i}гіст. асоба{/i}) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Ві+таўт</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ві+таўта</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ві+таўту</Form>
@@ -9291,8 +9264,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203332" lemma="Во+ран" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/касмонімы (астронімы)">
-        <Variant id="a" lemma="Во+ран" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="33584">{b}Во´ран{/b} {i}астр.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Во+ран" slouniki="piskunou2012:33584" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">Во+ран</Form>
             <Form tag="GS">Во+рана</Form>
             <Form tag="DS">Во+рану</Form>
@@ -9324,8 +9296,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1028395" lemma="Во+рд" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/назвы твораў, праграм">
-        <Variant id="a" lemma="Во+рд">
-            <Slounik name="piskunou2012" idx="33593">{b}Ворд{/b} {i}інф.{/i}, Во´рда, {i}М{/i} (у) Во´рдзе {i}і{/i} Варда´*, {i}М{/i} (у) Вардзе´* ({i}праграма{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Во+рд" slouniki="piskunou2012:33593">
             <Form tag="NS">Во+рд</Form>
             <Form tag="GS">Во+рда</Form>
             <Form tag="DS">Во+рду</Form>
@@ -9503,8 +9474,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037830" lemma="Вяле+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/тэонімы">
-        <Variant id="a" lemma="Вяле+с" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="39829">{b}Вяле´с{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Вяле+с" slouniki="piskunou2012:39829" pravapis="A1957,A2008">
             <Form tag="NS">Вяле+с</Form>
             <Form tag="GS">Вяле+са</Form>
             <Form tag="DS">Вяле+су</Form>
@@ -9802,8 +9772,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037855" lemma="Гале+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Гале+й" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="41000">{b}Гале´й{/b}, {i}РВ{/i} -е´я: камета Гале´я /// m4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Гале+й" slouniki="piskunou2012:41000" pravapis="A1957,A2008">
             <Form tag="NS">Гале+й</Form>
             <Form tag="GS">Гале+я</Form>
             <Form tag="DS">Гале+ю</Form>
@@ -9819,9 +9788,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037851" lemma="Галіву+д" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы;Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Галіву+д">
+        <Variant id="a" lemma="Галіву+д" slouniki="piskunou2012:41041">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="41041">{b}Галіву´д{/b}, -а, {i}М{/i} -дзе /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Галіву+д</Form>
             <Form tag="GS" pravapis="A1957,A2008">Галіву+ду</Form>
             <Form tag="DS" pravapis="A1957,A2008">Галіву+ду</Form>
@@ -10006,9 +9974,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037862" lemma="Гаме+р" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Гаме+р" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Гаме+р" slouniki="piskunou2012:41440" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="41440">{b}Гаме´р{/b}, {i}РВ{/i} -а, {i}ДМ{/i} -у /// m3{sup}1{/sup}</Slounik>
             <Form tag="NS">Гаме+р</Form>
             <Form tag="GS">Гаме+ра</Form>
             <Form tag="DS">Гаме+ру</Form>
@@ -10073,8 +10040,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037863" lemma="Га+млет" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Га+млет" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="41476">{b}Га´млет{/b}, {i}РВ{/i} -а, {i}М{/i} -еце ({i}літ. персанаж{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Га+млет" slouniki="piskunou2012:41476" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Га+млет</Form>
             <Form tag="GS" pravapis="A1957,A2008">Га+млета</Form>
             <Form tag="DS" pravapis="A1957,A2008">Га+млету</Form>
@@ -10192,8 +10158,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037331" lemma="Га+нза" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Га+нза" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="41615">{b}Га´нза{/b} {i}гіст.{/i}, -ы /// f1{sup}1+{/sup}</Slounik>
+        <Variant id="a" lemma="Га+нза" slouniki="piskunou2012:41615" pravapis="A1957,A2008">
             <Form tag="NS">Га+нза</Form>
             <Form tag="GS">Га+нзы</Form>
             <Form tag="DS">Га+нзе</Form>
@@ -10323,9 +10288,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037333" lemma="Гарадзе+ншчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Гарадзе+ншчына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Гарадзе+ншчына" slouniki="piskunou2012:41747" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="41747">{b}Гарадзе´ншчына{/b}, -ы ({i}да{/i} Гаро´дня, {i}неафіц. да{/i} Гро´дна) /// f1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Гарадзе+ншчына</Form>
             <Form tag="GS" pravapis="A1957,A2008">Гарадзе+ншчыны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Гарадзе+ншчыне</Form>
@@ -11003,8 +10967,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037893" lemma="Гельмгольц" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="Гельмгольц">
-            <Slounik name="piskunou2012" idx="43062">{b}Гельмго´льц{/b}, {i}РВ{/i} -а, {i}ДМ{/i} -у: ма´ятнік Гельмго´льца, рэзана´тар Гельмго´льца /// m3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Гельмгольц" slouniki="piskunou2012:43062">
             <Form tag="NS">Гельмгольц</Form>
             <Form tag="GS">Гельмгольца</Form>
             <Form tag="DS">Гельмгольцу</Form>
@@ -11137,8 +11100,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037900" lemma="Герадо+т" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Герадо+т" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="43332">{b}Герадо´т{/b}, {i}РВ{/i} -а, {i}М{/i} -о´це ({i}гіст. асоба{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Герадо+т" slouniki="piskunou2012:43332" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Герадо+т</Form>
             <Form tag="GS" pravapis="A1957,A2008">Герадо+та</Form>
             <Form tag="DS" pravapis="A1957,A2008">Герадо+ту</Form>
@@ -11154,9 +11116,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037901" lemma="Гера+кл" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Гера+кл" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Гера+кл" slouniki="piskunou2012:43347" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="43347">{b}Гера´кл{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Гера+кл</Form>
             <Form tag="GS" pravapis="A1957,A2008">Гера+кла</Form>
             <Form tag="DS" pravapis="A1957,A2008">Гера+клу</Form>
@@ -11241,9 +11202,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127977" lemma="Геркуле+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Геркуле+с" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Геркуле+с" slouniki="piskunou2012:43400" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="43400">{b}Геркуле´с{/b}{sup}2{/sup} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Геркуле+с</Form>
             <Form tag="GS" pravapis="A1957,A2008">Геркуле+са</Form>
             <Form tag="DS" pravapis="A1957,A2008">Геркуле+су</Form>
@@ -11474,8 +11434,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037836" lemma="Гімене+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Гімене+й" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="44145">{b}Гімене´й{/b} {i}міф.{/i}, {i}РВ{/i} -е´я, {i}ДМ{/i} -е´ю /// m4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Гімене+й" slouniki="piskunou2012:44145" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012,tsbm1984">Гімене+й</Form>
             <Form tag="GS">Гімене+я</Form>
             <Form tag="DS">Гімене+ю</Form>
@@ -11823,8 +11782,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037343" lemma="Го+мельшчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Го+мельшчына" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="45703">{b}Го´мельшчына{/b}, -ы ({i}да{/i} Го´мель) /// f1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Го+мельшчына" slouniki="piskunou2012:45703" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Го+мельшчына</Form>
             <Form tag="GS" pravapis="A1957,A2008">Го+мельшчыны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Го+мельшчыне</Form>
@@ -11841,8 +11799,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037344" lemma="Го+радня" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Го+радня" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="45759">{b}Го´радня{/b}, -і ({i}неафіц. да{/i} Гро´дна) /// f2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Го+радня" slouniki="piskunou2012:45759" pravapis="A1957,A2008">
             <Form tag="NS">Го+радня</Form>
             <Form tag="GS">Го+радні</Form>
             <Form tag="DS">Го+радні</Form>
@@ -11981,8 +11938,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037345" lemma="Гро+дзеншчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Гро+дзеншчына" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="46474">{b}Гро´дзеншчына{/b}, -ы ({i}да{/i} Гро´дна) /// f1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Гро+дзеншчына" slouniki="piskunou2012:46474" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Гро+дзеншчына</Form>
             <Form tag="GS" pravapis="A1957,A2008">Гро+дзеншчыны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Гро+дзеншчыне</Form>
@@ -12119,9 +12075,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037931" lemma="Гры+нвіч" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Гры+нвіч" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Гры+нвіч" slouniki="piskunou2012:46927" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="46927">{b}Гры´нвіч{/b}, -а: паводле Гры´нвіча ({i}пра{/i} {i}час{/i}) /// m3{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Гры+нвіч</Form>
             <Form tag="GS" pravapis="A1957,A2008">Гры+нвіча</Form>
             <Form tag="DS" pravapis="A1957,A2008">Гры+нвічу</Form>
@@ -12602,9 +12557,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037951" lemma="Даві+д" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Даві+д" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Даві+д" slouniki="piskunou2012:48405" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="48405">{b}Даві´д{/b} {i}бібл.{/i}, {i}РВ{/i} -а, {i}М{/i} -дзе (Даві´д і Галія´ф) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Даві+д</Form>
             <Form tag="GS">Даві+да</Form>
             <Form tag="DS">Даві+ду</Form>
@@ -13618,9 +13572,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037359" lemma="Джулье+та" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Джулье+та" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Джулье+та" slouniki="piskunou2012:51980" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="51980">{b}Джулье´та{/b} ({i}літ. персанаж{/i}) -ы, {i}ДМ{/i} -е´це: Рамэ´а і Джулье´та /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Джулье+та</Form>
             <Form tag="GS" pravapis="A1957,A2008">Джулье+ты</Form>
             <Form tag="DS" pravapis="A1957,A2008">Джулье+це</Form>
@@ -14503,8 +14456,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038017" lemma="Дняпро+" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="Дняпро+" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="53171">{b}Дняпро´{/b}* {i}М{/i} -ы´ /// n2{sup}1''{/sup} B</Slounik>
+        <Variant id="a" lemma="Дняпро+" slouniki="piskunou2012:53171" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Дняпро+</Form>
             <Form tag="GS" pravapis="A1957,A2008">Дняпра+</Form>
             <Form tag="DS" pravapis="A1957,A2008">Дняпру+</Form>
@@ -15074,9 +15026,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038044" lemma="Дыяні+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Дыяні+с" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Дыяні+с" slouniki="piskunou2012:55895" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="55895">{b}Дыяні´с{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Дыяні+с</Form>
             <Form tag="GS">Дыяні+са</Form>
             <Form tag="DS">Дыяні+су</Form>
@@ -15109,9 +15060,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038046" lemma="Дэ+віс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Дэ+віс" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Дэ+віс" slouniki="piskunou2012:56057" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="56057">{b}Дэ´віс{/b}, {i}РВ{/i} -а: Ку´бак Дэ´віса /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Дэ+віс</Form>
             <Form tag="GS">Дэ+віса</Form>
             <Form tag="DS">Дэ+вісу</Form>
@@ -15261,9 +15211,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037370" lemma="Е+ва" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Е+ва" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Е+ва" slouniki="piskunou2012:57216" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="57216">{b}Е´ва{/b} {i}бібл.{/i}, -ы /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Е+ва</Form>
             <Form tag="GS" pravapis="A1957,A2008">Е+вы</Form>
             <Form tag="DS" pravapis="A1957,A2008">Е+ве</Form>
@@ -15996,9 +15945,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1040660" lemma="Еўраба+чанне" tag="NPIINN1">
-        <Variant id="a" lemma="Еўраба+чанне">
+        <Variant id="a" lemma="Еўраба+чанне" slouniki="piskunou2012:57357">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="57357">{b}Еўраба´чанне{/b}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Еўраба+чанне</Form>
             <Form tag="GS" pravapis="A1957,A2008">Еўраба+чання</Form>
             <Form tag="DS" pravapis="A1957,A2008">Еўраба+чанню</Form>
@@ -16031,8 +15979,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038060" lemma="Еўрапарла+мент" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Еўрапарла+мент" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="57390">{b}Еўрапарла´мент{/b}, -а, {i}М{/i} -нце /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Еўрапарла+мент" slouniki="piskunou2012:57390" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">Еўрапарла+мент</Form>
             <Form tag="GS">Еўрапарла+мента</Form>
             <Form tag="DS">Еўрапарла+менту</Form>
@@ -16042,9 +15989,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038061" lemma="Еўрасаю+з" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Еўрасаю+з" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Еўрасаю+з" slouniki="piskunou2012:57419" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="57419">{b}Еўрасаю´з{/b}, -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Еўрасаю+з</Form>
             <Form tag="GS" pravapis="A1957,A2008">Еўрасаю+за</Form>
             <Form tag="DS" pravapis="A1957,A2008">Еўрасаю+зу</Form>
@@ -16076,8 +16022,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037383" lemma="Еўро+па" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Еўро+па" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="57436">{b}Еўро´па{/b} {i}міф.{/i}, {i}геагр.{/i}, -ы /// f1{sup}1-{/sup}</Slounik>
+        <Variant id="a" lemma="Еўро+па" slouniki="piskunou2012:57436" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Еўро+па</Form>
             <Form tag="GS" pravapis="A1957,A2008">Еўро+пы</Form>
             <Form tag="DS" pravapis="A1957,A2008">Еўро+пе</Form>
@@ -16661,9 +16606,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127644" lemma="Задзві+нне" tag="NPIINN1">
-        <Variant id="a" lemma="Задзві+нне" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Задзві+нне" slouniki="piskunou2012:60983" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="60983">{b}Задзві´нне{/b}, {i}М{/i} -і ({i}да{/i} Дзвіна´) /// n4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Задзві+нне</Form>
             <Form tag="GS" pravapis="A1957,A2008">Задзві+ння</Form>
             <Form tag="DS" pravapis="A1957,A2008">Задзві+нню</Form>
@@ -16679,8 +16623,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127645" lemma="Задняпро+ўе" tag="NPIINN1">
-        <Variant id="a" lemma="Задняпро+ўе" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="61124">{b}Задняпро´ўе{/b}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Задняпро+ўе" slouniki="piskunou2012:61124" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Задняпро+ўе</Form>
             <Form tag="GS" pravapis="A1957,A2008">Задняпро+ўя</Form>
             <Form tag="DS" pravapis="A1957,A2008">Задняпро+ўю</Form>
@@ -16729,9 +16672,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127646" lemma="Закаўка+ззе" tag="NPIINN1">
-        <Variant id="a" lemma="Закаўка+ззе" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Закаўка+ззе" slouniki="piskunou2012:62074" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="62074">{b}Закаўка´ззе{/b}, {i}М{/i} -і ({i}да{/i} Каўка´з) /// n4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Закаўка+ззе</Form>
             <Form tag="GS" pravapis="A1957,A2008">Закаўка+ззя</Form>
             <Form tag="DS" pravapis="A1957,A2008">Закаўка+ззю</Form>
@@ -16846,8 +16788,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127647" lemma="Запаля+р'е" tag="NPIINN1">
-        <Variant id="a" lemma="Запаля+р'е" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="64219">{b}Запаля´р’е{/b}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Запаля+р'е" slouniki="piskunou2012:64219" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984">Запаля+р'е</Form>
             <Form tag="GS">Запаля+р'я</Form>
             <Form tag="DS">Запаля+р'ю</Form>
@@ -16879,9 +16820,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038116" lemma="Зарату+стра" tag="NPAPNM2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Зарату+стра" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Зарату+стра" slouniki="piskunou2012:65182" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="65182">{b}Зарату´стра{/b}, -ы, {i}ДМ{/i} -у, {i}Т{/i} -ам ({i}гіст. асоба{/i}) /// m12{sup}1{/sup}</Slounik>
             <Form tag="NS">Зарату+стра</Form>
             <Form tag="GS">Зарату+стры</Form>
             <Form tag="DS">Зарату+стру</Form>
@@ -17066,8 +17006,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038120" lemma="Зе+ўс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Зе+ўс" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="70979">{b}Зеўс{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Зе+ўс" slouniki="piskunou2012:70979" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Зе+ўс</Form>
             <Form tag="GS" pravapis="A1957,A2008">Зе+ўса</Form>
             <Form tag="DS" pravapis="A1957,A2008">Зе+ўсу</Form>
@@ -17692,9 +17631,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037398" lemma="Ілія+да" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/назвы твораў, праграм">
-        <Variant id="a" lemma="Ілія+да">
+        <Variant id="a" lemma="Ілія+да" slouniki="piskunou2012:74658">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="74658">{b}Ілія´да{/b}, -ы, {i}ДМ{/i} -дзе ({i}літ. помнік{/i}) /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS">Ілія+да</Form>
             <Form tag="GS">Ілія+ды</Form>
             <Form tag="DS">Ілія+дзе</Form>
@@ -18063,9 +18001,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1025560" lemma="Інтэрфа+кс" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Інтэрфа+кс">
+        <Variant id="a" lemma="Інтэрфа+кс" slouniki="piskunou2012:76124">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="76124">{b}Інтэрфа´кс{/b}, -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Інтэрфа+кс</Form>
             <Form tag="GS">Інтэрфа+кса</Form>
             <Form tag="DS">Інтэрфа+ксу</Form>
@@ -18453,9 +18390,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037491" lemma="Ісу+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Ісу+с" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Ісу+с" slouniki="piskunou2012:76653" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="76653">{b}Ісу´с{/b}, {i}РВ{/i} -а ({i}імя{/i} {i}Хрыста{/i}) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Ісу+с</Form>
             <Form tag="GS" pravapis="A1957,A2008">Ісу+са</Form>
             <Form tag="DS" pravapis="A1957,A2008">Ісу+су</Form>
@@ -18942,9 +18878,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038135" lemma="Калізе+й" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
-        <Variant id="a" lemma="Калізе+й" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Калізе+й" slouniki="piskunou2012:77903" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="77903">{b}Калізе´й{/b}, -е´я /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Калізе+й</Form>
             <Form tag="GS" pravapis="A1957,A2008">Калізе+я</Form>
             <Form tag="DS" pravapis="A1957,A2008">Калізе+ю</Form>
@@ -19177,8 +19112,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1138835" lemma="Каля+ды" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Каля+ды" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="78255">{b}Каля´ды{/b}, -д {i}і{/i} -даў ({i}свята{/i}) /// [f1]</Slounik>
+        <Variant id="a" lemma="Каля+ды" slouniki="piskunou2012:78255" pravapis="A1957,A2008">
             <Form tag="NP" slouniki="tsbm1984,tsblm1996,krapivabr2012">Каля+ды</Form>
             <Form tag="GP">Каля+д</Form>
             <Form tag="DP">Каля+дам</Form>
@@ -19186,8 +19120,7 @@
             <Form tag="IP">Каля+дамі</Form>
             <Form tag="LP">Каля+дах</Form>
         </Variant>
-        <Variant id="b" lemma="Ко+ляды" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="78255">{b}Каля´ды{/b}, -д {i}і{/i} -даў ({i}свята{/i}) /// [f1]</Slounik>
+        <Variant id="b" lemma="Ко+ляды" slouniki="piskunou2012:78255" pravapis="A1957,A2008">
             <Form tag="NP" slouniki="tsblm1996,tsbm1984,tsbm2016,krapivabr2012">Ко+ляды</Form>
             <Form tag="GP">Ко+ляд</Form>
             <Form tag="DP">Ко+лядам</Form>
@@ -19330,8 +19263,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038143" lemma="Камінтэ+рн" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Камінтэ+рн" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="78660">{b}Камінтэ´рн{/b} {i}гіст.{/i}, -а (Камуністы´чны Інтэрнацыяна´л) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Камінтэ+рн" slouniki="piskunou2012:78660" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012">Камінтэ+рн</Form>
             <Form tag="GS">Камінтэ+рна</Form>
             <Form tag="DS">Камінтэ+рну</Form>
@@ -19641,8 +19573,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038158" lemma="Ка+нт" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Ка+нт">
-            <Slounik name="piskunou2012" idx="79752">{b}Кант{/b}{sup}2{/sup}, {i}РВ{/i} -а, {i}М{/i} -нце (гіпо´тэза Ка´нта) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Ка+нт" slouniki="piskunou2012:79752">
             <Form tag="NS" pravapis="A1957,A2008">Ка+нт</Form>
             <Form tag="GS" pravapis="A1957,A2008">Канта</Form>
             <Form tag="DS" pravapis="A1957,A2008">Канту</Form>
@@ -19764,8 +19695,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038161" lemma="Капіто+лій" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Капіто+лій" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="80444">{b}Капіто´лій{/b}, -ія ({i}у Рыме і Вашынгтоне{/i}) /// m4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Капіто+лій" slouniki="piskunou2012:80444" pravapis="A1957,A2008">
             <Form tag="NS">Капіто+лій</Form>
             <Form tag="GS">Капіто+лія</Form>
             <Form tag="DS">Капіто+лію</Form>
@@ -19891,8 +19821,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038167" lemma="Кара+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/хрэматонімы">
-        <Variant id="a" lemma="Кара+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="80824">{b}Кара´н{/b} {i}рэл.{/i}, -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Кара+н" slouniki="piskunou2012:80824" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012,tsblm1996,tsbm1984">Кара+н</Form>
             <Form tag="GS">Кара+на</Form>
             <Form tag="DS">Кара+ну</Form>
@@ -20389,9 +20318,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037433" lemma="Касцю+шка" tag="NPAPNM2" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Касцю+шка">
+        <Variant id="a" lemma="Касцю+шка" slouniki="piskunou2012:82172">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="82172">{b}Касцю´шка{/b}, -і, {i}Т{/i} -ам ({i}гіст. асоба{/i}) /// m11{sup}1{/sup}</Slounik>
             <Form tag="NS">Касцю+шка</Form>
             <Form tag="GS">Касцю+шкі</Form>
             <Form tag="DS">Касцю+шку</Form>
@@ -21196,9 +21124,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127090" lemma="Кланда+йк" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы;Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы;Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Кланда+йк" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Кланда+йк" slouniki="piskunou2012:84489" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="84489">{b}Кланда´йк{/b} {i}геагр.{/i}, {i}перан.{/i}, -а /// m2{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Кланда+йк</Form>
             <Form tag="GS" pravapis="A1957,A2008">Кланда+йка</Form>
             <Form tag="DS" pravapis="A1957,A2008">Кланда+йку</Form>
@@ -21298,9 +21225,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037445" lemma="Клеапа+тра" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Клеапа+тра" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Клеапа+тра" slouniki="piskunou2012:84584" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="84584">{b}Клеапа´тра{/b}, -ы ({i}гіст. асоба{/i}) /// f6{sup}1''{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Клеапа+тра</Form>
             <Form tag="GS" pravapis="A1957,A2008">Клеапа+тры</Form>
             <Form tag="DS" pravapis="A1957,A2008">Клеапа+тры</Form>
@@ -22050,9 +21976,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037446" lemma="Кры+вія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Кры+вія" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Кры+вія" slouniki="piskunou2012:86983" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="86983">{b}Кры´вія{/b}, -і ({i}паэтычная назва Беларусі{/i}) /// f2{sup}1-{/sup}</Slounik>
             <Form tag="NS">Кры+вія</Form>
             <Form tag="GS">Кры+віі</Form>
             <Form tag="DS">Кры+віі</Form>
@@ -22502,9 +22427,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038245" lemma="Кулі+бін" tag="NPAPNM6" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Кулі+бін">
+        <Variant id="a" lemma="Кулі+бін" slouniki="piskunou2012:88009">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="88009">{b}Кулі´бін{/b}, {i}РВ{/i} -а ({i}гіст. асоба і пра вынаходніка{/i}) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Кулі+бін</Form>
             <Form tag="GS">Кулі+біна</Form>
             <Form tag="DS">Кулі+біну</Form>
@@ -22590,9 +22514,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037452" lemma="Ку+нцаўшчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы;Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
-        <Variant id="a" lemma="Ку+нцаўшчына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Ку+нцаўшчына" slouniki="piskunou2012:88295" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="88295">{b}Ку´нцаўшчына{/b}, -ы ({i}мікрараён у Мінску{/i}) /// f1{sup}1{/sup}</Slounik>
             <Form tag="NS">Ку+нцаўшчына</Form>
             <Form tag="GS">Ку+нцаўшчыны</Form>
             <Form tag="DS">Ку+нцаўшчыне</Form>
@@ -22679,8 +22602,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1137315" lemma="Купа+лле" tag="NPIINN1" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Купа+лле" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="88324">{b}Купа´лле{/b}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Купа+лле" slouniki="piskunou2012:88324" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,tsblm1996,krapivabr2012">Купа+лле</Form>
             <Form tag="GS">Купа+лля</Form>
             <Form tag="DS">Купа+ллю</Form>
@@ -22747,9 +22669,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127707" lemma="Курапа+ты" tag="NPIINP7">
-        <Variant id="a" lemma="Курапа+ты" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Курапа+ты" slouniki="piskunou2012:88473" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="88473">{b}Курапа´ты{/b}, -т {i}і{/i} -таў ({i}урочышча пад Мінскам; сімвал пакутніцтва{/i}) /// [f1]</Slounik>
             <Form tag="NP">Курапа+ты</Form>
             <Form tag="GP">Курапа+т</Form>
             <Form tag="DP">Курапа+там</Form>
@@ -24426,8 +24347,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203338" lemma="Лі+нч" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Лі+нч" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="91589">{b}Лінч{/b}, -а: суд Лі´нча /// m3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Лі+нч" slouniki="piskunou2012:91589" pravapis="A2008">
             <Form tag="NS" slouniki="krapivabr2012,tsbm2016,tsbm1984">Лі+нч</Form>
             <Form tag="GS">Лі+нча</Form>
             <Form tag="DS">Лі+нчу</Form>
@@ -24992,8 +24912,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038307" lemma="Лу+ўр" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
-        <Variant id="a" lemma="Лу+ўр" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="92641">{b}Луўр{/b}, -а, {i}М{/i} -ы ({i}музей{/i}) /// m3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Лу+ўр" slouniki="piskunou2012:92641" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Лу+ўр</Form>
             <Form tag="GS" pravapis="A1957,A2008">Лу+ўра</Form>
             <Form tag="DS" pravapis="A1957,A2008">Лу+ўру</Form>
@@ -25642,9 +25561,8 @@
             <Form tag="IP">Магаме+дамі</Form>
             <Form tag="LP">Магаме+дах</Form>
         </Variant>
-        <Variant id="b" lemma="Магаме+т">
+        <Variant id="b" lemma="Магаме+т" slouniki="piskunou2012:93537">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="93537">{b}Магаме´т{/b}, {i}РВ{/i} -а, {i}М{/i} -е´це ({i}саст. да{/i} Маха´мед) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Магаме+т</Form>
             <Form tag="GS">Магаме+та</Form>
             <Form tag="DS">Магаме+ту</Form>
@@ -25710,8 +25628,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019795" lemma="Магілё+ўшчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Магілё+ўшчына" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="93559">{b}Магілёўшчына{/b}, -ы ({i}да{/i} Магілёў) /// f1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Магілё+ўшчына" slouniki="piskunou2012:93559" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Магілё+ўшчына</Form>
             <Form tag="GS" pravapis="A1957,A2008">Магілё+ўшчыны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Магілё+ўшчыне</Form>
@@ -25926,9 +25843,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038375" lemma="Маісе+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Маісе+й" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Маісе+й" slouniki="piskunou2012:94084" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="94084">{b}Маісе´й{/b} {i}бібл.{/i}, {i}РВ{/i} -е´я, {i}ДМ{/i} -е´ю /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Маісе+й</Form>
             <Form tag="GS" pravapis="A1957,A2008">Маісе+я</Form>
             <Form tag="DS" pravapis="A1957,A2008">Маісе+ю</Form>
@@ -25996,8 +25912,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038392" lemma="Макдо+нальдс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Макдо+нальдс">
-            <Slounik name="piskunou2012" idx="94177">{b}Макдо´нальдс{/b}, -а {i}і нескл. м.{/i} ({i}кафэ; сетка кафэ{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Макдо+нальдс" slouniki="piskunou2012:94177">
             <Form tag="NS">Макдо+нальдс</Form>
             <Form tag="GS">Макдо+нальдса</Form>
             <Form tag="DS">Макдо+нальдсу</Form>
@@ -26047,8 +25962,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019832" lemma="Мако+ш" tag="NPAPNF3" theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Variant id="a" lemma="Мако+ш" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="94216">{b}Мако´ш{/b} {i}міф.{/i}, {i}Т{/i} -шшу /// f7{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Мако+ш" slouniki="piskunou2012:94216" pravapis="A1957,A2008">
             <Form tag="NS">Мако+ш</Form>
             <Form tag="GS">Мако+шы</Form>
             <Form tag="DS">Мако+шы</Form>
@@ -26414,9 +26328,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038402" lemma="Мама+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Мама+й" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Мама+й" slouniki="piskunou2012:95265" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="95265">{b}Мама´й{/b}, {i}РВ{/i} -а´я ({i}гіст. асоба{/i}); {i}але{/i} мама´й прайшо´ў ({i}пра поўны{/i} {i}беспарадак{/i}) /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Мама+й</Form>
             <Form tag="GS" pravapis="A1957,A2008">Мама+я</Form>
             <Form tag="DS" pravapis="A1957,A2008">Мама+ю</Form>
@@ -26498,9 +26411,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038404" lemma="Манама+х" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Манама+х" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Манама+х" slouniki="piskunou2012:95341" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="95341">{b}Манама´х{/b}, {i}РВ{/i} -а ({i}гіст. асоба{/i}) /// m2{sup}1{/sup}</Slounik>
             <Form tag="NS">Манама+х</Form>
             <Form tag="GS">Манама+ха</Form>
             <Form tag="DS">Манама+ху</Form>
@@ -27036,9 +26948,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019953" lemma="Марселье+за" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/назвы твораў, праграм">
-        <Variant id="a" lemma="Марселье+за">
+        <Variant id="a" lemma="Марселье+за" slouniki="piskunou2012:96186">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="96186">{b}Марселье´за{/b}, -ы ({i}песня{/i}, {i}гімн{/i}) /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Марселье+за</Form>
             <Form tag="GS" pravapis="A1957,A2008">Марселье+зы</Form>
             <Form tag="DS" pravapis="A1957,A2008">Марселье+зе</Form>
@@ -27579,8 +27490,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038433" lemma="Маха+мед" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Маха+мед" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="96966">{b}Маха´мед{/b}, {i}РВ{/i} -а ({i}заснавальнік ісламу{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Маха+мед" slouniki="piskunou2012:96966" pravapis="A1957,A2008">
             <Form tag="NS">Маха+мед</Form>
             <Form tag="GS">Маха+меда</Form>
             <Form tag="DS">Маха+меду</Form>
@@ -28155,8 +28065,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038453" lemma="МЗС" tag="NPIIBN0" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="МЗС">
-            <Slounik name="piskunou2012" idx="98573">{b}МЗС{/b} [эмзээ´с], {i}нескл.{/i}, {i}н.{/i} ({i}скар.:{/i} Міністэрства замежных спраў) /// </Slounik>
+        <Variant id="a" lemma="МЗС" slouniki="piskunou2012:98573">
             <Form tag="NS">МЗС</Form>
             <Form tag="GS">МЗС</Form>
             <Form tag="DS">МЗС</Form>
@@ -28172,8 +28081,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127652" lemma="Міжземнамо+р'е" tag="NPIINN1">
-        <Variant id="a" lemma="Міжземнамо+р'е" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="98704">{b}Міжземнамо´р’е{/b}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Міжземнамо+р'е" slouniki="piskunou2012:98704" pravapis="A1957,A2008">
             <Form tag="NS">Міжземнамо+р'е</Form>
             <Form tag="GS">Міжземнамо+р'я</Form>
             <Form tag="DS">Міжземнамо+р'ю</Form>
@@ -28486,9 +28394,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038350" lemma="Міната+ўр" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Variant id="a" lemma="Міната+ўр" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Міната+ўр" slouniki="piskunou2012:99514" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="99514">{b}Міната´ўр{/b} {i}міф.{/i}, {i}РВ{/i} -а, {i}ДМ{/i} -у /// m3{sup}1{/sup}</Slounik>
             <Form tag="NS">Міната+ўр</Form>
             <Form tag="GS">Міната+ўра</Form>
             <Form tag="DS">Міната+ўру</Form>
@@ -28504,8 +28411,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038351" lemma="Міндо+ўг" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Міндо+ўг" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="99541">{b}Міндо´ўг{/b}, {i}РВ{/i} -а ({i}гіст. асоба{/i}) /// m2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Міндо+ўг" slouniki="piskunou2012:99541" pravapis="A1957,A2008">
             <Form tag="NS">Міндо+ўг</Form>
             <Form tag="GS">Міндо+ўга</Form>
             <Form tag="DS">Міндо+ўгу</Form>
@@ -28538,8 +28444,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038352" lemma="Мінжылкамгас" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Мінжылкамгас">
-            <Slounik name="piskunou2012" idx="99579">{b}Мінжылкамга´с{/b} (Міністэ´рства жыллёва-камуна´льнай гаспада´ркі) -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Мінжылкамгас" slouniki="piskunou2012:99579">
             <Form tag="NS">Мінжылкамгас</Form>
             <Form tag="GS">Мінжылкамгаса</Form>
             <Form tag="DS">Мінжылкамгасу</Form>
@@ -28668,9 +28573,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038358" lemma="Мінфі+н" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Мінфі+н">
+        <Variant id="a" lemma="Мінфі+н" slouniki="piskunou2012:99770">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="99770">{b}Мінфі´н{/b} (Міністэ´рства фіна´нсаў) -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Мінфі+н</Form>
             <Form tag="GS">Мінфі+на</Form>
             <Form tag="DS">Мінфі+ну</Form>
@@ -28686,9 +28590,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1019759" lemma="Мі+ншчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Мі+ншчына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Мі+ншчына" slouniki="piskunou2012:99775" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="99775">{b}Мі´ншчына{/b}, -ы ({i}да{/i} Мінск) /// f1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Мі+ншчына</Form>
             <Form tag="GS" pravapis="A1957,A2008">Мі+ншчыны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Мі+ншчыне</Form>
@@ -28705,9 +28608,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038359" lemma="Міню+ст" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Міню+ст">
+        <Variant id="a" lemma="Міню+ст" slouniki="piskunou2012:99782">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="99782">{b}Міню´ст{/b} (Міністэ´рства юсты´цыі) -а, {i}М{/i} -сце /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Міню+ст</Form>
             <Form tag="GS">Міню+ста</Form>
             <Form tag="DS">Міню+сту</Form>
@@ -29074,8 +28976,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203339" lemma="Мо+рзэ" tag="NPAPNM0">
-        <Variant id="a" lemma="Мо+рзэ" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="100662">{b}Мо´рзэ{/b}, {i}нескл.{/i}, {i}м.{/i}: а´збука Мо´рзэ /// </Slounik>
+        <Variant id="a" lemma="Мо+рзэ" slouniki="piskunou2012:100662" pravapis="A2008">
             <Form tag="NS" slouniki="krapivabr2012,tsbm2016">Мо+рзэ</Form>
             <Form tag="GS">Мо+рзэ</Form>
             <Form tag="DS">Мо+рзэ</Form>
@@ -29375,9 +29276,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038470" lemma="Мю+нхен" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Мю+нхен" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Мю+нхен" slouniki="piskunou2012:101784" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="101784">{b}Мю´нхен{/b}, -а ({i}і{/i} {i}перан.{/i}: {i}акт{/i} {i}змовы{/i}, {i}здрадніцтва{/i}) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Мю+нхен</Form>
             <Form tag="GS" pravapis="A1957,A2008">Мю+нхена</Form>
             <Form tag="DS" pravapis="A1957,A2008">Мю+нхену</Form>
@@ -30360,9 +30260,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1020631" lemma="Немезі+да" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/тэонімы">
-        <Variant id="a" lemma="Немезі+да" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Немезі+да" slouniki="piskunou2012:113032" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="113032">{b}Немезі´да{/b} {i}міф.{/i}, -ы, {i}ДМ{/i} -дзе /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Немезі+да</Form>
             <Form tag="GS" pravapis="A1957,A2008">Немезі+ды</Form>
             <Form tag="DS" pravapis="A1957,A2008">Немезі+дзе</Form>
@@ -30429,9 +30328,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1037310" lemma="Неферці+ці" tag="NPAPNF0" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Неферці+ці" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Неферці+ці" slouniki="piskunou2012:115391" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="115391">{b}Неферці´ці{/b}, {i}нескл.{/i}, {i}ж.{/i} ({i}гіст. асоба{/i}) /// </Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Неферці+ці</Form>
             <Form tag="GS" pravapis="A1957,A2008">Неферці+ці</Form>
             <Form tag="DS" pravapis="A1957,A2008">Неферці+ці</Form>
@@ -31059,9 +30957,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1020942" lemma="Няме+ччына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Няме+ччына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Няме+ччына" slouniki="piskunou2012:117454" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="117454">{b}Няме´ччына{/b}, -ы /// f1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Няме+ччына</Form>
             <Form tag="GS" pravapis="A1957,A2008">Няме+ччыны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Няме+ччыне</Form>
@@ -31078,8 +30975,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1020939" lemma="Нямі+га" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/гідронімы/патамонімы;Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
-        <Variant id="a" lemma="Нямі+га" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="117455">{b}Нямі´га{/b}, -і, {i}ДМ{/i} -і´зе ({i}гіст. раён у Мінску{/i}, {i}рака{/i}) /// f3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Нямі+га" slouniki="piskunou2012:117455" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Нямі+га</Form>
             <Form tag="GS" pravapis="A1957,A2008">Нямі+гі</Form>
             <Form tag="DS" pravapis="A1957,A2008">Нямі+зе</Form>
@@ -31437,8 +31333,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038532" lemma="О+скар" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="О+скар" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="118576">{b}О´скар{/b}, -а, {i}М{/i} -ы ({i}прэмія{/i}) /// m3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="О+скар" slouniki="piskunou2012:118576" pravapis="A1957,A2008">
             <Form tag="NS">О+скар</Form>
             <Form tag="GS">О+скара</Form>
             <Form tag="DS">О+скару</Form>
@@ -31585,9 +31480,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127656" lemma="Падзві+нне" tag="NPIINN1">
-        <Variant id="a" lemma="Падзві+нне" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Падзві+нне" slouniki="piskunou2012:122839" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="122839">{b}Падзві´нне{/b}, {i}М{/i} -і ({i}да{/i} Дзвіна´) /// n4{sup}1{/sup}</Slounik>
             <Form tag="NS">Падзві+нне</Form>
             <Form tag="GS">Падзві+ння</Form>
             <Form tag="DS">Падзві+нню</Form>
@@ -31635,8 +31529,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127659" lemma="Падняпро+ўе" tag="NPIINN1">
-        <Variant id="a" lemma="Падняпро+ўе" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="123975">{b}Падняпро´ўе{/b}, {i}М{/i} -і ({i}да{/i} Днепр) /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Падняпро+ўе" slouniki="piskunou2012:123975" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Падняпро+ўе</Form>
             <Form tag="GS" pravapis="A1957,A2008">Падняпро+ўя</Form>
             <Form tag="DS" pravapis="A1957,A2008">Падняпро+ўю</Form>
@@ -31749,8 +31642,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127304" lemma="Пакро+вы" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Пакро+вы" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="127877">{b}Пакро´вы{/b} {i}рэл.{/i}, -ваў /// [m1]</Slounik>
+        <Variant id="a" lemma="Пакро+вы" slouniki="piskunou2012:127877" pravapis="A1957,A2008">
             <Form tag="NP" slouniki="krapivabr2012,tsbm1984">Пакро+вы</Form>
             <Form tag="GP">Пакро+ваў</Form>
             <Form tag="DP">Пакро+вам</Form>
@@ -32232,9 +32124,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038571" lemma="Парна+с" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/аронімы">
-        <Variant id="a" lemma="Парна+с" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Парна+с" slouniki="piskunou2012:133400" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="133400">{b}Парна´с{/b} {i}літ.{/i}, -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Парна+с</Form>
             <Form tag="GS" pravapis="A1957,A2008">Парна+са</Form>
             <Form tag="DS" pravapis="A1957,A2008">Парна+су</Form>
@@ -32318,8 +32209,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038574" lemma="Парыс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Парыс">
-            <Slounik name="piskunou2012" idx="133838">{b}Пары´с{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Парыс" slouniki="piskunou2012:133838">
             <Form tag="NS">Парыс</Form>
             <Form tag="GS">Парыса</Form>
             <Form tag="DS">Парысу</Form>
@@ -32365,9 +32255,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038575" lemma="Паска+ль" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Паска+ль">
+        <Variant id="a" lemma="Паска+ль" slouniki="piskunou2012:134236">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="134236">{b}Паска´ль{/b}{sup}2{/sup}, {i}РВ{/i} -я: зако´н Паска´ля, трохку´тнік Паска´ля, тэарэ´ма Паска´ля /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS">Паска+ль</Form>
             <Form tag="GS">Паска+ля</Form>
             <Form tag="DS">Паска+лю</Form>
@@ -32400,8 +32289,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127662" lemma="Пасо+жжа" tag="NPIINN1">
-        <Variant id="a" lemma="Пасо+жжа" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="134630">{b}Пасо´жжа{/b}, {i}М{/i} -ы /// n2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Пасо+жжа" slouniki="piskunou2012:134630" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Пасо+жжа</Form>
             <Form tag="GS" pravapis="A1957,A2008">Пасо+жжа</Form>
             <Form tag="DS" pravapis="A1957,A2008">Пасо+жжу</Form>
@@ -32574,9 +32462,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1021044" lemma="Паўлі+нка" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Variant id="a" lemma="Паўлі+нка" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Паўлі+нка" slouniki="piskunou2012:136410" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="136410">{b}Паўлі´нка{/b}, -і, {i}ДМ{/i} -нцы ({i}літ. персанаж{/i}) /// f4{sup}1{/sup}</Slounik>
             <Form tag="NS">Паўлі+нка</Form>
             <Form tag="GS">Паўлі+нкі</Form>
             <Form tag="DS">Паўлі+нцы</Form>
@@ -32846,8 +32733,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038587" lemma="Першама+й" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Першама+й" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="143821">{b}Першама´й{/b}, -а´я /// m4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Першама+й" slouniki="piskunou2012:143821" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,tsblm1996,krapivabr2012">Першама+й</Form>
             <Form tag="GS">Першама+я</Form>
             <Form tag="DS">Першама+ю</Form>
@@ -33285,9 +33171,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038593" lemma="Плі+ній" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Плі+ній">
+        <Variant id="a" lemma="Плі+ній" slouniki="piskunou2012:145663">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="145663">{b}Плі´ній{/b}, {i}РВ{/i} -ія, {i}ДМ{/i} -ію ({i}гіст. асоба{/i}) /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS">Плі+ній</Form>
             <Form tag="GS">Плі+нія</Form>
             <Form tag="DS">Плі+нію</Form>
@@ -33482,8 +33367,7 @@
             <Form tag="IP" type="potential">По+лацкамі</Form>
             <Form tag="LP" type="potential">По+лацках</Form>
         </Variant>
-        <Variant id="b" lemma="По+лацак">
-            <Slounik name="piskunou2012" idx="146491">{b}По´лацак{/b}, -цка ({i}гіст. назва да{/i} По´лацк) /// m2{sup}2{/sup}</Slounik>
+        <Variant id="b" lemma="По+лацак" slouniki="piskunou2012:146491">
             <Form tag="NS">По+лацак</Form>
             <Form tag="GS">По+лацка</Form>
             <Form tag="DS">По+лацку</Form>
@@ -33760,9 +33644,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038609" lemma="Праметэ+й" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Праметэ+й" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Праметэ+й" slouniki="piskunou2012:149965" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="149965">{b}Праметэ´й{/b} {i}міф.{/i}, {i}РВ{/i} -э´я, {i}ДМ{/i} -э´ю /// m4{sup}1{/sup}</Slounik>
             <Form tag="NS">Праметэ+й</Form>
             <Form tag="GS">Праметэ+я</Form>
             <Form tag="DS">Праметэ+ю</Form>
@@ -33939,9 +33822,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1021942" lemma="Прыба+лтыка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Прыба+лтыка" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Прыба+лтыка" slouniki="piskunou2012:153109" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="153109">{b}Прыба´лтыка{/b}, -і, {i}ДМ{/i} -ыцы /// f4{sup}2{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Прыба+лтыка</Form>
             <Form tag="GS" pravapis="A1957,A2008">Прыба+лтыкі</Form>
             <Form tag="DS" pravapis="A1957,A2008">Прыба+лтыцы</Form>
@@ -33958,8 +33840,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127663" lemma="Прыдняпро+ўе" tag="NPIINN1">
-        <Variant id="a" lemma="Прыдняпро+ўе" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="153951">{b}Прыдняпро´ўе{/b}, {i}М{/i} -і ({i}да{/i} Днепр) /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Прыдняпро+ўе" slouniki="piskunou2012:153951" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Прыдняпро+ўе</Form>
             <Form tag="GS" pravapis="A1957,A2008">Прыдняпро+ўя</Form>
             <Form tag="DS" pravapis="A1957,A2008">Прыдняпро+ўю</Form>
@@ -33975,8 +33856,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127664" lemma="Прыднястро+ўе" tag="NPIINN1">
-        <Variant id="a" lemma="Прыднястро+ўе" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="153953">{b}Прыднястро´ўе{/b}, {i}М{/i} -і ({i}да{/i} Днестр) /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Прыднястро+ўе" slouniki="piskunou2012:153953" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Прыднястро+ўе</Form>
             <Form tag="GS" pravapis="A1957,A2008">Прыднястро+ўя</Form>
             <Form tag="DS" pravapis="A1957,A2008">Прыднястро+ўю</Form>
@@ -34607,9 +34487,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1022156" lemma="Рагне+да" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Рагне+да" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Рагне+да" slouniki="piskunou2012:160056" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="160056">{b}Рагне´да{/b}, -ы, {i}ДМ{/i} -дзе ({i}гіст. асоба{/i}) /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Рагне+да</Form>
             <Form tag="GS" pravapis="A1957,A2008">Рагне+ды</Form>
             <Form tag="DS" pravapis="A1957,A2008">Рагне+дзе</Form>
@@ -34643,8 +34522,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203344" lemma="Ра+даўніца" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Ра+даўніца" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="160112">{b}Ра´даўніца{/b} {i}рэл.{/i}, -ы /// f6{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Ра+даўніца" slouniki="piskunou2012:160112" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012">Ра+даўніца</Form>
             <Form tag="GS">Ра+даўніцы</Form>
             <Form tag="DS">Ра+даўніцы</Form>
@@ -34923,9 +34801,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127988" lemma="Рамаза+н" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/хранонімы">
-        <Variant id="a" lemma="Рамаза+н" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Рамаза+н" slouniki="piskunou2012:163482" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="163482">{b}Рамаза´н{/b} {i}рэл.{/i}, -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Рамаза+н</Form>
             <Form tag="GS" pravapis="A1957,A2008">Рамаза+на</Form>
             <Form tag="DS" pravapis="A1957,A2008">Рамаза+ну</Form>
@@ -35897,8 +35774,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1022408" lemma="Ру+сь" tag="NPIINF3" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Ру+сь" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="167870">{b}Русь{/b} {i}гіст.{/i}, {i}Т{/i} -ссю /// f5{sup}2{/sup}</Slounik>
+        <Variant id="a" lemma="Ру+сь" slouniki="piskunou2012:167870" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012" pravapis="A1957,A2008">Ру+сь</Form>
             <Form tag="GS" pravapis="A1957,A2008">Русі+</Form>
             <Form tag="DS" pravapis="A1957,A2008">Русі+</Form>
@@ -36170,9 +36046,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038695" lemma="Ры+хтэр" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Ры+хтэр">
+        <Variant id="a" lemma="Ры+хтэр" slouniki="piskunou2012:168503">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="168503">{b}Ры´хтэр{/b}, {i}РВ{/i} -а: шкала´ Ры´хтэра /// m3{sup}1{/sup}</Slounik>
             <Form tag="NS">Ры+хтэр</Form>
             <Form tag="GS">Ры+хтэра</Form>
             <Form tag="DS">Ры+хтэру</Form>
@@ -36690,8 +36565,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1022612" lemma="Саксо+нія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Саксо+нія" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="170664">{b}Саксо´нія{/b} {i}гіст.{/i}, -і /// f2{sup}1-{/sup}</Slounik>
+        <Variant id="a" lemma="Саксо+нія" slouniki="piskunou2012:170664" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Саксо+нія</Form>
             <Form tag="GS" pravapis="A1957,A2008">Саксо+ніі</Form>
             <Form tag="DS" pravapis="A1957,A2008">Саксо+ніі</Form>
@@ -36708,8 +36582,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038737" lemma="Саламо+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Саламо+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="170735">{b}Саламо´н{/b}, {i}РВ{/i} -а ({i}цар{/i}, {i}міф.; пра мудраца{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Саламо+н" slouniki="piskunou2012:170735" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957,A2008">Саламо+н</Form>
             <Form tag="GS" pravapis="A1957,A2008">Саламо+на</Form>
             <Form tag="DS" pravapis="A1957,A2008">Саламо+ну</Form>
@@ -36883,9 +36756,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038745" lemma="Салье+ры" tag="NPAPNM0" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Салье+ры">
+        <Variant id="a" lemma="Салье+ры" slouniki="piskunou2012:170961">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="170961">{b}Салье´ры{/b}, {i}нескл.{/i}, {i}м.{/i} ({i}гіст. асоба{/i}) /// </Slounik>
             <Form tag="NS">Салье+ры</Form>
             <Form tag="GS">Салье+ры</Form>
             <Form tag="DS">Салье+ры</Form>
@@ -37600,8 +37472,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203346" lemma="Саўінфармбюро+" tag="NPIIBN0">
-        <Variant id="a" lemma="Саўінфармбюро+" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="172997">{b}Саўінфармбюро´{/b} {i}гіст.{/i}, {i}нескл.{/i}, {i}н.{/i} /// </Slounik>
+        <Variant id="a" lemma="Саўінфармбюро+" slouniki="piskunou2012:172997" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012">Саўінфармбюро+</Form>
             <Form tag="GS">Саўінфармбюро+</Form>
             <Form tag="DS">Саўінфармбюро+</Form>
@@ -37827,8 +37698,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038763" lemma="Саюздрук" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Саюздрук">
-            <Slounik name="piskunou2012" idx="173332">{b}Саюздру´к{/b}, -а /// m2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Саюздрук" slouniki="piskunou2012:173332">
             <Form tag="NS">Саюздрук</Form>
             <Form tag="GS">Саюздруку</Form>
             <Form tag="DS">Саюздруку</Form>
@@ -38151,9 +38021,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1022915" lemma="Селе+на" tag="NPAPNF2" theme="Імёны ўласныя/Таксаномія/тэонімы">
-        <Variant id="a" lemma="Селе+на" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Селе+на" slouniki="piskunou2012:174474" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="174474">{b}Селе´на{/b}, -ы ({i}Месяц{/i}, {i}міф.{/i}) /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS">Селе+на</Form>
             <Form tag="GS">Селе+ны</Form>
             <Form tag="DS">Селе+не</Form>
@@ -38498,8 +38367,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203349" lemma="Се+ч" tag="NPIINF3">
-        <Variant id="a" lemma="Се+ч" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="175072">{b}Сеч{/b} {i}гіст.{/i}, {i}Т{/i} -ччу: Запаро´жская Сеч /// f7{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Се+ч" slouniki="piskunou2012:175072" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984">Се+ч</Form>
             <Form tag="GS">Се+чы</Form>
             <Form tag="DS">Се+чы</Form>
@@ -39027,9 +38895,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1022958" lemma="Скандына+вія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Скандына+вія" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Скандына+вія" slouniki="piskunou2012:176383" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="176383">{b}Скандына´вія{/b}, -і /// f2{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Скандына+вія</Form>
             <Form tag="GS" pravapis="A1957,A2008">Скандына+віі</Form>
             <Form tag="DS" pravapis="A1957,A2008">Скандына+віі</Form>
@@ -39062,9 +38929,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1022965" lemma="Скары+на" tag="NPAPNM2" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Скары+на">
+        <Variant id="a" lemma="Скары+на" slouniki="piskunou2012:176607">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="176607">{b}Скары´на{/b}, -ы, {i}Т{/i} -ам ({i}гіст. асоба{/i}) /// m10{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957,A2008">Скары+на</Form>
             <Form tag="GS" pravapis="A1957,A2008">Скары+ны</Form>
             <Form tag="DS" pravapis="A1957,A2008">Скары+не</Form>
@@ -39972,8 +39838,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038813" lemma="Сто+кс" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Сто+кс">
-            <Slounik name="piskunou2012" idx="182710">{b}Стокс{/b}{sup}2{/sup}, {i}РВ{/i} -а: зако´н Сто´кса, пра´віла Сто´кса, фо´рмула Сто´кса, ураўне´нне (раўна´нне) Наўе´ – Сто´кса /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Сто+кс" slouniki="piskunou2012:182710">
             <Form tag="NS">Сто+кс</Form>
             <Form tag="GS">Сто+кса</Form>
             <Form tag="DS">Сто+ксу</Form>
@@ -40049,8 +39914,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038816" lemma="Стрыбо+г" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/тэонімы">
-        <Variant id="a" lemma="Стрыбо+г" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="183276">{b}Стрыбо´г{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Стрыбо+г" slouniki="piskunou2012:183276" pravapis="A1957,A2008">
             <Form tag="NS">Стрыбо+г</Form>
             <Form tag="GS">Стрыбо+га</Form>
             <Form tag="DS">Стрыбо+гу</Form>
@@ -40133,8 +39997,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203350" lemma="Суба+рктыка" tag="NPIINF2">
-        <Variant id="a" lemma="Суба+рктыка" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="184019">{b}Суба´рктыка{/b}, -і, {i}ДМ{/i} -ыцы /// f4{sup}2{/sup}</Slounik>
+        <Variant id="a" lemma="Суба+рктыка" slouniki="piskunou2012:184019" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984">Суба+рктыка</Form>
             <Form tag="GS">Суба+рктыкі</Form>
             <Form tag="DS">Суба+рктыцы</Form>
@@ -41114,8 +40977,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038862" lemma="Тамерла+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Тамерла+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="188092">{b}Тамерла´н{/b}, {i}РВ{/i} -а ({i}гіст. асоба{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Тамерла+н" slouniki="piskunou2012:188092" pravapis="A1957,A2008">
             <Form tag="NS">Тамерла+н</Form>
             <Form tag="GS">Тамерла+на</Form>
             <Form tag="DS">Тамерла+ну</Form>
@@ -41333,9 +41195,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038868" lemma="Тарза+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/міфонімы;Імёны ўласныя/Таксаномія/заонімы">
-        <Variant id="a" lemma="Тарза+н" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Тарза+н" slouniki="piskunou2012:188566" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="188566">{b}Тарза´н{/b}, {i}РВ{/i} -а ({i}літ. персанаж{/i}) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Тарза+н</Form>
             <Form tag="GS">Тарза+на</Form>
             <Form tag="DS">Тарза+ну</Form>
@@ -41454,9 +41315,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023421" lemma="Таўры+да" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Таўры+да" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Таўры+да" slouniki="piskunou2012:188881" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="188881">{b}Таўры´да{/b} {i}гіст.{/i}, -ы, {i}ДМ{/i} -дзе /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS">Таўры+да</Form>
             <Form tag="GS">Таўры+ды</Form>
             <Form tag="DS">Таўры+дзе</Form>
@@ -41473,9 +41333,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023422" lemma="Та+ўрыя" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы;Імёны ўласныя/Таксаномія/гатункі, фірмы">
-        <Variant id="a" lemma="Та+ўрыя" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Та+ўрыя" slouniki="piskunou2012:188887" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="188887">{b}Та´ўрыя{/b}, -і; {i}Р мн.{/i} -й ({i}аўтамабіль{/i}) /// f2{sup}1-{/sup}</Slounik>
             <Form tag="NS">Та+ўрыя</Form>
             <Form tag="GS">Та+ўрыі</Form>
             <Form tag="DS">Та+ўрыі</Form>
@@ -41644,9 +41503,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023573" lemma="Тмутарака+нь" tag="NPIINF3" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Тмутарака+нь" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Тмутарака+нь" slouniki="piskunou2012:189242" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="189242">{b}Тмутарака´нь{/b} {i}гіст.; іран.{/i}, {i}Т{/i} -нню /// f5{sup}2{/sup}</Slounik>
             <Form tag="NS">Тмутарака+нь</Form>
             <Form tag="GS">Тмутарака+ні</Form>
             <Form tag="DS">Тмутарака+ні</Form>
@@ -41678,8 +41536,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038879" lemma="То+кіа" tag="NPIINM0" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="То+кіа" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="189291">{b}То´кіа{/b}, {i}нескл.{/i}, {i}м.{/i} ({i}горад{/i}) /// </Slounik>
+        <Variant id="a" lemma="То+кіа" slouniki="piskunou2012:189291" pravapis="A2008">
             <Form tag="NS">То+кіа</Form>
             <Form tag="GS">То+кіа</Form>
             <Form tag="DS">То+кіа</Form>
@@ -41791,8 +41648,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023580" lemma="То+нга" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы" todo="націск о/ё рукамі">
-        <Variant id="a" lemma="То+нга" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="189325">{b}То´нга{/b}, {i}нескл.{/i}, {i}мн.{/i} ({i}астравы{/i}) і {i}н.{/i} ({i}краіна{/i}) /// </Slounik>
+        <Variant id="a" lemma="То+нга" slouniki="piskunou2012:189325" pravapis="A1957,A2008">
             <Form tag="NS">То+нга</Form>
             <Form tag="GS">То+нгі</Form>
             <Form tag="DS">То+нзе</Form>
@@ -41827,8 +41683,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023585" lemma="То+ра" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/хрэматонімы">
-        <Variant id="a" lemma="То+ра" pravapis="A2008">
-            <Slounik name="piskunou2012" idx="189462">{b}То´ра{/b} {i}рэл.{/i}, -ы ({i}Пяцікніжжа{/i}) /// f6{sup}1-{/sup}</Slounik>
+        <Variant id="a" lemma="То+ра" slouniki="piskunou2012:189462" pravapis="A2008">
             <Form tag="NS" slouniki="krapivabr2012,tsbm2016,tsbm1984">То+ра</Form>
             <Form tag="GS">То+ры</Form>
             <Form tag="DS">То+ры</Form>
@@ -41972,8 +41827,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038890" lemma="Трасцяне+ц" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Трасцяне+ц" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="190182">{b}Трасцяне´ц{/b}, -нца´ /// m3{sup}2{/sup} B</Slounik>
+        <Variant id="a" lemma="Трасцяне+ц" slouniki="piskunou2012:190182" pravapis="A1957,A2008">
             <Form tag="NS">Трасцяне+ц</Form>
             <Form tag="GS">Трасцянца+</Form>
             <Form tag="DS">Трасцянцу+</Form>
@@ -42370,9 +42224,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023761" lemma="Ту+раўшчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Ту+раўшчына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Ту+раўшчына" slouniki="piskunou2012:191694" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="191694">{b}Ту´раўшчына{/b}, -ы ({i}да{/i} Ту´раў) /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS">Ту+раўшчына</Form>
             <Form tag="GS">Ту+раўшчыны</Form>
             <Form tag="DS">Ту+раўшчыне</Form>
@@ -42441,9 +42294,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038905" lemma="Турксі+б" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/тапонімы/драмонімы">
-        <Variant id="a" lemma="Турксі+б" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Турксі+б" slouniki="piskunou2012:191800" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="191800">{b}Турксі´б{/b} (Туркеста´на-Сібі´рская чыгу´нка) -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Турксі+б</Form>
             <Form tag="GS">Турксі+ба</Form>
             <Form tag="DS">Турксі+бу</Form>
@@ -42494,9 +42346,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1023784" lemma="Турэ+ччына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Турэ+ччына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Турэ+ччына" slouniki="piskunou2012:191880" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="191880">{b}Турэ´ччына{/b}, -ы ({i}да{/i} Ту´рцыя) /// f1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957">Турэ+ччына</Form>
             <Form tag="GS" pravapis="A1957">Турэ+ччыны</Form>
             <Form tag="DS" pravapis="A1957">Турэ+ччыне</Form>
@@ -42513,8 +42364,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038907" lemma="Тутанхамо+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Тутанхамо+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="191899">{b}Тутанхамо´н{/b}, {i}РВ{/i} -а ({i}гіст.{/i} {i}асоба{/i}) /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Тутанхамо+н" slouniki="piskunou2012:191899" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957">Тутанхамо+н</Form>
             <Form tag="GS" pravapis="A1957">Тутанхамо+на</Form>
             <Form tag="DS" pravapis="A1957">Тутанхамо+ну</Form>
@@ -42783,8 +42633,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038917" lemma="Тэйлар" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Тэйлар">
-            <Slounik name="piskunou2012" idx="192466">{b}Тэ´йлар{/b}, {i}РВ{/i} -а: ра´д Тэ´йлара, фо´рмула Тэ´йлара /// m3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Тэйлар" slouniki="piskunou2012:192466">
             <Form tag="NS">Тэйлар</Form>
             <Form tag="GS">Тэйлара</Form>
             <Form tag="DS">Тэйлару</Form>
@@ -42930,8 +42779,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127993" lemma="ТЮ+Г" tag="NPIIBM1">
-        <Variant id="a" lemma="ТЮ+Г" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="193399">{b}ТЮГ{/b}, ТЮ´Га ({i}скар.{/i}: тэатр юнага гледача) /// m2{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="ТЮ+Г" slouniki="piskunou2012:193399" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">ТЮ+Г</Form>
             <Form tag="GS">ТЮГа</Form>
             <Form tag="DS">ТЮГу</Form>
@@ -43382,9 +43230,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1038932" lemma="Улі+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/міфонімы">
-        <Variant id="a" lemma="Улі+с" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Улі+с" slouniki="piskunou2012:196346" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="196346">{b}Улі´с{/b}, {i}РВ{/i} -а ({i}літ. персанаж{/i}, {i}лацінская форма да{/i} Адысе´й) /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Улі+с</Form>
             <Form tag="GS">Улі+са</Form>
             <Form tag="DS">Улі+су</Form>
@@ -43601,9 +43448,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127671" lemma="Уру+чча" tag="NPIINN1">
-        <Variant id="a" lemma="Уру+чча" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Уру+чча" slouniki="piskunou2012:198179" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="198179">{b}Уру´чча{/b}, {i}М{/i} -ы ({i}мікрараён у Мінску{/i}) /// n2{sup}1''{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957">Уру+чча</Form>
             <Form tag="GS" pravapis="A1957">Уру+чча</Form>
             <Form tag="DS" pravapis="A1957">Уру+ччу</Form>
@@ -43794,8 +43640,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127905" lemma="Ушэ+сце" tag="NPIINN1" theme="Імёны ўласныя/Таксаномія/святы">
-        <Variant id="a" lemma="Ушэ+сце" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="200253">{b}Ушэ´сце{/b} {i}рэл.{/i}, {i}М{/i} -і /// n4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Ушэ+сце" slouniki="piskunou2012:200253" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012">Ушэ+сце</Form>
             <Form tag="GS">Ушэ+сця</Form>
             <Form tag="DS">Ушэ+сцю</Form>
@@ -44882,8 +44727,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127982" lemma="ФРГ" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="ФРГ" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="203126">{b}ФРГ{/b} [фээргэ´, эфэргэ´], {i}нескл.{/i}, {i}ж.{/i} ({i}скар.{/i}: Федэратыўная Рэспубліка Германія) /// </Slounik>
+        <Variant id="a" lemma="ФРГ" slouniki="piskunou2012:203126" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957">ФРГ</Form>
             <Form tag="GS" pravapis="A1957">ФРГ</Form>
             <Form tag="DS" pravapis="A1957">ФРГ</Form>
@@ -45214,8 +45058,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039011" lemma="Ха+бл" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/хрэматонімы">
-        <Variant id="a" lemma="Ха+бл">
-            <Slounik name="piskunou2012" idx="203624">{b}Хабл{/b}, {i}РВ{/i} -а: зако´н Ха´бла, пастая´нная Ха´бла /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Ха+бл" slouniki="piskunou2012:203624">
             <Form tag="NS">Ха+бл</Form>
             <Form tag="GS">Хабла</Form>
             <Form tag="DS">Хаблу</Form>
@@ -45507,8 +45350,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203352" lemma="Хары+бда" tag="NPAINF2">
-        <Variant id="a" lemma="Хары+бда" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="204219">{b}Хары´бда{/b} {i}міф.{/i}, -ы, {i}ДМ{/i} -дзе: памі´ж Сцы´лай і Хары´бдай /// f1{sup}1-{/sup}</Slounik>
+        <Variant id="a" lemma="Хары+бда" slouniki="piskunou2012:204219" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984">Хары+бда</Form>
             <Form tag="GS">Хары+бды</Form>
             <Form tag="DS">Хары+бдзе</Form>
@@ -45626,8 +45468,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1024661" lemma="Хаты+нь" tag="NPIINF3" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Хаты+нь" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="204269">{b}Хаты´нь{/b}, {i}Т{/i} -нню ({i}былая вёска; мемарыял{/i}) /// f5{sup}2{/sup}</Slounik>
+        <Variant id="a" lemma="Хаты+нь" slouniki="piskunou2012:204269" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957">Хаты+нь</Form>
             <Form tag="GS" pravapis="A1957">Хаты+ні</Form>
             <Form tag="DS" pravapis="A1957">Хаты+ні</Form>
@@ -45840,9 +45681,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1024629" lemma="Хірасі+ма" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
-        <Variant id="a" lemma="Хірасі+ма" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Хірасі+ма" slouniki="piskunou2012:204777" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="204777">{b}Хірасі´ма{/b}, -ы ({i}і перан.: пра ядзерны выбух{/i}) /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957">Хірасі+ма</Form>
             <Form tag="GS" pravapis="A1957">Хірасі+мы</Form>
             <Form tag="DS" pravapis="A1957">Хірасі+ме</Form>
@@ -46020,8 +45860,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203353" lemma="Хрысто+с" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Хрысто+с" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="205802">{b}Хрысто´с{/b}, {i}РВ{/i} Хрыста´, {i}М{/i} Хрысце´ /// m1{sup}1∆{/sup}</Slounik>
+        <Variant id="a" lemma="Хрысто+с" slouniki="piskunou2012:205802" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012">Хрысто+с</Form>
             <Form tag="GS">Хрыста+</Form>
             <Form tag="DS">Хрысту+</Form>
@@ -46537,9 +46376,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039062" lemma="Цэнтрвыбарка+м" tag="NPIIBM1" theme="Імёны ўласныя/Таксаномія/арганізацыі">
-        <Variant id="a" lemma="Цэнтрвыбарка+м">
+        <Variant id="a" lemma="Цэнтрвыбарка+м" slouniki="piskunou2012:208027">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="208027">{b}Цэнтрвыбарка´м{/b} (Цэнтра´льная вы´барчая камі´сія – {i}у Беларусі і іншых краінах{/i}) -а /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957">Цэнтрвыбарка+м</Form>
             <Form tag="GS" pravapis="A1957">Цэнтрвыбарка+ма</Form>
             <Form tag="DS" pravapis="A1957">Цэнтрвыбарка+му</Form>
@@ -46917,9 +46755,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1024924" lemma="Чарні+гаўшчына" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Чарні+гаўшчына" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Чарні+гаўшчына" slouniki="piskunou2012:209087" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="209087">{b}Чарні´гаўшчына{/b}, -ы ({i}да{/i} Чарні´гаў) /// f1{sup}1{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957">Чарні+гаўшчына</Form>
             <Form tag="GS" pravapis="A1957">Чарні+гаўшчыны</Form>
             <Form tag="DS" pravapis="A1957">Чарні+гаўшчыне</Form>
@@ -47071,8 +46908,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1024969" lemma="Чыжо+ўка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
-        <Variant id="a" lemma="Чыжо+ўка" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="209994">{b}Чыжо´ўка{/b}, -і, {i}ДМ{/i} -о´ўцы ({i}мікрараён{/i} {i}у{/i} {i}Мінску{/i}) /// f4{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Чыжо+ўка" slouniki="piskunou2012:209994" pravapis="A1957,A2008">
             <Form tag="NS" pravapis="A1957">Чыжо+ўка</Form>
             <Form tag="GS" pravapis="A1957">Чыжо+ўкі</Form>
             <Form tag="DS" pravapis="A1957">Чыжо+ўцы</Form>
@@ -48489,9 +48325,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039137" lemma="Эйнштэ+йн" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/прозвішчы">
-        <Variant id="a" lemma="Эйнштэ+йн">
+        <Variant id="a" lemma="Эйнштэ+йн" slouniki="piskunou2012:214739">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="214739">{b}Эйнштэ´йн{/b}{sup}2{/sup}, {i}РВ{/i} -а: зако´н Эйнштэ´йна /// m1{sup}1{/sup}</Slounik>
             <Form tag="NS">Эйнштэ+йн</Form>
             <Form tag="GS">Эйнштэ+йна</Form>
             <Form tag="DS">Эйнштэ+йну</Form>
@@ -48541,9 +48376,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1025227" lemma="Эла+да" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
-        <Variant id="a" lemma="Эла+да" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Эла+да" slouniki="piskunou2012:215452" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="215452">{b}Эла´да{/b} {i}гіст.{/i}, -ы, {i}ДМ{/i} -дзе /// f1{sup}1-{/sup}</Slounik>
             <Form tag="NS" pravapis="A1957">Эла+да</Form>
             <Form tag="GS" pravapis="A1957">Эла+ды</Form>
             <Form tag="DS" pravapis="A1957">Эла+дзе</Form>
@@ -49024,8 +48858,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039152" lemma="Эпіку+р" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Эпіку+р" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="216534">{b}Эпіку´р{/b} {i}міф.{/i}, {i}РВ{/i} -а, {i}М{/i} -ы /// m3{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Эпіку+р" slouniki="piskunou2012:216534" pravapis="A1957,A2008">
             <Form tag="NS">Эпіку+р</Form>
             <Form tag="GS">Эпіку+ра</Form>
             <Form tag="DS">Эпіку+ру</Form>
@@ -49041,8 +48874,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203356" lemma="Эпро+н" tag="NPIIBM1">
-        <Variant id="a" lemma="Эпро+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="216615">{b}Эпро´н{/b} {i}гіст.{/i} (Экспеды´цыя падво´дных рабо´т асаблі´вага прызначэ´ння) -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Эпро+н" slouniki="piskunou2012:216615" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984,krapivabr2012">Эпро+н</Form>
             <Form tag="GS">Эпро+на</Form>
             <Form tag="DS">Эпро+ну</Form>
@@ -49052,8 +48884,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039153" lemma="Эратасфе+н" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Эратасфе+н" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="216648">{b}Эратасфе´н{/b}, {i}РВ{/i} -а: рэ´шата Эратасфе´на /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Эратасфе+н" slouniki="piskunou2012:216648" pravapis="A1957,A2008">
             <Form tag="NS">Эратасфе+н</Form>
             <Form tag="GS">Эратасфе+на</Form>
             <Form tag="DS">Эратасфе+ну</Form>
@@ -49102,9 +48933,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039156" lemma="Эрміта+ж" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/мікратапонімы">
-        <Variant id="a" lemma="Эрміта+ж" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Эрміта+ж" slouniki="piskunou2012:216702" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="216702">{b}Эрміта´ж{/b}, -а, {i}М{/i} -ы /// m3{sup}1{/sup}</Slounik>
             <Form tag="NS">Эрміта+ж</Form>
             <Form tag="GS">Эрміта+жа</Form>
             <Form tag="DS">Эрміта+жу</Form>
@@ -49574,8 +49404,7 @@
     </Paradigm>
     <Paradigm pdgId="1203357" lemma="ЮНЕ+СКА" tag="NPIIBN0">
         <Note>у слоўніках блытаніна склонаў:  у БРС і РБС жаночага роду</Note>
-        <Variant id="a" lemma="ЮНЕ+СКА" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="217351">{b}ЮНЕ´СКА{/b}, {i}нескл.{/i}, {i}н.{/i} /// </Slounik>
+        <Variant id="a" lemma="ЮНЕ+СКА" slouniki="piskunou2012:217351" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984">ЮНЕ+СКА</Form>
             <Form tag="GS">ЮНЕ+СКА</Form>
             <Form tag="DS">ЮНЕ+СКА</Form>
@@ -49841,9 +49670,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1025357" lemma="Яга+йла" tag="NPAPNM2" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Яга+йла" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Яга+йла" slouniki="piskunou2012:217512" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="217512">{b}Яга´йла{/b}, -ы, {i}Т{/i} -ам ({i}гіст.{/i} {i}асоба{/i}) /// m10{sup}1{/sup}</Slounik>
             <Form tag="NS">Яга+йла</Form>
             <Form tag="GS">Яга+йлы</Form>
             <Form tag="DS">Яга+йлу</Form>
@@ -50291,8 +50119,7 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1203360" lemma="Я+нус" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
-        <Variant id="a" lemma="Я+нус" pravapis="A1957,A2008">
-            <Slounik name="piskunou2012" idx="217864">{b}Я´нус{/b} {i}міф.{/i}, {i}РВ{/i} -а /// m1{sup}1{/sup}</Slounik>
+        <Variant id="a" lemma="Я+нус" slouniki="piskunou2012:217864" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">Я+нус</Form>
             <Form tag="GS">Я+нуса</Form>
             <Form tag="DS">Я+нусу</Form>
@@ -50440,9 +50267,8 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1039208" lemma="Яры+ла" tag="NPAPNM2" theme="Імёны ўласныя/Таксаномія/тэонімы">
-        <Variant id="a" lemma="Яры+ла" pravapis="A1957,A2008">
+        <Variant id="a" lemma="Яры+ла" slouniki="piskunou2012:217969" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Slounik name="piskunou2012" idx="217969">{b}Яры´ла{/b} {i}міф.{/i}, -ы, {i}Т{/i} -ам /// m10{sup}1{/sup}</Slounik>
             <Form tag="NS">Яры+ла</Form>
             <Form tag="GS">Яры+лы</Form>
             <Form tag="DS">Яры+лу</Form>

@@ -876,26 +876,33 @@ public class CheckGrammarDB {
             "T1929", "K2005"));
 
     void checkSlounikPravapis(Paradigm p, Variant v) {
-            if (v.getPravapis() != null && v.getPravapis().length() > 0
-                    && hasUnknown(KNOWN_PRAVAPIS, v.getPravapis())) {
-                throw new KnownError("2_nieviadomyja_pravapisy", "Невядомы правапіс ў " + v.getPravapis());
+        if (hasUnknown(KNOWN_SLOUNIKI, v.getSlouniki(), true)) {
+            throw new KnownError("2_nieviadomyja_slouniki", "Невядомы слоўнік ў " + v.getSlouniki());
+        }
+        if (hasUnknown(KNOWN_PRAVAPIS, v.getPravapis(), false)) {
+            throw new KnownError("2_nieviadomyja_pravapisy", "Невядомы правапіс ў " + v.getPravapis());
+        }
+        for (Form f : v.getForm()) {
+            if (hasUnknown(KNOWN_SLOUNIKI, f.getSlouniki(), true)) {
+                throw new KnownError("2_nieviadomyja_slouniki", "Невядомы слоўнік ў " + f.getSlouniki());
             }
-            for (Form f : v.getForm()) {
-                if (f.getSlouniki() != null && f.getSlouniki().length() > 0
-                        && hasUnknown(KNOWN_SLOUNIKI, f.getSlouniki())) {
-                    throw new KnownError("2_nieviadomyja_slouniki", "Невядомы слоўнік ў " + f.getSlouniki());
-                }
-                if (f.getPravapis() != null && f.getPravapis().length() > 0
-                        && hasUnknown(KNOWN_PRAVAPIS, f.getPravapis())) {
-                    throw new KnownError("2_nieviadomyja_pravapisy", "Невядомы правапіс ў " + f.getPravapis());
-                }
+            if (hasUnknown(KNOWN_PRAVAPIS, f.getPravapis(), false)) {
+                throw new KnownError("2_nieviadomyja_pravapisy", "Невядомы правапіс ў " + f.getPravapis());
             }
+        }
     }
-    boolean hasUnknown(Set<String> known, String list) {
-        if (list==null) {
+
+    boolean hasUnknown(Set<String> known, String list, boolean removeSuffix) {
+        if (list == null || list.isEmpty()) {
             return false;
         }
-        for(String w:list.split(",")) {
+        for (String w : list.split(",")) {
+            if (removeSuffix) {
+                int p = w.indexOf(':');
+                if (p >= 0) {
+                    w = w.substring(0, p);
+                }
+            }
             if (!known.contains(w.trim())) {
                 return true;
             }

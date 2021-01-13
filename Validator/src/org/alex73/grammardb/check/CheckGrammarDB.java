@@ -106,6 +106,7 @@ public class CheckGrammarDB {
                         }
                         checkUniqueParadigm(p);
                         checkUniqueVariants(p);
+                        checkTags(p);
                         checkLemmas(p);
                         checkBeg(p);
                         for(Variant v:p.getVariant()) {
@@ -114,7 +115,6 @@ public class CheckGrammarDB {
                             checkUniqueForms(p,v);
                             checkSlounikPravapis(p,v);
                             check2(p,v);
-                            check4(p,v);
                             check10(p,v);
                             check11(p,v);
                             String vTag=SetUtils.tag(p, v);
@@ -917,7 +917,7 @@ public class CheckGrammarDB {
 //            return;
 //        }
         String tag = SetUtils.tag(p, v);
-        String l = BelarusianTags.getInstance().getValueOfGroup(tag, "Часціна") == 'K' ? lettersK : letters;
+        String l = BelarusianTags.getInstance().getValueOfGroup(tag, "Часціна мовы") == 'K' ? lettersK : letters;
         if (isWordValid(p.getLemma(), l) != null) {
             throw new KnownError("2_niapravilnyja_symbali",
                     "Няправільныя сімвалы ў леме: " + isWordValid(p.getLemma(), l));
@@ -933,7 +933,7 @@ public class CheckGrammarDB {
     Set<Integer> SKIP_KCAST = new TreeSet<>();//Arrays.asList(1193270, 1133782, 1182759, 1182760, 1143892));
 
     void check3(Paradigm p, Variant v) {
-        char cascinaMovy = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Часціна");
+        char cascinaMovy = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Часціна мовы");
 
         // cascinaMovy != 'R' &&
         if (!SKIP_KCAST.contains(p.getPdgId())) {
@@ -981,16 +981,20 @@ public class CheckGrammarDB {
             }
     }
 
-    void check4(Paradigm p, Variant v) {
-        String vTag=SetUtils.tag(p, v);
-            if (!BelarusianTags.getInstance().isValidParadigm(vTag, null)) {
-                throw new KnownError("1_niapravilny_teg", "Няправільны тэг парадыгмы і варыянта " + vTag);
+
+    void checkTags(Paradigm p) {
+        for (Variant v : p.getVariant()) {
+            String tag = SetUtils.tag(p, v);
+            if (!BelarusianTags.getInstance().isValidParadigmTag(tag, null)) {
+                throw new KnownError("1_tag", "Няправільны тэг варыянта: " + tag);
             }
-            for (Form f : v.getForm()) {
-                if (!BelarusianTags.getInstance().isValid(vTag + f.getTag(), null)) {
-                    throw new KnownError("1_niapravilny_teg", "Няправільны тэг формы " + vTag + f.getTag());
+            for(Form f:v.getForm()) {
+                tag = SetUtils.tag(p, v,f);
+                if (!BelarusianTags.getInstance().isValidFormTag(tag, null)) {
+                    throw new KnownError("1_tag", "Няправільны тэг формы: " + tag);
                 }
             }
+        }
     }
 
     static final String letters = "ёйцукенгшўзх'фывапролджэячсмітьбюЁЙЦУКЕНГШЎЗХФЫВАПРОЛДЖЭЯЧСМІТЬБЮ-"
@@ -1223,7 +1227,7 @@ public class CheckGrammarDB {
      */
     void check9(Paradigm p, Variant v) {
         String tag = SetUtils.tag(p, v);
-        char cascinaMovy = BelarusianTags.getInstance().getValueOfGroup(tag, "Часціна");
+        char cascinaMovy = BelarusianTags.getInstance().getValueOfGroup(tag, "Часціна мовы");
         char subst = BelarusianTags.getInstance().getValueOfGroup(tag, "Субстантываванасць");
         if (cascinaMovy == 'N' && subst != 0) {
             check9do(p, v);

@@ -420,7 +420,9 @@ public class CheckGrammarDB {
                 throw new KnownError("7_kolkasc_formau_GP", "Колькасць 'GP' : " + c);
             }
         }
-        checkFormsCount(1,v,"DP");
+        if (!needSkip("exFormsCountDP", p, v)) {
+            checkFormsCount(1, v, "DP");
+        }
         if (!needSkip("exFormsCountAP", p, v) && !needSkip("exFormsCountGPAP", p, v)) {
             int c = getFormsCount(v, "AP");
             if (adu == 'A' && rod == 'F' && sklaniennie == '3') {
@@ -439,7 +441,9 @@ public class CheckGrammarDB {
         if (!needSkip("exFormsCountIP", p, v)) {
             checkFormsCount(1, v, "IP");
         }
-        checkFormsCount(1,v,"LP");
+        if (!needSkip("exFormsCountLP", p, v)) {
+            checkFormsCount(1, v, "LP");
+        }
         {
             int c = getFormsCount(v, "VP");
             if (c > 1) {

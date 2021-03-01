@@ -105,11 +105,6 @@
             <Form tag="">ато+</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1000018" lemma="б" tag="E">
-        <Variant id="a" lemma="б" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsblm1996,sbm2012,krapivabr2012">б</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1000019" lemma="бада+й" tag="E">
         <Variant id="a" lemma="бада+й" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">бада+й</Form>
@@ -138,6 +133,9 @@
     <Paradigm pdgId="1000023" lemma="бы+" tag="E">
         <Variant id="a" lemma="бы+" slouniki="piskunou2012:27952" pravapis="A2008">
             <Form tag="" slouniki="sbm2012,tsblm1996,krapivabr2012">бы+</Form>
+        </Variant>
+        <Variant id="b" lemma="б" pravapis="A2008">
+            <Form tag="" slouniki="tsblm1996,sbm2012,krapivabr2012">б</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1198088" lemma="быва+ла" tag="E">

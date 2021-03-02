@@ -230,7 +230,7 @@
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">ва+ш</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шым</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шым</Form>
-            <Form tag="FNS" slouniki="prym2009,tsbm2016,sbm2012" pravapis="A1957,A2008">ва+ша</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+ша</Form>
             <Form tag="FNS">ва+шая</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">ва+шай</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">ва+шае</Form>
@@ -243,11 +243,11 @@
             <Form tag="NNS">ва+шае</Form>
             <Form tag="NGS" slouniki="prym2009" pravapis="A1957,A2008">ва+шага</Form>
             <Form tag="NDS" slouniki="prym2009" pravapis="A1957,A2008">ва+шаму</Form>
-            <Form tag="NAS" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">ва+ша</Form>
+            <Form tag="NAS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+ша</Form>
             <Form tag="NAS">ва+шае</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шым</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шым</Form>
-            <Form tag="0NP" slouniki="prym2009,tsbm2016,sbm2012" pravapis="A1957,A2008">ва+шы</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">ва+шы</Form>
             <Form tag="0NP">ва+шыя</Form>
             <Form tag="0GP" slouniki="prym2009" pravapis="A1957,A2008">ва+шых</Form>
             <Form tag="0DP" slouniki="prym2009" pravapis="A1957,A2008">ва+шым</Form>
@@ -261,10 +261,10 @@
     <Paradigm pdgId="1160154" lemma="вы+" tag="SNP2">
         <Variant id="a" lemma="вы+" pravapis="A1957,A2008">
             <Form tag="0NP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">вы+</Form>
-            <Form tag="0GP" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ва+с</Form>
-            <Form tag="0DP" slouniki="prym2009,krapivabr2012,tsbm2016">ва+м</Form>
+            <Form tag="0GP" slouniki="prym2009,sbm2012,krapivabr2012">ва+с</Form>
+            <Form tag="0DP" slouniki="prym2009,krapivabr2012">ва+м</Form>
             <Form tag="0AP" slouniki="prym2009">ва+с</Form>
-            <Form tag="0IP" slouniki="prym2009,krapivabr2012,tsbm2016">ва+мі</Form>
+            <Form tag="0IP" slouniki="prym2009,krapivabr2012">ва+мі</Form>
             <Form tag="0LP" slouniki="prym2009">ва+с</Form>
         </Variant>
     </Paradigm>
@@ -309,7 +309,7 @@
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такі</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ+такім</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ+такім</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">гэ+такая</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ+такая</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такай</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такае</Form>
             <Form tag="FDS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такай</Form>
@@ -317,13 +317,13 @@
             <Form tag="FIS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такай</Form>
             <Form tag="FIS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такаю</Form>
             <Form tag="FLS" slouniki="prym2009" pravapis="A1957,A2008">гэ+такай</Form>
-            <Form tag="NNS" slouniki="krapivabr2012,tsbm2016" pravapis="A2008">гэ+такае</Form>
+            <Form tag="NNS" slouniki="krapivabr2012" pravapis="A2008">гэ+такае</Form>
             <Form tag="NGS" pravapis="A2008">гэ+такага</Form>
             <Form tag="NDS" slouniki="sbm2012" pravapis="A2008">гэ+такаму</Form>
             <Form tag="NAS" pravapis="A2008">гэ+такае</Form>
             <Form tag="NIS" slouniki="sbm2012" pravapis="A2008">гэ+такім</Form>
             <Form tag="NLS" slouniki="sbm2012" pravapis="A2008">гэ+такім</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">гэ+такія</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">гэ+такія</Form>
             <Form tag="0GP" slouniki="prym2009" pravapis="A1957,A2008">гэ+такіх</Form>
             <Form tag="0DP" slouniki="prym2009" pravapis="A1957,A2008">гэ+такім</Form>
             <Form tag="0AP" slouniki="prym2009" pravapis="A1957,A2008">гэ+такіх</Form>
@@ -385,7 +385,7 @@
             <Form tag="MIS" slouniki="prym2009">гэ+тым</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">гэ+тым</Form>
             <Form tag="FNS" slouniki="prym2009">гэ+та</Form>
-            <Form tag="FNS" slouniki="krapivabr2012,tsbm2016">гэ+тая</Form>
+            <Form tag="FNS" slouniki="krapivabr2012">гэ+тая</Form>
             <Form tag="FGS" slouniki="prym2009,sbm2012">гэ+тай</Form>
             <Form tag="FGS" slouniki="prym2009,sbm2012">гэ+тае</Form>
             <Form tag="FDS" slouniki="prym2009,sbm2012">гэ+тай</Form>
@@ -395,14 +395,14 @@
             <Form tag="FIS" slouniki="prym2009,sbm2012">гэ+таю</Form>
             <Form tag="FLS" slouniki="prym2009,sbm2012">гэ+тай</Form>
             <Form tag="NNS" slouniki="prym2009,sbm2012">гэ+та</Form>
-            <Form tag="NNS" slouniki="krapivabr2012,tsbm2016">гэ+тае</Form>
+            <Form tag="NNS" slouniki="krapivabr2012">гэ+тае</Form>
             <Form tag="NGS" slouniki="prym2009,sbm2012">гэ+тага</Form>
             <Form tag="NDS" slouniki="sbm2012,sbm2012">гэ+таму</Form>
             <Form tag="NAS" slouniki="prym2009,sbm2012">гэ+та</Form>
             <Form tag="NAS">гэ+тае</Form>
             <Form tag="NIS" slouniki="sbm2012,sbm2012">гэ+тым</Form>
             <Form tag="NLS" slouniki="sbm2012,sbm2012">гэ+тым</Form>
-            <Form tag="0NP" slouniki="prym2009,tsbm2016,sbm2012">гэ+тыя</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">гэ+тыя</Form>
             <Form tag="0GP" slouniki="prym2009">гэ+тых</Form>
             <Form tag="0DP" slouniki="prym2009">гэ+тым</Form>
             <Form tag="0AP" slouniki="prym2009">гэ+тыя</Form>
@@ -475,30 +475,30 @@
     <Paradigm pdgId="1127912" lemma="ё+н" tag="SNP3" todo="націск о/ё рукамі">
         <Variant id="a" lemma="ё+н" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ё+н</Form>
-            <Form tag="MGS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">яго+</Form>
-            <Form tag="MDS" slouniki="prym2009,krapivabr2012,tsbm2016">яму+</Form>
-            <Form tag="MAS" slouniki="prym2009,krapivabr2012,tsbm2016">яго+</Form>
-            <Form tag="MIS" slouniki="prym2009,krapivabr2012,tsbm2016">і+м</Form>
-            <Form tag="MLS" slouniki="prym2009,krapivabr2012,tsbm2016">і+м</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">яна+</Form>
-            <Form tag="FGS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">яе+</Form>
-            <Form tag="FDS" slouniki="prym2009,tsbm2016,tsbm1984">ё+й</Form>
-            <Form tag="FAS" slouniki="prym2009,krapivabr2012,tsbm2016">яе+</Form>
-            <Form tag="FIS" slouniki="prym2009,tsbm1984,tsbm2016">ё+й</Form>
-            <Form tag="FIS" slouniki="prym2009,krapivabr2012,tsbm2016">ёю</Form>
-            <Form tag="FLS" slouniki="prym2009,tsbm1984,tsbm2016">ё+й</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">яно+</Form>
+            <Form tag="MGS" slouniki="prym2009,sbm2012,krapivabr2012">яго+</Form>
+            <Form tag="MDS" slouniki="prym2009,krapivabr2012">яму+</Form>
+            <Form tag="MAS" slouniki="prym2009,krapivabr2012">яго+</Form>
+            <Form tag="MIS" slouniki="prym2009,krapivabr2012">і+м</Form>
+            <Form tag="MLS" slouniki="prym2009,krapivabr2012">і+м</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">яна+</Form>
+            <Form tag="FGS" slouniki="prym2009,sbm2012,krapivabr2012">яе+</Form>
+            <Form tag="FDS" slouniki="prym2009,tsbm1984">ё+й</Form>
+            <Form tag="FAS" slouniki="prym2009,krapivabr2012">яе+</Form>
+            <Form tag="FIS" slouniki="prym2009,tsbm1984">ё+й</Form>
+            <Form tag="FIS" slouniki="prym2009,krapivabr2012">ёю</Form>
+            <Form tag="FLS" slouniki="prym2009,tsbm1984">ё+й</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">яно+</Form>
             <Form tag="NGS" slouniki="prym2009,sbm2012">яго+</Form>
-            <Form tag="NDS" slouniki="prym2009,krapivabr2012,tsbm2016">яму+</Form>
+            <Form tag="NDS" slouniki="prym2009,krapivabr2012">яму+</Form>
             <Form tag="NAS" slouniki="prym2009">яго+</Form>
-            <Form tag="NIS" slouniki="prym2009,krapivabr2012,tsbm2016">і+м</Form>
-            <Form tag="NLS" slouniki="prym2009,krapivabr2012,tsbm2016">і+м</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">яны+</Form>
+            <Form tag="NIS" slouniki="prym2009,krapivabr2012">і+м</Form>
+            <Form tag="NLS" slouniki="prym2009,krapivabr2012">і+м</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">яны+</Form>
             <Form tag="0GP" slouniki="prym2009,sbm2012">і+х</Form>
-            <Form tag="0DP" slouniki="prym2009,krapivabr2012,tsbm2016">і+м</Form>
-            <Form tag="0AP" slouniki="prym2009,krapivabr2012,tsbm2016">і+х</Form>
-            <Form tag="0IP" slouniki="prym2009,krapivabr2012,tsbm2016">і+мі</Form>
-            <Form tag="0LP" slouniki="prym2009,krapivabr2012,tsbm2016">і+х</Form>
+            <Form tag="0DP" slouniki="prym2009,krapivabr2012">і+м</Form>
+            <Form tag="0AP" slouniki="prym2009,krapivabr2012">і+х</Form>
+            <Form tag="0IP" slouniki="prym2009,krapivabr2012">і+мі</Form>
+            <Form tag="0LP" slouniki="prym2009,krapivabr2012">і+х</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127850" lemma="іна+кшы" tag="SAE0">
@@ -542,7 +542,7 @@
             <Form tag="MAS" slouniki="prym2009">і+ншы</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">і+ншым</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">і+ншым</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">і+ншая</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">і+ншая</Form>
             <Form tag="FGS" slouniki="prym2009">і+ншай</Form>
             <Form tag="FGS" slouniki="prym2009">і+ншае</Form>
             <Form tag="FDS" slouniki="prym2009">і+ншай</Form>
@@ -550,13 +550,13 @@
             <Form tag="FIS" slouniki="prym2009">і+ншай</Form>
             <Form tag="FIS" slouniki="prym2009">і+ншаю</Form>
             <Form tag="FLS" slouniki="prym2009">і+ншай</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">і+ншае</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">і+ншае</Form>
             <Form tag="NGS" slouniki="prym2009">і+ншага</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">і+ншаму</Form>
             <Form tag="NAS" slouniki="prym2009">і+ншае</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">і+ншым</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">і+ншым</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">і+ншыя</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">і+ншыя</Form>
             <Form tag="0GP" slouniki="prym2009">і+ншых</Form>
             <Form tag="0DP" slouniki="prym2009">і+ншым</Form>
             <Form tag="0AP" slouniki="prym2009">і+ншых</Form>
@@ -579,7 +579,7 @@
             <Form tag="MAS" slouniki="prym2009">і+хняга</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">і+хнім</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">і+хнім</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">і+хняя</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">і+хняя</Form>
             <Form tag="FGS" slouniki="prym2009">і+хняй</Form>
             <Form tag="FGS" slouniki="prym2009">і+хняе</Form>
             <Form tag="FDS" slouniki="prym2009">і+хняй</Form>
@@ -587,13 +587,13 @@
             <Form tag="FIS" slouniki="prym2009">і+хняй</Form>
             <Form tag="FIS" slouniki="prym2009">і+хняю</Form>
             <Form tag="FLS" slouniki="prym2009">і+хняй</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">і+хняе</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">і+хняе</Form>
             <Form tag="NGS" slouniki="prym2009">і+хняга</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">і+хняму</Form>
             <Form tag="NAS" slouniki="prym2009">і+хняе</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">і+хнім</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">і+хнім</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">і+хнія</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">і+хнія</Form>
             <Form tag="0GP" slouniki="prym2009">і+хніх</Form>
             <Form tag="0DP" slouniki="prym2009">і+хнім</Form>
             <Form tag="0AP" slouniki="prym2009">і+хнія</Form>
@@ -641,7 +641,7 @@
             <Form tag="MAS" slouniki="prym2009">като+рага</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">като+рым</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">като+рым</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">като+рая</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">като+рая</Form>
             <Form tag="FGS" slouniki="prym2009">като+рай</Form>
             <Form tag="FGS" slouniki="prym2009">като+рае</Form>
             <Form tag="FDS" slouniki="prym2009">като+рай</Form>
@@ -649,13 +649,13 @@
             <Form tag="FIS" slouniki="prym2009">като+рай</Form>
             <Form tag="FIS" slouniki="prym2009">като+раю</Form>
             <Form tag="FLS" slouniki="prym2009">като+рай</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">като+рае</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">като+рае</Form>
             <Form tag="NGS" slouniki="prym2009">като+рага</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">като+раму</Form>
             <Form tag="NAS" slouniki="prym2009">като+рае</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">като+рым</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">като+рым</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">като+рыя</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">като+рыя</Form>
             <Form tag="0GP" slouniki="prym2009">като+рых</Form>
             <Form tag="0DP" slouniki="prym2009">като+рым</Form>
             <Form tag="0AP" slouniki="prym2009">като+рыя</Form>
@@ -705,7 +705,7 @@
             <Form tag="MAS" slouniki="prym2009">ко+жны</Form>
             <Form tag="MIS" slouniki="prym2009">ко+жным</Form>
             <Form tag="MLS" slouniki="prym2009">ко+жным</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">ко+жная</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">ко+жная</Form>
             <Form tag="FGS" slouniki="prym2009">ко+жнай</Form>
             <Form tag="FGS" slouniki="prym2009">ко+жнае</Form>
             <Form tag="FDS" slouniki="prym2009">ко+жнай</Form>
@@ -713,13 +713,13 @@
             <Form tag="FIS" slouniki="prym2009">ко+жнай</Form>
             <Form tag="FIS" slouniki="prym2009">ко+жнаю</Form>
             <Form tag="FLS" slouniki="prym2009">ко+жнай</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ко+жнае</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012,krapivabr2012">ко+жнае</Form>
             <Form tag="NGS" slouniki="prym2009">ко+жнага</Form>
             <Form tag="NDS" slouniki="prym2009">ко+жнаму</Form>
             <Form tag="NAS" slouniki="prym2009">ко+жнае</Form>
             <Form tag="NIS" slouniki="prym2009">ко+жным</Form>
             <Form tag="NLS" slouniki="prym2009">ко+жным</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">ко+жныя</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">ко+жныя</Form>
             <Form tag="0GP" slouniki="prym2009">ко+жных</Form>
             <Form tag="0DP" slouniki="prym2009">ко+жным</Form>
             <Form tag="0AP" slouniki="prym2009">ко+жных</Form>
@@ -735,7 +735,7 @@
             <Form tag="MAS">ко+жын</Form>
             <Form tag="MIS" slouniki="prym2009">ко+жным</Form>
             <Form tag="MLS" slouniki="prym2009">ко+жным</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">ко+жная</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">ко+жная</Form>
             <Form tag="FGS" slouniki="prym2009">ко+жнай</Form>
             <Form tag="FGS" slouniki="prym2009">ко+жнае</Form>
             <Form tag="FDS" slouniki="prym2009">ко+жнай</Form>
@@ -743,13 +743,13 @@
             <Form tag="FIS" slouniki="prym2009">ко+жнай</Form>
             <Form tag="FIS" slouniki="prym2009">ко+жнаю</Form>
             <Form tag="FLS" slouniki="prym2009">ко+жнай</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ко+жнае</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012,krapivabr2012">ко+жнае</Form>
             <Form tag="NGS" slouniki="prym2009">ко+жнага</Form>
             <Form tag="NDS" slouniki="prym2009">ко+жнаму</Form>
             <Form tag="NAS" slouniki="prym2009">ко+жнае</Form>
             <Form tag="NIS" slouniki="prym2009">ко+жным</Form>
             <Form tag="NLS" slouniki="prym2009">ко+жным</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">ко+жныя</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">ко+жныя</Form>
             <Form tag="0GP" slouniki="prym2009">ко+жных</Form>
             <Form tag="0DP" slouniki="prym2009">ко+жным</Form>
             <Form tag="0AP" slouniki="prym2009">ко+жных</Form>
@@ -819,20 +819,20 @@
             <Form tag="MAS" slouniki="prym2009">мо+й</Form>
             <Form tag="MIS" slouniki="prym2009">маі+м</Form>
             <Form tag="MLS" slouniki="prym2009">маі+м</Form>
-            <Form tag="FNS" slouniki="prym2009,tsbm2016">мая+</Form>
+            <Form tag="FNS" slouniki="prym2009">мая+</Form>
             <Form tag="FGS" slouniki="prym2009">маёй</Form>
             <Form tag="FDS" slouniki="prym2009">маёй</Form>
             <Form tag="FAS" slouniki="prym2009">маю+</Form>
             <Form tag="FIS" slouniki="prym2009">маёй</Form>
             <Form tag="FIS" slouniki="prym2009">маёю</Form>
             <Form tag="FLS" slouniki="prym2009">маёй</Form>
-            <Form tag="NNS" slouniki="prym2009,tsbm2016">маё</Form>
+            <Form tag="NNS" slouniki="prym2009">маё</Form>
             <Form tag="NGS" slouniki="prym2009,sbm2012">майго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">майму+</Form>
             <Form tag="NAS" slouniki="prym2009">маё</Form>
             <Form tag="NIS" slouniki="prym2009">маі+м</Form>
             <Form tag="NLS" slouniki="prym2009">маі+м</Form>
-            <Form tag="0NP" slouniki="prym2009,tsbm2016">мае+</Form>
+            <Form tag="0NP" slouniki="prym2009">мае+</Form>
             <Form tag="0GP" slouniki="prym2009">маі+х</Form>
             <Form tag="0DP" slouniki="prym2009">маі+м</Form>
             <Form tag="0AP" slouniki="prym2009">маі+х</Form>
@@ -843,11 +843,11 @@
     <Paradigm pdgId="1160153" lemma="мы+" tag="SNP1">
         <Variant id="a" lemma="мы+" slouniki="piskunou2012:101552" pravapis="A1957,A2008">
             <Form tag="0NP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">мы+</Form>
-            <Form tag="0GP" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">на+с</Form>
+            <Form tag="0GP" slouniki="prym2009,sbm2012,krapivabr2012">на+с</Form>
             <Form tag="0DP" slouniki="prym2009">на+м</Form>
-            <Form tag="0AP" slouniki="prym2009,krapivabr2012,tsbm2016">на+с</Form>
-            <Form tag="0IP" slouniki="prym2009,krapivabr2012,tsbm2016">на+мі</Form>
-            <Form tag="0LP" slouniki="prym2009,krapivabr2012,tsbm2016">на+с</Form>
+            <Form tag="0AP" slouniki="prym2009,krapivabr2012">на+с</Form>
+            <Form tag="0IP" slouniki="prym2009,krapivabr2012">на+мі</Form>
+            <Form tag="0LP" slouniki="prym2009,krapivabr2012">на+с</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1205421" lemma="на+скі" tag="SAS0">
@@ -921,7 +921,7 @@
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">на+ш</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+шым</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+шым</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">на+ша</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+ша</Form>
             <Form tag="FNS">на+шая</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">на+шай</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">на+шае</Form>
@@ -931,7 +931,7 @@
             <Form tag="FIS" slouniki="prym2009" pravapis="A1957,A2008">на+шай</Form>
             <Form tag="FIS" slouniki="prym2009" pravapis="A1957,A2008">на+шаю</Form>
             <Form tag="FLS" slouniki="prym2009" pravapis="A1957,A2008">на+шай</Form>
-            <Form tag="NNS" slouniki="prym2009,tsbm2016,sbm2012" pravapis="A1957,A2008">на+ша</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+ша</Form>
             <Form tag="NNS">на+шае</Form>
             <Form tag="NGS" slouniki="prym2009" pravapis="A1957,A2008">на+шага</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+шаму</Form>
@@ -939,7 +939,7 @@
             <Form tag="NAS">на+шае</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+шым</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+шым</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">на+шы</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">на+шы</Form>
             <Form tag="0NP">на+шыя</Form>
             <Form tag="0GP" slouniki="prym2009" pravapis="A1957,A2008">на+шых</Form>
             <Form tag="0DP" slouniki="prym2009" pravapis="A1957,A2008">на+шым</Form>
@@ -1065,7 +1065,7 @@
     <Paradigm pdgId="1186565" lemma="не+кі" tag="SAF0">
         <Variant id="a" lemma="не+кі" slouniki="piskunou2012:112799">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsbm1984" pravapis="A1957,A2008">не+кі</Form>
-            <Form tag="MGS" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">не+кага</Form>
+            <Form tag="MGS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не+кага</Form>
             <Form tag="MDS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">не+каму</Form>
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">не+кага</Form>
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">не+кі</Form>
@@ -1097,7 +1097,7 @@
     <Paradigm pdgId="1127832" lemma="не+хта" tag="SNF0">
         <Variant id="a" lemma="не+хта" slouniki="piskunou2012:115456" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">не+хта</Form>
-            <Form tag="0GS" slouniki="prym2009,sbm2012,tsbm1984,tsbm2016">не+кага</Form>
+            <Form tag="0GS" slouniki="prym2009,sbm2012,tsbm1984">не+кага</Form>
             <Form tag="0DS" slouniki="prym2009,sbm2012">не+каму</Form>
             <Form tag="0AS" slouniki="prym2009">не+кага</Form>
             <Form tag="0IS" slouniki="prym2009">не+кім</Form>
@@ -1295,7 +1295,7 @@
     <Paradigm pdgId="1127831" lemma="ніхто+" tag="SNN0">
         <Variant id="a" lemma="ніхто+" slouniki="piskunou2012:116092" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ніхто+</Form>
-            <Form tag="0GS" slouniki="prym2009,sbm2012,tsbm1984,tsbm2016">ніко+га</Form>
+            <Form tag="0GS" slouniki="prym2009,sbm2012,tsbm1984">ніко+га</Form>
             <Form tag="0DS" slouniki="prym2009">ніко+му</Form>
             <Form tag="0AS" slouniki="prym2009">ніко+га</Form>
             <Form tag="0IS" slouniki="prym2009">нікі+м</Form>
@@ -1384,7 +1384,7 @@
             <Form tag="FIS" slouniki="prym2009">нічыёй</Form>
             <Form tag="FIS" slouniki="prym2009">нічыёю</Form>
             <Form tag="FLS" slouniki="prym2009">нічыёй</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">нічыё</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">нічыё</Form>
             <Form tag="NGS" slouniki="prym2009">нічыйго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">нічыйму+</Form>
             <Form tag="NAS" slouniki="prym2009">нічыё</Form>
@@ -1448,7 +1448,7 @@
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">нія+кі</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нія+кім</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">нія+кім</Form>
-            <Form tag="FNS" slouniki="sbm2012,sbm2012,tsbm2016" pravapis="A1957,A2008">нія+кая</Form>
+            <Form tag="FNS" slouniki="sbm2012,sbm2012" pravapis="A1957,A2008">нія+кая</Form>
             <Form tag="FGS" pravapis="A1957,A2008">нія+кай</Form>
             <Form tag="FGS" pravapis="A1957,A2008">нія+кае</Form>
             <Form tag="FDS" pravapis="A1957,A2008">нія+кай</Form>
@@ -1456,7 +1456,7 @@
             <Form tag="FIS" pravapis="A1957,A2008">нія+кай</Form>
             <Form tag="FIS" pravapis="A1957,A2008">нія+каю</Form>
             <Form tag="FLS" pravapis="A1957,A2008">нія+кай</Form>
-            <Form tag="NNS" slouniki="sbm2012,sbm2012,tsbm2016" pravapis="A1957,A2008">нія+кае</Form>
+            <Form tag="NNS" slouniki="sbm2012,sbm2012" pravapis="A1957,A2008">нія+кае</Form>
             <Form tag="NGS" pravapis="A1957,A2008">нія+кага</Form>
             <Form tag="NDS" slouniki="sbm2012" pravapis="A2008">нія+каму</Form>
             <Form tag="NAS" pravapis="A1957,A2008">нія+кае</Form>
@@ -1479,14 +1479,14 @@
             <Form tag="MAS" slouniki="prym2009">само+га</Form>
             <Form tag="MIS" slouniki="prym2009">самі+м</Form>
             <Form tag="MLS" slouniki="prym2009">самі+м</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">сама+</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">сама+</Form>
             <Form tag="FGS" slouniki="prym2009">само+й</Form>
             <Form tag="FDS" slouniki="prym2009">само+й</Form>
             <Form tag="FAS" slouniki="prym2009">саму+</Form>
             <Form tag="FAS" slouniki="prym2009">саму+ю</Form>
             <Form tag="FIS" slouniki="prym2009">само+й</Form>
             <Form tag="FLS" slouniki="prym2009">само+й</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">само+</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">само+</Form>
             <Form tag="NGS" slouniki="prym2009">само+га</Form>
             <Form tag="NDS" slouniki="prym2009">само+му</Form>
             <Form tag="NAS" slouniki="prym2009">само+е</Form>
@@ -1542,7 +1542,7 @@
             <Form tag="MAS" slouniki="prym2009">са+мы</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">са+мым</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">са+мым</Form>
-            <Form tag="FNS" slouniki="prym2009,tsbm2016,sbm2012">са+мая</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">са+мая</Form>
             <Form tag="FGS" slouniki="prym2009">са+май</Form>
             <Form tag="FGS" slouniki="prym2009">са+мае</Form>
             <Form tag="FDS" slouniki="prym2009">са+май</Form>
@@ -1550,7 +1550,7 @@
             <Form tag="FIS" slouniki="prym2009">са+май</Form>
             <Form tag="FIS" slouniki="prym2009">са+маю</Form>
             <Form tag="FLS" slouniki="prym2009">са+май</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">са+мае</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">са+мае</Form>
             <Form tag="NGS" slouniki="prym2009">са+мага</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">са+маму</Form>
             <Form tag="NAS" slouniki="prym2009">са+мае</Form>
@@ -1574,20 +1574,20 @@
             <Form tag="MAS" slouniki="prym2009">сво+й</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">сваі+м</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">сваі+м</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">свая+</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">свая+</Form>
             <Form tag="FGS" slouniki="prym2009">сваёй</Form>
             <Form tag="FDS" slouniki="prym2009">сваёй</Form>
             <Form tag="FAS" slouniki="prym2009">сваю+</Form>
             <Form tag="FIS" slouniki="prym2009">сваёй</Form>
             <Form tag="FIS" slouniki="prym2009">сваёю</Form>
             <Form tag="FLS" slouniki="prym2009">сваёй</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">сваё</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">сваё</Form>
             <Form tag="NGS" slouniki="prym2009">свайго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">свайму+</Form>
             <Form tag="NAS" slouniki="prym2009">сваё</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">сваі+м</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">сваі+м</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">свае+</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">свае+</Form>
             <Form tag="0GP" slouniki="prym2009">сваі+х</Form>
             <Form tag="0DP" slouniki="prym2009">сваі+м</Form>
             <Form tag="0AP" slouniki="prym2009">сваі+х</Form>
@@ -1676,7 +1676,7 @@
             <Form tag="FAS" pravapis="A1957">сю+ю-ту+ю</Form>
             <Form tag="FIS" pravapis="A1957">сёй-той</Form>
             <Form tag="FLS" pravapis="A1957">сёй-той</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957">сёе-то+е</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012" pravapis="A1957">сёе-то+е</Form>
             <Form tag="NGS" slouniki="prym2009" pravapis="A1957">сяго+-таго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">сяму+-таму+</Form>
             <Form tag="NAS" slouniki="prym2009" pravapis="A1957">сёе-то+е</Form>
@@ -1717,10 +1717,10 @@
         <Variant id="a" lemma="сябе+" slouniki="piskunou2012:187070" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">сябе+</Form>
             <Form tag="0GS" slouniki="prym2009,sbm2012">сябе+</Form>
-            <Form tag="0DS" slouniki="prym2009,sbm2012,tsbm2016,sbm2012">сабе+</Form>
+            <Form tag="0DS" slouniki="prym2009,sbm2012,sbm2012">сабе+</Form>
             <Form tag="0AS" slouniki="prym2009">сябе+</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">сабо+й</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">сабо+ю</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">сабо+й</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">сабо+ю</Form>
             <Form tag="0LS" slouniki="prym2009">сабе+</Form>
         </Variant>
     </Paradigm>
@@ -1733,7 +1733,7 @@
             <Form tag="MAS" slouniki="prym2009">сякі+-такі+</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">сякі+м-такі+м</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">сякі+м-такі+м</Form>
-            <Form tag="FNS" slouniki="sbm2012,tsbm2016">сяка+я-така+я</Form>
+            <Form tag="FNS" slouniki="sbm2012">сяка+я-така+я</Form>
             <Form tag="FGS">сяко+й-тако+й</Form>
             <Form tag="FGS">сяко+е-тако+е</Form>
             <Form tag="FDS">сяко+й-тако+й</Form>
@@ -1741,13 +1741,13 @@
             <Form tag="FIS">сяко+й-тако+й</Form>
             <Form tag="FIS">сяко+ю-тако+ю</Form>
             <Form tag="FLS">сяко+й-тако+й</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">сяко+е-тако+е</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">сяко+е-тако+е</Form>
             <Form tag="NGS" slouniki="prym2009">сяко+га-тако+га</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">сяко+му-тако+му</Form>
             <Form tag="NAS" slouniki="prym2009">сяко+е-тако+е</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">сякі+м-такі+м</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">сякі+м-такі+м</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">сякі+я-такі+я</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">сякі+я-такі+я</Form>
             <Form tag="0GP" slouniki="prym2009">сякі+х-такі+х</Form>
             <Form tag="0DP" slouniki="prym2009">сякі+м-такі+м</Form>
             <Form tag="0AP" slouniki="prym2009">сякі+х-такі+х</Form>
@@ -1765,14 +1765,14 @@
             <Form tag="MAS" slouniki="prym2009">такі+</Form>
             <Form tag="MIS" slouniki="prym2009">такі+м</Form>
             <Form tag="MLS" slouniki="prym2009">такі+м</Form>
-            <Form tag="FNS" slouniki="krapivabr2012,tsbm2016">така+я</Form>
+            <Form tag="FNS" slouniki="krapivabr2012">така+я</Form>
             <Form tag="FGS">тако+й</Form>
             <Form tag="FDS">тако+й</Form>
             <Form tag="FAS">таку+ю</Form>
             <Form tag="FIS">тако+й</Form>
             <Form tag="FIS">тако+ю</Form>
             <Form tag="FLS">тако+й</Form>
-            <Form tag="NNS" slouniki="krapivabr2012,tsbm2016">тако+е</Form>
+            <Form tag="NNS" slouniki="krapivabr2012">тако+е</Form>
             <Form tag="NGS">тако+га</Form>
             <Form tag="NDS">тако+му</Form>
             <Form tag="NAS">тако+е</Form>
@@ -1892,20 +1892,20 @@
             <Form tag="MAS" slouniki="prym2009">тво+й</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">тваі+м</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">тваі+м</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">твая+</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">твая+</Form>
             <Form tag="FGS" slouniki="prym2009">тваёй</Form>
             <Form tag="FDS" slouniki="prym2009">тваёй</Form>
             <Form tag="FAS" slouniki="prym2009">тваю+</Form>
             <Form tag="FIS" slouniki="prym2009">тваёй</Form>
             <Form tag="FIS" slouniki="prym2009">тваёю</Form>
             <Form tag="FLS" slouniki="prym2009">тваёй</Form>
-            <Form tag="NNS" slouniki="prym2009,sbm2012,tsbm2016">тваё</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">тваё</Form>
             <Form tag="NGS" slouniki="prym2009">твайго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">твайму+</Form>
             <Form tag="NAS" slouniki="prym2009">тваё</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">тваі+м</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">тваі+м</Form>
-            <Form tag="0NP" slouniki="krapivabr2012,tsbm2016">твае+</Form>
+            <Form tag="0NP" slouniki="krapivabr2012">твае+</Form>
             <Form tag="0GP">тваі+х</Form>
             <Form tag="0DP">тваі+м</Form>
             <Form tag="0AP">тваі+х</Form>
@@ -1921,24 +1921,24 @@
             <Form tag="MDS" slouniki="prym2009,sbm2012">таму+</Form>
             <Form tag="MAS" slouniki="prym2009">таго+</Form>
             <Form tag="MAS" slouniki="prym2009">то+й</Form>
-            <Form tag="MIS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
-            <Form tag="MLS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">та+я</Form>
+            <Form tag="MIS" slouniki="prym2009,sbm2012,krapivabr2012">ты+м</Form>
+            <Form tag="MLS" slouniki="prym2009,sbm2012,krapivabr2012">ты+м</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">та+я</Form>
             <Form tag="FGS" slouniki="prym2009">то+й</Form>
             <Form tag="FDS" slouniki="prym2009">то+й</Form>
             <Form tag="FAS" slouniki="prym2009">ту+ю</Form>
             <Form tag="FIS" slouniki="prym2009">то+й</Form>
             <Form tag="FIS" slouniki="prym2009">то+ю</Form>
             <Form tag="FLS" slouniki="prym2009">то+й</Form>
-            <Form tag="NNS" slouniki="prym2009,tsbm2016,sbm2012">то+е</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">то+е</Form>
             <Form tag="NGS" slouniki="prym2009">таго+</Form>
             <Form tag="NDS" slouniki="prym2009,sbm2012">таму+</Form>
             <Form tag="NAS" slouniki="prym2009">то+е</Form>
-            <Form tag="NIS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
-            <Form tag="NLS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">ты+м</Form>
-            <Form tag="0NP" slouniki="sbm2012,tsbm2016">ты+я</Form>
+            <Form tag="NIS" slouniki="prym2009,sbm2012,krapivabr2012">ты+м</Form>
+            <Form tag="NLS" slouniki="prym2009,sbm2012,krapivabr2012">ты+м</Form>
+            <Form tag="0NP" slouniki="sbm2012">ты+я</Form>
             <Form tag="0GP">ты+х</Form>
-            <Form tag="0DP" slouniki="krapivabr2012,tsbm2016">ты+м</Form>
+            <Form tag="0DP" slouniki="krapivabr2012">ты+м</Form>
             <Form tag="0AP">ты+х</Form>
             <Form tag="0AP">ты+я</Form>
             <Form tag="0IP">ты+мі</Form>
@@ -1989,7 +1989,7 @@
             <Form tag="FAS">ту+ю-сю+ю</Form>
             <Form tag="FIS">той-сёй</Form>
             <Form tag="FLS">той-сёй</Form>
-            <Form tag="NNS" slouniki="tsbm2016,sbm2012">тое-сёе</Form>
+            <Form tag="NNS" slouniki="sbm2012">тое-сёе</Form>
             <Form tag="NGS">таго+-сяго+</Form>
             <Form tag="NDS">таму+-сяму+</Form>
             <Form tag="NAS">то+е-сёе</Form>
@@ -2037,12 +2037,12 @@
     <Paradigm pdgId="1127808" lemma="ты+" tag="SNP2">
         <Variant id="a" lemma="ты+" slouniki="piskunou2012:191995" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ты+</Form>
-            <Form tag="0GS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">цябе+</Form>
-            <Form tag="0DS" slouniki="prym2009,krapivabr2012,tsbm2016">табе+</Form>
-            <Form tag="0AS" slouniki="prym2009,krapivabr2012,tsbm2016">цябе+</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">табо+й</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">табо+ю</Form>
-            <Form tag="0LS" slouniki="prym2009,krapivabr2012,tsbm2016">табе+</Form>
+            <Form tag="0GS" slouniki="prym2009,sbm2012,krapivabr2012">цябе+</Form>
+            <Form tag="0DS" slouniki="prym2009,krapivabr2012">табе+</Form>
+            <Form tag="0AS" slouniki="prym2009,krapivabr2012">цябе+</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">табо+й</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">табо+ю</Form>
+            <Form tag="0LS" slouniki="prym2009,krapivabr2012">табе+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127848" lemma="уве+сь" tag="SAE0">
@@ -2054,7 +2054,7 @@
             <Form tag="MAS" slouniki="prym2009">уве+сь</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012">усі+м</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012">усі+м</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016">уся+</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012">уся+</Form>
             <Form tag="FGS" slouniki="prym2009">усёй</Form>
             <Form tag="FGS" slouniki="prym2009">усяе+</Form>
             <Form tag="FDS" slouniki="prym2009">усёй</Form>
@@ -2068,7 +2068,7 @@
             <Form tag="NAS" slouniki="prym2009">усё</Form>
             <Form tag="NIS" slouniki="prym2009,sbm2012">усі+м</Form>
             <Form tag="NLS" slouniki="prym2009,sbm2012">усі+м</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">усе+</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">усе+</Form>
             <Form tag="0GP" slouniki="prym2009">усі+х</Form>
             <Form tag="0DP" slouniki="prym2009">усі+м</Form>
             <Form tag="0AP" slouniki="prym2009">усі+х</Form>
@@ -2150,9 +2150,9 @@
         <Variant id="a" lemma="хто+" slouniki="piskunou2012:205863" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">хто+</Form>
             <Form tag="0GS" slouniki="prym2009,sbm2012">каго+</Form>
-            <Form tag="0DS" slouniki="prym2009,krapivabr2012,tsbm2016">каму+</Form>
-            <Form tag="0AS" slouniki="prym2009,krapivabr2012,tsbm2016">каго+</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">кі+м</Form>
+            <Form tag="0DS" slouniki="prym2009,krapivabr2012">каму+</Form>
+            <Form tag="0AS" slouniki="prym2009,krapivabr2012">каго+</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">кі+м</Form>
             <Form tag="0LS" slouniki="prym2009">кі+м</Form>
         </Variant>
     </Paradigm>
@@ -2225,20 +2225,20 @@
             <Form tag="MAS" slouniki="prym2009">чы+й</Form>
             <Form tag="MIS" slouniki="prym2009">чыі+м</Form>
             <Form tag="MLS" slouniki="prym2009">чыі+м</Form>
-            <Form tag="FNS" slouniki="prym2009,tsbm2016">чыя+</Form>
+            <Form tag="FNS" slouniki="prym2009">чыя+</Form>
             <Form tag="FGS" slouniki="prym2009">чыёй</Form>
             <Form tag="FDS" slouniki="prym2009">чыёй</Form>
             <Form tag="FAS" slouniki="prym2009">чыю+</Form>
             <Form tag="FIS" slouniki="prym2009">чыёй</Form>
             <Form tag="FIS" slouniki="prym2009">чыёю</Form>
             <Form tag="FLS" slouniki="prym2009">чыёй</Form>
-            <Form tag="NNS" slouniki="prym2009,tsbm2016,sbm2012">чыё</Form>
+            <Form tag="NNS" slouniki="prym2009,sbm2012">чыё</Form>
             <Form tag="NGS" slouniki="prym2009,sbm2012">чыйго+</Form>
             <Form tag="NDS" slouniki="prym2009">чыйму+</Form>
             <Form tag="NAS" slouniki="prym2009">чыё</Form>
             <Form tag="NIS" slouniki="prym2009">чыі+м</Form>
             <Form tag="NLS" slouniki="prym2009">чыі+м</Form>
-            <Form tag="0NP" slouniki="prym2009,sbm2012,tsbm2016">чые+</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">чые+</Form>
             <Form tag="0GP" slouniki="prym2009">чыі+х</Form>
             <Form tag="0DP" slouniki="prym2009">чыі+м</Form>
             <Form tag="0AP" slouniki="prym2009">чыі+х</Form>
@@ -2330,7 +2330,7 @@
             <Form tag="NAS">чыё-нічыё</Form>
             <Form tag="NIS">чыім-нічыі+м</Form>
             <Form tag="NLS">чыім-нічыі+м</Form>
-            <Form tag="0NP" slouniki="prym2009,tsbm2016,sbm2012">чые+-нічые+</Form>
+            <Form tag="0NP" slouniki="prym2009,sbm2012">чые+-нічые+</Form>
             <Form tag="0GP" slouniki="prym2009">чыі+х-нічыі+х</Form>
             <Form tag="0DP" slouniki="prym2009">чыі+м-нічыі+м</Form>
             <Form tag="0AP" slouniki="prym2009">чыі+х-нічыі+х</Form>
@@ -2378,7 +2378,7 @@
             <Form tag="MAS" slouniki="prym2009" pravapis="A1957,A2008">чы+йсьці</Form>
             <Form tag="MIS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чыі+мсьці</Form>
             <Form tag="MLS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чыі+мсьці</Form>
-            <Form tag="FNS" slouniki="prym2009,sbm2012,tsbm2016" pravapis="A1957,A2008">чыя+сьці</Form>
+            <Form tag="FNS" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">чыя+сьці</Form>
             <Form tag="FGS" slouniki="prym2009" pravapis="A1957,A2008">чыёйсьці</Form>
             <Form tag="FDS" slouniki="prym2009" pravapis="A1957,A2008">чыёйсьці</Form>
             <Form tag="FAS" slouniki="prym2009" pravapis="A1957,A2008">чыю+сьці</Form>
@@ -2465,7 +2465,7 @@
         <Variant id="a" lemma="што-не+будзь" slouniki="piskunou2012:213140" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">што-не+будзь</Form>
             <Form tag="0GS" slouniki="prym2009">чаго+-не+будзь</Form>
-            <Form tag="0DS" slouniki="prym2009,sbm2012,tsbm2016">чаму+-не+будзь</Form>
+            <Form tag="0DS" slouniki="prym2009,sbm2012">чаму+-не+будзь</Form>
             <Form tag="0AS" slouniki="prym2009">што-не+будзь</Form>
             <Form tag="0IS" slouniki="prym2009,sbm2012">чым-не+будзь</Form>
             <Form tag="0LS" slouniki="prym2009,sbm2012">чым-не+будзь</Form>
@@ -2484,8 +2484,8 @@
     <Paradigm pdgId="1127829" lemma="што+сь" tag="SNF0">
         <Variant id="a" lemma="што+сь" slouniki="piskunou2012:213183" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,krapivabr2012">што+сь</Form>
-            <Form tag="MGS" slouniki="prym2009,tsbm2016">чаго+сь</Form>
-            <Form tag="MDS" slouniki="prym2009,tsbm2016">чаму+сь</Form>
+            <Form tag="MGS" slouniki="prym2009">чаго+сь</Form>
+            <Form tag="MDS" slouniki="prym2009">чаму+сь</Form>
             <Form tag="MAS" slouniki="prym2009">што+сь</Form>
             <Form tag="MIS" slouniki="prym2009">чы+мсь</Form>
             <Form tag="MLS" slouniki="prym2009">чы+мсь</Form>
@@ -2494,22 +2494,22 @@
     <Paradigm pdgId="1127830" lemma="што+сьці" tag="SNF0">
         <Variant id="a" lemma="што+сьці" slouniki="piskunou2012:213185" pravapis="A2008">
             <Form tag="0NS" slouniki="sbm2012,tsblm1996,krapivabr2012">што+сьці</Form>
-            <Form tag="0GS" slouniki="sbm2012,tsbm2016">чаго+сьці</Form>
-            <Form tag="0DS" slouniki="tsbm2016">чаму+сьці</Form>
+            <Form tag="0GS" slouniki="sbm2012">чаго+сьці</Form>
+            <Form tag="0DS">чаму+сьці</Form>
             <Form tag="0AS">што+сьці</Form>
-            <Form tag="0IS" slouniki="krapivabr2012,tsbm2016">чы+мсьці</Form>
-            <Form tag="0LS" slouniki="krapivabr2012,tsbm2016">чы+мсьці</Form>
+            <Form tag="0IS" slouniki="krapivabr2012">чы+мсьці</Form>
+            <Form tag="0LS" slouniki="krapivabr2012">чы+мсьці</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127807" lemma="я+" tag="SNP1">
         <Variant id="a" lemma="я+" pravapis="A1957,A2008">
             <Form tag="0NS" slouniki="prym2009,sbm2012,tsblm1996,krapivabr2012">я+</Form>
-            <Form tag="0GS" slouniki="prym2009,sbm2012,krapivabr2012,tsbm2016">мяне+</Form>
-            <Form tag="0DS" slouniki="prym2009,krapivabr2012,tsbm2016">мне+</Form>
-            <Form tag="0AS" slouniki="prym2009,krapivabr2012,tsbm2016">мяне+</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">мно+й</Form>
-            <Form tag="0IS" slouniki="prym2009,krapivabr2012,tsbm2016">мно+ю</Form>
-            <Form tag="0LS" slouniki="prym2009,krapivabr2012,tsbm2016">мне+</Form>
+            <Form tag="0GS" slouniki="prym2009,sbm2012,krapivabr2012">мяне+</Form>
+            <Form tag="0DS" slouniki="prym2009,krapivabr2012">мне+</Form>
+            <Form tag="0AS" slouniki="prym2009,krapivabr2012">мяне+</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">мно+й</Form>
+            <Form tag="0IS" slouniki="prym2009,krapivabr2012">мно+ю</Form>
+            <Form tag="0LS" slouniki="prym2009,krapivabr2012">мне+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1267358" lemma="яго+" tag="SAS0">

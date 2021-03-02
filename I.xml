@@ -31,14 +31,14 @@
             <Form tag="">ад імя+</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159959" lemma="аднача+сна з" tag="I" govern="+I">
+    <Paradigm pdgId="1159959" lemma="аднача+сна з" tag="I" govern="+I" regulation="add">
         <Variant id="a" lemma="аднача+сна з" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">аднача+сна з</Form>
+            <Form tag="">аднача+сна з</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159937" lemma="адначасо+ва з" tag="I" govern="+I">
+    <Paradigm pdgId="1159937" lemma="адначасо+ва з" tag="I" govern="+I" regulation="add">
         <Variant id="a" lemma="адначасо+ва з" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">адначасо+ва з</Form>
+            <Form tag="">адначасо+ва з</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1104210" lemma="адно+сна" tag="I" govern="+G">
@@ -51,9 +51,9 @@
             <Form tag="" slouniki="tsbm1984,sbm2012,krapivabr2012">адпаве+дна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159936" lemma="адпаве+дна з" tag="I" govern="+I">
+    <Paradigm pdgId="1159936" lemma="адпаве+дна з" tag="I" govern="+I" regulation="add">
         <Variant id="a" lemma="адпаве+дна з" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">адпаве+дна з</Form>
+            <Form tag="">адпаве+дна з</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1299888" lemma="адро+зна" tag="I">
@@ -86,9 +86,9 @@
             <Form tag="" slouniki="krapivabr2012">а-ля+</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160123" lemma="апасля+" tag="I" govern="+G">
+    <Paradigm pdgId="1160123" lemma="апасля+" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="апасля+" pravapis="">
-            <Form tag="" slouniki="tsbm2016">апасля+</Form>
+            <Form tag="">апасля+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1104214" lemma="апрача+" tag="I" govern="+G">
@@ -101,14 +101,14 @@
             <Form tag="" slouniki="tsbm1984,sbm2012,krapivabr2012">апро+ч</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160128" lemma="апры+ч" tag="I" govern="+G">
+    <Paradigm pdgId="1160128" lemma="апры+ч" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="апры+ч" pravapis="">
-            <Form tag="" slouniki="tsbm2016">апры+ч</Form>
+            <Form tag="">апры+ч</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159890" lemma="асо+бна ад" tag="I" govern="+G">
+    <Paradigm pdgId="1159890" lemma="асо+бна ад" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="асо+бна ад" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">асо+бна ад</Form>
+            <Form tag="">асо+бна ад</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1104216" lemma="бе+з" tag="I" govern="+G">
@@ -126,27 +126,27 @@
             <Form tag="" slouniki="tsbm1984,sbm2012,krapivabr2012">блі+зка</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159906" lemma="блі+зка ад" tag="I" govern="+G">
+    <Paradigm pdgId="1159906" lemma="блі+зка ад" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="блі+зка ад" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">блі+зка ад</Form>
+            <Form tag="">блі+зка ад</Form>
             <Form tag="">бліжэ+й ад</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159905" lemma="блі+зка да" tag="I" govern="+G">
+    <Paradigm pdgId="1159905" lemma="блі+зка да" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="блі+зка да" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">блі+зка да</Form>
+            <Form tag="">блі+зка да</Form>
             <Form tag="">бліжэ+й да</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159903" lemma="блі+зка к" tag="I" govern="+D">
+    <Paradigm pdgId="1159903" lemma="блі+зка к" tag="I" govern="+D" regulation="add">
         <Variant id="a" lemma="блі+зка к" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">блі+зка к</Form>
+            <Form tag="">блі+зка к</Form>
             <Form tag="">бліжэ+й к</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159914" lemma="блі+зка каля+" tag="I" govern="+G">
+    <Paradigm pdgId="1159914" lemma="блі+зка каля+" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="блі+зка каля+" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">блі+зка каля+</Form>
+            <Form tag="">блі+зка каля+</Form>
             <Form tag="">бліжэ+й каля+</Form>
         </Variant>
     </Paradigm>
@@ -168,12 +168,12 @@
             <Form tag="">бліжэ+й пры</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160016" lemma="блі+зу" tag="I" govern="+G">
+    <Paradigm pdgId="1160016" lemma="блі+зу" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="блі+зу" slouniki="piskunou2012:25429" pravapis="A1957,A2008">
             <Form tag="" slouniki="tsbm1984">блі+зу</Form>
         </Variant>
         <Variant id="b" lemma="блізу+" pravapis="A1957,A2008">
-            <Form tag="" slouniki="tsbm2016">блізу+</Form>
+            <Form tag="">блізу+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1138991" lemma="ва+" tag="I" govern="+G, +A, +L">
@@ -186,9 +186,9 @@
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">вако+л</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160037" lemma="вако+ла" tag="I" govern="+G">
+    <Paradigm pdgId="1160037" lemma="вако+ла" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="вако+ла" pravapis="">
-            <Form tag="" slouniki="tsbm2016">вако+ла</Form>
+            <Form tag="">вако+ла</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1159969" lemma="во+даль" tag="I" govern="+G">
@@ -547,9 +547,9 @@
             <Form tag="">з часо+ў</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1104236" lemma="з ча+су" tag="I" govern="+G">
+    <Paradigm pdgId="1104236" lemma="з ча+су" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="з ча+су" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">з ча+су</Form>
+            <Form tag="">з ча+су</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1104251" lemma="к" tag="I" govern="+D">
@@ -894,9 +894,9 @@
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">напро+ці</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160006" lemma="напро+ціў" tag="I" govern="+G">
+    <Paradigm pdgId="1160006" lemma="напро+ціў" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="напро+ціў" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">напро+ціў</Form>
+            <Form tag="">напро+ціў</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1299901" lemma="напрыкане+ц" tag="I">
@@ -919,9 +919,9 @@
             <Form tag="" slouniki="tsbm1984,sbm2012,krapivabr2012">напярэ+сцігі</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1160080" lemma="напярэ+сціжкі" tag="I" govern="+D">
+    <Paradigm pdgId="1160080" lemma="напярэ+сціжкі" tag="I" govern="+D" regulation="add">
         <Variant id="a" lemma="напярэ+сціжкі" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">напярэ+сціжкі</Form>
+            <Form tag="">напярэ+сціжкі</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1160088" lemma="нараўне+ з" tag="I" govern="+I">
@@ -1037,9 +1037,9 @@
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">наўздаго+н</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159939" lemma="наўздаго+нак" tag="I" govern="+D">
+    <Paradigm pdgId="1159939" lemma="наўздаго+нак" tag="I" govern="+D" regulation="add">
         <Variant id="a" lemma="наўздаго+нак" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">наўздаго+нак</Form>
+            <Form tag="">наўздаго+нак</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1160074" lemma="наўздаго+нак за" tag="I" govern="+I">
@@ -1102,9 +1102,9 @@
             <Form tag="" slouniki="tsbm1984,sbm2012,krapivabr2012">наўкру+г</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159941" lemma="наўкру+га" tag="I" govern="+G">
+    <Paradigm pdgId="1159941" lemma="наўкру+га" tag="I" govern="+G" regulation="add">
         <Variant id="a" lemma="наўкру+га" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">наўкру+га</Form>
+            <Form tag="">наўкру+га</Form>
         </Variant>
         <Variant id="b" lemma="наўкруга+" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsbm1984,krapivabr2012">наўкруга+</Form>
@@ -1976,9 +1976,9 @@
             <Form tag="">удаго+н за</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1159989" lemma="удаго+нку" tag="I" govern="+D">
+    <Paradigm pdgId="1159989" lemma="удаго+нку" tag="I" govern="+D" regulation="add">
         <Variant id="a" lemma="удаго+нку" pravapis="A1957, A2008">
-            <Form tag="" slouniki="tsbm2016">удаго+нку</Form>
+            <Form tag="">удаго+нку</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1159958" lemma="удаго+нку за" tag="I" govern="+I">

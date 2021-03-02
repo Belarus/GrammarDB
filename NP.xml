@@ -14225,9 +14225,9 @@
             <Form tag="LP" type="potential">Дзюсельдо+рфах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1203334" lemma="Дзявя+тнік" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/святы">
+    <Paradigm pdgId="1203334" lemma="Дзявя+тнік" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/святы" regulation="add">
         <Variant id="a" lemma="Дзявя+тнік" pravapis="A2008">
-            <Form tag="NS" slouniki="tsbm2016">Дзявя+тнік</Form>
+            <Form tag="NS">Дзявя+тнік</Form>
             <Form tag="GS">Дзявя+тніка</Form>
             <Form tag="DS">Дзявя+тніку</Form>
             <Form tag="AS">Дзявя+тнік</Form>

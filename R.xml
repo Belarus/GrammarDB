@@ -9110,7 +9110,7 @@
             <Form tag="P">бяспё+ра</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1053863" lemma="бяспе+чна" tag="RA">
+    <Paradigm pdgId="1053863" lemma="бяспе+чна" tag="RA" regulation="add">
         <Variant id="a" lemma="бяспе+чна" slouniki="piskunou2012:28855">
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">бяспе+чна</Form>
             <Form tag="C">бяспе+чней</Form>
@@ -23252,8 +23252,8 @@
             <Form tag="P">лайдакава+та</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1069347" lemma="лака+льна" tag="RA">
-        <Variant id="a" lemma="лака+льна" slouniki="piskunou2012:89368">
+    <Paradigm pdgId="1069347" lemma="лака+льна" tag="RA" regulation="add">
+        <Variant id="a" lemma="лака+льна" slouniki="piskunou2012:89368" pravapis="A2008">
             <Form tag="P">лака+льна</Form>
             <Form tag="C">лака+льней</Form>
         </Variant>
@@ -23673,8 +23673,8 @@
             <Form tag="P">лінгвісты+чна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1068993" lemma="ліне+йна" tag="RA">
-        <Variant id="a" lemma="ліне+йна" slouniki="piskunou2012:91541">
+    <Paradigm pdgId="1068993" lemma="ліне+йна" tag="RA" regulation="add">
+        <Variant id="a" lemma="ліне+йна" slouniki="piskunou2012:91541" pravapis="A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="P">ліне+йна</Form>
         </Variant>
@@ -26874,9 +26874,9 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1072912" lemma="надзе+йна" tag="RA">
-        <Variant id="a" lemma="надзе+йна" slouniki="piskunou2012:103838">
+        <Variant id="a" lemma="надзе+йна" slouniki="piskunou2012:103838" pravapis="A1957,A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
-            <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A1957,A2008">надзе+йна</Form>
+            <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012">надзе+йна</Form>
             <Form tag="C">надзе+йней</Form>
         </Variant>
     </Paradigm>
@@ -37881,8 +37881,8 @@
             <Form tag="P">няця+мна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1078321" lemma="нячаста" tag="RA">
-        <Variant id="a" lemma="нячаста" slouniki="piskunou2012:118279">
+    <Paradigm pdgId="1078321" lemma="нячаста" tag="RA" regulation="add">
+        <Variant id="a" lemma="нячаста" slouniki="piskunou2012:118279" pravapis="A2008">
             <Form tag="P">нячаста</Form>
             <Form tag="C">нечасцей</Form>
         </Variant>
@@ -47803,8 +47803,8 @@
             <Form tag="P">па-тэгеранску</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1082106" lemma="патэнцы+йна" tag="RA">
-        <Variant id="a" lemma="патэнцы+йна" slouniki="piskunou2012:135804">
+    <Paradigm pdgId="1082106" lemma="патэнцы+йна" tag="RA" regulation="add">
+        <Variant id="a" lemma="патэнцы+йна" slouniki="piskunou2012:135804" pravapis="A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="P">патэнцы+йна</Form>
             <Form tag="C">патэнцы+йней</Form>
@@ -59066,15 +59066,15 @@
             <Form tag="C">станавіцей</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1092169" lemma="станда+ртна" tag="RA">
-        <Variant id="a" lemma="станда+ртна" slouniki="piskunou2012:182096">
+    <Paradigm pdgId="1092169" lemma="станда+ртна" tag="RA" regulation="add">
+        <Variant id="a" lemma="станда+ртна" slouniki="piskunou2012:182096" pravapis="A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="P">станда+ртна</Form>
             <Form tag="C">станда+ртней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1092172" lemma="стандартызава+на" tag="RA" regulation="add">
-        <Variant id="a" lemma="стандартызава+на">
+        <Variant id="a" lemma="стандартызава+на" pravapis="A2008">
             <Form tag="P">стандартызава+на</Form>
             <Form tag="C">стандартызава+ней</Form>
         </Variant>
@@ -59218,8 +59218,8 @@
             <Form tag="C">статней</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1092336" lemma="статысты+чна" tag="RA">
-        <Variant id="a" lemma="статысты+чна" slouniki="piskunou2012:182532">
+    <Paradigm pdgId="1092336" lemma="статысты+чна" tag="RA" regulation="add">
+        <Variant id="a" lemma="статысты+чна" slouniki="piskunou2012:182532" pravapis="A2008">
             <Form tag="P">статысты+чна</Form>
         </Variant>
     </Paradigm>
@@ -69714,8 +69714,8 @@
             <Form tag="P">эйфары+чна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1103151" lemma="экалагі+чна" tag="RA">
-        <Variant id="a" lemma="экалагі+чна" slouniki="piskunou2012:214761">
+    <Paradigm pdgId="1103151" lemma="экалагі+чна" tag="RA" regulation="add">
+        <Variant id="a" lemma="экалагі+чна" slouniki="piskunou2012:214761" pravapis="A2008">
             <Form tag="P">экалагі+чна</Form>
         </Variant>
     </Paradigm>

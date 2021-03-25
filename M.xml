@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127403" lemma="абе+дзве" tag="MNKS">
+    <Paradigm pdgId="1127403" lemma="абе+дзве" tag="MNKS" meaning="для жаночага роду">
         <Variant id="a" lemma="абе+дзве" slouniki="piskunou2012:1070" pravapis="A1957,A2008">
             <Form tag="FNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">абе+дзве</Form>
             <Form tag="FGP" slouniki="prym2009">абе+дзвюх</Form>
@@ -33,7 +33,7 @@
             <Form tag="NLP" slouniki="prym2009,sbm2012">або+двух</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1192894" lemma="або+е" tag="MAKS">
+    <Paradigm pdgId="1192894" lemma="або+е" tag="MAKS" meaning="для мужчынскага і жаночага роду">
         <Variant id="a" lemma="або+е" slouniki="piskunou2012:2640" pravapis="A1957,A2008">
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">або+е</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">абаі+х</Form>

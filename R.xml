@@ -6495,9 +6495,12 @@
             <Form tag="P">беражняко+м</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1300147" lemma="бе+рма" tag="RX">
+    <Paradigm pdgId="1300147" lemma="бе+рма" tag="RX" regulation="rare">
         <Variant id="a" lemma="бе+рма" slouniki="piskunou2012:23962" pravapis="A2008">
             <Form tag="P">бе+рма</Form>
+        </Variant>
+        <Variant id="b" lemma="бі+рма">
+            <Form tag="P">бі+рма</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1300148" lemma="бескаламе+сна" tag="RX">
@@ -24548,6 +24551,7 @@
         <Variant id="a" lemma="мару+дна" slouniki="piskunou2012:96226" pravapis="A1957,A2008">
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012">мару+дна</Form>
             <Form tag="C" slouniki="prym2009">мару+дней</Form>
+            <Form tag="S">наймару+дней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1301156" lemma="марфалагі+чна" tag="RX">

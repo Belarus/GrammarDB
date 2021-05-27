@@ -5,8 +5,8 @@
             <Form tag="FNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">абе+дзве</Form>
             <Form tag="FGP" slouniki="prym2009">абе+дзвюх</Form>
             <Form tag="FDP" slouniki="prym2009">абе+дзвюм</Form>
-            <Form tag="FAP" slouniki="prym2009">абе+дзве</Form>
-            <Form tag="FAP" slouniki="prym2009">абе+дзвюх</Form>
+            <Form tag="FAP" slouniki="prym2009" options="inanim">абе+дзве</Form>
+            <Form tag="FAP" slouniki="prym2009" options="anim">абе+дзвюх</Form>
             <Form tag="FIP" slouniki="prym2009">абе+дзвюма</Form>
             <Form tag="FLP" slouniki="prym2009">абе+дзвюх</Form>
         </Variant>
@@ -75,8 +75,8 @@
             <Form tag="PNP" slouniki="prym2009">адны+</Form>
             <Form tag="PGP" slouniki="prym2009">адны+х</Form>
             <Form tag="PDP" slouniki="prym2009">адны+м</Form>
-            <Form tag="PAP" slouniki="prym2009">адны+х</Form>
-            <Form tag="PAP" slouniki="prym2009">адны+</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">адны+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">адны+</Form>
             <Form tag="PIP" slouniki="prym2009">адны+мі</Form>
             <Form tag="PLP" slouniki="prym2009">адны+х</Form>
         </Variant>
@@ -86,8 +86,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">адзіна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">адзіна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">адзіна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">адзіна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">адзіна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">адзіна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">адзіна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">адзіна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">адзіна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">адзіна+ццатая</Form>
@@ -105,8 +105,8 @@
             <Form tag="PNP" slouniki="prym2009">адзіна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">адзіна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">адзіна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">адзіна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">адзіна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">адзіна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">адзіна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">адзіна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">адзіна+ццатых</Form>
         </Variant>
@@ -116,8 +116,8 @@
             <Form tag="PNP" slouniki="prym2009">адзіна+ццацера</Form>
             <Form tag="PGP" slouniki="prym2009">адзінаццацяры+х</Form>
             <Form tag="PDP" slouniki="prym2009">адзінаццацяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">адзіна+ццацера</Form>
-            <Form tag="PAP" slouniki="prym2009">адзінаццацяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">адзіна+ццацера</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">адзінаццацяры+х</Form>
             <Form tag="PIP" type="nonstandard">адзінаццацяры+ма</Form>
             <Form tag="PIP" slouniki="prym2009">адзінаццацяры+мі</Form>
             <Form tag="PLP" slouniki="prym2009">адзінаццацяры+х</Form>
@@ -164,8 +164,8 @@
             <Form tag="PNP">васемнаццацё+ра</Form>
             <Form tag="PGP">васемнаццацяры+х</Form>
             <Form tag="PDP">васемнаццацяры+м</Form>
-            <Form tag="PAP">васемнаццацё+ра</Form>
-            <Form tag="PAP">васемнаццацяры+х</Form>
+            <Form tag="PAP" options="inanim">васемнаццацё+ра</Form>
+            <Form tag="PAP" options="anim">васемнаццацяры+х</Form>
             <Form tag="PIP">васемнаццацяры+мі</Form>
             <Form tag="PLP">васемнаццацяры+х</Form>
         </Variant>
@@ -175,8 +175,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">васьмёра</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">васьмяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">васьмяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">васьмёра</Form>
-            <Form tag="PAP" slouniki="prym2009">васьмяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">васьмёра</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">васьмяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">васьмяры+мі</Form>
             <Form tag="PIP" type="nonstandard">васьмяры+ма</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">васьмяры+х</Form>
@@ -187,8 +187,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">васьмідзяся+ты</Form>
             <Form tag="MGS" slouniki="prym2009">васьмідзяся+тага</Form>
             <Form tag="MDS" slouniki="prym2009">васьмідзяся+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">васьмідзяся+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">васьмідзяся+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">васьмідзяся+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">васьмідзяся+ты</Form>
             <Form tag="MIS" slouniki="prym2009">васьмідзяся+тым</Form>
             <Form tag="MLS" slouniki="prym2009">васьмідзяся+тым</Form>
             <Form tag="FNS" slouniki="prym2009">васьмідзяся+тая</Form>
@@ -206,8 +206,8 @@
             <Form tag="PNP" slouniki="prym2009">васьмідзяся+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">васьмідзяся+тых</Form>
             <Form tag="PDP" slouniki="prym2009">васьмідзяся+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">васьмідзяся+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">васьмідзяся+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">васьмідзяся+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">васьмідзяся+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">васьмідзяся+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">васьмідзяся+тых</Form>
         </Variant>
@@ -215,8 +215,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">васьмідзеся+ты</Form>
             <Form tag="MGS">васьмідзеся+тага</Form>
             <Form tag="MDS">васьмідзеся+таму</Form>
-            <Form tag="MAS">васьмідзеся+тага</Form>
-            <Form tag="MAS">васьмідзеся+ты</Form>
+            <Form tag="MAS" options="anim">васьмідзеся+тага</Form>
+            <Form tag="MAS" options="inanim">васьмідзеся+ты</Form>
             <Form tag="MIS">васьмідзеся+тым</Form>
             <Form tag="MLS">васьмідзеся+тым</Form>
             <Form tag="FNS">васьмідзеся+тая</Form>
@@ -234,8 +234,8 @@
             <Form tag="PNP">васьмідзеся+тыя</Form>
             <Form tag="PGP">васьмідзеся+тых</Form>
             <Form tag="PDP">васьмідзеся+тым</Form>
-            <Form tag="PAP">васьмідзеся+тых</Form>
-            <Form tag="PAP">васьмідзеся+тыя</Form>
+            <Form tag="PAP" options="anim">васьмідзеся+тых</Form>
+            <Form tag="PAP" options="inanim">васьмідзеся+тыя</Form>
             <Form tag="PIP">васьмідзеся+тымі</Form>
             <Form tag="PLP">васьмідзеся+тых</Form>
         </Variant>
@@ -245,8 +245,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">васьмісо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">васьмісо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">васьмісо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">васьмісо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">васьмісо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">васьмісо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">васьмісо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">васьмісо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">васьмісо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">васьмісо+тая</Form>
@@ -266,8 +266,8 @@
             <Form tag="PNP" slouniki="prym2009">васьмісо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">васьмісо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">васьмісо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">васьмісо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">васьмісо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">васьмісо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">васьмісо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">васьмісо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">васьмісо+тых</Form>
         </Variant>
@@ -277,8 +277,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996">васьміты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">васьміты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">васьміты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">васьміты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">васьміты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">васьміты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">васьміты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">васьміты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">васьміты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">васьміты+сячная</Form>
@@ -297,8 +297,8 @@
             <Form tag="PNP" slouniki="prym2009">васьміты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">васьміты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">васьміты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">васьміты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">васьміты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">васьміты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">васьміты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">васьміты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">васьміты+сячных</Form>
         </Variant>
@@ -308,8 +308,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">васямна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">васямна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">васямна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">васямна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">васямна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">васямна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">васямна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">васямна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">васямна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">васямна+ццатая</Form>
@@ -327,8 +327,8 @@
             <Form tag="PNP" slouniki="prym2009">васямна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">васямна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">васямна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">васямна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">васямна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">васямна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">васямна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">васямна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">васямна+ццатых</Form>
         </Variant>
@@ -336,8 +336,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">васемна+ццаты</Form>
             <Form tag="MGS">васемна+ццатага</Form>
             <Form tag="MDS">васемна+ццатаму</Form>
-            <Form tag="MAS">васемна+ццатага</Form>
-            <Form tag="MAS">васемна+ццаты</Form>
+            <Form tag="MAS" options="anim">васемна+ццатага</Form>
+            <Form tag="MAS" options="inanim">васемна+ццаты</Form>
             <Form tag="MIS">васемна+ццатым</Form>
             <Form tag="MLS">васемна+ццатым</Form>
             <Form tag="FNS">васемна+ццатая</Form>
@@ -355,8 +355,8 @@
             <Form tag="PNP">васемна+ццатыя</Form>
             <Form tag="PGP">васемна+ццатых</Form>
             <Form tag="PDP">васемна+ццатым</Form>
-            <Form tag="PAP">васемна+ццатых</Form>
-            <Form tag="PAP">васемна+ццатыя</Form>
+            <Form tag="PAP" options="anim">васемна+ццатых</Form>
+            <Form tag="PAP" options="inanim">васемна+ццатыя</Form>
             <Form tag="PIP">васемна+ццатымі</Form>
             <Form tag="PLP">васемна+ццатых</Form>
         </Variant>
@@ -440,8 +440,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">во+сьмы</Form>
             <Form tag="MGS" slouniki="prym2009">во+сьмага</Form>
             <Form tag="MDS" slouniki="prym2009">во+сьмаму</Form>
-            <Form tag="MAS" slouniki="prym2009">во+сьмага</Form>
-            <Form tag="MAS" slouniki="prym2009">во+сьмы</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">во+сьмага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">во+сьмы</Form>
             <Form tag="MIS" slouniki="prym2009">во+сьмым</Form>
             <Form tag="MLS" slouniki="prym2009">во+сьмым</Form>
             <Form tag="FNS" slouniki="prym2009">во+сьмая</Form>
@@ -461,8 +461,8 @@
             <Form tag="PNP" slouniki="prym2009">во+сьмыя</Form>
             <Form tag="PGP" slouniki="prym2009">во+сьмых</Form>
             <Form tag="PDP" slouniki="prym2009">во+сьмым</Form>
-            <Form tag="PAP" slouniki="prym2009">во+сьмых</Form>
-            <Form tag="PAP" slouniki="prym2009">во+сьмыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">во+сьмых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">во+сьмыя</Form>
             <Form tag="PIP" slouniki="prym2009">во+сьмымі</Form>
             <Form tag="PLP" slouniki="prym2009">во+сьмых</Form>
         </Variant>
@@ -472,8 +472,8 @@
             <Form tag="PNP" slouniki="tsblm1996,tsbm1984,krapivabr2012">гэ+тулькі</Form>
             <Form tag="PGP">гэ+тулькіх</Form>
             <Form tag="PDP">гэ+тулькім</Form>
-            <Form tag="PAP">гэ+тулькі</Form>
-            <Form tag="PAP">гэ+тулькіх</Form>
+            <Form tag="PAP" options="inanim">гэ+тулькі</Form>
+            <Form tag="PAP" options="anim">гэ+тулькіх</Form>
             <Form tag="PIP">гэ+тулькімі</Form>
             <Form tag="PLP">гэ+тулькіх</Form>
         </Variant>
@@ -483,8 +483,8 @@
             <Form tag="MNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">два+</Form>
             <Form tag="MGP" slouniki="prym2009,sbm2012">дву+х</Form>
             <Form tag="MDP" slouniki="prym2009,sbm2012">дву+м</Form>
-            <Form tag="MAP" slouniki="prym2009">дву+х</Form>
-            <Form tag="MAP" slouniki="prym2009">два+</Form>
+            <Form tag="MAP" slouniki="prym2009" options="anim">дву+х</Form>
+            <Form tag="MAP" slouniki="prym2009" options="inanim">два+</Form>
             <Form tag="MIP" slouniki="prym2009,sbm2012">двума+</Form>
             <Form tag="MLP" slouniki="prym2009,sbm2012">дву+х</Form>
             <Form tag="NNP" slouniki="prym2009">два+</Form>
@@ -496,8 +496,8 @@
             <Form tag="FNP" slouniki="prym2009">дзве+</Form>
             <Form tag="FGP" slouniki="prym2009">дзвю+х</Form>
             <Form tag="FDP" slouniki="prym2009">дзвю+м</Form>
-            <Form tag="FAP" slouniki="prym2009">дзвю+х</Form>
-            <Form tag="FAP" slouniki="prym2009">дзве+</Form>
+            <Form tag="FAP" slouniki="prym2009" options="anim">дзвю+х</Form>
+            <Form tag="FAP" slouniki="prym2009" options="inanim">дзве+</Form>
             <Form tag="FIP" slouniki="prym2009">дзвюма+</Form>
             <Form tag="FLP" slouniki="prym2009">дзвю+х</Form>
         </Variant>
@@ -507,8 +507,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">двана+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">двана+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">двана+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">двана+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">двана+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">двана+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">двана+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">двана+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">двана+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">двана+ццатая</Form>
@@ -528,8 +528,8 @@
             <Form tag="PNP" slouniki="prym2009">двана+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">двана+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">двана+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">двана+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">двана+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">двана+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">двана+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">двана+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">двана+ццатых</Form>
         </Variant>
@@ -539,8 +539,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsbm1984">двана+ццацера</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">дванаццацяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">дванаццацяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">двана+ццацера</Form>
-            <Form tag="PAP" slouniki="prym2009">дванаццацяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">двана+ццацера</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дванаццацяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">дванаццацяры+мі</Form>
             <Form tag="PIP" type="nonstandard">дванаццацяры+ма</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">дванаццацяры+х</Form>
@@ -549,8 +549,8 @@
             <Form tag="PNP">дванаццацё+ра</Form>
             <Form tag="PGP">дванаццацяры+х</Form>
             <Form tag="PDP">дванаццацяры+м</Form>
-            <Form tag="PAP">дванаццацё+ра</Form>
-            <Form tag="PAP">дванаццацяры+х</Form>
+            <Form tag="PAP" options="inanim">дванаццацё+ра</Form>
+            <Form tag="PAP" options="anim">дванаццацяры+х</Form>
             <Form tag="PIP">дванаццацяры+мі</Form>
             <Form tag="PLP">дванаццацяры+х</Form>
         </Variant>
@@ -570,8 +570,8 @@
             <Form tag="PNP">два-тры</Form>
             <Form tag="PGP">двух-трох</Form>
             <Form tag="PDP">двум-тром</Form>
-            <Form tag="PAP">два-тры</Form>
-            <Form tag="PAP">двух-трох</Form>
+            <Form tag="PAP" options="inanim">два-тры</Form>
+            <Form tag="PAP" options="anim">двух-трох</Form>
             <Form tag="PIP">двума-трыма</Form>
             <Form tag="PLP">двух-трох</Form>
             <Form tag="NNP">два-тры</Form>
@@ -583,8 +583,8 @@
             <Form tag="FNP">дзве-тры</Form>
             <Form tag="FGP">дзвюх-трох</Form>
             <Form tag="FDP">дзвюм-тром</Form>
-            <Form tag="FAP">дзвюх-трох</Form>
-            <Form tag="FAP">дзве-тры</Form>
+            <Form tag="FAP" options="anim">дзвюх-трох</Form>
+            <Form tag="FAP" options="inanim">дзве-тры</Form>
             <Form tag="FIP">дзвюма-трыма</Form>
             <Form tag="FLP">дзвюх-трох</Form>
         </Variant>
@@ -594,8 +594,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">двацца+ты</Form>
             <Form tag="MGS" slouniki="prym2009">двацца+тага</Form>
             <Form tag="MDS" slouniki="prym2009">двацца+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">двацца+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">двацца+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">двацца+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">двацца+ты</Form>
             <Form tag="MIS" slouniki="prym2009">двацца+тым</Form>
             <Form tag="MLS" slouniki="prym2009">двацца+тым</Form>
             <Form tag="FNS" slouniki="prym2009">двацца+тая</Form>
@@ -614,8 +614,8 @@
             <Form tag="PNP" slouniki="prym2009">двацца+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">двацца+тых</Form>
             <Form tag="PDP" slouniki="prym2009">двацца+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">двацца+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">двацца+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">двацца+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">двацца+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">двацца+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">двацца+тых</Form>
         </Variant>
@@ -635,8 +635,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">дво+е</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">дваі+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">дваі+м</Form>
-            <Form tag="PAP" slouniki="prym2009">дваі+х</Form>
-            <Form tag="PAP" slouniki="prym2009">дво+е</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дваі+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дво+е</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">дваі+мі</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">дваі+х</Form>
         </Variant>
@@ -646,8 +646,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">двухсо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">двухсо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">двухсо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">двухсо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">двухсо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">двухсо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">двухсо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">двухсо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">двухсо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">двухсо+тая</Form>
@@ -667,8 +667,8 @@
             <Form tag="PNP" slouniki="prym2009">двухсо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">двухсо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">двухсо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">двухсо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">двухсо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">двухсо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">двухсо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">двухсо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">двухсо+тых</Form>
         </Variant>
@@ -678,8 +678,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">двухты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">двухты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">двухты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">двухты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">двухты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">двухты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">двухты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">двухты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">двухты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">двухты+сячная</Form>
@@ -699,8 +699,8 @@
             <Form tag="PNP" slouniki="prym2009">двухты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">двухты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">двухты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">двухты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">двухты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">двухты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">двухты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">двухты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">двухты+сячных</Form>
         </Variant>
@@ -730,8 +730,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">дзевяно+сты</Form>
             <Form tag="MGS" slouniki="prym2009">дзевяно+стага</Form>
             <Form tag="MDS" slouniki="prym2009">дзевяно+стаму</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевяно+стага</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевяно+сты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">дзевяно+стага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">дзевяно+сты</Form>
             <Form tag="MIS" slouniki="prym2009">дзевяно+стым</Form>
             <Form tag="MLS" slouniki="prym2009">дзевяно+стым</Form>
             <Form tag="FNS" slouniki="prym2009">дзевяно+стая</Form>
@@ -751,8 +751,8 @@
             <Form tag="PNP" slouniki="prym2009">дзевяно+стыя</Form>
             <Form tag="PGP" slouniki="prym2009">дзевяно+стых</Form>
             <Form tag="PDP" slouniki="prym2009">дзевяно+стым</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевяно+стых</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевяно+стыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дзевяно+стых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дзевяно+стыя</Form>
             <Form tag="PIP" slouniki="prym2009">дзевяно+стымі</Form>
             <Form tag="PLP" slouniki="prym2009">дзевяно+стых</Form>
         </Variant>
@@ -762,8 +762,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">дзевятна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">дзевятна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">дзевятна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевятна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевятна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">дзевятна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">дзевятна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">дзевятна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">дзевятна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">дзевятна+ццатая</Form>
@@ -783,8 +783,8 @@
             <Form tag="PNP" slouniki="prym2009">дзевятна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">дзевятна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">дзевятна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевятна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевятна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дзевятна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дзевятна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">дзевятна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">дзевятна+ццатых</Form>
         </Variant>
@@ -804,8 +804,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">дзевяцісо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">дзевяцісо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">дзевяцісо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевяцісо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевяцісо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">дзевяцісо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">дзевяцісо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">дзевяцісо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">дзевяцісо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">дзевяцісо+тая</Form>
@@ -825,8 +825,8 @@
             <Form tag="PNP" slouniki="prym2009">дзевяцісо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">дзевяцісо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">дзевяцісо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевяцісо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевяцісо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дзевяцісо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дзевяцісо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">дзевяцісо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">дзевяцісо+тых</Form>
         </Variant>
@@ -836,8 +836,8 @@
             <Form tag="MNS" slouniki="prym2009">дзевяціты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">дзевяціты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">дзевяціты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевяціты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">дзевяціты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">дзевяціты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">дзевяціты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">дзевяціты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">дзевяціты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">дзевяціты+сячная</Form>
@@ -857,8 +857,8 @@
             <Form tag="PNP" slouniki="prym2009">дзевяціты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">дзевяціты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">дзевяціты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевяціты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">дзевяціты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дзевяціты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дзевяціты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">дзевяціты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">дзевяціты+сячных</Form>
         </Variant>
@@ -899,8 +899,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">дзявя+ты</Form>
             <Form tag="MGS" slouniki="prym2009">дзявя+тага</Form>
             <Form tag="MDS" slouniki="prym2009">дзявя+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">дзявя+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">дзявя+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">дзявя+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">дзявя+ты</Form>
             <Form tag="MIS" slouniki="prym2009">дзявя+тым</Form>
             <Form tag="MLS" slouniki="prym2009">дзявя+тым</Form>
             <Form tag="FNS" slouniki="prym2009">дзявя+тая</Form>
@@ -918,8 +918,8 @@
             <Form tag="PNP" slouniki="prym2009">дзявя+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">дзявя+тых</Form>
             <Form tag="PDP" slouniki="prym2009">дзявя+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">дзявя+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">дзявя+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дзявя+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дзявя+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">дзявя+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">дзявя+тых</Form>
         </Variant>
@@ -927,8 +927,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">дзевя+ты</Form>
             <Form tag="MGS">дзевя+тага</Form>
             <Form tag="MDS">дзевя+таму</Form>
-            <Form tag="MAS">дзевя+тага</Form>
-            <Form tag="MAS">дзевя+ты</Form>
+            <Form tag="MAS" options="anim">дзевя+тага</Form>
+            <Form tag="MAS" options="inanim">дзевя+ты</Form>
             <Form tag="MIS">дзевя+тым</Form>
             <Form tag="MLS">дзевя+тым</Form>
             <Form tag="FNS">дзевя+тая</Form>
@@ -946,8 +946,8 @@
             <Form tag="PNP">дзевя+тыя</Form>
             <Form tag="PGP">дзевя+тых</Form>
             <Form tag="PDP">дзевя+тым</Form>
-            <Form tag="PAP">дзевя+тых</Form>
-            <Form tag="PAP">дзевя+тыя</Form>
+            <Form tag="PAP" options="anim">дзевя+тых</Form>
+            <Form tag="PAP" options="inanim">дзевя+тыя</Form>
             <Form tag="PIP">дзевя+тымі</Form>
             <Form tag="PLP">дзевя+тых</Form>
         </Variant>
@@ -980,8 +980,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">дзяся+ты</Form>
             <Form tag="MGS" slouniki="prym2009">дзяся+тага</Form>
             <Form tag="MDS" slouniki="prym2009">дзяся+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">дзяся+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">дзяся+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">дзяся+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">дзяся+ты</Form>
             <Form tag="MIS" slouniki="prym2009">дзяся+тым</Form>
             <Form tag="MLS" slouniki="prym2009">дзяся+тым</Form>
             <Form tag="FNS" slouniki="prym2009">дзяся+тая</Form>
@@ -999,8 +999,8 @@
             <Form tag="PNP" slouniki="prym2009">дзяся+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">дзяся+тых</Form>
             <Form tag="PDP" slouniki="prym2009">дзяся+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">дзяся+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">дзяся+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">дзяся+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">дзяся+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">дзяся+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">дзяся+тых</Form>
         </Variant>
@@ -1008,8 +1008,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">дзеся+ты</Form>
             <Form tag="MGS">дзеся+тага</Form>
             <Form tag="MDS">дзеся+таму</Form>
-            <Form tag="MAS">дзеся+тага</Form>
-            <Form tag="MAS">дзеся+ты</Form>
+            <Form tag="MAS" options="anim">дзеся+тага</Form>
+            <Form tag="MAS" options="inanim">дзеся+ты</Form>
             <Form tag="MIS">дзеся+тым</Form>
             <Form tag="MLS">дзеся+тым</Form>
             <Form tag="FNS">дзеся+тая</Form>
@@ -1027,8 +1027,8 @@
             <Form tag="PNP">дзеся+тыя</Form>
             <Form tag="PGP">дзеся+тых</Form>
             <Form tag="PDP">дзеся+тым</Form>
-            <Form tag="PAP">дзеся+тых</Form>
-            <Form tag="PAP">дзеся+тыя</Form>
+            <Form tag="PAP" options="anim">дзеся+тых</Form>
+            <Form tag="PAP" options="inanim">дзеся+тыя</Form>
             <Form tag="PIP">дзеся+тымі</Form>
             <Form tag="PLP">дзеся+тых</Form>
         </Variant>
@@ -1038,8 +1038,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,krapivabr2012" pravapis="A2008">дзяся+цера</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012" pravapis="A2008">дзесяцяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012" pravapis="A2008">дзесяцяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009,sbm2012" pravapis="A2008">дзяся+цера</Form>
-            <Form tag="PAP" slouniki="prym2009,sbm2012" pravapis="A2008">дзесяцяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009,sbm2012" pravapis="A2008" options="inanim">дзяся+цера</Form>
+            <Form tag="PAP" slouniki="prym2009,sbm2012" pravapis="A2008" options="anim">дзесяцяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012" pravapis="A2008">дзесяцяры+мі</Form>
             <Form tag="PIP">дзесяцяры+ма</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012" pravapis="A2008">дзесяцяры+х</Form>
@@ -1048,8 +1048,8 @@
             <Form tag="PNP" slouniki="tsblm1996,tsbm1984" pravapis="A1957">дзеся+цера</Form>
             <Form tag="PGP" pravapis="A1957">дзесяцяры+х</Form>
             <Form tag="PDP" pravapis="A1957">дзесяцяры+м</Form>
-            <Form tag="PAP" pravapis="A1957">дзеся+цера</Form>
-            <Form tag="PAP" pravapis="A1957">дзесяцяры+х</Form>
+            <Form tag="PAP" pravapis="A1957" options="inanim">дзеся+цера</Form>
+            <Form tag="PAP" pravapis="A1957" options="anim">дзесяцяры+х</Form>
             <Form tag="PIP" pravapis="A1957">дзесяцяры+мі</Form>
             <Form tag="PIP">дзесяцяры+ма</Form>
             <Form tag="PLP" pravapis="A1957">дзесяцяры+х</Form>
@@ -1058,8 +1058,8 @@
             <Form tag="PNP">дзесяцё+ра</Form>
             <Form tag="PGP">дзесяцяры+х</Form>
             <Form tag="PDP">дзесяцяры+м</Form>
-            <Form tag="PAP">дзесяцё+ра</Form>
-            <Form tag="PAP">дзесяцяры+х</Form>
+            <Form tag="PAP" options="inanim">дзесяцё+ра</Form>
+            <Form tag="PAP" options="anim">дзесяцяры+х</Form>
             <Form tag="PIP">дзесяцяры+мі</Form>
             <Form tag="PIP">дзесяцяры+ма</Form>
             <Form tag="PLP">дзесяцяры+х</Form>
@@ -1070,8 +1070,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">другі+</Form>
             <Form tag="MGS" slouniki="prym2009">друго+га</Form>
             <Form tag="MDS" slouniki="prym2009">друго+му</Form>
-            <Form tag="MAS" slouniki="prym2009">друго+га</Form>
-            <Form tag="MAS" slouniki="prym2009">другі+</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">друго+га</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">другі+</Form>
             <Form tag="MIS" slouniki="prym2009">другі+м</Form>
             <Form tag="MLS" slouniki="prym2009">другі+м</Form>
             <Form tag="FNS" slouniki="prym2009">друга+я</Form>
@@ -1091,8 +1091,8 @@
             <Form tag="PNP" slouniki="prym2009">другі+я</Form>
             <Form tag="PGP" slouniki="prym2009">другі+х</Form>
             <Form tag="PDP" slouniki="prym2009">другі+м</Form>
-            <Form tag="PAP" slouniki="prym2009">другі+х</Form>
-            <Form tag="PAP" slouniki="prym2009">другі+я</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">другі+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">другі+я</Form>
             <Form tag="PIP" slouniki="prym2009">другі+мі</Form>
             <Form tag="PLP" slouniki="prym2009">другі+х</Form>
         </Variant>
@@ -1134,8 +1134,8 @@
             <Form tag="PNP" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">ко+лькі</Form>
             <Form tag="PGP">ко+лькіх</Form>
             <Form tag="PDP">ко+лькім</Form>
-            <Form tag="PAP">ко+лькі</Form>
-            <Form tag="PAP">ко+лькіх</Form>
+            <Form tag="PAP" options="inanim">ко+лькі</Form>
+            <Form tag="PAP" options="anim">ко+лькіх</Form>
             <Form tag="PIP">ко+лькімі</Form>
             <Form tag="PLP">ко+лькіх</Form>
         </Variant>
@@ -1166,8 +1166,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">мільё+нны</Form>
             <Form tag="MGS" slouniki="prym2009">мільё+ннага</Form>
             <Form tag="MDS" slouniki="prym2009">мільё+ннаму</Form>
-            <Form tag="MAS" slouniki="prym2009">мільё+ннага</Form>
-            <Form tag="MAS" slouniki="prym2009">мільё+нны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">мільё+ннага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">мільё+нны</Form>
             <Form tag="MIS" slouniki="prym2009">мільё+нным</Form>
             <Form tag="MLS" slouniki="prym2009">мільё+нным</Form>
             <Form tag="FNS" slouniki="prym2009">мільё+нная</Form>
@@ -1187,8 +1187,8 @@
             <Form tag="PNP" slouniki="prym2009">мільё+нныя</Form>
             <Form tag="PGP" slouniki="prym2009">мільё+нных</Form>
             <Form tag="PDP" slouniki="prym2009">мільё+нным</Form>
-            <Form tag="PAP" slouniki="prym2009">мільё+нных</Form>
-            <Form tag="PAP" slouniki="prym2009">мільё+нныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">мільё+нных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">мільё+нныя</Form>
             <Form tag="PIP" slouniki="prym2009">мільё+ннымі</Form>
             <Form tag="PLP" slouniki="prym2009">мільё+нных</Form>
         </Variant>
@@ -1214,8 +1214,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">мілья+рдны</Form>
             <Form tag="MGS" slouniki="prym2009">мілья+рднага</Form>
             <Form tag="MDS" slouniki="prym2009">мілья+рднаму</Form>
-            <Form tag="MAS" slouniki="prym2009">мілья+рднага</Form>
-            <Form tag="MAS" slouniki="prym2009">мілья+рдны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">мілья+рднага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">мілья+рдны</Form>
             <Form tag="MIS" slouniki="prym2009">мілья+рдным</Form>
             <Form tag="MLS" slouniki="prym2009">мілья+рдным</Form>
             <Form tag="FNS" slouniki="prym2009">мілья+рдная</Form>
@@ -1235,8 +1235,8 @@
             <Form tag="PNP" slouniki="prym2009">мілья+рдныя</Form>
             <Form tag="PGP" slouniki="prym2009">мілья+рдных</Form>
             <Form tag="PDP" slouniki="prym2009">мілья+рдным</Form>
-            <Form tag="PAP" slouniki="prym2009">мілья+рдных</Form>
-            <Form tag="PAP" slouniki="prym2009">мілья+рдныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">мілья+рдных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">мілья+рдныя</Form>
             <Form tag="PIP" slouniki="prym2009">мілья+рднымі</Form>
             <Form tag="PLP" slouniki="prym2009">мілья+рдных</Form>
         </Variant>
@@ -1251,8 +1251,8 @@
             <Form tag="PNP" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">не+калькі</Form>
             <Form tag="PGP" slouniki="sbm2012" pravapis="A2008">не+калькіх</Form>
             <Form tag="PDP">не+калькім</Form>
-            <Form tag="PAP">не+калькі</Form>
-            <Form tag="PAP">не+калькіх</Form>
+            <Form tag="PAP" options="inanim">не+калькі</Form>
+            <Form tag="PAP" options="anim">не+калькіх</Form>
             <Form tag="PIP">не+калькімі</Form>
             <Form tag="PLP" slouniki="sbm2012" pravapis="A2008">не+калькіх</Form>
         </Variant>
@@ -1305,15 +1305,15 @@
             <Form tag="MNS">паўтара+-два+</Form>
             <Form tag="MGS">паўтара+-дву+х</Form>
             <Form tag="MDS">паўтара+-дву+м</Form>
-            <Form tag="MAS">паўтара+-два</Form>
-            <Form tag="MAS">паўтара+-дву+х</Form>
+            <Form tag="MAS" options="inanim">паўтара+-два+</Form>
+            <Form tag="MAS" options="anim">паўтара+-дву+х</Form>
             <Form tag="MIS">паўтара+-дву+м</Form>
             <Form tag="MLS">паўтара+-дву+х</Form>
             <Form tag="FNS">паўтары+-дзве+</Form>
             <Form tag="FGS">паўтары+-дзвю+х</Form>
             <Form tag="FDS">паўтары+-дзвюм</Form>
-            <Form tag="FAS">паўтары+-дзве</Form>
-            <Form tag="FAS">паўтары+-дзвю+х</Form>
+            <Form tag="FAS" options="inanim">паўтары+-дзве+</Form>
+            <Form tag="FAS" options="anim">паўтары+-дзвю+х</Form>
             <Form tag="FIS">паўтары+-дзвюма+</Form>
             <Form tag="FLS">паўтары+-дзвю+х</Form>
             <Form tag="NNS">паўтара+-два+</Form>
@@ -1356,8 +1356,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">пе+ршы</Form>
             <Form tag="MGS" slouniki="prym2009">пе+ршага</Form>
             <Form tag="MDS" slouniki="prym2009">пе+ршаму</Form>
-            <Form tag="MAS" slouniki="prym2009">пе+ршага</Form>
-            <Form tag="MAS" slouniki="prym2009">пе+ршы</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">пе+ршага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">пе+ршы</Form>
             <Form tag="MIS" slouniki="prym2009">пе+ршым</Form>
             <Form tag="MLS" slouniki="prym2009">пе+ршым</Form>
             <Form tag="FNS" slouniki="prym2009">пе+ршая</Form>
@@ -1377,8 +1377,8 @@
             <Form tag="PNP" slouniki="prym2009">пе+ршыя</Form>
             <Form tag="PGP" slouniki="prym2009">пе+ршых</Form>
             <Form tag="PDP" slouniki="prym2009">пе+ршым</Form>
-            <Form tag="PAP" slouniki="prym2009">пе+ршых</Form>
-            <Form tag="PAP" slouniki="prym2009">пе+ршыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">пе+ршых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">пе+ршыя</Form>
             <Form tag="PIP" slouniki="prym2009">пе+ршымі</Form>
             <Form tag="PLP" slouniki="prym2009">пе+ршых</Form>
         </Variant>
@@ -1398,8 +1398,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">пятна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">пятна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">пятна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">пятна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">пятна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">пятна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">пятна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">пятна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">пятна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">пятна+ццатая</Form>
@@ -1419,8 +1419,8 @@
             <Form tag="PNP" slouniki="prym2009">пятна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">пятна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">пятна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">пятна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">пятна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">пятна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">пятна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">пятна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">пятна+ццатых</Form>
         </Variant>
@@ -1430,8 +1430,8 @@
             <Form tag="MNS">пятнаццаціты+сячны</Form>
             <Form tag="MGS">пятнаццаціты+сячнага</Form>
             <Form tag="MDS">пятнаццаціты+сячнаму</Form>
-            <Form tag="MAS">пятнаццаціты+сячнага</Form>
-            <Form tag="MAS">пятнаццаціты+сячны</Form>
+            <Form tag="MAS" options="anim">пятнаццаціты+сячнага</Form>
+            <Form tag="MAS" options="inanim">пятнаццаціты+сячны</Form>
             <Form tag="MIS">пятнаццаціты+сячным</Form>
             <Form tag="MLS">пятнаццаціты+сячным</Form>
             <Form tag="FNS">пятнаццаціты+сячная</Form>
@@ -1450,8 +1450,8 @@
             <Form tag="PNP">пятнаццаціты+сячныя</Form>
             <Form tag="PGP">пятнаццаціты+сячных</Form>
             <Form tag="PDP">пятнаццаціты+сячным</Form>
-            <Form tag="PAP">пятнаццаціты+сячных</Form>
-            <Form tag="PAP">пятнаццаціты+сячныя</Form>
+            <Form tag="PAP" options="anim">пятнаццаціты+сячных</Form>
+            <Form tag="PAP" options="inanim">пятнаццаціты+сячныя</Form>
             <Form tag="PIP">пятнаццаціты+сячнымі</Form>
             <Form tag="PLP">пятнаццаціты+сячных</Form>
         </Variant>
@@ -1471,8 +1471,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">пя+ты</Form>
             <Form tag="MGS" slouniki="prym2009">пя+тага</Form>
             <Form tag="MDS" slouniki="prym2009">пя+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">пя+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">пя+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">пя+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">пя+ты</Form>
             <Form tag="MIS" slouniki="prym2009">пя+тым</Form>
             <Form tag="MLS" slouniki="prym2009">пя+тым</Form>
             <Form tag="FNS" slouniki="prym2009">пя+тая</Form>
@@ -1492,8 +1492,8 @@
             <Form tag="PNP" slouniki="prym2009">пя+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">пя+тых</Form>
             <Form tag="PDP" slouniki="prym2009">пя+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">пя+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">пя+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">пя+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">пя+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">пя+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">пя+тых</Form>
         </Variant>
@@ -1505,8 +1505,8 @@
             <Form tag="PGP" type="nonstandard">пецяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">пяцяры+м</Form>
             <Form tag="PDP" slouniki="sbm2012" pravapis="A2008">пецяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008">пяцёра</Form>
-            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008">пяцяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008" options="inanim">пяцёра</Form>
+            <Form tag="PAP" slouniki="prym2009" pravapis="A1957,A2008" options="anim">пяцяры+х</Form>
             <Form tag="PAP" type="nonstandard">пецяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012" pravapis="A1957,A2008">пяцяры+мі</Form>
             <Form tag="PIP" type="nonstandard">пецяры+ма</Form>
@@ -1519,8 +1519,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">пяцідзяся+ты</Form>
             <Form tag="MGS" slouniki="prym2009">пяцідзяся+тага</Form>
             <Form tag="MDS" slouniki="prym2009">пяцідзяся+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">пяцідзяся+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">пяцідзяся+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">пяцідзяся+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">пяцідзяся+ты</Form>
             <Form tag="MIS" slouniki="prym2009">пяцідзяся+тым</Form>
             <Form tag="MLS" slouniki="prym2009">пяцідзяся+тым</Form>
             <Form tag="FNS" slouniki="prym2009">пяцідзяся+тая</Form>
@@ -1538,8 +1538,8 @@
             <Form tag="PNP" slouniki="prym2009">пяцідзяся+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">пяцідзяся+тых</Form>
             <Form tag="PDP" slouniki="prym2009">пяцідзяся+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">пяцідзяся+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">пяцідзяся+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">пяцідзяся+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">пяцідзяся+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">пяцідзяся+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">пяцідзяся+тых</Form>
         </Variant>
@@ -1547,8 +1547,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">пяцідзеся+ты</Form>
             <Form tag="MGS">пяцідзеся+тага</Form>
             <Form tag="MDS">пяцідзеся+таму</Form>
-            <Form tag="MAS">пяцідзеся+тага</Form>
-            <Form tag="MAS">пяцідзеся+ты</Form>
+            <Form tag="MAS" options="anim">пяцідзеся+тага</Form>
+            <Form tag="MAS" options="inanim">пяцідзеся+ты</Form>
             <Form tag="MIS">пяцідзеся+тым</Form>
             <Form tag="MLS">пяцідзеся+тым</Form>
             <Form tag="FNS">пяцідзеся+тая</Form>
@@ -1566,8 +1566,8 @@
             <Form tag="PNP">пяцідзеся+тыя</Form>
             <Form tag="PGP">пяцідзеся+тых</Form>
             <Form tag="PDP">пяцідзеся+тым</Form>
-            <Form tag="PAP">пяцідзеся+тых</Form>
-            <Form tag="PAP">пяцідзеся+тыя</Form>
+            <Form tag="PAP" options="anim">пяцідзеся+тых</Form>
+            <Form tag="PAP" options="inanim">пяцідзеся+тыя</Form>
             <Form tag="PIP">пяцідзеся+тымі</Form>
             <Form tag="PLP">пяцідзеся+тых</Form>
         </Variant>
@@ -1577,8 +1577,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">пяцісо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">пяцісо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">пяцісо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">пяцісо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">пяцісо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">пяцісо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">пяцісо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">пяцісо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">пяцісо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">пяцісо+тая</Form>
@@ -1599,8 +1599,8 @@
             <Form tag="PNP" slouniki="prym2009">пяцісо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">пяцісо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">пяцісо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">пяцісо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">пяцісо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">пяцісо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">пяцісо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">пяцісо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">пяцісо+тых</Form>
         </Variant>
@@ -1610,8 +1610,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">пяціты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">пяціты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">пяціты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">пяціты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">пяціты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">пяціты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">пяціты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">пяціты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">пяціты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">пяціты+сячная</Form>
@@ -1631,8 +1631,8 @@
             <Form tag="PNP" slouniki="prym2009">пяціты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">пяціты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">пяціты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">пяціты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">пяціты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">пяціты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">пяціты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">пяціты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">пяціты+сячных</Form>
         </Variant>
@@ -1681,8 +1681,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-во+сьмы</Form>
             <Form tag="MGS">сам-во+сьмага</Form>
             <Form tag="MDS">сам-во+сьмаму</Form>
-            <Form tag="MAS">сам-во+сьмага</Form>
-            <Form tag="MAS">сам-во+сьмы</Form>
+            <Form tag="MAS" options="anim">сам-во+сьмага</Form>
+            <Form tag="MAS" options="inanim">сам-во+сьмы</Form>
             <Form tag="MIS">сам-во+сьмым</Form>
             <Form tag="MLS">сам-во+сьмым</Form>
             <Form tag="FNS">сам-во+сьмая</Form>
@@ -1702,8 +1702,8 @@
             <Form tag="PNP">сам-во+сьмыя</Form>
             <Form tag="PGP">сам-во+сьмых</Form>
             <Form tag="PDP">сам-во+сьмым</Form>
-            <Form tag="PAP">сам-во+сьмых</Form>
-            <Form tag="PAP">сам-во+сьмыя</Form>
+            <Form tag="PAP" options="anim">сам-во+сьмых</Form>
+            <Form tag="PAP" options="inanim">сам-во+сьмыя</Form>
             <Form tag="PIP">сам-во+сьмымі</Form>
             <Form tag="PLP">сам-во+сьмых</Form>
         </Variant>
@@ -1713,8 +1713,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-дзявя+ты</Form>
             <Form tag="MGS">сам-дзявя+тага</Form>
             <Form tag="MDS">сам-дзявя+таму</Form>
-            <Form tag="MAS">сам-дзявя+тага</Form>
-            <Form tag="MAS">сам-дзявя+ты</Form>
+            <Form tag="MAS" options="anim">сам-дзявя+тага</Form>
+            <Form tag="MAS" options="inanim">сам-дзявя+ты</Form>
             <Form tag="MIS">сам-дзявя+тым</Form>
             <Form tag="MLS">сам-дзявя+тым</Form>
             <Form tag="FNS">сам-дзявя+тая</Form>
@@ -1734,8 +1734,8 @@
             <Form tag="PNP">сам-дзявя+тыя</Form>
             <Form tag="PGP">сам-дзявя+тых</Form>
             <Form tag="PDP">сам-дзявя+тым</Form>
-            <Form tag="PAP">сам-дзявя+тых</Form>
-            <Form tag="PAP">сам-дзявя+тыя</Form>
+            <Form tag="PAP" options="anim">сам-дзявя+тых</Form>
+            <Form tag="PAP" options="inanim">сам-дзявя+тыя</Form>
             <Form tag="PIP">сам-дзявя+тымі</Form>
             <Form tag="PLP">сам-дзявя+тых</Form>
         </Variant>
@@ -1745,8 +1745,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-дзяся+ты</Form>
             <Form tag="MGS">сам-дзяся+тага</Form>
             <Form tag="MDS">сам-дзяся+таму</Form>
-            <Form tag="MAS">сам-дзяся+тага</Form>
-            <Form tag="MAS">сам-дзяся+ты</Form>
+            <Form tag="MAS" options="anim">сам-дзяся+тага</Form>
+            <Form tag="MAS" options="inanim">сам-дзяся+ты</Form>
             <Form tag="MIS">сам-дзяся+тым</Form>
             <Form tag="MLS">сам-дзяся+тым</Form>
             <Form tag="FNS">сам-дзяся+тая</Form>
@@ -1766,8 +1766,8 @@
             <Form tag="PNP">сам-дзяся+тыя</Form>
             <Form tag="PGP">сам-дзяся+тых</Form>
             <Form tag="PDP">сам-дзяся+тым</Form>
-            <Form tag="PAP">сам-дзяся+тых</Form>
-            <Form tag="PAP">сам-дзяся+тыя</Form>
+            <Form tag="PAP" options="anim">сам-дзяся+тых</Form>
+            <Form tag="PAP" options="inanim">сам-дзяся+тыя</Form>
             <Form tag="PIP">сам-дзяся+тымі</Form>
             <Form tag="PLP">сам-дзяся+тых</Form>
         </Variant>
@@ -1777,8 +1777,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-пя+ты</Form>
             <Form tag="MGS">сам-пя+тага</Form>
             <Form tag="MDS">сам-пя+таму</Form>
-            <Form tag="MAS">сам-пя+тага</Form>
-            <Form tag="MAS">сам-пя+ты</Form>
+            <Form tag="MAS" options="anim">сам-пя+тага</Form>
+            <Form tag="MAS" options="inanim">сам-пя+ты</Form>
             <Form tag="MIS">сам-пя+тым</Form>
             <Form tag="MLS">сам-пя+тым</Form>
             <Form tag="FNS">сам-пя+тая</Form>
@@ -1798,8 +1798,8 @@
             <Form tag="PNP">сам-пя+тыя</Form>
             <Form tag="PGP">сам-пя+тых</Form>
             <Form tag="PDP">сам-пя+тым</Form>
-            <Form tag="PAP">сам-пя+тых</Form>
-            <Form tag="PAP">сам-пя+тыя</Form>
+            <Form tag="PAP" options="anim">сам-пя+тых</Form>
+            <Form tag="PAP" options="inanim">сам-пя+тыя</Form>
             <Form tag="PIP">сам-пя+тымі</Form>
             <Form tag="PLP">сам-пя+тых</Form>
         </Variant>
@@ -1809,8 +1809,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-сё+мы</Form>
             <Form tag="MGS">сам-сё+мага</Form>
             <Form tag="MDS">сам-сё+маму</Form>
-            <Form tag="MAS">сам-сё+мага</Form>
-            <Form tag="MAS">сам-сё+мы</Form>
+            <Form tag="MAS" options="anim">сам-сё+мага</Form>
+            <Form tag="MAS" options="inanim">сам-сё+мы</Form>
             <Form tag="MIS">сам-сё+мым</Form>
             <Form tag="MLS">сам-сё+мым</Form>
             <Form tag="FNS">сам-сё+мая</Form>
@@ -1830,8 +1830,8 @@
             <Form tag="PNP">сам-сё+мыя</Form>
             <Form tag="PGP">сам-сё+мых</Form>
             <Form tag="PDP">сам-сё+мым</Form>
-            <Form tag="PAP">сам-сё+мых</Form>
-            <Form tag="PAP">сам-сё+мыя</Form>
+            <Form tag="PAP" options="anim">сам-сё+мых</Form>
+            <Form tag="PAP" options="inanim">сам-сё+мыя</Form>
             <Form tag="PIP">сам-сё+мымі</Form>
             <Form tag="PLP">сам-сё+мых</Form>
         </Variant>
@@ -1841,8 +1841,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-трэ+ці</Form>
             <Form tag="MGS">сам-трэ+цяга</Form>
             <Form tag="MDS">сам-трэ+цяму</Form>
-            <Form tag="MAS">сам-трэ+цяга</Form>
-            <Form tag="MAS">сам-трэ+ці</Form>
+            <Form tag="MAS" options="anim">сам-трэ+цяга</Form>
+            <Form tag="MAS" options="inanim">сам-трэ+ці</Form>
             <Form tag="MIS">сам-трэ+цім</Form>
             <Form tag="MLS">сам-трэ+цім</Form>
             <Form tag="FNS">сам-трэ+цяя</Form>
@@ -1860,8 +1860,8 @@
             <Form tag="PNP">сам-трэ+ція</Form>
             <Form tag="PGP">сам-трэ+ціх</Form>
             <Form tag="PDP">сам-трэ+цім</Form>
-            <Form tag="PAP">сам-трэ+ціх</Form>
-            <Form tag="PAP">сам-трэ+ція</Form>
+            <Form tag="PAP" options="anim">сам-трэ+ціх</Form>
+            <Form tag="PAP" options="inanim">сам-трэ+ція</Form>
             <Form tag="PIP">сам-трэ+цімі</Form>
             <Form tag="PLP">сам-трэ+ціх</Form>
         </Variant>
@@ -1871,8 +1871,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-чацвё+рты</Form>
             <Form tag="MGS">сам-чацвё+ртага</Form>
             <Form tag="MDS">сам-чацвё+ртаму</Form>
-            <Form tag="MAS">сам-чацвё+ртага</Form>
-            <Form tag="MAS">сам-чацвё+рты</Form>
+            <Form tag="MAS" options="anim">сам-чацвё+ртага</Form>
+            <Form tag="MAS" options="inanim">сам-чацвё+рты</Form>
             <Form tag="MIS">сам-чацвё+ртым</Form>
             <Form tag="MLS">сам-чацвё+ртым</Form>
             <Form tag="FNS">сам-чацвё+ртая</Form>
@@ -1892,8 +1892,8 @@
             <Form tag="PNP">сам-чацвё+ртыя</Form>
             <Form tag="PGP">сам-чацвё+ртых</Form>
             <Form tag="PDP">сам-чацвё+ртым</Form>
-            <Form tag="PAP">сам-чацвё+ртых</Form>
-            <Form tag="PAP">сам-чацвё+ртыя</Form>
+            <Form tag="PAP" options="anim">сам-чацвё+ртых</Form>
+            <Form tag="PAP" options="inanim">сам-чацвё+ртыя</Form>
             <Form tag="PIP">сам-чацвё+ртымі</Form>
             <Form tag="PLP">сам-чацвё+ртых</Form>
         </Variant>
@@ -1903,8 +1903,8 @@
             <Form tag="MNS" slouniki="krapivabr2012">сам-шо+сты</Form>
             <Form tag="MGS">сам-шо+стага</Form>
             <Form tag="MDS">сам-шо+стаму</Form>
-            <Form tag="MAS">сам-шо+стага</Form>
-            <Form tag="MAS">сам-шо+сты</Form>
+            <Form tag="MAS" options="anim">сам-шо+стага</Form>
+            <Form tag="MAS" options="inanim">сам-шо+сты</Form>
             <Form tag="MIS">сам-шо+стым</Form>
             <Form tag="MLS">сам-шо+стым</Form>
             <Form tag="FNS">сам-шо+стая</Form>
@@ -1922,8 +1922,8 @@
             <Form tag="PNP">сам-шо+стыя</Form>
             <Form tag="PGP">сам-шо+стых</Form>
             <Form tag="PDP">сам-шо+стым</Form>
-            <Form tag="PAP">сам-шо+стых</Form>
-            <Form tag="PAP">сам-шо+стыя</Form>
+            <Form tag="PAP" options="anim">сам-шо+стых</Form>
+            <Form tag="PAP" options="inanim">сам-шо+стыя</Form>
             <Form tag="PIP">сам-шо+стымі</Form>
             <Form tag="PLP">сам-шо+стых</Form>
         </Variant>
@@ -1933,8 +1933,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">саракавы+</Form>
             <Form tag="MGS" slouniki="prym2009">саракаво+га</Form>
             <Form tag="MDS" slouniki="prym2009">саракаво+му</Form>
-            <Form tag="MAS" slouniki="prym2009">саракаво+га</Form>
-            <Form tag="MAS" slouniki="prym2009">саракавы+</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">саракаво+га</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">саракавы+</Form>
             <Form tag="MIS" slouniki="prym2009">саракавы+м</Form>
             <Form tag="MLS" slouniki="prym2009">саракавы+м</Form>
             <Form tag="FNS" slouniki="prym2009">саракава+я</Form>
@@ -1954,8 +1954,8 @@
             <Form tag="PNP" slouniki="prym2009">саракавы+я</Form>
             <Form tag="PGP" slouniki="prym2009">саракавы+х</Form>
             <Form tag="PDP" slouniki="prym2009">саракавы+м</Form>
-            <Form tag="PAP" slouniki="prym2009">саракавы+х</Form>
-            <Form tag="PAP" slouniki="prym2009">саракавы+я</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">саракавы+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">саракавы+я</Form>
             <Form tag="PIP" slouniki="prym2009">саракавы+мі</Form>
             <Form tag="PLP" slouniki="prym2009">саракавы+х</Form>
         </Variant>
@@ -1995,8 +1995,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">сё+мы</Form>
             <Form tag="MGS" slouniki="prym2009">сё+мага</Form>
             <Form tag="MDS" slouniki="prym2009">сё+маму</Form>
-            <Form tag="MAS" slouniki="prym2009">сё+мага</Form>
-            <Form tag="MAS" slouniki="prym2009">сё+мы</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">сё+мага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">сё+мы</Form>
             <Form tag="MIS" slouniki="prym2009">сё+мым</Form>
             <Form tag="MLS" slouniki="prym2009">сё+мым</Form>
             <Form tag="FNS" slouniki="prym2009">сё+мая</Form>
@@ -2016,8 +2016,8 @@
             <Form tag="PNP" slouniki="prym2009">сё+мыя</Form>
             <Form tag="PGP" slouniki="prym2009">сё+мых</Form>
             <Form tag="PDP" slouniki="prym2009">сё+мым</Form>
-            <Form tag="PAP" slouniki="prym2009">сё+мых</Form>
-            <Form tag="PAP" slouniki="prym2009">сё+мыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">сё+мых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">сё+мыя</Form>
             <Form tag="PIP" slouniki="prym2009">сё+мымі</Form>
             <Form tag="PLP" slouniki="prym2009">сё+мых</Form>
         </Variant>
@@ -2037,8 +2037,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">со+ты</Form>
             <Form tag="MGS" slouniki="prym2009">со+тага</Form>
             <Form tag="MDS" slouniki="prym2009">со+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">со+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">со+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">со+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">со+ты</Form>
             <Form tag="MIS" slouniki="prym2009">со+тым</Form>
             <Form tag="MLS" slouniki="prym2009">со+тым</Form>
             <Form tag="FNS" slouniki="prym2009">со+тая</Form>
@@ -2058,8 +2058,8 @@
             <Form tag="PNP" slouniki="prym2009">со+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">со+тых</Form>
             <Form tag="PDP" slouniki="prym2009">со+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">со+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">со+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">со+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">со+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">со+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">со+тых</Form>
         </Variant>
@@ -2069,8 +2069,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">стамільё+нны</Form>
             <Form tag="MGS" slouniki="prym2009">стамільё+ннага</Form>
             <Form tag="MDS" slouniki="prym2009">стамільё+ннаму</Form>
-            <Form tag="MAS" slouniki="prym2009">стамільё+ннага</Form>
-            <Form tag="MAS" slouniki="prym2009">стамільё+нны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">стамільё+ннага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">стамільё+нны</Form>
             <Form tag="MIS" slouniki="prym2009">стамільё+нным</Form>
             <Form tag="MLS" slouniki="prym2009">стамільё+нным</Form>
             <Form tag="FNS" slouniki="prym2009">стамільё+нная</Form>
@@ -2090,8 +2090,8 @@
             <Form tag="PNP" slouniki="prym2009">стамільё+нныя</Form>
             <Form tag="PGP" slouniki="prym2009">стамільё+нных</Form>
             <Form tag="PDP" slouniki="prym2009">стамільё+нным</Form>
-            <Form tag="PAP" slouniki="prym2009">стамільё+нных</Form>
-            <Form tag="PAP" slouniki="prym2009">стамільё+нныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">стамільё+нных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">стамільё+нныя</Form>
             <Form tag="PIP" slouniki="prym2009">стамільё+ннымі</Form>
             <Form tag="PLP" slouniki="prym2009">стамільё+нных</Form>
         </Variant>
@@ -2101,8 +2101,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">статы+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">статы+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">статы+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">статы+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">статы+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">статы+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">статы+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">статы+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">статы+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">статы+сячная</Form>
@@ -2122,8 +2122,8 @@
             <Form tag="PNP" slouniki="prym2009">статы+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">статы+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">статы+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">статы+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">статы+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">статы+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">статы+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">статы+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">статы+сячных</Form>
         </Variant>
@@ -2143,8 +2143,8 @@
             <Form tag="PNP" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">сто+лькі</Form>
             <Form tag="PGP">сто+лькіх</Form>
             <Form tag="PDP">сто+лькім</Form>
-            <Form tag="PAP">сто+лькі</Form>
-            <Form tag="PAP">сто+лькіх</Form>
+            <Form tag="PAP" options="inanim">сто+лькі</Form>
+            <Form tag="PAP" options="anim">сто+лькіх</Form>
             <Form tag="PIP">сто+лькімі</Form>
             <Form tag="PLP">сто+лькіх</Form>
         </Variant>
@@ -2154,8 +2154,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">сямёра</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">семяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">семяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">сямёра</Form>
-            <Form tag="PAP" slouniki="prym2009">семяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">сямёра</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">семяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">семяры+мі</Form>
             <Form tag="PIP" type="nonstandard">семяры+ма</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">семяры+х</Form>
@@ -2166,8 +2166,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">сямідзяся+ты</Form>
             <Form tag="MGS" slouniki="prym2009">сямідзяся+тага</Form>
             <Form tag="MDS" slouniki="prym2009">сямідзяся+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">сямідзяся+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">сямідзяся+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">сямідзяся+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">сямідзяся+ты</Form>
             <Form tag="MIS" slouniki="prym2009">сямідзяся+тым</Form>
             <Form tag="MLS" slouniki="prym2009">сямідзяся+тым</Form>
             <Form tag="FNS" slouniki="prym2009">сямідзяся+тая</Form>
@@ -2185,8 +2185,8 @@
             <Form tag="PNP" slouniki="prym2009">сямідзяся+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">сямідзяся+тых</Form>
             <Form tag="PDP" slouniki="prym2009">сямідзяся+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">сямідзяся+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">сямідзяся+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">сямідзяся+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">сямідзяся+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">сямідзяся+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">сямідзяся+тых</Form>
         </Variant>
@@ -2194,8 +2194,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">сямідзеся+ты</Form>
             <Form tag="MGS">сямідзеся+тага</Form>
             <Form tag="MDS">сямідзеся+таму</Form>
-            <Form tag="MAS">сямідзеся+тага</Form>
-            <Form tag="MAS">сямідзеся+ты</Form>
+            <Form tag="MAS" options="anim">сямідзеся+тага</Form>
+            <Form tag="MAS" options="inanim">сямідзеся+ты</Form>
             <Form tag="MIS">сямідзеся+тым</Form>
             <Form tag="MLS">сямідзеся+тым</Form>
             <Form tag="FNS">сямідзеся+тая</Form>
@@ -2213,8 +2213,8 @@
             <Form tag="PNP">сямідзеся+тыя</Form>
             <Form tag="PGP">сямідзеся+тых</Form>
             <Form tag="PDP">сямідзеся+тым</Form>
-            <Form tag="PAP">сямідзеся+тых</Form>
-            <Form tag="PAP">сямідзеся+тыя</Form>
+            <Form tag="PAP" options="anim">сямідзеся+тых</Form>
+            <Form tag="PAP" options="inanim">сямідзеся+тыя</Form>
             <Form tag="PIP">сямідзеся+тымі</Form>
             <Form tag="PLP">сямідзеся+тых</Form>
         </Variant>
@@ -2224,8 +2224,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">сямісо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">сямісо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">сямісо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">сямісо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">сямісо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">сямісо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">сямісо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">сямісо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">сямісо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">сямісо+тая</Form>
@@ -2245,8 +2245,8 @@
             <Form tag="PNP" slouniki="prym2009">сямісо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">сямісо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">сямісо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">сямісо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">сямісо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">сямісо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">сямісо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">сямісо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">сямісо+тых</Form>
         </Variant>
@@ -2256,8 +2256,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">сяміты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">сяміты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">сяміты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">сяміты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">сяміты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">сяміты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">сяміты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">сяміты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">сяміты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">сяміты+сячная</Form>
@@ -2277,8 +2277,8 @@
             <Form tag="PNP" slouniki="prym2009">сяміты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">сяміты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">сяміты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">сяміты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">сяміты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">сяміты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">сяміты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">сяміты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">сяміты+сячных</Form>
         </Variant>
@@ -2288,8 +2288,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">сямна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">сямна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">сямна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">сямна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">сямна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">сямна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">сямна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">сямна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">сямна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">сямна+ццатая</Form>
@@ -2307,8 +2307,8 @@
             <Form tag="PNP" slouniki="prym2009">сямна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">сямна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">сямна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">сямна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">сямна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">сямна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">сямна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">сямна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">сямна+ццатых</Form>
         </Variant>
@@ -2316,8 +2316,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">семна+ццаты</Form>
             <Form tag="MGS">семна+ццатага</Form>
             <Form tag="MDS">семна+ццатаму</Form>
-            <Form tag="MAS">семна+ццатага</Form>
-            <Form tag="MAS">семна+ццаты</Form>
+            <Form tag="MAS" options="anim">семна+ццатага</Form>
+            <Form tag="MAS" options="inanim">семна+ццаты</Form>
             <Form tag="MIS">семна+ццатым</Form>
             <Form tag="MLS">семна+ццатым</Form>
             <Form tag="FNS">семна+ццатая</Form>
@@ -2335,8 +2335,8 @@
             <Form tag="PNP">семна+ццатыя</Form>
             <Form tag="PGP">семна+ццатых</Form>
             <Form tag="PDP">семна+ццатым</Form>
-            <Form tag="PAP">семна+ццатых</Form>
-            <Form tag="PAP">семна+ццатыя</Form>
+            <Form tag="PAP" options="anim">семна+ццатых</Form>
+            <Form tag="PAP" options="inanim">семна+ццатыя</Form>
             <Form tag="PIP">семна+ццатымі</Form>
             <Form tag="PLP">семна+ццатых</Form>
         </Variant>
@@ -2364,8 +2364,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">тро+е</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">траі+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">траі+м</Form>
-            <Form tag="PAP" slouniki="prym2009">тро+е</Form>
-            <Form tag="PAP" slouniki="prym2009">траі+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">тро+е</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">траі+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">траі+мі</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">траі+х</Form>
         </Variant>
@@ -2375,8 +2375,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">трохсо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">трохсо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">трохсо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">трохсо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">трохсо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">трохсо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">трохсо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">трохсо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">трохсо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">трохсо+тая</Form>
@@ -2396,8 +2396,8 @@
             <Form tag="PNP" slouniki="prym2009">трохсо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">трохсо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">трохсо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">трохсо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">трохсо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">трохсо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">трохсо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">трохсо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">трохсо+тых</Form>
         </Variant>
@@ -2407,8 +2407,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">трохты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">трохты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">трохты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">трохты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">трохты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">трохты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">трохты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">трохты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">трохты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">трохты+сячная</Form>
@@ -2428,8 +2428,8 @@
             <Form tag="PNP" slouniki="prym2009">трохты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">трохты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">трохты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">трохты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">трохты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">трохты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">трохты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">трохты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">трохты+сячных</Form>
         </Variant>
@@ -2439,8 +2439,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">тры+</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">тро+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">тро+м</Form>
-            <Form tag="PAP" slouniki="prym2009">тры+</Form>
-            <Form tag="PAP" slouniki="prym2009">тро+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">тры+</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">тро+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">трыма+</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">тро+х</Form>
         </Variant>
@@ -2460,8 +2460,8 @@
             <Form tag="MNS" slouniki="sbm2012,krapivabr2012">трыдзявя+ты</Form>
             <Form tag="MGS">трыдзявя+тага</Form>
             <Form tag="MDS">трыдзявя+таму</Form>
-            <Form tag="MAS">трыдзявя+тага</Form>
-            <Form tag="MAS">трыдзявя+ты</Form>
+            <Form tag="MAS" options="anim">трыдзявя+тага</Form>
+            <Form tag="MAS" options="inanim">трыдзявя+ты</Form>
             <Form tag="MIS">трыдзявя+тым</Form>
             <Form tag="MLS">трыдзявя+тым</Form>
             <Form tag="FNS">трыдзявя+тая</Form>
@@ -2479,8 +2479,8 @@
             <Form tag="PNP">трыдзявя+тыя</Form>
             <Form tag="PGP">трыдзявя+тых</Form>
             <Form tag="PDP">трыдзявя+тым</Form>
-            <Form tag="PAP">трыдзявя+тых</Form>
-            <Form tag="PAP">трыдзявя+тыя</Form>
+            <Form tag="PAP" options="anim">трыдзявя+тых</Form>
+            <Form tag="PAP" options="inanim">трыдзявя+тыя</Form>
             <Form tag="PIP">трыдзявя+тымі</Form>
             <Form tag="PLP">трыдзявя+тых</Form>
         </Variant>
@@ -2488,8 +2488,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">трыдзевя+ты</Form>
             <Form tag="MGS">трыдзевя+тага</Form>
             <Form tag="MDS">трыдзевя+таму</Form>
-            <Form tag="MAS">трыдзевя+тага</Form>
-            <Form tag="MAS">трыдзевя+ты</Form>
+            <Form tag="MAS" options="anim">трыдзевя+тага</Form>
+            <Form tag="MAS" options="inanim">трыдзевя+ты</Form>
             <Form tag="MIS">трыдзевя+тым</Form>
             <Form tag="MLS">трыдзевя+тым</Form>
             <Form tag="FNS">трыдзевя+тая</Form>
@@ -2507,8 +2507,8 @@
             <Form tag="PNP">трыдзевя+тыя</Form>
             <Form tag="PGP">трыдзевя+тых</Form>
             <Form tag="PDP">трыдзевя+тым</Form>
-            <Form tag="PAP">трыдзевя+тых</Form>
-            <Form tag="PAP">трыдзевя+тыя</Form>
+            <Form tag="PAP" options="anim">трыдзевя+тых</Form>
+            <Form tag="PAP" options="inanim">трыдзевя+тыя</Form>
             <Form tag="PIP">трыдзевя+тымі</Form>
             <Form tag="PLP">трыдзевя+тых</Form>
         </Variant>
@@ -2534,8 +2534,8 @@
             <Form tag="MNS" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012" pravapis="A2008">трыльё+нны</Form>
             <Form tag="MGS">трыльё+ннага</Form>
             <Form tag="MDS">трыльё+ннаму</Form>
-            <Form tag="MAS">трыльё+ннага</Form>
-            <Form tag="MAS">трыльё+нны</Form>
+            <Form tag="MAS" options="anim">трыльё+ннага</Form>
+            <Form tag="MAS" options="inanim">трыльё+нны</Form>
             <Form tag="MIS">трыльё+нным</Form>
             <Form tag="MLS">трыльё+нным</Form>
             <Form tag="FNS">трыльё+нная</Form>
@@ -2553,8 +2553,8 @@
             <Form tag="PNP">трыльё+нныя</Form>
             <Form tag="PGP">трыльё+нных</Form>
             <Form tag="PDP">трыльё+нным</Form>
-            <Form tag="PAP">трыльё+нных</Form>
-            <Form tag="PAP">трыльё+нныя</Form>
+            <Form tag="PAP" options="anim">трыльё+нных</Form>
+            <Form tag="PAP" options="inanim">трыльё+нныя</Form>
             <Form tag="PIP">трыльё+ннымі</Form>
             <Form tag="PLP">трыльё+нных</Form>
         </Variant>
@@ -2564,8 +2564,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">трына+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">трына+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">трына+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">трына+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">трына+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">трына+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">трына+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">трына+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">трына+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">трына+ццатая</Form>
@@ -2585,8 +2585,8 @@
             <Form tag="PNP" slouniki="prym2009">трына+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">трына+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">трына+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">трына+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">трына+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">трына+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">трына+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">трына+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">трына+ццатых</Form>
         </Variant>
@@ -2616,8 +2616,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">трыцца+ты</Form>
             <Form tag="MGS" slouniki="prym2009">трыцца+тага</Form>
             <Form tag="MDS" slouniki="prym2009">трыцца+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">трыцца+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">трыцца+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">трыцца+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">трыцца+ты</Form>
             <Form tag="MIS" slouniki="prym2009">трыцца+тым</Form>
             <Form tag="MLS" slouniki="prym2009">трыцца+тым</Form>
             <Form tag="FNS" slouniki="prym2009">трыцца+тая</Form>
@@ -2637,8 +2637,8 @@
             <Form tag="PNP" slouniki="prym2009">трыцца+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">трыцца+тых</Form>
             <Form tag="PDP" slouniki="prym2009">трыцца+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">трыцца+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">трыцца+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">трыцца+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">трыцца+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">трыцца+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">трыцца+тых</Form>
         </Variant>
@@ -2658,8 +2658,8 @@
             <Form tag="PNP">тры+-чаты+ры</Form>
             <Form tag="PGP">тро+х-чатыро+х</Form>
             <Form tag="PDP">тро+м-чатыро+м</Form>
-            <Form tag="PAP">тры+-чаты+ры</Form>
-            <Form tag="PAP">тро+х-чатыро+х</Form>
+            <Form tag="PAP" options="inanim">тры+-чаты+ры</Form>
+            <Form tag="PAP" options="anim">тро+х-чатыро+х</Form>
             <Form tag="PIP">трыма+-чатырма+</Form>
             <Form tag="PLP">тро+х-чатыро+х</Form>
             <Form tag="NNP">тры+-чаты+ры</Form>
@@ -2671,8 +2671,8 @@
             <Form tag="FNP">тры+-чаты+ры</Form>
             <Form tag="FGP">тро+х-чатыро+х</Form>
             <Form tag="FDP">тро+м-чатыро+м</Form>
-            <Form tag="FAP">тро+х-чатыро+х</Form>
-            <Form tag="FAP">тры+-чаты+ры</Form>
+            <Form tag="FAP" options="anim">тро+х-чатыро+х</Form>
+            <Form tag="FAP" options="inanim">тры+-чаты+ры</Form>
             <Form tag="FIP">трыма+-чатырма+</Form>
             <Form tag="FLP">тро+х-чатыро+х</Form>
         </Variant>
@@ -2682,8 +2682,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">трэ+ці</Form>
             <Form tag="MGS" slouniki="prym2009">трэ+цяга</Form>
             <Form tag="MDS" slouniki="prym2009">трэ+цяму</Form>
-            <Form tag="MAS" slouniki="prym2009">трэ+цяга</Form>
-            <Form tag="MAS" slouniki="prym2009">трэ+ці</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">трэ+цяга</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">трэ+ці</Form>
             <Form tag="MIS" slouniki="prym2009">трэ+цім</Form>
             <Form tag="MLS" slouniki="prym2009">трэ+цім</Form>
             <Form tag="FNS" slouniki="prym2009">трэ+цяя</Form>
@@ -2702,8 +2702,8 @@
             <Form tag="PNP" slouniki="prym2009">трэ+ція</Form>
             <Form tag="PGP" slouniki="prym2009">трэ+ціх</Form>
             <Form tag="PDP" slouniki="prym2009">трэ+цім</Form>
-            <Form tag="PAP" slouniki="prym2009">трэ+ціх</Form>
-            <Form tag="PAP" slouniki="prym2009">трэ+ція</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">трэ+ціх</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">трэ+ція</Form>
             <Form tag="PIP" slouniki="prym2009">трэ+цімі</Form>
             <Form tag="PLP" slouniki="prym2009">трэ+ціх</Form>
         </Variant>
@@ -2730,8 +2730,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">ты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">ты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">ты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">ты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">ты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">ты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">ты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">ты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">ты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">ты+сячная</Form>
@@ -2751,8 +2751,8 @@
             <Form tag="PNP" slouniki="prym2009">ты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">ты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">ты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">ты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">ты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">ты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">ты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">ты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">ты+сячных</Form>
         </Variant>
@@ -2762,8 +2762,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">чатырна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">чатырна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">чатырна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">чатырна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">чатырна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">чатырна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">чатырна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">чатырна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">чатырна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">чатырна+ццатая</Form>
@@ -2783,8 +2783,8 @@
             <Form tag="PNP" slouniki="prym2009">чатырна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">чатырна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">чатырна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">чатырна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">чатырна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">чатырна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">чатырна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">чатырна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">чатырна+ццатых</Form>
         </Variant>
@@ -2804,8 +2804,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">чатырохсо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">чатырохсо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">чатырохсо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">чатырохсо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">чатырохсо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">чатырохсо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">чатырохсо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">чатырохсо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">чатырохсо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">чатырохсо+тая</Form>
@@ -2825,8 +2825,8 @@
             <Form tag="PNP" slouniki="prym2009">чатырохсо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">чатырохсо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">чатырохсо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">чатырохсо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">чатырохсо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">чатырохсо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">чатырохсо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">чатырохсо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">чатырохсо+тых</Form>
         </Variant>
@@ -2836,8 +2836,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,sbm2012,krapivabr2012">чатырохты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">чатырохты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">чатырохты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">чатырохты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">чатырохты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">чатырохты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">чатырохты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">чатырохты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">чатырохты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">чатырохты+сячная</Form>
@@ -2857,8 +2857,8 @@
             <Form tag="PNP" slouniki="prym2009">чатырохты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">чатырохты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">чатырохты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">чатырохты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">чатырохты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">чатырохты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">чатырохты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">чатырохты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">чатырохты+сячных</Form>
         </Variant>
@@ -2868,8 +2868,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">чаты+ры</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">чатыро+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">чатыро+м</Form>
-            <Form tag="PAP" slouniki="prym2009">чаты+ры</Form>
-            <Form tag="PAP" slouniki="prym2009">чатыро+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">чаты+ры</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">чатыро+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">чатырма+</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">чатыро+х</Form>
         </Variant>
@@ -2889,8 +2889,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">чацвё+ра</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">чацвяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">чацвяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">чацвё+ра</Form>
-            <Form tag="PAP" slouniki="prym2009">чацвяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">чацвё+ра</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">чацвяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">чацвяры+мі</Form>
             <Form tag="PIP" type="nonstandard">чацвяры+ма</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">чацвяры+х</Form>
@@ -2901,8 +2901,8 @@
             <Form tag="MNS">чацве+рты</Form>
             <Form tag="MGS">чацве+ртага</Form>
             <Form tag="MDS">чацве+ртаму</Form>
-            <Form tag="MAS">чацве+ртага</Form>
-            <Form tag="MAS">чацве+рты</Form>
+            <Form tag="MAS" options="anim">чацве+ртага</Form>
+            <Form tag="MAS" options="inanim">чацве+рты</Form>
             <Form tag="MIS">чацве+ртым</Form>
             <Form tag="MLS">чацве+ртым</Form>
             <Form tag="FNS">чацве+ртая</Form>
@@ -2920,8 +2920,8 @@
             <Form tag="PNP">чацве+ртыя</Form>
             <Form tag="PGP">чацве+ртых</Form>
             <Form tag="PDP">чацве+ртым</Form>
-            <Form tag="PAP">чацве+ртых</Form>
-            <Form tag="PAP">чацве+ртыя</Form>
+            <Form tag="PAP" options="anim">чацве+ртых</Form>
+            <Form tag="PAP" options="inanim">чацве+ртыя</Form>
             <Form tag="PIP">чацве+ртымі</Form>
             <Form tag="PLP">чацве+ртых</Form>
         </Variant>
@@ -2931,8 +2931,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">чацвё+рты</Form>
             <Form tag="MGS" slouniki="prym2009">чацвё+ртага</Form>
             <Form tag="MDS" slouniki="prym2009">чацвё+ртаму</Form>
-            <Form tag="MAS" slouniki="prym2009">чацвё+ртага</Form>
-            <Form tag="MAS" slouniki="prym2009">чацвё+рты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">чацвё+ртага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">чацвё+рты</Form>
             <Form tag="MIS" slouniki="prym2009">чацвё+ртым</Form>
             <Form tag="MLS" slouniki="prym2009">чацвё+ртым</Form>
             <Form tag="FNS" slouniki="prym2009">чацвё+ртая</Form>
@@ -2952,8 +2952,8 @@
             <Form tag="PNP" slouniki="prym2009">чацвё+ртыя</Form>
             <Form tag="PGP" slouniki="prym2009">чацвё+ртых</Form>
             <Form tag="PDP" slouniki="prym2009">чацвё+ртым</Form>
-            <Form tag="PAP" slouniki="prym2009">чацвё+ртых</Form>
-            <Form tag="PAP" slouniki="prym2009">чацвё+ртыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">чацвё+ртых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">чацвё+ртыя</Form>
             <Form tag="PIP" slouniki="prym2009">чацвё+ртымі</Form>
             <Form tag="PLP" slouniki="prym2009">чацвё+ртых</Form>
         </Variant>
@@ -2963,8 +2963,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">шасна+ццаты</Form>
             <Form tag="MGS" slouniki="prym2009">шасна+ццатага</Form>
             <Form tag="MDS" slouniki="prym2009">шасна+ццатаму</Form>
-            <Form tag="MAS" slouniki="prym2009">шасна+ццатага</Form>
-            <Form tag="MAS" slouniki="prym2009">шасна+ццаты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">шасна+ццатага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">шасна+ццаты</Form>
             <Form tag="MIS" slouniki="prym2009">шасна+ццатым</Form>
             <Form tag="MLS" slouniki="prym2009">шасна+ццатым</Form>
             <Form tag="FNS" slouniki="prym2009">шасна+ццатая</Form>
@@ -2984,8 +2984,8 @@
             <Form tag="PNP" slouniki="prym2009">шасна+ццатыя</Form>
             <Form tag="PGP" slouniki="prym2009">шасна+ццатых</Form>
             <Form tag="PDP" slouniki="prym2009">шасна+ццатым</Form>
-            <Form tag="PAP" slouniki="prym2009">шасна+ццатых</Form>
-            <Form tag="PAP" slouniki="prym2009">шасна+ццатыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">шасна+ццатых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">шасна+ццатыя</Form>
             <Form tag="PIP" slouniki="prym2009">шасна+ццатымі</Form>
             <Form tag="PLP" slouniki="prym2009">шасна+ццатых</Form>
         </Variant>
@@ -3005,8 +3005,8 @@
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">шасцёра</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">шасцяры+х</Form>
             <Form tag="PDP" slouniki="prym2009,sbm2012">шасцяры+м</Form>
-            <Form tag="PAP" slouniki="prym2009">шасцёра</Form>
-            <Form tag="PAP" slouniki="prym2009">шасцяры+х</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">шасцёра</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">шасцяры+х</Form>
             <Form tag="PIP" slouniki="prym2009,sbm2012">шасцяры+мі</Form>
             <Form tag="PIP" type="nonstandard">шасцяры+ма</Form>
             <Form tag="PLP" slouniki="prym2009,sbm2012">шасцяры+х</Form>
@@ -3017,8 +3017,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,krapivabr2012">шасцідзяся+ты</Form>
             <Form tag="MGS" slouniki="prym2009">шасцідзяся+тага</Form>
             <Form tag="MDS" slouniki="prym2009">шасцідзяся+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">шасцідзяся+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">шасцідзяся+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">шасцідзяся+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">шасцідзяся+ты</Form>
             <Form tag="MIS" slouniki="prym2009">шасцідзяся+тым</Form>
             <Form tag="MLS" slouniki="prym2009">шасцідзяся+тым</Form>
             <Form tag="FNS" slouniki="prym2009">шасцідзяся+тая</Form>
@@ -3036,8 +3036,8 @@
             <Form tag="PNP" slouniki="prym2009">шасцідзяся+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">шасцідзяся+тых</Form>
             <Form tag="PDP" slouniki="prym2009">шасцідзяся+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">шасцідзяся+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">шасцідзяся+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">шасцідзяся+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">шасцідзяся+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">шасцідзяся+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">шасцідзяся+тых</Form>
         </Variant>
@@ -3045,8 +3045,8 @@
             <Form tag="MNS" slouniki="tsblm1996,tsbm1984">шасцідзеся+ты</Form>
             <Form tag="MGS">шасцідзеся+тага</Form>
             <Form tag="MDS">шасцідзеся+таму</Form>
-            <Form tag="MAS">шасцідзеся+тага</Form>
-            <Form tag="MAS">шасцідзеся+ты</Form>
+            <Form tag="MAS" options="anim">шасцідзеся+тага</Form>
+            <Form tag="MAS" options="inanim">шасцідзеся+ты</Form>
             <Form tag="MIS">шасцідзеся+тым</Form>
             <Form tag="MLS">шасцідзеся+тым</Form>
             <Form tag="FNS">шасцідзеся+тая</Form>
@@ -3064,8 +3064,8 @@
             <Form tag="PNP">шасцідзеся+тыя</Form>
             <Form tag="PGP">шасцідзеся+тых</Form>
             <Form tag="PDP">шасцідзеся+тым</Form>
-            <Form tag="PAP">шасцідзеся+тых</Form>
-            <Form tag="PAP">шасцідзеся+тыя</Form>
+            <Form tag="PAP" options="anim">шасцідзеся+тых</Form>
+            <Form tag="PAP" options="inanim">шасцідзеся+тыя</Form>
             <Form tag="PIP">шасцідзеся+тымі</Form>
             <Form tag="PLP">шасцідзеся+тых</Form>
         </Variant>
@@ -3075,8 +3075,8 @@
             <Form tag="MNS" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">шасцісо+ты</Form>
             <Form tag="MGS" slouniki="prym2009">шасцісо+тага</Form>
             <Form tag="MDS" slouniki="prym2009">шасцісо+таму</Form>
-            <Form tag="MAS" slouniki="prym2009">шасцісо+тага</Form>
-            <Form tag="MAS" slouniki="prym2009">шасцісо+ты</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">шасцісо+тага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">шасцісо+ты</Form>
             <Form tag="MIS" slouniki="prym2009">шасцісо+тым</Form>
             <Form tag="MLS" slouniki="prym2009">шасцісо+тым</Form>
             <Form tag="FNS" slouniki="prym2009">шасцісо+тая</Form>
@@ -3096,8 +3096,8 @@
             <Form tag="PNP" slouniki="prym2009">шасцісо+тыя</Form>
             <Form tag="PGP" slouniki="prym2009">шасцісо+тых</Form>
             <Form tag="PDP" slouniki="prym2009">шасцісо+тым</Form>
-            <Form tag="PAP" slouniki="prym2009">шасцісо+тых</Form>
-            <Form tag="PAP" slouniki="prym2009">шасцісо+тыя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">шасцісо+тых</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">шасцісо+тыя</Form>
             <Form tag="PIP" slouniki="prym2009">шасцісо+тымі</Form>
             <Form tag="PLP" slouniki="prym2009">шасцісо+тых</Form>
         </Variant>
@@ -3107,8 +3107,8 @@
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">шасціты+сячны</Form>
             <Form tag="MGS" slouniki="prym2009">шасціты+сячнага</Form>
             <Form tag="MDS" slouniki="prym2009">шасціты+сячнаму</Form>
-            <Form tag="MAS" slouniki="prym2009">шасціты+сячнага</Form>
-            <Form tag="MAS" slouniki="prym2009">шасціты+сячны</Form>
+            <Form tag="MAS" slouniki="prym2009" options="anim">шасціты+сячнага</Form>
+            <Form tag="MAS" slouniki="prym2009" options="inanim">шасціты+сячны</Form>
             <Form tag="MIS" slouniki="prym2009">шасціты+сячным</Form>
             <Form tag="MLS" slouniki="prym2009">шасціты+сячным</Form>
             <Form tag="FNS" slouniki="prym2009">шасціты+сячная</Form>
@@ -3128,8 +3128,8 @@
             <Form tag="PNP" slouniki="prym2009">шасціты+сячныя</Form>
             <Form tag="PGP" slouniki="prym2009">шасціты+сячных</Form>
             <Form tag="PDP" slouniki="prym2009">шасціты+сячным</Form>
-            <Form tag="PAP" slouniki="prym2009">шасціты+сячных</Form>
-            <Form tag="PAP" slouniki="prym2009">шасціты+сячныя</Form>
+            <Form tag="PAP" slouniki="prym2009" options="anim">шасціты+сячных</Form>
+            <Form tag="PAP" slouniki="prym2009" options="inanim">шасціты+сячныя</Form>
             <Form tag="PIP" slouniki="prym2009">шасціты+сячнымі</Form>
             <Form tag="PLP" slouniki="prym2009">шасціты+сячных</Form>
         </Variant>
@@ -3144,8 +3144,8 @@
             <Form tag="MNS" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012">шо+сты</Form>
             <Form tag="MGS">шо+стага</Form>
             <Form tag="MDS">шо+стаму</Form>
-            <Form tag="MAS">шо+стага</Form>
-            <Form tag="MAS">шо+сты</Form>
+            <Form tag="MAS" options="anim">шо+стага</Form>
+            <Form tag="MAS" options="inanim">шо+сты</Form>
             <Form tag="MIS">шо+стым</Form>
             <Form tag="MLS">шо+стым</Form>
             <Form tag="FNS">шо+стая</Form>
@@ -3163,8 +3163,8 @@
             <Form tag="PNP">шо+стыя</Form>
             <Form tag="PGP">шо+стых</Form>
             <Form tag="PDP">шо+стым</Form>
-            <Form tag="PAP">шо+стых</Form>
-            <Form tag="PAP">шо+стыя</Form>
+            <Form tag="PAP" options="anim">шо+стых</Form>
+            <Form tag="PAP" options="inanim">шо+стыя</Form>
             <Form tag="PIP">шо+стымі</Form>
             <Form tag="PLP">шо+стых</Form>
         </Variant>

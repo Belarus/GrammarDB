@@ -23588,6 +23588,20 @@
             <Form tag="IP" type="potential">Лё+знамі</Form>
             <Form tag="LP" type="potential">Лё+знах</Form>
         </Variant>
+        <Variant id="b" lemma="Ліё+зна" pravapis="A1957,A2008" regulation="mistake">
+            <Form tag="NS">Ліё+зна</Form>
+            <Form tag="GS">Ліё+зна</Form>
+            <Form tag="DS">Ліё+зну</Form>
+            <Form tag="AS">Ліё+зна</Form>
+            <Form tag="IS">Ліё+знам</Form>
+            <Form tag="LS">Ліё+зне</Form>
+            <Form tag="NP" type="potential">Ліё+зны</Form>
+            <Form tag="GP" type="potential">Ліё+знаў</Form>
+            <Form tag="DP" type="potential">Ліё+знам</Form>
+            <Form tag="AP" type="potential">Ліё+зны</Form>
+            <Form tag="IP" type="potential">Ліё+знамі</Form>
+            <Form tag="LP" type="potential">Ліё+знах</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1038297" lemma="Ле+йпцыг" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Ле+йпцыг" pravapis="A1957,A2008">
@@ -28011,6 +28025,15 @@
             <Form tag="IP">Мё+рамі</Form>
             <Form tag="LP">Мё+рах</Form>
         </Variant>
+        <Variant id="b" lemma="Міё+ры" pravapis="A1957,A2008" regulation="mistake">
+            <Form tag="NP">Міё+ры</Form>
+            <Form tag="GP">Міё+р</Form>
+            <Form tag="GP">Міё+раў</Form>
+            <Form tag="DP">Міё+рам</Form>
+            <Form tag="AP">Міё+ры</Form>
+            <Form tag="IP">Міё+рамі</Form>
+            <Form tag="LP">Міё+рах</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1020083" lemma="Месапата+мія" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="Месапата+мія" pravapis="A1957,A2008">
@@ -28508,7 +28531,7 @@
             <Form tag="IP" type="potential">Мі+нскамі</Form>
             <Form tag="LP" type="potential">Мі+нсках</Form>
         </Variant>
-        <Variant id="b" lemma="Ме+нск">
+        <Variant id="b" lemma="Ме+нск" pravapis="A1957,A2008" regulation="rare">
             <Form tag="NS">Ме+нск</Form>
             <Form tag="GS">Ме+нска</Form>
             <Form tag="DS">Ме+нску</Form>

@@ -21,6 +21,15 @@
             <Form tag="MIP" slouniki="prym2009,sbm2012">або+двума</Form>
             <Form tag="MLP" slouniki="prym2009,sbm2012">або+двух</Form>
         </Variant>
+        <Variant id="b" lemma="або+двы">
+            <Form tag="MNP">або+двы</Form>
+            <Form tag="MGP">або+двых</Form>
+            <Form tag="MDP">або+двым</Form>
+            <Form tag="MAP" options="inanim">або+двы</Form>
+            <Form tag="MAP" options="anim">або+двых</Form>
+            <Form tag="MIP">або+двыма</Form>
+            <Form tag="MLP">або+двых</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1312375" lemma="або+два" tag="MNKS" meaning="для ніякага роду">
         <Variant id="a" lemma="або+два" slouniki="piskunou2012:2636" pravapis="A1957,A2008">
@@ -37,10 +46,15 @@
         <Variant id="a" lemma="або+е" slouniki="piskunou2012:2640" pravapis="A1957,A2008">
             <Form tag="PNP" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">або+е</Form>
             <Form tag="PGP" slouniki="prym2009,sbm2012">абаі+х</Form>
+            <Form tag="PGP" type="nonstandard">або+іх</Form>
             <Form tag="PDP" slouniki="prym2009">абаі+м</Form>
+            <Form tag="PDP" type="nonstandard">або+ім</Form>
             <Form tag="PAP" slouniki="prym2009">абаі+х</Form>
+            <Form tag="PAP" type="nonstandard">або+іх</Form>
             <Form tag="PIP" slouniki="prym2009">абаі+мі</Form>
+            <Form tag="PIP" type="nonstandard">або+імі</Form>
             <Form tag="PLP" slouniki="prym2009">абаі+х</Form>
+            <Form tag="PLP" type="nonstandard">або+іх</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127406" lemma="адзі+н" tag="MACS">
@@ -56,11 +70,13 @@
             <Form tag="FGS" slouniki="prym2009">адно+й</Form>
             <Form tag="FGS" slouniki="prym2009">аднае+</Form>
             <Form tag="FDS" slouniki="prym2009">адно+й</Form>
+            <Form tag="FDS" type="nonstandard">аднэ+й</Form>
             <Form tag="FAS" type="nonstandard">адную</Form>
             <Form tag="FAS" slouniki="prym2009">адну+</Form>
             <Form tag="FIS" slouniki="prym2009">адно+й</Form>
             <Form tag="FIS" slouniki="prym2009">адно+ю</Form>
             <Form tag="FLS" slouniki="prym2009">адно+й</Form>
+            <Form tag="FLS" type="nonstandard">аднэ+й</Form>
             <Form tag="NNS" slouniki="prym2009">адно+е</Form>
             <Form tag="NNS" slouniki="prym2009">адно+</Form>
             <Form tag="NGS" slouniki="prym2009,sbm2012">аднаго+</Form>

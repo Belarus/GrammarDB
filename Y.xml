@@ -5,6 +5,11 @@
             <Form tag="" slouniki="sbm2012,tsblm1996,krapivabr2012,tsbm1984">а+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1314463" lemma="а-а-а-а" tag="Y">
+        <Variant id="a" lemma="а-а-а-а">
+            <Form tag="">а-а-а-а</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1311630" lemma="абада+й" tag="Y">
         <Variant id="a" lemma="абада+й" slouniki="piskunou2012:132" pravapis="A2008">
             <Form tag="">абада+й</Form>
@@ -60,6 +65,11 @@
             <Form tag="" slouniki="tsblm1996,sbm2012,krapivabr2012">ага+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1314464" lemma="аге+" tag="Y">
+        <Variant id="a" lemma="аге+">
+            <Form tag="">аге+</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1311638" lemma="аго+й" tag="Y">
         <Variant id="a" lemma="аго+й" slouniki="piskunou2012:5501" pravapis="A2008">
             <Form tag="">аго+й</Form>
@@ -90,9 +100,17 @@
             <Form tag="">ай-а+й</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1314465" lemma="ай-я+й" tag="Y">
+        <Variant id="a" lemma="ай-я+й">
+            <Form tag="">ай-я+й</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1126830" lemma="ай-яй-я+й" tag="Y" regulation="add">
         <Variant id="a" lemma="ай-яй-я+й" pravapis="A1957, A2008">
             <Form tag="">ай-яй-я+й</Form>
+        </Variant>
+        <Variant id="b" lemma="ай-я-я+й">
+            <Form tag="">ай-я-я+й</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1311642" lemma="а+ксіяс" tag="Y">
@@ -248,6 +266,9 @@
     <Paradigm pdgId="1139983" lemma="а-я-я+й" tag="Y" regulation="add">
         <Variant id="a" lemma="а-я-я+й" pravapis="A1957, A2008">
             <Form tag="">а-я-я+й</Form>
+        </Variant>
+        <Variant id="b" lemma="ая-яй" pravapis="A1957, A2008">
+            <Form tag="">ая-яй</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1210840" lemma="баба+х" tag="Y">
@@ -591,6 +612,9 @@
         </Variant>
         <Variant id="b" lemma="гайда+" slouniki="piskunou2012:40678" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,krapivabr2012">гайда+</Form>
+        </Variant>
+        <Variant id="c" lemma="айда+">
+            <Form tag="">айда+</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1311691" lemma="га+к" tag="Y">

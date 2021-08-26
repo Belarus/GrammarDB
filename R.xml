@@ -36,6 +36,9 @@
         <Variant id="a" lemma="абавязко+ва" slouniki="piskunou2012:65" pravapis="A1957,A2008">
             <Form tag="P" slouniki="prym2009,sbm2012,tsbm1984,krapivabr2012">абавязко+ва</Form>
         </Variant>
+        <Variant id="b" lemma="абавя+зкава" type="nonstandard">
+            <Form tag="P">абавя+зкава</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1045147" lemma="абагатво+рана" tag="RA">
         <Variant id="a" lemma="абагатво+рана">
@@ -330,6 +333,11 @@
     <Paradigm pdgId="1045770" lemma="абра+зліва" tag="RA">
         <Variant id="a" lemma="абра+зліва" slouniki="piskunou2012:2847" pravapis="A1957,A2008">
             <Form tag="P" slouniki="prym2009,sbm2012,krapivabr2012">абра+зліва</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1314466" lemma="абра+тна" tag="RX" regulation="limited">
+        <Variant id="a" lemma="абра+тна">
+            <Form tag="P">абра+тна</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1045792" lemma="абры+віста" tag="RA">
@@ -4765,6 +4773,7 @@
         <Variant id="a" lemma="ахво+тна" slouniki="piskunou2012:19701" pravapis="A1957,A2008">
             <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">ахво+тна</Form>
             <Form tag="C" slouniki="prym2009">ахво+тней</Form>
+            <Form tag="C" type="nonstandard">ахватне+й</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1050579" lemma="ахво+ча" tag="RA">
@@ -57709,6 +57718,11 @@
             <Form tag="P">стара+тліва</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1314468" lemma="старо+жа" tag="RX" regulation="add">
+        <Variant id="a" lemma="старо+жа" pravapis="A2008">
+            <Form tag="P">старо+жа</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1302825" lemma="старо+жка" tag="RX">
         <Variant id="a" lemma="старо+жка" slouniki="piskunou2012:182376" pravapis="A2008">
             <Form tag="P">старо+жка</Form>
@@ -57734,23 +57748,20 @@
             <Form tag="P">старчако+ва</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1139745" lemma="старчако+м" tag="RX">
-        <Variant id="a" lemma="старчако+м" slouniki="piskunou2012:182417" pravapis="A1957,A2008">
-            <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">старчако+м</Form>
-        </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1302828" lemma="старчко+м" tag="RX">
-        <Variant id="a" lemma="старчко+м" slouniki="piskunou2012:182418" pravapis="A2008">
-            <Form tag="P">старчко+м</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1139746" lemma="старчма+" tag="RX">
         <Variant id="a" lemma="старчма+" slouniki="piskunou2012:182419" pravapis="A1957,A2008">
             <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">старчма+</Form>
         </Variant>
-    </Paradigm>
-    <Paradigm pdgId="1205370" lemma="старчмака+" tag="RX">
-        <Variant id="a" lemma="старчмака+" slouniki="piskunou2012:182420" pravapis="A2008">
+        <Variant id="b" lemma="старчко+м" slouniki="piskunou2012:182418" pravapis="A2008">
+            <Form tag="P">старчко+м</Form>
+        </Variant>
+        <Variant id="c" lemma="старчако+м" slouniki="piskunou2012:182417" pravapis="A1957,A2008">
+            <Form tag="P" slouniki="prym2009,sbm2012,tsblm1996,tsbm1984,krapivabr2012">старчако+м</Form>
+        </Variant>
+        <Variant id="d" lemma="сто+рчам" pravapis="A1957,A2008" regulation="add">
+            <Form tag="P">сто+рчам</Form>
+        </Variant>
+        <Variant id="e" lemma="старчмака+" slouniki="piskunou2012:182420" pravapis="A2008">
             <Form tag="P" slouniki="tsbm1984">старчмака+</Form>
         </Variant>
     </Paradigm>
@@ -58240,6 +58251,12 @@
         <Variant id="a" lemma="субты+льна" slouniki="piskunou2012:184178" pravapis="A2008">
             <Note>Націск выстаўлены праз web/batch</Note>
             <Form tag="P">субты+льна</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1314467" lemma="сува+жна" tag="RA">
+        <Variant id="a" lemma="сува+жна" pravapis="A1957,A2008">
+            <Form tag="P">сува+жна</Form>
+            <Form tag="C">сува+жней</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1302858" lemma="сува+жна" tag="RX">

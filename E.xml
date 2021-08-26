@@ -30,6 +30,11 @@
             <Form tag="" slouniki="tsblm1996,tsbm1984,krapivabr2012">адно+</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1314460" lemma="ады+ж" tag="E">
+        <Variant id="a" lemma="ады+ж">
+            <Form tag="">ады+ж</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1000011" lemma="а+ж" tag="E">
         <Variant id="a" lemma="а+ж" pravapis="A2008">
             <Form tag="" slouniki="sbm2012,tsblm1996,tsbm1984,krapivabr2012">а+ж</Form>
@@ -38,6 +43,12 @@
     <Paradigm pdgId="1000012" lemma="ажно+" tag="E">
         <Variant id="a" lemma="ажно+" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">ажно+</Form>
+        </Variant>
+        <Variant id="b" lemma="анно+">
+            <Form tag="">анно+</Form>
+        </Variant>
+        <Variant id="c" lemma="а+жна">
+            <Form tag="">а+жна</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1000013" lemma="акура+т" tag="E">
@@ -61,6 +72,9 @@
         </Variant>
         <Variant id="b" lemma="а+ман" pravapis="A1957,A2008">
             <Form tag="" slouniki="tsbm1984">а+ман</Form>
+        </Variant>
+        <Variant id="c" lemma="амі+нь" type="nonstandard">
+            <Form tag="">амі+нь</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1230102" lemma="анё+ж" tag="E">
@@ -101,6 +115,17 @@
     <Paradigm pdgId="1230107" lemma="аня+ж" tag="E">
         <Variant id="a" lemma="аня+ж" slouniki="piskunou2012:14616" pravapis="A2008">
             <Form tag="">аня+ж</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1314459" lemma="асё+ж" tag="E">
+        <Variant id="a" lemma="асё+ж">
+            <Form tag="">асё+ж</Form>
+        </Variant>
+        <Variant id="b" lemma="асё+ ж">
+            <Form tag="">асё+ ж</Form>
+        </Variant>
+        <Variant id="c" lemma="а сё+ ж">
+            <Form tag="">а сё+ ж</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1230108" lemma="ато+" tag="E">

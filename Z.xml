@@ -4,6 +4,12 @@
         <Variant id="a" lemma="адна+к" pravapis="A1957,A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,sbm2012,krapivabr2012">адна+к</Form>
         </Variant>
+        <Variant id="b" lemma="адна+ка">
+            <Form tag="">адна+ка</Form>
+        </Variant>
+        <Variant id="c" lemma="адна+ча" regulation="add">
+            <Form tag="">адна+ча</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1159713" lemma="віда+ць" tag="Z">
         <Variant id="a" lemma="віда+ць" pravapis="A1957,A2008">

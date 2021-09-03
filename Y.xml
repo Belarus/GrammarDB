@@ -212,6 +212,9 @@
         <Variant id="a" lemma="а+х" slouniki="piskunou2012:19616" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,tsbm1984,krapivabr2012">а+х</Form>
         </Variant>
+        <Variant id="b" lemma="а-а+х">
+            <Form tag="">а-а+х</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1311651" lemma="а+ці" tag="Y">
         <Variant id="a" lemma="а+ці" slouniki="piskunou2012:19925" pravapis="A2008">
@@ -256,6 +259,9 @@
     <Paradigm pdgId="1311657" lemma="ая+й" tag="Y">
         <Variant id="a" lemma="ая+й" slouniki="piskunou2012:20707" pravapis="A2008">
             <Form tag="">ая+й</Form>
+        </Variant>
+        <Variant id="b" lemma="а-яй">
+            <Form tag="">а-яй</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1311658" lemma="а-яй-я+й" tag="Y">
@@ -2388,6 +2394,9 @@
     <Paradigm pdgId="1210938" lemma="хм" tag="Y">
         <Variant id="a" lemma="хм" slouniki="piskunou2012:205283" pravapis="A1957,A2008">
             <Form tag="" slouniki="krapivabr2012,tsbm1984">хм</Form>
+        </Variant>
+        <Variant id="b" lemma="а-хм">
+            <Form tag="">а-хм</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1210939" lemma="хны+" tag="Y">

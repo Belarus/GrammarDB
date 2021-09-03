@@ -1096,8 +1096,6 @@ public class CheckGrammarDB {
         case 'M':
             tag = "R3P";
             break;
-        case 'X':
-            return;
         default:
             throw new KnownError("5_sprazenni", "Невядомае трыванне");
         }
@@ -1105,24 +1103,28 @@ public class CheckGrammarDB {
         if (v.getForm().isEmpty()) {
             return;
         }
-        Form r3p = getForm(v, tag);
-        if (r3p == null && !needSkip("exFormsCount", p, v)) {
-            throw new KnownError("5_sprazenni", "Няма " + tag);
-        }
-        if (r3p != null) {
-            char sp = BelarusianTags.getInstance().getValueOfGroup(vTag, "Спражэнне");
-            char spp;
-            String w = StressUtils.unstress(r3p.getValue());
-            if (!w.isEmpty()) {
-                if (w.endsWith("уць") || w.endsWith("юць") || w.endsWith("уцца") || w.endsWith("юцца")) {
-                    spp = '1';
-                } else if (w.endsWith("аць") || w.endsWith("яць") || w.endsWith("ацца") || w.endsWith("яцца")) {
-                    spp = '2';
-                } else {
-                    throw new KnownError("5_sprazenni", "Незразумелае спражэньне па канчатку " + r3p.getValue());
-                }
-                if (sp != 'X' && sp != '3' && sp != spp) {
-                    throw new KnownError("5_sprazenni", "Спражэньне няправільна пазначана");
+
+        if (!v.getForm().isEmpty()) {
+            // толькі для разгорнутых
+            Form r3p = getForm(v, tag);
+            if (r3p == null && !needSkip("exFormsCount", p, v)) {
+                throw new KnownError("5_sprazenni", "Няма " + tag);
+            }
+            if (r3p != null) {
+                char sp = BelarusianTags.getInstance().getValueOfGroup(vTag, "Спражэнне");
+                char spp;
+                String w = StressUtils.unstress(r3p.getValue());
+                if (!w.isEmpty()) {
+                    if (w.endsWith("уць") || w.endsWith("юць") || w.endsWith("уцца") || w.endsWith("юцца")) {
+                        spp = '1';
+                    } else if (w.endsWith("аць") || w.endsWith("яць") || w.endsWith("ацца") || w.endsWith("яцца")) {
+                        spp = '2';
+                    } else {
+                        throw new KnownError("5_sprazenni", "Незразумелае спражэньне па канчатку " + r3p.getValue());
+                    }
+                    if (sp != '3' && sp != spp) {
+                        throw new KnownError("5_sprazenni", "Спражэньне няправільна пазначана");
+                    }
                 }
             }
         }

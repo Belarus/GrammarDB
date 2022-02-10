@@ -76,8 +76,12 @@
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1126912" lemma="але+" tag="CKX">
+        <Note>Злучнік але прымыкае да наступнага слова і таму часта без самастойнага націску (чаму і можа здавацца, быццам ён на 1-м складзе). Сьцьвярджальная часьцінка але́ — з выразным націскам на другі склад.</Note>
         <Variant id="a" lemma="але+" pravapis="A1957, A2008">
             <Form tag="" slouniki="tsblm1996,krapivabr2012">але+</Form>
+        </Variant>
+        <Variant id="b" lemma="а+ле" pravapis="A1957, A2008">
+            <Form tag="">а+ле</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1126913" lemma="альбо+" tag="CKX">

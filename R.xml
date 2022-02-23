@@ -5087,11 +5087,6 @@
             <Form tag="P">багабо+йна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1300093" lemma="багабо+язна" tag="RX">
-        <Variant id="a" lemma="багабо+язна" slouniki="piskunou2012:20908" pravapis="A2008">
-            <Form tag="P">багабо+язна</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1300094" lemma="багаве+йна" tag="RX">
         <Variant id="a" lemma="багаве+йна" slouniki="piskunou2012:20913" pravapis="A2008">
             <Form tag="P">багаве+йна</Form>
@@ -7743,6 +7738,9 @@
     <Paradigm pdgId="1052911" lemma="богабая+зна" tag="RA">
         <Variant id="a" lemma="богабая+зна" slouniki="piskunou2012:25739" pravapis="A2008">
             <Form tag="P">богабая+зна</Form>
+        </Variant>
+        <Variant id="b" lemma="багабо+язна" slouniki="piskunou2012:20908" pravapis="A2008">
+            <Form tag="P">багабо+язна</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1052915" lemma="богавыратава+льна" tag="RA" regulation="add">

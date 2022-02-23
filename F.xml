@@ -125,7 +125,12 @@
             <Form tag="" slouniki="tsbm1984">аргана...</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1312398" lemma="арт..." tag="FF">
+    <Paradigm pdgId="1314493" lemma="арт..." tag="FF" regulation="add" meaning="да арт">
+        <Variant id="a" lemma="арт..." pravapis="A1957,A2008">
+            <Form tag="">арт...</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1312398" lemma="арт..." tag="FF" meaning="да артылерыйскі">
         <Variant id="a" lemma="арт..." pravapis="A1957,A2008">
             <Form tag="" slouniki="tsbm1984">арт...</Form>
         </Variant>

@@ -10,6 +10,15 @@
             <Form tag="FIP" slouniki="prym2009">абе+дзвюма</Form>
             <Form tag="FLP" slouniki="prym2009">абе+дзвюх</Form>
         </Variant>
+        <Variant id="b" lemma="абе+дзві" type="nonstandard">
+            <Form tag="FNP">абе+дзві</Form>
+            <Form tag="FGP">абе+дзвюх</Form>
+            <Form tag="FDP">абе+дзвюм</Form>
+            <Form tag="FAP" options="inanim">абе+дзві</Form>
+            <Form tag="FAP" options="anim">абе+дзвюх</Form>
+            <Form tag="FIP">абе+дзвюма</Form>
+            <Form tag="FLP">абе+дзвюх</Form>
+        </Variant>
     </Paradigm>
     <Paradigm pdgId="1127404" lemma="або+два" tag="MNKS" meaning="для мужчынскага роду">
         <Variant id="a" lemma="або+два" slouniki="piskunou2012:2636" pravapis="A1957,A2008">

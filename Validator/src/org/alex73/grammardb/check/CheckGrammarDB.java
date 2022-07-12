@@ -51,6 +51,7 @@ import org.alex73.corpus.paradigm.VariantType;
 import org.alex73.korpus.base.GrammarDB2;
 import org.alex73.korpus.base.GrammarDBSaver;
 import org.alex73.korpus.belarusian.BelarusianTags;
+import org.alex73.korpus.belarusian.BelarusianWordNormalizer;
 import org.alex73.korpus.utils.SetUtils;
 import org.alex73.korpus.utils.StressUtils;
 
@@ -63,7 +64,7 @@ import org.alex73.korpus.utils.StressUtils;
  * exLemma1Form: Лема ў варыянце несупадае з першай стандартнай формай
  * exFormsCount: Нестандартная колькасць формаў
  * exFormsCountGS: Нестандартная колькасць формаў GS
- * exFormsCountIS
+ * exFormsCountIS: Нестандартная колькасць формаў IS
  * exFormsCountLS: Нестандартная колькасць формаў LS
  * exFormsCountGPAP: Нестандартная колькасць формаў GP і AP
  * exFormsCountGP: Нестандартная колькасць формаў GP
@@ -460,7 +461,7 @@ public class CheckGrammarDB {
         boolean vydalicDouhi = false;
         boolean asnounyKarotki = false;
         String base,end0;
-        String le=lemma.replace("+", "");
+        String le=lemma.replace(""+BelarusianWordNormalizer.pravilny_nacisk, "");
         if (HALOSNYJA.indexOf(le.charAt(le.length()-1))>=0) {
             base=le.substring(0,le.length()-1);
             end0=le.substring(le.length()-1);
@@ -472,7 +473,7 @@ public class CheckGrammarDB {
         char b0 = 0, b1 = 0, e0 = 0;
         for (int i = base.length() - 1; i >= 0; i--) {
             char c = Character.toLowerCase(base.charAt(i));
-            if (c == '+') {
+            if (c == BelarusianWordNormalizer.pravilny_nacisk) {
                 continue;
             }
             if (b0 == 0) {
@@ -496,7 +497,7 @@ public class CheckGrammarDB {
 
         // 167.1а аснова якіх заканчваецца збегам зычных
         // 167.3а аснова заканчваецца збегам зд, сц, шч
-        if (b0 == '\'' || "ёеяію".indexOf(e0) >= 0) {
+        if (b0 == BelarusianWordNormalizer.pravilny_apostraf || "ёеяію".indexOf(e0) >= 0) {
             // аснова канчаецца на zz ці ьz, апостраф
             // ці канчатак назоўнага склону пачынаецца j
             vydalicKarotki = true;
@@ -998,8 +999,8 @@ public class CheckGrammarDB {
         }
     }
 
-    static final String letters = "ёйцукенгшўзх'фывапролджэячсмітьбюЁЙЦУКЕНГШЎЗХФЫВАПРОЛДЖЭЯЧСМІТЬБЮ-"
-            + StressUtils.STRESS_CHAR;
+    static final String letters = "ёйцукенгшўзхфывапролджэячсмітьбюЁЙЦУКЕНГШЎЗХФЫВАПРОЛДЖЭЯЧСМІТЬБЮ-" + BelarusianWordNormalizer.pravilny_nacisk
+            + BelarusianWordNormalizer.pravilny_apostraf;
     static final String lettersK = letters+"()";
     static final String letters_valid_yet = " .,";
     static final String galosnyja = "ёуеыаоэяіюЁУЕЫАОЭЯІЮ";
@@ -1058,7 +1059,7 @@ public class CheckGrammarDB {
      */
     void checkV4(Paradigm p, Variant v) {
         String vTag = SetUtils.tag(p, v);
-        if (vTag.charAt(1) == '+') {
+        if (vTag.charAt(1) == BelarusianWordNormalizer.pravilny_nacisk) {
             return;
         }
         char zv = BelarusianTags.getInstance().getValueOfGroup(vTag, "Зваротнасць");
@@ -1081,10 +1082,10 @@ public class CheckGrammarDB {
      */
     void checkV5(Paradigm p, Variant v) {
         String vTag = SetUtils.tag(p, v);
-        if (vTag.charAt(1) == '+') {
+        if (vTag.charAt(1) == BelarusianWordNormalizer.pravilny_nacisk) {
             return;
         }
-        if (p.getLemma().equals("бы+ць") || p.getLemma().equals("е+сці")) {
+        if (p.getLemma().equals("бы\u0301ць") || p.getLemma().equals("е\u0301сці")) {
             return;
         }
         
@@ -1137,7 +1138,7 @@ public class CheckGrammarDB {
      */
     void checkV67(Paradigm p, Variant v) {
         String vTag = SetUtils.tag(p, v);
-        if (vTag.charAt(1) == '+') {
+        if (vTag.charAt(1) == BelarusianWordNormalizer.pravilny_nacisk) {
             return;
         }
         char tr = BelarusianTags.getInstance().getValueOfGroup(vTag, "Трыванне");

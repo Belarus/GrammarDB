@@ -212,7 +212,7 @@ public class CheckGrammarDB {
             return;
         }
         if (v.getForm().isEmpty()) {
-            return;
+            throw new KnownError("7_niama_formau", "Няма формаў");
         }
         if (v.getType()==VariantType.NONSTANDARD) {
             return;

@@ -135,6 +135,9 @@ public class CheckGrammarDB {
                                 checkNEqualForms(p,v);
                                 checkNasabovyja(p,v);
                             }
+                            for (Form f : v.getForm()) {
+                                checkForm1(f);
+                            }
                         }
                     } catch (KnownError ex) {
                         to_pamylki(p, ex);
@@ -1296,6 +1299,32 @@ public class CheckGrammarDB {
         return null;
     }
 
+    static final Pattern RE_FORM_1 = Pattern.compile("[ржш][еіяюёь]");
+    static final Pattern RE_FORM_2 = Pattern.compile("[йцкнгшўзх'фвпрлджчсмтьб]ў");
+
+    /**
+     * Правяраем спалучэнні літар.
+     */
+    void checkForm1(Form f) {
+        if (f.getValue().isEmpty()) {
+            return;
+        }
+        String w = StressUtils.unstress(f.getValue());
+
+        if (RE_FORM_1.matcher(w).find())
+            throw new KnownError("1_litary", "Няправільная камбінацыя літар " + RE_FORM_1 + " у форме: '" + w + "'");
+
+        if (RE_FORM_2.matcher(w).find())
+            throw new KnownError("1_litary", "Няправільная камбінацыя літар " + RE_FORM_2 + " у форме: '" + w + "'");
+
+        if ("ыьў'+-, ".indexOf(w.charAt(0)) >= 0)
+            throw new KnownError("1_litary", "Няправільная першая літара: '" + w + "'");
+
+        if (w.matches("[бпм]ь"))
+            throw new KnownError("1_litary", "Няправільныя апошнія літары: '" + w + "'");
+    }
+
+    @SuppressWarnings("serial")
     static class KnownError extends RuntimeException {
         final String fileprefix, text;
         public KnownError(String fileprefix, String text) {

@@ -71,6 +71,7 @@ import org.alex73.korpus.utils.StressUtils;
  * exFormsCountIP: Нестандартная колькасць формаў IP
  * exFormsEquals: Непадобныя формы
  * exFormLSEnd: LS канчаецца на зычны
+ * exCheckLetters: Памылковыя злучэнні літар, накшталт гіпе[рі]нфляцыя
  */
 public class CheckGrammarDB {
 
@@ -135,8 +136,10 @@ public class CheckGrammarDB {
                                 checkNEqualForms(p,v);
                                 checkNasabovyja(p,v);
                             }
-                            for (Form f : v.getForm()) {
-                                checkForm1(f);
+                            if (!needSkip("exCheckLetters", p, v)) {
+                                for (Form f : v.getForm()) {
+                                    checkForm1(f);
+                                }
                             }
                         }
                     } catch (KnownError ex) {

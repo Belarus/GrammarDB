@@ -7,8 +7,8 @@ import java.io.StringWriter;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-import org.alex73.korpus.base.GrammarDB2;
-import org.alex73.korpus.base.GrammarDBSaver;
+import org.alex73.grammardb.GrammarDB2;
+import org.alex73.grammardb.GrammarDBSaver;
 
 import ui.Exec;
 import ui.UI;
@@ -47,7 +47,7 @@ public class DbUtilUI {
     static String backup() throws Exception {
         String d = "bak/" + new SimpleDateFormat("yyyyMMdd-HHmmss").format(new Date());
         new File(d).mkdirs();
-        for (File f : new File(".").listFiles()) {
+        for (File f : new File("data/").listFiles()) {
             if (f.getName().endsWith(".xml")) {
                 if (!f.renameTo(new File(d,f.getName()))) {
                     throw new Exception("Памылка пераносу " + f);
@@ -60,9 +60,9 @@ public class DbUtilUI {
     protected static Exec CHECK = new Exec() {
         public void execute() throws Exception {
             try {
-                new CheckGrammarDB().validateXMLs(".");
+                new CheckGrammarDB().validateXMLs("data/");
                 String dir = backup();
-                new CheckGrammarDB().check(dir);
+                new CheckGrammarDB().check(dir, "data/");
                 System.out.println("Зроблена");
             } catch (Throwable ex) {
                 StringWriter s = new StringWriter();
@@ -75,12 +75,12 @@ public class DbUtilUI {
         public void execute() throws Exception {
             System.out.println("Чытаем граматычную базу...");
             try {
-                new CheckGrammarDB().validateXMLs(".");
+                new CheckGrammarDB().validateXMLs("data/");
                 String dir = backup();
                 GrammarDB2 db = GrammarDB2.initializeFromDir(dir);
                 new CheckGrammarDB().removeErrors(db);
                 System.out.println("Запісваем граматычную базу...");
-                GrammarDBSaver.sortAndStore(db, ".");
+                GrammarDBSaver.sortAndStore(db, "data/");
             } catch (Throwable ex) {
                 StringWriter s = new StringWriter();
                 ex.printStackTrace(new PrintWriter(s));
@@ -91,7 +91,7 @@ public class DbUtilUI {
     protected static Exec MAKE_CACHE = new Exec() {
         public void execute() throws Exception {
             System.out.println("Чытаем граматычную базу...");
-            GrammarDB2 db = GrammarDB2.initializeFromDir(".");
+            GrammarDB2 db = GrammarDB2.initializeFromDir("data/");
             System.out.println("Запісваем кэш...");
             db.makeCache(".");
             System.out.println("Зроблена");

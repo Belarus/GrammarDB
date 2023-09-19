@@ -43,17 +43,16 @@ import javax.xml.validation.Schema;
 import javax.xml.validation.SchemaFactory;
 import javax.xml.validation.Validator;
 
-import org.alex73.corpus.paradigm.Form;
-import org.alex73.corpus.paradigm.FormType;
-import org.alex73.corpus.paradigm.Paradigm;
-import org.alex73.corpus.paradigm.Variant;
-import org.alex73.corpus.paradigm.VariantType;
-import org.alex73.korpus.base.GrammarDB2;
-import org.alex73.korpus.base.GrammarDBSaver;
-import org.alex73.korpus.belarusian.BelarusianTags;
-import org.alex73.korpus.belarusian.BelarusianWordNormalizer;
-import org.alex73.korpus.utils.SetUtils;
-import org.alex73.korpus.utils.StressUtils;
+import org.alex73.grammardb.GrammarDB2;
+import org.alex73.grammardb.GrammarDBSaver;
+import org.alex73.grammardb.SetUtils;
+import org.alex73.grammardb.StressUtils;
+import org.alex73.grammardb.structures.Form;
+import org.alex73.grammardb.structures.FormType;
+import org.alex73.grammardb.structures.Paradigm;
+import org.alex73.grammardb.structures.Variant;
+import org.alex73.grammardb.structures.VariantType;
+import org.alex73.grammardb.tags.BelarusianTags;
 
 /**
  * Правярае граматычную базу, і запісвае вынікі ў каталёг vyniki/.
@@ -78,7 +77,9 @@ public class CheckGrammarDB {
      Map<String, List<Paradigm>> paradigmsByErrors = new TreeMap<>();
      GrammarDB2 gr;
 
-     public void check(String dir) throws Exception {
+     BelarusianTags belarusianTags = new BelarusianTags();
+
+     public void check(String dir, String outDir) throws Exception {
          paradigmsByErrors.clear();
 
             System.out.println("Чытаем файлы...");
@@ -149,7 +150,7 @@ public class CheckGrammarDB {
 
             System.out.println("Захоўваем вынікі");
 
-            GrammarDBSaver.sortAndStore(gr, ".");
+            GrammarDBSaver.sortAndStore(gr, outDir);
             for (Map.Entry<String, List<Paradigm>> en : paradigmsByErrors.entrySet()) {
                 GrammarDBSaver.sortList(en.getValue());
                 GrammarDBSaver.store(en.getValue(), new File(en.getKey()));
@@ -229,15 +230,15 @@ public class CheckGrammarDB {
             c = c == null ? 1 : c.intValue() + 1;
             formsCount.put(f.getTag(), c);
         });
-        char adu = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Адушаўлёнасць");
-        char rod = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Род");
-        char subst = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Субстантываванасць");
-        char sklan = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Скланенне");
+        char adu = belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Адушаўлёнасць");
+        char rod = belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Род");
+        char subst = belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Субстантываванасць");
+        char sklan = belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Скланенне");
         boolean hasStandardS = v.getForm().stream().anyMatch(f -> f.getType() == null
-                && BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v, f), "Лік") == 'S');
+                && belarusianTags.getValueOfGroup(SetUtils.tag(p, v, f), "Лік") == 'S');
         boolean hasStandardP = v.getForm().stream().anyMatch(f -> f.getType() == null
-                && BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v, f), "Лік") == 'P');
-        boolean isMnoznalikavy = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v),
+                && belarusianTags.getValueOfGroup(SetUtils.tag(p, v, f), "Лік") == 'P');
+        boolean isMnoznalikavy = belarusianTags.getValueOfGroup(SetUtils.tag(p, v),
                 "Множналікавыя") == 'P' || subst == 'U';
         if (isMnoznalikavy && hasStandardS) {
             throw new KnownError("7_kolkasc_formau_0MN", "Множналікавыя - не мусіць быць адзіночнага ліку");
@@ -254,7 +255,7 @@ public class CheckGrammarDB {
             return;
         }
         // TODO уласныя - пакуль не правяраць колькасць
-        if (BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Уласнасць") == 'P') {
+        if (belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Уласнасць") == 'P') {
             return;
         }
 
@@ -467,7 +468,7 @@ public class CheckGrammarDB {
         boolean vydalicDouhi = false;
         boolean asnounyKarotki = false;
         String base,end0;
-        String le=lemma.replace(""+BelarusianWordNormalizer.pravilny_nacisk, "");
+        String le=lemma.replace(""+GrammarDB2.pravilny_nacisk, "");
         if (HALOSNYJA.indexOf(le.charAt(le.length()-1))>=0) {
             base=le.substring(0,le.length()-1);
             end0=le.substring(le.length()-1);
@@ -479,7 +480,7 @@ public class CheckGrammarDB {
         char b0 = 0, b1 = 0, e0 = 0;
         for (int i = base.length() - 1; i >= 0; i--) {
             char c = Character.toLowerCase(base.charAt(i));
-            if (c == BelarusianWordNormalizer.pravilny_nacisk) {
+            if (c == GrammarDB2.pravilny_nacisk) {
                 continue;
             }
             if (b0 == 0) {
@@ -503,7 +504,7 @@ public class CheckGrammarDB {
 
         // 167.1а аснова якіх заканчваецца збегам зычных
         // 167.3а аснова заканчваецца збегам зд, сц, шч
-        if (b0 == BelarusianWordNormalizer.pravilny_apostraf || "ёеяію".indexOf(e0) >= 0) {
+        if (b0 == GrammarDB2.pravilny_apostraf || "ёеяію".indexOf(e0) >= 0) {
             // аснова канчаецца на zz ці ьz, апостраф
             // ці канчатак назоўнага склону пачынаецца j
             vydalicKarotki = true;
@@ -576,16 +577,16 @@ public class CheckGrammarDB {
             return;
         }
         String tag = SetUtils.tag(p, v);
-            char adu = BelarusianTags.getInstance().getValueOfGroup(tag, "Адушаўлёнасць");
+            char adu = belarusianTags.getValueOfGroup(tag, "Адушаўлёнасць");
             char rod;
-            if (BelarusianTags.getInstance().getValueOfGroup(tag, "Субстантываванасць") !=0) {
-                rod = BelarusianTags.getInstance().getValueOfGroup(tag, "Субстантываванасць");
-            } else if (BelarusianTags.getInstance().getValueOfGroup(tag, "Множналікавыя") == 'P') {
+            if (belarusianTags.getValueOfGroup(tag, "Субстантываванасць") !=0) {
+                rod = belarusianTags.getValueOfGroup(tag, "Субстантываванасць");
+            } else if (belarusianTags.getValueOfGroup(tag, "Множналікавыя") == 'P') {
                 rod = 'P';
             } else {
-                rod = BelarusianTags.getInstance().getValueOfGroup(tag, "Род");
+                rod = belarusianTags.getValueOfGroup(tag, "Род");
             }
-            char sklan = BelarusianTags.getInstance().getValueOfGroup(tag, "Скланенне");
+            char sklan = belarusianTags.getValueOfGroup(tag, "Скланенне");
             String type ="" + adu + rod + sklan; 
             switch (type) {
             case "AM1":
@@ -760,10 +761,10 @@ public class CheckGrammarDB {
         if (vTag.startsWith("NP")) {
             return; // асабовыя не правяраем
         }
-        if (BelarusianTags.getInstance().getValueOfGroup(vTag, "Скланенне") == '0') {
+        if (belarusianTags.getValueOfGroup(vTag, "Скланенне") == '0') {
             return; // нескланяльныя не правяраем
         }
-        char asabovasc = BelarusianTags.getInstance().getValueOfGroup(vTag, "Асабовасць");
+        char asabovasc = belarusianTags.getValueOfGroup(vTag, "Асабовасць");
         for (Form f : va.getForm()) {
             if (!f.getTag().equals("LS")) {
                 continue;
@@ -925,7 +926,7 @@ public class CheckGrammarDB {
 //            return;
 //        }
         String tag = SetUtils.tag(p, v);
-        String l = BelarusianTags.getInstance().getValueOfGroup(tag, "Часціна мовы") == 'K' ? lettersK : letters;
+        String l = belarusianTags.getValueOfGroup(tag, "Часціна мовы") == 'K' ? lettersK : letters;
         if (isWordValid(p.getLemma(), l) != null) {
             throw new KnownError("2_niapravilnyja_symbali",
                     "Няправільныя сімвалы ў леме: " + isWordValid(p.getLemma(), l));
@@ -941,7 +942,7 @@ public class CheckGrammarDB {
     Set<Integer> SKIP_KCAST = new TreeSet<>();//Arrays.asList(1193270, 1133782, 1182759, 1182760, 1143892));
 
     void check3(Paradigm p, Variant v) {
-        char cascinaMovy = BelarusianTags.getInstance().getValueOfGroup(SetUtils.tag(p, v), "Часціна мовы");
+        char cascinaMovy = belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Часціна мовы");
 
         // cascinaMovy != 'R' &&
         if (!SKIP_KCAST.contains(p.getPdgId())) {
@@ -993,20 +994,20 @@ public class CheckGrammarDB {
     void checkTags(Paradigm p) {
         for (Variant v : p.getVariant()) {
             String tag = SetUtils.tag(p, v);
-            if (!BelarusianTags.getInstance().isValidParadigmTag(tag, null)) {
+            if (!belarusianTags.isValidParadigmTag(tag, null)) {
                 throw new KnownError("1_tag", "Няправільны тэг варыянта: " + tag);
             }
             for(Form f:v.getForm()) {
                 tag = SetUtils.tag(p, v,f);
-                if (!BelarusianTags.getInstance().isValidFormTag(tag, null)) {
+                if (!belarusianTags.isValidFormTag(tag, null)) {
                     throw new KnownError("1_tag", "Няправільны тэг формы: " + tag);
                 }
             }
         }
     }
 
-    static final String letters = "ёйцукенгшўзхфывапролджэячсмітьбюЁЙЦУКЕНГШЎЗХФЫВАПРОЛДЖЭЯЧСМІТЬБЮ-" + BelarusianWordNormalizer.pravilny_nacisk
-            + BelarusianWordNormalizer.pravilny_apostraf;
+    static final String letters = "ёйцукенгшўзхфывапролджэячсмітьбюЁЙЦУКЕНГШЎЗХФЫВАПРОЛДЖЭЯЧСМІТЬБЮ-" + GrammarDB2.pravilny_nacisk
+            + GrammarDB2.pravilny_apostraf;
     static final String lettersK = letters+"()";
     static final String letters_valid_yet = " .,";
     static final String galosnyja = "ёуеыаоэяіюЁУЕЫАОЭЯІЮ";
@@ -1065,10 +1066,10 @@ public class CheckGrammarDB {
      */
     void checkV4(Paradigm p, Variant v) {
         String vTag = SetUtils.tag(p, v);
-        if (vTag.charAt(1) == BelarusianWordNormalizer.pravilny_nacisk) {
+        if (vTag.charAt(1) == GrammarDB2.pravilny_nacisk) {
             return;
         }
-        char zv = BelarusianTags.getInstance().getValueOfGroup(vTag, "Зваротнасць");
+        char zv = belarusianTags.getValueOfGroup(vTag, "Зваротнасць");
         char zvp;
         String lemma = StressUtils.unstress(p.getLemma());
         if (lemma.endsWith("ся") || lemma.endsWith("цца")) {
@@ -1088,7 +1089,7 @@ public class CheckGrammarDB {
      */
     void checkV5(Paradigm p, Variant v) {
         String vTag = SetUtils.tag(p, v);
-        if (vTag.charAt(1) == BelarusianWordNormalizer.pravilny_nacisk) {
+        if (vTag.charAt(1) == GrammarDB2.pravilny_nacisk) {
             return;
         }
         if (p.getLemma().equals("бы\u0301ць") || p.getLemma().equals("е\u0301сці")) {
@@ -1096,7 +1097,7 @@ public class CheckGrammarDB {
         }
         
         String tag;
-        switch (BelarusianTags.getInstance().getValueOfGroup(vTag, "Трыванне")) {
+        switch (belarusianTags.getValueOfGroup(vTag, "Трыванне")) {
         case 'P':
             tag = "F3P";
             break;
@@ -1118,7 +1119,7 @@ public class CheckGrammarDB {
                 throw new KnownError("5_sprazenni", "Няма " + tag);
             }
             if (r3p != null) {
-                char sp = BelarusianTags.getInstance().getValueOfGroup(vTag, "Спражэнне");
+                char sp = belarusianTags.getValueOfGroup(vTag, "Спражэнне");
                 char spp;
                 String w = StressUtils.unstress(r3p.getValue());
                 if (!w.isEmpty()) {
@@ -1144,10 +1145,10 @@ public class CheckGrammarDB {
      */
     void checkV67(Paradigm p, Variant v) {
         String vTag = SetUtils.tag(p, v);
-        if (vTag.charAt(1) == BelarusianWordNormalizer.pravilny_nacisk) {
+        if (vTag.charAt(1) == GrammarDB2.pravilny_nacisk) {
             return;
         }
-        char tr = BelarusianTags.getInstance().getValueOfGroup(vTag, "Трыванне");
+        char tr = belarusianTags.getValueOfGroup(vTag, "Трыванне");
         switch (tr) {
         case 'M':
                 if (v.getForm().isEmpty()) {
@@ -1194,7 +1195,7 @@ public class CheckGrammarDB {
      */
     void checkV8(Paradigm p, Variant v) {
         String tag = SetUtils.tag(p, v);
-        char tr = BelarusianTags.getInstance().getValueOfGroup(tag, "Трыванне");
+        char tr = belarusianTags.getValueOfGroup(tag, "Трыванне");
         String[] formTags;
         switch (tr) {
         case 'M':
@@ -1237,8 +1238,8 @@ public class CheckGrammarDB {
      */
     void check9(Paradigm p, Variant v) {
         String tag = SetUtils.tag(p, v);
-        char cascinaMovy = BelarusianTags.getInstance().getValueOfGroup(tag, "Часціна мовы");
-        char subst = BelarusianTags.getInstance().getValueOfGroup(tag, "Субстантываванасць");
+        char cascinaMovy = belarusianTags.getValueOfGroup(tag, "Часціна мовы");
+        char subst = belarusianTags.getValueOfGroup(tag, "Субстантываванасць");
         if (cascinaMovy == 'N' && subst != 0) {
             check9do(p, v);
         }

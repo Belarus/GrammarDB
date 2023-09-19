@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<project name="GrammarDB" default="all" basedir=".">
+
+	<target name="all" depends="build, build-utils, export" />
+
+	<target name="clean">
+		<delete dir="build" failonerror="false" />
+		<delete dir="release" failonerror="false" />
+	</target>
+
+	<target name="xjc">
+		<exec executable="xjc">
+			<arg value="-no-header" />
+			<arg value="-d" />
+			<arg value="src/" />
+			<arg value="-p" />
+			<arg value="org.alex73.grammardb.structures" />
+			<arg value="src/xsd/Paradigm.xsd" />
+		</exec>
+	</target>
+
+	<target name="build">
+		<mkdir dir="build/classes" />
+		<javac destdir="build/classes" debug="true" encoding="UTF-8">
+			<src path="src" />
+			<classpath>
+				<fileset dir="lib" includes="**/*.jar" />
+			</classpath>
+		</javac>
+		<copy todir="build/classes">
+			<fileset dir="src" />
+		</copy>
+		<jar jarfile="build/GrammarDB.jar" basedir="build/classes" />
+	</target>
+
+	<target name="build-utils">
+		<mkdir dir="build/classes-utils" />
+		<javac destdir="build/classes-utils" debug="true" encoding="UTF-8">
+			<src path="src-utils" />
+			<classpath>
+				<path location="build/classes" />
+				<fileset dir="lib" includes="**/*.jar" />
+				<fileset dir="lib-utils" includes="**/*.jar" />
+			</classpath>
+		</javac>
+		<copy todir="build/classes-utils">
+			<fileset dir="src-utils" />
+		</copy>
+		<jar jarfile="GrammarDB-check.jar" basedir="build/classes-utils">
+			<manifest>
+				<attribute name="Main-Class" value="org.alex73.grammardb.check.DbUtilUI" />
+			</manifest>
+			<zipgroupfileset dir="lib/" includes="**/*.jar" />
+			<zipgroupfileset dir="lib-utils/" includes="**/*.jar" />
+			<zipgroupfileset dir="build/" includes="GrammarDB.jar" />
+		</jar>
+	</target>
+
+	<tstamp>
+		<format property="TODAY" pattern="yyyyMMdd" />
+	</tstamp>
+
+	<target name="export">
+		<mkdir dir="release/" />
+		<java classpath="GrammarDB-check.jar" classname="org.alex73.grammardb.utils.ExportDatabase" />
+		<zip destfile="release/RELEASE-${TODAY}.zip" basedir="build/export/" />
+	</target>
+</project>

@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry kind="src" path="src-utils"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/RunUI.jar"/>
-	<classpathentry kind="lib" path="lib/kryo-3.0.3.jar"/>
-	<classpathentry kind="lib" path="lib/objenesis-2.1.jar"/>
-	<classpathentry kind="lib" path="lib/minlog-1.3.0.jar"/>
-	<classpathentry kind="lib" path="lib/reflectasm-1.10.1-shaded.jar"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/Korpus-Common"/>
+	<classpathentry kind="lib" path="lib/jaxb/istack-commons-runtime-3.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb/jakarta.xml.bind-api-2.3.3.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb/jaxb-runtime-2.3.5.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb/txw2-2.3.5.jar"/>
+	<classpathentry kind="lib" path="lib/kryo/kryo-3.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/kryo/minlog-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/kryo/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/kryo/reflectasm-1.10.1-shaded.jar"/>
+	<classpathentry kind="lib" path="lib-utils/RunUI.jar"/>
 	<classpathentry kind="output" path="classes"/>
 </classpath>

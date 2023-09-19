@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+  <xs:element name="Wordlist">
+    <xs:annotation>
+      <xs:documentation>Сьпіс парадыгмаў</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence minOccurs="0" maxOccurs="unbounded">
+        <xs:choice>
+          <xs:element ref="Paradigm" />
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="FormType">
+    <xs:annotation>
+      <xs:documentation>Тып словаформы</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="nonstandard">
+        <xs:annotation>
+          <xs:documentation>Нестандартная</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="potential">
+        <xs:annotation>
+          <xs:documentation>Патэнцыйная</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="numeral">
+        <xs:annotation>
+          <xs:documentation>з ліч. 2, 3, 4</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="short">
+        <xs:annotation>
+          <xs:documentation>кароткая форма (у прыметніках)</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="VariantType">
+    <xs:annotation>
+      <xs:documentation>Тып варыянту</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="nonstandard">
+        <xs:annotation>
+          <xs:documentation>Нестандартная</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="potential">
+        <xs:annotation>
+          <xs:documentation>Патэнцыйная</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="ParadigmOptions">
+    <xs:annotation>
+      <xs:documentation>Дадатковыя пазнакі</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="usually_plurals">
+        <xs:annotation>
+          <xs:documentation>Звычайна у множным ліку</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="FormOptions">
+    <xs:annotation>
+      <xs:documentation>Дадатковыя пазнакі</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="anim">
+        <xs:annotation>
+          <xs:documentation>Адушаўлёны</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="inanim">
+        <xs:annotation>
+          <xs:documentation>Неадушаўлёны</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:simpleType name="RegulationType">
+    <xs:annotation>
+      <xs:documentation>Класіфікацыйныя тыпы</xs:documentation>
+    </xs:annotation>
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="add">
+        <xs:annotation>
+          <xs:documentation>Якія няма ў слоўніках, але мусяць быць</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="mistake">
+        <xs:annotation>
+          <xs:documentation>Памылковыя  ў асобных слоўніках: калашы+на</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="fantasy">
+        <xs:annotation>
+          <xs:documentation>Няісныя словы: трудава+ны</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="undesirable">
+        <xs:annotation>
+          <xs:documentation>Якія не варта выкарыстоўваць: першынству+ючы</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="limited">
+        <xs:annotation>
+          <xs:documentation>Якія варта рэгуляваць: пушкіні+ст</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="rare">
+        <xs:annotation>
+          <xs:documentation>Рэдкія: вісо+н</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="rare_branch">
+        <xs:annotation>
+          <xs:documentation>Рэдкая галіновая тэрміналогія</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="obscenism">
+        <xs:annotation>
+          <xs:documentation>Мацюкі(абсцэнізмы)</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+      <xs:enumeration value="invective">
+        <xs:annotation>
+          <xs:documentation>Лаянкі(інвектывы)</xs:documentation>
+        </xs:annotation>
+      </xs:enumeration>
+    </xs:restriction>
+  </xs:simpleType>
+  <xs:element name="Paradigm">
+    <!-- Усярэдзіне парадыгмы - тэг Variant -->
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="e" minOccurs="0" maxOccurs="unbounded" type="xs:string" />
+        <xs:element name="Note" minOccurs="0" maxOccurs="unbounded" type="xs:string" />
+        <xs:element ref="Variant" maxOccurs="unbounded" minOccurs="0" />
+      </xs:sequence>
+      <xs:attribute name="pdgId" type="xs:int" use="required">
+        <xs:annotation>
+          <xs:documentation>Унікальны ID</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="lemma" type="xs:string" use="required">
+        <xs:annotation>
+          <xs:documentation>Лема</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="tag" type="xs:string" use="optional">
+        <!-- у Variant -->
+        <xs:annotation>
+          <xs:documentation>Пачатак тэгу, агульны для усіх словаформаў</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="theme" type="xs:string" use="optional" />
+      <xs:attribute name="govern" type="xs:string" use="optional" />
+      <xs:attribute name="type" type="VariantType" use="optional" />
+      <xs:attribute name="marked" type="xs:string" use="optional" />
+      <xs:attribute name="options" type="ParadigmOptions" use="optional" />
+      <xs:attribute name="regulation" type="RegulationType" use="optional" />
+      <xs:attribute name="todo" type="xs:string" use="optional">
+        <xs:annotation>
+          <xs:documentation>Што трэба выправіць</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="comment" type="xs:string" use="optional">
+        <xs:annotation>
+          <xs:documentation>Камэнтар</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="meaning" type="xs:string" use="optional" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Variant">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Note" minOccurs="0" maxOccurs="unbounded" type="xs:string" />
+        <xs:element ref="Slounik" minOccurs="0" maxOccurs="unbounded" />
+        <xs:element ref="Form" maxOccurs="unbounded" minOccurs="0" />
+        <xs:element name="Morph" minOccurs="0" maxOccurs="unbounded" type="xs:string" />
+        <xs:element ref="Fan" maxOccurs="unbounded" minOccurs="0" />
+      </xs:sequence>
+      <xs:attribute name="id" type="latin_char" use="optional"/>
+      <xs:attribute name="lemma" type="xs:string" use="required" />
+      <xs:attribute name="tag" type="xs:string" use="optional" />
+      <xs:attribute name="slouniki" type="xs:string" use="optional">
+        <xs:annotation>
+          <xs:documentation>У якіх слоўніках сустракаецца</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="pravapis" type="xs:string" use="optional">
+        <xs:annotation>
+          <xs:documentation>Правапіс: A1933,A1957,A2008,T1929,K2005,NIEST</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="type" type="VariantType" use="optional" />
+      <xs:attribute name="rules" type="xs:string" use="optional" />
+      <xs:attribute name="regulation" type="RegulationType" use="optional" />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Form">
+    <!-- у Variant -->
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="tag" type="xs:string" use="required">
+            <xs:annotation>
+              <xs:documentation>Працяг тэгу для словаформы</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="type" type="FormType" use="optional" />
+          <xs:attribute name="slouniki" type="xs:string" use="optional">
+            <xs:annotation>
+              <xs:documentation>У якіх слоўніках сустракаецца</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="pravapis" type="xs:string" use="optional">
+            <xs:annotation>
+              <xs:documentation>Правапіс: A1933,A1957,A2008,T1929,K2005,NIEST</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="options" type="FormOptions" use="optional" />
+          <xs:attribute name="govern" type="xs:string" use="optional" />
+          <xs:attribute name="todo" type="xs:string" use="optional">
+            <xs:annotation>
+              <xs:documentation>Што трэба выправіць</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="comment" type="xs:string" use="optional">
+            <xs:annotation>
+              <xs:documentation>Камэнтар</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Fan">
+    <!-- у Variant -->
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="s" type="xs:string" use="required">
+            <xs:annotation>
+              <xs:documentation>Слова</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Slounik">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="name" type="xs:string" use="required">
+            <xs:annotation>
+              <xs:documentation>Код слоўніка</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="idx" type="xs:int" use="required">
+            <xs:annotation>
+              <xs:documentation>Індэкс артыкула ў слоўніке, ад 1</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:simpleType name="latin_char">
+      <xs:restriction base="xs:string">
+        <xs:pattern value="[a-z]"/>
+      </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

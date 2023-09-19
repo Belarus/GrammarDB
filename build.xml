@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <project name="GrammarDB" default="all" basedir=".">
 
-	<target name="all" depends="build, build-utils, export" />
+	<target name="all" depends="clean, build, build-utils, export" />
 
 	<target name="clean">
 		<delete dir="build" failonerror="false" />

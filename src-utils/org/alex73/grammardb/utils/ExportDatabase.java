@@ -59,8 +59,8 @@ public class ExportDatabase {
                 String tag = SetUtils.tag(p, v);
                 for (Form f : fs1) {
                     temp1.add(StressUtils.unstress(f.getValue()) + "\t" + StressUtils.unstress(v.getLemma()) + "\t" + tag.charAt(0));
-                    temp2.add(StressUtils.unstress(f.getValue()));
-                    temp3.add(f.getValue().replace('+', '\u0301'));
+                    temp2.add(StressUtils.unstress(f.getValue()).replace(GrammarDB2.pravilny_apostraf, '\''));
+                    temp3.add(f.getValue().replace('+', '\u0301').replace(GrammarDB2.pravilny_apostraf, '\''));
                 }
             }
             list2008.addAll(result);

@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>io.github.belarus</groupId>
+	<artifactId>linguistics.grammardb</artifactId>
+	<packaging>pom</packaging>
+	<version>${revision}</version>
+
+	<properties>
+		<revision>1.0.0-SNAPSHOT</revision>
+	</properties>
+
+	<modules>
+		<module>data-assembly</module>
+		<module>reader</module>
+		<module>checker</module>
+		<module>spell-compiler</module>
+		<module>spell</module>
+	</modules>
+
+</project>

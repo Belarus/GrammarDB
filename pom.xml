@@ -6,18 +6,21 @@
 	<groupId>io.github.belarus</groupId>
 	<artifactId>linguistics.grammardb</artifactId>
 	<packaging>pom</packaging>
-	<version>${revision}</version>
-
-	<properties>
-		<revision>1.0.0-SNAPSHOT</revision>
-	</properties>
+	<version>1.0.0</version>
 
 	<modules>
 		<module>data-assembly</module>
 		<module>reader</module>
 		<module>checker</module>
 		<module>spell-compiler</module>
-		<module>spell</module>
+		<module>spell-languagetool</module>
 	</modules>
+
+	<distributionManagement>
+		<repository>
+			<id>ossrh</id>
+			<url>file:///tmp/repo</url>
+		</repository>
+	</distributionManagement>
 
 </project>

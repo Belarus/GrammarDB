@@ -29,14 +29,19 @@ public class ExportDatabase {
     static AtomicInteger c = new AtomicInteger();
 
     public static void main(String[] args) throws Exception {
-        deleteDirectory(Paths.get("build/export/"));
-        deleteDirectory(Paths.get("build/noshow/"));
-        Files.createDirectories(Paths.get("build/export/spellchecker/"));
+        if (args.length != 2) {
+            System.err.println("ExportDatabase <input_data_dir> <output_dir> ");
+            System.exit(1);
+        }
+        Path inDir = Paths.get(args[0]);
+        Path outDir = Paths.get(args[1]);
+        deleteDirectory(outDir);
+        Files.createDirectories(outDir.resolve("spellchecker/"));
 
-        GrammarDB2 db = GrammarDB2.initializeFromDir("data");
+        GrammarDB2 db = GrammarDB2.initializeFromDir(inDir.toAbsolutePath().toString());
 
         System.out.println("Запісваем кэш...");
-        db.makeCache("build/cache/");
+        db.makeCache(outDir.resolve("cache/").toAbsolutePath().toString());
 
         List<String> list2008 = new ArrayList<>();
         List<String> temp1 = new ArrayList<>();
@@ -80,8 +85,8 @@ public class ExportDatabase {
         // list2008);
         // Files.write(Paths.get("slovy-2008-forma+lemma+cascinamovy.txt"),
         // list2008flc);
-        Files.write(Paths.get("build/export/spellchecker/slovy-2008.txt"), list2008uniq);
-        Files.write(Paths.get("build/export/spellchecker/slovy-2008-stress.txt"), list2008uniqStress);
+        Files.write(outDir.resolve("spellchecker/slovy-2008.txt"), list2008uniq);
+        Files.write(outDir.resolve("spellchecker/slovy-2008-stress.txt"), list2008uniqStress);
 
         System.out.println("Фільтраванне базы - што не паказваем...");
         db.getAllParadigms().parallelStream().forEach(p -> {
@@ -96,10 +101,10 @@ public class ExportDatabase {
             }
         });
         removeEmpty(db.getAllParadigms());
-        GrammarDBSaver.sortAndStore(db, "build/noshow/");
+        GrammarDBSaver.sortAndStore(db, outDir.resolve("noshow/").toAbsolutePath().toString());
 
         System.out.println("Фільтраванне базы для паказу...");
-        db = GrammarDB2.initializeFromDir("data/");
+        db = GrammarDB2.initializeFromDir(inDir.toAbsolutePath().toString());
         db.getAllParadigms().parallelStream().forEach(p -> {
             for (Variant v : p.getVariant()) {
                 List<Form> fs = FormsReadyFilter.getAcceptedForms(FormsReadyFilter.MODE.SHOW, p, v);
@@ -111,7 +116,7 @@ public class ExportDatabase {
             }
         });
         removeEmpty(db.getAllParadigms());
-        GrammarDBSaver.sortAndStore(db, "build/export/");
+        GrammarDBSaver.sortAndStore(db, outDir.resolve("export/").toAbsolutePath().toString());
     }
 
     static void deleteDirectory(Path d) throws IOException {

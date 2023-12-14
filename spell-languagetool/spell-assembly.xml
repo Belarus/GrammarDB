@@ -1,0 +1,26 @@
+<assembly xmlns="http://maven.apache.org/ASSEMBLY/2.2.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/ASSEMBLY/2.2.0 https://maven.apache.org/xsd/assembly-2.2.0.xsd">
+
+	<id>jar</id>
+	<includeBaseDirectory>false</includeBaseDirectory>
+
+	<formats>
+		<format>jar</format>
+	</formats>
+	<files>
+		<file>
+			<source>be_BY.info</source>
+			<outputDirectory>/org/languagetool/resource/be/hunspell/</outputDirectory>
+		</file>
+		<file>
+			<source>${project.build.directory}/be_BY.dict</source>
+			<outputDirectory>/org/languagetool/resource/be/hunspell/</outputDirectory>
+		</file>
+		<file>
+			<source>be_BY.ignore.txt</source>
+			<outputDirectory>/org/languagetool/resource/be/hunspell/</outputDirectory>
+			<destName>ignore.txt</destName>
+		</file>
+	</files>
+</assembly>

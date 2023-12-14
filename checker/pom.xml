@@ -3,13 +3,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<parent>
-		<groupId>io.github.belarus</groupId>
-		<artifactId>linguistics.grammardb</artifactId>
-		<version>${revision}</version>
-		<relativePath>../pom.xml</relativePath>
-	</parent>
+	<groupId>io.github.belarus</groupId>
 	<artifactId>linguistics.grammardb.checker</artifactId>
+	<version>1.0.0</version>
 
 	<properties>
 		<maven.compiler.source>8</maven.compiler.source>
@@ -20,7 +16,7 @@
 		<dependency>
 			<groupId>io.github.belarus</groupId>
 			<artifactId>linguistics.grammardb.reader</artifactId>
-			<version>${revision}</version>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 

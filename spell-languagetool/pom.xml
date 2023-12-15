@@ -5,11 +5,11 @@
 
 	<groupId>io.github.belarus</groupId>
 	<artifactId>linguistics.grammardb.spell.languagetool</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>pom</packaging>
 
-	<name>GrammarDB reader</name>
-	<description>Java library for read GrammarDB files.</description>
+	<name>GrammarDB-LanguageTool</name>
+	<description>GrammarDB dictionary for LanguageTool</description>
 	<url>https://github.com/Belarus/GrammarDB</url>
 
 	<licenses>
@@ -48,11 +48,6 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>io.github.belarus</groupId>
-			<artifactId>linguistics.grammardb.spell.compiler</artifactId>
-			<version>1.0.0</version>
-		</dependency>
-		<dependency>
 			<groupId>org.languagetool</groupId>
 			<artifactId>languagetool-tools</artifactId>
 			<version>6.4.3</version>
@@ -63,25 +58,25 @@
 	<build>
 		<plugins>
 			<plugin>
+				<groupId>io.github.belarus</groupId>
+				<artifactId>linguistics.grammardb.spell.compiler</artifactId>
+				<version>1.0.0</version>
+				<executions>
+					<execution>
+						<goals>
+							<goal>export-spell-checker</goal>
+						</goals>
+					</execution>
+				</executions>
+				<configuration>
+					<xmlDataDir>../data</xmlDataDir>
+				</configuration>
+			</plugin>
+			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>exec-maven-plugin</artifactId>
 				<version>3.1.1</version>
 				<executions>
-					<execution>
-						<id>export-spell</id>
-						<phase>package</phase>
-						<goals>
-							<goal>java</goal>
-						</goals>
-						<configuration>
-							<includeProjectDependencies>true</includeProjectDependencies>
-							<arguments>
-								<argument>../data/</argument>
-								<argument>${project.build.directory}/out/</argument>
-							</arguments>
-							<mainClass>org.alex73.grammardb.utils.ExportDatabase</mainClass>
-						</configuration>
-					</execution>
 					<execution>
 						<id>compile-hunspell</id>
 						<phase>package</phase>
@@ -95,7 +90,7 @@
 								<argument>org.languagetool.tools.SpellDictionaryBuilder</argument>
 								<argument>be-BY</argument>
 								<argument>-i</argument>
-								<argument>${project.build.directory}/out/spellchecker/slovy-2008.txt</argument>
+								<argument>${project.build.directory}/spellchecker/slovy-2008.txt</argument>
 								<argument>-info</argument>
 								<argument>be_BY.info</argument>
 								<argument>-o</argument>

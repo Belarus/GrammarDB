@@ -39,63 +39,33 @@
 		</repository>
 	</distributionManagement>
 
-	<repositories>
-		<repository>
-			<id>LanguageTool</id>
-			<url>https://repo.languagetool.org/artifactory/languagetool-os-release/</url>
-		</repository>
-	</repositories>
-
-	<dependencies>
-		<dependency>
-			<groupId>org.languagetool</groupId>
-			<artifactId>languagetool-tools</artifactId>
-			<version>6.4.3</version>
-			<scope>compile</scope>
-		</dependency>
-	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
 				<groupId>io.github.belarus</groupId>
 				<artifactId>linguistics.grammardb.spell.compiler</artifactId>
-				<version>1.0.0</version>
+				<version>1.0.1</version>
 				<executions>
 					<execution>
+						<id>xml2text</id>
 						<goals>
 							<goal>export-spell-checker</goal>
 						</goals>
+						<configuration>
+							<xmlDataDir>../data</xmlDataDir>
+							<textOutputFile>${project.build.directory}/spellchecker/slovy-2008.txt</textOutputFile>
+							<textOutputFileWithStress>${project.build.directory}/spellchecker/slovy-2008-stress.txt</textOutputFileWithStress>
+						</configuration>
 					</execution>
-				</executions>
-				<configuration>
-					<xmlDataDir>../data</xmlDataDir>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>exec-maven-plugin</artifactId>
-				<version>3.1.1</version>
-				<executions>
 					<execution>
-						<id>compile-hunspell</id>
-						<phase>package</phase>
+						<id>text2dict</id>
 						<goals>
-							<goal>exec</goal>
+							<goal>compile-lt-spell-checker</goal>
 						</goals>
 						<configuration>
-							<executable>java</executable>
-							<arguments>
-								<argument>-cp</argument><classpath/>
-								<argument>org.languagetool.tools.SpellDictionaryBuilder</argument>
-								<argument>be-BY</argument>
-								<argument>-i</argument>
-								<argument>${project.build.directory}/spellchecker/slovy-2008.txt</argument>
-								<argument>-info</argument>
-								<argument>be_BY.info</argument>
-								<argument>-o</argument>
-								<argument>${project.build.directory}/be_BY.dict</argument>
-							</arguments>
+							<inputText>${project.build.directory}/spellchecker/slovy-2008.txt</inputText>
+							<inputInfo>be_BY.info</inputInfo>
+							<outputDict>${project.build.directory}/be_BY.dict</outputDict>
 						</configuration>
 					</execution>
 				</executions>

@@ -5,13 +5,20 @@
 
 	<groupId>io.github.belarus</groupId>
 	<artifactId>linguistics.grammardb.spell.compiler</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>maven-plugin</packaging>
 
 	<properties>
 		<maven.compiler.source>21</maven.compiler.source>
 		<maven.compiler.target>21</maven.compiler.target>
 	</properties>
+
+	<repositories>
+		<repository>
+			<id>LanguageTool</id>
+			<url>https://repo.languagetool.org/artifactory/languagetool-os-release/</url>
+		</repository>
+	</repositories>
 
 	<dependencies>
 		<dependency>
@@ -34,6 +41,11 @@
 			<groupId>org.apache.maven</groupId>
 			<artifactId>maven-project</artifactId>
 			<version>2.2.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.languagetool</groupId>
+			<artifactId>languagetool-tools</artifactId>
+			<version>6.4.3</version>
 		</dependency>
 	</dependencies>
 

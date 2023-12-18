@@ -34,6 +34,10 @@ public class ExportSpellChecker extends AbstractMojo {
 
     @Parameter(property = "xmlDataDir", required = true)
     String xmlDataDir;
+    @Parameter(property = "textOutputFile", required = true)
+    String textOutputFile;
+    @Parameter(property = "textOutputFileWithStress", required = true)
+    String textOutputFileWithStress;
 
     public void execute() throws MojoExecutionException, MojoFailureException {
         try {
@@ -89,10 +93,12 @@ public class ExportSpellChecker extends AbstractMojo {
         // Files.write(Paths.get("slovy-2008-forma+lemma+cascinamovy.txt"),
         // list2008flc);
 
-        Path outDir = Path.of(project.getBuild().getDirectory()).resolve("spellchecker/");
-        Files.createDirectories(outDir);
-        Files.write(outDir.resolve("slovy-2008.txt"), list2008uniq);
-        Files.write(outDir.resolve("slovy-2008-stress.txt"), list2008uniqStress);
+        Path out = Path.of(textOutputFile);
+        Path outStress = Path.of(textOutputFileWithStress);
+        Files.createDirectories(out.getParent());
+        Files.createDirectories(outStress.getParent());
+        Files.write(out, list2008uniq);
+        Files.write(outStress, list2008uniqStress);
     }
 
     static void duplicateU(List<String> words, boolean addToEnd) {

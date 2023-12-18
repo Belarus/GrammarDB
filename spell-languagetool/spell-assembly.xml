@@ -17,10 +17,5 @@
 			<source>${project.build.directory}/be_BY.dict</source>
 			<outputDirectory>/org/languagetool/resource/be/hunspell/</outputDirectory>
 		</file>
-		<file>
-			<source>be_BY.ignore.txt</source>
-			<outputDirectory>/org/languagetool/resource/be/hunspell/</outputDirectory>
-			<destName>ignore.txt</destName>
-		</file>
 	</files>
 </assembly>

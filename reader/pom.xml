@@ -74,6 +74,9 @@
 				</executions>
 				<configuration>
 					<packageName>org.alex73.grammardb.structures</packageName>
+					<sources>
+						<source>src/main/resources/xsd/Paradigm.xsd</source>
+					</sources>
 				</configuration>
 			</plugin>
 			<plugin>

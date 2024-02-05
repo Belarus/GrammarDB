@@ -23,6 +23,7 @@
 package org.alex73.grammardb.check;
 
 import java.io.File;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Comparator;
@@ -153,7 +154,7 @@ public class CheckGrammarDB {
             GrammarDBSaver.sortAndStore(gr, outDir);
             for (Map.Entry<String, List<Paradigm>> en : paradigmsByErrors.entrySet()) {
                 GrammarDBSaver.sortList(en.getValue());
-                GrammarDBSaver.store(en.getValue(), new File(en.getKey()));
+                GrammarDBSaver.store(en.getValue(), Paths.get(outDir).resolve(en.getKey()).toFile());
             }
 
 //        System.out.println("Max pdgId=" + maxPdgId);

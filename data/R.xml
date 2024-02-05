@@ -9529,9 +9529,9 @@
             <Form tag="P">вандро+ўна</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1054664" lemma="ванітна" tag="RA">
-        <Variant id="a" lemma="ванітна">
-            <Form tag="P">ванітна</Form>
+    <Paradigm pdgId="1054664" lemma="вані+тна" tag="RA">
+        <Variant id="a" lemma="вані+тна">
+            <Form tag="P">вані+тна</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1054715" lemma="вараняча" tag="RA">
@@ -9619,7 +9619,12 @@
             <Form tag="P">ва-ўсю</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1139084" lemma="ваўчко+м" tag="RN">
+    <Paradigm pdgId="1139084" lemma="ваўчко+м" tag="RN" meaning="вельмі хутка, як ваўчок (круціцца, вярцецца)">
+        <Variant id="a" lemma="ваўчко+м" slouniki="piskunou2012:30818" pravapis="A1957,A2008">
+            <Form tag="P" slouniki="sbm2012,krapivabr2012">ваўчко+м</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1329249" lemma="ваўчко+м" tag="RN" meaning="непрыязна (глядзець)">
         <Variant id="a" lemma="ваўчко+м" slouniki="piskunou2012:30818" pravapis="A1957,A2008">
             <Form tag="P" slouniki="sbm2012,krapivabr2012">ваўчко+м</Form>
         </Variant>
@@ -9627,6 +9632,11 @@
     <Paradigm pdgId="1054894" lemma="вахтава" tag="RA" regulation="add">
         <Variant id="a" lemma="вахтава">
             <Form tag="P">вахтава</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1329250" lemma="вачаві+дкі" tag="RX" meaning="увачавідкі">
+        <Variant id="a" lemma="вачаві+дкі" pravapis="A1957,A2008">
+            <Form tag="P">вачаві+дкі</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1054900" lemma="вашыва" tag="RA">

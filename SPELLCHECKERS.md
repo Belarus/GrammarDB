@@ -2,13 +2,8 @@
 
 ## LanguageTool
 
-Апісанне: https://dev.languagetool.org/hunspell-support
-
-- спампаваць https://languagetool.org/download/LanguageTool-stable.zip і распакаваць
-
-- скампілявать hunspell слоўнік: java -cp languagetool.jar org.languagetool.tools.SpellDictionaryBuilder be-BY -i /tmp/slovy-2008.txt -info ~/gits/languagetool/languagetool-language-modules/be/src/main/resources/org/languagetool/resource/be/hunspell/be_BY.info -o /tmp/be_BY.dict
-
-- зрабіць pull request у https://github.com/languagetool-org/languagetool
+1. Сабраць артэфакт linguistics.grammardb.spell.languagetool
+2. выправіць у https://github.com/languagetool-org/languagetool праз merge request: версію артэфакта belarusian-pos-dict.version у /pom.xml
 
 ## LibreOffice
 
@@ -28,3 +23,5 @@
 ```
 
 - скампактаваць слоўнік праз affixcompress, і стварыць каміт, як напісана на https://wiki.documentfoundation.org/Development/Submodules
+
+- змяніць каміт пасля нейкага выпраўлення: git push origin HEAD:refs/for/master

@@ -205,6 +205,7 @@
       <xs:attribute name="type" type="VariantType" use="optional" />
       <xs:attribute name="rules" type="xs:string" use="optional" />
       <xs:attribute name="regulation" type="RegulationType" use="optional" />
+      <xs:attribute name="prystauki" type="xs:string" use="optional" />
     </xs:complexType>
   </xs:element>
   <xs:element name="Form">

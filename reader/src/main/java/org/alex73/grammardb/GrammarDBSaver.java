@@ -110,6 +110,7 @@ public class GrammarDBSaver {
 
     public static void unfix(Variant v) {
         v.setLemma(unfix(v.getLemma()));
+        v.setPrystauki(unfix(v.getPrystauki()));
         for (Form f : v.getForm()) {
             unfix(f);
         }

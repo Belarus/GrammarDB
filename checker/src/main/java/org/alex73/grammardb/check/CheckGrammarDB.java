@@ -121,6 +121,7 @@ public class CheckGrammarDB {
                             check2(p,v);
                             check10(p,v);
                             check11(p,v);
+                            check12(p,v);
                             String vTag=SetUtils.tag(p, v);
                             if (vTag.startsWith("V")) {
                                 checkV1(p,v);
@@ -1283,6 +1284,33 @@ public class CheckGrammarDB {
                     throw new KnownError("11_zlucki", "Колькасць злучкоў несупадае ў форме " + f.getValue());
                 }
             }
+    }
+
+    /**
+     * Ці прыстаўкі супадаюць з лемамі і формамі.
+     */
+    void check12(Paradigm p, Variant v) {
+        if (v.getPrystauki() == null) {
+            return;
+        }
+        String pr = v.getPrystauki().replace("/", "");
+        if (!v.getLemma().startsWith(pr)) {
+            throw new KnownError("12_prystauki", "Лема варыянта не пачынаецца з прыстаўкі");
+        }
+        if (v.getLemma().charAt(pr.length()) == '+' || v.getLemma().charAt(pr.length()) == GrammarDB2.pravilny_apostraf) {
+            throw new KnownError("12_prystauki", "Няправільная мяжа прыстаўкі для лемы варыянта");
+        }
+        for (Form f : v.getForm()) {
+            if (f.getValue() == null || f.getValue().isEmpty()) {
+                continue;
+            }
+            if (!f.getValue().startsWith(pr)) {
+//                throw new KnownError("12_prystauki", "Форма не пачынаецца з прыстаўкі: " + f.getValue());
+            }
+            if (f.getValue().charAt(pr.length()) == '+' || f.getValue().charAt(pr.length()) == GrammarDB2.pravilny_apostraf) {
+//                throw new KnownError("12_prystauki", "Няправільная мяжа прыстаўкі для формы " + f.getValue());
+            }
+        }
     }
 
     int zlucki(String w) {

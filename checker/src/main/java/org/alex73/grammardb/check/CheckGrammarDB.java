@@ -72,6 +72,7 @@ import org.alex73.grammardb.tags.BelarusianTags;
  * exFormsEquals: Непадобныя формы
  * exFormLSEnd: LS канчаецца на зычны
  * exCheckLetters: Памылковыя злучэнні літар, накшталт гіпе[рі]нфляцыя
+ * exFormsWithoutZmienyFanietyki: не правяраць змены фанетыкі
  */
 public class CheckGrammarDB {
 
@@ -122,6 +123,7 @@ public class CheckGrammarDB {
                             check10(p,v);
                             check11(p,v);
                             check12(p,v);
+                            check13(p,v);
                             String vTag=SetUtils.tag(p, v);
                             if (vTag.startsWith("V")) {
                                 checkV1(p,v);
@@ -1311,6 +1313,46 @@ public class CheckGrammarDB {
 //                throw new KnownError("12_prystauki", "Няправільная мяжа прыстаўкі для формы " + f.getValue());
             }
         }
+    }
+
+    /**
+     * Ці правільныя zmienyFanietyki.
+     */
+    void check13(Paradigm p, Variant v) {
+        if (v.getZmienyFanietyki() == null) {
+            return;
+        }
+        if (!v.getZmienyFanietyki().toLowerCase().matches("[ёйцукенгґшўзх'фывапролджэячсмітьбю\\+\u0301]+:[ёйцукенгґшўзх'фывапролджэячсмітьбю\\\\+\u0301]+")) {
+            throw new KnownError("13_zmienyFanietyki", "Няправільныя змены фанетыкі: " + v.getZmienyFanietyki());
+        }
+        String zm = v.getZmienyFanietyki().substring(0, v.getZmienyFanietyki().indexOf(':'));
+        if (getPartCount(v.getLemma(), zm) != 1) {
+            throw new KnownError("13_zmienyFanietyki", "Лема варыянта не падпадае пад змену фанетыкі: " + v.getLemma());
+        }
+        for (Form f : v.getForm()) {
+            if (f.getValue() == null || f.getValue().isEmpty()) {
+                continue;
+            }
+            if (needSkip("exFormsWithoutZmienyFanietyki", p, v)) {
+                if (getPartCount(f.getValue(), zm) > 1) {
+                    throw new KnownError("13_zmienyFanietyki", "Форма не падпадае пад змену фанетыкі: " + f.getValue());
+                }
+            } else {
+                if (getPartCount(f.getValue(), zm) != 1) {
+                    throw new KnownError("13_zmienyFanietyki", "Форма не падпадае пад змену фанетыкі: " + f.getValue());
+                }
+            }
+        }
+    }
+
+    int getPartCount(String word, String part) {
+        int c = 0;
+        for (int i = 0; i <= word.length() - part.length(); i++) {
+            if (part.equals(word.substring(i, i + part.length()))) {
+                c++;
+            }
+        }
+        return c;
     }
 
     int zlucki(String w) {

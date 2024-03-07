@@ -111,6 +111,7 @@ public class GrammarDBSaver {
     public static void unfix(Variant v) {
         v.setLemma(unfix(v.getLemma()));
         v.setPrystauki(unfix(v.getPrystauki()));
+        v.setZmienyFanietyki(unfix(v.getZmienyFanietyki()));
         for (Form f : v.getForm()) {
             unfix(f);
         }

@@ -169,6 +169,7 @@ public class GrammarDB2 {
             v.setLemma(optimizeString(fix(v.getLemma())));
             v.setPravapis(optimizeString(v.getPravapis()));
             v.setPrystauki(fix(v.getPrystauki()));
+            v.setZmienyFanietyki(fix(v.getZmienyFanietyki()));
             for (Form f : v.getForm()) {
                 f.setTag(optimizeString(f.getTag()));
                 f.setValue(optimizeString(fix(f.getValue())));

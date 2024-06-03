@@ -1295,12 +1295,26 @@ public class CheckGrammarDB {
         if (v.getPrystauki() == null) {
             return;
         }
-        String pr = v.getPrystauki().replace("/", "");
+        String pr = v.getPrystauki().replace("/", "").replace("|", "");
         if (!v.getLemma().startsWith(pr)) {
             throw new KnownError("12_prystauki", "Лема варыянта не пачынаецца з прыстаўкі");
         }
-        if (v.getLemma().charAt(pr.length()) == '+' || v.getLemma().charAt(pr.length()) == GrammarDB2.pravilny_apostraf) {
-            throw new KnownError("12_prystauki", "Няправільная мяжа прыстаўкі для лемы варыянта");
+        if (!v.getPrystauki().isEmpty()) {
+            if (!v.getPrystauki().endsWith("/") && !v.getPrystauki().endsWith("|")) {
+                throw new KnownError("12_prystauki", "Няправільны апошні сімвал прыстаўкі");
+            }
+            int last = -1;
+            while (true) {
+                int pp = v.getPrystauki().indexOf(GrammarDB2.pravilny_nacisk, last + 1);
+                if (pp < 0) {
+                    break;
+                }
+                last = pp;
+                char h = v.getPrystauki().charAt(pp - 1);
+                if ("ёуеыаоэяію".indexOf(Character.toLowerCase(h)) < 0) {
+                    throw new KnownError("12_prystauki", "Націск у прыстаўцы не пасля галоснай");
+                }
+            }
         }
         for (Form f : v.getForm()) {
             if (f.getValue() == null || f.getValue().isEmpty()) {
@@ -1309,9 +1323,9 @@ public class CheckGrammarDB {
             if (!f.getValue().startsWith(pr)) {
 //                throw new KnownError("12_prystauki", "Форма не пачынаецца з прыстаўкі: " + f.getValue());
             }
-            if (f.getValue().charAt(pr.length()) == '+' || f.getValue().charAt(pr.length()) == GrammarDB2.pravilny_apostraf) {
+//            if (f.getValue().charAt(pr.length()) == '+' || f.getValue().charAt(pr.length()) == GrammarDB2.pravilny_apostraf) {
 //                throw new KnownError("12_prystauki", "Няправільная мяжа прыстаўкі для формы " + f.getValue());
-            }
+  //          }
         }
     }
 

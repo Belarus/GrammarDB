@@ -19,7 +19,7 @@ public class WordMorphology implements Comparable<WordMorphology> {
         if (v.getPrystauki() == null) {
             return false;
         }
-        String prefix = v.getPrystauki().replace("/", "").replace("|", "");
+        String prefix = v.getPrystauki().replace("/", "").replace("|", "").replace("{", "").replace("}", "");
         return f.getValue().startsWith(prefix);
     }
 
@@ -27,7 +27,7 @@ public class WordMorphology implements Comparable<WordMorphology> {
         String w = f.getValue();
         // дадаем пазначэнне прыставак і корняў
         if (v.getPrystauki() != null) {
-            String prefix = v.getPrystauki().replace("/", "").replace("|", "");
+            String prefix = v.getPrystauki().replace("/", "").replace("|", "").replace("{", "").replace("}", "");
             if (f.getValue().startsWith(prefix)) {
                 w = v.getPrystauki() + f.getValue().substring(prefix.length());
             }

@@ -1295,12 +1295,12 @@ public class CheckGrammarDB {
         if (v.getPrystauki() == null) {
             return;
         }
-        String pr = v.getPrystauki().replace("/", "").replace("|", "");
+        String pr = v.getPrystauki().replaceAll("[/\\|{}]", "");
         if (!v.getLemma().startsWith(pr)) {
             throw new KnownError("12_prystauki", "Лема варыянта не пачынаецца з прыстаўкі");
         }
         if (!v.getPrystauki().isEmpty()) {
-            if (!v.getPrystauki().endsWith("/") && !v.getPrystauki().endsWith("|")) {
+            if ("/|}".indexOf(v.getPrystauki().charAt(v.getPrystauki().length() - 1)) < 0) {
                 throw new KnownError("12_prystauki", "Няправільны апошні сімвал прыстаўкі");
             }
             int last = -1;

@@ -1,58 +1,125 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1314492" lemma="БДУ" tag="K">
+    <Paradigm pdgId="1314492" lemma="БДУ" tag="NPIIBM0">
         <Variant id="a" lemma="БДУ" pravapis="A2008">
-            <Form tag="">БДУ</Form>
+            <Form tag="NS">БДУ</Form>
+            <Form tag="GS">БДУ</Form>
+            <Form tag="DS">БДУ</Form>
+            <Form tag="AS">БДУ</Form>
+            <Form tag="IS">БДУ</Form>
+            <Form tag="LS">БДУ</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230134" lemma="ВКЛ" tag="K">
+    <Paradigm pdgId="1230134" lemma="ВКЛ" tag="NPIIBN0">
         <Variant id="a" lemma="ВКЛ" slouniki="piskunou2012:33010" pravapis="A2008">
-            <Form tag="">ВКЛ</Form>
+            <Form tag="NS">ВКЛ</Form>
+            <Form tag="GS">ВКЛ</Form>
+            <Form tag="DS">ВКЛ</Form>
+            <Form tag="AS">ВКЛ</Form>
+            <Form tag="IS">ВКЛ</Form>
+            <Form tag="LS">ВКЛ</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230135" lemma="ВКП(б)" tag="K">
+    <Paradigm pdgId="1230135" lemma="ВКП(б)" tag="NPIIBF0">
         <Variant id="a" lemma="ВКП(б)" slouniki="piskunou2012:33011" pravapis="A2008">
-            <Form tag="">ВКП(б)</Form>
+            <Form tag="NS">ВКП(б)</Form>
+            <Form tag="GS">ВКП(б)</Form>
+            <Form tag="DS">ВКП(б)</Form>
+            <Form tag="AS">ВКП(б)</Form>
+            <Form tag="IS">ВКП(б)</Form>
+            <Form tag="LS">ВКП(б)</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230136" lemma="ВЛКСМ" tag="K">
+    <Paradigm pdgId="1230136" lemma="ВЛКСМ" tag="NPIIBM0">
         <Variant id="a" lemma="ВЛКСМ" slouniki="piskunou2012:33012" pravapis="A2008">
-            <Form tag="">ВЛКСМ</Form>
+            <Form tag="NS">ВЛКСМ</Form>
+            <Form tag="GS">ВЛКСМ</Form>
+            <Form tag="DS">ВЛКСМ</Form>
+            <Form tag="AS">ВЛКСМ</Form>
+            <Form tag="IS">ВЛКСМ</Form>
+            <Form tag="LS">ВЛКСМ</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230137" lemma="ВМС" tag="K">
+    <Paradigm pdgId="1230137" lemma="ВМС" tag="NCIIBP0">
         <Variant id="a" lemma="ВМС" slouniki="piskunou2012:33014" pravapis="A2008">
-            <Form tag="">ВМС</Form>
+            <Form tag="NP">ВМС</Form>
+            <Form tag="GP">ВМС</Form>
+            <Form tag="DP">ВМС</Form>
+            <Form tag="AP">ВМС</Form>
+            <Form tag="IP">ВМС</Form>
+            <Form tag="LP">ВМС</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230138" lemma="ВМФ" tag="K">
+    <Paradigm pdgId="1230138" lemma="ВМФ" tag="NCIIBM0">
         <Variant id="a" lemma="ВМФ" slouniki="piskunou2012:33015" pravapis="A2008">
-            <Form tag="">ВМФ</Form>
+            <Form tag="NS">ВМФ</Form>
+            <Form tag="GS">ВМФ</Form>
+            <Form tag="DS">ВМФ</Form>
+            <Form tag="AS">ВМФ</Form>
+            <Form tag="IS">ВМФ</Form>
+            <Form tag="LS">ВМФ</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230139" lemma="ВНП" tag="K">
+    <Paradigm pdgId="1230139" lemma="ВНП" tag="NCIIBM0">
         <Variant id="a" lemma="ВНП" slouniki="piskunou2012:33016" pravapis="A2008">
-            <Form tag="">ВНП</Form>
+            <Form tag="NS">ВНП</Form>
+            <Form tag="GS">ВНП</Form>
+            <Form tag="DS">ВНП</Form>
+            <Form tag="AS">ВНП</Form>
+            <Form tag="IS">ВНП</Form>
+            <Form tag="LS">ВНП</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230140" lemma="ВНУ+" tag="K">
+    <Paradigm pdgId="1230140" lemma="ВНУ+" tag="NCIIBF0">
         <Variant id="a" lemma="ВНУ+" slouniki="piskunou2012:33017" pravapis="A2008">
-            <Form tag="">ВНУ+</Form>
+            <Form tag="NS">ВНУ+</Form>
+            <Form tag="GS">ВНУ+</Form>
+            <Form tag="DS">ВНУ+</Form>
+            <Form tag="AS">ВНУ+</Form>
+            <Form tag="IS">ВНУ+</Form>
+            <Form tag="LS">ВНУ+</Form>
+            <Form tag="NP">ВНУ+</Form>
+            <Form tag="GP">ВНУ+</Form>
+            <Form tag="DP">ВНУ+</Form>
+            <Form tag="AP">ВНУ+</Form>
+            <Form tag="IP">ВНУ+</Form>
+            <Form tag="LP">ВНУ+</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230141" lemma="РКП(б)" tag="K">
+    <Paradigm pdgId="1230141" lemma="РКП(б)" tag="NPIIBF0">
         <Variant id="a" lemma="РКП(б)" slouniki="piskunou2012:166942" pravapis="A2008">
-            <Form tag="">РКП(б)</Form>
+            <Form tag="NS">РКП(б)</Form>
+            <Form tag="GS">РКП(б)</Form>
+            <Form tag="DS">РКП(б)</Form>
+            <Form tag="AS">РКП(б)</Form>
+            <Form tag="IS">РКП(б)</Form>
+            <Form tag="LS">РКП(б)</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230142" lemma="РЛС" tag="K">
+    <Paradigm pdgId="1230142" lemma="РЛС" tag="NCIIBF0">
         <Variant id="a" lemma="РЛС" slouniki="piskunou2012:166943" pravapis="A2008">
-            <Form tag="">РЛС</Form>
+            <Form tag="NS">РЛС</Form>
+            <Form tag="GS">РЛС</Form>
+            <Form tag="DS">РЛС</Form>
+            <Form tag="AS">РЛС</Form>
+            <Form tag="IS">РЛС</Form>
+            <Form tag="LS">РЛС</Form>
+            <Form tag="NP">РЛС</Form>
+            <Form tag="GP">РЛС</Form>
+            <Form tag="DP">РЛС</Form>
+            <Form tag="AP">РЛС</Form>
+            <Form tag="IP">РЛС</Form>
+            <Form tag="LP">РЛС</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1230143" lemma="РНК" tag="K">
+    <Paradigm pdgId="1230143" lemma="РНК" tag="NCIIBF0">
         <Variant id="a" lemma="РНК" slouniki="piskunou2012:166944" pravapis="A2008">
-            <Form tag="">РНК</Form>
+            <Form tag="NS">РНК</Form>
+            <Form tag="GS">РНК</Form>
+            <Form tag="DS">РНК</Form>
+            <Form tag="AS">РНК</Form>
+            <Form tag="IS">РНК</Form>
+            <Form tag="LS">РНК</Form>
         </Variant>
     </Paradigm>
 </Wordlist>

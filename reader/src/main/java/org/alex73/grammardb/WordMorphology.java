@@ -35,7 +35,9 @@ public class WordMorphology implements Comparable<WordMorphology> {
         String zf = v.getZmienyFanietyki();
         if (zf != null) {
             int p = zf.indexOf(':');
-            w = w.replace(zf.substring(0, p), zf.substring(p + 1));
+            if (p > 0) {
+                w = w.replace(zf.substring(0, p), zf.substring(p + 1));
+            }
         }
         return w;
     }

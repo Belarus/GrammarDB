@@ -97,6 +97,48 @@ public class StressUtils {
         }
     }
 
+    /**
+     * Returns array of boolean values, where each value indicates whether the
+     * corresponding syll in the word is stressed.
+     */
+    public static boolean[] getStressMap(String word) {
+        boolean[] result = new boolean[syllCount(word)];
+        int r = 0;
+        for (int i = 0; i < word.length() - 1; i++) {
+            char c = word.charAt(i);
+            boolean halosnaja = HALOSNYJA.indexOf(c) >= 0;
+            if (halosnaja) {
+                char c1 = word.charAt(i + 1);
+                if (STRESS_CHARS.indexOf(c1) >= 0) {
+                    result[r] = true;
+                }
+                r++;
+            }
+        }
+        return result;
+    }
+
+    /**
+     * Applies stress map to the word, returning a new word with stress characters
+     * inserted.
+     */
+    public static String applyStressMap(String word, boolean[] stressMap) {
+        StringBuilder result = new StringBuilder();
+        int r = 0;
+        for (int i = 0; i < word.length(); i++) {
+            char c = word.charAt(i);
+            result.append(c);
+            boolean halosnaja = HALOSNYJA.indexOf(c) >= 0;
+            if (halosnaja) {
+                if (stressMap[r]) {
+                    result.append(STRESS_CHAR);
+                }
+                r++;
+            }
+        }
+        return result.toString();
+    }
+
     public static int getStressFromStart(String word) {
         int r = 0;
         for (int i = 0; i < word.length() - 1; i++) {

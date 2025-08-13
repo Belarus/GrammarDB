@@ -1336,6 +1336,9 @@ public class CheckGrammarDB {
         if (v.getZmienyFanietyki() == null) {
             return;
         }
+        if (v.getZmienyFanietyki().equals("^і")) {
+            return;
+        }
         if (!v.getZmienyFanietyki().toLowerCase().matches("[ёйцукенгґшўзх'фывапролджэячсмітьбю\\+\u0301]+:[ёйцукенгґшўзх'фывапролджэячсмітьбю\\\\+\u0301]+")) {
             throw new KnownError("13_zmienyFanietyki", "Няправільныя змены фанетыкі: " + v.getZmienyFanietyki());
         }

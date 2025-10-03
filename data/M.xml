@@ -2921,36 +2921,6 @@
             <Form tag="PLP" slouniki="prym2009,sbm2012">чацвяры+х</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127497" lemma="чацве+рты" tag="MAOS">
-        <Variant id="a" lemma="чацве+рты">
-            <Form tag="MNS">чацве+рты</Form>
-            <Form tag="MGS">чацве+ртага</Form>
-            <Form tag="MDS">чацве+ртаму</Form>
-            <Form tag="MAS" options="anim">чацве+ртага</Form>
-            <Form tag="MAS" options="inanim">чацве+рты</Form>
-            <Form tag="MIS">чацве+ртым</Form>
-            <Form tag="MLS">чацве+ртым</Form>
-            <Form tag="FNS">чацве+ртая</Form>
-            <Form tag="FGS">чацве+ртай</Form>
-            <Form tag="FDS">чацве+ртай</Form>
-            <Form tag="FAS">чацве+ртую</Form>
-            <Form tag="FIS">чацве+ртай</Form>
-            <Form tag="FLS">чацве+ртай</Form>
-            <Form tag="NNS">чацве+ртае</Form>
-            <Form tag="NGS">чацве+ртага</Form>
-            <Form tag="NDS">чацве+ртаму</Form>
-            <Form tag="NAS">чацве+ртае</Form>
-            <Form tag="NIS">чацве+ртым</Form>
-            <Form tag="NLS">чацве+ртым</Form>
-            <Form tag="PNP">чацве+ртыя</Form>
-            <Form tag="PGP">чацве+ртых</Form>
-            <Form tag="PDP">чацве+ртым</Form>
-            <Form tag="PAP" options="anim">чацве+ртых</Form>
-            <Form tag="PAP" options="inanim">чацве+ртыя</Form>
-            <Form tag="PIP">чацве+ртымі</Form>
-            <Form tag="PLP">чацве+ртых</Form>
-        </Variant>
-    </Paradigm>
     <Paradigm pdgId="1192908" lemma="чацвё+рты" tag="MAOS">
         <Variant id="a" lemma="чацвё+рты" pravapis="A1957,A2008">
             <Form tag="MNS" slouniki="prym2009,tsblm1996,tsbm1984,sbm2012,krapivabr2012">чацвё+рты</Form>
@@ -2981,6 +2951,34 @@
             <Form tag="PAP" slouniki="prym2009" options="inanim">чацвё+ртыя</Form>
             <Form tag="PIP" slouniki="prym2009">чацвё+ртымі</Form>
             <Form tag="PLP" slouniki="prym2009">чацвё+ртых</Form>
+        </Variant>
+        <Variant id="b" lemma="чацве+рты" type="nonstandard">
+            <Form tag="MNS">чацве+рты</Form>
+            <Form tag="MGS">чацве+ртага</Form>
+            <Form tag="MDS">чацве+ртаму</Form>
+            <Form tag="MAS" options="anim">чацве+ртага</Form>
+            <Form tag="MAS" options="inanim">чацве+рты</Form>
+            <Form tag="MIS">чацве+ртым</Form>
+            <Form tag="MLS">чацве+ртым</Form>
+            <Form tag="FNS">чацве+ртая</Form>
+            <Form tag="FGS">чацве+ртай</Form>
+            <Form tag="FDS">чацве+ртай</Form>
+            <Form tag="FAS">чацве+ртую</Form>
+            <Form tag="FIS">чацве+ртай</Form>
+            <Form tag="FLS">чацве+ртай</Form>
+            <Form tag="NNS">чацве+ртае</Form>
+            <Form tag="NGS">чацве+ртага</Form>
+            <Form tag="NDS">чацве+ртаму</Form>
+            <Form tag="NAS">чацве+ртае</Form>
+            <Form tag="NIS">чацве+ртым</Form>
+            <Form tag="NLS">чацве+ртым</Form>
+            <Form tag="PNP">чацве+ртыя</Form>
+            <Form tag="PGP">чацве+ртых</Form>
+            <Form tag="PDP">чацве+ртым</Form>
+            <Form tag="PAP" options="anim">чацве+ртых</Form>
+            <Form tag="PAP" options="inanim">чацве+ртыя</Form>
+            <Form tag="PIP">чацве+ртымі</Form>
+            <Form tag="PLP">чацве+ртых</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1127498" lemma="шасна+ццаты" tag="MAOS">

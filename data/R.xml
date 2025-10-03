@@ -5092,6 +5092,11 @@
             <Form tag="P">багабо+йна</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1329295" lemma="багаве+йліва" tag="RX">
+        <Variant id="a" lemma="багаве+йліва" pravapis="A2008" prystauki="баг|а|">
+            <Form tag="P">багаве+йліва</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1300094" lemma="багаве+йна" tag="RX">
         <Variant id="a" lemma="багаве+йна" slouniki="piskunou2012:20913" pravapis="A2008" prystauki="баг{а}|">
             <Form tag="P">багаве+йна</Form>
@@ -9639,9 +9644,9 @@
             <Form tag="P" slouniki="sbm2012,krapivabr2012">ваўчко+м</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1054894" lemma="вахтава" tag="RA" regulation="add">
-        <Variant id="a" lemma="вахтава">
-            <Form tag="P">вахтава</Form>
+    <Paradigm pdgId="1054894" lemma="ва+хтава" tag="RA" regulation="add">
+        <Variant id="a" lemma="ва+хтава">
+            <Form tag="P">ва+хтава</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1329250" lemma="вачаві+дкі" tag="RX" meaning="увачавідкі">
@@ -9649,9 +9654,9 @@
             <Form tag="P">вачаві+дкі</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1054900" lemma="вашыва" tag="RA">
-        <Variant id="a" lemma="вашыва">
-            <Form tag="P">вашыва</Form>
+    <Paradigm pdgId="1054900" lemma="вашы+ва" tag="RA">
+        <Variant id="a" lemma="вашы+ва">
+            <Form tag="P">вашы+ва</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1300299" lemma="ваяві+та" tag="RX">

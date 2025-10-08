@@ -52,7 +52,7 @@
 							<goal>export-spell-checker</goal>
 						</goals>
 						<configuration>
-							<xmlDataDir>../data</xmlDataDir>
+							<xmlDataDir>data</xmlDataDir>
 							<textOutputFile>${project.build.directory}/spellchecker/slovy-2008.txt</textOutputFile>
 							<textOutputFileWithStress>${project.build.directory}/spellchecker/slovy-2008-stress.txt</textOutputFileWithStress>
 						</configuration>
@@ -64,7 +64,7 @@
 						</goals>
 						<configuration>
 							<inputText>${project.build.directory}/spellchecker/slovy-2008.txt</inputText>
-							<inputInfo>be_BY.info</inputInfo>
+							<inputInfo>${project.basedir}/be_BY.info</inputInfo>
 							<outputDict>${project.build.directory}/be_BY.dict</outputDict>
 						</configuration>
 					</execution>

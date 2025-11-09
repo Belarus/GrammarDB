@@ -10,7 +10,7 @@
 	</formats>
 	<fileSets>
 		<fileSet>
-			<directory>../data</directory>
+			<directory>${project.build.directory}/export/</directory>
 			<outputDirectory>/</outputDirectory>
 		</fileSet>
 	</fileSets>

@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.github.belarus</groupId>
-	<artifactId>linguistics.grammardb.spell.compiler</artifactId>
-	<version>1.0.1</version>
+	<artifactId>linguistics.grammardb.compiler</artifactId>
+	<version>1.0.3</version>
 	<packaging>maven-plugin</packaging>
 
 	<properties>

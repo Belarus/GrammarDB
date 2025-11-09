@@ -5,8 +5,12 @@
 
 	<groupId>io.github.belarus</groupId>
 	<artifactId>linguistics.grammardb.data.xml</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>pom</packaging>
+
+	<properties>
+		<maven.build.timestamp.format>yyyyMM</maven.build.timestamp.format>
+	</properties>
 
 	<distributionManagement>
 		<repository>
@@ -17,7 +21,37 @@
 	</distributionManagement>
 
 	<build>
+		<finalName>RELEASE-${maven.build.timestamp}</finalName>
 		<plugins>
+			<plugin>
+				<groupId>io.github.belarus</groupId>
+				<artifactId>linguistics.grammardb.compiler</artifactId>
+				<version>1.0.3</version>
+				<executions>
+					<execution>
+						<id>xml2xml</id>
+						<goals>
+							<goal>export-database</goal>
+						</goals>
+						<configuration>
+							<xmlDataDir>data</xmlDataDir>
+							<exportDir>${project.build.directory}/export/</exportDir>
+							<reviewDir>${project.build.directory}/to-review-no-show/</reviewDir>
+						</configuration>
+					</execution>
+					<execution>
+						<id>xml2text</id>
+						<goals>
+							<goal>export-spell-checker</goal>
+						</goals>
+						<configuration>
+							<xmlDataDir>data</xmlDataDir>
+							<textOutputFile>${project.build.directory}/export/spellchecker/slovy-2008.txt</textOutputFile>
+							<textOutputFileWithStress>${project.build.directory}/export/spellchecker/slovy-2008-stress.txt</textOutputFileWithStress>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>

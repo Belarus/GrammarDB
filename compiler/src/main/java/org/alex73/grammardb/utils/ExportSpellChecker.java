@@ -83,15 +83,9 @@ public class ExportSpellChecker extends AbstractMojo {
         duplicateU(temp2, true);
         duplicateU(temp2, true);
         System.out.println("Сартаванне спісаў...");
-        // List<String> list2008flc =
-        // temp1.stream().sorted(BE).distinct().collect(Collectors.toList());
+
         List<String> list2008uniq = temp2.stream().sorted(BE).distinct().collect(Collectors.toList());
         List<String> list2008uniqStress = temp3.stream().sorted(BE).distinct().collect(Collectors.toList());
-
-        // Files.write(Paths.get("slovy-2008-z_naciskami_i_razdialicielami.txt"),
-        // list2008);
-        // Files.write(Paths.get("slovy-2008-forma+lemma+cascinamovy.txt"),
-        // list2008flc);
 
         Path out = Path.of(textOutputFile);
         Path outStress = Path.of(textOutputFileWithStress);

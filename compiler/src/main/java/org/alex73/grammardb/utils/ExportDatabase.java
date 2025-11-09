@@ -13,27 +13,43 @@ import org.alex73.grammardb.GrammarDBSaver;
 import org.alex73.grammardb.structures.Form;
 import org.alex73.grammardb.structures.Paradigm;
 import org.alex73.grammardb.structures.Variant;
+import org.apache.maven.plugin.AbstractMojo;
+import org.apache.maven.plugin.MojoExecutionException;
+import org.apache.maven.plugin.MojoFailureException;
+import org.apache.maven.plugins.annotations.LifecyclePhase;
+import org.apache.maven.plugins.annotations.Mojo;
+import org.apache.maven.plugins.annotations.Parameter;
 
 /**
- * Экспартуе звесткі для праверкі правапісу.
+ * Экспартуе звесткі для праверкі правапісу і рэлізу базы.
  */
-public class ExportDatabase {
-    public static void main(String[] args) throws Exception {
-        if (args.length != 2) {
-            System.err.println("ExportDatabase <input_data_dir> <output_dir> ");
-            System.exit(1);
+@Mojo(name = "export-database", defaultPhase = LifecyclePhase.COMPILE)
+public class ExportDatabase extends AbstractMojo {
+
+    @Parameter(property = "xmlDataDir", required = true)
+    String xmlDataDir;
+    @Parameter(property = "exportDir", required = true)
+    String exportDir;
+    @Parameter(property = "reviewDir", required = true)
+    String reviewDir;
+
+    public void execute() throws MojoExecutionException, MojoFailureException {
+        try {
+            run();
+        } catch (Exception ex) {
+            throw new MojoFailureException(ex);
         }
-        Path inDir = Paths.get(args[0]);
-        Path outDir = Paths.get(args[1]);
-        deleteDirectory(outDir);
-        Files.createDirectories(outDir.resolve("spellchecker/"));
+    }
+
+    private void run() throws Exception {
+        Path inDir = Paths.get(xmlDataDir);
+        Path exportDirPath = Paths.get(exportDir);
+        Path reviewDirPath = Paths.get(reviewDir);
+        deleteDirectory(exportDirPath);
+        deleteDirectory(reviewDirPath);
 
         GrammarDB2 db = GrammarDB2.initializeFromDir(inDir.toAbsolutePath().toString());
-
-        System.out.println("Запісваем кэш...");
-        db.makeCache(outDir.resolve("cache/").toAbsolutePath().toString());
-
-        System.out.println("Фільтраванне базы - што не паказваем...");
+        System.out.println("Фільтраванне базы - што не паказваем - у " + reviewDirPath.toAbsolutePath() + "...");
         db.getAllParadigms().parallelStream().forEach(p -> {
             for (Variant v : p.getVariant()) {
                 if (v.getForm().isEmpty()) {
@@ -46,9 +62,9 @@ public class ExportDatabase {
             }
         });
         removeEmpty(db.getAllParadigms());
-        GrammarDBSaver.sortAndStore(db, outDir.resolve("noshow/").toAbsolutePath().toString());
+        GrammarDBSaver.sortAndStore(db, reviewDirPath.toAbsolutePath().toString());
 
-        System.out.println("Фільтраванне базы для паказу...");
+        System.out.println("Фільтраванне базы для паказу - у " + exportDirPath.toAbsolutePath() + "...");
         db = GrammarDB2.initializeFromDir(inDir.toAbsolutePath().toString());
         db.getAllParadigms().parallelStream().forEach(p -> {
             for (Variant v : p.getVariant()) {
@@ -61,7 +77,10 @@ public class ExportDatabase {
             }
         });
         removeEmpty(db.getAllParadigms());
-        GrammarDBSaver.sortAndStore(db, outDir.resolve("export/").toAbsolutePath().toString());
+        GrammarDBSaver.sortAndStore(db, exportDirPath.toAbsolutePath().toString());
+
+        System.out.println("Запісваем кэш у " + exportDirPath.resolve("cache/").toAbsolutePath() + "...");
+        db.makeCache(exportDirPath.resolve("binary-cache/").toAbsolutePath().toString());
     }
 
     static void deleteDirectory(Path d) throws IOException {

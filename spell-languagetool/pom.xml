@@ -3,9 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
+	<!-- Для LanguageTool патрэбны асобны модуль, які потым пакуецца ў 
+	maven артыфакт io.github.belarus:linguistics.grammardb.spell.languagetool:version -->
+
 	<groupId>io.github.belarus</groupId>
 	<artifactId>linguistics.grammardb.spell.languagetool</artifactId>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<packaging>pom</packaging>
 
 	<name>GrammarDB-LanguageTool</name>
@@ -43,27 +46,16 @@
 		<plugins>
 			<plugin>
 				<groupId>io.github.belarus</groupId>
-				<artifactId>linguistics.grammardb.spell.compiler</artifactId>
-				<version>1.0.1</version>
+				<artifactId>linguistics.grammardb.compiler</artifactId>
+				<version>1.0.3</version>
 				<executions>
-					<execution>
-						<id>xml2text</id>
-						<goals>
-							<goal>export-spell-checker</goal>
-						</goals>
-						<configuration>
-							<xmlDataDir>data</xmlDataDir>
-							<textOutputFile>${project.build.directory}/spellchecker/slovy-2008.txt</textOutputFile>
-							<textOutputFileWithStress>${project.build.directory}/spellchecker/slovy-2008-stress.txt</textOutputFileWithStress>
-						</configuration>
-					</execution>
 					<execution>
 						<id>text2dict</id>
 						<goals>
 							<goal>compile-lt-spell-checker</goal>
 						</goals>
 						<configuration>
-							<inputText>${project.build.directory}/spellchecker/slovy-2008.txt</inputText>
+							<inputText>${project.basedir}/../data-assembly/target/export/spellchecker/slovy-2008.txt</inputText>
 							<inputInfo>${project.basedir}/be_BY.info</inputInfo>
 							<outputDict>${project.build.directory}/be_BY.dict</outputDict>
 						</configuration>

@@ -1,5 +1,8 @@
 package org.alex73.grammardb.utils;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugin.MojoFailureException;
@@ -25,6 +28,7 @@ public class CompileLTSpellChecker extends AbstractMojo {
     }
 
     private void run() throws Exception {
+        Files.createDirectories(Path.of(outputDict).getParent());
         org.languagetool.tools.RunSpellDictionaryBuilder.main(new String[] { "be-BY", "-i", inputText, "-info", inputInfo, "-o", outputDict });
     }
 }

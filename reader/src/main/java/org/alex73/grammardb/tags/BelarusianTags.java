@@ -42,21 +42,21 @@ public class BelarusianTags implements IGrammarTags {
     public BelarusianTags() {
         root = new TagLetter();
 
-        nazounik(root);
-        licebnik(root);
-        zajmiennik(root);
-        prymietnik(root);
-        dziejaslou(root);
-        dziejeprymietnik(root);
-        pryslouje(root);
-        zlucnik(root);
-        prynazounik(root);
-        cascica(root);
-        vyklicnik(root);
-        pabocnaje(root);
-        predykatyu(root);
-        abrev(root);
-        castki(root);
+        N_nazounik(root);
+        M_licebnik(root);
+        S_zajmiennik(root);
+        A_prymietnik(root);
+        V_dziejaslou(root);
+        P_dziejeprymietnik(root);
+        R_pryslouje(root);
+        C_zlucnik(root);
+        I_prynazounik(root);
+        E_cascica(root);
+        Y_vyklicnik(root);
+        Z_pabocnaje(root);
+        W_predykatyu(root);
+        K_abrev(root);
+        F_castki(root);
 
         checkParadigmMarks(root, "", 0);
         checkDuplicateGroups(root, new ArrayList<>());
@@ -230,7 +230,7 @@ public class BelarusianTags implements IGrammarTags {
         return null;
     }
 
-    private void nazounik(TagLetter t) {
+    private void N_nazounik(TagLetter t) {
         t = t.add("Часціна мовы => N:назоўнік");
         t.add("Новы=>+:новы").latestInParadigm();
         t = t.add("Уласнасць => C:агульны;P:уласны;X:-");
@@ -257,7 +257,7 @@ public class BelarusianTags implements IGrammarTags {
         su = su.add("Лік => S:адзіночны лік;P:множны лік");
     }
 
-    private void licebnik(TagLetter t) {
+    private void M_licebnik(TagLetter t) {
         TagLetter t0 = t.add("Часціна мовы => M:лічэбнік");
         t = t0.add("Словазмяненне => N:словазмяненне як у назоўніка;A:словазмяненне як у прыметніка;X:-");
         TagLetter t2=t0.add("Словазмяненне => 0:няма словазмянення");
@@ -272,9 +272,9 @@ public class BelarusianTags implements IGrammarTags {
         z = z.add("Лік => S:адзіночны лік;P:множны лік;X:-");
     }
 
-    private void zajmiennik(TagLetter t) {
+    private void S_zajmiennik(TagLetter t) {
         t = t.add("Часціна мовы => S:займеннік");
-        t = t.add("Словазмяненне => N:N:словазмяненне як у назоўніка;A:N:словазмяненне як у прыметніка;0:нязменны");
+        t = t.add("Словазмяненне => N:словазмяненне як у назоўніка;A:словазмяненне як у прыметніка;0:нязменны");
         t = t.add(
                 "Разрад => P:асабовы;R:зваротны;S:прыналежны;D:указальны;E:азначальны;L:пытальна-адносны;N:адмоўны;F:няпэўны");
         t = t.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы;X:-").latestInParadigm();
@@ -285,7 +285,7 @@ public class BelarusianTags implements IGrammarTags {
         z = z.add("Лік => S:адзіночны лік;P:множны лік;X:-");
     }
 
-    private void prymietnik(TagLetter t) {
+    private void A_prymietnik(TagLetter t) {
         t = t.add("Часціна мовы => A:прыметнік");
         t.add("Тып => 0:нескланяльны").latestInParadigm();
         t = t.add("Тып => Q:якасны;R:адносны;P:прыналежны;X:-");
@@ -297,7 +297,7 @@ public class BelarusianTags implements IGrammarTags {
         t = t.add("Лік => S:адзіночны лік;P:множны лік");
     }
 
-    private void dziejaslou(TagLetter t) {
+    private void V_dziejaslou(TagLetter t) {
         t = t.add("Часціна мовы => V:дзеяслоў");
         t.add("Новы=>+:новы").latestInParadigm();
         t = t.add("Пераходнасць => T:пераходны;I:непераходны;D:пераходны/непераходны;X:-");
@@ -328,7 +328,7 @@ public class BelarusianTags implements IGrammarTags {
         casM = casM.add("Лік => S:адзіночны лік;P:множны лік");
     }
 
-    private void dziejeprymietnik(TagLetter t) {
+    private void P_dziejeprymietnik(TagLetter t) {
         t = t.add("Часціна мовы => P:дзеепрыметнік");
         t = t.add("Стан => A:незалежны стан;P:залежны стан");
         t = t.add("Час => R:цяперашні час;P:прошлы час");
@@ -341,7 +341,7 @@ public class BelarusianTags implements IGrammarTags {
         pt.add("Кароткая форма => R:ж. і н.");
     }
 
-    private void pryslouje(TagLetter t) {
+    private void R_pryslouje(TagLetter t) {
         t = t.add("Часціна мовы => R:прыслоўе");
         t.add("Новы=>+:новы").latestInParadigm();
         t = t.add(
@@ -351,7 +351,7 @@ public class BelarusianTags implements IGrammarTags {
         t = t.add("Ступень параўнання => P:станоўчая ступень параўнання;C:вышэйшая ступень параўнання;S:найвышэйшая ступень параўнання");
     }
 
-    private void zlucnik(TagLetter t) {
+    private void C_zlucnik(TagLetter t) {
         t = t.add("Часціна мовы => C:злучнік");
         TagLetter s = t.add("Тып => S:падпарадкавальны");
         TagLetter k = t.add("Тып => K:злучальны");
@@ -362,31 +362,31 @@ public class BelarusianTags implements IGrammarTags {
                 .latestInParadigm();
     }
 
-    private void prynazounik(TagLetter t) {
+    private void I_prynazounik(TagLetter t) {
         t.add("Часціна мовы => I:прыназоўнік").latestInParadigm();
     }
 
-    private void cascica(TagLetter t) {
+    private void E_cascica(TagLetter t) {
         t.add("Часціна мовы => E:часціца").latestInParadigm();
     }
 
-    private void vyklicnik(TagLetter t) {
+    private void Y_vyklicnik(TagLetter t) {
         t.add("Часціна мовы => Y:выклічнік").latestInParadigm();
     }
 
-    private void pabocnaje(TagLetter t) {
+    private void Z_pabocnaje(TagLetter t) {
         t.add("Часціна мовы => Z:пабочнае слова").latestInParadigm();
     }
 
-    private void predykatyu(TagLetter t) {
+    private void W_predykatyu(TagLetter t) {
         t.add("Часціна мовы => W:прэдыкатыў").latestInParadigm();
     }
 
-    private void abrev(TagLetter t) {
+    private void K_abrev(TagLetter t) {
         t = t.add("Часціна мовы => K:абрэвіятуры").latestInParadigm();
     }
 
-    private void castki(TagLetter t) {
+    private void F_castki(TagLetter t) {
         t = t.add("Часціна мовы => F:частка слова");
         t.add("Тып => P:прыстаўка;F:1-я састаўная частка складаных слоў;S:2-я састаўная частка складаных слоў")
                 .latestInParadigm();

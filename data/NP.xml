@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Wordlist>
-    <Paradigm pdgId="1127981" lemma="АА+Н" tag="NPIIBF0">
+    <Paradigm pdgId="1127981" lemma="АА+Н" tag="NPIIKF0">
         <Variant id="a" lemma="АА+Н" slouniki="piskunou2012:15" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">АА+Н</Form>
             <Form tag="GS">АА+Н</Form>
@@ -15798,6 +15798,16 @@
             <Form tag="LP">Баяра+х</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1314492" lemma="БДУ" tag="NPIIKM0">
+        <Variant id="a" lemma="БДУ" pravapis="A2008">
+            <Form tag="NS">БДУ</Form>
+            <Form tag="GS">БДУ</Form>
+            <Form tag="DS">БДУ</Form>
+            <Form tag="AS">БДУ</Form>
+            <Form tag="IS">БДУ</Form>
+            <Form tag="LS">БДУ</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1322164" lemma="Бегуны+" tag="NPIINP7" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Бегуны+" pravapis="A2008">
             <Form tag="NP">Бегуны+</Form>
@@ -23084,7 +23094,7 @@
             <Form tag="LS">Бухо+ўцы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1027794" lemma="БУ+Ц" tag="NPIIBF0">
+    <Paradigm pdgId="1027794" lemma="БУ+Ц" tag="NPIIKF0">
         <Variant id="a" lemma="БУ+Ц">
             <Form tag="NS">БУ+Ц</Form>
             <Form tag="GS">БУ+Ц</Form>
@@ -32312,6 +32322,26 @@
             <Form tag="MLS">Вішэ+нскім</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1230134" lemma="ВКЛ" tag="NPIIKN0">
+        <Variant id="a" lemma="ВКЛ" slouniki="piskunou2012:33010" pravapis="A2008">
+            <Form tag="NS">ВКЛ</Form>
+            <Form tag="GS">ВКЛ</Form>
+            <Form tag="DS">ВКЛ</Form>
+            <Form tag="AS">ВКЛ</Form>
+            <Form tag="IS">ВКЛ</Form>
+            <Form tag="LS">ВКЛ</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1230135" lemma="ВКП(б)" tag="NPIIKF0">
+        <Variant id="a" lemma="ВКП(б)" slouniki="piskunou2012:33011" pravapis="A2008">
+            <Form tag="NS">ВКП(б)</Form>
+            <Form tag="GS">ВКП(б)</Form>
+            <Form tag="DS">ВКП(б)</Form>
+            <Form tag="AS">ВКП(б)</Form>
+            <Form tag="IS">ВКП(б)</Form>
+            <Form tag="LS">ВКП(б)</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1037819" lemma="Владзі+меж" tag="NPAPNM1" theme="Імёны ўласныя/Таксаномія/антрапонімы/імёны">
         <Variant id="a" lemma="Владзі+меж" pravapis="A1957,A2008">
             <Form tag="NS">Владзі+меж</Form>
@@ -32326,6 +32356,16 @@
             <Form tag="AP">Владзі+межаў</Form>
             <Form tag="IP">Владзі+межамі</Form>
             <Form tag="LP">Владзі+межах</Form>
+        </Variant>
+    </Paradigm>
+    <Paradigm pdgId="1230136" lemma="ВЛКСМ" tag="NPIIKM0">
+        <Variant id="a" lemma="ВЛКСМ" slouniki="piskunou2012:33012" pravapis="A2008">
+            <Form tag="NS">ВЛКСМ</Form>
+            <Form tag="GS">ВЛКСМ</Form>
+            <Form tag="DS">ВЛКСМ</Form>
+            <Form tag="AS">ВЛКСМ</Form>
+            <Form tag="IS">ВЛКСМ</Form>
+            <Form tag="LS">ВЛКСМ</Form>
         </Variant>
     </Paradigm>
     <Paradigm pdgId="1317922" lemma="Во+бруб" tag="NPIINM1" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
@@ -84880,7 +84920,7 @@
             <Form tag="LS">Кміця+нцы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1313877" lemma="КНДР" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1313877" lemma="КНДР" tag="NPIIKF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="КНДР" pravapis="A1957,A2008">
             <Form tag="NS">КНДР</Form>
             <Form tag="GS">КНДР</Form>
@@ -113019,7 +113059,7 @@
             <Form tag="LP">Ме+шычах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1038453" lemma="МЗС" tag="NPIIBN0" theme="Імёны ўласныя/Таксаномія/арганізацыі">
+    <Paradigm pdgId="1038453" lemma="МЗС" tag="NPIIKN0" theme="Імёны ўласныя/Таксаномія/арганізацыі">
         <Variant id="a" lemma="МЗС" slouniki="piskunou2012:98573" pravapis="A2008">
             <Form tag="NS">МЗС</Form>
             <Form tag="GS">МЗС</Form>
@@ -146627,6 +146667,16 @@
             <Form tag="PLP">Ржэ+ўскіх</Form>
         </Variant>
     </Paradigm>
+    <Paradigm pdgId="1230141" lemma="РКП(б)" tag="NPIIKF0">
+        <Variant id="a" lemma="РКП(б)" slouniki="piskunou2012:166942" pravapis="A2008">
+            <Form tag="NS">РКП(б)</Form>
+            <Form tag="GS">РКП(б)</Form>
+            <Form tag="DS">РКП(б)</Form>
+            <Form tag="AS">РКП(б)</Form>
+            <Form tag="IS">РКП(б)</Form>
+            <Form tag="LS">РКП(б)</Form>
+        </Variant>
+    </Paradigm>
     <Paradigm pdgId="1315132" lemma="Ро+бенка" tag="NPIINF2" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="Ро+бенка" pravapis="A2008">
             <Form tag="NS">Ро+бенка</Form>
@@ -147395,7 +147445,7 @@
             <Form tag="LS">Ро+шчыцы</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1317643" lemma="РТС" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
+    <Paradigm pdgId="1317643" lemma="РТС" tag="NPIIKF0" theme="Імёны ўласныя/Таксаномія/тапонімы/айконімы/астыёнімы">
         <Variant id="a" lemma="РТС" pravapis="A2008">
             <Form tag="NS">РТС</Form>
             <Form tag="GS">РТС</Form>
@@ -149123,7 +149173,7 @@
             <Form tag="LP">Ру+шчыцах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1313900" lemma="РФ" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1313900" lemma="РФ" tag="NPIIKF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="РФ" pravapis="A1957,A2008">
             <Form tag="NS">РФ</Form>
             <Form tag="GS">РФ</Form>
@@ -174659,7 +174709,7 @@
             <Form tag="LP" type="potential">Тэха+сах</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127993" lemma="ТЮ+Г" tag="NPIIBM1">
+    <Paradigm pdgId="1127993" lemma="ТЮ+Г" tag="NPIIKM1">
         <Variant id="a" lemma="ТЮ+Г" slouniki="piskunou2012:193399" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="krapivabr2012">ТЮ+Г</Form>
             <Form tag="GS">ТЮГа</Form>
@@ -179010,7 +179060,7 @@
             <Form tag="LP">Франчэ+ска</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1127982" lemma="ФРГ" tag="NPIIBF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
+    <Paradigm pdgId="1127982" lemma="ФРГ" tag="NPIIKF0" theme="Імёны ўласныя/Таксаномія/тапонімы/харонімы">
         <Variant id="a" lemma="ФРГ" slouniki="piskunou2012:203126" pravapis="A1957,A2008">
             <Form tag="NS">ФРГ</Form>
             <Form tag="GS">ФРГ</Form>
@@ -196936,7 +196986,7 @@
             <Form tag="LS">Юндзяло+ве</Form>
         </Variant>
     </Paradigm>
-    <Paradigm pdgId="1203357" lemma="ЮНЕ+СКА" tag="NPIIBN0">
+    <Paradigm pdgId="1203357" lemma="ЮНЕ+СКА" tag="NPIIKN0">
         <Note>у слоўніках блытаніна склонаў:  у БРС і РБС жаночага роду</Note>
         <Variant id="a" lemma="ЮНЕ+СКА" slouniki="piskunou2012:217351" pravapis="A1957,A2008">
             <Form tag="NS" slouniki="tsbm1984">ЮНЕ+СКА</Form>

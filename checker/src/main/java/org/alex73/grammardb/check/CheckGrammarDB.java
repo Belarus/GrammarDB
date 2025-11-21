@@ -924,23 +924,16 @@ public class CheckGrammarDB {
     }
 
     void check2(Paradigm p, Variant v) {
-//        char cascinaMovy = p.getTag().charAt(0);
-//        if (cascinaMovy == 'C' || cascinaMovy == 'Y' || cascinaMovy == 'I' || cascinaMovy == 'E'
-//                || cascinaMovy == 'K' || cascinaMovy == 'S' || cascinaMovy == 'R') {
-//            return;
-//        }
         String tag = SetUtils.tag(p, v);
-        String l = belarusianTags.getValueOfGroup(tag, "Часціна мовы") == 'K' ? lettersK : letters;
+        String l = belarusianTags.getValueOfGroup(tag, "Часціна мовы") == 'N' && belarusianTags.getValueOfGroup(tag, "Скарачэнне") == 'K' ? lettersK : letters;
         if (isWordValid(p.getLemma(), l) != null) {
-            throw new KnownError("2_niapravilnyja_symbali",
-                    "Няправільныя сімвалы ў леме: " + isWordValid(p.getLemma(), l));
+            throw new KnownError("2_niapravilnyja_symbali", "Няправільныя сімвалы ў леме: " + isWordValid(p.getLemma(), l));
         }
-            for (Form f : v.getForm()) {
-                if (isWordValid(f.getValue(), l) != null) {
-                    throw new KnownError("2_niapravilnyja_symbali",
-                            "Няправільныя сімвалы ў форме " + f.getValue() + ": " + isWordValid(f.getValue(), l));
-                }
+        for (Form f : v.getForm()) {
+            if (isWordValid(f.getValue(), l) != null) {
+                throw new KnownError("2_niapravilnyja_symbali", "Няправільныя сімвалы ў форме " + f.getValue() + ": " + isWordValid(f.getValue(), l));
             }
+        }
     }
 
     Set<Integer> SKIP_KCAST = new TreeSet<>();//Arrays.asList(1193270, 1133782, 1182759, 1182760, 1143892));
@@ -978,20 +971,25 @@ public class CheckGrammarDB {
             }
         }
 
-            if (cascinaMovy != 'E' && cascinaMovy != 'I' && cascinaMovy != 'C' && cascinaMovy != 'K'
-                    && cascinaMovy != 'Y' && cascinaMovy != 'F') {
-                if (!needSkip("exSyllCount", p, v)) {
-                    if (!isAllUpper(v.getLemma()) && StressUtils.syllCount(v.getLemma()) < 1) {
-                        throw new KnownError("3_niama_halosnych", "Няма галосных у леме");
-                    }
-                    for (Form f : v.getForm()) {
-                        if (!f.getValue().isEmpty() && !isAllUpper(f.getValue())
-                                && StressUtils.syllCount(f.getValue()) < 1) {
-                            throw new KnownError("3_niama_halosnych", "Няма галосных у форме " + f.getValue());
-                        }
+        boolean checkHalosnyja = true;
+        if (cascinaMovy == 'E' || cascinaMovy == 'I' || cascinaMovy == 'C' || cascinaMovy == 'Y' || cascinaMovy == 'F') {
+            checkHalosnyja = false;
+        }
+        if (cascinaMovy == 'N' && belarusianTags.getValueOfGroup(SetUtils.tag(p, v), "Скарачэнне") == 'K') {
+            checkHalosnyja = false;
+        }
+        if (checkHalosnyja) {
+            if (!needSkip("exSyllCount", p, v)) {
+                if (!isAllUpper(v.getLemma()) && StressUtils.syllCount(v.getLemma()) < 1) {
+                    throw new KnownError("3_niama_halosnych", "Няма галосных у леме");
+                }
+                for (Form f : v.getForm()) {
+                    if (!f.getValue().isEmpty() && !isAllUpper(f.getValue()) && StressUtils.syllCount(f.getValue()) < 1) {
+                        throw new KnownError("3_niama_halosnych", "Няма галосных у форме " + f.getValue());
                     }
                 }
             }
+        }
     }
 
 

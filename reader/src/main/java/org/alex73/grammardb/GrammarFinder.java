@@ -2,6 +2,7 @@ package org.alex73.grammardb;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -135,6 +136,10 @@ public class GrammarFinder {
     public String getFan(String word) {
         word = StressUtils.unstress(word).toLowerCase();
         return fan.get(word);
+    }
+
+    public Collection<String> getAllFanValues() {
+        return fan.values();
     }
 
     private int hash(String word) {

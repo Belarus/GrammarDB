@@ -55,7 +55,6 @@ public class BelarusianTags implements IGrammarTags {
         Y_vyklicnik(root);
         Z_pabocnaje(root);
         W_predykatyu(root);
-        K_abrev(root);
         F_castki(root);
 
         checkParadigmMarks(root, "", 0);
@@ -236,7 +235,7 @@ public class BelarusianTags implements IGrammarTags {
         t = t.add("Уласнасць => C:агульны;P:уласны;X:-");
         t = t.add("Адушаўлёнасць => A:адушаўлёны;I:неадушаўлёны;X:-");
         t = t.add("Асабовасць => P:асабовы;I:неасабовы;X:-");
-        t = t.add("Скарачэнне => B:скарачэнне;N:не скарачэнне;X:-");
+        t = t.add("Скарачэнне => B:скарачэнне;N:не скарачэнне;K:абрэвіятура;X:-");
 
         TagLetter z = t.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род;C:агульны род;X:-");
         z = z.add(
@@ -380,10 +379,6 @@ public class BelarusianTags implements IGrammarTags {
 
     private void W_predykatyu(TagLetter t) {
         t.add("Часціна мовы => W:прэдыкатыў").latestInParadigm();
-    }
-
-    private void K_abrev(TagLetter t) {
-        t = t.add("Часціна мовы => K:абрэвіятуры").latestInParadigm();
     }
 
     private void F_castki(TagLetter t) {

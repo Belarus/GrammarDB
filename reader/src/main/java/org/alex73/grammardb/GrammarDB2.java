@@ -60,14 +60,14 @@ public class GrammarDB2 {
     public static GrammarDB2 initializeFromJar() throws Exception {
         long be = System.currentTimeMillis();
         GrammarDB2 r = null;
-        try (InputStream in = GrammarDB2.class.getResourceAsStream("/db.cache")) {
+        try (InputStream in = GrammarDB2.class.getResourceAsStream("/GrammarDB.cache")) {
             if (in != null) {
                 Input input = new Input(in, 65536);
                 r = loadFromCache(input);
             }
         }
         if (r == null) {
-            r = initializeFromDir("GrammarDB");
+            throw new Exception("There is no /GrammarDB.cache in classpath. Probably you need to import 'io.github.belarus:linguistics.grammardb.data.cache' maven jar");
         }
         long af = System.currentTimeMillis();
         System.out.println("GrammarDB deserialization time: " + (af - be) + "ms");
@@ -90,7 +90,7 @@ public class GrammarDB2 {
     }
 
     public void makeCache(String dir) throws IOException {
-        Path cacheFile = Paths.get(dir).resolve("db.cache");
+        Path cacheFile = Paths.get(dir).resolve("GrammarDB.cache");
 
         Files.createDirectories(cacheFile.getParent());
         long be = System.currentTimeMillis();

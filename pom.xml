@@ -1,5 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
@@ -7,6 +6,31 @@
 	<artifactId>linguistics.grammardb</artifactId>
 	<packaging>pom</packaging>
 	<version>1.0.0</version>
+
+	<name>GrammarDB</name>
+	<description>Grammar database of Belarusian language</description>
+	<url>https://github.com/Belarus/GrammarDB</url>
+
+	<licenses>
+		<license>
+			<name>Creative Commons Attribution-ShareAlike 4.0 International</name>
+			<url>https://creativecommons.org/licenses/by-sa/4.0/</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Aleś Bułojčyk</name>
+			<email>alex73mail@gmail.com</email>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/Belarus/GrammarDB.git</connection>
+		<developerConnection>scm:git:ssh://github.com:Belarus/GrammarDB.git</developerConnection>
+		<url>http://github.com/Belarus/GrammarDB</url>
+	</scm>
 
 	<modules>
 		<module>data-assembly</module>
@@ -16,11 +40,71 @@
 		<module>spell-languagetool</module>
 	</modules>
 
-	<distributionManagement>
-		<repository>
-			<id>ossrh</id>
-			<url>file:///tmp/repo</url>
-		</repository>
-	</distributionManagement>
+	<properties>
+		<maven.compiler.source>17</maven.compiler.source>
+		<maven.compiler.target>17</maven.compiler.target>
+		<maven.compiler.debug>true</maven.compiler.debug>
+	</properties>
 
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-source-plugin</artifactId>
+				<version>3.3.1</version>
+				<executions>
+					<execution>
+						<id>attach-sources</id>
+						<goals>
+							<goal>jar-no-fork</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-javadoc-plugin</artifactId>
+				<version>3.11.3</version>
+				<configuration>
+					<additionalOptions>
+						<additionalOption>-Xdoclint:none</additionalOption>
+					</additionalOptions>
+				</configuration>
+				<executions>
+					<execution>
+						<id>attach-javadocs</id>
+						<goals>
+							<goal>jar</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-gpg-plugin</artifactId>
+				<version>3.2.8</version>
+				<executions>
+					<execution>
+						<id>sign-artifacts</id>
+						<phase>verify</phase>
+						<goals>
+							<goal>sign</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.sonatype.central</groupId>
+				<artifactId>central-publishing-maven-plugin</artifactId>
+				<version>0.9.0</version>
+				<extensions>true</extensions>
+				<configuration>
+					<publishingServerId>central</publishingServerId>
+					<autoPublish>false</autoPublish>
+					<waitUntil>validated</waitUntil>
+					<excludeArtifacts>linguistics.grammardb.checker,linguistics.grammardb.compiler</excludeArtifacts>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 </project>

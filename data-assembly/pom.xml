@@ -1,24 +1,21 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>io.github.belarus</groupId>
-	<artifactId>linguistics.grammardb.data.xml</artifactId>
+	<parent>
+		<groupId>io.github.belarus</groupId>
+		<artifactId>linguistics.grammardb</artifactId>
+		<version>1.0.0</version>
+		<relativePath>../pom.xml</relativePath>
+	</parent>
+
+	<artifactId>linguistics.grammardb.data.cache</artifactId>
 	<version>1.0.1</version>
-	<packaging>pom</packaging>
+	<name>GrammarDB as in-memory cache</name>
 
 	<properties>
 		<maven.build.timestamp.format>yyyyMM</maven.build.timestamp.format>
 	</properties>
-
-	<distributionManagement>
-		<repository>
-			<id>ossrh</id>
-			<url>file:///tmp/repo/</url>
-			<!--url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url-->
-		</repository>
-	</distributionManagement>
 
 	<build>
 		<finalName>RELEASE-${maven.build.timestamp}</finalName>
@@ -54,6 +51,31 @@
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-resources-plugin</artifactId>
+				<version>3.3.1</version>
+				<executions>
+					<execution>
+						<id>copy-generated-resources</id>
+						<phase>prepare-package</phase>
+						<goals>
+							<goal>copy-resources</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${project.build.outputDirectory}</outputDirectory>
+							<resources>
+								<resource>
+									<directory>${project.build.directory}/export/binary-cache/</directory>
+									<includes>
+										<include>**/*</include>
+									</includes>
+								</resource>
+							</resources>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
 				<executions>
 					<execution>
@@ -63,6 +85,7 @@
 						</goals>
 						<configuration>
 							<appendAssemblyId>false</appendAssemblyId>
+							<attach>false</attach>
 							<descriptors>
 								<descriptor>${project.basedir}/data-assembly.xml</descriptor>
 							</descriptors>
@@ -70,21 +93,6 @@
 					</execution>
 				</executions>
 			</plugin>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-gpg-plugin</artifactId>
-				<version>1.5</version>
-				<executions>
-					<execution>
-						<id>sign-artifacts</id>
-						<phase>verify</phase>
-						<goals>
-							<goal>sign</goal>
-						</goals>
-					</execution>
-				</executions>
-			</plugin>
 		</plugins>
 	</build>
-
 </project>

@@ -46,8 +46,11 @@ public class FormsReadyFilter {
             slv.remove("piskunou2012");// правапіс - без піскунова, база - з піскуновым
         }
         boolean use = !slv.isEmpty();
-        if (!SetUtils.getSlouniki(v.getForm().get(0).getSlouniki()).isEmpty()) {
-            use = true;
+        for (Form f : v.getForm()) {
+            if (!SetUtils.getSlouniki(f.getSlouniki()).isEmpty()) {
+                use = true;
+                break;
+            }
         }
         if (tag.startsWith("NP")) {
             use = true;

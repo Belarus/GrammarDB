@@ -81,7 +81,6 @@ public class ExportSpellChecker extends AbstractMojo {
         duplicateU(list2008, false);
         duplicateU(temp1, true);
         duplicateU(temp2, true);
-        duplicateU(temp2, true);
         System.out.println("Сартаванне спісаў...");
 
         List<String> list2008uniq = temp2.stream().sorted(BE).distinct().collect(Collectors.toList());

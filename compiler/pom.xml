@@ -5,12 +5,12 @@
 	<parent>
 		<groupId>io.github.belarus</groupId>
 		<artifactId>linguistics.grammardb</artifactId>
-		<version>1.0.0</version>
+		<version>1.0.1</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<artifactId>linguistics.grammardb.compiler</artifactId>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<packaging>maven-plugin</packaging>
 
 	<properties>
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>io.github.belarus</groupId>
 			<artifactId>linguistics.grammardb.reader</artifactId>
-			<version>1.5.0</version>
+			<version>1.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.maven</groupId>

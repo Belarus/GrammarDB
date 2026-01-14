@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>linguistics.grammardb.compiler</artifactId>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<packaging>maven-plugin</packaging>
 
 	<properties>
@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>io.github.belarus</groupId>
 			<artifactId>linguistics.grammardb.reader</artifactId>
-			<version>1.6.0</version>
+			<version>1.7.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.maven</groupId>

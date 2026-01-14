@@ -35,6 +35,15 @@ public class TagLetter {
     /** true if letter must be latest in paradigm */
     private boolean latestInParadigm;
 
+    public final String groupName;
+    public final String[] valuesList;
+    public final List<TagLetter> children = new ArrayList<>();
+
+    public TagLetter(String groupName, String[] valuesList) {
+        this.groupName = groupName;
+        this.valuesList = valuesList;
+    }
+
     /**
      * Add child info like:
      * 
@@ -45,11 +54,10 @@ public class TagLetter {
         if (pos <= 0) {
             throw new RuntimeException("Error in add: " + text);
         }
-        String groupName = text.substring(0, pos).trim();
         String values = text.substring(pos + 2).trim();
-
-        TagLetter c = new TagLetter();
-        for (String v : values.split(";")) {
+        TagLetter c = new TagLetter(text.substring(0, pos).trim(), values.split(";"));
+        children.add(c);
+        for (String v : c.valuesList) {
             char code = v.charAt(0);
             if (!(code >= 'A' && code <= 'Z') && !(code >= '0' && code <= '9') && !(code == '+')) {
                 throw new RuntimeException("Error in letters: " + values);
@@ -58,7 +66,7 @@ public class TagLetter {
                 throw new RuntimeException("Error in letters: " + values);
             }
             OneLetterInfo newLetter = new OneLetterInfo();
-            newLetter.groupName = groupName;
+            newLetter.groupName = c.groupName;
             newLetter.letter = code;
             newLetter.description = v.substring(2);
             newLetter.nextLetters = c;

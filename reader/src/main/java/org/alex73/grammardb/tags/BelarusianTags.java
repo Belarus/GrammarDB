@@ -40,7 +40,7 @@ public class BelarusianTags implements IGrammarTags {
     private TagLetter root;
 
     public BelarusianTags() {
-        root = new TagLetter();
+        root = new TagLetter(null, null);
 
         N_nazounik(root);
         M_licebnik(root);
@@ -316,7 +316,6 @@ public class BelarusianTags implements IGrammarTags {
         casR.add("Дзеепрыслоўе => G:дзеепрыслоўе");
         casM.add("Дзеепрыслоўе => G:дзеепрыслоўе");
         TagLetter casOL = casO.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы");
-        casO.add("Дзеепрыслоўе => G:дзеепрыслоўе");
         zah = zah.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы");
 
         casRL = casRL.add("Лік => S:адзіночны лік;P:множны лік");

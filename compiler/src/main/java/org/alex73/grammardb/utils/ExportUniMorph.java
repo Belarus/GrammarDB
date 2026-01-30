@@ -2,6 +2,7 @@ package org.alex73.grammardb.utils;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.Collections;
 import java.util.List;
@@ -12,6 +13,7 @@ import org.alex73.grammardb.FormsReadyFilter;
 import org.alex73.grammardb.GrammarDB2;
 import org.alex73.grammardb.GrammarDBSaver;
 import org.alex73.grammardb.SetUtils;
+import org.alex73.grammardb.StressUtils;
 import org.alex73.grammardb.structures.Form;
 import org.alex73.grammardb.structures.FormOptions;
 import org.alex73.grammardb.structures.Paradigm;
@@ -26,82 +28,89 @@ public class ExportUniMorph {
 
         int pCount = 0;
         int fCount = 0;
-        try (BufferedWriter writer = new BufferedWriter(new FileWriter("bel.unimorph.txt"))) {
-            Collections.sort(db.getAllParadigms(), GrammarDBSaver.COMPARATOR);
+        Files.createDirectories(Path.of("unimorph"));
+        BufferedWriter writer = new BufferedWriter(new FileWriter("unimorph/bel.txt"));
+        BufferedWriter writerVoc = new BufferedWriter(new FileWriter("unimorph/bel_voc.txt"));
+        Collections.sort(db.getAllParadigms(), GrammarDBSaver.COMPARATOR);
 
-            for (Paradigm p : db.getAllParadigms()) {
-                for (Variant v : p.getVariant()) {
-                    List<Form> forms = FormsReadyFilter.getAcceptedForms(FormsReadyFilter.MODE.SPELL, p, v);
-                    if (forms == null) {
+        for (Paradigm p : db.getAllParadigms()) {
+            for (Variant v : p.getVariant()) {
+                List<Form> forms = FormsReadyFilter.getAcceptedForms(FormsReadyFilter.MODE.SPELL, p, v);
+                if (forms == null) {
+                    continue;
+                }
+                writer.write("\n");
+                writerVoc.write("\n");
+                boolean hasForms = false;
+                for (Form form : forms) {
+                    String tag = SetUtils.tag(p, v, form);
+                    String pos = getUniMorphPOS(tag);
+                    if (pos == null) {
                         continue;
                     }
-                    writer.write("\n");
-                    boolean hasForms = false;
-                    for (Form form : forms) {
-                        String tag = SetUtils.tag(p, v, form);
-                        String pos = getUniMorphPOS(tag);
-                        if (pos == null) {
-                            continue;
-                        }
-                        List<BiFunction<String, Form, String>> groups;
-                        switch (pos) {
-                        case "N":
-                        case "PROPN":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY);
-                            break;
-                        case "ADJ":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_COMPARISON, FEATURE_ANIMACY_OPTIONS);
-                            break;
-                        case "PRO":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY_OPTIONS, FEATURE_PERSON);
-                            break;
-                        case "NUM":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY_OPTIONS);
-                            break;
-                        case "CONJ":
-                        case "ADP":
-                        case "PART":
-                        case "INTJ":
-                        case "":
-                            groups = List.of();
-                            break;
-                        case "V":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_TENSE, FEATURE_ASPECT, FEATURE_VOICE, FEATURE_PERSON);
-                            break;
-                        case "V.PTCP":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY_OPTIONS);
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_TENSE, FEATURE_ASPECT, FEATURE_VOICE, FEATURE_COMPARISON,
-                                    FEATURE_ANIMACY, FEATURE_ANIMACY_OPTIONS, FEATURE_PERSON);
-                            break;
-                        case "V.CVB":
-                            groups = List.of(FEATURE_ASPECT);
-                            groups = List.of(FEATURE_TENSE, FEATURE_ASPECT);
-                            break;
-                        case "ADV":
-                            groups = List.of(FEATURE_COMPARISON);
-                            break;
-                        case "DET":
-                            groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_COMPARISON, FEATURE_ANIMACY, FEATURE_ANIMACY_OPTIONS,
-                                    FEATURE_PERSON);
-                            break;
-                        default:
-                            throw new RuntimeException("Wrong UniMorph POS: " + pos);
-                        }
+                    List<BiFunction<String, Form, String>> groups;
+                    switch (pos) {
+                    case "N":
+                    case "PROPN":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY);
+                        break;
+                    case "ADJ":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_COMPARISON, FEATURE_ANIMACY_OPTIONS);
+                        break;
+                    case "PRO":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY_OPTIONS, FEATURE_PERSON);
+                        break;
+                    case "NUM":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY_OPTIONS);
+                        break;
+                    case "CONJ":
+                    case "ADP":
+                    case "PART":
+                    case "INTJ":
+                    case "":
+                        groups = List.of();
+                        break;
+                    case "V":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_TENSE, FEATURE_ASPECT, FEATURE_VOICE, FEATURE_PERSON);
+                        break;
+                    case "V.PTCP":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_ANIMACY_OPTIONS);
                         groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_TENSE, FEATURE_ASPECT, FEATURE_VOICE, FEATURE_COMPARISON,
                                 FEATURE_ANIMACY, FEATURE_ANIMACY_OPTIONS, FEATURE_PERSON);
-                        String features = groups.stream().map(f -> f.apply(tag, form)).filter(s -> s != null).collect(Collectors.joining(";"))
-                                .replace("ANIM;ANIM", "ANIM").replace("INAN;INAN", "INAN");
-                        writer.write(v.getLemma() + "\t" + form.getValue() + "\t" + pos + (features.isEmpty() ? "" : (";" + features)) + "\n");
-                        fCount++;
-                        hasForms = true;
+                        break;
+                    case "V.CVB":
+                        groups = List.of(FEATURE_ASPECT);
+                        groups = List.of(FEATURE_TENSE, FEATURE_ASPECT);
+                        break;
+                    case "ADV":
+                        groups = List.of(FEATURE_COMPARISON);
+                        break;
+                    case "DET":
+                        groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_COMPARISON, FEATURE_ANIMACY, FEATURE_ANIMACY_OPTIONS,
+                                FEATURE_PERSON);
+                        break;
+                    default:
+                        throw new RuntimeException("Wrong UniMorph POS: " + pos);
                     }
-                    if (hasForms) {
-                        pCount++;
-                    }
+                    groups = List.of(FEATURE_CASE, FEATURE_NUMBER, FEATURE_GENDER, FEATURE_TENSE, FEATURE_ASPECT, FEATURE_VOICE, FEATURE_COMPARISON,
+                            FEATURE_ANIMACY, FEATURE_ANIMACY_OPTIONS, FEATURE_PERSON);
+                    String features = groups.stream().map(f -> f.apply(tag, form)).filter(s -> s != null).collect(Collectors.joining(";"))
+                            .replace("ANIM;ANIM", "ANIM").replace("INAN;INAN", "INAN");
+                    String line = v.getLemma() + "\t" + form.getValue() + "\t" + pos + (features.isEmpty() ? "" : (";" + features)) + "\n";
+                    writer.write(StressUtils.unstress(line));
+                    writerVoc.write(line);
+                    fCount++;
+                    hasForms = true;
+                }
+                if (hasForms) {
+                    pCount++;
                 }
             }
         }
         System.out.println("Парадыгм: " + pCount + ", форм: " + fCount);
+
+        writer.close();
+        writerVoc.close();
     }
 
     static BiFunction<String, Form, String> FEATURE_ANIMACY = (tag, form) -> {

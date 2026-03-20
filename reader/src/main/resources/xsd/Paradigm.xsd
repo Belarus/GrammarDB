@@ -261,6 +261,7 @@
     </xs:complexType>
   </xs:element>
   <xs:element name="Slounik">
+    <!-- TODO : remove -->
     <xs:complexType>
       <xs:simpleContent>
         <xs:extension base="xs:string">

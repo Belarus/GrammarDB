@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>linguistics.grammardb.compiler</artifactId>
-	<version>1.0.5</version>
+	<version>1.0.6</version>
 	<packaging>maven-plugin</packaging>
 
 	<properties>
@@ -50,6 +50,22 @@
 			<groupId>org.languagetool</groupId>
 			<artifactId>languagetool-tools</artifactId>
 			<version>6.4.3</version>
+		</dependency>
+		<!-- Для запісу parquet файлаў -->
+		<dependency>
+			<groupId>org.apache.parquet</groupId>
+			<artifactId>parquet-avro</artifactId>
+			<version>1.16.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.avro</groupId>
+			<artifactId>avro</artifactId>
+			<version>1.12.1</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.hadoop</groupId>
+			<artifactId>hadoop-common</artifactId>
+			<version>3.4.2</version>
 		</dependency>
 	</dependencies>
 

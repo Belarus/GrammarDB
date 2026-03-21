@@ -18,6 +18,9 @@ import org.apache.parquet.hadoop.ParquetWriter;
 import org.apache.parquet.hadoop.metadata.CompressionCodecName;
 import org.apache.parquet.io.LocalOutputFile;
 
+/**
+ * Export parquet for https://huggingface.co/datasets/alex73/GrammarDB
+ */
 public class ExportParquet {
     static final Path OUT = Path.of("/tmp/grammardb.parquet");
     static ParquetWriter<Line> writer;
@@ -38,7 +41,7 @@ public class ExportParquet {
                 for (Form f : v.getForm()) {
                     Line line = new Line();
                     line.pdgId = p.getPdgId();
-                    line.variantId = v.getId().charAt(0);
+                    line.variantId = v.getId();
                     line.variantLemma = v.getLemma();
                     line.variantType = v.getType() != null ? v.getType().value() : null;
                     line.paradigmOptions = p.getOptions() != null ? p.getOptions().value() : null;
@@ -74,7 +77,7 @@ public class ExportParquet {
 
     public static class Line {
         public int pdgId;
-        public char variantId;
+        public String variantId;
         public String variantLemma;
         @Nullable
         public String variantType;

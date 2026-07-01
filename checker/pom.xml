@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>linguistics.grammardb.checker</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 
 	<dependencies>
 		<dependency>
@@ -35,7 +35,6 @@
 							<mainClass>org.alex73.grammardb.check.DbUtilUI</mainClass>
 						</manifest>
 					</archive>
-					<outputDirectory>../</outputDirectory>
 					<finalName>GrammarDB-check</finalName>
 				</configuration>
 				<executions>

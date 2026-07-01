@@ -23,7 +23,7 @@
 			<plugin>
 				<groupId>io.github.belarus</groupId>
 				<artifactId>linguistics.grammardb.compiler</artifactId>
-				<version>1.0.6</version>
+				<version>1.0.7</version>
 				<executions>
 					<execution>
 						<id>xml2xml</id>
@@ -43,8 +43,9 @@
 						</goals>
 						<configuration>
 							<xmlDataDir>data</xmlDataDir>
-							<textOutputFile>${project.build.directory}/export/spellchecker/slovy-2008.txt</textOutputFile>
-							<textOutputFileWithStress>${project.build.directory}/export/spellchecker/slovy-2008-stress.txt</textOutputFileWithStress>
+							<textOutputFile2008>${project.build.directory}/export/spellchecker/slovy-2008.txt</textOutputFile2008>
+							<textOutputFile2008withStress>${project.build.directory}/export/spellchecker/slovy-2008-stress.txt</textOutputFile2008withStress>
+							<textOutputFileAll>${project.build.directory}/export/ocr/slovy.txt</textOutputFileAll>
 						</configuration>
 					</execution>
 				</executions>

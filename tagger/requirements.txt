@@ -1,0 +1,11 @@
+# Trained/used against /home/alex/.venv (Python 3.13), which already
+# provides torch, numpy, pandas, scikit-learn, scipy, tqdm.
+# The only extra dependency needed for these scripts is lightgbm
+# (gradient boosting baseline, see IMPLEMENTATION.md p.7 step 3).
+lightgbm
+torch
+numpy
+pandas
+scikit-learn
+scipy
+tqdm

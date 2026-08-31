@@ -136,6 +136,8 @@ def main() -> None:
     n_rows = 0
     for row in iter_split(args.forms, args.split, limit=args.limit or None):
         n_rows += 1
+        if n_rows % 100 == 0:
+            print(f"[{args.split}] rows={n_rows}", file=sys.stderr)
         examples = sample_masked_examples(
             row.word, row.lemma, row.tag, tree, rng, args.max_positions_per_tag
         )

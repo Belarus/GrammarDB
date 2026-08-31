@@ -60,7 +60,10 @@ def collect_examples(
 def evaluate(model: BaselineModel, examples: List[MaskedExample]) -> Dict[str, dict]:
     per_group_correct: Dict[str, int] = defaultdict(int)
     per_group_total: Dict[str, int] = defaultdict(int)
-    for ex in examples:
+    total_examples = len(examples)
+    for i, ex in enumerate(examples):
+        if i % 100 == 0:
+            print(f"  evaluate example {i+1}/{total_examples}", file=sys.stderr)
         pred = model.predict_letter(
             ex.group, ex.word, ex.lemma, ex.known_prefix, ex.allowed_letters
         )
@@ -132,14 +135,22 @@ def main() -> None:
     model = BaselineModel(tree)
     fit_report: Dict[str, dict] = {}
     for group, examples in by_group.items():
+        print(
+            f"  fit group={group!r} n={len(examples)} ...",
+            file=sys.stderr,
+        )
         fit_report[group] = model.fit_group(group, examples)
         print(
             f"  fit group={group!r} n={len(examples)} -> {fit_report[group]}",
             file=sys.stderr,
         )
 
+    print("  fit groups done", file=sys.stderr)
+
     val_report = evaluate(model, val_examples) if val_examples else {}
+    print("  val groups done", file=sys.stderr)
     test_report = evaluate(model, test_examples) if test_examples else {}
+    print("  test groups done", file=sys.stderr)
 
     out_dir = Path(args.out)
     model.save(out_dir)

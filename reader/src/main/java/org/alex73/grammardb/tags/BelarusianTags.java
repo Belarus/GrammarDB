@@ -21,49 +21,80 @@
 
 package org.alex73.grammardb.tags;
 
+import org.alex73.grammardb.tags.TagLetter.OneLetterInfo;
+import org.alex73.grammardb.tags.TagsReader.TagNode;
+
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 
-import org.alex73.grammardb.tags.TagLetter.OneLetterInfo;
-
 /**
- * Граматычныя пазнакі паказваюцца ў наступных месцах:
- * 1) Фільтар граматыкі для слова - checkboxes.
- * 2) Паказ граматычных табліц для слова.
- * 3) Паказ граматычных характарыстык аднаго слова.
- * 4) Граматычны слоўнік у "праектах у распрацоўцы".
+ * Рэалізацыя {@link IGrammarTags}, якая счытвае структуру граматычных тэгаў
+ * з канфігурацыйнага файла {@code belarusian_tags.txt}.
+ * <p>
+ * Апісанне фармату знаходзіцца ў каментарах у самім файле {@code belarusian_tags.txt}.
  */
 public class BelarusianTags implements IGrammarTags {
-    public static final String NO_GROUP_ITEM = "не ўжываецца";
-
-    private TagLetter root;
+    private final List<TagNode> tagNodes;
+    private final TagLetter root;
 
     public BelarusianTags() {
-        root = new TagLetter(null, null);
-
-        N_nazounik(root);
-        M_licebnik(root);
-        S_zajmiennik(root);
-        A_prymietnik(root);
-        V_dziejaslou(root);
-        P_dziejeprymietnik(root);
-        R_pryslouje(root);
-        C_zlucnik(root);
-        I_prynazounik(root);
-        E_cascica(root);
-        Y_vyklicnik(root);
-        Z_pabocnaje(root);
-        W_predykatyu(root);
-        F_castki(root);
+        this.tagNodes = TagsReader.read();
+        this.root = new TagLetter(null, null);
+        for (TagNode node : this.tagNodes) {
+            buildTagLetter(root, node);
+        }
 
         checkParadigmMarks(root, "", 0);
         checkDuplicateGroups(root, new ArrayList<>());
-        // праверыць якія групы не выкарыстоўваюцца
+    }
+
+    private void buildTagLetter(TagLetter parent, TagNode node) {
+        List<String> valuesList = new ArrayList<>();
+        if (node.values != null) {
+            for (Map.Entry<String, String> entry : node.values.entrySet()) {
+                valuesList.add(entry.getKey() + ":" + entry.getValue());
+            }
+        }
+
+        TagLetter c = new TagLetter(node.group, valuesList.toArray(new String[0]));
+        if (node.paradigm) {
+            c.latestInParadigm();
+        }
+        parent.children.add(c);
+
+        if (node.values != null) {
+            for (Map.Entry<String, String> entry : node.values.entrySet()) {
+                char code = entry.getKey().charAt(0);
+                OneLetterInfo newLetter = new OneLetterInfo();
+                newLetter.groupName = c.groupName;
+                newLetter.letter = code;
+                newLetter.description = entry.getValue();
+                newLetter.nextLetters = c;
+                for (OneLetterInfo li : parent.letters) {
+                    if (li.letter == newLetter.letter) {
+                        throw new RuntimeException("Already exist in letters: " + newLetter.letter);
+                    }
+                }
+                parent.letters.add(newLetter);
+            }
+        }
+
+        if (node.children != null) {
+            for (TagNode childNode : node.children) {
+                buildTagLetter(c, childNode);
+            }
+        }
+    }
+
+    @Override
+    public TagLetter getRoot() {
+        return root;
     }
 
     /**
-     * шукаем ва ўсіх тэгах count(latestInParadigm)==1
+     * Шукаем ва ўсіх тэгах count(latestInParadigm)==1
      */
     private void checkParadigmMarks(TagLetter tl, String code, int pmCount) {
         if (tl.isLatestInParadigm()) {
@@ -81,11 +112,11 @@ public class BelarusianTags implements IGrammarTags {
     }
 
     /**
-     * Павярае ці няма аднолькавых назваў груп у іерархіі.
+     * Правярае ці няма аднолькавых назваў груп у іерархіі.
      */
     private void checkDuplicateGroups(TagLetter tl, List<String> path) {
         for (OneLetterInfo li : tl.letters) {
-            if (path.contains(li.groupName) && !"Невядома".equals(li.groupName)) {
+            if (path.contains(li.groupName)) {
                 throw new RuntimeException("Duplicate group '" + li.groupName + "' in " + path);
             }
             path.add(li.groupName);
@@ -95,7 +126,7 @@ public class BelarusianTags implements IGrammarTags {
     }
 
     /**
-     * Ці правільны тэг у парадыгме ? latestInParadigm==true
+     * Ці правільны тэг у парадыгме? latestInParadigm==true
      */
     public boolean isValidParadigmTag(String code, String w) {
         TagLetter after = getTagLetterAfter(code, w);
@@ -128,7 +159,7 @@ public class BelarusianTags implements IGrammarTags {
     private TagLetter getTagLetterAfter(String code, String w) {
         TagLetter tags = root;
         for (char c : code.toCharArray()) {
-            if (c == 'x') { // TODO
+            if (c == 'x') {
                 if (tags.isFinish()) {
                     if (w != null) {
                         System.out.println(code + " " + w + " - зашмат літараў у кодзе");
@@ -158,10 +189,7 @@ public class BelarusianTags implements IGrammarTags {
         return tags;
     }
 
-    public TagLetter getRoot() {
-        return root;
-    }
-
+    @Override
     public TagLetter getNextAfter(String codeBegin) {
         TagLetter tags = root;
         for (char c : codeBegin.toCharArray()) {
@@ -173,8 +201,9 @@ public class BelarusianTags implements IGrammarTags {
         return tags;
     }
 
+    @Override
     public List<String> describe(String codeBegin, Set<String> excludeGroups) {
-        List<String> result = new ArrayList<String>();
+        List<String> result = new ArrayList<>();
         TagLetter tags = root;
         for (char c : codeBegin.toCharArray()) {
             OneLetterInfo info = tags.getLetterInfo(c);
@@ -192,6 +221,7 @@ public class BelarusianTags implements IGrammarTags {
         return result;
     }
 
+    @Override
     public char getValueOfGroup(String code, String group) {
         TagLetter tags = root;
         for (char c : code.toCharArray()) {
@@ -208,180 +238,5 @@ public class BelarusianTags implements IGrammarTags {
             }
         }
         return 0;
-    }
-
-    public String setValueOfGroup(String code, String group, char newValue) {
-        TagLetter tags = root;
-        for (int i=0;i<code.length();i++) {
-            char c= code.charAt(i);
-            OneLetterInfo li = tags.getLetterInfo(c);
-            if (li == null) {
-                throw new RuntimeException("Wrong tag: " + code);
-            }
-            if (group.equals(li.groupName)) {
-                return code.substring(0, i) + newValue + code.substring(i + 1);
-            }
-            tags = tags.next(c);
-            if (tags == null) {
-                throw new RuntimeException("Wrong tag: " + code);
-            }
-        }
-        return null;
-    }
-
-    private void N_nazounik(TagLetter t) {
-        t = t.add("Часціна мовы => N:назоўнік");
-        t = t.add("Уласнасць => C:агульны;P:уласны");
-        t = t.add("Адушаўлёнасць => A:адушаўлёны;I:неадушаўлёны");
-        t = t.add("Асабовасць => P:асабовы;I:неасабовы");
-        t = t.add("Скарачэнне => B:скарачэнне;N:не скарачэнне;K:абрэвіятура");
-
-        TagLetter z = t.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род;C:агульны род");
-        z = z.add(
-                "Скланенне => 1:1-е скланенне;2:2-е скланенне;3:3-е скланенне;0:нескланяльны;4:рознаскланяльны;6:змешанае скланенне")
-                .latestInParadigm();
-        z = z.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон;V:клічны склон");
-        z = z.add("Лік => S:адзіночны лік;P:множны лік");
-
-        TagLetter p = t.add("Множналікавыя => P:множны лік");
-        p = p.add("Скланенне => 0:нескланяльны;7:множналікавы").latestInParadigm();
-        p = p.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон;V:клічны склон");
-        p = p.add("Лік => S:адзіночны лік;P:множны лік");
-
-        TagLetter su = t.add("Субстантываванасць => S:субстантываваны;U:субстантываваны множналікавы");
-        su = su.add("Скланенне => 5:ад’ектыўнае скланенне").latestInParadigm();
-        su = su.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон;V:клічны склон");
-        TagLetter sus = su.add("Лік => S:адзіночны лік");
-        su.add("Лік => P:множны лік");
-        sus.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род"); // для субстантываваных
-    }
-
-    private void M_licebnik(TagLetter t) {
-        TagLetter t0 = t.add("Часціна мовы => M:лічэбнік");
-        t = t0.add("Словазмяненне => N:словазмяненне як у назоўніка;A:словазмяненне як у прыметніка");
-        TagLetter t2=t0.add("Словазмяненне => 0:няма словазмянення");
-        t = t.add("Значэнне => C:колькасны;O:парадкавы;K:зборны;F:дробавы");
-        t2 = t2.add("Значэнне => C:колькасны;O:парадкавы;K:зборны;F:дробавы");
-        t = t.add("Форма => S:просты;C:складаны").latestInParadigm();
-        t2 = t2.add("Форма => S:просты;C:складаны").latestInParadigm();
-
-        TagLetter z = t.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род;P:адсутнасць роду ў множным ліку");
-        t2.add("Нескланяльны => 0:нескланяльны");
-        z = z.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон");
-        z = z.add("Лік => S:адзіночны лік;P:множны лік");
-    }
-
-    private void S_zajmiennik(TagLetter t) {
-        t = t.add("Часціна мовы => S:займеннік");
-        t = t.add("Словазмяненне => N:словазмяненне як у назоўніка;A:словазмяненне як у прыметніка;0:нязменны");
-        t = t.add(
-                "Разрад => P:асабовы;R:зваротны;S:прыналежны;D:указальны;E:азначальны;L:пытальна-адносны;N:адмоўны;F:няпэўны");
-        t = t.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы").latestInParadigm();
-
-        TagLetter z = t.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род;0:-");
-        t.add("Формы => 1:-");
-        z = z.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон");
-        z = z.add("Лік => S:адзіночны лік;P:множны лік");
-    }
-
-    private void A_prymietnik(TagLetter t) {
-        t = t.add("Часціна мовы => A:прыметнік");
-        t.add("Тып => 0:нескланяльны").latestInParadigm();
-        t = t.add("Тып => Q:якасны;R:адносны;P:прыналежны");
-        TagLetter a = t.add("Ступень параўнання => P:станоўчая ступень параўнання;C:вышэйшая ступень параўнання;S:найвышэйшая ступень параўнання").latestInParadigm();
-
-        a.add("Прыметнік у функцыі прыслоўя => R:прыслоў'е");
-        t = a.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон");
-        TagLetter ts = t.add("Лік => S:адзіночны лік");
-        t.add("Лік => P:множны лік");
-        ts.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род");
-    }
-
-    private void V_dziejaslou(TagLetter t) {
-        t = t.add("Часціна мовы => V:дзеяслоў");
-        t = t.add("Пераходнасць => T:пераходны;I:непераходны;D:пераходны/непераходны;X:-");
-        t = t.add("Трыванне => P:закончанае трыванне;M:незакончанае трыванне");
-        t = t.add("Зваротнасць => R:зваротны;N:незваротны");
-        t = t.add("Спражэнне => 1:1-е спражэнне;2:2-е спражэнне;3:рознаспрагальны").latestInParadigm();
-
-        TagLetter casR = t.add("Час => R:цяперашні час");
-        TagLetter casM = t.add("Час => P:прошлы час");
-        TagLetter casO = t.add("Час => F:будучы час;Q:перадпрошлы час");
-        TagLetter zah = t.add("Загадны лад => I:загадны лад");
-        t.add("Інфінітыў => 0:інфінітыў");
-
-        TagLetter casRL = casR.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы");
-        casR.add("Дзеепрыслоўе => G:дзеепрыслоўе");
-        casM.add("Дзеепрыслоўе => G:дзеепрыслоўе");
-        TagLetter casOL = casO.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы");
-        zah = zah.add("Асоба => 1:1-я асоба;2:2-я асоба;3:3-я асоба;0:безасабовы");
-
-        casRL = casRL.add("Лік => S:адзіночны лік;P:множны лік");
-        casOL = casOL.add("Лік => S:адзіночны лік;P:множны лік");
-        zah = zah.add("Лік => S:адзіночны лік;P:множны лік");
-
-        TagLetter casMS = casM.add("Лік => S:адзіночны лік");
-        casMS.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род");
-        casM.add("Лік => P:множны лік");
-    }
-
-    private void P_dziejeprymietnik(TagLetter t) {
-        t = t.add("Часціна мовы => P:дзеепрыметнік");
-        t = t.add("Стан => A:незалежны стан;P:залежны стан");
-        t = t.add("Час => R:цяперашні час;P:прошлы час");
-        TagLetter pt = t.add("Трыванне => P:закончанае трыванне;M:незакончанае трыванне")
-                .latestInParadigm();
-
-        t = pt.add("Склон => N:назоўны склон;G:родны склон;D:давальны склон;A:вінавальны склон;I:творны склон;L:месны склон;H:-");
-        TagLetter ts = t.add("Лік => S:адзіночны лік");
-        ts.add("Род => M:мужчынскі род;F:жаночы род;N:ніякі род");
-        t.add("Лік => P:множны лік");
-        pt.add("Кароткая форма => R:ж. і н.");
-    }
-
-    private void R_pryslouje(TagLetter t) {
-        t = t.add("Часціна мовы => R:прыслоўе");
-        t = t.add(
-                "Спосаб утварэння => N:утворана ад назоўніка;A:утворана ад прыметніка;M:утворана ад лічэбніка;S:утворана ад займенніка;G:утворана ад дзеепрыслоўя;V:утворана ад дзеяслова;E:утворана ад часціцы;I:утворана ад прыназоўніка;X:-")
-                .latestInParadigm();
-
-        t = t.add("Ступень параўнання => P:станоўчая ступень параўнання;C:вышэйшая ступень параўнання;S:найвышэйшая ступень параўнання");
-    }
-
-    private void C_zlucnik(TagLetter t) {
-        t = t.add("Часціна мовы => C:злучнік");
-        TagLetter s = t.add("Тып => S:падпарадкавальны");
-        TagLetter k = t.add("Тып => K:злучальны");
-        t.add("Тып => P:паясняльны").latestInParadigm();
-        s.add("Падпарадкавальны => B:прычынны;C:часавы;D:умоўны;F:мэтавы;G:уступальны;H:параўнальны;K:следства;X:-")
-                .latestInParadigm();
-        k.add("Злучальны => A:спалучальны;E:супастаўляльны;O:пералічальна-размеркавальны;L:далучальны;U:градацыйны;X:-")
-                .latestInParadigm();
-    }
-
-    private void I_prynazounik(TagLetter t) {
-        t.add("Часціна мовы => I:прыназоўнік").latestInParadigm();
-    }
-
-    private void E_cascica(TagLetter t) {
-        t.add("Часціна мовы => E:часціца").latestInParadigm();
-    }
-
-    private void Y_vyklicnik(TagLetter t) {
-        t.add("Часціна мовы => Y:выклічнік").latestInParadigm();
-    }
-
-    private void Z_pabocnaje(TagLetter t) {
-        t.add("Часціна мовы => Z:пабочнае слова").latestInParadigm();
-    }
-
-    private void W_predykatyu(TagLetter t) {
-        t.add("Часціна мовы => W:прэдыкатыў").latestInParadigm();
-    }
-
-    private void F_castki(TagLetter t) {
-        t = t.add("Часціна мовы => F:частка слова");
-        t.add("Тып => P:прыстаўка;F:1-я састаўная частка складаных слоў;S:2-я састаўная частка складаных слоў")
-                .latestInParadigm();
     }
 }

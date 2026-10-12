@@ -1,10 +1,13 @@
 package org.alex73.grammardb.utils;
 
-import java.io.FileWriter;
-import java.io.PrintWriter;
-
 import org.alex73.grammardb.tags.BelarusianTags;
 import org.alex73.grammardb.tags.TagLetter;
+
+import java.io.File;
+import java.io.FileWriter;
+import java.io.PrintWriter;
+import java.nio.file.Files;
+import java.nio.file.Path;
 
 /**
  * This code exports list of grammar tags into graph for GraphViz visualization.
@@ -50,7 +53,11 @@ public class ExportGraphviz {
 
     public static void main(String[] args) throws Exception {
         BelarusianTags tags = new BelarusianTags();
-        writer = new PrintWriter(new FileWriter("tags.dot"));
+
+        Path temp = Files.createTempFile("tags", ".dot");
+        temp.toFile().deleteOnExit();
+
+        writer = new PrintWriter(new FileWriter(temp.toFile()));
         writer.println("digraph BelarusianGrammar {");
         writer.println("  rankdir=LR;");
         writer.println("  graph [pad=0.5];");
@@ -64,6 +71,15 @@ public class ExportGraphviz {
         writer.println("}");
         writer.close();
 
-        System.out.println("Output file created, run Graphviz: dot -Gsize=10,15 -Tsvg tags.dot > tags.svg");
+        int exitCode = new ProcessBuilder("dot", "-Gsize=10,15", "-Tsvg", temp.toString())
+                .redirectOutput(new File("tags.svg"))
+                .redirectError(ProcessBuilder.Redirect.INHERIT)
+                .start()
+                .waitFor();
+        if (exitCode != 0) {
+            throw new RuntimeException("dot failed with exit code " + exitCode);
+        }
+
+        System.out.println("Output file created: tags.svg");
     }
 }

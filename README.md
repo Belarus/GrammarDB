@@ -20,3 +20,13 @@
 - «Тлумачальны слоўнік беларускай літаратурнай мовы» (2016)
 
 База даступная ў двух варыянтах: [вэб-інтэрфейс](https://bnkorpus.info/grammar.be.html) для карыстальнікаў і [XML-файлы](https://github.com/Belarus/GrammarDB/releases) для распрацоўшчыкаў, якія распаўсюджваюцца на ўмовах ліцэнзіі Creative Commons Attribution/Share-Alike 4.0.
+
+## Граматычная база выкарыстоўваецца ў праектах:
+
+- [Нацыянальны корпус беларускай мовы](https://github.com/alex73/Software-Korpus)
+- [LanguageTool](https://github.com/languagetool-org/languagetool) / https://github.com/Belarus/GrammarDB/tree/master/spell-languagetool
+- TODO: [UniMorph](https://unimorph.github.io/) / https://github.com/unimorph/bel
+- TODO: https://github.com/apache/lucene
+- TODO: https://github.com/morfologik/morfologik-stemming
+- TODO: hunspell
+- LibreOffice

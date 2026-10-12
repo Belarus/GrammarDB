@@ -299,51 +299,55 @@ public class CheckGrammarDB {
     }
 
     void checkNFormsCountSubst(Paradigm p, Variant v) {
-        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(0) == 'M').count() > 0) {
-            checkFormsCount(1, v, "MNS");
-            checkFormsCount(1, v, "MGS");
-            checkFormsCount(1, v, "MDS");
-            checkFormsCount(1, v, "MAS");
-            checkFormsCount(1, v, "MIS");
-            checkFormsCount(1, v, "MLS");
-            checkFormsCount(0, v, "MVS");
+        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(1) == 'S' && f.getTag().charAt(2) == 'M').count() > 0) {
+            // мужчынскі род
+            checkFormsCount(1, v, "NSM");
+            checkFormsCount(1, v, "GSM");
+            checkFormsCount(1, v, "DSM");
+            checkFormsCount(1, v, "ASM");
+            checkFormsCount(1, v, "ISM");
+            checkFormsCount(1, v, "LSM");
+            checkFormsCount(0, v, "VSM");
         }
-        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(0) == 'F').count() > 0) {
-            checkFormsCount(1, v, "FNS");
-            checkFormsCount(1, v, "FGS");
-            checkFormsCount(1, v, "FDS");
-            checkFormsCount(1, v, "FAS");
-            checkFormsCount(2, v, "FIS");
-            checkFormsCount(1, v, "FLS");
-            checkFormsCount(0, v, "FVS");
+        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(1) == 'S' && f.getTag().charAt(2) == 'F').count() > 0) {
+            // жаночы род
+            checkFormsCount(1, v, "NSF");
+            checkFormsCount(1, v, "GSF");
+            checkFormsCount(1, v, "DSF");
+            checkFormsCount(1, v, "ASF");
+            checkFormsCount(2, v, "ISF");
+            checkFormsCount(1, v, "LSF");
+            checkFormsCount(0, v, "VSF");
         }
-        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(0) == 'N').count() > 0) {
-            checkFormsCount(1, v, "NNS");
-            checkFormsCount(1, v, "NGS");
-            checkFormsCount(1, v, "NDS");
-            checkFormsCount(1, v, "NAS");
-            checkFormsCount(1, v, "NIS");
-            checkFormsCount(1, v, "NLS");
-            checkFormsCount(0, v, "NVS");
+        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(1) == 'S' && f.getTag().charAt(2) == 'N').count() > 0) {
+            // ніякі род
+            checkFormsCount(1, v, "NSN");
+            checkFormsCount(1, v, "GSN");
+            checkFormsCount(1, v, "DSN");
+            checkFormsCount(1, v, "ASN");
+            checkFormsCount(1, v, "ISN");
+            checkFormsCount(1, v, "LSN");
+            checkFormsCount(0, v, "VSN");
         }
-        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(0) == 'P').count() > 0) {
-            checkFormsCount(1, v, "PNP");
-            checkFormsCount(1, v, "PGP");
-            checkFormsCount(1, v, "PDP");
-            checkFormsCount(1, v, "PAP");
-            checkFormsCount(1, v, "PIP");
-            checkFormsCount(1, v, "PLP");
-            checkFormsCount(0, v, "PVP");
+        if (v.getForm().stream().filter(f -> f.getType() == null && f.getTag().charAt(1) == 'P').count() > 0) {
+            // множны лік
+            checkFormsCount(1, v, "NP");
+            checkFormsCount(1, v, "GP");
+            checkFormsCount(1, v, "DP");
+            checkFormsCount(1, v, "AP");
+            checkFormsCount(1, v, "IP");
+            checkFormsCount(1, v, "LP");
+            checkFormsCount(0, v, "VP");
         }
     }
     void checkNFormsCountUSubst(Paradigm p, Variant v) {
-        checkFormsCount(1, v, "PNP");
-        checkFormsCount(1, v, "PGP");
-        checkFormsCount(1, v, "PDP");
-        checkFormsCount(1, v, "PAP");
-        checkFormsCount(1, v, "PIP");
-        checkFormsCount(1, v, "PLP");
-        checkFormsCount(0, v, "PVP");
+        checkFormsCount(1, v, "NP");
+        checkFormsCount(1, v, "GP");
+        checkFormsCount(1, v, "DP");
+        checkFormsCount(1, v, "AP");
+        checkFormsCount(1, v, "IP");
+        checkFormsCount(1, v, "LP");
+        checkFormsCount(0, v, "VP");
     }
     void checkNFormsCountZvycaynyjaS(Paradigm p, Variant v, char rod, char sklaniennie) {
         checkFormsCount(1,v,"NS");

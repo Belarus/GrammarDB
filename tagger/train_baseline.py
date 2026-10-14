@@ -10,9 +10,10 @@ form of the same lexeme leaks between train and val/test
 
 Usage
 -----
-    /home/alex/.venv/bin/python3 train_baseline.py \\
-        --forms forms.tsv --tag-tree tag_tree.json \\
-        --out artifacts/baseline [--limit-train N] [--max-positions-per-tag K]
+    python3 train_baseline.py \
+        --forms forms.tsv --tag-tree tag_tree.json \
+        --out artifacts/baseline.zip [--limit-train N] [--max-positions-per-tag K] \
+        [--n-estimators 200] [--lr 0.1] [--early-stopping-rounds 15]
 
 Run with a small ``--limit-train``/``--limit-eval`` for a quick smoke test;
 omit them (or pass 0) to train on the full dataset.
@@ -20,6 +21,7 @@ omit them (or pass 0) to train on the full dataset.
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 import random
 import sys
@@ -34,6 +36,58 @@ from common.baseline_model import BaselineModel
 from common.dataset import iter_split
 from common.masking import MaskedExample, sample_masked_examples
 from common.tag_tree import TagTree
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+
+def plot_baseline_loss_curves(group_histories: Dict[str, dict], out_path: Path) -> None:
+    """Plot multi-panel training and validation loss curves for all categories."""
+    plottable = {
+        g: h
+        for g, h in group_histories.items()
+        if h and h.get("train_losses") and len(h["train_losses"]) > 0
+    }
+    if not plottable:
+        return
+
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    num_groups = len(plottable)
+    cols = 4 if num_groups >= 10 else (3 if num_groups >= 5 else 2)
+    rows = (num_groups + cols - 1) // cols
+
+    fig, axes = plt.subplots(rows, cols, figsize=(4.5 * cols, 3.2 * rows), squeeze=False)
+    axes_flat = axes.flatten()
+
+    for idx, (group, h) in enumerate(plottable.items()):
+        ax = axes_flat[idx]
+        train_l = h["train_losses"]
+        val_l = h.get("val_losses", [])
+        best_it = h.get("best_iteration", len(train_l))
+        tot_it = h.get("total_iterations", len(train_l))
+        iters = list(range(1, len(train_l) + 1))
+
+        ax.plot(iters, train_l, label="Train", color="#1f77b4", linewidth=1.5)
+        if val_l and len(val_l) == len(train_l):
+            ax.plot(iters, val_l, label="Val", color="#ff7f0e", linewidth=1.5)
+        if 0 < best_it <= len(train_l):
+            ax.axvline(best_it, color="red", linestyle="--", alpha=0.8, label=f"Best ({best_it})")
+
+        ax.set_title(f"{group}\n(best={best_it}, total={tot_it})", fontsize=10)
+        ax.set_xlabel("Tree", fontsize=8)
+        ax.set_ylabel("Loss", fontsize=8)
+        ax.tick_params(labelsize=8)
+        ax.grid(True, linestyle="--", alpha=0.4)
+        ax.legend(fontsize=7, loc="upper right")
+
+    for idx in range(num_groups, len(axes_flat)):
+        axes_flat[idx].set_visible(False)
+
+    plt.suptitle("LightGBM Baseline: Training vs Validation Loss per Category", fontsize=13, y=1.01)
+    plt.tight_layout()
+    plt.savefig(out_path, dpi=150, bbox_inches="tight")
+    plt.close()
+    print(f"saved loss plot -> {out_path}", file=sys.stderr)
 
 
 def collect_examples(
@@ -92,7 +146,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--forms", default="forms.tsv")
     parser.add_argument("--tag-tree", default="tag_tree.json")
-    parser.add_argument("--out", default="artifacts/baseline")
+    parser.add_argument("--out", default="artifacts/baseline.zip")
     parser.add_argument(
         "--limit-train",
         type=int,
@@ -110,6 +164,24 @@ def main() -> None:
         type=int,
         default=3,
         help="max masked positions sampled per tag, to avoid over-weighting long tags",
+    )
+    parser.add_argument(
+        "--n-estimators",
+        type=int,
+        default=1000,
+        help="max boosting iterations / trees per group (default: 1000)",
+    )
+    parser.add_argument(
+        "--lr",
+        type=float,
+        default=0.04,
+        help="learning rate for LightGBM (default: 0.04)",
+    )
+    parser.add_argument(
+        "--early-stopping-rounds",
+        type=int,
+        default=15,
+        help="early stopping patience in rounds on val set (default: 15, 0 to disable)",
     )
     parser.add_argument("--seed", type=int, default=0)
     args = parser.parse_args()
@@ -132,19 +204,77 @@ def main() -> None:
     for ex in train_examples:
         by_group[ex.group].append(ex)
 
-    model = BaselineModel(tree)
+    val_by_group: Dict[str, List[MaskedExample]] = defaultdict(list)
+    for ex in val_examples:
+        val_by_group[ex.group].append(ex)
+
+    out_arg = Path(args.out)
+    if str(out_arg).endswith(".zip"):
+        out_zip = out_arg
+        out_dir = out_zip.parent
+    elif out_arg.is_dir() and out_arg.name != "baseline":
+        out_zip = out_arg / "baseline.zip"
+        out_dir = out_arg
+    else:
+        out_zip = out_arg.with_suffix(".zip") if out_arg.name == "baseline" else Path(f"{args.out}.zip")
+        out_dir = out_zip.parent
+
+    out_dir.mkdir(parents=True, exist_ok=True)
+    csv_path = out_dir / "baseline_loss.csv"
+    csv_file = open(csv_path, "w", newline="", encoding="utf-8")
+    csv_writer = csv.writer(csv_file)
+    csv_writer.writerow(
+        ["group", "iteration", "train_loss", "val_loss", "best_iteration", "total_iterations", "is_best"]
+    )
+    csv_file.flush()
+
+    model = BaselineModel(
+        tree,
+        n_estimators=args.n_estimators,
+        learning_rate=args.lr,
+        early_stopping_rounds=args.early_stopping_rounds,
+    )
     fit_report: Dict[str, dict] = {}
+    all_group_histories: Dict[str, dict] = {}
+
     for group, examples in by_group.items():
+        val_grp = val_by_group.get(group, [])
         print(
-            f"  fit group={group!r} n={len(examples)} ...",
+            f"  fit group={group!r} n={len(examples)} (val={len(val_grp)}) ...",
             file=sys.stderr,
         )
-        fit_report[group] = model.fit_group(group, examples)
+        report = model.fit_group(group, examples, val_examples=val_grp)
+        all_group_histories[group] = report
+        fit_report[group] = {
+            k: v for k, v in report.items() if k not in ("train_losses", "val_losses")
+        }
+
+        train_losses = report.get("train_losses", [])
+        val_losses = report.get("val_losses", [])
+        best_iter = report.get("best_iteration", 0)
+        tot_iter = report.get("total_iterations", 0)
+
+        if train_losses:
+            for it in range(len(train_losses)):
+                tr = f"{train_losses[it]:.6f}"
+                vl = f"{val_losses[it]:.6f}" if it < len(val_losses) else ""
+                is_best = it + 1 == best_iter
+                csv_writer.writerow([group, it + 1, tr, vl, best_iter, tot_iter, is_best])
+        else:
+            csv_writer.writerow([group, 0, "", "", 0, 0, True])
+        csv_file.flush()
+
+        stopped_info = (
+            f" best_iter={best_iter}/{tot_iter}"
+            if not report.get("constant")
+            else " constant"
+        )
         print(
-            f"  fit group={group!r} n={len(examples)} -> {fit_report[group]}",
+            f"  fit group={group!r} -> train_acc={report.get('train_accuracy', 0):.4f}{stopped_info}",
             file=sys.stderr,
         )
 
+    csv_file.close()
     print("  fit groups done", file=sys.stderr)
 
     val_report = evaluate(model, val_examples) if val_examples else {}
@@ -152,9 +282,8 @@ def main() -> None:
     test_report = evaluate(model, test_examples) if test_examples else {}
     print("  test groups done", file=sys.stderr)
 
-    out_dir = Path(args.out)
-    model.save(out_dir)
-    metrics_path = out_dir.parent / "baseline_metrics.json"
+    model.save(out_zip)
+    metrics_path = out_dir / "baseline_metrics.json"
     metrics_path.parent.mkdir(parents=True, exist_ok=True)
     with open(metrics_path, "w", encoding="utf-8") as f:
         json.dump(
@@ -169,8 +298,12 @@ def main() -> None:
             indent=2,
         )
 
-    print(f"saved model -> {out_dir}")
+    plot_path = out_dir / "baseline_loss.png"
+    plot_baseline_loss_curves(all_group_histories, plot_path)
+
+    print(f"saved model -> {out_zip}")
     print(f"saved metrics -> {metrics_path}")
+    print(f"saved loss csv -> {csv_path}")
     if val_report:
         print(f"val overall accuracy: {val_report['__overall__']['accuracy']:.4f}")
     if test_report:

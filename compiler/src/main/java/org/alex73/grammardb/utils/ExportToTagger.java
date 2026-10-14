@@ -17,7 +17,11 @@ import java.util.LinkedHashMap;
 import java.util.Map;
 
 /**
- * Экспартуе звесткі для tagger.
+ * Экспартуе звесткі для tagger:
+ * <ul>
+ *   <li>{@code tagger/tag_tree.json} — іерархічнае дрэва граматычных тэгаў у фармаце JSON (групы і апісанні літар, без сімвалаў 'X' і '+').</li>
+ *   <li>{@code tagger/forms.tsv} — спіс словаформ у фармаце TSV: {@code форма \t лема \t тэг} (словы без націску; прапускаюцца пустыя формы і тэгі з 'X' і '+').</li>
+ * </ul>
  */
 public class ExportToTagger {
 

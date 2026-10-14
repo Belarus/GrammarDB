@@ -22,7 +22,7 @@ Usage:
         [--input /home/alex/gits/GrammarDB/fixtag.tsv] \
         [--output /home/alex/gits/GrammarDB/fixtag-fixed.tsv] \
         [--tag-tree tag_tree.json] \
-        [--baseline-dir artifacts/baseline] \
+        [--baseline-model artifacts/baseline.zip] \
         [--bilstm-checkpoint artifacts/bilstm.pt] \
         [--batch-size 1000]
 """
@@ -306,7 +306,11 @@ def main() -> None:
         help="Output TSV file path",
     )
     parser.add_argument("--tag-tree", default="tag_tree.json")
-    parser.add_argument("--baseline-dir", default="artifacts/baseline")
+    parser.add_argument(
+        "--baseline-model",
+        default="artifacts/baseline.zip",
+        help="Path to Baseline model zip archive (default: artifacts/baseline.zip)",
+    )
     parser.add_argument("--bilstm-checkpoint", default="artifacts/bilstm.pt")
     parser.add_argument("--batch-size", type=int, default=1000)
     parser.add_argument("--device", default=None)
@@ -327,8 +331,8 @@ def main() -> None:
     print(f"Loading TagTree from {args.tag_tree}...")
     tree = TagTree.load(args.tag_tree)
 
-    print(f"Loading Baseline model from {args.baseline_dir}...")
-    baseline = BaselineModel.load(args.baseline_dir, tree)
+    print(f"Loading Baseline model from {args.baseline_model}...")
+    baseline = BaselineModel.load(args.baseline_model, tree)
 
     print(f"Loading BiLSTM model from {args.bilstm_checkpoint} (device={device})...")
     bilstm, char_vocab, codec = load_checkpoint(args.bilstm_checkpoint, tree, device=device)

@@ -268,12 +268,17 @@ pooling-у (гл. ніжэй).
    тэга, а не адвольныя пазіцыі).
 3. Рэалізаваць baseline (CRF/gradient boosting) для ацэнкі базавай якасці.
    **Рэалізавана**: `train_baseline.py` + `common/baseline_model.py` —
-   LightGBM, асобная мадэль на кожную групу дрэва тэгаў.
+   LightGBM, асобная мадэль на кожную групу дрэва тэгаў з раннім прыпынкам (Early Stopping)
+   па валідацыйнай выбарцы (`--early-stopping-rounds`), захаваннем аптымальных дрэў у zip-архіў (`baseline.zip`),
+   выгрузкай паітэрацыйнай дынамікі страт у `baseline_loss.csv`, захаваннем мульты-панэльнага
+   графіка `baseline_loss.png` і запісам метрык і кропак прыпынку ў `baseline_metrics.json`.
 4. Рэалізаваць BiLSTM-мадэль з tree-constrained softmax-галовамі.
    **Рэалізавана**: `train_bilstm.py` + `common/bilstm_model.py` — адзіная
    нейрасетка (адзіны shared BiLSTM-энкодэр слова+лемы, адзіны shared
    decoder-цыкл па пазіцыях тэга, адзіная агульная masked-softmax галава
-   на ўвесь алфавіт).
+   на ўвесь алфавіт). Пасля кожнай эпохі вылічваецца `train_loss` і `val_loss`,
+   гісторыя пішацца ў рэальным часе ў `bilstm_loss.csv`, будуецца графік крывых навучання
+   `bilstm_loss.png` і фіксуюцца выніковыя паказчыкі ў `bilstm_metrics.json`.
 5. Параўнаць baseline і нейрасетку на held-out выбарцы (па словах, каб
    пазбегнуць уцечкі формаў аднаго слова паміж train/test).
    **Рэалізавана**: `evaluate_compare.py` + `common/splits.py` (split па

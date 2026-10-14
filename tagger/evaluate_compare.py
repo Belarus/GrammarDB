@@ -19,9 +19,9 @@ Both models are evaluated identically, in two complementary ways:
 
 Usage
 -----
-    /home/alex/.venv/bin/python3 evaluate_compare.py \\
-        --forms forms.tsv --tag-tree tag_tree.json \\
-        --baseline-dir artifacts/baseline --bilstm-checkpoint artifacts/bilstm.pt \\
+    /home/alex/.venv/bin/python3 evaluate_compare.py \
+        --forms forms.tsv --tag-tree tag_tree.json \
+        --baseline-model artifacts/baseline.zip --bilstm-checkpoint artifacts/bilstm.pt \
         --split test [--limit N] [--max-positions-per-tag K]
 """
 from __future__ import annotations
@@ -40,7 +40,7 @@ import torch
 
 from common.baseline_model import BaselineModel
 from common.bilstm_model import load_checkpoint
-from common.dataset import FormRow, iter_split
+from common.dataset import iter_split
 from common.masking import sample_masked_examples
 from common.tag_tree import TagTree
 
@@ -104,7 +104,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--forms", default="forms.tsv")
     parser.add_argument("--tag-tree", default="tag_tree.json")
-    parser.add_argument("--baseline-dir", default="artifacts/baseline")
+    parser.add_argument(
+        "--baseline-model",
+        default="artifacts/baseline.zip",
+        help="path to baseline zip file (default: artifacts/baseline.zip)",
+    )
     parser.add_argument("--bilstm-checkpoint", default="artifacts/bilstm.pt")
     parser.add_argument("--split", default="test", choices=["train", "val", "test"])
     parser.add_argument("--limit", type=int, default=0, help="cap on forms.tsv rows read (0 = all)")
@@ -121,7 +125,7 @@ def main() -> None:
     rng = random.Random(args.seed)
     tree = TagTree.load(args.tag_tree)
 
-    baseline = BaselineModel.load(args.baseline_dir, tree)
+    baseline = BaselineModel.load(args.baseline_model, tree)
     bilstm, char_vocab, codec = load_checkpoint(args.bilstm_checkpoint, tree)
 
     next_letter_report = {

@@ -1,0 +1,605 @@
+{
+  "fit": {
+    "Часціна мовы": {
+      "n_examples": 1612182,
+      "n_classes": 12,
+      "constant": false,
+      "train_accuracy": 0.8978241910652768,
+      "best_iteration": 328,
+      "total_iterations": 343,
+      "best_train_loss": 0.16608211387780059,
+      "best_val_loss": 0.17147286486509714,
+      "early_stopped": true
+    },
+    "Лік": {
+      "n_examples": 1558447,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.9994757601638041,
+      "best_iteration": 552,
+      "total_iterations": 567,
+      "best_train_loss": 0.0012815526319186086,
+      "best_val_loss": 0.002465679196722781,
+      "early_stopped": true
+    },
+    "Форма": {
+      "n_examples": 863,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.8609501738122828,
+      "best_iteration": 187,
+      "total_iterations": 202,
+      "best_train_loss": 0.2966120262738676,
+      "best_val_loss": 0.3310861396866454,
+      "early_stopped": true
+    },
+    "Склон": {
+      "n_examples": 1349975,
+      "n_classes": 8,
+      "constant": false,
+      "train_accuracy": 0.5930902424118966,
+      "best_iteration": 489,
+      "total_iterations": 504,
+      "best_train_loss": 0.7106387951146601,
+      "best_val_loss": 0.7197376988443571,
+      "early_stopped": true
+    },
+    "Значэнне": {
+      "n_examples": 865,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.9988439306358381,
+      "best_iteration": 57,
+      "total_iterations": 72,
+      "best_train_loss": 0.0559231708644884,
+      "best_val_loss": 0.3096740177638958,
+      "early_stopped": true
+    },
+    "Род": {
+      "n_examples": 1095816,
+      "n_classes": 5,
+      "constant": false,
+      "train_accuracy": 0.843147024682976,
+      "best_iteration": 51,
+      "total_iterations": 66,
+      "best_train_loss": 0.44840351813919777,
+      "best_val_loss": 0.44595122312510244,
+      "early_stopped": true
+    },
+    "Словазмяненне": {
+      "n_examples": 1621,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.9808760024676126,
+      "best_iteration": 103,
+      "total_iterations": 118,
+      "best_train_loss": 0.05255122206188027,
+      "best_val_loss": 0.2884050090555121,
+      "early_stopped": true
+    },
+    "Нескланяльны": {
+      "n_examples": 2,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Разрад": {
+      "n_examples": 770,
+      "n_classes": 7,
+      "constant": false,
+      "train_accuracy": 0.8428571428571429,
+      "best_iteration": 23,
+      "total_iterations": 38,
+      "best_train_loss": 0.6526741543391044,
+      "best_val_loss": 1.4132685015358826,
+      "early_stopped": true
+    },
+    "Асоба": {
+      "n_examples": 137844,
+      "n_classes": 4,
+      "constant": false,
+      "train_accuracy": 0.9999709816894461,
+      "best_iteration": 150,
+      "total_iterations": 165,
+      "best_train_loss": 0.00038858282644778835,
+      "best_val_loss": 0.0018582725383229698,
+      "early_stopped": true
+    },
+    "Формы": {
+      "n_examples": 2,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Спосаб утварэння": {
+      "n_examples": 7842,
+      "n_classes": 6,
+      "constant": false,
+      "train_accuracy": 0.9978321856669217,
+      "best_iteration": 95,
+      "total_iterations": 110,
+      "best_train_loss": 0.010351442324412303,
+      "best_val_loss": 0.007609145520383464,
+      "early_stopped": true
+    },
+    "Ступень параўнання": {
+      "n_examples": 866463,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.9963045161766861,
+      "best_iteration": 82,
+      "total_iterations": 97,
+      "best_train_loss": 0.010615155659401701,
+      "best_val_loss": 0.012764539789806375,
+      "early_stopped": true
+    },
+    "Уласнасць": {
+      "n_examples": 327027,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.9597311536967895,
+      "best_iteration": 675,
+      "total_iterations": 690,
+      "best_train_loss": 0.1119437032117139,
+      "best_val_loss": 0.14196378979505886,
+      "early_stopped": true
+    },
+    "Асабовасць": {
+      "n_examples": 326283,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.9830515227578513,
+      "best_iteration": 272,
+      "total_iterations": 287,
+      "best_train_loss": 0.04517924138075338,
+      "best_val_loss": 0.057129245407118695,
+      "early_stopped": true
+    },
+    "Скланенне": {
+      "n_examples": 326760,
+      "n_classes": 8,
+      "constant": false,
+      "train_accuracy": 0.9995960337862652,
+      "best_iteration": 125,
+      "total_iterations": 140,
+      "best_train_loss": 0.002095684287658361,
+      "best_val_loss": 0.016363983901609435,
+      "early_stopped": true
+    },
+    "Скарачэнне": {
+      "n_examples": 325559,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.9150169400938079,
+      "best_iteration": 383,
+      "total_iterations": 398,
+      "best_train_loss": 0.22990823106616154,
+      "best_val_loss": 0.2602878688851439,
+      "early_stopped": true
+    },
+    "Адушаўлёнасць": {
+      "n_examples": 326619,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.8954408653507604,
+      "best_iteration": 996,
+      "total_iterations": 1000,
+      "best_train_loss": 0.23171373787765154,
+      "best_val_loss": 0.2831237145441726,
+      "early_stopped": false
+    },
+    "Множналікавыя": {
+      "n_examples": 12991,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Субстантываванасць": {
+      "n_examples": 4231,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.998345544788466,
+      "best_iteration": 102,
+      "total_iterations": 117,
+      "best_train_loss": 0.012178234361505632,
+      "best_val_loss": 0.02853283414844173,
+      "early_stopped": true
+    },
+    "Трыванне": {
+      "n_examples": 417740,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 0.7952937233686025,
+      "best_iteration": 497,
+      "total_iterations": 512,
+      "best_train_loss": 0.43894077757038596,
+      "best_val_loss": 0.45439298344426426,
+      "early_stopped": true
+    },
+    "Час": {
+      "n_examples": 358913,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.9999972138094747,
+      "best_iteration": 586,
+      "total_iterations": 601,
+      "best_train_loss": 7.131700154764879e-06,
+      "best_val_loss": 8.531235769933636e-06,
+      "early_stopped": true
+    },
+    "Стан": {
+      "n_examples": 169111,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 1.0,
+      "best_iteration": 1000,
+      "total_iterations": 1000,
+      "best_train_loss": 8.514659927906538e-06,
+      "best_val_loss": 1.0973831929273078e-05,
+      "early_stopped": false
+    },
+    "Кароткая форма": {
+      "n_examples": 5002,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Тып": {
+      "n_examples": 856878,
+      "n_classes": 4,
+      "constant": false,
+      "train_accuracy": 0.8509589463144112,
+      "best_iteration": 218,
+      "total_iterations": 233,
+      "best_train_loss": 0.36705257827324755,
+      "best_val_loss": 0.3926625336479298,
+      "early_stopped": true
+    },
+    "Прыметнік у функцыі прыслоўя": {
+      "n_examples": 4,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Інфінітыў": {
+      "n_examples": 22187,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Зваротнасць": {
+      "n_examples": 248311,
+      "n_classes": 2,
+      "constant": false,
+      "train_accuracy": 1.0,
+      "best_iteration": 1000,
+      "total_iterations": 1000,
+      "best_train_loss": 1.8606688654875495e-08,
+      "best_val_loss": 1.5930432427014878e-08,
+      "early_stopped": false
+    },
+    "Спражэнне": {
+      "n_examples": 248175,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.9804331620832074,
+      "best_iteration": 539,
+      "total_iterations": 554,
+      "best_train_loss": 0.050016604447311104,
+      "best_val_loss": 0.05880120257755035,
+      "early_stopped": true
+    },
+    "Пераходнасць": {
+      "n_examples": 247738,
+      "n_classes": 3,
+      "constant": false,
+      "train_accuracy": 0.869543630771218,
+      "best_iteration": 811,
+      "total_iterations": 826,
+      "best_train_loss": 0.3391203911373229,
+      "best_val_loss": 0.38348512987753824,
+      "early_stopped": true
+    },
+    "Загадны лад": {
+      "n_examples": 36367,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    },
+    "Дзеепрыслоўе": {
+      "n_examples": 19182,
+      "n_classes": 1,
+      "constant": true,
+      "best_iteration": 0,
+      "total_iterations": 0,
+      "train_accuracy": 1.0,
+      "early_stopped": false,
+      "best_train_loss": null,
+      "best_val_loss": null
+    }
+  },
+  "val": {
+    "Інфінітыў": {
+      "accuracy": 1.0,
+      "n": 2775
+    },
+    "Адушаўлёнасць": {
+      "accuracy": 0.8678341237991001,
+      "n": 41115
+    },
+    "Асабовасць": {
+      "accuracy": 0.9766803840877915,
+      "n": 40824
+    },
+    "Асоба": {
+      "accuracy": 0.9997136147545679,
+      "n": 17459
+    },
+    "Дзеепрыслоўе": {
+      "accuracy": 1.0,
+      "n": 2386
+    },
+    "Загадны лад": {
+      "accuracy": 1.0,
+      "n": 4551
+    },
+    "Зваротнасць": {
+      "accuracy": 1.0,
+      "n": 31070
+    },
+    "Значэнне": {
+      "accuracy": 0.9147286821705426,
+      "n": 129
+    },
+    "Кароткая форма": {
+      "accuracy": 1.0,
+      "n": 581
+    },
+    "Лік": {
+      "accuracy": 0.9988607555961533,
+      "n": 194866
+    },
+    "Множналікавыя": {
+      "accuracy": 1.0,
+      "n": 1619
+    },
+    "Пераходнасць": {
+      "accuracy": 0.8529032258064516,
+      "n": 31000
+    },
+    "Разрад": {
+      "accuracy": 0.45394736842105265,
+      "n": 152
+    },
+    "Род": {
+      "accuracy": 0.8470111744052216,
+      "n": 137278
+    },
+    "Скарачэнне": {
+      "accuracy": 0.907708109165607,
+      "n": 40892
+    },
+    "Скланенне": {
+      "accuracy": 0.9960000981571004,
+      "n": 40751
+    },
+    "Склон": {
+      "accuracy": 0.5748961747340772,
+      "n": 169034
+    },
+    "Словазмяненне": {
+      "accuracy": 0.9,
+      "n": 280
+    },
+    "Спосаб утварэння": {
+      "accuracy": 0.9980237154150198,
+      "n": 1012
+    },
+    "Спражэнне": {
+      "accuracy": 0.9791303786852461,
+      "n": 31002
+    },
+    "Стан": {
+      "accuracy": 1.0,
+      "n": 20734
+    },
+    "Ступень параўнання": {
+      "accuracy": 0.9963707349261774,
+      "n": 109113
+    },
+    "Субстантываванасць": {
+      "accuracy": 0.9951377633711507,
+      "n": 617
+    },
+    "Трыванне": {
+      "accuracy": 0.7882224984462399,
+      "n": 51488
+    },
+    "Тып": {
+      "accuracy": 0.8401639344262295,
+      "n": 108336
+    },
+    "Уласнасць": {
+      "accuracy": 0.9509244859167099,
+      "n": 40509
+    },
+    "Форма": {
+      "accuracy": 0.8382352941176471,
+      "n": 136
+    },
+    "Час": {
+      "accuracy": 1.0,
+      "n": 44216
+    },
+    "Часціна мовы": {
+      "accuracy": 0.8984931337374737,
+      "n": 202075
+    },
+    "__overall__": {
+      "accuracy": 0.8829568081991215,
+      "n": 1366000
+    }
+  },
+  "test": {
+    "Інфінітыў": {
+      "accuracy": 1.0,
+      "n": 2752
+    },
+    "Адушаўлёнасць": {
+      "accuracy": 0.8683331301060846,
+      "n": 41005
+    },
+    "Асабовасць": {
+      "accuracy": 0.976145408658513,
+      "n": 41208
+    },
+    "Асоба": {
+      "accuracy": 0.9995356127009927,
+      "n": 17227
+    },
+    "Дзеепрыслоўе": {
+      "accuracy": 1.0,
+      "n": 2372
+    },
+    "Загадны лад": {
+      "accuracy": 1.0,
+      "n": 4495
+    },
+    "Зваротнасць": {
+      "accuracy": 1.0,
+      "n": 30905
+    },
+    "Значэнне": {
+      "accuracy": 0.9124087591240876,
+      "n": 137
+    },
+    "Кароткая форма": {
+      "accuracy": 1.0,
+      "n": 611
+    },
+    "Лік": {
+      "accuracy": 0.9990927543363267,
+      "n": 195096
+    },
+    "Множналікавыя": {
+      "accuracy": 1.0,
+      "n": 1678
+    },
+    "Пераходнасць": {
+      "accuracy": 0.8543179460580913,
+      "n": 30848
+    },
+    "Прыметнік у функцыі прыслоўя": {
+      "accuracy": 1.0,
+      "n": 1
+    },
+    "Разрад": {
+      "accuracy": 0.25287356321839083,
+      "n": 87
+    },
+    "Род": {
+      "accuracy": 0.848071536935465,
+      "n": 137104
+    },
+    "Скарачэнне": {
+      "accuracy": 0.9133292757151552,
+      "n": 41075
+    },
+    "Скланенне": {
+      "accuracy": 0.9964101195818275,
+      "n": 41227
+    },
+    "Склон": {
+      "accuracy": 0.5753901829498302,
+      "n": 169664
+    },
+    "Словазмяненне": {
+      "accuracy": 0.8762376237623762,
+      "n": 202
+    },
+    "Спосаб утварэння": {
+      "accuracy": 0.9950248756218906,
+      "n": 1005
+    },
+    "Спражэнне": {
+      "accuracy": 0.9790608110294832,
+      "n": 30899
+    },
+    "Стан": {
+      "accuracy": 1.0,
+      "n": 21315
+    },
+    "Ступень параўнання": {
+      "accuracy": 0.9935683284131817,
+      "n": 108059
+    },
+    "Субстантываванасць": {
+      "accuracy": 1.0,
+      "n": 535
+    },
+    "Трыванне": {
+      "accuracy": 0.794830710538865,
+      "n": 52425
+    },
+    "Тып": {
+      "accuracy": 0.843191854414536,
+      "n": 106659
+    },
+    "Уласнасць": {
+      "accuracy": 0.9546283907067267,
+      "n": 41105
+    },
+    "Форма": {
+      "accuracy": 0.8,
+      "n": 140
+    },
+    "Час": {
+      "accuracy": 1.0,
+      "n": 45001
+    },
+    "Часціна мовы": {
+      "accuracy": 0.8971340331085711,
+      "n": 201398
+    },
+    "__overall__": {
+      "accuracy": 0.8834900291677493,
+      "n": 1366235
+    }
+  },
+  "elapsed_seconds": 78111.08813405037
+}

@@ -12,8 +12,8 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.TreeMap;
 
-import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
+import jakarta.xml.bind.Marshaller;
+import jakarta.xml.bind.Unmarshaller;
 
 import org.alex73.grammardb.structures.Form;
 import org.alex73.grammardb.structures.FormOptions;

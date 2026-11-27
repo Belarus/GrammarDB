@@ -17,7 +17,7 @@
 		<dependency>
 			<groupId>org.glassfish.jaxb</groupId>
 			<artifactId>jaxb-runtime</artifactId>
-			<version>2.3.9</version>
+			<version>4.0.9</version>
 			<scope>compile</scope>
 		</dependency>
 		<dependency>
@@ -39,7 +39,7 @@
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
 				<artifactId>jaxb2-maven-plugin</artifactId>
-				<version>2.5.0</version>
+				<version>4.1.0</version>
 				<executions>
 					<execution>
 						<id>xjc</id>

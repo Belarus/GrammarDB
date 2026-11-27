@@ -30,7 +30,7 @@
 							<goal>export-database</goal>
 						</goals>
 						<configuration>
-							<xmlDataDir>data</xmlDataDir>
+							<xmlDataDir>${project.basedir}/../data</xmlDataDir>
 							<exportDir>${project.build.directory}/export/</exportDir>
 							<reviewDir>${project.build.directory}/to-review-no-show/</reviewDir>
 						</configuration>
@@ -41,7 +41,7 @@
 							<goal>export-spell-checker</goal>
 						</goals>
 						<configuration>
-							<xmlDataDir>data</xmlDataDir>
+							<xmlDataDir>${project.basedir}/../data</xmlDataDir>
 							<textOutputFile2008>${project.build.directory}/export/spellchecker/slovy-2008.txt</textOutputFile2008>
 							<textOutputFile2008withStress>${project.build.directory}/export/spellchecker/slovy-2008-stress.txt</textOutputFile2008withStress>
 							<textOutputFileAll>${project.build.directory}/export/ocr/slovy.txt</textOutputFileAll>

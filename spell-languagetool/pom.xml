@@ -8,12 +8,11 @@
 	<parent>
 		<groupId>io.github.belarus</groupId>
 		<artifactId>linguistics.grammardb</artifactId>
-		<version>1.0.1</version>
+		<version>${revision}</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<artifactId>linguistics.grammardb.spell.languagetool</artifactId>
-	<version>1.0.4</version>
 	<packaging>pom</packaging>
 	<name>GrammarDB-LanguageTool</name>
 	<description>GrammarDB dictionary for LanguageTool</description>
@@ -23,7 +22,7 @@
 			<plugin>
 				<groupId>io.github.belarus</groupId>
 				<artifactId>linguistics.grammardb.compiler</artifactId>
-				<version>1.0.7</version>
+				<version>${project.version}</version>
 				<executions>
 					<execution>
 						<id>text2dict</id>

@@ -5,18 +5,17 @@
 	<parent>
 		<groupId>io.github.belarus</groupId>
 		<artifactId>linguistics.grammardb</artifactId>
-		<version>1.0.1</version>
+		<version>${revision}</version>
 		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<artifactId>linguistics.grammardb.checker</artifactId>
-	<version>1.0.2</version>
 
 	<dependencies>
 		<dependency>
 			<groupId>io.github.belarus</groupId>
 			<artifactId>linguistics.grammardb.reader</artifactId>
-			<version>1.7.0</version>
+			<version>${project.version}</version>
 		</dependency>
 	</dependencies>
 
